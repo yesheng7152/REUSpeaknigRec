@@ -1,0 +1,12 @@
+N = 1000; % number of labels/images
+total = 0;
+bsize = 100;
+blist = 1:bsize:(N-bsize+1);
+
+for batch = 1:length(blist)
+   
+    begin = blist(batch);
+    for k = begin:begin+bsize-1
+     
+    end 
+end 

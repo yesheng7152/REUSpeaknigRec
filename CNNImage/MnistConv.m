@@ -7,31 +7,32 @@ momentum1 = zeros(size(W1));
 momentum5 = zeros(size(W5));
 momentumo = zeros(size(Wo));
 
-N = length(D);
+N = length(D); % number of labels/images
 
 bsize = 100;
-blist = 1:bsize:(N-bsize+1);
+blist = 1:bsize:(N-bsize+1); % list of 1  to N-100+1(7901) increment by 100
 
-for batch = 1:length(blist)
+for batch = 1:length(blist) % for each batch(100 images) we have new dW1, dW5 and dWo
     dW1 = zeros(size(W1));
     dW5 = zeros(size(W5));
     dWo = zeros(size(Wo));
     
-    begin = blist(batch);
-    for k = begin:begin+bsize-1
+    begin = blist(batch); 
+    for k = begin:begin+bsize-1 % going through each of the 100 images in the batch
         
-        x = X(:, :, k);
-        y1 = Conv(x, W1);
+        x = X(:, :, k); % x the kth images, so the x is one 28*28 matrix
+        y1 = Conv(x, W1); % y1 is 20 of 20*20 matrix, for x after conv layer
         y2 = ReLU(y1);
-        y3 = Pool(y2);
-        y4 = reshape(y3, [], 1);
-        v5 = W5*y4;
-        y5 = ReLU(v5);
-        v = Wo*y5;
-        y = Softmax(v);
+        y3 = Pool(y2); % 10*10 matrix 20 of them for each x
+        y4 = reshape(y3, [], 1); % covert into a 2000*1 matrix, 2000 rows 
+        v5 = W5*y4; % apply the weight for the hidden layer, 100 rows
+        y5 = ReLU(v5); 
+        v = Wo*y5; % apply the output weight, 10 rows 
+        y = Softmax(v); % to clearly see the guessed number
         
-        d = zeros(10,1);
-        d(sub2ind(size(d), D(k), 1)) = 1;
+        d = zeros(10,1); % an empty of 10*1
+        d(sub2ind(size(d), D(k), 1)) = 1; % find the index of the labeled value, then set that index to 1
+        % to indicate the correct value
         
         
         
