@@ -17,10 +17,10 @@ for epoch = 1:3 % number of times the traning happens with the same X and D
     [W1, W5, Wo] = MnistConv(W1, W5, Wo, X, D); % traning process
 end
 
-save('MnistConv.mat');
+save('MnistConv.mat'); % saves the weights 
 
-X = Images(:, :, 8001:10000);
-D = Labels(8001:10000);
+X = Images(:, :, 8001:10000); % the other 2000 images
+D = Labels(8001:10000); %the rest 2000 labels 
 acc = 0;
 N = length(D);
 
@@ -29,17 +29,17 @@ for k =1:N
     y1= Conv(x,W1);
     y2 = ReLU(y1);
     y3 = Pool(y2);
-    y4 = reshape(y3, [],1);
+    y4 = reshape(y3, [],1);  % the feature extracting process
     v5 = W5*y4;
-    y5 = ReLU(v5);
+    y5 = ReLU(v5); % after the hidden layer
     v = Wo*y5;
-    y = Softmax(v);
+    y = Softmax(v); % y is a vector that contains the guess 
     
-    [~,i] = max(y);
-    if i ==D(k)
-        acc = acc+1;
+    [~,i] = max(y); % get the guess 
+    if i ==D(k)     % check the guess 
+        acc = acc+1;    % accuracy increment 
     end
 end
-acc = acc/N;
+acc = acc/N;        % provide the accuracy percentage 
 fprintf('Accuracy is %f\n', acc);
 
