@@ -54,7 +54,7 @@ if ~opt_colmajor
             else 
                 array(buf+(i-1)*(sz+buf)+(1:sz),buf+(j-1)*(sz+buf)+(1:sz))=reshape(A(:,k),sz,sz)/max(abs(A(:)));
             end 
-            k=k+1
+            k=k+1;
         end
     end
 end
