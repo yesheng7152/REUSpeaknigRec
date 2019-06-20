@@ -1,6 +1,7 @@
-function audio = loadAudio(filename)
+function [Length, Count] = loadAudio(filename)
 parentd = dir (filename); % load the parent directory 
 MinLength=Inf;
+count=1;
 subdirList=fullfile({parentd.name}');  %a cell array of all the dirctories
 [numFolder, ~]=size(subdirList);
 y= ones(numFolder, 1);
@@ -15,6 +16,7 @@ for k= 1:numFolder
             info=audioinfo(audiofile);
             length=info.Duration;
             temp(c,1)=length;
+            count=count+1;
         end
         minlength= min(temp);
         if minlength <MinLength
@@ -22,6 +24,7 @@ for k= 1:numFolder
         end 
     end 
 end 
-MinLength
+Length=MinLength;
+Count=count;
 
 
