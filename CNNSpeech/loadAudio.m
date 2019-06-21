@@ -1,15 +1,18 @@
 function [Length, Count] = loadAudio(filename)
 parentd = dir (filename); % load the parent directory 
 MinLength=Inf;
-count=1;
+count=0;
 subdirList=fullfile({parentd.name}');  %a cell array of all the dirctories
 [numFolder, ~]=size(subdirList);
-y= ones(numFolder, 1);
+LabelCount= ones(numFolder, 2);
 for k= 1:numFolder
-    subdir= append(filename, subdirList{k});
+    folderName=subdirList{k};
+    subdir= append(filename, folderName);
     substruct=dir([subdir '/*.flac']); %the structure that includes all the .flac file
     numAudio = size(substruct,1);
     if numAudio>0
+        LabelCount(k,1)= str2num(folderName);
+        LabelCount(k,2)=numAudio;
         temp = ones(numAudio, 1);
         for c=1:numAudio
             audiofile = append(subdir,'/', substruct(c).name);
@@ -26,5 +29,5 @@ for k= 1:numFolder
 end 
 Length=MinLength;
 Count=count;
-
+save ('loadAudio.mat', 'LabelCount', 'Length', 'Count', 'subdirList');
 
