@@ -29,5 +29,6 @@ for k= 1:numFolder
 end 
 Length=MinLength;
 Count=count;
+LabelCount=LabelCount(3:end,:);
 save ('loadAudio.mat', 'LabelCount', 'Length', 'Count', 'subdirList');
 

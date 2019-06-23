@@ -8,19 +8,35 @@ trainM=ones(row,col,trainNA);
 trainL=ones(trainNA,1);
 testM=ones(row,col,testNA);
 testL=ones(testNA,1);
+trainindex=1;
+testindex=1;
 for k=1:numFolder
     numFile=LabelCount(k,2);
     trainNum=round(numFile* 0.8);
-    for t=1:numFile
+    t=1;
+    while t<=numFile
         while t<=trainNum
-            trainM(:,:,counter)=melspecCut(:,:,counter);
-            trainL(counter,1)=labelMatrix(counter,1);
+          % disp(t);
+         %  disp(numFile);
+         %  disp('training loop');
+         %  disp(counter);
+            trainM(:,:,trainindex)=melspecCut(:,:,counter);
+            trainL(trainindex,1)=labelMatrix(counter,1);
             counter=counter+1;
+            trainindex=trainindex+1;
+            t=t+1;
         end
-        testM(:,:,counter)=melspecCut(:,:,couner);
-        testL(counter,1)=labelMatrix(counter,1);
+        % disp('testing loop');
+         %disp(counter);
+        testM(:,:,testindex)=melspecCut(:,:,counter);
+        testL(testindex,1)=labelMatrix(counter,1);
         counter=counter+1;
+        t=t+1;
+        testindex=testindex+1;
     end
-end
+end 
+testM = testM(:,:,1:(testNA-1));
+testL=testL(1:(testNA-1),:);
+save ('dataseparated.mat','testM','testL','trainM','trainL');
 end
 

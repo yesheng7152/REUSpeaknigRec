@@ -1,5 +1,5 @@
 function labelMatrix = processLabel(LabelCount)
-labelM=LabelCount(3:end,:) %get ride of the first 2 none number rows
+labelM=LabelCount; %get ride of the first 2 none number rows
 [numFolder, ~]=size(labelM); % get the number of folders
 totalAudio= sum(labelM(:,2)); %get the number of total audio files
 labelMatrix=zeros(totalAudio,1); %declare a totalaudio*1 matrix
@@ -12,6 +12,7 @@ for c=1:numFolder
         count=count+1;
     end
 end
+save('processLabel.mat','labelMatrix');
 end
 
 

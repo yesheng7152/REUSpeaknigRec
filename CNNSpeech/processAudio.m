@@ -1,4 +1,4 @@
-function matrixes= processAudio(filename)
+function melspecCut= processAudio(filename)
 parentd = dir (filename); % load the parent directory 
 subdirList=fullfile({parentd.name}');  %a cell array of all the dirctories
 [numFolder, ~]=size(subdirList);
@@ -16,15 +16,13 @@ for k= 1:numFolder %going through each folder
             [audioIn, fs]=audioread(info.Filename); % information need for melspectrogram
             melspec=melSpectrogram(audioIn, fs); % matrix for melspetrogram
             mel2=melspec(:,1:140); %cutting it at 1.4 second (what we got for shortest time
-            size(mel2)
-            size(melspecCut)
-            melspecCut(:,:, count).* mel2
             melspecCut(:,:,count)=melspecCut(:,:, count).* mel2; %update the total file 
-            %melspecCut(1,141,count)=str2num(subdirList{k}); %labeling the spectrogram
             count=count+1; %update count for 3rd dimension 
         end
     end 
 end
+maxvalue=max(melspecCut(:));
+melspecCut=melspecCut ./ maxvalue;
 
 save('processAudio.mat', 'melspecCut'); % save the total matrix 
 
