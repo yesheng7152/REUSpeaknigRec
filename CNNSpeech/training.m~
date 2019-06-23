@@ -1,0 +1,7 @@
+function idk = training(trainM, trainL)
+layers = [
+    imageInputLayer([32 140 1])
+    convolution2dLayer(4,20, 'Padding','same')
+    
+end
+
