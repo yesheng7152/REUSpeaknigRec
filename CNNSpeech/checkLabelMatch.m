@@ -1,7 +1,7 @@
 file='LibriSpeech/dev-clean/';
 %ran the two commented out functions the first time 
-%loadAudio(file);
-%processAudio(file)
+loadAudio(file);
+processAudio(file)
 load('processAudio.mat');
 load('loadAudio.mat');
 label=processLabel(LabelCount);
