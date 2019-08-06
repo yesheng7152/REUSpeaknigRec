@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Deinosuchus
+|time=22:44
+|user_name=Genjix
+|date=2010-08-27
+|accent=English
+|sex=m
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Deinosuchus_spoken_article.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-08-27 12:08 (UTC) | [[:en:User:Genjix|Genjix]] | 21970360 (bytes) | 0×0 | <small><nowiki>{{Spoken article entry |title=Deinosuchus |time=22:44 |user_name=Genjix |date=2010-08-27 |link_to_recorded_version=Deinosuchus_spoken_article.ogg |accent=english }} == Licensing: == {{cc-by-sa-3.0}} <!-- This is the license tag. Please leave the license </nowiki></small>
+
+{{Check categories|year=2011|month=October|day=4
+|lang1=en|wiki1=wikipedia|article1=Deinosuchus
+|ncats=1
+}}
+
+[[Category:Deinosuchus]]

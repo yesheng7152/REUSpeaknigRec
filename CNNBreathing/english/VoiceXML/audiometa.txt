@@ -1,0 +1,13 @@
+{{Spoken article
+|title=VoiceXML
+|time=8:37
+|user_name=Mangst
+|date=2011-10-29
+|oldid=446486452
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

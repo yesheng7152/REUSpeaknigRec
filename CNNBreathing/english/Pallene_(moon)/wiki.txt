@@ -1,0 +1,99 @@
+{|class="toccolours" style="margin-left: 1em; float: right; border: 1px solid #CCC"
+|-
+! colspan="2" | [[Image:S2004s2 040601.jpg|250px]]<br/><small>[[Discovery image]] of Pallene</small>
+|-
+! bgcolor="#a0ffa0" colspan="2" | Discovery
+|-
+! align="left" | Discovered by
+|[http://ciclops.org/team/iss_team.php Cassini Imaging Science Team]
+|-
+! align="left" | Discovered on
+| June 1, 2004
+|-
+! bgcolor="#a0ffa0" colspan="2" | [[Orbit]]al characteristics<ref name="Spitale06">{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132 | issue=2 | pages= 692–710 | url= Methone| doi= 10.1086/505206 }}</ref>
+|-
+| colspan="2" |<center><small>[[Epoch (astronomy)|Epoch]] 20 June 2004 ([[Julian day|JD]] 2453177.5)</small></center>
+|-
+! align="left" | [[Semimajor axis]]
+| 212,280 ± 5&nbsp;km
+|-
+! align="left" | [[Eccentricity (orbit)|Eccentricity]]
+| 0.0040
+|-
+! align="left" | [[Orbital period]]
+| 1.153745829 d
+|-
+! align="left" | [[Inclination]]</br>(to Saturn's equator)
+| 0.1810 ± 0.0014°
+|-
+! align="left" | Is a [[natural satellite|satellite]] of
+| [[Saturn]]
+|-
+! bgcolor="#a0ffa0" colspan="2" | Physical characteristics
+|-
+! align="left" | Mean [[diameter]]
+| ≈ 4&nbsp;km 
+|-
+! align="left" | [[Mass]]
+|  1.7 − 7 {{e|13}} [[kilogram|kg]] <ref name="density">based on density 0.5 - 2 g/cm³</ref>
+|-
+! align="left" | Mean [[density]]
+| unknown
+|-
+! align="left" | Surface [[gravity]]
+| unknown
+|-
+! align="left" | [[Sidereal day|Rotation period]]
+| [[synchronous rotation|synchronous]]
+|-
+! align="left" | [[Axial tilt]]
+| unknown
+|-
+! align="left" | [[Albedo]]
+| unknown
+|-
+! align="left" | [[celestial body's atmosphere|Atmosphere]]
+| none
+|}
+'''Pallene''' ({{pronEng|pəˈliːni}} {{respell|pə|LEE|nee}}, or as Greek ''Παλλήνη)'' is a very small [[natural satellite]] of [[Saturn]] lying between the orbits of [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]].
+
+It was first seen during the [[Cassini-Huygens]] mission by the [http://ciclops.org/team/iss_team.php Cassini Imaging Team]<ref>* [http://cfa-www.harvard.edu/iauc/08300/08389.html C.C. Porco, et al., IAUC 8389: ''S/2004 S 1 and S/2004 S 2''] August 16, 2004 (discovery)</ref><ref name=Porco>[[Carolyn C. Porco|Porco, C. C.]]; ''et al.''; (2005); [http://www.sciencemag.org/cgi/content/short/307/5713/1226 ''Cassini Imaging Science: Initial Results on Saturn's Rings and Small Satellites''], Science, Vol. 307, No. 5713, pp. 1226-1236</ref> in 2004, and given the temporary designation '''{{nowrap|S/2004 S 2}}'''. It was actually first seen on August 23, 1981 by ''{{nowrap|Voyager 2}}'' in a single photograph and named '''{{nowrap|S/1981 S 14}}''' and its distance to Saturn was then estimated at 200,000&nbsp;km.<ref>[http://cfa-www.harvard.edu/iauc/06100/06162.html IAUC 6162: ''Possible Satellites of Saturn''] April 14, 1995</ref> Since it was not visible in other images, its orbit could not be calculated at the time, but recent comparisons have identified it as matching Pallene's orbit.<ref name="Spitale06"/> Pallene is also designated as '''{{nowrap|Saturn XXXIII}}'''.
+
+Pallene is visibly affected by a perturbing mean longitude resonance with the much larger Enceladus, although this effect is not as large as the Mimas perturbations on [[Methone (moon)|Methone]]. The perturbations cause Pallene's [[osculating orbit]]al elements to vary with an amplitude of about 4&nbsp;km in semi-major axis, and 0.02° in longitude (corresponding to about 75&nbsp;km). Eccentricity also changes on various timescales between 0.002 and 0.006, and inclination between about 0.178° and 0.184°.<ref name="Spitale06"/>
+
+The names Methone and Pallene were provisionally approved by the IAU Division III Working Group for Planetary System Nomenclature in 2005<ref>[http://cfa-www.harvard.edu/iauc/08400/08471.html IAUC 8471: ''Satellites of Saturn''] January 21, 2005 (naming the moon)</ref> and were ratified at the IAU General Assembly in 2006. [[Pallene (mythology)|Pallene]] was one of the [[Alkyonides]], the seven beautiful daughters of the [[Giant (mythology)|Giant]] [[Alkyoneus]].
+
+The [[Rings of Saturn#"Pallene" Ring|Pallene Ring]], a faint dust ring, also discovered by the [http://ciclops.org Cassini Imaging Team],<ref>[http://cfa-www.harvard.edu/iauc/08700/08759.html C.C. Porco, et al., IAUC 8759: ''Rings of Saturn (R/2006 S 1, R/2006 S 2, R/2006 S 3, R/2006 S 4)''] (subscription-only) October 11, 2006</ref> shares Pallene's orbit, as revealed by images taken in forward-scattered light by the Cassini spacecraft in 2006.<ref>[http://ciclops.org/view.php?id=2276 ''Moonmade Rings'']</ref> The ring has a radial extent of about 2,500&nbsp;km. Its source is particles blasted off Pallene's surface by meteoroid impacts, which then form a diffuse ring around its orbital path.<ref name="Cassini_eclipse2">Cassini-Huygens press release [http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=698 ''NASA Finds Saturn's Moons May Be Creating New Rings''], October 11, 2006</ref><ref>Early press releases of the discovery mentioned the first person to see the moon in Cassini images. This bit of trivia was blown out of proportion in the following months, with this individual being credited as the "discoverer" by some sources. Because the discovery was a large team effort, involving tens of people and hundreds of hours of distributed work, a conscious decision was made by the IAU to officially and correctly assign any credit to "the Cassini Imaging team" and to avoid unfairly singling out any one individual as the discoverer.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Pallene}}
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Pallene Pallene Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Pallene (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[bg:Палена (спътник)]]
+[[da:Pallene (måne)]]
+[[de:Pallene (Mond)]]
+[[el:Παλλήνη (δορυφόρος)]]
+[[es:Palene (satélite)]]
+[[fr:Pallène (lune)]]
+[[hr:Palena (mjesec)]]
+[[it:Pallene (astronomia)]]
+[[nl:Pallene (maan)]]
+[[ja:パレネ (衛星)]]
+[[pl:Pallene (księżyc)]]
+[[pt:Palene]]
+[[ru:Паллена (спутник)]]
+[[simple:Pallene (moon)]]
+[[sk:Pallene (mesiac)]]
+[[sl:Palena (luna)]]
+[[fi:Pallene]]
+[[sv:Pallene]]
+[[uk:Паллена (супутник)]]
+[[zh:土卫三十三]]

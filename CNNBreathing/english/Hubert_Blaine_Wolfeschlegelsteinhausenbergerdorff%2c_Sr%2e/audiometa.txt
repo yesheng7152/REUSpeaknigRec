@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Same as the original, but with noise removal (Sounds more acceptable)}}
+|date=2013-10-19 18:50:36
+|source=http://en.wikipedia.org/wiki/File:Wolfe%2B585,_Senior.ogg
+|author=VR-Land
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Noise reduction]]

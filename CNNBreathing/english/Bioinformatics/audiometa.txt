@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Bioinformatics
+|time=37:00
+|user_name=Mangst
+|date=2013-09-20
+|oldid=573815008
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Bioinformatics]]

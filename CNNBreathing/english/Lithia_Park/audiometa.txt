@@ -1,0 +1,42 @@
+Transwiki approved by: [[w:en:User:Dmcdevit]]
+
+This image was copied from wikipedia:en. The original description was:
+
+{{English spoken article|
+file_name=Lithia_Park.ogg
+|title=Lithia Park
+|time=4:20
+|file_size= 1.4 MB
+|user_name=Demi
+|date=[http://en.wikipedia.org/w/index.php?title=Lithia_Park&oldid=12293816 2005-04-14] ([http://en.wikipedia.org/w/index.php?title=Lithia_Park&diff=0&oldid=12293816 diff])
+|accent=[[w:en:Regional accents of English speakers#United States|U.S.]], California
+|}}
+
+{{GFDL-en|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 05:12, 20 April 2005 || [[w:en:User:Demi]] || 4m20s || 1.94 MB || <nowiki>New version slightly filtered, levelled and normalized.</nowiki>
+|----
+10:41, 14 April 2005 || [[w:en:User:Demi]] || 4m20s || 1.38 MB || <nowiki>Recording of <a href="/wiki/Lithia_Park" title="Lithia Park">Lithia Park</a> by <a href="/wiki/User:Demi" title="User:Demi">me</a>. {{GFDL}}</nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=129006861 || 07:21, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=129006861 || 18:34, 7 May 2007 || [[w:en:User:Cydebot]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=17392876 || 18:04, 22 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=12670590 || 23:39, 21 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=12636614 || 05:14, 20 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Lithia_Park.ogg&redirect=no&oldid=12553657 || 10:41, 14 April 2005 || [[w:en:User:Demi]] || <nowiki>(Recording of <a href="/wiki/Lithia_Park" title="Lithia Park">Lithia Park</a> by <a href="/wiki/User:Demi" title="User:Demi">me</a>. {{GFDL}})</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]

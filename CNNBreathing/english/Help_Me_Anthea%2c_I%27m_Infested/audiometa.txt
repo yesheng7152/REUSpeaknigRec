@@ -1,0 +1,12 @@
+{{Spoken article entry
+|title= Help Me Anthea, I'm Infested
+|time= 2:24
+|user_name= Tom Morris
+|date= 16 September 2012
+|link_to_recorded_version= https://en.wikipedia.org/w/index.php?title=Help_Me_Anthea,_I%27m_Infested&diff=495299349&oldid=489879284
+|accent= British English
+}}
+== Licensing: ==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->
+{{Copy to Wikimedia Commons|bot=ContinuityBot}}

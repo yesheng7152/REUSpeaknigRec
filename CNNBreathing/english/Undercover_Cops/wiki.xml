@@ -1,0 +1,73 @@
+<root><template><title>Infobox VG
+</title><part><name>title </name><equals>=</equals><value> Undercover Cops
+</value></part><part><name>image </name><equals>=</equals><value> [[File:UndercoverCops arcadeflyer.png|256px|Japanese arcade flyer of ''Undercover Cops''.]]
+</value></part><part><name>caption </name><equals>=</equals><value> Japanese arcade flyer of ''Undercover Cops''.
+</value></part><part><name>developer </name><equals>=</equals><value> [[Irem]]
+</value></part><part><name>publisher </name><equals>=</equals><value> Irem
+</value></part><part><name>designer </name><equals>=</equals><value> 
+</value></part><part><name>released </name><equals>=</equals><value> <template><title>vgrelease</title><part><name>JP</name><equals>=</equals><value>1992</value></part></template>
+</value></part><part><name>genre </name><equals>=</equals><value> [[Beat 'em up]]
+</value></part><part><name>modes </name><equals>=</equals><value> [[Single-player video game|Single-player]] &lt;br&gt; [[Multiplayer video game|Multiplayer]] &lt;small&gt;(up to two players)&lt;/small&gt;
+</value></part><part><name>platform</name><equals>=</equals><value> [[Arcade game|Arcade]] &lt;br&gt;  [[Super Nintendo Entertainment System|Super NES]] &lt;br&gt; [[Game Boy]]
+</value></part><part><name>media </name><equals>=</equals><value> [[ROM cartridge|Cartridge]] &lt;small&gt;(Super NES and Game Boy versions)&lt;/small&gt;
+</value></part><part><name>input </name><equals>=</equals><value> 8-way [[joystick]] with 2 [[Button (control)|button]]s
+</value></part><part><name>footnotes </name><equals>=</equals><value> 
+</value></part><part><name>cabinet </name><equals>=</equals><value> Horizontal
+</value></part><part><name>arcade system </name><equals>=</equals><value> Irem M-92 system hardware
+</value></part><part><name>cpu </name><equals>=</equals><value> V33 (@ 9 Mhz), V30 (@ 7.15909 Mhz)
+</value></part><part><name>sound </name><equals>=</equals><value> YM2151 (@ 3.579545 Mhz), GA20 (@ 3.579545 Mhz)
+</value></part><part><name>display </name><equals>=</equals><value> [[Raster graphics|Raster]], 320 x 240 pixels, 60.00 Hz, 2048 colors
+</value></part></template>
+
+<template lineStart="1"><title>nihongo</title><part><name index="1"/><value>'''''Undercover Cops'''''</value></part><part><name index="2"/><value>アンダーカバーコップス</value></part></template> is an [[arcade game|arcade-style]] [[beat 'em up]] [[video game]] by [[Irem]]. It is Irem's first attempt in the modern beat 'em up genre that was founded by [[Capcom]]'s ''[[Final Fight]]''. Few years later after its release, a lot of the team (artists, programmers, composers, designers, etc.) who made the game went on to form Nazca, who created the ''[[Metal Slug (series)|Metal Slug]]'' game series. The team have also worked on the ''[[Hammerin' Harry (series)|Hammerin' Harry series]]'', ''[[Superior Soldiers]]'', ''In The Hunt'' and ''GunForce 2''. In Japan, the game inspired a little-known series of underground comics due its brief popularity.
+
+<h level="2" i="1">==Gameplay==</h>
+Players control &quot;city sweepers,&quot; who fight [[crime]] by beating up thugs in the [[New York City]] of the year 2043.
+
+The video game is notable for its detailed backgrounds and grimy [[Future|futuristic]] setting. For its time, it was relatively gory, featuring [[crow]]-pecked [[skeleton]]s in the midst of its urban wastelands and forcing players to lose a life by being crushed by a garbage compactor during the first boss battle. While the gameplay is inspired by Capcom's ''Final Fight'', some of the enemies are unique. Besides the usual human thugs, players fight strange [[Mole (animal)|mole]] creatures and mutants with [[jet pack]]s and [[blade]]s for hands. Players can never use enemy [[weapon]]s, but the stages contain objects that can be picked up and used instead such as burning [[Drum (container)|oil drums]], steel [[girder]]s, long concrete [[column]]s that shatter on impact, boxes of [[hand grenade]]s and [[fish]].
+
+The characters eat [[mouse|mice]], [[frog]]s, [[bird]]s and [[snail]]s to restore their health (many people in Japanese society eat these for their [[nutritional]] value).
+
+<h level="3" i="2">===Playable characters===</h>
+* '''Claude''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Zan Takahara'''</value></part><part><name index="2"/><value>ザン・タカハラ</value></part></template>) - A scruffy [[Japanese people|Japanese]] former karate master, banned from formal tournaments after killing a man in self-defense. He is a well-rounded character and is similar in effect to Rosa. He has the ability to shoot multiple fireballs.
+* '''Bubba''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Matt Gables'''</value></part><part><name index="2"/><value>マット・ゲーブルズ</value></part></template>) - An [[United States|American]] ex-gridiron player turned city sweeper after a false accusation of murder. He is the most powerful but slowest character. However, he has the ability to run for a short period of time. Also, he can dive through the ground when he uses his airborne attack.
+* '''Flame''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Rosa Felmond'''</value></part><part><name index="2"/><value>ローザ・フェルモンド</value></part></template>) - A tough [[United Kingdom|British]] blonde female vigilante whose lover was murdered by thugs. She is the fastest and easiest character to use. She can send surrounding waves of energy if surrounded by enemies.
+
+<h level="3" i="3">===Bosses===</h>
+* '''Cue Ball''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Parcs'''</value></part><part><name index="2"/><value>パークス</value></part></template>) - a [[Terminator (franchise)|Terminator]]-like cyborg. He is the only boss that can be defeated normally or crushed in a garbage compactor.
+* '''Fatso''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Fransowors'''</value></part><part><name index="2"/><value>フランソワーズ</value></part></template>) - an obese, jackhammer-wielding dominatrix. She summons lesser enemies and cries when hit. When her life bar is half-empty, she bawls loudly
+* '''Gunpuncher''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Moguralian β (Beta)'''</value></part><part><name index="2"/><value>モグラリアンβ（ベータ）</value></part></template>) - the heavily-armed leader of the mole creatures who utters simple Japanese phrases. He is armed with a machine gun and explosives.
+* '''Cone Head''' (known in Japan as <template><title>nihongo</title><part><name index="1"/><value>'''Balbarotch'''</value></part><part><name index="2"/><value>バルバロッチ</value></part></template>) - a crazed carnival freak with a metal claw. He attacks with a wide range of concealed weapons.
+* <template><title>nihongo</title><part><name index="1"/><value>'''Dr. Crayborn'''</value></part><part><name index="2"/><value>クレイボーン博士</value></part></template> - a small, bespectacled scientist who turns into a giant monster. He is the main [[antagonist]] in the game and is confronted at the end of the final stage.
+
+<h level="2" i="4">==Regional differences==</h>
+The Japanese arcade version differs from the World version in several respects. The characters have a number of moves not seen in the World version, including dash + jump attacks, up to two different kinds of throws, and a powerful airborne special attack. The backgrounds and graphics are also different, especially at the start of Level Two and the end of Level Three. The music in the Japanese version has a more electronic feel and includes more voice samples. Some enemies carry broken [[bottle]]s, [[knife|knives]] and [[axe]]s (in the World version these are replaced by planks and clubs). The mole creatures are weaker, taking only one hit to kill. Players' jump attacks do less damage, but their wider range of attacks makes them much more versatile. 
+
+<h level="2" i="5">==Related releases==</h>
+''Undercover Cops'' later got a [[Game Boy]] spin-off titled <template><title>nihongo</title><part><name index="1"/><value>''Undercover Cops Gaiden: Hakaishin Garumaa''</value></part><part><name index="2"/><value>アンダーカバーコップス 破壊神ガルマァ</value></part></template>, and a more accurate translation called <template><title>nihongo</title><part><name index="1"/><value>''Undercover Cops Alpha''</value></part><part><name index="2"/><value>アンダーカバーコップスα</value></part></template>, which retains the details of the original arcade version.  ''Undercover Cops'' was later ported to the [[Super Nintendo Entertainment System|Super Famicom]] by the company Varie. An American localization was planned, but canceled. The unreleased American version was reviewed in Vol. 58 of ''[[Nintendo Power]]''.<ext><name>ref</name><attr> name=npv058p102</attr><inner>{{cite journal|title=Now Playing - March 1994|journal=Nintendo Power|issue=Volume 58|date=March 1994|page=p. 102}}</inner><close>&lt;/ref&gt;</close></ext> In the Super Famicom version, the player can adjust the number of lives and credits, as well as the skill setting. However, there is no two-player mode. Playing &quot;easy&quot; mode only gets the player to the end of the third level. Then the game ends, giving the player a stern message in Japanese, then asking him in English to try the next level (normal). This is followed by the ''[[game over]]'' screen, just as if they lost the game.  ''Undercover Cops'' also got it own [[manga]], authorized by [[Waita Uziga]].
+
+The appearance and functions of the [[police car]] seen at the end of ''Undercover Cops'' exactly resembles the appearance and functions of the tank from ''[[Moon Patrol]]'', another arcade game by Irem. The boss from Stage 1 of the first ''[[R-Type]]'', also by Irem, can be seen on the screens of some red television sets. ''Undercover Cops'' was later advertised on a blimp seen in the arcade flyers of Irem's second modern beat 'em up, ''[[Ninja Baseball Bat Man]]''.
+
+<h level="2" i="6">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<h level="2" i="7">==External links==</h>
+*<template><title>KLOV game</title><part><name>id</name><equals>=</equals><value>10266</value></part></template>
+*[http://www.arcade-history.com/?n=undercover-cops&amp;page=detail&amp;id=3028 ''Undercover Cops'' at arcade-history]
+*<template><title>moby game</title><part><name>id</name><equals>=</equals><value>/undercover-cops</value></part><part><name>name</name><equals>=</equals><value>''Undercover Cops''</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Undercover Cops</title></template>
+[[Category:1992 video games]]
+[[Category:Arcade games]]
+[[Category:Beat 'em ups]]
+[[Category:Cooperative video games]]
+[[Category:Game Boy games]]
+[[Category:Irem games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video games set in the 2040s]]
+[[Category:Video games set in New York City]]
+
+[[de:Undercover Cops]]
+[[fr:Undercover Cops]]
+[[ko:언더커버캅스]]
+[[ja:アンダーカバーコップス]]</root>

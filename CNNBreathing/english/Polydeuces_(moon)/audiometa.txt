@@ -1,0 +1,28 @@
+{{Information
+|Description={{Spoken article
+|title=Polydeuces (moon)
+|time=1:55
+|user_name=Mangst
+|date=2010-02-06
+|oldid=339604666
+|accent=American English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-02-06}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Polydeuces_%28moon%29.ogg}}
+* 2010-02-06 16:27 [[:en:User:Mangst|Mangst]] 0×0× (1144096 bytes) ''<nowiki>{{Spoken article |title=Polydeuces (moon) |time=1:55 |user_name=Mangst |date=2010-02-06 |oldid=339604666 |accent=American English }} == Licensing: == {{GFDL}}</nowiki>''
+
+[[Category:2004 in science]]
+[[Category:History of astronomy]]
+[[Category:History of science]]
+[[Category:Moons of Saturn]]
+[[Category:Natural satellites]]

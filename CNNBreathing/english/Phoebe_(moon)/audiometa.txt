@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=Phoebe (moon)
+|time=7:16
+|user_name=Mangst
+|date=2010-01-10
+|oldid=331982822
+|accent=American English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-01-10}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Phoebe_%28moon%29.ogg}}
+* 2010-01-10 19:48 [[:en:User:Mangst|Mangst]] 0×0× (4356211 bytes) ''<nowiki>{{Spoken article |title=Phoebe (moon) |time=7:16 |user_name=Mangst |date=2010-01-10 |oldid=331982822 |accent=American English }} == Licensing: == {{GFDL-with-discla</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

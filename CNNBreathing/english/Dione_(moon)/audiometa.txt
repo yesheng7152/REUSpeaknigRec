@@ -1,0 +1,43 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = 
+|Date           = {{original upload date|2010-01-18}}
+|Source         = {{own}} 
+|Author         = 
+|Permission     = 
+|Other_versions = 
+}}
+
+{{Spoken article
+|title=Dione (moon)
+|time=5:45
+|user_name=Mangst
+|date=2010-01-18
+|oldid=336639658
+|accent=American English
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+
+{{transferred from|en.wikipedia||[[:en:WP:FTCG|FtCG]]}} {{original description page|en.wikipedia|Dione_(moon).ogg}}
+
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 21:26, 18 January 2010 || 3390927 bytes || {{uv|Mangst|w:en:}} || ''<nowiki>({{Spoken article
+|title=Dione (moon)
+|time=5:45
+|user_name=Mangst
+|date=2010-01-18
+|oldid=336639658
+|accent=American English
+}}
+== Licensing: ==
+{{GFDL-with-disclaim)</nowiki>''
+|}
+
+{{Check categories|year=2015|month=December|day=29}}
+[[Category:Dione (moon)]]

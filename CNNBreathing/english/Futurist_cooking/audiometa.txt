@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+
+{{English spoken article
+|title=Futurist meals
+|user_name_link=https://commons.wikimedia.org/wiki/User:Cobrafountain
+|date=2015-06-15
+|accent=American English
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Futurist_meals&oldid=626659903
+}}
+
+{{Information
+|description={{en|1=Audio}}
+|date=2015-06-15
+|source={{own}}
+|author=[[User:Cobrafountain|Cobrafountain]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Audio files requiring categorisation]]

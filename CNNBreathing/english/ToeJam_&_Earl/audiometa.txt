@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Spoken article
+|title=ToeJam & Earl
+|time=13:52
+|user_name=Mangst
+|date=2009-11-14
+|accent=American English
+|sex=m
+|wiki_lang=en
+|oldid=325188657
+}}
+
+=={{int:license-header}}==
+{{GFDL|migration=not-eligible}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|ToeJam_and_Earl.ogg}}
+* 2009-11-14 22:02 [[:en:User:Mangst|Mangst]] 0×0× (8598901 bytes) ''<nowiki>{{Spoken article |title=ToeJam and Earl |time=13:52 |user_name=Mangst |date=2009-11-14 |oldid=325188657 |accent=American English }} </nowiki>''
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Spoken Wikipedia articles about video games]]

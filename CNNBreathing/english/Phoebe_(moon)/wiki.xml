@@ -1,0 +1,151 @@
+<root><comment>&lt;!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+--&gt;</comment>
+<template lineStart="1"><title>Infobox Planet
+</title><part><name> name </name><equals>=</equals><value> Phoebe
+</value></part><part><name> alt_names </name><equals>=</equals><value> Saturn IX
+</value></part><part><name> adjectives </name><equals>=</equals><value> Phoebean
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:Phoebe cassini.jpg|200px]]
+</value></part><part><name> bgcolour </name><equals>=</equals><value> #ffc0c0
+</value></part><part><name> discovery </name><equals>=</equals><value> yes
+</value></part><part><name> discoverer </name><equals>=</equals><value> [[William Henry Pickering|W.H. Pickering]]
+</value></part><part><name> discovered </name><equals>=</equals><value> 17 March 1899 / 16 August 1898
+</value></part><part><name> orbit_ref </name><equals>=</equals><value> [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html]
+</value></part><part><name> semimajor </name><equals>=</equals><value> 12&amp;nbsp;955&amp;nbsp;759 km
+</value></part><part><name> eccentricity </name><equals>=</equals><value> 0.156&amp;nbsp;241&amp;nbsp;5
+</value></part><part><name> period </name><equals>=</equals><value> 550.564&amp;nbsp;636 d
+</value></part><part><name> inclination </name><equals>=</equals><value> 173.04° (to the ecliptic)&lt;br/&gt;151.78° (to Saturn's equator)<comment>&lt;!--- Using IAU-MPC NSES for Epoch 2007 Apr. 10.0 TT ---&gt;</comment>
+</value></part><part><name> satellite_of </name><equals>=</equals><value> [[Saturn]]
+</value></part><part><name> physical_characteristics </name><equals>=</equals><value> yes
+</value></part><part><name> dimensions </name><equals>=</equals><value> 230 x 220 x 210 km
+</value></part><part><name> mean_radius </name><equals>=</equals><value> 106.60 ± 1.00 km<ext><name>ref</name><attr> name=jplssd</attr><inner>{{cite web
+  |url=http://ssd.jpl.nasa.gov/?sat_phys_par
+  |publisher=[[JPL]] (Solar System Dynamics)
+  |title=Planetary Satellite Physical Parameters
+  |date=2008-10-24
+  |accessdate=2008-12-07}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> mass </name><equals>=</equals><value> (0.829&amp;nbsp;2 ± 0.001&amp;nbsp;0)<template><title>e</title><part><name index="1"/><value>19</value></part></template> [[kilogram|kg]] <ext><name>ref</name><attr> name=&quot;Jacobson 2006&quot;</attr><inner>{{cite journal| last=Jacobson| first=R. A.| title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data| journal=The Astronomical Journal| month=December| year=2006| volume=132| pages=2520–2526 |doi=10.1086/508812| coauthors=Antreasian, P. G.; Bordi, J. J.; Criddle, K. E.; et al.}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> density </name><equals>=</equals><value> 1.634&amp;nbsp;2 ± 0.046&amp;nbsp;0 g/cm³<ext><name>ref</name><attr> name=jplssd</attr></ext><ext><name>ref</name><attr> name=&quot;Jacobson 2006&quot;</attr></ext>
+</value></part><part><name> surface_grav </name><equals>=</equals><value> ~0.049 [[Acceleration|m/s&lt;sup&gt;2&lt;/sup&gt;]]
+</value></part><part><name> escape_velocity </name><equals>=</equals><value> ~0.10 km/s
+</value></part><part><name> sidereal_day </name><equals>=</equals><value> 0.386&amp;nbsp;75 d (9 h 16 min 55.2 s) <ext><name>ref</name><attr/><inner>Seidelmann, P. K.; Abalakin, V. K.; Bursa, M.; Davies, M. E.; de Bergh, C.; Lieske, J. H.; Oberst, J.; Simon, J. L.; Standish, E. M.; Stooke, P.; and Thomas, P. C.[http://www.hnsky.org/iau-iag.htm ''Report of the IAU/IAG Working Group on Cartographic Coordinates and Rotational Elements of the Planets and Satellites: 2000'']</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> axial_tilt </name><equals>=</equals><value> 152.14° <ext><name>ref</name><attr/><inner>{{cite journal |author=Porco CC, et al., |url=http://www.sciencemag.org/cgi/content/full/sci;307/5713/1237 |title=Cassini Imaging Science: Initial Results on Phoebe and Iapetus |journal=Science |volume=307 |number=5713 |date=2005-02-25 |page=1237–1242 |doi=10.1126/science.1107981}}</inner><close>&lt;/ref&gt;</close></ext><comment>&lt;!---
+http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc quotes 17.4°, but that predates Cassini and the source has been known to be wrong on other things.
+According to http://www.hnsky.org/iau-iag.htm, the north pole of Phoebe is at R.A. 355.00°, dec. 68.70° (note that this also precedes Cassini!). 
+http://www.sciencemag.org/cgi/content/full/sci;307/5713/1237 quotes the rotation pole at R.A. 356.6°, dec. 77.9°, which is close to the older IAU value; see Talk for the derivation, which first works out Phoebe's orbit in equatorial coords
+---&gt;</comment>
+</value></part><part><name> albedo </name><equals>=</equals><value> 0.06
+</value></part></template>
+'''Phoebe''' (<template><title>pron-en</title><part><name index="1"/><value>ˈfiːbiː</value></part></template>,<ext><name>ref</name><attr/><inner>In US dictionary transcription, {{USdict|fē′·bē}}.</inner><close>&lt;/ref&gt;</close></ext> or as Greek ''Φοίβη)'' is an [[irregular satellite|irregular]] [[natural satellite|satellite]] of [[Saturn]]. It was discovered by [[William Henry Pickering]] on 17 March 1899 from photographic plates that had been taken starting on 16 August 1898 at [[Arequipa]], [[Peru]] by [[DeLisle Stewart]]<ext><name>ref</name><attr/><inner>{{cite web |author=Pickering EC |title=A New Satellite of Saturn |url=http://adsabs.harvard.edu//full/seri/BHarO/0049//0000001.000.html |publisher=Harvard College Observatory Bulletin |work=49 |date=1899-03-17}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal |author=Pickering EC |url=http://adsabs.harvard.edu//full/seri/AJ.../0020//0000013.000.html |title=A New Satellite of Saturn |journal=Astronomical Journal |volume=20 |issue=458 |date=1899-03-23 |page=13}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;Pickering1899&quot;</attr><inner>{{cite journal |author=Pickering EC |url=http://adsabs.harvard.edu//full/seri/ApJ../0009//0000274.000.html |title=A New Satellite of Saturn |journal=Astrophysical Journal |volume=9 |number=4 |date=1899-04-10 |page=274–276}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal |author=Pickering EC |url=http://adsabs.harvard.edu//full/seri/AN.../0149//0000100.000.html |title=A New Satellite of Saturn |journal=Astronomische Nachrichten |volume=149 |number=10 |date=1899-04-29 |page=189–192}} (same as above)</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal |url=http://adsabs.harvard.edu//full/seri/Obs../0022//0000158.000.html |title=A Ninth Satellite to Saturn |journal=The Observatory |volume=22 |number=278 |month=April |year=1899 |page=158–159}}</inner><close>&lt;/ref&gt;</close></ext>. It was the first satellite to be discovered photographically.
+
+Phoebe was the first target encountered upon the arrival of [[Cassini–Huygens]] to the Saturn system in 2004, and is thus unusually well-studied for a natural satellite of its size. Cassini's trajectory to Saturn and time of arrival were specifically chosen to permit this flyby.<ext><name>ref</name><attr/><inner>{{cite web
+  | last = Martinez
+  | first = Carolina 
+  | coauthors = Brown, Dwayne 
+  | title = Cassini Spacecraft Near First Stop in Historic Saturn Tour
+  | work = Mission News
+  | publisher = NASA
+  | date = 2004-06-09
+  | url = http://www.nasa.gov/mission_pages/cassini/media/cassini-060904.html
+  | accessdate = 2008-03-02}}</inner><close>&lt;/ref&gt;</close></ext> After the encounter and its insertion orbit, Cassini would not go much beyond the orbit of [[Iapetus (moon)|Iapetus]].
+
+<h level="2" i="1">==Name==</h>
+The moon is named after [[Phoebe (mythology)|Phoebe]]<ext><name>ref</name><attr> name=&quot;Pickering1899&quot;</attr></ext>, a [[Titan (mythology)|Titan]] in [[Greek mythology]]. It is also designated '''Saturn IX'''. The [[International Astronomical Union|IAU]] [[Planetary nomenclature|nomenclature standards]] have stated that features on Phoebe are to be named after characters in the Greek myth of [[Jason|Jason and the Argonauts]]. In [[2005 in science|2005]], the IAU officially named 24 craters<ext><name>ref</name><attr/><inner>[http://www.spaceflightnow.com/cassini/050224phoebecraters.html ''Features on Saturn's moon Phoebe given names''], Spaceflight Now, February 24, 2005</inner><close>&lt;/ref&gt;</close></ext> (Acastus, Admetus, Amphion, Butes, Calais, Canthus, Clytius, Erginus, Euphemus, Eurydamas, Eurytion, Eurytus, Hylas, Idmon, Iphitus, Jason, Mopsus, Nauplius, Oileus, Peleus, Phlias, Talaus, Telamon, and Zetes).
+
+Dr. Toby Owen of the [[University of Hawaii]] at Manoa, chairman of the [[International Astronomical Union]] Outer Solar System Task Group said
+:&quot;We picked the legend of the Argonauts for Phoebe as it has some resonance with the exploration of the Saturn system by Cassini-Huygens. We can't say that our participating scientists include heroes like Hercules and Atalanta, but they do represent a wide, international spectrum of outstanding people who were willing to take the risk of joining this voyage to a distant realm in hopes of bringing back a grand prize.&quot;
+
+<h level="2" i="2">==Orbital characteristics==</h>
+For more than 100 years, Phoebe was Saturn's outermost known moon, until the discovery of several smaller moons in 2000. Phoebe is almost 4 times more distant from Saturn than its nearest major neighbor ([[Iapetus (moon)|Iapetus]]), and is substantially larger than any of the other moons orbiting planets at comparable distances.
+
+All of Saturn's moons up to Iapetus [[orbit]] very nearly in the plane of Saturn's equator. The outer [[irregular satellite]]s follow fairly to highly [[eccentricity (orbit)|eccentric]] orbits, and none is expected to rotate synchronously as all the inner moons of Saturn do (except for [[Hyperion (moon)|Hyperion]]). See [[Saturn's natural satellites#Grouping the moons|Saturn's satellites families]].
+
+<h level="2" i="3">==Physical characteristics==</h>
+[[Image:Phoebe 13-06-2004.jpg|left|thumb|300px|Closeup image of Phoebe from the [[Cassini-Huygens]] spacecraft, 13 June 2004.]]
+[[Image:Cratersofphoebe.jpg|right|thumb|Named craters on Phoebe.]]
+
+Phoebe is roughly spherical and has a diameter of <template><title>convert</title><part><name index="1"/><value>220</value></part><part><name index="2"/><value>km</value></part><part><name index="3"/><value>mi</value></part></template>, which is equal to about one-fifteenth of the diameter of Earth's moon. Phoebe rotates on its axis every nine hours and it completes a full orbit around Saturn in about 18 months. Its surface temperature is 75 K (-198°C).
+
+Most of Saturn's inner moons have very bright surfaces, but Phoebe's [[albedo]] is very low (0.06), as dark as [[lampblack]]. The Phoebean surface is extremely heavily scarred, with craters up to 80 kilometres across, one of which has walls 16 kilometres high. 
+
+Phoebe's dark coloring initially led to scientists surmising that it was a captured [[asteroid]], as it resembled the common class of dark [[C-type asteroid|carbonaceous asteroids]]. These are chemically very primitive and are thought to be composed of original solids that condensed out of the [[solar nebula]] with little modification since then. 
+
+However, images from the [[Cassini-Huygens]] space probe indicate that Phoebe's craters show a considerable variation in brightness, which indicate the presence of large quantities of ice below a relatively thin blanket of dark surface deposits some <template><title>convert</title><part><name index="1"/><value>300</value></part><part><name index="2"/><value>to</value></part><part><name index="3"/><value>500</value></part><part><name index="4"/><value>m</value></part><part><name index="5"/><value>ft</value></part></template> thick. In addition, quantities of carbon dioxide have been detected on the surface, a finding which has never been replicated on an asteroid. It is estimated that Phoebe is about 50% rock, as opposed to the 35% or so that typifies Saturn's inner moons. For these reasons, scientists are coming to believe that Phoebe is in fact a captured [[Centaur (planetoid)|Centaur]], one of a number of icy [[planetoid]]s from the [[Kuiper belt]] that [[orbit]] the [[Sun]] between [[Jupiter]] and [[Neptune]]<ext><name>ref</name><attr/><inner>Johnson, Torrence V.; and Lunine, Jonathan I.; ''Saturn's moon Phoebe as a captured body from the outer Solar System'', Nature, Vol. 435, pp. 69–71</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>Martinez, C.; [http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=568 ''Scientists Discover Pluto Kin Is a Member of Saturn Family''], Cassini-Huygens News Releases, May 6, 2005</inner><close>&lt;/ref&gt;</close></ext>. Phoebe is the first such object to be imaged as anything other than a dot.
+
+Material displaced from Phoebe's surface by microscopic meteor impacts may be responsible for the dark surfaces of [[Hyperion (moon)|Hyperion]]<ext><name>ref</name><attr/><inner>&lt;small&gt;The composition implied by spectra does not seem to support the earlier suggestion that Phoebe could be the source of the dark material deposited on [[Iapetus (moon)|Iapetus]] &lt;/small&gt;</inner><close>&lt;/ref&gt;</close></ext>. Debris from the biggest impacts may have been the building blocks of the other moons of Phoebe's group&amp;mdash;all of which are less than 10&amp;nbsp;km in diameter.
+
+<h level="3" i="4">===Map===</h>
+<template lineStart="1"><title>Expand section</title><part><name>date</name><equals>=</equals><value>December 2009</value></part></template>
+[[Image:Phoebe 2005 Mercator PIA07795.jpg|center|thumb|800px|A composite image of Phoebe's surface (143 kB). The higher latitudes have been clipped from the main map, but can be seen in the polar projection below.]]
+[[Image:Phoebe 2005 south polar projection PIA07797.jpg|thumb|center|The higher latitudes can be seen in this image.|250px]]
+
+<h level="2" i="5">==Spacecraft flybys==</h>
+[[Image:Phoebe closeup cassini NASA.jpg|thumb|right|Closeup image of Phoebe from Cassini-Huygens]]
+
+The [[Voyager 2]] spacecraft passed by Phoebe in September 1981, although the 2.2 [[Gigametre|Gm]] (2.2 million kilometres) distance and low resolution meant that relatively little could be learned from the resulting images.
+
+The [[Cassini-Huygens|Cassini spacecraft]] flew within <template><title>convert</title><part><name index="1"/><value>2068</value></part><part><name index="2"/><value>km</value></part><part><name index="3"/><value>mi</value></part></template> of Phoebe on 11 June 2004, returning many high-resolution images of the moon and its scarred surface. By a stroke of pure luck, Phoebe happened to be in the best part of its orbit to be photographed by the incoming Cassini probe, which otherwise would not likely have returned pictures much better than Voyager due to Phoebe's distance from Saturn. In addition, due to its rapid rotation period of approximately 9 hours, 56 minutes, Cassini was able to map virtually the entire surface of Phoebe.
+
+<h level="2" i="6">==Phoebe ring==</h>
+
+<template lineStart="1"><title>Main</title><part><name index="1"/><value>Rings of Saturn#Phoebe ring</value></part></template>
+
+[[Image:Saturn largest ring Spitzer telescope 20091006.jpg|right|thumb|200px|Artists impression of the [[Rings of Saturn#Phoebe ring|Phoebe ring]] which dwarfs the main rings.]]<template><title>Wikinews</title><part><name index="1"/><value>New ring discovered around Saturn, could explain dark side of its moon</value></part></template>
+The Phoebe ring is one of the [[rings of Saturn]]. This ring is tilted 27 degrees from Saturn's equatorial plane (and the other rings). It extends from at least 128 to 207<ext><name>ref</name><attr> name = &quot;Verbiscer&quot;</attr><inner>{{cite journal|last=Verbiscer|first=Anne|coauthors=Skrutskie, Michael; Hamilton, Douglas |title=Saturn’s largest ring|journal=[[Nature]]|url=http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature08515.pdf|date=published online 2009-10-07}}</inner><close>&lt;/ref&gt;</close></ext> times the radius of Saturn; Phoebe orbits the planet at an average distance of 215 Saturn radii. The ring is about 20 times as thick as the diameter of the planet.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.nasa.gov/mission_pages/spitzer/multimedia/spitzer-20091007b.html|title=The King of Rings|publisher=NASA, Spitzer Space Telescope center|date=2009-10-07|accessdate=October 7, 2009}}</inner><close>&lt;/ref&gt;</close></ext> Since the ring's particles are presumed to have originated from [[micrometeoroid]] impacts on Phoebe, they should share its [[Retrograde motion #Retrograde orbit|retrograde orbit]],<ext><name>ref</name><attr> name=sciencenews_large_ring</attr><inner>{{cite journal|last=Cowen|first=Rob|url=http://www.sciencenews.org/view/generic/id/48097/title/Largest_known_planetary_ring_discovered|title=Largest known planetary ring discovered|journal=[[Science News]]|date=October 6, 2009}}</inner><close>&lt;/ref&gt;</close></ext> which is opposite to the orbital motion of the next inner moon, [[Iapetus (moon)|Iapetus]]. Inwardly migrating ring material would thus strike the Iapetus's leading hemisphere, possibly causing the [[Iapetus (moon) #Two-tone coloration|two-tone coloration]] of that moon.<ext><name>ref</name><attr/><inner>[http://www.newscientist.com/article/dn17928-largest-ring-in-solar-system-found-around-saturn.html Largest ring in solar system found around Saturn], New Scientist</inner><close>&lt;/ref&gt;</close></ext> Although very large, the ring is virtually invisible—it was discovered using [[NASA]]'s [[infra-red]] [[Spitzer Space Telescope]].
+
+<h level="2" i="7">==See also==</h>
+*[[List of geological features on Saturn's smaller moons]]
+
+<h level="2" i="8">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<h level="2" i="9">==External links==</h>
+<template lineStart="1"><title>Commons category</title><part><name index="1"/><value>Phoebe</value></part></template>
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Phoebe Phoebe Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://saturn.jpl.nasa.gov/multimedia/images/images.cfm?subCategoryID=8 Cassini-Huygens Multimedia: Images: Moons: Small Moons]
+*[http://news.bbc.co.uk/2/hi/science/nature/3798485.stm ''Cassini Pass Reveals Moon Secrets''], BBC News, June 14, 2004
+*[http://www.planetary.org/explore/topics/saturn/phoebe.html The Planetary Society: Phoebe]
+* Asaravala, A.; [http://www.wired.com/news/space/0,2697,67419,00.html?tw=wn_story_related ''Saturn's Odd Moon Out''], Wired, (May 4, 2005)
+* [http://ssd.jpl.nasa.gov/?sat_phys_par NASA: Natural Satellite Physical Parameters]
+
+&lt;br/&gt;
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Phoebe (Moon)</title></template>
+[[Category:Moons of Saturn]]
+[[Category:Irregular satellites]]
+
+[[als:Phoebe (Mond)]]
+[[bg:Феба (спътник)]]
+[[ca:Febe (satèl·lit)]]
+[[cs:Phoebe (měsíc)]]
+[[cy:Phoebe (lloeren)]]
+[[da:Phoebe (måne)]]
+[[de:Phoebe (Mond)]]
+[[et:Phoebe]]
+[[el:Φοίβη (δορυφόρος)]]
+[[es:Febe (satélite)]]
+[[eo:Febo (luno)]]
+[[fr:Phœbé (lune)]]
+[[gl:Febe (lúa)]]
+[[hr:Feba (mjesec)]]
+[[it:Febe (astronomia)]]
+[[lb:Phoebe (Mound)]]
+[[lt:Febė (palydovas)]]
+[[hu:Phoebe (hold)]]
+[[nl:Phoebe (maan)]]
+[[ja:フェーベ (衛星)]]
+[[no:Phoebe (måne)]]
+[[nn:Saturnmånen Phoebe]]
+[[pl:Febe (księżyc)]]
+[[pt:Febe (satélite)]]
+[[ru:Феба (спутник Сатурна)]]
+[[simple:Phoebe (moon)]]
+[[sk:Phoebe (mesiac)]]
+[[sl:Fojba (luna)]]
+[[fi:Phoebe (kuu)]]
+[[sv:Phoebe (måne)]]
+[[ta:ஃபீபி (துணைக்கோள்)]]
+[[uk:Феба (супутник)]]
+[[zh:土卫九]]</root>

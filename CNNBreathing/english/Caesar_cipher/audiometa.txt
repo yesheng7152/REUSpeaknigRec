@@ -1,0 +1,44 @@
+Transwiki approved by: [[w:en:User:Dmcdevit]]
+
+This image was copied from wikipedia:en. The original description was:
+
+{{English spoken article|
+file_name=Caesar cipher.ogg
+|title=Caesar cipher
+|time=11:32
+|file_size= 3.9 MB
+|user_name= Demi
+|date= [http://en.wikipedia.org/w/index.php?title=Caesar_cipher&oldid=12335023 2005-04-14] ([http://en.wikipedia.org/w/index.php?title=Caesar_cipher&diff=0&oldid=12335023 diff])
+|accent= [[w:en:Regional accents of English speakers#United States|U.S.]], California
+|sex=M}}
+{{GFDL-en|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 05:31, 20 April 2005 || [[w:en:User:Demi]] || 11m18s || 4.85 MB || <nowiki>New version with some filtering, leveling and normalization</nowiki>
+|----
+07:36, 15 April 2005 || [[w:en:User:Demi]] || 11m33s || 3.98 MB || <nowiki><a href="/wiki/Wikipedia:WikiProject_Spoken_Wikipedia" title="Wikipedia:WikiProject Spoken Wikipedia">Voice recording</a> of <a href="/wiki/Caesar_cipher" title="Caesar cipher">Caesar cipher</a> (as of [http://en.wikipedia.org/w/index.php?title=Caesar_cipher&amp;oldid=12335023 02:32, 2005 Apr 14] </nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=129005550 || 07:22, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=129005550 || 18:29, 7 May 2007 || [[w:en:User:Cydebot]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=18819800 || 15:43, 14 July 2005 || [[w:en:User:Qz]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=17396730 || 18:08, 22 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=12670766 || 23:44, 21 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=12636812 || 07:39, 15 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Caesar_cipher.ogg&redirect=no&oldid=12335181 || 07:36, 15 April 2005 || [[w:en:User:Demi]] || <nowiki>(<a href="/wiki/Wikipedia:WikiProject_Spoken_Wikipedia" title="Wikipedia:WikiProject Spoken Wikipedia">Voice recording</a> of <a href="/wiki/Caesar_cipher" title="Caesar cipher">Caesar cipher</a> (as of [http://en.wikipedia.org/w/index.php?title=Caesar_cipher&amp;oldid=12335023 02:32, 2005 Apr 14] )</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Caesar ciphers]]

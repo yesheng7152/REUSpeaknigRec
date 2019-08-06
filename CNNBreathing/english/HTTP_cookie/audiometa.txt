@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=HTTP cookie
+|user_name=Mangst
+|date=2016-05-28
+|accent=American English
+|sex=m
+|wiki_lang=en
+|oldid=722562278
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|HTTP_cookie.ogg}}
+* 2009-04-06 22:42 [[:en:User:Mangst|Mangst]] 0&times;0&times; (29201866 bytes) ''<nowiki>{{Spoken article entry |title=HTTP cookie |time=48:58 |user_name=Mangst |date=2008-04-06 |oldid=282213376 |accent=American English }} == Licensing: == {{GFDL-with-disclaimers}}</nowiki>''
+
+[[Category:HTTP cookies]]

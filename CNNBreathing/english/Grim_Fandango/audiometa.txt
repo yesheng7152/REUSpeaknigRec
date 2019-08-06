@@ -1,0 +1,17 @@
+{{Information
+|Description={{en|Spoken word version of the [[:en:wiki]] article [[:en:Grim Fandango|Grim Fandango]]}}
+|Source={{transferred from|en.wikipedia|Sreejithk2000|CommonsHelper}}
+|Date={{original upload date|2008-05-21}}
+|Author={{original uploader|Reason turns rancid|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|EN-GrimFandango.ogg}}
+* 2008-05-21 14:45 [[:en:User:Reason turns rancid|Reason turns rancid]] 0×0× (10999785 bytes) ''<nowiki>{{Spoken article entry |title= Grim Fandango |time= 22:14 |user_name= Reason turns rancid |date= 2008-05-07 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Grim_Fandango&oldid=210850242 |accent= US Maryland }} {{GFDL-with-disclaimers</nowiki>''
+
+[[Category:Grim Fandango]]

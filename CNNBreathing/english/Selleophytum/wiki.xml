@@ -1,0 +1,29 @@
+<root><template><title>taxobox
+</title><part><name>image </name><equals>=</equals><value> 
+</value></part><part><name>image_width </name><equals>=</equals><value> 
+</value></part><part><name>image_caption </name><equals>=</equals><value> 
+</value></part><part><name>regnum </name><equals>=</equals><value> [[Plantae]]
+</value></part><part><name>unranked_divisio </name><equals>=</equals><value> [[Angiosperms]]
+</value></part><part><name>unranked_classis </name><equals>=</equals><value> [[Eudicots]]
+</value></part><part><name>unranked_ordo </name><equals>=</equals><value> [[Asterids]]
+</value></part><part><name>ordo </name><equals>=</equals><value> [[Asterales]]
+</value></part><part><name>familia </name><equals>=</equals><value> [[Asteraceae]]
+</value></part><part><name>genus </name><equals>=</equals><value> '''''Selleophytum'''''
+</value></part><part><name>genus_authority </name><equals>=</equals><value> [[Urb.]]
+</value></part><part><name>binomial</name><equals>=</equals><value> ''[[Selleophytum buchii]]''
+</value></part><part><name>binomial_authority </name><equals>=</equals><value> [[Urb.]]
+</value></part><part><name>synonyms_ref</name><equals>=</equals><value><ext><name>ref</name><attr> name=x</attr><inner>[http://dixon.iplantcollaborative.org/CompositaeWeb/Default.aspx?Page=NameSearch&amp;searchText=Selleophytum&amp;searchField=NameFull Flann, C (ed) 2009+ Global Compositae Checklist ]</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://www.theplantlist.org/tpl1.1/record/gcc-76240 The Plant List, ''Selleophytum buchii'' Urb.]</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>synonyms</name><equals>=</equals><value>''[[Coreopsis buchii]]'' &lt;small&gt;(Urb.) S.F. Blake&lt;/small&gt;
+</value></part><part><name>tribus</name><equals>=</equals><value>[[Coreopsideae]]<ext><name>ref</name><attr> name=x</attr></ext>
+</value></part><part><name index="1"/><value/></part></template>
+'''''Selleophytum''''' is a [[genus]] of flowering plants in the [[Coreopsideae|tickseed tribe]] within the [[Asteraceae|daisy family]].<ext><name>ref</name><attr> name=z</attr><inner>[http://www.biodiversitylibrary.org/page/353759#page/490/mode/1up Urban, Ignatz. 1915. Repertorium Specierum Novarum Regni Vegetabilis 13: 483-484] in Latin</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://www.tropicos.org/Name/40035057 Tropicos, ''Selleophytum'' Urb.]</inner><close>&lt;/ref&gt;</close></ext>
+
+;Species
+The only known species is '''''[[Selleophytum buchii]],''''' native to [[Haiti]] and the [[Dominican Republic]].<ext><name>ref</name><attr> name=x</attr></ext><ext><name>ref</name><attr> name=z</attr></ext><ext><name>ref</name><attr/><inner>[http://www.biodiversitylibrary.org/page/381960#page/766/mode/1up Blake, Sydney Fay. 1924.  Contributions from the United States National Herbarium 22(8): 641–642] in Englisy</inner><close>&lt;/ref&gt;</close></ext>
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+[[Category:Coreopsideae]]
+[[Category:Asteraceae genera]]
+[[Category:Flora of Hispaniola]]
+
+<template lineStart="1"><title>Asteraceae-stub</title></template></root>

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Wikipedia article, "David After Dentist," read aloud by Jules Ismail.}}
+|Source={{own}}
+|Author=[[User:Theroachyjay|Theroachyjay]]
+|Date= [http://en.wikipedia.org/w/index.php?title=David_After_Dentist&oldid=336395924 2010-01-07]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+
+[[Category:Marketing]]
+[[Category:Spoken Wikipedia - English]]
+[[Category:Internet memes]]

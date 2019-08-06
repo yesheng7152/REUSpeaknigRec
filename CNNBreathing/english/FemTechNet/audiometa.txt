@@ -1,0 +1,11 @@
+{{English spoken article
+|title=FemTechNet
+|user_name_link=[[:en:User:K9taylor|K9taylor]]
+|date=2014-04-21
+|accent=
+|sex=f
+|oldid=587825709
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}

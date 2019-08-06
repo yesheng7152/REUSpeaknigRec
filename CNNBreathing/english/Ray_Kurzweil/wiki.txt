@@ -1,0 +1,260 @@
+{{Infobox person
+| name   = Ray Kurzweil
+| image     = Raymond Kurzweil Fantastic Voyage.jpg
+| image_size     = 250px
+| caption  = Ray Kurzweil
+| birth_date  = {{Birth date and age|1948|2|12|mf=y}}
+| birth_place = [[Queens]], [[New York]], [[United States]]
+| death_date  =
+| death_place =
+| occupation     = Author, entrepreneur, scientist and futurist
+| spouse         = Sonya R. Kurzweil
+| children       = Ethan, Amy
+}}
+
+'''Raymond "Ray" Kurzweil''' ({{IPA-en|ˈkɜrzwaɪl|pron}} {{respell|KURZ|wyl}}; born February 12, 1948) is an [[United States of America|American]] author, inventor and [[futurist]]. He is involved in fields such as [[optical character recognition]] (OCR), [[speech synthesis|text-to-speech synthesis]], [[speech recognition]] technology, and electronic keyboard instruments. He is the author of several books on health, [[artificial intelligence]] (AI), [[transhumanism]], the [[technological singularity]], and [[futures studies|futurism]].
+
+==Life, inventions, and business career==
+===Early life===
+Ray Kurzweil grew up in the New York City borough of [[Queens]]. He was born to [[secular Jewish culture|secular Jewish]] parents who had escaped [[Austria]] just before the onset of World War II, and he was exposed via [[Unitarian Universalism]] to a diversity of religious faiths during his upbringing. His father was a musician and composer and his mother was a [[visual arts|visual artist]]. His uncle, an engineer at [[Bell Labs]], taught young Ray the basics of [[computer science]].<ref>{{cite web|url=http://web.mit.edu/invent/iow/kurzweil.html |title=Inventor of the Week |publisher=Web.mit.edu |date= |accessdate=2011-04-21}}</ref> In his youth, he was an avid reader of science fiction literature. In 1963, at age fifteen, he wrote his first [[computer program]].<ref>{{cite web|url=http://www.kurzweilai.net/meme/frame.html?main=/articles/art0467.html |title=KurzweilAI.net |publisher=KurzweilAI.net |date= |accessdate=2011-04-21}}</ref> Later in high school he created a sophisticated pattern-recognition software program that analyzed the works of classical composers, and then synthesized its own songs in similar styles. The capabilities of this invention were so impressive that, in 1965, he was invited to appear on the [[CBS]] television program ''[[I've Got a Secret]]'', where he performed a piano piece that was composed by a computer he also had built.<ref name=booktv>{{cite video |url=http://www.booktv.org/Program/7515/In+Depth+Ray+Kurzweil.aspx |title=In Depth: Ray Kurzweil |publisher=[[Book TV]] |date=2006-11-05 |accessdate=2010-05-18}}</ref> Later that year, he won first prize in the International Science Fair for the invention;<ref name=ssp>{{cite web |url=http://www.societyforscience.org/Page.aspx?pid=261 |title=Alumni Honors |publisher=Society for Science and the Public |accessdate=2010-05-18}}</ref> he was also recognized by the Westinghouse Talent Search and was personally congratulated by President [[Lyndon B. Johnson]] during a [[White House]] ceremony.
+
+===Mid-life===
+In 1968, during his sophomore year at [[Massachusetts Institute of Technology|MIT]], Kurzweil started a company that used a computer program to match high school students with colleges. The program, called the Select College Consulting Program, was designed by him and compared thousands of different criteria about each college with questionnaire answers submitted by each student applicant. When he was 20, he sold the company to Harcourt, Brace & World for $100,000 (roughly $500,000 in 2006 dollars) plus royalties.<ref>{{cite web|url=http://www.kurzweiltech.com/raybio.html |title=Biography of Ray Kurzweil |publisher=Kurzweiltech.com |date=1976-01-13 |accessdate=2011-03-27}}</ref> He obtained a [[Bachelor of Science]] degree in Computer Science and Literature in 1970 from [[Massachusetts Institute of Technology|MIT]].
+
+In 1974, Kurzweil started the company Kurzweil Computer Products, Inc. and led development of the first omni-font [[optical character recognition]] system—a computer program capable of recognizing text written in any normal font. Before that time, scanners had only been able to read text written in a few fonts. He decided that the best application of this technology would be to create a reading machine, which would allow blind people to understand written text by having a computer read it to them aloud. However, this device required the invention of two enabling technologies—the [[Charge-coupled device|CCD]] [[flatbed scanner]] and the [[Speech synthesis|text-to-speech]] synthesizer. Development of these technologies was completed at other institutions such as Bell Labs, and on January 13, 1976, the finished product was unveiled during a news conference headed by him and the leaders of the [[National Federation of the Blind]]. Called the Kurzweil Reading Machine, the device covered an entire tabletop. It gained him mainstream recognition: on the day of the machine's unveiling, [[Walter Cronkite]] used the machine to give his signature soundoff, "And that's the way it is, January&nbsp;13, 1976." While listening to ''[[Today (NBC program)|The Today Show]]'', musician [[Stevie Wonder]] heard a demonstration of the device and purchased the first production version of the Kurzweil Reading Machine, beginning a lifelong friendship between himself and Kurzweil.
+
+According to former Kurzweil Computer Products employees, the Kurzweil Reading Machine's designer was engineer Richard Brown, a KCP employee at the time{{Citation needed|date=April 2010}}.
+
+Kurzweil's next major business venture began in 1978, when Kurzweil Computer Products began selling a commercial version of the optical character recognition computer program. [[LexisNexis]] was one of the first customers, and bought the program to upload paper legal and news documents onto its nascent online databases.
+
+Two years later, Kurzweil sold his company to Lernout & Hauspie. Following the bankruptcy of the latter, the system became a subsidiary of Xerox formerly known as [[Scansoft]] and now as [[Nuance Communications]], and he functioned as a consultant for the former until 1995.
+
+Kurzweil's next business venture was in the realm of electronic music technology. After a 1982 meeting with [[Stevie Wonder]], in which the latter lamented the divide in capabilities and qualities between electronic synthesizers and traditional musical instruments, Kurzweil was inspired to create a new generation of music synthesizers capable of accurately duplicating the sounds of real instruments. [[Kurzweil Music Systems]] was founded in the same year, and in 1984, the [[Kurzweil K250]] was unveiled. The machine was capable of imitating a number of instruments, and in tests musicians were unable to discern the difference between the [[Kurzweil K250]] on piano mode from a normal grand piano.<ref>{{cite journal|jstor=3680298 |title=The Kurzweil 250 Digital Synthesizer|author=Donald Byrd and Christopher Yavelow|journal=Computer Music Journal|volume=10|issue=1 |year=1986|page=64}}</ref>  The recording and mixing abilities of the machine, coupled with its abilities to imitate different instruments made it possible for a single user to compose and play an entire orchestral piece.
+
+Kurzweil Music Systems was sold to [[South Korea|Korean]] musical instrument manufacturer [[Young Chang]] in 1990. As with [[Xerox]], Kurzweil remained as a consultant for several years.
+
+===Later life===
+Concurrent with Kurzweil Music Systems, Kurzweil created the company Kurzweil Applied Intelligence (KAI) to develop computer [[speech recognition]] systems for commercial use. The first product, which debuted in 1987, was an early [[speech recognition]] program.
+
+Kurzweil started [[Kurzweil Educational Systems]] in 1996 to develop new pattern-recognition-based computer technologies to help people with disabilities such as blindness, [[dyslexia]] and [[Attention-deficit hyperactivity disorder|ADD]] in school. Products include the Kurzweil 1000 text-to-speech converter software program, which enables a computer to read electronic and scanned text aloud to blind or visually impaired users, and the Kurzweil 3000 program, which is a multifaceted electronic learning system that helps with reading, writing, and [[study skills]].
+
+[[Image:Raymond Kurzweil, Stanford 2006 (square crop).jpg|thumb|left|250px|Raymond Kurzweil at the [[Singularity Summit]] at Stanford in 2006]]
+
+During the 1990s Kurzweil founded the Medical Learning Company.<ref>[http://investing.businessweek.com/businessweek/research/stocks/private/person.asp?personId=542059 List of Private Companies Worldwide – BusinessWeek]. Investing.businessweek.com. Retrieved on 2011-06-16.</ref> The company's products included an interactive computer education program for doctors and a computer-simulated patient. Around the same time, Kurzweil started KurzweilCyberArt.com—a website featuring computer programs to assist the creative art process. The site used to offer free downloads of a program called AARON—a visual art synthesizer developed by Harold Cohen—and of "Kurzweil's Cybernetic Poet", which automatically creates poetry. During this period he also started KurzweilAI.net, a website devoted towards showcasing news of scientific developments, publicizing the ideas of high-tech thinkers and critics alike, and promoting futurist-related discussion among the general population through the Mind-X forum.
+
+In 1999, Kurzweil created a [[hedge fund]] called "FatKat" (Financial Accelerating Transactions from Kurzweil Adaptive Technologies), which began trading in 2006. He has stated that the ultimate aim is to improve the performance of FatKat's A.I. investment software program, enhancing its ability to recognize patterns in "currency fluctuations and stock-ownership trends."<ref>{{cite news| url=http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/14/100008848/ | work=CNN | title=The smartest (or the nuttiest) futurist on Earth | date=May 2, 2007 | accessdate=May 22, 2010 | first1=Brian | last1=O'Keefe}}</ref> He predicted in his 1999 book, ''[[The Age of Spiritual Machines]],'' that computers will one day prove superior to the best human financial minds at making profitable investment decisions. In 2001, Canadian rock band [[Our Lady Peace]] released an album, titled ''[[Spiritual Machines]]'', based on Kurzweil's book. Kurzweil's voice was featured in the album, reading excerpts from his book.
+
+In June 2005, Kurzweil introduced the [[K-NFB Reader|"Kurzweil-National Federation of the Blind Reader" (K-NFB Reader)]]—a pocket-sized device consisting of a digital camera and computer unit. Like the Kurzweil Reading Machine of almost 30 years before, the [[K-NFB Reader]] is designed to aid blind people by reading written text aloud. The newer machine is portable and scans text through digital camera images, while the older machine is large and scans text through flatbed scanning.
+
+Kurzweil recently made a movie called ''The Singularity is Near: A True Story About the Future''<ref name=imdb_prof>{{IMDb name|id=0961244|name=Raymond Kurzweil}}</ref> based, in part, on his 2005 book ''The Singularity Is Near''. Part fiction, part non-fiction, he interviews 20 big thinkers like [[Marvin Minsky]], plus there is a B-line narrative story that illustrates some of the ideas, where a computer avatar (Ramona) saves the world from self-replicating microscopic robots.
+
+In addition to Kurzweil's movie, an independent, feature-length documentary was made about Kurzweil, his life, and his ideas called ''[[Transcendent Man (film)|Transcendent Man]]''.  Filmmakers [[Barry Ptolemy]] and Felicia Ptolemy followed Kurzweil, documenting his global speaking tour.  Premiered in 2009 at the [[Tribeca Film Festival]],<ref name=imdb_prof/> ''Transcendent Man'' documents Kurzweil's quest to reveal mankind's ultimate destiny and explores many of the ideas found in his New York Times bestselling book, ''[[The Singularity is Near]]'', including his concept of exponential growth, radical life expansion, and how we will transcend our biology. The Ptolemys documented Kurzweil's stated goal of bringing back his late father using AI. The film also features critics who argue against Kurzweil's predictions.
+In 2010, an independent documentary film called ''[[Plug & Pray]]'' premiered at the [[Seattle International Film Festival]], in which Kurzweil and one of his major critics, the late [[Joseph Weizenbaum]], argue about the benefits of eternal life.<ref>[http://www.plugandpray-film.com/en/ Independent documentary Plug & Pray]. Plugandpray-film.com. Retrieved on 2011-06-16.</ref>
+
+Kurzweil said during a 2006 C-SPAN2 interview that he was working on a new book that focused on the inner workings of the human brain and how this could be applied to building AI.
+
+While being interviewed for a February 2009 issue of ''Rolling Stone'' magazine, Kurzweil expressed a desire to construct a genetic copy of his late father, Fredric Kurzweil, from DNA within his grave site. This feat would be achieved by deploying various nanorobots to send samples of DNA back from the grave, constructing a clone of Fredric and retrieving memories and recollections—from Ray's mind—of his father.<ref>{{Cite news
+  | last=KUSHNER
+  | first=David
+  | title=When Man & Machine Merge
+  | newspaper=[[Rolling Stone]]
+  | date=February 19, 2009
+  | url=http://www.rollingstone.com/news/story/25939914/when_man__machine_merge
+}}
+</ref>
+
+==Books==
+Kurzweil's first book, ''[[The Age of Intelligent Machines]]'', was published in 1990. The nonfiction work discusses the history of computer AI and also makes forecasts regarding future developments. Other experts in the field of AI contribute heavily to the work in the form of essays. The [[Association of American Publishers]]' awarded it the status of ''Most Outstanding Computer Science Book'' of 1990.<ref>[http://www.eetimes.com/special/special_issues/1998/timespeople98/kurzweil.html Era of smart people is dawning]. Eetimes.com. Retrieved on 2011-06-16.</ref>
+
+Next, Kurzweil published a book on nutrition in 1993 called ''[[The 10% Solution for a Healthy Life]]''. The book's main idea is that high levels of fat intake are the cause of many health disorders common in the U.S., and thus that cutting fat consumption down to 10% of the total calories consumed would be optimal for most people.
+
+In 1998, Kurzweil published ''[[The Age of Spiritual Machines]]'', which focuses heavily on further elucidating his theories regarding the future of technology, which themselves stem from his analysis of long-term trends in biological and technological evolution. Much focus goes into examining the likely course of AI development, along with the future of computer architecture.
+
+Kurzweil's next book published in 2004, returned to the subject of human health and nutrition. ''[[Fantastic Voyage: Live Long Enough to Live Forever]]'' was co-authored by Kurzweil and [[Terry Grossman]], a medical doctor and specialist in alternative medicine.
+
+''[[The Singularity Is Near]]'' was published in 2005. The book is currently being made into a movie starring [[Pauley Perrette]] ([[NCIS (TV series)|NCIS]]).<ref>{{cite web|url=http://www.wired.com/entertainment/hollywood/news/2007/11/kurzweil_qa|title=Coming Soon to a Theater Near You: The Singularity|accessdate=2008-01-12}}</ref>
+
+In February 2007, Ptolemaic Productions acquired the rights to ''The Singularity is Near'', ''The Age of Spiritual Machines'' and ''Fantastic Voyage'' including the rights to Kurzweil's life and ideas for the film ''[[Transcendent Man (film)|Transcendent Man]]''. The feature length documentary was directed by Barry Ptolemy.
+
+Kurzweil's newest book, ''Transcend: Nine Steps to Living Well Forever'',<ref>{{cite web|url=http://www.rayandterry.com/transcend/|title=Transcend: Nine Steps to Living Well Forever}}</ref> a follow-up on ''Fantastic Voyage'', was released on April 28, 2009.
+
+His current book project is titled ''How The Mind Works and How To Build One.''<ref>{{cite web|url=http://www.hplusmagazine.com/articles/ai/ray-kurzweil-h-interview|title=Ray Kurzweil: The h+ Interview|date=December 30, 2009|publisher=h+ }}</ref>
+
+==Recognition and awards==
+Kurzweil has been called the successor and "rightful heir to [[Thomas Edison]]", and was also referred to by ''[[Forbes]]'' as "the ultimate thinking machine."<ref>Gazette, The. (2008-07-19) [http://www.canada.com/montrealgazette/story.html?id=b09e780f-7da1-489f-8e5e-3ce02241ac4c Survival of the Machines]. Canada.com. Retrieved on 2011-06-16.</ref><ref>[http://www.reuters.com/article/pressRelease/idUS106533+03-Jan-2008+PRN20080103 Renowned Futurist Ray Kurzweil to Keynote the 2008 Game Developers Conference]. Reuters.com. Retrieved on 2011-06-16.</ref>
+
+Kurzweil has received many awards and honors, including:
+*First place in the 1965 International Science Fair<ref name=ssp/> for inventing the classical music synthesizing computer.
+*The 1978 [[Grace Murray Hopper Award]] from the [[Association for Computing Machinery]]. The award is given annually to one "outstanding young computer professional" and is accompanied by a $35,000 prize.<ref>[http://awards.acm.org/hopper/ ACM Awards: Grace Murray Hopper Award]. Awards.acm.org. Retrieved on 2011-06-16.</ref> Kurzweil won it for his invention of the Kurzweil Reading Machine.<ref>[http://awards.acm.org/citation.cfm?id=3622009&srt=all&aw=145&ao=GMHOPPER ACM: Fellows Award / Raymond Kurzweil]. Awards.acm.org. Retrieved on 2011-06-16.</ref>
+*The 1990 "Engineer of the Year" award from ''Design News''.<ref>[http://www.designnews.com/article/CA6451495.html Engineer of the Year Hall of Fame, 6/12/2007]{{dead link|date=June 2011}}</ref>
+*The 1994 Dickson Prize in Science. One is awarded every year by [[Carnegie Mellon University]] to individuals who have "notably advanced the field of science." Both a medal and a $50,000 prize are presented to winners.<ref>[http://www.nndb.com/honors/045/000111709/ Dickson Prize]. Nndb.com. Retrieved on 2011-06-16.</ref>
+*The 1998 "Inventor of the Year" award from the [[Massachusetts Institute of Technology]].<ref>[http://web.mit.edu/newsoffice/2005/corporation-0608.html Corporation names new members]. Web.mit.edu (2005-06-08). Retrieved on 2011-06-16.</ref>
+*The 1999 [[National Medal of Technology]].<ref>[http://web.archive.org/web/20070928061946/http://www.technology.gov/medal/Recipients.htm Technology Administration. THE NATIONAL MEDAL OF TECHNOLOGY RECIPIENTS. 1985–2006 Recipients]. technology.gov</ref> This is the highest award the President of the United States can bestow upon individuals and groups for pioneering new technologies, and the President dispenses the award at his discretion.<ref>[http://web.archive.org/web/20071218140046/http://www.technology.gov/medal/ Technology Administration. THE NATIONAL MEDAL OF TECHNOLOGY. 2007 Events and Activities]. technology.gov</ref> Bill Clinton presented Kurzweil with the National Medal of Technology during a White House ceremony in recognition of Kurzweil's development of computer-based technologies to help the disabled.
+*The 2000 Telluride Tech Festival Award of Technology.<ref>[http://www.techfestival.org/honorees Telluride Tech Festival]{{dead link|date=June 2011}}</ref> Two other individuals also received the same honor that year. The award is presented yearly to people who "exemplify the life, times and standard of contribution of Tesla, Westinghouse and Nunn."
+*The 2001 [[Lemelson-MIT Prize]] for a lifetime of developing technologies to help the disabled and to enrich the arts.<ref>[http://web.mit.edu/invent/a-winners/a-kurzweil.html Winners' Circle: Raymond Kurzweil]. Web.mit.edu. Retrieved on 2011-06-16.</ref> Only one is meted out each year to highly successful, mid-career inventors. A $500,000 award accompanies the prize.<ref>[http://web.mit.edu/invent/a-prize.html Lemelson-MIT Prize]. Web.mit.edu (2006-10-27). Retrieved on 2011-06-16.</ref>
+*Kurzweil was inducted into the National Inventors Hall of Fame in 2002 for inventing the Kurzweil Reading Machine.<ref>[http://www.invent.org/hall_of_fame/180.html Ray Kurzweil Inventor Profile]. Invent.org (1948-02-12). Retrieved on 2011-06-16.</ref> The organization "honors the women and men responsible for the great technological advances that make human, social and economic progress possible."<ref>[http://www.invent.org/hall_of_fame/1_0_0_hall_of_fame.asp Hall of Fame Overview]. Invent.org. Retrieved on 2011-06-16.</ref> Fifteen other people were inducted into the Hall of Fame the same year.<ref>[http://www.invent.org/hall_of_fame/1_1_4_listing_induction.asp?vInduction=2002 Hall of Fame 2002]. Invent.org. Retrieved on 2011-06-16.</ref>
+*The Arthur C. Clarke Lifetime Achievement Award on April 20, 2009 for lifetime achievement as an inventor and futurist in computer-based technologies.<ref>{{cite web|url=http://www.clarkefoundation.org/news/042009.php |title=The Arthur C. Clarke Foundation |publisher=Clarkefoundation.org |date=2009-04-20 |accessdate=2011-03-27}}</ref>
+*Kurzweil has received seventeen honorary doctorates between 1982 and 2010.{{Citation needed|date=March 2011}}–
+*In 2011, Kurzweil was named a Senior Fellow of the [[Design Futures Council]].<ref>Design Futures Council Senior Fellows http://www.di.net/about/senior_fellows/</ref>
+
+==Involvement with futurism and transhumanism==
+
+Kurzweil is generally recognized as a public advocate for the [[futurist]] and [[transhumanist]] movements, due to his stances on [[life extension]] technologies, his efforts to forecast future advances in technology, and his interest in the concept of the [[technological singularity]].  At the same time, he has attracted significant criticism from scientists and thinkers.
+
+Kurzweil's central argument is derived from the predictions of [[Moore's Law]] that the rate of innovation of computer technology is increasing not linearly but rather exponentially.  According to Kurzweil's argument, since growth in so many fields of science and technology depends upon computing power, these improvements translate into exponentially more frequent advances in non-computer sciences like nanotechnology, biotechnology, and materials science.  Kurzweil refers to this concept as the "Law of Accelerating Returns", and has asserted that this is supported by a number of metrics.
+
+Kurzweil has forecast a number of specific technological advances with specific dates in his books, stating that before 2050 medical advances will allow people to radically extend their lifespans while preserving quality of life through the use of [[nanobots]],<ref name="booktv"/><!-- at 96 minutes --><ref name="">{{cite news| url=http://news.bbc.co.uk/2/hi/americas/7248875.stm| title=Machines 'to match man by 2029'| date=2008-02-16| accessdate=2008-02-17 | work=BBC News| first=Helen| last=Briggs}}</ref> that a computer will pass the [[Turing test]] by 2029, that the first [[strong artificial intelligence]] will be a computer simulation of a human brain generated by nanorobotic [[brain scanning]], sentient artificial intelligences will exhibit moral thinking and respect humans, and that the line between humans and machines will blur as machines attain human-level intelligence and humans start incorporating more technology.
+
+Kurzweil's application of his law to forecasting innovations have been disputed by other scientists and writers.<ref>{{cite web|url=http://spectrum.ieee.org/computing/software/ray-kurzweils-slippery-futurism |title=Ray Kurzweil's Slippery Futurism – IEEE Spectrum |publisher=Spectrum.ieee.org |date= |accessdate=2011-03-27}}</ref>
+
+Kurzweil's standing as a [[Futures studies|futurist]] and [[Transhumanism|Transhumanist]] has led to his involvement in several Singularity-themed organizations. In December 2004, Kurzweil joined the advisory board of the [[Singularity Institute for Artificial Intelligence]].<ref>[http://www.singinst.org/aboutus/board Board | Singularity Institute for Artificial Intelligence]. Singinst.org. Retrieved on 2011-06-16.</ref> In October 2005, Kurzweil joined the scientific advisory board of the Lifeboat Foundation.<ref>[http://lifeboat.com/ex/boards#robotics Lifeboat Foundation Advisory Boards]. Lifeboat.com. Retrieved on 2011-06-16.</ref> On May 13, 2006, Kurzweil was the first speaker at the [[Stanford University]] [[Singularity Summit]].<ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/12/BUG9IIMG1V197.DTL&type=printable Printable version: Smarter than thou? / Stanford conference ponders a brave new world with machines more powerful than their creators]. Sfgate.com (2006-05-12). Retrieved on 2011-06-16.</ref>
+
+In February 2009, Kurzweil, in collaboration with [[Google]] and the [[NASA Ames Research Center]], announced the creation of the [[Singularity University]] training center for corporate executives and government officials.  The University's self-described mission is to  "assemble, educate and inspire a cadre of leaders who strive to understand and facilitate the development of exponentially advancing technologies and apply, focus and guide these tools to address humanity’s grand challenges".<ref>{{cite web|url=http://singularityu.org/about/faq/ |title=FAQ &#124; Singularity University |publisher=Singularityu.org |date=2008-09-20 |accessdate=2011-03-27}}</ref> Using [[Vernor Vinge]]'s Singularity concept as a foundation, the University offered its first nine-week graduate program to forty students in June, 2009.
+
+==Stand on nanotechnology==
+Kurzweil is on the Army Science Advisory Board, has testified before Congress on the subject of [[nanotechnology]], and has advocated that nanotechnology could solve significant global problems such as poverty, disease, and climate change, viz. [http://www.qsinano.com/pdf/ForbesWolfe_NanotechReport_July2006.pdf Nanotech Could Give Global Warming a Big Chill (July, 2006)].<ref name="Global_warming">[http://www.qsinano.com/pdf/ForbesWolfe_NanotechReport_July2006.pdf Nanotech Could Give Global Warming a Big Chill (July, 2006)]. (PDF) . Retrieved on 2011-06-16.</ref>
+
+In media appearances, Kurzweil has stressed the extreme potential dangers of nanotechnology,<ref name=booktv/><!-- at 85, 147, 167 and 173 minutes into 3 hour interview--> but argues that in practice, progress cannot be stopped, and any attempt to do so will retard the progress of defensive and beneficial technologies more than the malevolent ones, increasing the danger. He suggests that the proper place of regulation is to make sure progress proceeds safely and quickly.
+
+==''The Law of Accelerating Returns''==
+{{Main|Accelerating change}}
+In his 1999 book ''[[The Age of Spiritual Machines]]'' Kurzweil proposed "The Law of Accelerating Returns", according to which the rate of change in a wide variety of evolutionary systems (including but not limited to the growth of technologies) tends to increase exponentially.<ref>Ray Kurzweil, ''The Age of Spiritual Machines'', Viking, 1999, [http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA630#v=onepage&q&f=false p. 30] and [http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA632#v=onepage&q&f=false p. 32]</ref> He gave further focus to this issue in a 2001 essay entitled "The Law of Accelerating Returns", which proposed an extension of [[Moore's law]] to a wide variety of technologies, and used this to argue in favor of [[Vernor Vinge]]'s concept of a [[technological singularity]].<ref>[http://www.kurzweilai.net/articles/art0134.html?printable=1 "The Law of Accelerating Returns"]. Kurzweilai.net (2011-06-05). Retrieved on 2011-06-16.</ref>
+
+==Predictions==
+{{Main|Predictions made by Ray Kurzweil}}
+{{Original research|section|date=December 2007}}
+
+===''The Age of Intelligent Machines''===
+Kurzweil's first book, ''[[The Age of Intelligent Machines]]'', presented his ideas about the future. It was written from 1986 to 1989 and published in 1990. Building on [[Ithiel de Sola Pool]]'s "Technologies of Freedom" (1983), Kurzweil claims to have forecast the [[History of the Soviet Union (1985–1991)|demise of the Soviet Union]] due to new technologies such as cellular phones and fax machines disempowering authoritarian governments by removing state control over the flow of information. In the book Kurzweil also extrapolated preexisting trends in the improvement of computer chess software performance to predict correctly that computers would beat the best human players by 1998, and most likely in that year. In fact, the event occurred in May 1997 when chess World Champion [[Garry Kasparov]] was defeated by IBM's [[Deep Blue (chess computer)|Deep Blue]] computer in a well-publicized chess tournament. Perhaps most significantly, Kurzweil foresaw the explosive growth in worldwide Internet use that began in the 1990s. At the time of the publication of ''[[The Age of Intelligent Machines]]'', there were only 2.6 million Internet users in the world,<ref>[http://findarticles.com/p/articles/mi_m1310/is_2001_Feb/ai_70910777/pg_3 Fleeing the dot.com era: decline in Internet usage]. Findarticles.com. Retrieved on 2011-06-16.</ref> and the medium was unreliable, difficult to use, and deficient in content, making Kurzweil's realization of its future potential especially prescient, given the technology's limits at that time. He also stated that the Internet would explode not only in the number of users but in content as well, eventually granting users access "to international networks of libraries, data bases, and information services". Additionally, Kurzweil claims to have correctly foreseen that the preferred mode of Internet access would inevitably be through wireless systems, and he was also correct to estimate that the latter would become practical for widespread use in the early 21st century.
+
+Kurzweil also claims to have accurately forecast that, by the end of the 1990s, many documents would exist solely in computers and on the Internet, and that they would commonly be embedded with sounds, animations, and videos that would inhibit their transfer to paper format. Moreover, he claims to have foreseen that cellular phones would grow in popularity while shrinking in size for the foreseeable future.
+
+===''The Age of Spiritual Machines''===
+{{Out of date|date=June 2009}}
+In 1999, Kurzweil published a second book titled ''[[The Age of Spiritual Machines]]'', which goes into more depth explaining his futurist ideas. The third and final section of the book is devoted to elucidating the specific course of technological advancements Kurzweil predicts the world will experience over the next century.
+
+===''The Singularity is Near''===
+While this book focuses on the future of technology and the human race as did ''[[The Age of Intelligent Machines]]'' and ''[[The Age of Spiritual Machines]]'', Kurzweil makes very few concrete, short-term predictions in ''[[The Singularity Is Near]]'', though longer-term visions are present in abundance. He recently discussed the singularity with ''[[Vice Magazine]].''<ref>[http://www.viceland.com/int/v16n4/htdocs/ray-kurzweil-800.php RAY KURZWEIL- That Singularity Guy] Vice magazine. April 2009</ref>
+
+=== Solar Power and Grand Challenges of the 21st Century ===
+In 2008, Ray Kurzweil said in an expert panel in the [[National Academy of Engineering]] that solar power will scale up to produce all the energy needs of Earth's people in 20 years.<ref>{{cite web|url=http://www.livescience.com/environment/080219-kurzweil-solar.html |title=Solar Power to Rule in 20 Years, Futurists Say |publisher=LiveScience |date=2008-02-19 |accessdate=2011-03-27}}</ref>
+
+==Work on nutrition, health, and lifestyle==
+Kurzweil admits that he cared little for his health until age 35, when he was diagnosed with a [[glucose intolerance]], an early form of [[type II diabetes]] (a major risk factor for heart disease). Kurzweil then found a doctor that shares his non-conventional beliefs to develop an extreme regimen involving hundreds of pills, chemical i.v. treatments, red wine and various other methods to attempt to live longer.
+
+Kurzweil ingests "250 supplements, eight to 10 glasses of [[alkaline water]] and 10 cups of green tea" every day and drinks several glasses of red wine a week in an effort to "reprogram" his biochemistry.<ref>[http://www.wired.com/news/medtech/0,1286,66585,00.html?tw=wn_tophead_3 Never Say Die: Live Forever]. Wired.com. Retrieved on 2011-06-16.</ref> Lately, he has cut down the number of supplement pills to 150.<ref>[http://transcripts.cnn.com/TRANSCRIPTS/0805/30/gb.01.html CNN.com – Transcripts]. Transcripts.cnn.com (2008-05-30). Retrieved on 2011-06-16.</ref>
+
+Kurzweil joined the [[Alcor Life Extension Foundation]], a [[cryonics]] company. In the event of his death, Kurzweil's body will be chemically preserved, frozen in liquid nitrogen, and stored at an Alcor facility in the hope that future medical technology will be able to revive him.{{Citation needed|date=February 2011}}
+
+Kurzweil has authored three books on the subjects of nutrition, health and immortality: ''[[The 10% Solution for a Healthy Life]]'', ''[[Fantastic Voyage: Live Long Enough to Live Forever]]'' and ''TRANSCEND: Nine Steps to Living Well Forever''.<ref>[http://www.rayandterry.com/TRANSCEND/ TRANSCEND | Home page]. Rayandterry.com. Retrieved on 2011-06-16.</ref> In all, he recommends that other people emulate his health practices to the best of their abilities.
+
+Kurzweil and his current "anti-aging" doctor, Terry Grossman, MD., now have two websites promoting their first<ref>[http://www.fantastic-voyage.net/ Live Long Enough to Live Forever]. Fantastic Voyage. Retrieved on 2011-06-16.</ref> and second book.<ref>[http://www.rayandterry.com/index.asp Ray and Terry's Longevity Products – Store Front Page]. Rayandterry.com. Retrieved on 2011-06-16.</ref>
+
+==Stance on religion==
+{{Original research|section|date=June 2011}}
+Though Kurzweil's parents were [[Jewish]], they raised him as a [[Unitarian Universalism|Unitarian Universalist]] and exposed him to many different faiths during his youth. Kurzweil presented sermons at the First Unitarian Universalist Church of San Diego in January 2000 upon publication of The Age of Spiritual Machines. He gave a 2007 keynote speech to the [[United Church of Christ]] in [[Hartford, Connecticut]], alongside [[Barack Obama]], who was then a Presidential candidate. In ''The Singularity is Near'' he expresses his belief in a need for a new religion based on the principle of mutual respect between sentient life forms, and on the principle of respecting knowledge. This religion would not have a leader, instead being purely personal to adherents.
+
+At the end of the documentary Transcendent Man (2009) he says, "Does god exist? Well, I would say not yet."
+
+==Criticism==
+
+{{Criticism section|date=April 2010}}
+Kurzweil's ideas have generated much criticism within the scientific community and in the media.  There are philosophical arguments over whether a machine can "think" (see [[Philosophy of artificial intelligence]]). [[Mitch Kapor]], the founder of  [[Lotus Development Corporation]], has called the notion of a technological singularity "[[intelligent design]] for the [[Intelligence quotient|IQ]] 140 people...This proposition that we're heading to this point at which everything is going to be just unimaginably different—it's fundamentally, in my view, driven by a religious impulse. And all of the frantic arm-waving can't obscure that fact for me."<ref>{{cite news | first=Brian | last=O'Keefe | title=The smartest (or the nuttiest) futurist on Earth | date= 2007-05-02 | url= http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/14/100008848/ | work =[[Fortune (magazine)|Fortune]] | accessdate = 2008-08-28 }}</ref>
+
+VR pioneer  [[Jaron Lanier]] has been one of the strongest critics of Kurzweil’s ideas, describing them as “cybernetic totalism”, and has outlined his views on the culture surrounding Kurzweil’s predictions in an essay for [[Edge.org]] entitled ''One Half of a Manifesto''.<ref>{{cite web|url=http://www.edge.org/3rd_culture/lanier/lanier_p1.html |title=One Half of a Manifesto |accessdate=2008-08-28 |last=Lanier |first=Jaron |publisher=[[Edge.org]]}}</ref>
+
+[[Pulitzer Prize]] winner [[Douglas Hofstadter]], author of ''[[Gödel, Escher, Bach]]'', has said of Kurzweil's and [[Hans Moravec]]'s books: "It’s as if you took a lot of very good food and some dog excrement and blended it all up so that you can't possibly figure out what's good or bad. It's an intimate mixture of rubbish and good ideas, and it's very hard to disentangle the two, because these are smart people; they're not stupid."<ref>{{cite web|url=http://www.americanscientist.org/bookshelf/pub/douglas-r-hofstadter |title=An interview with Douglas R. Hofstadter |accessdate=2008-08-28 |last=Ross |first=Greg |work=[[American Scientist]] }}</ref>
+
+Although the idea of a technological singularity is a popular concept in [[science fiction]], some authors such as [[Neal Stephenson]]<ref>{{cite web|url=http://interviews.slashdot.org/article.pl?sid=04/10/20/1518217 |title=Neal Stephenson Responds With Wit and Humor |date=2004-10-20 |accessdate=2008-08-28 |last=Miller |first=Robin |publisher=[[Slashdot]]|quote=My thoughts are more in line with those of Jaron Lanier, who points out that while hardware might be getting faster all the time, software is shit (I am paraphrasing his argument). And without software to do something useful with all that hardware, the hardware's nothing more than a really complicated space heater.}}</ref> and [[Bruce Sterling]] have voiced scepticism about its real-world plausibility. Sterling expressed his views on the singularity scenario in a talk at the [[Long Now Foundation]] entitled ''The Singularity: Your Future as a Black Hole''.<ref>{{cite web|url=http://blog.longnow.org/2004/06/14/bruce-sterling-the-singularity-your-future-as-a-black-hole/ |title=Bruce Sterling – "The Singularity: Your Future as a Black Hole" |date=2004-06-14 |accessdate=2009-06-08 |last=Brand  |first=Stewart |publisher=The Long Now Foundation}}</ref><ref>{{cite web|url=http://media.longnow.org/seminars/salt-0200406-sterling/salt-0200406-sterling.mp3 |title=The Singularity: Your Future as a Black Hole |last=Sterling |first=Bruce |authorlink=Bruce Sterling|format=MP3|quote=It’s an end-of-history notion, and like most end-of-history notions, it is showing its age.}}</ref> Other prominent AI thinkers and computer scientists such as [[Daniel Dennett]],<ref>{{cite web|url=http://www.edge.org/discourse/jaron_manifesto.html#dennett |title=The Reality Club: One Half Of A Manifesto |last=Dennett |first=Daniel |authorlink=Daniel Dennett|publisher=[[Edge.org]]|quote="I'm glad that Lanier entertains the hunch that Dawkins and I (and Hofstadter and others) 'see some flaw in logic that insulates [our] thinking from the eschatalogical implications' drawn by Kurzweil and Moravec. He’s right. I, for one, do see such a flaw, and I expect Dawkins and Hofstadter would say the same."}}</ref> [[Rodney Brooks]],<ref>{{cite web|url=http://www.edge.org/discourse/jaron_manifesto.html#brooks |title=The Reality Club: One Half Of A Manifesto |last=Brooks |first=Rodney |authorlink=Rodney Brooks|publisher=Edge.org|quote=I do not at all agree with Moravec and Kurzweil's predictions for an eschatological cataclysm, just in time for their own memories and thoughts and person hood to be preserved before they might otherwise die.}}</ref> and [[David Gelernter]]<ref>Transcript of debate over feasibility of near-term AI (moderated by Rodney Brooks): {{cite web|url=http://www.edge.org/discourse/jaron_manifesto.html#brooks |title=Gelernter, Kurzweil debate machine consciousness |publisher=KurzweilAI.net}}</ref> have also criticized Kurzweil’s projections.
+
+[[Bill Joy]], cofounder of [[Sun Microsystems]], agrees with Kurzweil's timeline of future progress, but thinks that technologies such as AI, nanotechnology and advanced biotechnology will create a [[dystopia]]n world.<ref>{{cite web | url = http://www.wired.com/wired/archive/8.04/joy_pr.html | title = Why the future doesn't need us | accessdate = 2008-09-21 | last = Joy | first = Bill | year = 2000 | month = April | work = Wired | quote =...it was only in the autumn of 1998 that I became anxiously aware of how great are the dangers facing us in the 21st century. I can date the onset of my unease to the day I met Ray Kurzweil...}}</ref>
+
+[[Daniel Lyons]], writing in [[Newsweek]], criticized Kurzweil for some of his predictions which turned out to be wrong; such as the economy continuing to boom from the 1998 [[Dot-com bubble|dot-com]] through 2009, a US company having a [[market capitalization]] of more than $1 trillion, a supercomputer achieving 20 [[FLOPS|petaflops]], speech recognition being in widespread use and cars that would drive themselves using sensors installed in highways; all by 2009.<ref name="Newsweek May 2009 page 2">{{cite web | url = http://www.newsweek.com/id/197812/page/2 | title = I, Robot | accessdate = 2009-05-22 | last = Lyons | first = Daniel | year = 2009 | month = May | work = Newsweek | quote =During the height of the dotcom boom in 1998, Kurzweil predicted that the economy would keep on booming right through 2009 (and on to 2019, for that matter) and that one U.S. company (he didn't say which) would have a market capitalization of more than $1 trillion. Not even close. Kurzweil also predict-ed that by 2009 a top supercomputer would be capable of performing 20 quadrillion operations per second (20 petaflops in computer jargon), the same as the human brain. In fact, the top supercomputer just broke the one-petaflop mark—though Kurzweil says he considers all of Google to be a giant supercomputer and that it is, indeed, capable of performing 20 petaflops. Kurzweil also predicted that by now our cars would be able to drive themselves by communicating with intelligent sensors embedded in highways, and that speech recognition would be in widespread use.}}</ref> To the charge that a 20 petaflop supercomputer was not produced in the time he predicted, Kurzweil responded that he considers [[Google]] a giant supercomputer, and that it is capable of 20 petaflops.<ref name="Newsweek May 2009 page 2"/> In 2009 however IBM announced the commencement of its development of a super-computer for the Department of Energy's National Nuclear Security Administrations. This machine incorporating 20+ petaflops is expected to be delivered in 2011. <ref>{{cite web|url=http://www-03.ibm.com/press/us/en/pressrelease/26599.wss |title=IBM Press room – 2009-02-03 20 Petaflop Sequoia Supercomputer – United States |publisher=03.ibm.com |date=2009-02-03 |accessdate=2011-03-27}}</ref>
+
+Biologist [[P.Z. Myers|P. Z. Myers]] has criticized Kurzweil's predictions as being based on "[[New Age]] spiritualism" rather than science and says that Kurzweil does not understand basic [[biology]].<ref>{{cite web | url = http://www.newsweek.com/id/197812 | title = I, Robot | accessdate = 2009-07-24 | last = Lyons | first = Daniel | year = 2009 | month = May | work = Newsweek | quote = Still, a lot of people think Kurzweil is completely bonkers and/or full of a certain messy byproduct of ordinary biological functions. They include P. Z. Myers, a biologist at the University of Minnesota, Morris, who has used his blog to poke fun at Kurzweil and other armchair futurists who, according to Myers, rely on junk science and don't understand basic biology. "I am completely baffled by Kurzweil's popularity, and in particular the respect he gets in some circles, since his claims simply do not hold up to even casually critical examination," writes Myers. He says Kurzweil's Singularity theories are closer to a deluded religious movement than they are to science. "It's a New Age spiritualism—that's all it is," Myers says. "Even geeks want to find God somewhere, and Kurzweil provides it for them."}}</ref><ref name=Singularitarianism>{{cite web|last=Myers|first=PZ|title=Singularitarianism?|url=http://scienceblogs.com/pharyngula/2011/02/singularitarianism.php|work=Pharyngula blog|accessdate=14 February 2011}}</ref>
+
+==See also==
+{{Refbegin|2}}
+* [[Accelerating change]]
+* [[Paradigm shift]]
+* [[Simulated reality]]
+* [[Singularity University]]
+* [[Technological singularity]]
+* [[Transhumanism]]
+* [[Transcendent Man (film)]]
+* [[Predictive medicine]]
+* [[Full Genome Sequencing]]
+* [[Predictions made by Ray Kurzweil]]
+{{Refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Raymond Kurzweil}}
+{{Spoken Wikipedia|En-Ray_Kurzweil.ogg|2011-04-03}}
+*[http://www.kurzweiltech.com/ Kurzweil Companies web site]
+*[http://cli.gs/RayKurzweilPatents Raymond Kurzweil's IP] – all of Raymond Kurzweil's US patents & patent applications
+*{{C-SPAN|raykurzweil}}
+*{{Charlie Rose view|800}}
+*{{IMDb name|0961244|Raymond Kurzweil}}
+*{{Nndb|101/000032005}}
+*{{Worldcat id|lccn-n88-274457}}
+*[http://www.time.com/time/health/article/0,8599,2048138,00.html 2045: The Year Man Becomes Immortal], Lev Grossman, ''[[Time (magazine)|Time]]'', February 10, 2011
+
+{{Life extension}}
+
+{{Persondata   <!-- Metadata: see [[Wikipedia:Persondata]] -->
+|NAME= Kurzweil, Ray
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Author, Scientist, & Futurist
+|DATE OF BIRTH= February 12, 1948
+|PLACE OF BIRTH= [[Queens]], [[New York]], [[United States]]
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Kurzweil, Ray}}
+[[Category:1948 births]]
+[[Category:American health and wellness writers]]
+[[Category:American science writers]]
+[[Category:American technology writers]]
+[[Category:Artificial intelligence researchers]]
+[[Category:American people of Austrian-Jewish descent]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Futurologists]]
+[[Category:Grace Murray Hopper Award laureates]]
+[[Category:Hedge fund managers]]
+[[Category:Lemelson–MIT Prize]]
+[[Category:Life extensionists]]
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:National Inventors Hall of Fame inductees]]
+[[Category:National Medal of Technology recipients]]
+[[Category:Singularitarianism]]
+[[Category:Transhumanists]]
+[[Category:Immortality]]
+[[Category:Rodale, Inc.]]
+
+[[ar:ريموند كرزويل]]
+[[bn:রেইমন্ড কার্জওয়াইল]]
+[[de:Raymond Kurzweil]]
+[[es:Raymond Kurzweil]]
+[[fr:Raymond Kurzweil]]
+[[gl:Raymond Kurzweil]]
+[[id:Ray Kurzweil]]
+[[it:Raymond Kurzweil]]
+[[he:ריי קורצווייל]]
+[[la:Raimundus Kurzweil]]
+[[hu:Raymond Kurzweil]]
+[[nl:Raymond Kurzweil]]
+[[ja:レイ・カーツワイル]]
+[[no:Raymond Kurzweil]]
+[[pl:Raymond Kurzweil]]
+[[pt:Raymond Kurzweil]]
+[[ro:Ray Kurzweil]]
+[[ru:Курцвейл, Рэймонд]]
+[[sk:Ray Kurzweil]]
+[[fi:Raymond Kurzweil]]
+[[sv:Ray Kurzweil]]
+[[tr:Raymond Kurzweil]]
+[[zh:雷蒙德·库茨魏尔]]

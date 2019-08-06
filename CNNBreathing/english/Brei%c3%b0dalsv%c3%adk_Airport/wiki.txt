@@ -1,0 +1,89 @@
+{{Infobox airport
+| name         = Breiðdalsvík Airport
+| nativename   = 
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  = <!-- if less than 200 -->
+| caption      =
+| image2       =
+| image2-width = <!-- if less than 200 -->
+| caption2     =
+| IATA         = BXV
+| ICAO         = BIBV
+| FAA          =
+| TC           =
+| LID          =
+| GPS          =
+| WMO          =
+| type         = Public
+
+| owner-oper   =
+| owner        =
+| operator     =
+| city-served  = [[Breiðdalsvík]]
+
+| location     =
+| hub          =
+| built        = <!-- military airports -->
+| used         = <!-- military airports -->
+| commander    = <!-- military airports -->
+| occupants    = <!-- military airports -->
+| metric-elev  =
+| elevation-f  = 8 
+| elevation-m  = 
+| coordinates  =
+| latd = 64 | latm = 47 | lats = 20 | latNS = N
+| longd= 14 | longm= 02 | longs= 30 | longEW= W
+| coordinates_type       =
+| coordinates_region     =
+| coordinates_notitle    =
+| website                =
+| image_map              =
+| image_mapsize          =
+| image_map_alt          =
+| image_map_caption      =
+| pushpin_map            = Iceland
+| pushpin_label_position =
+| pushpin_label          = '''BXV'''
+| pushpin_map_alt        =
+| pushpin_mapsize        =
+| pushpin_image          =
+| pushpin_map_caption    = Location of the airport in Iceland
+| r1-number    = 12/30
+| r1-length-f  = 3075
+| r1-length-m  = 938
+| r1-surface   = Grass
+| metric-rwy   =
+| h1-number    =
+| h1-length-f  =
+| h1-length-m  =
+| h1-surface   = <!-- up to h12 -->
+| stat1-header =
+| stat1-data   = <!-- up to stat4 -->
+| stat-year    =
+| footnotes    = Source: Google Maps<ref>[http://maps.google.com/?ll=64.788424,-14.044819&spn=0.035062,0.062141&t=h&z=14 Google Maps - Breiðdalsvík]</ref>}}
+
+'''Breiðdalsvík Airport''' {{airport codes |BXV|BIBV|}} is an airport serving [[Breiðdalsvík]], [[Iceland]].
+
+==See also==
+*[[Transport in Iceland]]
+*{{portal-inline|Iceland}}
+*{{portal-inline|Aviation}}
+
+==References==
+{{reflist}}
+* [http://ourairports.com/countries/IS/airports.html OurAirports - Iceland]
+* [http://www.gcmap.com/airport/BXV  Great Circle Mapper - Breiðdalsvík]
+* [http://www.fallingrain.com/icao/BIBV.html Breiðdalsvík Airport]
+* Google Earth
+
+==External links==
+
+<!--{{Airports in Iceland}}-->
+
+{{DEFAULTSORT:Breiddalsvik Airport}}
+[[Category:Airports in Iceland]]
+
+
+{{Europe-airport-stub}}

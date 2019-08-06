@@ -1,0 +1,11 @@
+{{English spoken article
+|title=Maisie Williams
+|user_name_link=[[:en:User:JCCRussell|JCCRussell]]
+|date=2014-08-07
+|accent=British
+|sex=m
+|oldid=620235451
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}

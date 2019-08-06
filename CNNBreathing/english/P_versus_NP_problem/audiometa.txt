@@ -1,0 +1,13 @@
+{{Spoken article
+|title=P vs NP problem
+|time=38:24
+|user_name=Dcoetzee
+|date=2013-08-12
+|oldid=566692009
+|accent=US
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]

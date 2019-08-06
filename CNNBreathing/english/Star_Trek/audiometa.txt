@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Article on Star Trek, read aloud by Jules Ismail}}
+|Source=Wikipedia
+|Author=[[User:Theroachyjay|Theroachyjay]]
+|Date=2010-01-06
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+{{Check categories|year=2010|month=January|day=8
+|lang1=en|wiki1=wikipedia|article1=Star_Trek
+|gallery1=Star Trek
+|ncats=1
+}}
+
+[[Category:Star Trek]]

@@ -1,0 +1,104 @@
+{{Infobox settlement
+|name                     = Ivy
+|official_name            = 
+|settlement_type          = [[Census-designated place]] (CDP)
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = Virginia
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the Commonwealth of Virginia
+|pushpin_mapsize          =
+|image_map                = 
+|map_caption              = Location within Albemarle county
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of countries|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[Political divisions of the United States|State]]
+|subdivision_name1        = [[Virginia]]
+|subdivision_type2        = [[List of counties in Virginia|County]]
+|subdivision_name2        = [[Albemarle County, Virginia|Albemarle]]
+
+|government_footnotes     = 
+|government_type          = 
+|leader_title             =
+|leader_name              =
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           =
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 905
+|population_density_km2   = auto
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_ft             = 522
+|coordinates_display = inline,title
+|coordinates_type = region:US_type:city
+|latd = 38|latm = 03 |lats = 23|latNS = N
+|longd = 78|longm = 35|longs = 48|longEW = W
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s 22945
+|postal_code              = 
+|area_code                = 434
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               =
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1493130<ref>{{cite gnis|1493130|Ivy}}</ref>
+|website                  = 
+|footnotes                = 
+}}
+'''Ivy''' is a [[census-designated place]] (CDP) in [[Albemarle County, Virginia|Albemarle County]], [[Virginia]], [[United States]]. The population as of the [[United States Census, 2010|2010 Census]] was 905.<ref>[http://mcdc.missouri.edu/webrepts/pl94trends/Virginia_stplace2.html Virginia Trend Report 2: State and Complete Places (Sub-state 2010 Census Data).] Missouri Census Data Center. Accessed 2011-06-08.</ref>
+It is a small [[Unincorporated area|unincorporated community]] located on [[U.S. Route 250]], just west of [[Charlottesville]].
+
+[[D. S. Tavern]], [[Home Tract]], [[Spring Hill (Ivy, Virginia)|Spring Hill]], and [[Woodstock Hall Tavern]] are listed on the [[National Register of Historic Places]].<ref name="nris">{{NRISref|version=2010a}}</ref>
+
+==History==
+Ivy Creek flows through this area of western Albemarle County. It was cited in deeds for land in the Ivy area as early as the 1750s. The village at the present location of Ivy was known as Woodville (for the locally prominent Wood family) between 1826 and 1851. After the arrival of the railroad in 1851, the rail stop at this location was known as Woodville Depot. By 1859, the name had changed to Ivy Depot, probably after Ivy Creek. The village's name was shortened to Ivy in the 1950s.<ref>[http://albemarle.org/upload/images/Forms_Center/Departments/Community_Development/Forms/Historic_Preservation/AB-066_AH_Village_Survey_1995_D&M_report_final.pdf "Historic Architectural Survey of Albemarle County Villages"]</ref>
+
+==Climate==
+Climate is characterized by relatively high temperatures and evenly distributed precipitation throughout the year.  The [[Köppen Climate Classification]] subtype for this climate is "[[Humid subtropical climate|Cfa]]" (Humid Subtropical Climate).<ref>[http://www.weatherbase.com/weather/weather-summary.php3?s=395144&cityname=Ivy%2C+Virginia%2C+United+States+of+America&units= Climate Summary for Ivy, Virginia]</ref>
+
+==Notable people==
+*[[Meriwether Lewis]] is a notable native of Ivy.<ref>{{cite web|url=http://www.hmdb.org/marker.asp?marker=1795|title=Birthplace of Meriwether Lewis Marker|publisher=The Historical Marker Database|accessdate=2011-01-07}}</ref>
+*Ivy is also home to former Representative [[Tom Perriello]]<ref>{{cite web|url=http://www2.newsadvance.com/news/2008/aug/17/about_tom_perriello-ar-217542/|title=About Tom Perriello|publisher=Lynchburg News & Advance|accessdate=2011-02-05}}</ref>
+*[[Joe Hicks (baseball)|Joe Hicks]], former [[Major League Baseball]] player.
+
+==References==
+{{reflist}}
+
+{{Albemarle County, Virginia}}
+
+[[Category:Census-designated places in Albemarle County, Virginia]]
+[[Category:Census-designated places in Virginia]]
+
+{{AlbemarleVA-geo-stub}}

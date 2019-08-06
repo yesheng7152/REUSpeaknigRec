@@ -1,0 +1,29 @@
+{{taxobox
+|image = 
+|image_width = 
+|image_caption = 
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Asterales]]
+|familia = [[Asteraceae]]
+|genus = '''''Selleophytum'''''
+|genus_authority = [[Urb.]]
+|binomial= ''[[Selleophytum buchii]]''
+|binomial_authority = [[Urb.]]
+|synonyms_ref=<ref name=x>[http://dixon.iplantcollaborative.org/CompositaeWeb/Default.aspx?Page=NameSearch&searchText=Selleophytum&searchField=NameFull Flann, C (ed) 2009+ Global Compositae Checklist ]</ref><ref>[http://www.theplantlist.org/tpl1.1/record/gcc-76240 The Plant List, ''Selleophytum buchii'' Urb.]</ref>
+|synonyms=''[[Coreopsis buchii]]'' <small>(Urb.) S.F. Blake</small>
+|tribus=[[Coreopsideae]]<ref name=x/>
+|}}
+'''''Selleophytum''''' is a [[genus]] of flowering plants in the [[Coreopsideae|tickseed tribe]] within the [[Asteraceae|daisy family]].<ref name=z>[http://www.biodiversitylibrary.org/page/353759#page/490/mode/1up Urban, Ignatz. 1915. Repertorium Specierum Novarum Regni Vegetabilis 13: 483-484] in Latin</ref><ref>[http://www.tropicos.org/Name/40035057 Tropicos, ''Selleophytum'' Urb.]</ref>
+
+;Species
+The only known species is '''''[[Selleophytum buchii]],''''' native to [[Haiti]] and the [[Dominican Republic]].<ref name=x/><ref name=z/><ref>[http://www.biodiversitylibrary.org/page/381960#page/766/mode/1up Blake, Sydney Fay. 1924.  Contributions from the United States National Herbarium 22(8): 641–642] in Englisy</ref>
+==References==
+{{reflist}}
+[[Category:Coreopsideae]]
+[[Category:Asteraceae genera]]
+[[Category:Flora of Hispaniola]]
+
+{{Asteraceae-stub}}

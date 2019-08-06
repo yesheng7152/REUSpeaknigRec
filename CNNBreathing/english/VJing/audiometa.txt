@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title= VJing
+|time= 36:47
+|user_name= 1904.CC
+|date= 2010-05-13
+|oldid=361894866
+|accent=Euro-English (Portuguese, German) and West/Central Canadian English
+}}
+
+{{Information 
+|description    = {{en|1= Spoken word version of the article "[[:en:VJing|VJing]]" for use on the English Wikipedia. Recorded by [[:en:User:Anaoak|User:Anaoak]], [[:en:User:Carriegates|User:Carriegates]] and [[:en:User:1904.CC|User:1904.CC]] at [[:en:Mapping Festival|Mapping Festival]], Geneva, May 13th 2010.}} 
+|date           = {{Original upload date|2010-05-16}} 
+|source         = {{transferred from|en.wikipedia|SreeBot}} 
+|author         = [[:en:User:1904.CC|1904.CC]] at en.wikipedia
+|Permission     =
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|VJing_(Spoken_Article).ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-05-16 17:47 (UTC) | [[:en:User:1904.CC|1904.CC]] | 15719960 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title= VJing |time= 36:47 |user_name= Anaoak, Carriegates and 1904.CC |date= 2010-05-13 |oldid=361894866 |accent= }} == Licensing: == {{cc-by-sa-3.0}} <!-- T</nowiki></small>
+
+[[Category:VJ (video performance art)]]

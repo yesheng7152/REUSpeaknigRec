@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Broad Creek, North Carolina
+|user_name_link=[[:en:User:Incledon|Incledon]]
+|date=2016-01-05
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Broad_Creek,_North_Carolina&oldid=639478087
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}}}
+|date=2016-01-05
+|source={{own}}
+|author=[[User:Incledon|Incledon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:North Carolina]]

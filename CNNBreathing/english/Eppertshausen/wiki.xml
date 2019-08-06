@@ -1,0 +1,36 @@
+<root><template><title>Infobox German location
+</title><part><name>image_coa            </name><equals>=</equals><value> Wappen Eppertshausen.png
+</value></part><part><name>lat_deg           </name><equals>=</equals><value> 49 </value></part><part><name>lat_min </name><equals>=</equals><value> 57
+</value></part><part><name>lon_deg           </name><equals>=</equals><value> 08 </value></part><part><name>lon_min </name><equals>=</equals><value> 51
+</value></part><part><name>image_plan </name><equals>=</equals><value> Eppertshausen in DA.svg
+</value></part><part><name>state        </name><equals>=</equals><value> Hessen
+</value></part><part><name>region  </name><equals>=</equals><value> Darmstadt
+</value></part><part><name>district         </name><equals>=</equals><value> Darmstadt-Dieburg
+</value></part><part><name>elevation              </name><equals>=</equals><value> 144
+</value></part><part><name>area            </name><equals>=</equals><value> 13.11
+</value></part><part><name>population         </name><equals>=</equals><value> 5870
+</value></part><part><name>Stand             </name><equals>=</equals><value> 2006-12-31
+</value></part><part><name>postal_code               </name><equals>=</equals><value> 64859
+</value></part><part><name>area_code           </name><equals>=</equals><value> 0 60 71
+</value></part><part><name>licence               </name><equals>=</equals><value> DA
+</value></part><part><name>Gemeindeschlüssel </name><equals>=</equals><value> 06 4 32 005
+</value></part><part><name>Straße            </name><equals>=</equals><value> Franz-Gruber-Platz 14
+</value></part><part><name>website           </name><equals>=</equals><value> [http://www.eppertshausen.de/index1.html www.eppertshausen.de]
+</value></part><part><name>mayor     </name><equals>=</equals><value> Carsten Helfmann
+</value></part><part><name>party            </name><equals>=</equals><value> CDU
+</value></part></template>
+'''Eppertshausen''' is a municipality in southern [[Hesse]] ([[Germany]]) in the district [[Darmstadt-Dieburg]]. The municipality has a total population of 5,805 inhabitants. Currently, the mayor is Carsten Helfmann.
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<h level="2" i="2">==External links==</h>
+* [http://www.eppertshausen.de/ Eppertshausen Website] ('''in German''')
+
+<template lineStart="1"><title>Towns and municipalities in Darmstadt-Dieburg district</title></template>
+
+<template lineStart="1"><title>Authority control</title></template>
+[[Category:Darmstadt-Dieburg]]
+
+
+<template lineStart="1"><title>Hesse-geo-stub</title></template></root>

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=introducution paragraph to the article Humanism}}
+|Source={{Own}}
+|Author=[[User:Bluemarine|Bluemarine]]
+|Date=2008-11-07
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+{{Check categories|year=2008|month=November|day=29
+|lang1=en|wiki1=wikipedia|article1=Humanism
+}}
+
+[[Category:Humanism]]

@@ -1,0 +1,72 @@
+The '''Atari video game burial''' of 1983 was an infamous event in video gaming history, in which [[Atari]] dumped thousands of video game cartridges, including a large number of copies of its video game adaptation ''[[E.T. the Extra-Terrestrial (Atari 2600)|E.T. the Extra-Terrestrial]]'', into a [[New Mexico|New Mexico]] landfill. It was one of the consequences of the [[North American video game crash of 1983]].
+
+==Events==
+[[Image:AtariLandfill.jpg|thumb|right|Photo of the Atari landfill taken from an ''Alamogordo Daily News'' article.]]
+In September 1983, the ''[[Alamogordo Daily News]]'' of [[Alamogordo, New Mexico|Alamogordo]], [[New Mexico]] reported in a series of articles, that between ten and twenty<ref name="City to Atari">{{cite news
+  |last=McQuiddy
+  |first= Marian
+  |date=[[1983-09-27]]
+  |title=City to Atari: 'E.T.' trash go home
+  |publisher=''Alamogordo Daily News''
+  |quote=The number of actual trucks which have dumped locally was not known. Local BFI officials put it at 10. However, corporate spokesmen in Houston say it was closer to 20; and city officials say it is actually 14.
+ }}
+</ref> [[semi-trailer]] truckloads of Atari boxes, cartridges, and systems from an Atari storehouse in [[El Paso, Texas|El Paso]] were crushed and buried at the [[landfill]] within the city. It was Atari's first dealings with the landfill, which was chosen because no scavenging was allowed and its garbage was crushed and buried nightly. Atari's stated reason for the burial was that it was changing from [[Atari 2600]] to [[Atari 5200]] games,<ref name="Dump here utilitized">{{cite news
+  |last=McQuiddy
+  |first= Marian
+  |date=[[1983-09-25]]
+  |title=Dump here utilized
+  |publisher=''Alamogordo Daily News''
+  |accessdate=
+  |quote=Moore said the truck drivers told him the reason they were dumping the games is that they are changing from series 2600 to 5200 games, due to excessive amount of black-marketing.
+  }}</ref> but this was later contradicted by a worker who claimed that this was not the case.<ref name="City cementing ban on dumping">{{cite news
+  |last=McQuiddy
+  |first= Marian
+  |date=[[1983-09-28]]
+  |title=City cementing ban on dumping: Landfill won't house anymore 'Atari rejects'
+  |publisher=''Alamogordo Daily News''
+  |quote=He identified himself as being from Atari, but would not give his name. He also said the burial of the items did not mean a move away from the 2600 series of Atari games towards just offering the Atari 5200, and said the items buried were just cartridges."  
+}}</ref> Atari official Bruce Enten stated that Atari was mostly sending broken and returned cartridges to the Alamogordo dump and that it was "by-and-large inoperable stuff."<ref name="City to Atari"/>
+
+On [[September 28]] [[1983]], ''The New York Times'' reported on the story of Atari's dumping in New Mexico. An Atari representative confirmed the story for the newspaper, stating that the discarded inventory came from Atari's plant in El Paso, Texas, which was being closed and converted to a recycling facility.<ref name = "nytdump">{{cite news
+  |date=[[1983-09-28]]
+  |title=Atari Parts Are Dumped
+  |publisher=''[[The New York Times]]''
+ }}</ref> The ''Times'' article did not suggest any of the specific game titles being destroyed, but subsequent reports have generally linked the story of the dumping to the well-known failure of ''E.T.'' Additionally, the headline "City to Atari: 'E.T.' trash go home" in one edition of the ''Alamogordo News'' implies that the cartridges were ''E.T.''<ref name="City to Atari" /> As a result, it is widely speculated that most <!---"if not all"; come on, ALL of them? quite impossible---> of Atari's millions of unsold copies of ''E.T.'' ultimately wound up in this landfill, crushed and encased in cement.<ref name = "titanic">{{cite news
+  |last=Smith
+  |first= Shelley
+  |date=[[2005-04-12]]
+  |title=Raising Alamogordo's legendary Atari "Titanic"
+  |publisher=''Alamogordo Daily News''
+ }}</ref> 
+
+Starting on [[September 29]] [[1983]], a layer of [[concrete]] was poured on top of the crushed materials, a rare occurrence in waste disposal. An anonymous workman's stated reason for the concrete was: "There are dead animals down there. We wouldn't want any children to get hurt digging in the dump."<ref name="City cementing ban on dumping"/>
+
+Eventually, the city began to protest the large amount of dumping Atari was doing; a sentiment summed up by one comissioner with, "We don't want to be an industrial waste dump for El Paso."<ref name="City to Atari" /> The local manager ordered the dumping to be ended shortly afterwards. Due to Atari's unpopular dumping, Alamogordo later passed an Emergency Management Act and created the Emergency Management Task Force to limit the future flexibility of the garbage contractor to secure outside business for the landfill for monetary purposes. Alamogordo's then [[Mayor]], Henry Pacelli, commented that, "We do not want to see something like this happen again."<ref name="City cementing ban on dumping" />
+
+The story of the buried cartridges has become a popular [[urban legend]], which in turn has led some people to believe that the story is not true. As recently as October 2004, the ''E.T.'' author [[Howard Scott Warshaw]] himself expressed doubts that the destruction of millions of copies of the game ever took place, citing his belief that Atari would have recycled the parts instead in order to save money.<ref>{{cite web
+| last = Gray
+| first = Charles F.
+| date = 2004-10-25
+| url = http://web.archive.org/web/20050406043144/http://beepbopboop.heavysixer.com/index.php?option=content&task=view&id=47&Itemid=67
+| title = Howard Scott Warshaw Interview
+| publisher = BeepBopBoop
+| accessdate = 2006-06-29
+}}</ref>
+
+==References in popular culture==
+The burial is referenced in the music video for the band [[Wintergreen (band)|Wintergreen's]] song "When I Wake Up." The video depicts the band as it travels to the site and proceeds to dig up the abandoned cartridges. The cartridges seen in the video are replicas because the cartridges would be in poor condition if they were actually found. Those viewed in the music video were almost intact. <ref name="director">[http://keithschofield.com/et/ Keith Schofield / Wintergreen<!-- Bot generated title -->]</ref>
+
+==See also==
+*[[E.T. the Extra-Terrestrial (Atari 2600)]]
+*[[Pac-Man (Atari 2600)]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{cite web| url=http://www.snopes.com/business/market/atari.asp| title=Five Million E.T. Pieces| date=[[February 2]], [[2007]]| publisher=Urban Legends Reference Pages| accessdate=2007-09-02}}
+
+[[Category:History of video games]]
+[[Category:Video game culture]]
+[[Category:Video game controversies]]
+[[Category:Waste disposal incidents]]

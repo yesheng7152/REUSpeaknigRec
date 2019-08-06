@@ -1,0 +1,122 @@
+{{Infobox settlement
+|official_name            = Montreat, North Carolina
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "A Place Set Apart"
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = NCMap-doton-Montreat.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Montreat, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of countries|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[Political divisions of the United States|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Buncombe County, North Carolina|Buncombe]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 7.1
+|area_land_km2            = 7.1
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+
+<!-- Population -->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 723
+|population_density_km2   = 102.3
+|population_density_sq_mi = 
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 797
+|elevation_ft             = 2615
+|coordinates_display      = inline,title
+|coordinates_type         = region:US_type:city
+|latd = 35 |latm = 38 |lats = 44 |latNS = N
+|longd = 82 |longm = 18 |longs = 2 |longEW = W
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 28757
+|area_code                = [[Area code 828|828]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-44100<ref name="GR2">{{cite web|url=http://factfinder2.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=American FactFinder}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1021518<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.townofmontreat.org}}
+|footnotes                = 
+}}
+'''Montreat''' is a town in [[Buncombe County, North Carolina|Buncombe County]], [[North Carolina]], [[United States]]. The population was 723 at the [[2010 United States Census|2010 census]].<ref name="Census 2010">{{cite web| url=http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3744100| title=Geographic Identifiers: 2010 Demographic Profile Data (G001): Montreat town, North Carolina| publisher=U.S. Census Bureau, American Factfinder| accessdate=February 12, 2014}}</ref> It is part of the [[Asheville, North Carolina|Asheville]] [[Asheville metropolitan area|Metropolitan Statistical Area]]. The town is best known for [[Montreat Conference Center]], [[Montreat College]], and for being the home of evangelist [[Billy Graham]] and his late wife [[Ruth Bell Graham]].
+
+==Geography==
+Montreat is located in eastern Buncombe County at {{coord|35|38|44|N|82|18|2|W|type:city}} (35.645590, -82.300434).<ref name="GR1">{{cite web|url=http://www.census.gov/geo/www/gazetteer/gazette.html|publisher=[[United States Census Bureau]]|accessdate=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref> Its eastern border is the county line, with [[McDowell County, North Carolina|McDowell County]] to the east. The town is located in the valley of Flat Creek and is surrounded by mountains on three sides. The only road access is via [[North Carolina Highway 9]], which leads southwest {{convert|2|mi|0}} to the town of [[Black Mountain, North Carolina|Black Mountain]].
+
+According to the [[United States Census Bureau]], Montreat has a total area of {{convert|7.1|km2|disp=flip}}, all of it land.<ref name="Census 2010"/>
+
+==Demographics==
+{{US Census population
+|1970= 581
+|1980= 741
+|1990= 693
+|2000= 630
+|2010= 723
+|estyear=2014
+|estimate=699
+|estref=<ref name="USCensusEst2014">{{cite web|url=http://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|accessdate=June 4, 2015}}</ref>
+|footnote=<center>U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref></center>
+}}
+As of the [[census]]<ref name="GR2" /> of 2000, there were 630 people, 185 households, and 98 families residing in the town. The [[population density]] was 227.3 people per square mile (87.8/km²). There were 572 housing units at an average density of 206.3 per square mile (79.7/km²). The racial makeup of the town was 95.40% [[White (U.S. Census)|White]], 0.95% [[African American (U.S. Census)|African American]], 0.63% [[Native American (U.S. Census)|Native American]], 0.63% [[Asian (U.S. Census)|Asian]], 0.79% from [[Race (United States Census)|other races]], and 1.59% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.43% of the population.
+
+There were 185 households out of which 11.4% had children under the age of 18 living with them, 48.1% were [[Marriage|married couples]] living together, 2.2% had a female householder with no husband present, and 47.0% were non-families. 37.3% of all households were made up of individuals and 20.0% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.63.
+
+In the town the population was spread out with 9.4% under the age of 18, 45.7% from 18 to 24, 10.3% from 25 to 44, 11.6% from 45 to 64, and 23.0% who were 65 years of age or older. The median age was 23 years. For every 100 females there were 102.6 males. For every 100 females age 18 and over, there were 101.8 males.
+
+The median income for a household in the town was $45,625, and the median income for a family was $60,625. Males had a median income of $39,375 versus $22,292 for females. The [[per capita income]] for the town was $16,699. About 3.6% of families and 11.9% of the population were below the [[poverty line]], including 7.8% of those under age 18 and 3.9% of those age 65 or over.
+
+The town is the location of the main campus of [[Montreat College]].
+
+==History==
+The town of Montreat was incorporated as a North Carolina township in 1967. Much of the property in the area is still owned by the Mountain Retreat Association, formed in 1897 by John Collins, a [[Congregational church|Congregationalist]] minister from [[Connecticut]].<ref>http://www.montreat.org/about/history</ref> The name of Montreat is a portmanteau of the words "Mountain" and "Retreat". In 1907 control of the Mountain Retreat Association (MRA) passed to the [[Presbyterian Church in the United States|Presbyterian Church in the US]], and for many years Montreat has been host to religious conferences, mainly Presbyterian, organized through the MRA.<ref>Anderson, R. C. (1949). ''The Story of Montreat from Its Beginning, 1897-1947''. n.p., Montreat, N. C.</ref> Significant organizations in the contemporary town of Montreat, in addition to the Mountain Retreat Association, include Montreat Presbyterian Church: PC(USA), Montreat College (founded in 1916),<ref>http://www.montreat.edu/about-us/fast-facts/</ref> and Christ Community Church (formerly Montreat Presbyterian Church, EPC).
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|http://www.townofmontreat.org}}
+
+{{Buncombe County, North Carolina}}
+
+[[Category:Towns in Buncombe County, North Carolina]]
+[[Category:Populated places established in 1897]]
+[[Category:Asheville metropolitan area]]

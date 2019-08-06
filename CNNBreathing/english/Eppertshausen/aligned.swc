@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Eppertshausen" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Eppertshausen" /><prop key="DC.date.read" value="2016-07-29 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Eppertshausen" /><prop key="DC.source.wikiID" value="8637534" /><prop key="DC.source.revision" value="760864671" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Eppertshausen&amp;oldid=667980230" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/6/66/En-Eppertshausen-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Eppertshausen-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2016-07-29 19:46:20" group="audio1" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:37:37.184+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Eppertshausen/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Eppertshausen)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T13:04:27.261+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Eppertshausen/aligned.swc, transcript=articles/Eppertshausen/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Eppertshausen/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="EppertshausenFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="EppertshausenFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="EppertshausenFrom"><n pronunciation="EppertshausenFrom" start="1300" end="2230" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="14630" end="15380" /></t><t text="," /><t text="the"><n pronunciation="the" start="15710" end="15850" /></t><t text="free"><n pronunciation="free" start="15850" end="16160" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="16160" end="17180" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" start="17980" end="18230" /></t><t text="n"><n pronunciation="n" start="18230" end="18560" /></t><t text="dot"><n pronunciation="dot" start="18730" end="19060" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="19090" end="19920" /></t><t text="dot"><n pronunciation="dot" /></t><t text="org"><n pronunciation="org" start="20480" end="20880" /></t><t text="." /></s></extra>
+
+<ignored><s><t>Eppertshausen<n pronunciation="Eppertshausen" /></t></s>
+
+
+
+
+
+
+<s><t>Coat<n pronunciation="Coat" /></t> <t>of<n pronunciation="of" /></t> <t>arms<n pronunciation="arms" /></t></s>
+
+
+
+
+
+<s><t>Country<n pronunciation="Country" /></t>
+<t>Germany<n pronunciation="Germany" /></t></s>
+
+
+<s><t>State<n pronunciation="State" /></t>
+<t>Hesse<n pronunciation="Hesse" /></t></s>
+
+
+<s><t>Admin<n pronunciation="Admin" /></t><t>.</t> <t>region<n pronunciation="region" /></t>
+<t>Darmstadt<n pronunciation="Darmstadt" /></t></s>
+
+
+<s><t>District<n pronunciation="District" /></t>
+<t>Darmstadt-Dieburg<n pronunciation="Darmstadt" /><n pronunciation="Dieburg" /></t></s>
+
+
+<s><t>Government<n pronunciation="Government" /></t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Mayor<n pronunciation="Mayor" /></t>
+<t>Carsten<n pronunciation="Carsten" /></t> <t>Helfmann<n pronunciation="Helfmann" /></t> <t>(</t><t>CDU<n pronunciation="CDU" /></t><t>)</t></s>
+
+
+<s><t>Area<n pronunciation="Area" /></t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Total<n pronunciation="Total" /></t>
+<t>13.11<n pronunciation="13.11" /></t> <t>km2<n pronunciation="km" /><n pronunciation="two" /></t> <t>(</t><t>5.06<n pronunciation="five" /><n pronunciation="point" /><n pronunciation="zero" /><n pronunciation="six" /></t> <t>sq<n pronunciation="s" /><n pronunciation="q" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t></s>
+
+
+<s><t>Elevation<n pronunciation="Elevation" /></t>
+<t>144<n pronunciation="144" /></t> <t>m<n pronunciation="m" /></t> <t>(</t><t>472<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="seventy" /><n pronunciation="two" /></t> <t>ft<n pronunciation="f" /><n pronunciation="t" /></t><t>)</t></s>
+
+
+<s><t>Population<n pronunciation="Population" /></t> <t>(</t><t>2015-12-31<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="five" /><n pronunciation="one" /><n pronunciation="two" /><n pronunciation="three" /><n pronunciation="one" /></t><t>)</t><t>[</t><t>1<n pronunciation="1" /></t><t>]</t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Total<n pronunciation="Total" /></t>
+<t>6,231<n pronunciation="six" /><n pronunciation="thousand" /><n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="one" /></t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Density<n pronunciation="Density" /></t>
+<t>480/km2<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="eighty" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="km" /><n pronunciation="two" /></t> <t>(</t><t>1,200/sq<n pronunciation="one" /><n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="s" /><n pronunciation="q" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t></s>
+
+
+<s><t>Time<n pronunciation="Time" /></t> <t>zone<n pronunciation="zone" /></t>
+<t>CET/CEST<n pronunciation="CET" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="CEST" /></t> <t>(</t><t>UTC+1/+2<n pronunciation="UTC" /><n pronunciation="plus" /><n pronunciation="1" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="plus" /><n pronunciation="two" /></t><t>)</t></s>
+
+
+<s><t>Postal<n pronunciation="Postal" /></t> <t>codes<n pronunciation="codes" /></t>
+<t>64859<n pronunciation="64859" /></t></s>
+
+
+<s><t>Dialling<n pronunciation="Dialling" /></t> <t>codes<n pronunciation="codes" /></t>
+<t>0<n pronunciation="zero" /></t> <t>60<n pronunciation="sixty" /></t> <t>71<n pronunciation="seventy" /><n pronunciation="one" /></t></s>
+
+
+<s><t>Vehicle<n pronunciation="Vehicle" /></t> <t>registration<n pronunciation="registration" /></t>
+<t>DA<n pronunciation="DA" /></t></s>
+
+
+<s><t>Website<n pronunciation="Website" /></t>
+<t>www.eppertshausen.de<n pronunciation="w" /><n pronunciation="w" /><n pronunciation="w" /><n pronunciation="dot" /><n pronunciation="eppertshausen" /><n pronunciation="dot" /><n pronunciation="de" /></t></s></ignored>
+
+
+<p><s><t>Eppertshausen<n pronunciation="Eppertshausen" start="22660" end="23600"><ph start="22680" end="22870" type="E"></ph><ph start="22870" end="22930" type="p"></ph><ph start="22930" end="22970" type="3`"></ph><ph start="22970" end="23020" type="t"></ph><ph start="23020" end="23110" type="s"></ph><ph start="23110" end="23170" type="h"></ph><ph start="23170" end="23320" type="aU"></ph><ph start="23320" end="23440" type="z"></ph><ph start="23440" end="23470" type="V"></ph><ph start="23470" end="23560" type="n"></ph></n></t> <t>is<n pronunciation="is" start="25350" end="25500"><ph start="24520" end="24690" type="?"></ph><ph start="24690" end="24780" type="I"></ph><ph start="24780" end="24940" type="z"></ph></n></t> <t>a<n pronunciation="a"><ph start="24940" end="25120" type="V"></ph></n></t> <t>municipality<n pronunciation="municipality" start="25570" end="26660"><ph start="25220" end="25360" type="m"></ph><ph start="25360" end="25390" type="j"></ph><ph start="25390" end="25460" type="u"></ph><ph start="25460" end="25610" type="n"></ph><ph start="25610" end="25840" type="I"></ph><ph start="25840" end="25930" type="s"></ph><ph start="25930" end="25970" type="V"></ph><ph start="25970" end="26150" type="p"></ph><ph start="26150" end="26180" type="{"></ph><ph start="26180" end="26220" type="l"></ph><ph start="26220" end="26310" type="V"></ph><ph start="26310" end="26480" type="t"></ph><ph start="26480" end="26675" type="i:"></ph></n></t> <t>in<n pronunciation="in" start="26690" end="26790"><ph start="26675" end="26730" type="I"></ph><ph start="26730" end="26810" type="n"></ph></n></t> <t>southern<n pronunciation="southern" start="26790" end="27120"><ph start="26810" end="26930" type="s"></ph><ph start="26930" end="27000" type="V"></ph><ph start="27000" end="27050" type="D"></ph><ph start="27050" end="27090" type="3`"></ph><ph start="27090" end="27150" type="n"></ph></n></t> <t>Hesse<n pronunciation="Hesse" start="27120" end="27760"><ph start="27150" end="27260" type="h"></ph><ph start="27260" end="27420" type="E"></ph><ph start="27420" end="27670" type="s"></ph></n></t> <t>(</t><t>Germany<n pronunciation="Germany" start="27830" end="28410"><ph start="27830" end="27930" type="dZ"></ph><ph start="27930" end="28060" type="3`"></ph><ph start="28060" end="28140" type="m"></ph><ph start="28140" end="28170" type="V"></ph><ph start="28170" end="28220" type="n"></ph><ph start="28220" end="28340" type="i:"></ph></n></t><t>)</t> <t>in<n pronunciation="in" start="28820" end="28970"><ph start="28850" end="28930" type="I"></ph><ph start="28930" end="28990" type="n"></ph></n></t> <t>the<n pronunciation="the" start="28970" end="29090"><ph start="28990" end="29040" type="D"></ph><ph start="29040" end="29070" type="V"></ph></n></t> <t>district<n pronunciation="district" start="29090" end="29730"><ph start="29070" end="29150" type="d"></ph><ph start="29150" end="29230" type="I"></ph><ph start="29230" end="29340" type="s"></ph><ph start="29340" end="29420" type="t"></ph><ph start="29420" end="29480" type="r"></ph><ph start="29480" end="29570" type="I"></ph><ph start="29570" end="29670" type="k"></ph><ph start="29670" end="29720" type="t"></ph></n></t> <t>Darmstadt-Dieburg<n pronunciation="Darmstadt" start="29840" end="30430"><ph start="29870" end="29910" type="d"></ph><ph start="29910" end="30030" type="A:"></ph><ph start="30030" end="30060" type="r"></ph><ph start="30060" end="30170" type="m"></ph><ph start="30170" end="30250" type="s"></ph><ph start="30250" end="30330" type="t"></ph><ph start="30330" end="30410" type="{"></ph><ph start="30410" end="30500" type="t"></ph></n><n pronunciation="Dieburg" start="30560" end="31220"><ph start="30610" end="30660" type="d"></ph><ph start="30660" end="30770" type="aI"></ph><ph start="30770" end="30840" type="b"></ph><ph start="30840" end="31010" type="3`"></ph><ph start="31010" end="31140" type="g"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>municipality<n pronunciation="municipality" start="31960" end="33060" /></t> <t>has<n pronunciation="has" /></t> <t>a<n pronunciation="a" start="33280" end="33360" /></t> <t>total<n pronunciation="total" start="33360" end="33770" /></t> <t>population<n pronunciation="population" start="33770" end="34580" /></t> <t>of<n pronunciation="of" start="35110" end="35350" /></t> <t>5,805<n pronunciation="5805" start="35860" end="36030" /></t> <t>inhabitants<n pronunciation="inhabitants" start="37240" end="38110" /></t><t>.</t></s> <s><t>Currently<n pronunciation="Currently" start="38880" end="39520"><ph start="38890" end="38960" type="k"></ph><ph start="38960" end="39000" type="3`"></ph><ph start="39000" end="39050" type="V"></ph><ph start="39050" end="39220" type="n"></ph><ph start="39220" end="39310" type="t"></ph><ph start="39310" end="39360" type="l"></ph><ph start="39360" end="39450" type="i:"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="39730" end="39930"><ph start="39860" end="39900" type="D"></ph><ph start="39900" end="39930" type="V"></ph></n></t> <t>mayor<n pronunciation="mayor" start="39930" end="40240"><ph start="39930" end="40020" type="m"></ph><ph start="40020" end="40230" type="eI"></ph><ph start="40230" end="40270" type="3`"></ph></n></t> <t>is<n pronunciation="is" start="40240" end="40440"><ph start="40270" end="40350" type="I"></ph><ph start="40350" end="40400" type="z"></ph></n></t> <t>Carsten<n pronunciation="Carsten" start="40440" end="40930"><ph start="40400" end="40560" type="k"></ph><ph start="40560" end="40670" type="A:"></ph><ph start="40670" end="40700" type="r"></ph><ph start="40700" end="40780" type="s"></ph><ph start="40780" end="40840" type="t"></ph><ph start="40840" end="40870" type="V"></ph><ph start="40870" end="40940" type="n"></ph></n></t> <t>Helfmann<n pronunciation="Helfmann" start="40930" end="41560"><ph start="40940" end="41080" type="h"></ph><ph start="41080" end="41120" type="E"></ph><ph start="41120" end="41180" type="l"></ph><ph start="41180" end="41300" type="f"></ph><ph start="41300" end="41400" type="m"></ph><ph start="41400" end="41460" type="V"></ph><ph start="41460" end="41520" type="n"></ph></n></t><t>.</t></s></p>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>"</t><t>Bevölkerung<n pronunciation="Bevolkerung" /></t> <t>der<n pronunciation="der" /></t> <t>hessischen<n pronunciation="hessischen" /></t> <t>Gemeinden<n pronunciation="Gemeinden" /></t><t>"</t><t>.</t></s> <s><t>Hessisches<n pronunciation="Hessisches" /></t> <t>Statistisches<n pronunciation="Statistisches" /></t> <t>Landesamt<n pronunciation="Landesamt" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>German<n pronunciation="German" /></t><t>)</t><t>.</t></s> <s><t>August<n pronunciation="August" /></t> <t>2016<n pronunciation="2016" /></t><t>.</t></s></sectioncontent></section></ignored> 
+
+
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+<p><s><t>Eppertshausen<n pronunciation="Eppertshausen" /></t> <t>Website<n pronunciation="Website" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>German<n pronunciation="German" /></t><t>)</t></s></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Towns<n pronunciation="Towns" /></t> <t>and<n pronunciation="and" /></t> <t>municipalities<n pronunciation="municipalities" /></t> <t>in<n pronunciation="in" /></t> <t>Darmstadt-Dieburg<n pronunciation="Darmstadt" /><n pronunciation="Dieburg" /></t> <t>district<n pronunciation="district" /></t></s>
+
+
+
+
+
+
+<p><s><t>Alsbach-Hähnlein<n pronunciation="Alsbach" /><n pronunciation="Hahnlein" /></t>
+<t>Babenhausen<n pronunciation="Babenhausen" /></t>
+<t>Bickenbach<n pronunciation="Bickenbach" /></t>
+<t>Dieburg<n pronunciation="Dieburg" /></t>
+<t>Eppertshausen<n pronunciation="Eppertshausen" /></t>
+<t>Erzhausen<n pronunciation="Erzhausen" /></t>
+<t>Fischbachtal<n pronunciation="Fischbachtal" /></t>
+<t>Griesheim<n pronunciation="Griesheim" /></t>
+<t>Groß-Bieberau<n pronunciation="Gros" /><n pronunciation="Bieberau" /></t>
+<t>Groß-Umstadt<n pronunciation="Gros" /><n pronunciation="Umstadt" /></t>
+<t>Groß-Zimmern<n pronunciation="Gros" /><n pronunciation="Zimmern" /></t>
+<t>Messel<n pronunciation="Messel" /></t>
+<t>Modautal<n pronunciation="Modautal" /></t>
+<t>Mühltal<n pronunciation="Muhltal" /></t>
+<t>Münster<n pronunciation="Munster" /></t>
+<t>Ober-Ramstadt<n pronunciation="Ober" /><n pronunciation="Ramstadt" /></t>
+<t>Otzberg<n pronunciation="Otzberg" /></t>
+<t>Pfungstadt<n pronunciation="Pfungstadt" /></t>
+<t>Reinheim<n pronunciation="Reinheim" /></t>
+<t>Roßdorf<n pronunciation="Rosdorf" /></t>
+<t>Schaafheim<n pronunciation="Schaafheim" /></t>
+<t>Seeheim-Jugenheim<n pronunciation="Seeheim" /><n pronunciation="Jugenheim" /></t>
+<t>Weiterstadt<n pronunciation="Weiterstadt" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Authority<n pronunciation="Authority" /></t> <t>control<n pronunciation="control" /></t></s>
+
+
+
+<p><s><t>WorldCat<n pronunciation="WorldCat" /></t> <t>Identities<n pronunciation="Identities" /></t>
+<t>VIAF<n pronunciation="VIAF" /></t><t>:</t> <t>149578719<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="forty" /><n pronunciation="nine" /><n pronunciation="million" /><n pronunciation="five" /><n pronunciation="hundred" /><n pronunciation="seventy" /><n pronunciation="eight" /><n pronunciation="thousand" /><n pronunciation="seven" /><n pronunciation="hundred" /><n pronunciation="nineteen" /></t>
+<t>GND<n pronunciation="G" /><n pronunciation="N" /><n pronunciation="D" /></t><t>:</t> <t>2045650-5<n pronunciation="two" /><n pronunciation="million" /><n pronunciation="forty" /><n pronunciation="five" /><n pronunciation="thousand" /><n pronunciation="six" /><n pronunciation="hundred" /><n pronunciation="fifty" /><n pronunciation="to" /><n pronunciation="five" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+<p></p><s><t>This<n pronunciation="This" /></t> <t>Hesse<n pronunciation="Hesse" /></t> <t>location<n pronunciation="location" /></t> <t>article<n pronunciation="article" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>stub<n pronunciation="stub" /></t><t>.</t></s> <s><t>You<n pronunciation="You" /></t> <t>can<n pronunciation="can" /></t> <t>help<n pronunciation="help" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>by<n pronunciation="by" /></t> <t>expanding<n pronunciation="expanding" /></t> <t>it<n pronunciation="it" /></t><t>.</t></s>
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

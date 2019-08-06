@@ -1,0 +1,13 @@
+{{Spoken article
+|title=PHP
+|time=35:03
+|user_name=Mangst
+|date=2011-11-23
+|oldid=462166234
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

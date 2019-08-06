@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Schizophrenia sound}}
+|date=2014-10-14 00:10:03
+|source={{own}}
+|author=[[User:Ex-nimh-researcher|Ex-nimh-researcher]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+{{Check categories|year=2015|month=July|day=3}}
+[[Category:Schizophrenia]]

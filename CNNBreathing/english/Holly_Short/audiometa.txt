@@ -1,0 +1,29 @@
+{{Information
+|Description={{Spoken article
+|title= Holly Short
+|time= 6:15
+|user_name= Calvin 1998
+|date= 2008-11-13
+|oldid=251552831
+|accent= [[Apple, Inc.]]'s "Alex" system voice ([[Mac OS X v10.5|Leopard]]-only)
+}}{{en|1=Dual-licensed under GFDL v. 1.2 or later and CC-BY-SA-3.0.}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-11-13}}
+|Author={{original uploader|Adrian dakota|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+{{GFDL|migration=redundant}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Holly_Short.ogg}}
+* 2008-11-15 21:31 [[:en:User:Calvin 1998|Calvin 1998]] 0×0× (5338422 bytes) ''<nowiki>heh, whoops, wrong version</nowiki>''
+* 2008-11-15 21:11 [[:en:User:Calvin 1998|Calvin 1998]] 0×0× (4795672 bytes) ''<nowiki>trying again with Safari</nowiki>''
+* 2008-11-15 21:08 [[:en:User:Calvin 1998|Calvin 1998]] 0×0× (3488552 bytes) ''<nowiki>hmm... firefox/mac issues.Pr</nowiki>''
+* 2008-11-15 21:01 [[:en:User:Calvin 1998|Calvin 1998]] 0×0× (4795728 bytes) ''<nowiki>my own version (I can't play the .ogg on my computer, uploading it to see how it sounds). </nowiki>''
+* 2008-11-13 13:43 [[:en:User:Adrian dakota|Adrian dakota]] 0×0× (3488552 bytes) ''<nowiki>{{Spoken article |title= Holly Short |time= 6:17 |user_name= Leolisa1997 |date= 2008-11-13 |oldid=249922777 |accent= International English }} {{GFDL-with-disclaimers}}</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

@@ -1,0 +1,186 @@
+<root><template><title>Cleanup</title><part><name>date</name><equals>=</equals><value>March 2008</value></part></template>
+<template lineStart="1"><title>Infobox settlement
+<comment>&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+</comment><comment>&lt;!-- Basic info  ----------------&gt;
+</comment></title><part><name>official_name            </name><equals>=</equals><value> Town of Julesburg, Colorado
+</value></part><part><name>other_name               </name><equals>=</equals><value> 
+</value></part><part><name>native_name              </name><equals>=</equals><value> <comment>&lt;!-- for cities whose native name is not in English --&gt;</comment>
+</value></part><part><name>nickname                 </name><equals>=</equals><value> 
+</value></part><part><name>settlement_type          </name><equals>=</equals><value> [[Town]]
+</value></part><part><name>motto                    </name><equals>=</equals><value> 
+<comment>&lt;!-- images and maps  -----------&gt;
+</comment></value></part><part><name>image_skyline            </name><equals>=</equals><value> 
+</value></part><part><name>imagesize                </name><equals>=</equals><value> 
+</value></part><part><name>image_caption            </name><equals>=</equals><value> 
+</value></part><part><name>image_flag               </name><equals>=</equals><value> 
+</value></part><part><name>flag_size                </name><equals>=</equals><value> 
+</value></part><part><name>image_seal               </name><equals>=</equals><value> 
+</value></part><part><name>seal_size                </name><equals>=</equals><value> 
+</value></part><part><name>image_shield             </name><equals>=</equals><value> 
+</value></part><part><name>shield_size              </name><equals>=</equals><value> 
+</value></part><part><name>image_blank_emblem       </name><equals>=</equals><value> 
+</value></part><part><name>blank_emblem_type        </name><equals>=</equals><value> 
+</value></part><part><name>blank_emblem_size        </name><equals>=</equals><value> 
+</value></part><part><name>image_map                </name><equals>=</equals><value> Sedgwick_County_Colorado_Incorporated_and_Unincorporated_areas_Julesburg_Highlighted.svg
+</value></part><part><name>mapsize                  </name><equals>=</equals><value> 250x200px
+</value></part><part><name>map_caption              </name><equals>=</equals><value> Location in [[Sedgwick County, Colorado|Sedgwick County]] and the [[State of Colorado]]
+</value></part><part><name>image_map1               </name><equals>=</equals><value> 
+</value></part><part><name>mapsize1                 </name><equals>=</equals><value> 
+</value></part><part><name>map_caption1             </name><equals>=</equals><value> 
+</value></part><part><name>image_dot_map            </name><equals>=</equals><value> 
+</value></part><part><name>dot_mapsize              </name><equals>=</equals><value> 
+</value></part><part><name>dot_map_caption          </name><equals>=</equals><value> 
+</value></part><part><name>dot_x                    </name><equals>=</equals><value> 
+</value></part><part><name>dot_y                    </name><equals>=</equals><value> 
+</value></part><part><name>pushpin_map              </name><equals>=</equals><value> <comment>&lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;</comment>
+</value></part><part><name>pushpin_label_position   </name><equals>=</equals><value> <comment>&lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;</comment>
+</value></part><part><name>pushpin_map_caption      </name><equals>=</equals><value> 
+</value></part><part><name>pushpin_mapsize          </name><equals>=</equals><value> 
+<comment>&lt;!-- Location ------------------&gt;
+</comment></value></part><part><name>subdivision_type         </name><equals>=</equals><value> [[List of countries|Country]]
+</value></part><part><name>subdivision_name         </name><equals>=</equals><value> <template><title>USA</title></template>
+</value></part><part><name>subdivision_type1        </name><equals>=</equals><value> [[Political divisions of the United States|State]]
+</value></part><part><name>subdivision_name1        </name><equals>=</equals><value> <template><title>flag</title><part><name index="1"/><value>Colorado</value></part><part><name>name</name><equals>=</equals><value>State of Colorado</value></part></template>
+</value></part><part><name>subdivision_type2        </name><equals>=</equals><value> [[List of counties in Colorado|County]]
+</value></part><part><name>subdivision_name2        </name><equals>=</equals><value> [[Sedgwick County, Colorado|Sedgwick County Seat]]<ext><name>ref</name><attr> name=COMun</attr><inner>{{cite web | url = http://www.dola.state.co.us/dlg/local_governments/municipalities.html | title = Active Colorado Municipalities | publisher = [[Colorado|State of Colorado]], Department of Local Affairs | accessdate = 2007-09-01}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>subdivision_type3        </name><equals>=</equals><value> 
+</value></part><part><name>subdivision_name3        </name><equals>=</equals><value> 
+</value></part><part><name>subdivision_type4        </name><equals>=</equals><value> 
+</value></part><part><name>subdivision_name4        </name><equals>=</equals><value> 
+<comment>&lt;!-- Politics -----------------&gt;
+</comment></value></part><part><name>government_footnotes     </name><equals>=</equals><value> 
+</value></part><part><name>government_type          </name><equals>=</equals><value> [[Colorado municipalities#Statutory Town|Statutory Town]]<ext><name>ref</name><attr> name=COMun</attr></ext>
+</value></part><part><name>leader_title             </name><equals>=</equals><value> 
+</value></part><part><name>leader_name              </name><equals>=</equals><value> 
+</value></part><part><name>leader_title1            </name><equals>=</equals><value> <comment>&lt;!-- for places with, say, both a mayor and a city manager --&gt;</comment>
+</value></part><part><name>leader_name1             </name><equals>=</equals><value> 
+</value></part><part><name>leader_title2            </name><equals>=</equals><value> 
+</value></part><part><name>leader_name2             </name><equals>=</equals><value> 
+</value></part><part><name>leader_title3            </name><equals>=</equals><value> 
+</value></part><part><name>leader_name3             </name><equals>=</equals><value> 
+</value></part><part><name>leader_title4            </name><equals>=</equals><value> 
+</value></part><part><name>leader_name4             </name><equals>=</equals><value> 
+</value></part><part><name>established_title        </name><equals>=</equals><value> <comment>&lt;!-- Settled --&gt;</comment>
+</value></part><part><name>established_date         </name><equals>=</equals><value> 
+</value></part><part><name>established_title2       </name><equals>=</equals><value> [[municipal corporation|Incorporated]]
+</value></part><part><name>established_date2        </name><equals>=</equals><value> 1886-11-18<ext><name>ref</name><attr> name=MuniIncCO</attr><inner>{{cite web | url = http://www.colorado.gov/dpa/doit/archives/muninc.html | title = Colorado Municipal Incorporations | publisher = [[Colorado|State of Colorado]], Department of Personnel &amp; Administration, Colorado State Archives | date = 2004-12-01 | accessdate = 2007-09-02}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>established_title3       </name><equals>=</equals><value> <comment>&lt;!-- Incorporated (city) --&gt;</comment>
+</value></part><part><name>established_date3        </name><equals>=</equals><value> 
+</value></part><part><name>named_for                </name><equals>=</equals><value> Jules Beni
+<comment>&lt;!-- Area    ---------------------&gt;
+</comment></value></part><part><name>area_magnitude           </name><equals>=</equals><value> 
+</value></part><part><name>unit_pref                </name><equals>=</equals><value>  Imperial
+</value></part><part><name>area_footnotes           </name><equals>=</equals><value> 
+</value></part><part><name>area_total_km2           </name><equals>=</equals><value> 3.3
+</value></part><part><name>area_land_km2            </name><equals>=</equals><value> 3.3
+</value></part><part><name>area_water_km2           </name><equals>=</equals><value> 0
+</value></part><part><name>area_total_sq_mi         </name><equals>=</equals><value> 1.3
+</value></part><part><name>area_land_sq_mi          </name><equals>=</equals><value> 1.3
+</value></part><part><name>area_water_sq_mi         </name><equals>=</equals><value> 0
+</value></part><part><name>area_water_percent       </name><equals>=</equals><value> 
+</value></part><part><name>area_urban_km2           </name><equals>=</equals><value> 
+</value></part><part><name>area_urban_sq_mi         </name><equals>=</equals><value> 
+</value></part><part><name>area_metro_km2           </name><equals>=</equals><value> 
+</value></part><part><name>area_metro_sq_mi         </name><equals>=</equals><value> 
+</value></part><part><name>area_blank1_title        </name><equals>=</equals><value> 
+</value></part><part><name>area_blank1_km2          </name><equals>=</equals><value> 
+</value></part><part><name>area_blank1_sq_mi        </name><equals>=</equals><value> 
+<comment>&lt;!-- Population   -----------------------&gt;
+</comment></value></part><part><name>population_as_of         </name><equals>=</equals><value> 2000
+</value></part><part><name>population_footnotes     </name><equals>=</equals><value> 
+</value></part><part><name>population_note          </name><equals>=</equals><value> 
+</value></part><part><name>population_total         </name><equals>=</equals><value> 1467
+</value></part><part><name>population_density_km2   </name><equals>=</equals><value> 444.5
+</value></part><part><name>population_density_sq_mi </name><equals>=</equals><value> 1128.5
+</value></part><part><name>population_metro         </name><equals>=</equals><value> 
+</value></part><part><name>population_density_metro_km2     </name><equals>=</equals><value> 
+</value></part><part><name>population_density_metro_sq_mi   </name><equals>=</equals><value> 
+</value></part><part><name>population_urban                 </name><equals>=</equals><value> 
+</value></part><part><name>population_density_urban_km2     </name><equals>=</equals><value> 
+</value></part><part><name>population_density_urban_sq_mi   </name><equals>=</equals><value> 
+</value></part><part><name>population_blank1_title          </name><equals>=</equals><value> 
+</value></part><part><name>population_blank1                </name><equals>=</equals><value> 
+</value></part><part><name>population_density_blank1_km2    </name><equals>=</equals><value> 
+</value></part><part><name>population_density_blank1_sq_mi  </name><equals>=</equals><value> 
+<comment>&lt;!-- General information  ---------------&gt;
+</comment></value></part><part><name>timezone                 </name><equals>=</equals><value> [[Mountain Standard Time|MST]]
+</value></part><part><name>utc_offset               </name><equals>=</equals><value> -7
+</value></part><part><name>timezone_DST             </name><equals>=</equals><value> [[Mountain Daylight Time|MDT]]
+</value></part><part><name>utc_offset_DST           </name><equals>=</equals><value> -6
+</value></part><part><name>latd </name><equals>=</equals><value> 40 </value></part><part><name>latm </name><equals>=</equals><value> 59 </value></part><part><name>lats </name><equals>=</equals><value> 18 </value></part><part><name>latNS </name><equals>=</equals><value> N
+</value></part><part><name>longd </name><equals>=</equals><value> 102 </value></part><part><name>longm </name><equals>=</equals><value> 16 </value></part><part><name>longs </name><equals>=</equals><value> 0 </value></part><part><name>longEW </name><equals>=</equals><value> W
+</value></part><part><name>elevation_footnotes </name><equals>=</equals><value> <template><title>GR</title><part><name index="1"/><value>3</value></part></template>
+</value></part><part><name>elevation_m              </name><equals>=</equals><value> 1060
+</value></part><part><name>elevation_ft             </name><equals>=</equals><value> 3478
+<comment>&lt;!-- Area/postal codes &amp; others --------&gt;
+</comment></value></part><part><name>postal_code_type         </name><equals>=</equals><value> [[ZIP code]]<ext><name>ref</name><attr> name=ZIPcode</attr><inner>{{cite web | url = http://zip4.usps.com/zip4/citytown.jsp | title = ZIP Code Lookup| format = [[JavaScript]]/[[HTML]] | publisher = [[United States Postal Service]] | accessdate = October 17, 2007}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>postal_code              </name><equals>=</equals><value> 80737
+</value></part><part><name>area_code                </name><equals>=</equals><value> [[Area code 970|970]]
+</value></part><part><name>blank_name               </name><equals>=</equals><value> [[Federal Information Processing Standard|FIPS code]]
+</value></part><part><name>blank_info               </name><equals>=</equals><value> 08-39965
+</value></part><part><name>blank1_name              </name><equals>=</equals><value> [[Geographic Names Information System|GNIS feature ID]]
+</value></part><part><name>blank1_info              </name><equals>=</equals><value> [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:0202892 0202892]
+</value></part><part><name>website                  </name><equals>=</equals><value> 
+</value></part><part><name>footnotes                </name><equals>=</equals><value> &lt;center&gt;&lt;big&gt;'''Only Colorado stop on the [[Pony Express]] and the first [[transcontinental railroad]]'''&lt;/big&gt;&lt;/center&gt;
+</value></part><part><name index="1"/><value/></part></template>
+
+[[Image:Julesburg.JPG|252px|right|thumb|The former [[Union Pacific]] station is now a museum.]]
+
+The historic '''Town of Julesburg''' is a [[Colorado municipalities#Statutory Town|Statutory Town]] that is the [[county seat]] of [[Sedgwick County, Colorado|Sedgwick County]], [[Colorado]], [[United States]].<template><title>GR</title><part><name index="1"/><value>6</value></part></template>   The town is located on the north side of the [[South Platte River]].  The population was 1,467 at the [[U.S. Census 2000]]. It is the northernmost town in the state, located less than a mile south of the [[Nebraska]] border.
+
+According to the Colorado Historical Society, the original trading post was named for Jules Beni. Julesburg was featured in the 1960 episode &quot;The Story of Julesburg&quot; of the [[Television syndication|syndicated]] [[television series]] ''[[Pony Express (TV series)|Pony Express]]'' (1959-1960). [[James Best]] and [[Sebastian Cabot (actor)|Sebastian Cabot]] guest starred in the segment. Julesburg was on the [[Pony Express]] (1860-1861) route from [[Missouri]] to [[California]].
+
+The second episode (1955) of the [[American Broadcasting Company|ABC]] western ''[[Cheyenne (TV series)|Cheyenne]]'', starring [[Clint Walker]], is entitled &quot;Julesburg&quot;. In the story line, Julesburg is depicted as under the control of a ruthless cattle baron played by [[Ray Teal]], later cast as the [[sheriff]] in the [[NBC]] series ''[[Bonanza]]''.  
+
+<h level="2" i="1">==Geography==</h>
+Julesburg is located at <template><title>coord</title><part><name index="1"/><value>40</value></part><part><name index="2"/><value>59</value></part><part><name index="3"/><value>18</value></part><part><name index="4"/><value>N</value></part><part><name index="5"/><value>102</value></part><part><name index="6"/><value>16</value></part><part><name index="7"/><value>0</value></part><part><name index="8"/><value>W</value></part><part><name index="9"/><value>type:city</value></part></template> (40.988422, -102.266677)<template><title>GR</title><part><name index="1"/><value>1</value></part></template>.
+
+According to the [[United States Census Bureau]], the town has a total area of 1.3&amp;nbsp;[[square mile]]s (3.3&amp;nbsp;[[km²]]), all of it land.
+
+<h level="2" i="2">==Demographics==</h>
+As of the [[census]]<template><title>GR</title><part><name index="1"/><value>2</value></part></template> of 2000, there were 1,467 people, 613 households, and 407 families residing in the town.  The [[population density]] was 1,167.6 people per square mile (449.5/km²).  There were 699 housing units at an average density of 556.4/sq&amp;nbsp;mi (214.2/km²).  The racial makeup of the town was 89.03% [[White (U.S. Census)|White]], 0.20% [[African American (U.S. Census)|African American]], 0.07% [[Native American (U.S. Census)|Native American]], 0.41% [[Asian (U.S. Census)|Asian]], 0.14% [[Pacific Islander (U.S. Census)|Pacific Islander]], 7.77% from [[Race (United States Census)|other races]], and 2.39% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 14.18% of the population.
+
+There were 613 households out of which 28.2% had children under the age of 18 living with them, 54.8% were [[Marriage|married couples]] living together, 7.3% had a female householder with no husband present, and 33.6% were non-families. 31.2% of all households were made up of individuals and 14.2% had someone living alone who was 65 years of age or older.  The average household size was 2.30 and the average family size was 2.86.
+
+In the town the population was spread out with 23.4% under the age of 18, 7.2% from 18 to 24, 23.9% from 25 to 44, 21.2% from 45 to 64, and 24.4% who were 65 years of age or older.  The median age was 42 years. For every 100 females there were 90.3 males.  For every 100 females age 18 and over, there were 90.5 males.
+
+The median income for a household in the town was $28,207, and the median income for a family was $34,500. Males had a median income of $27,337 versus $17,125 for females. The [[per capita income]] for the town was $14,913.  About 8.1% of families and 10.2% of the population were below the [[poverty line]], including 14.1% of those under age 18 and 5.0% of those age 65 or over.
+
+<h level="2" i="3">==Jack Slade==</h>
+In 1858, Joseph A. &quot;Jack&quot; Slade, a superintendent for the [[Central Overland California and Pikes Peak Express Company]], was tracking down [[horse]] [[thief|thieves]], including Jules Beni. Slade caught up with him at Julesburg, but Beni shot him five times. Everybody thought that Slade was dead and several angry townsfolk chased Beni out of Julesburg. When they returned, they found Slade struggling to his feet, having miraculously recovered.
+
+Beni continued to steal horses from the Pike's Peak Express Company, and Slade vowed to hunt him down. Beni attempted to ambush Slade at Slade's own ranch at Cold Springs. But Slade found out about the planned ambush and, along with some of his cowboys, captured Beni. Slade did not take Beni to authorities but instead  shot him dead while he was tied to a fence post.<ext><name>ref</name><attr/><inner>Colorado Heritage/ Autumn 2000 page 48</inner><close>&lt;/ref&gt;</close></ext>  He shot off each of his fingers, and then put the gun in Beni's mouth and pulled the trigger.  Afterward, he severed Beni's ears as trophies. <template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>May 2009</value></part></template>
+
+This account is among the ''[[Stories of the Century]]'', a syndicated television series starring and narrated by [[Jim Davis (actor)|Jim Davis]], which aired on March 4, 1955. [[Gregg Palmer]] (born 1927) played the role of Slade, and [[Paul Newlan]] (1903-1973) portrayed Beni.
+
+<h level="2" i="4">==See also==</h>
+*[[Pony Express National Historic Trail]]
+*[[Sedgwick County, Colorado]]
+*[[South Platte River Trail Scenic and Historic Byway]]
+*[[State of Colorado]]
+**[[Colorado municipalities]]
+*[[Transcontinental Railroad]]
+
+<h level="2" i="5">==References==</h>
+<template lineStart="1"><title>Reflist</title><part><name index="1"/><value>2</value></part></template>
+
+<h level="2" i="6">==External links==</h>
+*[http://www.cmca.gen.co.us/Municipality.cfm?MunicipalityID=58 Town of Julesburg contacts]
+**[http://www.dot.state.co.us/App_DTD_DataAccess/Downloads/CityMaps/Julesburg.pdf CDOT map of the Town of Julesburg]
+<template lineStart="1"><title>Mapit-US-cityscale</title><part><name index="1"/><value>40.988422</value></part><part><name index="2"/><value>-102.266677</value></part></template>
+&lt;br clear=all/&gt;
+<template lineStart="1"><title>Sedgwick County, Colorado</title></template>
+<template lineStart="1"><title>Colorado</title><part><name index="1"/><value>show</value></part></template>
+<template lineStart="1"><title>Protected Areas of Colorado</title><part><name index="1"/><value>show</value></part></template>
+
+[[Category:Towns in Colorado]]
+[[Category:Sedgwick County, Colorado]]
+[[Category:County seats in Colorado]]
+
+[[bg:Джулсбърг]]
+[[fr:Julesburg (Colorado)]]
+[[ht:Julesburg, Kolorado]]
+[[mr:जुल्सबर्ग, कॉलोराडो]]
+[[nl:Julesburg]]
+[[pt:Julesburg]]
+[[vo:Julesburg]]</root>

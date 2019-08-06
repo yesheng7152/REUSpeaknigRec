@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Spoken article entry
+|wiki_lang=en
+|file_name=Pegging.ogg
+|title=Pegging (sexual practice)
+|time=17:30
+|date=2011-03-23
+|accent=British
+|sex=Male
+|user_name=Simonxag
+|}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English|Pegging ]]
+[[Category:Pegging]]
+[[Category:Audio files about BDSM]]

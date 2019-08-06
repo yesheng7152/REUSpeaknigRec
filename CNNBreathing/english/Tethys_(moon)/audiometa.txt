@@ -1,0 +1,19 @@
+
+{{BotMoveToCommons|en.wikipedia|year=2012|month=February|day=9}}
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|FSII|CommonsHelperLabs}}
+|Date={{original upload date|2010-01-15}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Tethys_%28moon%29.ogg}}
+* 2010-01-15 01:40 [[:en:User:Mangst|Mangst]] 0×0× (3441171 bytes) ''<nowiki>{{Spoken article entry |title=Tethys (moon) |time=5:47 |user_name=Mangst |date=2010-01-14 |link_to_recorded_version=http://en.wikipedia.org/w/index.php?title=Tethys_%28moon%29&oldid=320018177 |accent=American English }} == Licensing: == {{GFDL-with-discla</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

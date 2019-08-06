@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Java (software platform)
+|time=41:44
+|user_name=Mangst
+|date=2013-08-19
+|oldid=569281105
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

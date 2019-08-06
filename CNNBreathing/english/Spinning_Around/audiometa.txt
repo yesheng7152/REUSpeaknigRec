@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Spinning Around
+|user_name_link=[[:en:User:walkeraj]]
+|date=2014-04-16
+|accent=American English
+|sex=m
+|oldid=603163775
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} }}
+|date=2014-04-16 18:33:33
+|source={{own}}
+|author=[[User:Walkeraj|Walkeraj]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}

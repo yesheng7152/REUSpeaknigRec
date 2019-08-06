@@ -1,0 +1,24 @@
+{{Spoken article
+|title = Fossil fuel
+|time = 22:41
+|user_name = GorillaWarfare
+|date = 2010-08-24
+|oldid=377498747
+|accent = American
+|sex = Female
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Fossil_Fuel.ogg}}
+
+Upload date &#x7C; User &#x7C; Bytes &#x7C; Dimensions &#x7C; Comment
+
+*2010-08-24 07:58:14 &#x7C; [[:en:User:GorillaWarfare|GorillaWarfare]] &#x7C; 14746755 &#x7C; 0&times;0 &#x7C; <small><nowiki>{{Spoken article |title= Fossil fuel |time= 22:41 |user_name= GorillaWarfare  |date= 2010-08-24 |oldid=377498747 |accent= American }} == Licensing: == {{cc-by-sa-3.0}} <</nowiki></small>
+
+<!-- Categories by CommonSense -->
+
+[[Category:Fossil fuels]]
+[[Category:Spoken Wikipedia - English]]

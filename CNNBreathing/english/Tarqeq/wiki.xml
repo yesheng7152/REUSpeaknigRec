@@ -1,0 +1,47 @@
+<root><template><title>Irregular satellite</title><part><name index="1"/><value>
+</value></part><part><name>name</name><equals>=</equals><value>Tarqeq - Saturn LII
+</value></part><part><name>discoverer</name><equals>=</equals><value>[[Scott S. Sheppard]]&lt;br&gt;[[David C. Jewitt]]&lt;br&gt;[[Jan Kleyna]]&lt;br&gt;[[Brian G. Marsden]]
+</value></part><part><name>discovery_date</name><equals>=</equals><value>April 13, 2007<ext><name>ref</name><attr> name=&quot;MPEC&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;IAUC8836&quot;</attr></ext>
+</value></part><part><name>epoch</name><equals>=</equals><value>2007 Apr. 10.0
+</value></part><part><name>ref_orb_elems</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;MPEC&quot;</attr></ext>
+</value></part><part><name>semimajor</name><equals>=</equals><value>17.9106
+</value></part><part><name>eccentricity</name><equals>=</equals><value>0.1081
+</value></part><part><name>inclination</name><equals>=</equals><value>49.90
+</value></part><part><name>period</name><equals>=</equals><value>894.86 d
+</value></part><part><name>diameter</name><equals>=</equals><value>7 km<ext><name>ref</name><attr> name=&quot;MPEC&quot;</attr></ext>
+</value></part><part><name>albedo</name><equals>=</equals><value>?
+</value></part></template>
+
+'''Tarqeq''' (<template><title>pronEng</title><part><name index="1"/><value>ˈtɑrkeɪk</value></part></template> ''&lt;small&gt;TAR&lt;/small&gt;-kayk),'' also known as '''Saturn LII''' (provisional designation '''S/2007 S 1''') is a [[natural satellite]] of [[Saturn]]. Its discovery was announced by [[Scott S. Sheppard]], [[David C. Jewitt]], [[Jan Kleyna]], and [[Brian G. Marsden]] on April 13, 2007, from observations taken between January 5, 2006 and March 22, 2007.<ext><name>ref</name><attr> name=&quot;MPEC&quot;</attr><inner>[http://cfa-www.harvard.edu/mpec/K07/K07G38.html MPEC 2007-G38: ''S/2007 S 1''] April 13, 2007 (discovery, prediscovery and ephemeris)</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;IAUC8836&quot;</attr><inner>[http://cfa-www.harvard.edu/iauc/08800/08836.html IAUC 8836: ''S/2007 S 1, S/2007 S 2, and S/2007 S 3''] May 11, 2007 (discovery)</inner><close>&lt;/ref&gt;</close></ext>
+
+The [[semi-major axis]] of S/2007&amp;nbsp;S&amp;nbsp;1 is 17.9106 Gm and it orbits Saturn in 894.86 days. The orbit at an [[inclination]] of 49.90° (to the [[ecliptic]]; 49.77°to Saturn's equator), in a [[retrograde and direct motion|prograde]] direction and with an [[orbital eccentricity|eccentricity]] of 0.1081.<ext><name>ref</name><attr> name=&quot;MPEC&quot;</attr></ext> The diameter of the moon is seven kilometres.<ext><name>ref</name><attr> name=&quot;Sheppard&quot;</attr><inner>[http://www.dtm.ciw.edu/sheppard/satellites/satsatdata.html  Saturn's Known Satellites]</inner><close>&lt;/ref&gt;</close></ext> It is a member of the Inuit group of irregular satellites.
+
+Tarqeq is named after [[Tarquiup Inua|Tarqeq]], the [[Inuit]] [[moon god]].<ext><name>ref</name><attr> name=&quot;IAUC8873&quot;</attr><inner>[http://cfa-www.harvard.edu/iauc/08800/08873.html IAUC 8873: ''Satellites of Saturn''] September 20, 2007 (naming)</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+&lt;br/&gt;
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+[[Category:Moons of Saturn]]
+
+
+<template lineStart="1"><title>astronomy-stub</title></template>
+
+[[bg:Таркек (спътник)]]
+[[de:Tarqeq (Mond)]]
+[[el:Τάρκεκ (δορυφόρος)]]
+[[es:Tarqeq (satélite)]]
+[[fr:Tarqeq]]
+[[hr:Tarqeq (mjesec)]]
+[[it:Tarqeq (astronomia)]]
+[[ja:タルクェク (衛星)]]
+[[pl:Tarkek (księżyc)]]
+[[ru:Таркек (спутник)]]
+[[simple:Tarqeq (moon)]]
+[[sk:Tarqeq (mesiac)]]
+[[sl:Tarkek (luna)]]
+[[sv:Tarqeq (måne)]]
+[[uk:Таркек (супутник)]]
+[[zh:土衛五十二]]</root>

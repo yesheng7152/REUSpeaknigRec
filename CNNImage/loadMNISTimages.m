@@ -8,7 +8,7 @@ numImages = fread(fp, 1, 'int32', 0, 'ieee-be'); % read the number of image whic
 numRows = fread(fp, 1, 'int32', 0, 'ieee-be'); % read the number of rows 28
 numCols = fread(fp, 1, 'int32', 0, 'ieee-be'); % reads the number of cols 28
 images = fread(fp, inf, 'unsigned char'); % reads all the pix of images
-images = reshape(images, numCols, numRows, numImages); % 2*2 matrixs with 10000 of them
+images = reshape(images, numCols, numRows, numImages); % 28*28 matrixs with 10000 of them
 images = permute(images,[2 1 3]); % switch the col with rows, now like looks like the actual images
 fclose(fp); %close
 

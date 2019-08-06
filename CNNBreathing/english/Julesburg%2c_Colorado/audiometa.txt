@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=This is the Wikipedia article on "Julesburg, Colorado" read aloud by Jules Ismail.}}
+|Source=Wikipedia
+|Author=Jules Ismail
+|Date= [http://en.wikipedia.org/w/index.php?title=Julesburg,_Colorado&oldid=336270013 2010-01-06]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all|migration=redundant}}
+
+[[Category:Julesburg, Colorado]]
+[[Category:Spoken Wikipedia - English]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The English Wikipedia article on Kira Buckland, read aloud by Jules Ismail.}}
+|Source=[http://en.wikipedia.org/w/index.php?title=Kira_Buckland&oldid=336381081 Wikipedia]
+|Author=[[User:Theroachyjay|Theroachyjay]]
+|Date=2010-01-07
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Kira Buckland]]
+[[Category:Spoken Wikipedia - English]]

@@ -1,0 +1,14 @@
+{{Spoken article
+|title=IBM WebSphere MQ
+|time=21:46
+|user_name=Mangst
+|date=2011-10-29
+|oldid=457806690
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:WebSphere]]

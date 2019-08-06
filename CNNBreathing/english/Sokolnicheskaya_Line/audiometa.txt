@@ -1,0 +1,11 @@
+{{English spoken article
+|title=Sokolnicheskaya Line
+|user_name_link=[[:en:User:SkyBon|SkyBon]]
+|date=2015-01-03
+|accent=British English
+|sex=m
+|oldid=640811585
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}

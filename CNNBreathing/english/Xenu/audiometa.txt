@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title= Xenu
+|time= 40:21
+|user_name= Dmitry Brant
+|date= 2011-11-13
+|oldid=459662005
+|accent=American
+|sex=Male
+}}
+{{Information 
+|description    = {{en|1= En-Xenu }} 
+|date           = {{Original upload date|2011-11-13}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Dmitry Brant|Dmitry Brant]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|author=[[:en:User:Dmitry Brant|Dmitry Brant]] at [http://en.wikipedia.org en.wikipedia]|Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-Xenu.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2011-11-13 23:32 (UTC) | [[:en:User:Dmitry Brant|Dmitry Brant]] | 28010079 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title= Xenu |time= 40:21 |user_name= Dmitry Brant |date= 2011-11-13 |oldid=459662005 |accent=American }}</nowiki></small>
+
+[[Category:Xenu]]

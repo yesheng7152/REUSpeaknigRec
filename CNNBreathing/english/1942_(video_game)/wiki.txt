@@ -1,0 +1,82 @@
+{{unreferenced|date=June 2008}}
+
+{{Infobox VG
+|title=1942
+|image=[[Image:1942 flyer.png|256px]]
+|caption=''1942'' arcade flyer
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|distributor=
+|designer=[[Yoshiki Okamoto]]
+|released=December {{vgy|1984}} (arcade)
+|genre =Vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]]
+|modes =[[Single player]], 2 player [[Cooperative gameplay|Co-op]]
+|ratings=
+|platforms= [[Arcade game|Arcade]]
+|media =
+|input= 8-way [[Joystick]], 2 [[Button (control)|Buttons]]
+|cabinet = Upright
+|arcade system =
+|cpu =[[Zilog]] [[Z80]] (@ 4 MHz)
+|sound = [[Zilog]] [[Z80]] (@ 3 MHz)<br />2x AY8910 (@ 1.5 MHz)  
+|display = [[Raster graphics|Raster]], 224 x 256 pixels (Vertical), 256 colors
+}}
+'''''1942''''' is a vertically scrolling [[shoot 'em up]]  made by [[Capcom]] that was released for the [[Video arcade|arcade]] in {{vgy|1984}}. It was the first game in the 19XX series, followed by ''[[1943: The Battle of Midway]]''.
+
+''1942'' is set in the [[Pacific War|Pacific theater of World War II]]. Despite the game being created by a Japanese company and staff, the goal is to reach [[Tokyo]] and destroy the entire Japanese air fleet (this way the game is historically correct). The player pilots a plane dubbed the "Super Ace", but its appearance is clearly that of a [[P-38 Lightning|Lockheed P-38 Lightning]]). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a ''Roll'' or "loop-the-loop."
+
+The game was later ported to the [[Nintendo Entertainment System|NES]] (developed by [[Micronics]]), [[MSX]], [[NEC PC-8801]], [[Windows Mobile]] Professional, and [[Game Boy Color]].
+It was ported by the European games publisher [[Elite Systems]] to the [[Amstrad CPC]], [[ZX Spectrum]] and [[Commodore 64]].
+The game was included as part of ''[[Capcom Classics Collection]]'' for the [[Xbox]] and [[PlayStation 2]] in 2005.
+
+Martin Bedard of Saint-Lazare, Quebec, Canada holds the record for this game with 13,360,960 points on November 19, 2006. 
+
+==Music==
+The music of the Commodore 64 version is based on the main verse of Ron Goodwin's [[633 Squadron]] movie score.{{Citation needed|date=February 2009}}
+
+== Legacy ==
+''1942'' was one of Capcom's first breakaway hits, eclipsing in popularity the company's preceding three titles: (''[[Vulgus]]'', ''[[SonSon (video game)|Sonson]]'', and ''[[Pirate Ship Higemaru]]'').  While not as popular as some of Capcom's series that would debut later in the 1980s (''[[Street Fighter]]'' and ''[[Mega Man]]'' in particular), ''1942'' would become one of Capcom's hallmark games throughout the arcade era.
+
+Although not the first game to receive a sequel (with ''Pirate Ship Higemaru'' receiving a Japan-only console semi-sequel, ''[[Higemaru Makaijima]]'', in April 1987), ''1942'' was the first Capcom title to spawn a successful series of sequels, with five titles in the 19XX line released from 1987 to 2000.  Additionally, many of Capcom's other vertical shooters featured very similar gameplay to the series such as ''[[Varth: Operation Thunderstorm]]''.
+
+''1942's'' longevity has shown through in many re-releases since its introduction, principally in ''Capcom Generations 1'' for the Playstation and Saturn consoles. It was recently featured in the [[Capcom Classics Collection]] for the [[PlayStation 2]] and [[Xbox]], as well as [[Capcom Classics Collection: Reloaded]] for the [[PlayStation Portable]].
+
+== 1942: Joint Strike ==
+{{main|1942: Joint Strike}}
+''[[1942: Joint Strike]]'', is available for [[Xbox Live Arcade]] and the [[Playstation Network]]. The Xbox Live Arcade version was released on July 23 2008 while the PlayStation Network version was released on July 24 2008.
+
+==External links==
+*[http://www.arcade-history.com/index.php?page=detail&id=6 ''1942''] at ''Arcade-History''
+*{{StrategyWiki|1942}}
+*{{GameFAQs|type=/console/nes|num=587058|name=''1942''}}
+*{{moby game|id=/1942 |name=''1942''}}
+*{{WoS game|id=0009297|name=1942}}
+*{{KLOV game|id=6766|name=1942}}
+
+{{194X series}}
+
+[[Category:1984 video games]]
+[[Category:Arcade games]]
+[[Category:Amstrad CPC games]]
+[[Category:Capcom games]]
+[[Category:Commodore 64 games]]
+[[Category:FM-7 games]]
+[[Category:Game Boy Color games]]
+[[Category:Mobile phone games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayChoice-10 games]]
+[[Category:Sharp X1 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Scrolling shooters]]
+[[Category:World War II video games]]
+[[Category:Windows Mobile Professional games]]
+
+[[de:1942 (Computerspiel)]]
+[[fr:1942 (jeu vidéo)]]
+[[it:1942 (videogioco)]]
+[[ja:1942 (ゲーム)]]
+[[ru:1942 (игра)]]
+[[sv:1942 (spel)]]
+[[zh:1942]]

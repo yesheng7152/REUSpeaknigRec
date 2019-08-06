@@ -1,0 +1,65 @@
+<root><comment>&lt;!--Scroll down to edit the contents of this page.  Additional parameters for this template are available at [[Template:Infobox Planet]].--&gt;</comment><template><title>Infobox Planet
+</title><part><name> name </name><equals>=</equals><value> Anthe
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:S2007 S 4 PIA08369.gif|250px]]
+</value></part><part><name> caption </name><equals>=</equals><value> [[Discovery images]] of Anthe
+</value></part><part><name> bgcolour </name><equals>=</equals><value> #a0ffa0
+</value></part><part><name> discovery </name><equals>=</equals><value> yes
+</value></part><part><name> discoverer </name><equals>=</equals><value> [http://ciclops.org/team/iss_team.php Cassini Imaging Science Team]
+</value></part><part><name> discovered </name><equals>=</equals><value> May 30, 2007
+</value></part><part><name> orbit_ref </name><equals>=</equals><value> <ext><name>ref</name><attr> name=&quot;IAUC&quot;</attr><inner>{{cite journal | author=C. Porco and the Cassini Imaging Team| title= ''S/ 2007 S 4''| journal=International Astronomical Union Circulars| date= 2007-07-18| volume= 8857 (subscription required)| pages=| url= http://cfa-www.harvard.edu/iauc/08800/08857.html}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> epoch </name><equals>=</equals><value> 
+</value></part><part><name> semimajor </name><equals>=</equals><value> 197,700 km
+</value></part><part><name> eccentricity </name><equals>=</equals><value> 0.001
+</value></part><part><name> period </name><equals>=</equals><value> 1.03650 d
+</value></part><part><name> inclination </name><equals>=</equals><value> 0.1° to Saturn's equator
+</value></part><part><name> satellite_of </name><equals>=</equals><value> [[Saturn]]
+</value></part><part><name> physical_characteristics </name><equals>=</equals><value> yes
+</value></part><part><name> mean_radius </name><equals>=</equals><value> ≈ 1 km 
+</value></part><part><name> mass </name><equals>=</equals><value> 5 <template><title>e</title><part><name index="1"/><value>12</value></part></template> [[kilogram|kg]]<ext><name>ref</name><attr/><inner>assumed density of 1.2 g/cm³</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> density </name><equals>=</equals><value> unknown
+</value></part><part><name> surface_grav </name><equals>=</equals><value> unknown
+</value></part><part><name> rotation </name><equals>=</equals><value> assumed [[synchronous rotation|synchronous]]
+</value></part><part><name> axial_tilt </name><equals>=</equals><value> unknown
+</value></part><part><name> albedo </name><equals>=</equals><value> unknown
+</value></part></template>
+
+'''Anthe''' (<template><title>pronEng</title><part><name index="1"/><value>ˈænθiː</value></part></template> <template><title>respell</title><part><name index="1"/><value>AN</value></part><part><name index="2"/><value>thee</value></part></template>,<ext><name>ref</name><attr/><inner>This name is too new to appear in dictionaries, but the [[OED]] has the analogous ''rhodanthe'' {{IPA|/roʊˈdænθiː/}}.</inner><close>&lt;/ref&gt;</close></ext> or as Greek ''Άνθη)'' is a very small [[natural satellite]] of [[Saturn]] lying between the orbits of [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]]. It is also known as Saturn XLIX; its provisional designation was S/2007 S 4. It is named after one of the [[Alkyonides]]; the name means ''flowery''.  It is the 60th confirmed moon of Saturn.<ext><name>ref</name><attr> name=jpl</attr><inner>{{cite web
+  |date=2007-07-19
+  |title=''Saturn Turns 60''
+  |publisher=JPL (Cassini-Huygens)
+  |author=Agle, D. C.
+  |url=http://saturn.jpl.nasa.gov/news/features/feature20070719.cfm
+  |accessdate=2007-07-19}}</inner><close>&lt;/ref&gt;</close></ext>
+
+It was discovered by the [http://ciclops.org/team/iss_team.php Cassini Imaging Team] in images taken on May 30, 2007.<ext><name>ref</name><attr> name=&quot;IAUC&quot;</attr></ext> Once the discovery was made, a search of older Cassini images revealed this small satellite in observations from as far back as June 2004. It was first announced on July 18, 2007.<ext><name>ref</name><attr> name=&quot;IAUC&quot;</attr></ext>
+
+Anthe is visibly affected by a perturbing mean longitude [[orbital resonance|resonance]] with the much larger Mimas. This causes its [[osculating orbit]]al elements to vary with an amplitude of about 20&amp;nbsp;km in semi-major axis on a timescale of about 2 Earth years. The close proximity to the orbits of [[Pallene (moon)|Pallene]] and [[Methone (moon)|Methone]] suggests that these moons may form a dynamical family.
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+&lt;div class=&quot;references-small&quot;&gt;
+#&lt;li value=&quot;5&quot;&gt; [http://www.scitech.ac.uk/PMC/PRel/STFC/frank.aspx ''A new moon for Saturn a family affair'']
+# [http://ciclops.org/view.php?id=3353 ''From Dark Obscurity… A Tiny New Saturnian Moon Comes To Light'']
+&lt;/div&gt;
+
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Anthe (Moon)</title></template>
+[[Category:Moons of Saturn]]
+
+[[af:Anthe]]
+[[als:Anthe (Mond)]]
+[[de:Anthe (Mond)]]
+[[el:Ανθή (δορυφόρος)]]
+[[es:Anthe (satélite)]]
+[[fr:Anthée (lune)]]
+[[it:Antea (astronomia)]]
+[[ja:アンテ (衛星)]]
+[[pl:Anthe (księżyc)]]
+[[ru:Анфа (спутник)]]
+[[simple:Anthe (moon)]]
+[[sk:Anthe (mesiac)]]
+[[sl:Anta (luna)]]
+[[sv:Anthe]]
+[[uk:Анфа (супутник)]]
+[[zh:土衛四十九]]</root>

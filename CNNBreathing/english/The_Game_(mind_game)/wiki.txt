@@ -1,0 +1,75 @@
+{{pp-protected|small=yes}}
+<!--
+
+Adding "clever" messages such as "you just lost the game" may result in the loss of your ability to edit Wikipedia.
+
+-->
+{{Spoken Wikipedia|The Game.ogg|2010-04-12}}
+{{Infobox game
+| title         = The Game
+| image_link    = [[File:I lost the game.jpg|200px]]
+| image_caption = A player announcing her loss of The Game
+| designer      = Unknown
+| players       = Everyone
+| setup_time    = None (or as long as it takes to explain the rules)
+| playing_time  = Ongoing since its creation
+| random_chance = Partially
+| skills        = [[Thought suppression]], [[Strategy]]
+| footnotes  = 
+}}
+
+'''The Game''' is a [[mind game]] where the objective is to avoid thinking about The Game itself. Thinking about The Game constitutes a loss, which, according to the rules of The Game, must be announced each time it occurs. It is impossible to win The Game; players can only attempt to avoid losing for as long as possible. The Game has been described alternately as pointless and infuriating, or as a challenging game that is fun to play.<ref name="canpress"/> As of 2010, The Game is played by millions worldwide.<ref name="canpress" /><ref name="metro">{{cite news|url=http://www.metro.co.uk/news/article.html?If_you_read_this_youve_lost_The_Game&in_article_id=430703&in_page_id=34|title=If you read this you've lost the game|work=The Metro|date=2008-12-05}}</ref><ref name="nebraskan">{{cite news|url=http://media.www.dailynebraskan.com/media/storage/paper857/news/2007/03/19/ArtsEntertainment/Mind-Game.Enlivens.Students.Across.U.s-2779474.shtml|title=Mind game enlivens students across U.S.|work=The Daily Nebraskan|first=Andy|last=Boyle|date=2007-03-19}}</ref><ref name="demorgen">{{cite news|url=http://www.demorgen.be/archief/artikel.html?i=ODM5Nw==|title=The Game, het eenvoudigste spel ter wereld|work=[[De Morgen]]|first=Jeroen|last=Verelst|date=2007-03-15|page=2|language=Dutch|format=Subscription required}}</ref><ref name="depers" />
+
+== Gameplay ==
+=== Rules ===
+There are three rules to The Game:<ref name=canpress>{{cite news|url=http://ca.lifestyle.yahoo.com/health-fitness/articles/fitness/cp/home_family-teens_around_the_world_are_playing_the_game_-_if_you_think_about_it_you_lose|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080117/thegame_youlose_080117|title=Teens around the world are playing 'the game'|work=[[The Canadian Press]]|date=2008-01-17|first=Shannon|last=Montgomery}}</ref><ref name="metro">{{cite news|url=http://www.metro.co.uk/news/article.html?If_you_read_this_youve_lost_The_Game&in_article_id=430703&in_page_id=34|title=If you read this you have lost the game|work=The Metro|date=2008-12-05}}</ref><ref name="The Rules">{{cite news|url=http://www.metro.co.uk/news/article.html?Three_rules_of_The_Game&in_article_id=430704&in_page_id=34|title=The three rules of the game|work=The Metro|date=2008-12-05}}</ref><ref name=rutland>{{cite news|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=MCNP&p_multi=RHDB&p_theme=mcnp&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=11C0ED30E5F12A50&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=Don't think about the game|work=[[Rutland Herald]]|date=2007-10-03|format=Subscription required}}</ref><ref name=dailyglobe>{{cite news|url=http://www.dglobe.com/articles/index.cfm?id=12028&section=Opinion&freebie_check&CFID=44302018&CFTOKEN=70154493&jsessionid=8830ec90e35e58254a5e|title=Playing 'The Game' with the other kids|work=[[Daily Globe (Worthington)]]|first=Justine|last=Wettschreck|date=2008-05-31|format=Subscription required}}{{Dead link|date=March 2010}}</ref>
+# Everyone in the world is playing The Game. (''Sometimes narrowed to:'' "Everybody in the world who knows about The Game is playing The Game",<ref name="demorgen">{{cite news|url=http://www.demorgen.be/archief/artikel.html?i=ODM5Nw==|title=The Game, het eenvoudigste spel ter wereld|work=[[De Morgen]]|first=Jeroen|last=Verelst|date=2007-03-15|page=2|language=Dutch|format=Subscription required}}</ref> or alternatively, "You are always playing The Game.")
+# Whenever one thinks about The Game, one loses.
+# Losses must be announced to at least one person<ref name="The Rules"/> (either by using a statement such as "I lost The Game" or by alternative means).
+Some players allow a grace period of 30 seconds to half an hour after someone has lost, during which a player cannot lose The Game again, or is not obliged to announce a loss.<ref name="canpress"/> This is done in order to prevent a perpetual loss of The Game. Under a literal interpretation, one has to announce every loss of The Game. However, announcing The Game amounts to thinking about it, which constitutes a loss and another announcement. Such a chain continues indefinitely. The common rules do not define a point at which The Game ends. However, one reported variation states that The Game ends when the British Prime Minister announces "The Game is up" on television.<ref name="The Rules"/> 
+
+=== Strategies ===
+Some players have developed strategies for making other people lose, such as writing about The Game on a hidden note, saying "The Game" out loud, as graffiti in public places, and on banknotes, or writing two words that when said phonetically equal "The Game" out loud (e.g. Thug Aim)<ref name="demorgen" /><ref name="depers">{{cite news|url=http://www.depers.nl/entertainment/269673/Nederland-gaat-nu-ook-verliezen.html|title=Nederland gaat nu ook verliezen|work=De Pers|date=2008-12-15|first=Sanne|last=Rooseboom}}</ref>
+
+== Self-reference ==
+The Game is an example of [[ironic process theory|ironic processing]], also known as the [[White Bear Principle]], in which attempts to avoid certain thoughts make those thoughts more persistent.<ref>{{cite news|url=http://www.laloyolan.com/entertainment/you-just-lost-the-game-1.1589859|title=You just lost the Game|last=Kaniewski|first=Katie|date=1 March 2009|work=Los Angeles Loyolan|accessdate=2009-03-27}}</ref>
+
+== Origin ==
+The origins of The Game are uncertain. One theory is that when two men missed their last train and had to spend the whole night on a platform, they tried not to think about their situation and whoever did first, lost.<ref name=metro/> Another is that it was invented in London in 1996 "to annoy people".<ref name="canpress"/> The reported earliest known reference on the Internet is from 2002.<ref name=canpress/> According to knowyourmeme.com, it was invented in 1977 in Cambridge University. <ref>{{cite web|author=Favorite [17] |url=http://knowyourmeme.com/memes/the-game |title=The Game |publisher=Know Your Meme |date= |accessdate=2010-04-14}}</ref>
+
+== See also ==
+*[[Jonty Haywood]], creator of LoseTheGame.com
+* [[In-joke|Inside joke]]
+* [[Meme]]
+* [[Mornington Crescent (game)|Mornington Crescent]]
+* [[Nomic]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{Commons category|The Game (mind game)}}
+{{wikinews|Wikinews interviews manager of site 'Lose The Game'}}
+*[http://losethegame.com/index.htm Losethegame.com]
+
+{{DEFAULTSORT:Game, the}}
+[[Category:Cognition]]
+[[Category:Games of mental skill]]
+[[Category:In-jokes]]
+[[Category:Internet memes]]
+
+[[cy:Y Gêm]]
+[[de:The Game (Spiel)]]
+[[es:The Game (juego)]]
+[[eo:La Ludo (mensa viruso)]]
+[[fr:Le Jeu (mind game)]]
+[[it:The Game (meme)]]
+[[ms:The Game (permainan minda)]]
+[[nl:The Game (spel)]]
+[[nn:The Game]]
+[[pt:O Jogo (jogo mental)]]
+[[sk:The Game (hra)]]
+[[fi:The Game (ajatuspeli)]]
+[[sv:The Game (tankespel)]]
+[[tr:The Game (zeka oyunu)]]
+[[zh:The Game (游戏)]]

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Universal business School}}
+|date=2015-01-01
+|source={{own}}
+|author=[[User:Ubskjt|Universal Business School]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+{{Uncategorized|year=2015|month=January|day=13}}

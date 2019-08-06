@@ -1,0 +1,125 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    =Nouakchott-Nord
+| native_name             =نواكشوط الشمالية
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->ar
+| settlement_type         =[[Regions of Mauritania|Region of Mauritania]]
+| image_skyline           =
+| image_alt               =
+| image_caption           =
+| image_flag              =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               = Nouakchott in Mauritania (special marker).svg
+| map_alt                 =
+| map_caption             =
+| pushpin_map             =
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     =
+| latd  =18 |latm  =6 |lats  =  |latNS  =N
+| longd =15 |longm =55 |longs =  |longEW =W
+| coor_pinpoint           =
+| coordinates_type        =
+| coordinates_display     = inline,title
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        ={{flag|Mauritania}}
+| subdivision_type1       =[[Departments of Mauritania|Departments]]
+| subdivision_name1       =[[Dar-Naim]], [[Teyarett]], [[Toujouonine]]
+| subdivision_type2       =
+| subdivision_name2       =
+| subdivision_type3       =
+| subdivision_name3       =
+| established_title       =Created
+| established_date        =25 November 2014
+| founder                 =
+| seat_type               =Capital
+| seat                    =[[Dar-Naim]]
+| government_footnotes    =
+| leader_party            =
+| leader_title            =[[Wāli]]
+| leader_name             =Mohamed Lemine Ould Mohamed Teyib Ould Adi
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref name=statoids>{{cite web |last=Law |first=Gwillim |url=http://www.statoids.com/umr.html |title=Regions of Mauritania |website=Statoids |accessdate=14 June 2015}}</ref>
+| area_urban_footnotes    = <!-- <ref> </ref> -->
+| area_rural_footnotes    = <!-- <ref> </ref> -->
+| area_metro_footnotes    = <!-- <ref> </ref> -->
+| area_magnitude          = <!-- <ref> </ref> -->
+| area_note               =
+| area_water_percent      =
+| area_rank               =
+| area_blank1_title       =
+| area_blank2_title       =
+<!-- square kilometers -->
+| area_total_km2          = 306
+| area_land_km2           =
+| area_water_km2          =
+| area_urban_km2          =
+| area_rural_km2          =
+| area_metro_km2          =
+| area_blank1_km2         =
+| area_blank2_km2         =
+<!-- hectares -->
+| area_total_ha           = 
+| area_land_ha            =
+| area_water_ha           =
+| area_urban_ha           =
+| area_rural_ha           =
+| area_metro_ha           =
+| area_blank1_ha          =
+| area_blank2_ha          =
+<!-- dunams used in Middle East articles only -->
+| dunam_link              = <!-- which dunam to link -->
+| area_total_dunam        = 
+| area_land_dunam         =
+| area_water_dunam        =
+| area_urban_dunam        =
+| area_rural_dunam        =
+| area_metro_dunam        =
+| area_blank1_dunam       =
+| area_blank2_dunam       =
+| length_km               =
+| width_km                =
+| dimensions_footnotes    =
+| elevation_footnotes     =
+| elevation_m             =
+| population_footnotes    =<ref name=statoids />
+| population_total        =366912
+| population_as_of        =2013
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| timezone1               =
+| utc_offset1             = +0
+| timezone1_DST           = not observed
+| utc_offset1_DST         =
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}
+
+'''Nouakchott-Nord''' ({{lang-ar|نواكشوط الشمالية}}) is a [[Regions of Mauritania|region]] in [[Mauritania]]. It comprises the three northwestern [[Departments of Mauritania|departments]] of Mauritania's capital city [[Nouakchott]]: [[Dar-Naim]], [[Teyarett]] and [[Toujouonine]].<ref>{{cite web |url=http://mauriweb.info/index.php/actualite/3597-nouakchott-donne-naissance-a-trois-wilaya.html |title=Nouakchott donne naissance à trois Wilaya |date=25 November 2014 |publisher=MauriWeb |accessdate=14 June 2015}}</ref> Its capital is at Dar-Naim and [[Nouakchott International Airport]] is located within its borders.
+
+Nouakchott-Nord was created on 25 November 2014 when the region of Nouakchott was split into three new regions.<ref>{{cite web |url=http://fr.alakhbar.info/9671-0-Mauritanie-la-capitale-Nouakchott-sera-decoupee-en-trois-regions.html |title=Mauritanie: la capitale Nouakchott, sera découpée en trois wilayas |date=26 November 2014 |publisher=Alakhbar |accessdate=14 June 2015}}</ref> Its ''[[wāli]]'' or governor is Mohamed Lemine Ould Mohamed Teyib Ould Adi.<ref>{{cite web |url=http://lecalame.info/?q=node/1184 |title=Les trois wali de Nouakchott connus |date=12 December 2014 |publisher=le calame |accessdate=14 June 2015}}</ref>
+
+==References==
+<references />
+
+{{Mauritania}}
+
+{{Mauritania-geo-stub}}
+
+[[Category:Nouakchott]]
+[[Category:Regions of Mauritania]]

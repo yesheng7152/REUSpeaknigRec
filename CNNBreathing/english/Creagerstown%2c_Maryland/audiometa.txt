@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{English spoken article
+|title=Creagerstown, Maryland
+|user_name_link=User:Zellfaze
+|date=2014-07-17
+|accent=American
+|sex=Male
+|oldid=617348234
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}

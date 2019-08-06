@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Sam A. Scribner
+|user_name_link= [[:en:User:Incledon|Incledon]]
+|date=2015-12-24
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/wiki/Sam_A._Scribner
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}}}
+|date=2015-12-24
+|source={{own}}
+|author=[[User:Incledon|Incledon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Circus performers]]
+[[Category:Burlesque]]

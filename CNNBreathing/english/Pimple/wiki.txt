@@ -1,0 +1,63 @@
+{{Infobox_Disease |
+  Name           = Pimple |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = |
+  ICD10          = {{ICD10|R|23|8|r|20}} |
+  ICD9           = {{ICD9|709.8}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = |
+}}
+{{Wiktionary}}
+A ''' pimple''' is a result of a blockage of the [[skin]]'s [[Sweat gland|pore]]. It can be a [[pustule]] or [[papule]].<ref>{{DorlandsDict|six/000082649|pimple}}</ref>
+
+==Causes==
+
+<gallery>
+Image:Teenager-with-acne.jpg |a "whitehead"
+Image:AcneVulgarisUSMIL.jpg |pimples can lead to significant swelling and may appear on the back and chest
+Image:Blackheads.JPG |Blackheads -- sebum darkened by contact and reaction with air
+</gallery>
+Inside the pore are [[sebaceous gland]]s which produce [[sebum]]. When the outer layers of skin shed (as they do continuously), the dead skin cells left behind may become 'glued' together by the sebum. This causes the blockage in the pore, especially when the skin becomes thicker at [[puberty]].<ref> Anderson, Laurence. 2006. ''Looking Good, the Australian guide to skin care, cosmetic medicine and cosmetic surgery''. AMPCo. Sydney. ISBN 0 85557 044 X. </ref> The sebaceous glands produce more sebum which builds up behind the blockage, and this sebum harbours various [[bacteria]] including the species ''[[Propionibacterium acnes]]''.
+
+==Treatment==
+{{seealso|Acne vulgaris#Treatments}}
+===Over-the-counter medications===
+Common [[Over-the-counter drug|over-the-counter medications]] for pimples are [[benzoyl peroxide]] and/or [[salicylic acid]] and antibacterial agents such as [[Triclosan]].  Both medications can be found in many creams and gels used to treat acne through topical application. Both medications help skin slough off more easily, which helps to remove bacteria faster. A regimen of keeping the affected skin area clean plus the regular application of these topical medications is usually enough to keep acne under control, if not at bay altogether. 1-2% of the population is allergic to benzoyl peroxide treatments.
+
+===Prescription medication===
+Severe acne usually indicates the necessity of prescription medication to treat the pimples. Prescription medications used to treat acne and pimples include [[isotretinoin]], which is a [[retinoid]]. Historically, [[antibiotics]] such as [[tetracyclines]] and [[erythromycin]] were prescribed. While they were more effective than topical applications of benzoyl peroxide, the bacteria eventually grew resistant to the antibiotics and the treatments became less and less effective. Also, antibiotics had more side effects than topical applications, such as stomach cramps and severe discoloration of teeth.
+
+===Popping===
+The popping of pimples is never medically recommended, as it can lead to bleeding and scarring. However, it remains a popular method to relieve the discomfort some pimples inflict, and it immediately destroys the pimple. Popping is done by applying pressure around the area, forcing or "popping" the clog out of the pore. The result can be varied, anything from nothing but a small red mark that will heal in less than a day, to a small puncture wound that will scab over and heal, or a scar. Bleeding can be none to little, or it could bleed heavily.
+
+== See also ==
+
+* [[Acne vulgaris]]
+* [[Blackhead]]
+
+==References==
+{{reflist}}
+
+{{Diseases of the skin and subcutaneous tissue}}
+{{Skin and subcutaneous tissue symptoms and signs}}
+
+
+
+[[Category:Dermatologic terminology]]
+
+[[de:Pustel]]
+[[es:Pústula (dermatología)]]
+[[fa:جوشدانه]]
+[[fr:Pustule]]
+[[hi:मुंहासे]]
+[[ml:മുഖക്കുരു]]
+[[la:Pustula]]
+[[lb:Pautsch]]
+[[nl:Pustel]]
+[[pl:Krosta]]
+[[ru:Пустула]]

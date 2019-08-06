@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Breiðdalsvík Airport" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Brei%c3%b0dalsv%c3%adk_Airport" /><prop key="DC.date.read" value="2015-12-27 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Brei%C3%B0dalsv%C3%ADk_Airport" /><prop key="DC.source.wikiID" value="43453111" /><prop key="DC.source.revision" value="753083231" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Breiðdalsvík Airport&amp;oldid=619645051" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/e/e2/En-Brei%C3%B0dalsv%C3%ADk-Airport-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Brei%c3%b0dalsv%c3%adk-Airport-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2015-12-27 21:41:36" group="audio1" /><prop key="reader.name" value="[[User:Incledon|Incledon]]" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:33:50.346+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Brei%c3%b0dalsv%c3%adk_Airport/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Brei%c3%b0dalsv%c3%adk_Airport)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T11:39:19.982+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Brei%c3%b0dalsv%c3%adk_Airport/aligned.swc, transcript=articles/Brei%c3%b0dalsv%c3%adk_Airport/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Brei%c3%b0dalsv%c3%adk_Airport/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Breiðdalsvík AirportFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Breiðdalsvík AirportFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Breiðdalsvík"><n pronunciation="Breiðdalsvik" start="240" end="1480" /></t><t text="AirportFrom"><n pronunciation="AirportFrom" start="1450" end="1480" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="3310" end="4410" /></t><t text="," /><t text="the"><n pronunciation="the" start="4400" end="4930" /></t><t text="free"><n pronunciation="free" start="4930" end="5300" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="5300" end="6460" /></t><t text="at"><n pronunciation="at" start="6650" end="7630" /></t><t text="e"><n pronunciation="e" start="7690" end="7980" /></t><t text="n"><n pronunciation="n" start="7980" end="8390" /></t><t text="dot"><n pronunciation="dot" start="8940" end="9150" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="9320" end="10270" /></t><t text="dot"><n pronunciation="dot" start="10860" end="11220" /></t><t text="org"><n pronunciation="org" start="11220" end="11830" /></t><t text="." /></s></extra>
+
+<ignored><s><t>Breiðdalsvík<n pronunciation="Breiðdalsvik" /></t> <t>Airport<n pronunciation="Airport" /></t></s>
+
+
+
+
+
+<p><s><t>IATA<n pronunciation="IATA" /></t><t>:</t> <t>BXV<n pronunciation="B" /><n pronunciation="X" /><n pronunciation="V" /></t>
+<t>ICAO<n pronunciation="ICAO" /></t><t>:</t> <t>BIBV<n pronunciation="BIBV" /></t></s></p>
+
+
+
+
+
+<s><t>Summary<n pronunciation="Summary" /></t></s>
+
+
+<s><t>Airport<n pronunciation="Airport" /></t> <t>type<n pronunciation="type" /></t>
+<t>Public<n pronunciation="Public" /></t></s>
+
+
+<s><t>Serves<n pronunciation="Serves" /></t>
+<t>Breiðdalsvík<n pronunciation="Breiðdalsvik" /></t></s>
+
+
+<s><t>Elevation<n pronunciation="Elevation" /></t> <t>AMSL<n pronunciation="AMSL" /></t>
+<t>8<n pronunciation="eight" /></t> <t>ft<n pronunciation="f" /><n pronunciation="t" /></t> <t>/<n pronunciation="forward" /><n pronunciation="slash" /></t> <t>2<n pronunciation="two" /></t> <t>m<n pronunciation="m" /></t></s>
+
+
+<s><t>Map<n pronunciation="Map" /></t></s>
+
+
+
+
+
+
+
+
+
+<s><t>BXV<n pronunciation="B" /><n pronunciation="X" /><n pronunciation="V" /></t></s>
+
+
+
+
+
+<s><t>Location<n pronunciation="Location" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>airport<n pronunciation="airport" /></t> <t>in<n pronunciation="in" /></t> <t>Iceland<n pronunciation="Iceland" /></t></s>
+
+
+<s><t>Runways<n pronunciation="Runways" /></t></s>
+
+
+
+
+
+<s><t>Direction<n pronunciation="Direction" /></t>
+<t>Length<n pronunciation="Length" /></t>
+<t>Surface<n pronunciation="Surface" /></t></s>
+
+
+<s><t>ft<n pronunciation="f" /><n pronunciation="t" /></t>
+<t>m<n pronunciation="m" /></t></s>
+
+
+<s><t>12/30<n pronunciation="twelve" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="thirty" /></t>
+<t>3,075<n pronunciation="three" /><n pronunciation="thousand" /><n pronunciation="seventy" /><n pronunciation="five" /></t>
+<t>938<n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="eight" /></t>
+<t>Grass<n pronunciation="Grass" /></t></s>
+
+
+
+
+
+
+<s><t>Source<n pronunciation="Source" /></t><t>:</t> <t>Google<n pronunciation="Google" /></t> <t>Maps<n pronunciation="Maps" /></t><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored>
+
+
+
+<p><s><t>Breiðdalsvík<n pronunciation="Breiðdalsvik" start="12220" end="13320" /></t> <t>Airport<n pronunciation="Airport" start="13300" end="13350" /></t> <t>(</t><t>IATA<n pronunciation="IATA" start="13300" end="13350" /></t><t>:</t> <t>BXV<n pronunciation="B" start="13350" end="13980" /><n pronunciation="X" start="13980" end="14030" /><n pronunciation="V" /></t><t>,</t> <t>ICAO<n pronunciation="ICAO" /></t><t>:</t> <t>BIBV<n pronunciation="BIBV" /></t><t>)</t> <t>is<n pronunciation="is" start="14360" end="14560" /></t> <t>an<n pronunciation="an" start="14560" end="14830" /></t> <t>airport<n pronunciation="airport" start="14910" end="15750" /></t> <t>serving<n pronunciation="serving" start="15970" end="16650" /></t> <t>Breiðdalsvík<n pronunciation="Breiðdalsvik" start="16650" end="17920" /></t><t>,</t> <t>Iceland<n pronunciation="Iceland" start="18350" end="19100" /></t><t>.</t></s></p>
+<section level="2"><sectiontitle><t>See<n pronunciation="See" start="19850" end="20130"><ph start="19840" end="20100" type="s"></ph><ph start="20100" end="20360" type="I"></ph></n></t> <t>also<n pronunciation="also" start="22700" end="23550"><ph start="20530" end="22670" type="?"></ph><ph start="22670" end="22760" type="O:"></ph><ph start="22760" end="22890" type="l"></ph><ph start="22890" end="23130" type="s"></ph><ph start="23130" end="23310" type="@U"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Transport<n pronunciation="Transport" start="43780" end="44360" /></t> <t>in<n pronunciation="in" start="44360" end="44690" /></t> <t>Iceland<n pronunciation="Iceland" start="44980" end="45350" /></t>
+ <t>Iceland<n pronunciation="Iceland" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Aviation<n pronunciation="Aviation" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+</sectioncontent></section>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>Google<n pronunciation="Google" /></t> <t>Maps<n pronunciation="Maps" /></t> <t>-</t> <t>Breiðdalsvík<n pronunciation="Breiðdalsvik" /></t></s>
+
+
+
+
+<p><s><t>OurAirports<n pronunciation="OurAirports" /></t> <t>-</t> <t>Iceland<n pronunciation="Iceland" /></t>
+<t>Great<n pronunciation="Great" /></t> <t>Circle<n pronunciation="Circle" /></t> <t>Mapper<n pronunciation="Mapper" /></t> <t>-</t> <t>Breiðdalsvík<n pronunciation="Breiðdalsvik" /></t>
+<t>Breiðdalsvík<n pronunciation="Breiðdalsvik" /></t> <t>Airport<n pronunciation="Airport" /></t>
+<t>Google<n pronunciation="Google" /></t> <t>Earth<n pronunciation="Earth" /></t></s></p>
+</sectioncontent></section></ignored>
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+
+
+
+<p></p><s><t>This<n pronunciation="This" /></t> <t>article<n pronunciation="article" /></t> <t>about<n pronunciation="about" /></t> <t>a<n pronunciation="a" /></t> <t>European<n pronunciation="European" /></t> <t>airport<n pronunciation="airport" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>stub<n pronunciation="stub" /></t><t>.</t></s> <s><t>You<n pronunciation="You" /></t> <t>can<n pronunciation="can" /></t> <t>help<n pronunciation="help" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>by<n pronunciation="by" /></t> <t>expanding<n pronunciation="expanding" /></t> <t>it<n pronunciation="it" /></t><t>.</t></s>
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Intro to the Flash (Barry Allen) read by Matt Sanchez
+|Source={{Own}}
+|Date=04-16-08
+|Author= [[User:Bluemarine|Bluemarine]]
+|Permission=
+|other_versions=
+}}
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-3.0}}
+
+[[Category:Files by User:Bluemarine]]
+[[Category:The Flash and his cast]]

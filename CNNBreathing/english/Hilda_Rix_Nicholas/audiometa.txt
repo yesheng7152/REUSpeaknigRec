@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Hilda Rix Nicholas
+|user_name_link=[[:en:User:Hamiltonstone|Hamiltonstone]]
+|date=2014-08-10
+|accent=Australian
+|sex=Male
+|oldid=620623690
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Hilda Rix Nicholas]]

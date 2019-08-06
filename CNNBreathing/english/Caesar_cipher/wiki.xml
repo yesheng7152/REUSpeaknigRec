@@ -1,0 +1,115 @@
+<root>[[Image:Caesar3.png|right|thumbnail|320px|The action of a Caesar cipher is to move each letter a number of places down the alphabet. This example is with a shift of three, so that a &lt;tt&gt;B&lt;/tt&gt; in the plaintext becomes &lt;tt&gt;E&lt;/tt&gt; in the ciphertext.]]
+In [[cryptography]], a '''Caesar cipher''', also known as a '''Caesar shift cipher''' or '''shift cipher''', is one of the simplest and most widely-known [[encryption]] techniques. It is a type of [[substitution cipher]] in which each letter in the [[plaintext]] is replaced by a letter some fixed number of positions further down the [[alphabet]]. For example, with a shift of 3, &lt;tt&gt;A&lt;/tt&gt; would be replaced by &lt;tt&gt;D&lt;tt&gt;, &lt;tt&gt;B&lt;/tt&gt; would become &lt;tt&gt;E&lt;/tt&gt;, and so on. The method is named after [[Julius Caesar]], who used it to communicate with his [[general]]s. 
+
+The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the [[Vigenère cipher]], and still has modern application in the [[ROT13]] system. As with all single alphabet substitution ciphers, the Caesar cipher is easily broken and in practice offers essentially no communication security.
+
+<h level="2" i="1">==Example==</h>
+The transformation can be represented by aligning two alphabets; the cipher [[alphabet]] is the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a right rotation of three places (the shift parameter, here 3, is used as the [[key (cryptography)|key]]):
+
+ Plain:  abcdefghijklmnopqrstuvwxyz
+ Cipher: DEFGHIJKLMNOPQRSTUVWXYZABC
+
+To [[encryption|encipher]] a message, simply look up each letter of the message in the &quot;plain&quot; line and write down the corresponding letter in the &quot;cipher&quot; line.  To decipher, do the reverse. 
+
+  Plaintext: thequickbrownfoxjumpsoverthelazydog
+ Ciphertext: WKHTXLFNEURZQIRAMXPSVRYHUWKHODCBGRJ
+
+The encryption can also be represented using [[modular arithmetic]] by first transforming the letters into numbers, according to the scheme, A = 0, B = 1,..., Z = 25. Encryption of a letter <ext><name>math</name><attr/><inner>x</inner><close>&lt;/math&gt;</close></ext> by a shift ''n'' can be described mathematically as,
+
+:<ext><name>math</name><attr/><inner>E_n(x) = x + n \mod {26}.</inner><close>&lt;/math&gt;</close></ext>
+
+Decryption is performed similarly, 
+
+:<ext><name>math</name><attr/><inner>D_n(x) = x - n \mod {26}.</inner><close>&lt;/math&gt;</close></ext>
+
+<h level="2" i="2">==History and usage==</h>
+[[Image:Hw-caesar.jpg|thumbnail|The Caesar cipher is named for [[Julius Caesar]], who used an alphabet with a shift of three.]]The Caesar cipher is named after [[Julius Caesar]], who, according to [[Suetonius]], used it with a shift of three to protect messages of military significance:
+:''If he had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others.'' &amp;mdash; Suetonius, Life of Julius Caesar 56 [http://www.fordham.edu/halsall/ancient/suetonius-julius.html].
+While Caesar's was the first recorded use of this scheme, other substitution ciphers are known to have been used earlier. Julius Caesar's nephew [[Augustus Caesar|Augustus]] also used the cipher, but with a shift of one:
+:''Whenever he wrote in cipher, he wrote B for A, C for B, and the rest of the letters on the same principle, using AA for X.'' &amp;mdash; Suetonius, Life of Augustus 88.
+There is evidence that Julius Caesar used more complicated systems as well, and one writer, [[Aulus Gellius]], refers to a (now lost) treatise on his ciphers:
+:''There is even a rather ingeniously written treatise by the grammarian Probus concerning the secret meaning of letters in the composition of Caesar's epistles.'' &amp;mdash; Aulus Gellius, 17.9.1&amp;ndash;5.
+It is unknown how effective the Caesar cipher was at the time, but it is likely to have been reasonably secure, not least because few of Caesar's enemies would have been [[literacy|literate]], let alone able to consider [[cryptanalysis]]. Assuming that an attacker could read the message, there is no record at that time of any techniques for the solution of simple substitution ciphers. The earliest surviving records date to the 9th century AD in the [[Arab]] world with the discovery of [[frequency analysis]].
+
+In the [[19th Century]], the personal advertisements section in newspapers would sometimes be used to exchange messages encrypted using simple cipher schemes. [[David Kahn|Kahn]] (1967) describes instances of lovers engaging in secret communications enciphered using the Caesar cipher in ''[[The Times]].'' Even as late as [[1915]], the Caesar cipher was in use: the Russian army employed it as a replacement for more complicated ciphers which had proved to be too difficult for their troops to master; German and Austrian cryptanalysts had little difficulty in decrypting their messages.
+
+Caesar ciphers can be found today in children's toys such as [[secret decoder ring]]s. A Caesar shift of 13 is also performed in the [[ROT13]] [[algorithm]], a simple method of obfuscating text used in some Internet forums to obscure text (such as joke punchlines and story [[spoiler]]s), but not used as a method of encryption.
+
+The [[Vigenère cipher]] uses a Caesar cipher with a different shift at each position in the text; the value of the shift is defined using a repeating keyword. If the keyword were 1) chosen randomly and 2) was as long as the message (so that it did not repeat), the resultant system would be theoretically unbreakable &amp;mdash; equivalent to the [[one-time pad]] cipher.
+
+<h level="2" i="3">==Breaking the cipher==</h>
+{| <template><title>prettytable</title></template> align=&quot;right&quot; style=&quot;margin: 0 0 1em 1em&quot;
+! Decryption&lt;br&gt;shift
+! Candidate plaintext
+|- align=&quot;center&quot;
+|  0
+| &lt;tt&gt;exxegoexsrgi&lt;/tt&gt;
+|- align=&quot;center&quot;
+| 1
+| &lt;tt&gt;dwwdfndwrqfh&lt;/tt&gt;
+|- align=&quot;center&quot; 
+| 2
+| &lt;tt&gt;cvvcemcvqpeg&lt;/tt&gt;
+|- align=&quot;center&quot;
+| 3
+| &lt;tt&gt;buubdlbupodf&lt;/tt&gt;
+|- align=&quot;center&quot;
+| <template><title>highlight2</title></template> | 4
+| <template><title>highlight2</title></template> | &lt;tt&gt;attackatonce&lt;/tt&gt;
+|- align=&quot;center&quot; 
+| 5
+| &lt;tt&gt;zsszbjzsnmbd&lt;/tt&gt;
+|- align=&quot;center&quot;
+| 6
+| &lt;tt&gt;yrryaiyrmlac&lt;/tt&gt;
+|- align=&quot;center&quot;
+| colspan=&quot;2&quot; | ...
+|- align=&quot;center&quot;
+|  23
+| &lt;tt&gt;haahjrhavujl&lt;/tt&gt;
+|- align=&quot;center&quot;
+| 24
+| &lt;tt&gt;gzzgiqgzutik&lt;/tt&gt;
+|- align=&quot;center&quot;
+| 25
+| &lt;tt&gt;fyyfhpfytshj&lt;/tt&gt;
+|}
+The Caesar cipher can be easily broken even in a [[ciphertext-only attack|ciphertext-only scenario]]. Two situations can be considered: 1) an attacker knows (or guesses) that some sort of simple substitution cipher has been used, but not specifically that it is a Caesar scheme; and 2) an attacker knows that a Caesar cipher is in use, but does not know the shift value.
+
+In the first case, the cipher can be broken using the same techniques as for a general simple substitution cipher, such as [[frequency analysis]]  or [[pattern word]]s. While solving, it is likely that an attacker will quickly notice the regularity in the solution and deduce that a Caesar cipher is the specific algorithm employed.
+
+In the second instance, breaking the scheme is even more straightforward. Since there are only a limited number of possible shifts (26 in English), they can each be tested in turn in a [[brute force attack]]. One way to do this is to write out a snippet of the ciphertext in a table of all possible shifts &amp;mdash; a technique sometimes known as &quot;completing the plain component&quot;. The example given is for the ciphertext &quot;&lt;tt&gt;EXXEGOEXSRGI&lt;/tt&gt;&quot;; the plaintext is instantly recognisable by eye at a shift of four. Another way of viewing this method is that, under each letter of the ciphertext, the entire alphabet is written out in reverse starting at that letter. This attack can be speeded up using a set of strips prepared with the alphabet written on them, the strips are then aligned in columns according to the ciphertext, and the plaintext should appear on one of the resulting rows.
+
+[[Image:English-slf.png|left|320px|thumbnail|The distribution of letters in a typical sample of English language text has a distinctive and predictable shape. A Caesar shift &quot;rotates&quot; this distribution, and it is possible to determine the shift by examining the resultant frequency graph.]]
+Another brute force approach is to match up the frequency distribution of the letters. By graphing the frequencies of letters in the ciphertext, and by knowing the expected distribution of those letters in the original language of the plaintext, a human can easily spot the value of the shift by looking at the displacement of particular features of the graph. This is known as [[frequency analysis]]. For example in the [[English language]] the plaintext frequencies of the letters &lt;tt&gt;E&lt;/tt&gt;, &lt;tt&gt;T&lt;/tt&gt;, (usually most frequent), and &lt;tt&gt;Q&lt;/tt&gt;, &lt;tt&gt;Z&lt;/tt&gt; (typically least frequent) are particularly distinctive. Computers can also do this by measuring how well the actual frequency distribution matches up with the expected distribution; for example, the [[chi-square statistic]] can be used.
+
+For natural language plaintext, there will, in all likelihood, be only one plausible decryption, although for extremely short plaintexts, multiple candidates are possible. For example, the ciphertext &lt;tt&gt;MPQY&lt;/tt&gt; could, plausibly, decrypt to either &quot;&lt;tt&gt;[[aden]]&lt;/tt&gt;&quot; or &quot;&lt;tt&gt;know&lt;/tt&gt;&quot; (assuming the plaintext is in English); similarly, &quot;&lt;tt&gt;ALIIP&lt;/tt&gt;&quot; to &quot;&lt;tt&gt;dolls&lt;/tt&gt;&quot; or &quot;&lt;tt&gt;wheel&lt;/tt&gt;&quot;; and &quot;&lt;tt&gt;AFCCP&lt;/tt&gt;&quot; to &quot;&lt;tt&gt;jolly&lt;/tt&gt;&quot; or &quot;&lt;tt&gt;cheer&lt;/tt&gt;&quot; (see also [[unicity distance]]).
+
+Multiple encryptions and decryptions provide no additional security. This is because two encryptions of, say, shift ''A'' and shift ''B'', will be equivalent to an encryption with shift ''A'' + ''B''. In mathematical terms, the encryption under various keys forms a [[group (mathematics)|group]].
+
+<h level="2" i="4">==References==</h>
+* [[David Kahn]], ''The Codebreakers &amp;mdash; The Story of Secret Writing,'' 1967. ISBN 0684831309.
+* F. L. Bauer, ''Decrypted Secrets,'' 2nd edition, 2000, Springer. ISBN 3540668713.
+*  Chris Savarese and Brian Hart, ''The Caesar Cipher,'' 1999 [http://starbase.trincoll.edu/~crypto/historical/caesar.html].
+
+<h level="2" i="5">==External links==</h>
+* [http://www.sccs.swarthmore.edu/users/03/julieg/hw14cipher.html An online Caesar cipher encoder]
+<comment>&lt;!--* [http://codebreaker.dids.com/caesar.htm An online Caesar cipher encoder] ([[JavaScript]]) broken link as of 27/March/05--&gt;
+</comment>* [http://www.murky.org/cryptography/archives/2004/09/the_caesar_shif_1.html The Caesar Shift] discussed on [http://www.murky.org/cryptography/ The Beginner's Guide to Cryptography]
+* [http://www.antilles.k12.vi.us/math/cryptotut/caesar4.htm A Caesar cipher solver]
+* [http://laudatortemporisacti.blogspot.com/2004/09/secret-writing.html Historical sources for Caesar's use of the cipher]
+
+<template lineStart="1"><title>Classical_cryptography</title></template>
+
+[[Category:Stream ciphers]]
+[[Category:Classical ciphers]]
+[[Category:Group theory]]
+[[Category:Ancient Rome]]
+[[Category:Julio-Claudian Dynasty]]
+[[cs:Caesarova %C5%A1ifra]]
+[[de:Verschiebechiffre]]
+[[it:Cifrario di Cesare]]
+[[ja:&amp;#12471;&amp;#12540;&amp;#12470;&amp;#12540;&amp;#26263;&amp;#21495;]]
+[[nl:Caesar shift cijfer]]
+[[pl:szyfr przesuwaj&amp;#261;cy]]
+[[pt:Cifra de César]]</root>

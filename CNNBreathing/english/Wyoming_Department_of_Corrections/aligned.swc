@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Wyoming Department of Corrections" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Wyoming_Department_of_Corrections" /><prop key="DC.date.read" value="2016-01-01 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Wyoming_Department_of_Corrections" /><prop key="DC.source.wikiID" value="400970" /><prop key="DC.source.revision" value="785150752" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Wyoming Department of Corrections&amp;oldid=694450898" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/e/e3/En-Wyoming-Department-of-Corrections-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Wyoming-Department-of-Corrections-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2016-01-01 18:15:09" group="audio1" /><prop key="reader.name" value="[[User:Incledon|Incledon]]" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:56:36.691+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Wyoming_Department_of_Corrections/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Wyoming_Department_of_Corrections)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-16T16:50:44.253+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Wyoming_Department_of_Corrections/aligned.swc, transcript=articles/Wyoming_Department_of_Corrections/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Wyoming_Department_of_Corrections/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Wyoming Department of CorrectionsFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Wyoming Department of CorrectionsFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Wyoming"><n pronunciation="Wyoming" /></t><t text="Department"><n pronunciation="Department" /></t><t text="of"><n pronunciation="of" /></t><t text="CorrectionsFrom"><n pronunciation="CorrectionsFrom" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="," /><t text="the"><n pronunciation="the" /></t><t text="free"><n pronunciation="free" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" /></t><t text="n"><n pronunciation="n" /></t><t text="dot"><n pronunciation="dot" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="dot"><n pronunciation="dot" /></t><t text="org"><n pronunciation="org" /></t><t text="." /></s></extra>
+
+
+
+<ignored><s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t> <t>patch<n pronunciation="patch" /></t></s></ignored>
+
+
+<p><s><t>The<n pronunciation="The" /></t> <t>Wyoming<n pronunciation="Wyoming" start="50" end="1080" /></t> <t>Department<n pronunciation="Department" start="1290" end="2540" /></t> <t>of<n pronunciation="of" start="2650" end="3030" /></t> <t>Corrections<n pronunciation="Corrections" start="3030" end="4340" /></t> <t>(</t><t>WDOC<n pronunciation="WDOC" start="4960" end="5400" /></t><t>)</t> <t>is<n pronunciation="is" start="19480" end="19710" /></t> <t>a<n pronunciation="a" /></t> <t>state<n pronunciation="state" start="19920" end="20620" /></t> <t>agency<n pronunciation="agency" start="20650" end="21550" /></t> <t>of<n pronunciation="of" start="21760" end="22120" /></t> <t>Wyoming<n pronunciation="Wyoming" start="22120" end="22840" /></t> <t>that<n pronunciation="that" /></t> <t>operates<n pronunciation="operates" start="23540" end="24450" /></t> <t>adult<n pronunciation="adult" start="24500" end="25000" /></t> <t>correctional<n pronunciation="correctional" start="25180" end="26060" /></t> <t>facilities<n pronunciation="facilities" start="26090" end="27210" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="27880" end="28200"><ph start="27940" end="28080" type="I"></ph><ph start="28080" end="28190" type="t"></ph></n></t> <t>is<n pronunciation="is" start="28200" end="28380"><ph start="28190" end="28290" type="I"></ph><ph start="28290" end="28400" type="z"></ph></n></t> <t>headquartered<n pronunciation="headquartered" start="28380" end="29310"><ph start="28400" end="28540" type="h"></ph><ph start="28540" end="28600" type="E"></ph><ph start="28600" end="28720" type="d"></ph><ph start="28720" end="28860" type="k"></ph><ph start="28860" end="28900" type="w"></ph><ph start="28900" end="29010" type="O:"></ph><ph start="29010" end="29040" type="r"></ph><ph start="29040" end="29140" type="t"></ph><ph start="29140" end="29190" type="3`"></ph><ph start="29190" end="29310" type="d"></ph></n></t> <t>in<n pronunciation="in" start="29510" end="29840"><ph start="29610" end="29670" type="I"></ph><ph start="29670" end="29830" type="n"></ph></n></t> <t>Suite<n pronunciation="Suite" start="29840" end="30260"><ph start="29830" end="30080" type="s"></ph><ph start="30080" end="30270" type="u"></ph><ph start="30270" end="31010" type="?"></ph></n></t> <t>100<n pronunciation="100" start="30750" end="31000"><ph start="31060" end="31160" type="r"></ph><ph start="31160" end="31220" type="u"></ph></n></t> <t>of<n pronunciation="of" start="31550" end="31870"><ph start="31670" end="31750" type="V"></ph><ph start="31750" end="31820" type="v"></ph></n></t> <t>the<n pronunciation="the" start="32090" end="32310"><ph start="31910" end="32090" type="D"></ph><ph start="32090" end="32120" type="V"></ph></n></t> <t>1934<n pronunciation="nineteen" start="32340" end="32770"><ph start="32250" end="32540" type="n"></ph><ph start="32540" end="32630" type="aI"></ph><ph start="32630" end="32660" type="n"></ph><ph start="32660" end="32750" type="i:"></ph><ph start="32750" end="32820" type="n"></ph></n><n pronunciation="thirty" start="32770" end="33180"><ph start="32930" end="32990" type="T"></ph><ph start="32990" end="33070" type="3`"></ph><ph start="33070" end="33100" type="t"></ph><ph start="33100" end="33170" type="i:"></ph></n><n pronunciation="four" start="33180" end="33590"><ph start="33290" end="33360" type="f"></ph><ph start="33360" end="33610" type="O:"></ph><ph start="33610" end="33640" type="r"></ph></n></t> <t>Wyott<n pronunciation="Wyott" start="33630" end="34470"><ph start="33640" end="34000" type="w"></ph><ph start="34000" end="34200" type="aI"></ph><ph start="34200" end="34230" type="V"></ph><ph start="34230" end="34460" type="t"></ph></n></t> <t>Drive<n pronunciation="Drive" start="34470" end="35070"><ph start="34460" end="34650" type="d"></ph><ph start="34650" end="34830" type="r"></ph><ph start="34830" end="34980" type="aI"></ph><ph start="34980" end="35010" type="v"></ph></n></t> <t>building<n pronunciation="building" start="35220" end="35730"><ph start="35260" end="35290" type="b"></ph><ph start="35290" end="35340" type="I"></ph><ph start="35340" end="35460" type="l"></ph><ph start="35460" end="35530" type="d"></ph><ph start="35530" end="35560" type="I"></ph><ph start="35560" end="35690" type="N"></ph></n></t> <t>in<n pronunciation="in" start="35930" end="36270"><ph start="36030" end="36210" type="?"></ph><ph start="36210" end="36240" type="I"></ph><ph start="36240" end="36300" type="n"></ph></n></t> <t>Cheyenne<n pronunciation="Cheyenne" start="36270" end="37060"><ph start="36300" end="36500" type="S"></ph><ph start="36500" end="36840" type="aI"></ph><ph start="36840" end="36870" type="E"></ph><ph start="36870" end="36980" type="n"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>History<n pronunciation="History" /></t>
+<t>2<n pronunciation="two" /></t> <t>Facilities<n pronunciation="Facilities" /></t>
+<t>3<n pronunciation="three" /></t> <t>Fallen<n pronunciation="Fallen" /></t> <t>officers<n pronunciation="officers" /></t>
+<t>4<n pronunciation="four" /></t> <t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t>
+<t>5<n pronunciation="five" /></t> <t>References<n pronunciation="References" /></t>
+<t>6<n pronunciation="six" /></t> <t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t></s></p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>History<n pronunciation="History" start="40030" end="40840"><ph start="40120" end="40190" type="h"></ph><ph start="40190" end="40250" type="I"></ph><ph start="40250" end="40360" type="s"></ph><ph start="40360" end="40500" type="t"></ph><ph start="40500" end="40610" type="r"></ph><ph start="40610" end="40730" type="i:"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>In<n pronunciation="In" start="41840" end="41990"><ph start="41910" end="42010" type="I"></ph><ph start="42010" end="42140" type="n"></ph></n></t> <t>November<n pronunciation="November" start="42090" end="42640"><ph start="42140" end="42180" type="n"></ph><ph start="42180" end="42220" type="@U"></ph><ph start="42220" end="42300" type="v"></ph><ph start="42300" end="42420" type="E"></ph><ph start="42420" end="42540" type="m"></ph><ph start="42540" end="42570" type="b"></ph><ph start="42570" end="42650" type="3`"></ph></n></t> <t>1990<n pronunciation="nineteen" start="42640" end="43290"><ph start="42650" end="42790" type="n"></ph><ph start="42790" end="42950" type="aI"></ph><ph start="42950" end="42990" type="n"></ph><ph start="42990" end="43110" type="t"></ph><ph start="43110" end="43180" type="i:"></ph><ph start="43180" end="43350" type="n"></ph></n><n pronunciation="ninety" start="43290" end="43940"><ph start="43350" end="43380" type="n"></ph><ph start="43380" end="43540" type="aI"></ph><ph start="43540" end="43600" type="n"></ph><ph start="43600" end="43740" type="t"></ph><ph start="43740" end="43880" type="i:"></ph></n></t> <t>Wyoming<n pronunciation="Wyoming" start="44240" end="45060"><ph start="44410" end="44530" type="w"></ph><ph start="44530" end="44700" type="aI"></ph><ph start="44700" end="44790" type="@U"></ph><ph start="44790" end="44860" type="m"></ph><ph start="44860" end="44940" type="i:"></ph><ph start="44940" end="45150" type="n"></ph></n></t> <t>voters<n pronunciation="voters" start="45060" end="45770"><ph start="45150" end="45220" type="v"></ph><ph start="45220" end="45360" type="@U"></ph><ph start="45360" end="45570" type="t"></ph><ph start="45570" end="45620" type="3`"></ph><ph start="45620" end="45760" type="z"></ph></n></t> <t>approved<n pronunciation="approved" start="45770" end="46610"><ph start="45760" end="45860" type="?"></ph><ph start="45860" end="45910" type="V"></ph><ph start="45910" end="46180" type="p"></ph><ph start="46180" end="46330" type="r"></ph><ph start="46330" end="46430" type="u"></ph><ph start="46430" end="46460" type="v"></ph></n></t> <t>a<n pronunciation="a"><ph start="46460" end="46700" type="?"></ph><ph start="46700" end="46740" type="V"></ph></n></t> <t>constitutional<n pronunciation="constitutional" start="46750" end="48190"><ph start="46850" end="46980" type="k"></ph><ph start="46980" end="47080" type="A:"></ph><ph start="47080" end="47170" type="n"></ph><ph start="47170" end="47300" type="s"></ph><ph start="47300" end="47370" type="t"></ph><ph start="47370" end="47400" type="V"></ph><ph start="47400" end="47610" type="t"></ph><ph start="47610" end="47730" type="u"></ph><ph start="47730" end="47880" type="S"></ph><ph start="47880" end="47910" type="V"></ph><ph start="47910" end="47940" type="n"></ph><ph start="47940" end="47970" type="V"></ph><ph start="47970" end="48165" type="l"></ph></n></t> <t>amendment<n pronunciation="amendment" start="48190" end="48870"><ph start="48165" end="48230" type="V"></ph><ph start="48230" end="48350" type="m"></ph><ph start="48350" end="48440" type="E"></ph><ph start="48440" end="48570" type="n"></ph><ph start="48570" end="48600" type="m"></ph><ph start="48600" end="48630" type="V"></ph><ph start="48630" end="48780" type="n"></ph><ph start="48780" end="48830" type="t"></ph></n></t> <t>that<n pronunciation="that" start="49210" end="49510"><ph start="49240" end="49270" type="D"></ph><ph start="49270" end="49410" type="{"></ph><ph start="49410" end="49500" type="t"></ph></n></t> <t>abolished<n pronunciation="abolished" start="49540" end="50260"><ph start="49550" end="49640" type="V"></ph><ph start="49640" end="49740" type="b"></ph><ph start="49740" end="49910" type="A:"></ph><ph start="49910" end="49960" type="l"></ph><ph start="49960" end="50030" type="I"></ph><ph start="50030" end="50170" type="S"></ph><ph start="50170" end="50290" type="t"></ph></n></t> <t>the<n pronunciation="the" start="50260" end="50490"><ph start="50290" end="50470" type="D"></ph><ph start="50470" end="50500" type="V"></ph></n></t> <t>Wyoming<n pronunciation="Wyoming" start="50490" end="51220"><ph start="50500" end="50650" type="w"></ph><ph start="50650" end="50890" type="aI"></ph><ph start="50890" end="50960" type="@U"></ph><ph start="50960" end="51030" type="m"></ph><ph start="51030" end="51140" type="i:"></ph><ph start="51140" end="51240" type="n"></ph></n></t> <t>State<n pronunciation="State" start="51430" end="51790"><ph start="51240" end="51420" type="s"></ph><ph start="51420" end="51490" type="t"></ph><ph start="51490" end="51680" type="eI"></ph><ph start="51680" end="51750" type="t"></ph></n></t> <t>Board<n pronunciation="Board" start="51880" end="52260"><ph start="51880" end="51940" type="b"></ph><ph start="51940" end="52130" type="O:"></ph><ph start="52130" end="52160" type="r"></ph><ph start="52160" end="52190" type="d"></ph></n></t> <t>of<n pronunciation="of" start="52260" end="52450"><ph start="52190" end="52320" type="?"></ph><ph start="52320" end="52350" type="V"></ph><ph start="52350" end="52380" type="v"></ph></n></t> <t>Charities<n pronunciation="Charities" start="52450" end="53230"><ph start="52380" end="52470" type="T"></ph><ph start="52470" end="52580" type="S"></ph><ph start="52580" end="52630" type="E"></ph><ph start="52630" end="52780" type="r"></ph><ph start="52780" end="52810" type="I"></ph><ph start="52810" end="52960" type="t"></ph><ph start="52960" end="53140" type="i:"></ph><ph start="53140" end="53240" type="z"></ph></n></t> <t>and<n pronunciation="and" start="53230" end="53570"><ph start="53240" end="53380" type="{"></ph><ph start="53380" end="53480" type="n"></ph><ph start="53480" end="53570" type="d"></ph></n></t> <t>Reform<n pronunciation="Reform" start="53570" end="54200"><ph start="53570" end="53700" type="r"></ph><ph start="53700" end="53780" type="I"></ph><ph start="53780" end="53850" type="f"></ph><ph start="53850" end="54040" type="O:"></ph><ph start="54040" end="54090" type="r"></ph><ph start="54090" end="54140" type="m"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>institutions<n pronunciation="institutions" start="55340" end="56540" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>former<n pronunciation="former" start="57030" end="57530" /></t> <t>state<n pronunciation="state" start="57530" end="58050" /></t> <t>agency<n pronunciation="agency" start="58050" end="58830" /></t> <t>were<n pronunciation="were" start="59000" end="59290" /></t> <t>divided<n pronunciation="divided" start="59290" end="60080" /></t> <t>and<n pronunciation="and" start="60080" end="60310" /></t> <t>given<n pronunciation="given" start="60310" end="60810" /></t> <t>to<n pronunciation="to" start="60840" end="61240" /></t> <t>other<n pronunciation="other" /></t> <t>agencies<n pronunciation="agencies" start="61570" end="62580" /></t><t>;</t> <t>the<n pronunciation="the" start="63180" end="63420" /></t> <t>Department<n pronunciation="Department" start="63420" end="64110" /></t> <t>of<n pronunciation="of" start="64110" end="64280" /></t> <t>Corrections<n pronunciation="Corrections" start="64280" end="65180" /></t><t>,</t> <t>created<n pronunciation="created" start="65510" end="66140" /></t> <t>in<n pronunciation="in" start="66140" end="66350" /></t> <t>1991<n pronunciation="nineteen" start="66350" end="66920" /><n pronunciation="ninety" /><n pronunciation="one" start="67260" end="67730" /></t><t>,</t> <t>took<n pronunciation="took" start="68150" end="68570" /></t> <t>responsibility<n pronunciation="responsibility" start="68570" end="69850" /></t> <t>of<n pronunciation="of" start="69900" end="70230" /></t> <t>the<n pronunciation="the" /></t> <t>adult<n pronunciation="adult" start="70260" end="70820" /></t> <t>correctional<n pronunciation="correctional" start="70890" end="71730" /></t> <t>facilities<n pronunciation="facilities" start="71730" end="72700" /></t> <t>and<n pronunciation="and" start="72850" end="73500" /></t> <t>also<n pronunciation="also" /></t> <t>absorbed<n pronunciation="absorbed" start="73530" end="74500" /></t> <t>the<n pronunciation="the" start="74500" end="74740" /></t> <t>adult<n pronunciation="adult" start="74740" end="75240" /></t> <t>parole<n pronunciation="parole" start="75350" end="75860" /></t> <t>functions<n pronunciation="functions" start="75860" end="76720" /></t> <t>of<n pronunciation="of" start="76990" end="77220" /></t> <t>the<n pronunciation="the" start="77220" end="77450" /></t> <t>Wyoming<n pronunciation="Wyoming" start="77450" end="78270" /></t> <t>Department<n pronunciation="Department" start="78340" end="79130" /></t> <t>of<n pronunciation="of" start="79130" end="79380" /></t> <t>Probation<n pronunciation="Probation" start="79380" end="80210" /></t> <t>and<n pronunciation="and" /></t> <t>Parole<n pronunciation="Parole" /></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>Facilities<n pronunciation="Facilities" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Institutions<n pronunciation="Institutions" /></t> <t>include<n pronunciation="include" /></t><t>:</t></s><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored></p>
+
+<p><s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>State<n pronunciation="State" /></t> <t>Penitentiary<n pronunciation="Penitentiary" /></t> <t>(</t><t>Rawlins<n pronunciation="Rawlins" /></t><t>)</t>
+<t>Wyoming<n pronunciation="Wyoming" /></t> <t>Women's<n pronunciation="Women's" /></t> <t>Center<n pronunciation="Center" /></t> <t>(</t><t>Lusk<n pronunciation="Lusk" /></t><t>;</t> <t>inmate<n pronunciation="inmate" /></t> <t>capacity<n pronunciation="capacity" /></t> <t>261<n pronunciation="261" /></t><t>)</t>
+<t>Wyoming<n pronunciation="Wyoming" start="103740" end="104550" /></t> <t>Honor<n pronunciation="Honor" start="104740" end="105050" /></t> <t>Farm<n pronunciation="Farm" start="105050" end="105540" /></t> <t>(</t><t>Riverton<n pronunciation="Riverton" start="105790" end="106460" /></t><t>;</t> <t>inmate<n pronunciation="inmate" start="107250" end="107780" /></t> <t>capacity<n pronunciation="capacity" start="107780" end="108590" /></t> <t>283<n pronunciation="283" start="108590" end="109050" /></t><t>)</t>
+<t>Wyoming<n pronunciation="Wyoming" start="111820" end="112530" /></t> <t>Honor<n pronunciation="Honor" start="112530" end="112990" /></t> <t>Conservation<n pronunciation="Conservation" start="113200" end="114190" /></t> <t>Camp<n pronunciation="Camp" start="114190" end="114660" /></t> <t>&amp;<n pronunciation="and" start="114660" end="114980" /></t> <t>Boot<n pronunciation="Boot" /></t> <t>Camp<n pronunciation="Camp" start="115230" end="115890" /></t> <t>(</t><t>Newcastle<n pronunciation="Newcastle" start="115950" end="117010" /></t><t>;</t> <t>combined<n pronunciation="combined" start="117660" end="118300" /></t> <t>inmate<n pronunciation="inmate" start="118300" end="118700" /></t> <t>capacity<n pronunciation="capacity" start="118700" end="119530" /></t> <t>261<n pronunciation="261" start="122640" end="122880" /></t><t>)</t></s><ignored><s><t>[</t><t>4<n pronunciation="four" /></t><t>]</t></s></ignored>
+<s><t>Wyoming<n pronunciation="Wyoming" start="122880" end="123660"><ph start="122910" end="123070" type="w"></ph><ph start="123070" end="123310" type="aI"></ph><ph start="123310" end="123360" type="@U"></ph><ph start="123360" end="123450" type="m"></ph><ph start="123450" end="123560" type="i:"></ph><ph start="123560" end="123710" type="n"></ph></n></t> <t>Medium<n pronunciation="Medium" start="123780" end="124470"><ph start="123830" end="123940" type="m"></ph><ph start="123940" end="124100" type="i:"></ph><ph start="124100" end="124220" type="d"></ph><ph start="124220" end="124310" type="i:"></ph><ph start="124310" end="124340" type="V"></ph><ph start="124340" end="124390" type="m"></ph></n></t> <t>Correctional<n pronunciation="Correctional" start="124500" end="125300"><ph start="124520" end="124670" type="k"></ph><ph start="124670" end="124790" type="3`"></ph><ph start="124790" end="124870" type="E"></ph><ph start="124870" end="124920" type="k"></ph><ph start="124920" end="125090" type="S"></ph><ph start="125090" end="125130" type="V"></ph><ph start="125130" end="125160" type="n"></ph><ph start="125160" end="125190" type="V"></ph><ph start="125190" end="125325" type="l"></ph></n></t> <t>Institution<n pronunciation="Institution" start="125300" end="126360"><ph start="125325" end="125400" type="I"></ph><ph start="125400" end="125470" type="n"></ph><ph start="125470" end="125590" type="s"></ph><ph start="125590" end="125640" type="t"></ph><ph start="125640" end="125690" type="I"></ph><ph start="125690" end="125840" type="t"></ph><ph start="125840" end="125990" type="u"></ph><ph start="125990" end="126130" type="S"></ph><ph start="126130" end="126180" type="V"></ph><ph start="126180" end="126620" type="n"></ph></n></t> <t>(</t><t>Torrington<n pronunciation="Torrington" start="126610" end="127450"><ph start="126620" end="126770" type="t"></ph><ph start="126770" end="126890" type="O:"></ph><ph start="126890" end="126960" type="r"></ph><ph start="126960" end="127000" type="I"></ph><ph start="127000" end="127080" type="N"></ph><ph start="127080" end="127260" type="t"></ph><ph start="127260" end="127290" type="V"></ph><ph start="127290" end="127380" type="n"></ph></n></t><t>)</t></s><ignored><s><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s></ignored>
+
+<p><s><t>The<n pronunciation="The" /></t> <t>grand<n pronunciation="grand" start="128610" end="129020" /></t> <t>opening<n pronunciation="opening" start="129020" end="129740" /></t> <t>and<n pronunciation="and" start="129810" end="130400" /></t> <t>ribbon<n pronunciation="ribbon" start="130400" end="130790" /></t> <t>cutting<n pronunciation="cutting" start="130790" end="131300" /></t> <t>occurred<n pronunciation="occurred" start="131300" end="131790" /></t> <t>on<n pronunciation="on" start="131790" end="131950" /></t> <t>January<n pronunciation="January" start="132760" end="133310" /></t> <t>6<n pronunciation="six" /></t><t>,</t> <t>2010<n pronunciation="twenty" start="133310" end="133790" /><n pronunciation="ten" start="133790" end="134240" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="135060" end="135260"><ph start="134790" end="134940" type="I"></ph><ph start="134940" end="135240" type="?"></ph></n></t> <t>serves<n pronunciation="serves" start="135260" end="135850"><ph start="135240" end="135480" type="s"></ph><ph start="135480" end="135670" type="3`"></ph><ph start="135670" end="135700" type="v"></ph><ph start="135700" end="135850" type="z"></ph></n></t> <t>as<n pronunciation="as" start="135850" end="136140"><ph start="135850" end="135950" type="?"></ph><ph start="135950" end="136070" type="V"></ph><ph start="136070" end="136165" type="s"></ph></n></t> <t>an<n pronunciation="an" start="136140" end="136370"><ph start="136165" end="136260" type="I"></ph><ph start="136260" end="136370" type="n"></ph></n></t> <t>intake<n pronunciation="intake" start="136370" end="136950"><ph start="136370" end="136520" type="?"></ph><ph start="136520" end="136560" type="I"></ph><ph start="136560" end="136620" type="n"></ph><ph start="136620" end="136730" type="t"></ph><ph start="136730" end="136850" type="eI"></ph><ph start="136850" end="136950" type="k"></ph></n></t> <t>center<n pronunciation="center" start="136950" end="137560"><ph start="136950" end="137120" type="s"></ph><ph start="137120" end="137190" type="E"></ph><ph start="137190" end="137290" type="n"></ph><ph start="137290" end="137440" type="t"></ph><ph start="137440" end="137540" type="3`"></ph></n></t> <t>for<n pronunciation="for" start="137760" end="138100"><ph start="137930" end="138010" type="f"></ph><ph start="138010" end="138070" type="3`"></ph></n></t> <t>men<n pronunciation="men" start="138100" end="138480"><ph start="138070" end="138220" type="m"></ph><ph start="138220" end="138400" type="I"></ph><ph start="138400" end="138480" type="n"></ph></n></t> <t>who<n pronunciation="who" start="138480" end="138860"><ph start="138480" end="138610" type="h-"></ph><ph start="138610" end="138690" type="u"></ph></n></t> <t>are<n pronunciation="are"><ph start="138690" end="138930" type="A:"></ph><ph start="138930" end="138960" type="r"></ph></n></t> <t>not<n pronunciation="not" start="138860" end="139260"><ph start="138960" end="138990" type="n"></ph><ph start="138990" end="139100" type="A:"></ph><ph start="139100" end="139200" type="t"></ph></n></t> <t>sentenced<n pronunciation="sentenced" start="139890" end="140610"><ph start="139300" end="139840" type="g"></ph><ph start="139840" end="140030" type="s"></ph><ph start="140030" end="140070" type="E"></ph><ph start="140070" end="140200" type="n"></ph><ph start="140200" end="140330" type="t"></ph><ph start="140330" end="140360" type="V"></ph><ph start="140360" end="140460" type="n"></ph><ph start="140460" end="140590" type="s"></ph></n></t> <t>to<n pronunciation="to" start="140610" end="140780"><ph start="140590" end="140700" type="t"></ph><ph start="140700" end="140760" type="u"></ph></n></t> <t>death<n pronunciation="death" start="140780" end="141350"><ph start="140920" end="140950" type="d"></ph><ph start="140950" end="141150" type="E"></ph><ph start="141150" end="141190" type="T"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>6<n pronunciation="six" /></t><t>]</t></s></ignored>
+</p>
+
+</p>
+</sectioncontent></section><section level="2"><sectiontitle><t>Fallen<n pronunciation="Fallen" start="143820" end="144590"><ph start="143900" end="144030" type="f"></ph><ph start="144030" end="144240" type="A:"></ph><ph start="144240" end="144320" type="l"></ph><ph start="144320" end="144350" type="V"></ph><ph start="144350" end="144500" type="n"></ph></n></t> <t>officers<n pronunciation="officers" start="144590" end="145390"><ph start="144630" end="144730" type="O:"></ph><ph start="144730" end="144860" type="f"></ph><ph start="144860" end="144900" type="V"></ph><ph start="144900" end="145080" type="s"></ph><ph start="145080" end="145120" type="3`"></ph><ph start="145120" end="145310" type="z"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Since<n pronunciation="Since" start="145850" end="146340" /></t> <t>the<n pronunciation="the" start="146340" end="146510" /></t> <t>establishment<n pronunciation="establishment" start="146510" end="147680" /></t> <t>of<n pronunciation="of" start="147680" end="147850" /></t> <t>the<n pronunciation="the" start="147850" end="148090" /></t> <t>Wyoming<n pronunciation="Wyoming" start="148090" end="148900" /></t> <t>Department<n pronunciation="Department" start="148990" end="149810" /></t> <t>of<n pronunciation="of" start="149810" end="150010" /></t> <t>Corrections<n pronunciation="Corrections" start="150010" end="151060" /></t><t>,</t> <t>two<n pronunciation="two" /></t> <t>officers<n pronunciation="officers" /></t> <t>have<n pronunciation="have" /></t> <t>died<n pronunciation="died" /></t> <t>in<n pronunciation="in" /></t> <t>the<n pronunciation="the" /></t> <t>line<n pronunciation="line" /></t> <t>of<n pronunciation="of" /></t> <t>duty<n pronunciation="duty" /></t><t>.</t></s><ignored><s><t>[</t><t>7<n pronunciation="seven" /></t><t>]</t></s></ignored></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<p><s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>portal<n pronunciation="portal" /></t>
+<t>Prisons<n pronunciation="Prisons" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+<p><s><t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>law<n pronunciation="law" /></t> <t>enforcement<n pronunciation="enforcement" /></t> <t>agencies<n pronunciation="agencies" /></t> <t>in<n pronunciation="in" /></t> <t>Wyoming<n pronunciation="Wyoming" /></t>
+<t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>United<n pronunciation="United" /></t> <t>States<n pronunciation="States" /></t> <t>state<n pronunciation="state" /></t> <t>correction<n pronunciation="correction" /></t> <t>agencies<n pronunciation="agencies" /></t>
+<t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>U.S.<n pronunciation="U" /><n pronunciation="S" /></t> <t>state<n pronunciation="state" /></t> <t>prisons<n pronunciation="prisons" /></t>
+<t>Prison<n pronunciation="Prison" /></t></s></p>
+</sectioncontent></section>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>"</t><t>Contact<n pronunciation="Contact" /></t> <t>Us<n pronunciation="Us" /></t><t>"</t><t>.</t></s> <s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>August<n pronunciation="August" /></t> <t>22<n pronunciation="twenty" /><n pronunciation="two" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>About<n pronunciation="About" /></t> <t>the<n pronunciation="the" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t><t>"</t><t>.</t></s> <s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>August<n pronunciation="August" /></t> <t>22<n pronunciation="twenty" /><n pronunciation="two" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Contact<n pronunciation="Contact" /></t> <t>Institutions<n pronunciation="Institutions" /></t><t>"</t><t>.</t></s> <s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>August<n pronunciation="August" /></t> <t>22<n pronunciation="twenty" /><n pronunciation="two" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Newcastle<n pronunciation="Newcastle" /></t> <t>city<n pronunciation="city" /></t><t>,</t> <t>Wyoming<n pronunciation="Wyoming" /></t><t>"</t><t>.</t></s> <s><t>U.S.<n pronunciation="U" /><n pronunciation="S" /></t> <t>Census<n pronunciation="Census" /></t> <t>Bureau<n pronunciation="Bureau" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>December<n pronunciation="December" /></t> <t>12<n pronunciation="twelve" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Medium<n pronunciation="Medium" /></t> <t>Correctional<n pronunciation="Correctional" /></t> <t>Institution<n pronunciation="Institution" /></t> <t>(</t><t>WMCI<n pronunciation="WMCI" /></t><t>)</t><t>"</t><t>.</t></s> <s><t>Goshen<n pronunciation="Goshen" /></t> <t>County<n pronunciation="County" /></t> <t>GIS<n pronunciation="GIS" /></t> <t>Department<n pronunciation="Department" /></t><t>.</t></s> <s><t>2009<n pronunciation="2009" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>December<n pronunciation="December" /></t> <t>12<n pronunciation="twelve" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Medium<n pronunciation="Medium" /></t> <t>Correctional<n pronunciation="Correctional" /></t> <t>Institution<n pronunciation="Institution" /></t><t>"</t><t>.</t></s> <s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>August<n pronunciation="August" /></t> <t>22<n pronunciation="twenty" /><n pronunciation="two" /></t><t>,</t> <t>2010<n pronunciation="twenty" /><n pronunciation="ten" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>The<n pronunciation="The" /></t> <t>Officer<n pronunciation="Officer" /></t> <t>Down<n pronunciation="Down" /></t> <t>Memorial<n pronunciation="Memorial" /></t> <t>Page<n pronunciation="Page" /></t></s></sectioncontent></section></ignored>
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+<p><s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t></s></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+ <s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>Department<n pronunciation="Department" /></t> <t>of<n pronunciation="of" /></t> <t>Corrections<n pronunciation="Corrections" /></t> <t>prisons<n pronunciation="prisons" /></t></s>
+
+
+
+<s><t>State<n pronunciation="State" /></t> <t>prisons<n pronunciation="prisons" /></t></s>
+
+
+
+<p><s><t>Wyoming<n pronunciation="Wyoming" /></t> <t>State<n pronunciation="State" /></t> <t>Penitentiary<n pronunciation="Penitentiary" /></t>
+<t>Wyoming<n pronunciation="Wyoming" /></t> <t>Women's<n pronunciation="Women's" /></t> <t>Center<n pronunciation="Center" /></t>
+<t>Wyoming<n pronunciation="Wyoming" /></t> <t>Honor<n pronunciation="Honor" /></t> <t>Farm<n pronunciation="Farm" /></t>
+<t>Wyoming<n pronunciation="Wyoming" /></t> <t>Honor<n pronunciation="Honor" /></t> <t>Conservation<n pronunciation="Conservation" /></t> <t>Camp<n pronunciation="Camp" /></t> <t>&amp;<n pronunciation="and" /></t> <t>Boot<n pronunciation="Boot" /></t> <t>Camp<n pronunciation="Camp" /></t>
+<t>Wyoming<n pronunciation="Wyoming" /></t> <t>Medium<n pronunciation="Medium" /></t> <t>Correctional<n pronunciation="Correctional" /></t> <t>Institution<n pronunciation="Institution" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Incarceration<n pronunciation="Incarceration" /></t> <t>of<n pronunciation="of" /></t> <t>adults<n pronunciation="adults" /></t> <t>in<n pronunciation="in" /></t> <t>the<n pronunciation="the" /></t> <t>United<n pronunciation="United" /></t> <t>States<n pronunciation="States" /></t></s>
+
+
+
+
+<s><t>This<n pronunciation="This" /></t> <t>template<n pronunciation="template" /></t> <t>pertains<n pronunciation="pertains" /></t> <t>only<n pronunciation="only" /></t> <t>to<n pronunciation="to" /></t> <t>agencies<n pronunciation="agencies" /></t> <t>that<n pronunciation="that" /></t> <t>handle<n pronunciation="handle" /></t> <t>sentenced<n pronunciation="sentenced" /></t> <t>felons<n pronunciation="felons" /></t> <t>(</t><t>with<n pronunciation="with" /></t> <t>sentences<n pronunciation="sentences" /></t> <t>over<n pronunciation="over" /></t> <t>1-2<n pronunciation="one" /><n pronunciation="to" /><n pronunciation="two" /></t> <t>years<n pronunciation="years" /></t><t>)</t><t>.</t></s> <s><t>In<n pronunciation="In" /></t> <t>many<n pronunciation="many" /></t> <t>states<n pronunciation="states" /></t> <t>pre-trial<n pronunciation="pre" /><n pronunciation="trial" /></t><t>,</t> <t>misdemeanor<n pronunciation="misdemeanor" /></t><t>,</t> <t>and/or<n pronunciation="and" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="or" /></t> <t>those<n pronunciation="those" /></t> <t>sentenced<n pronunciation="sentenced" /></t> <t>under<n pronunciation="under" /></t> <t>state<n pronunciation="state" /></t> <t>law<n pronunciation="law" /></t> <t>with<n pronunciation="with" /></t> <t>sentences<n pronunciation="sentences" /></t> <t>of<n pronunciation="of" /></t> <t>fewer<n pronunciation="fewer" /></t> <t>than<n pronunciation="than" /></t> <t>one<n pronunciation="one" /></t> <t>year<n pronunciation="year" /></t> <t>are<n pronunciation="are" /></t> <t>in<n pronunciation="in" /></t> <t>county<n pronunciation="county" /></t> <t>jails<n pronunciation="jails" /></t> <t>instead<n pronunciation="instead" /></t> <t>of<n pronunciation="of" /></t> <t>state<n pronunciation="state" /></t> <t>prisons<n pronunciation="prisons" /></t><t>.</t></s>
+
+
+
+<s><t>Federal<n pronunciation="Federal" /></t> <t>Bureau<n pronunciation="Bureau" /></t> <t>of<n pronunciation="of" /></t> <t>Prisons<n pronunciation="Prisons" /></t></s>
+
+
+
+<p><s><t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>U.S.<n pronunciation="U" /><n pronunciation="S" /></t> <t>federal<n pronunciation="federal" /></t> <t>prisons<n pronunciation="prisons" /></t>
+<t>Federal<n pronunciation="Federal" /></t> <t>Prison<n pronunciation="Prison" /></t> <t>Industries<n pronunciation="Industries" /></t></s></p>
+
+
+
+
+
+<s><t>State<n pronunciation="State" /></t> <t>correction<n pronunciation="correction" /></t> <t>agencies<n pronunciation="agencies" /></t></s>
+
+
+
+<p><s><t>Alabama<n pronunciation="Alabama" /></t>
+<t>Alaska<n pronunciation="Alaska" /></t>
+<t>Arizona<n pronunciation="Arizona" /></t>
+<t>Arkansas<n pronunciation="Arkansas" /></t>
+<t>California<n pronunciation="California" /></t>
+<t>Colorado<n pronunciation="Colorado" /></t>
+<t>Connecticut<n pronunciation="Connecticut" /></t>
+<t>Delaware<n pronunciation="Delaware" /></t>
+<t>Florida<n pronunciation="Florida" /></t>
+<t>Georgia<n pronunciation="Georgia" /></t>
+<t>Hawaii<n pronunciation="Hawaii" /></t>
+<t>Idaho<n pronunciation="Idaho" /></t>
+<t>Illinois<n pronunciation="Illinois" /></t>
+<t>Indiana<n pronunciation="Indiana" /></t>
+<t>Iowa<n pronunciation="Iowa" /></t>
+<t>Kansas<n pronunciation="Kansas" /></t>
+<t>Kentucky<n pronunciation="Kentucky" /></t>
+<t>Louisiana<n pronunciation="Louisiana" /></t>
+<t>Maine<n pronunciation="Maine" /></t>
+<t>Maryland<n pronunciation="Maryland" /></t>
+<t>Massachusetts<n pronunciation="Massachusetts" /></t>
+<t>Michigan<n pronunciation="Michigan" /></t>
+<t>Minnesota<n pronunciation="Minnesota" /></t>
+<t>Mississippi<n pronunciation="Mississippi" /></t>
+<t>Missouri<n pronunciation="Missouri" /></t>
+<t>Montana<n pronunciation="Montana" /></t>
+<t>Nebraska<n pronunciation="Nebraska" /></t>
+<t>Nevada<n pronunciation="Nevada" /></t>
+<t>New<n pronunciation="New" /></t> <t>Hampshire<n pronunciation="Hampshire" /></t>
+<t>New<n pronunciation="New" /></t> <t>Jersey<n pronunciation="Jersey" /></t>
+<t>New<n pronunciation="New" /></t> <t>Mexico<n pronunciation="Mexico" /></t>
+<t>New<n pronunciation="New" /></t> <t>York<n pronunciation="York" /></t>
+<t>North<n pronunciation="North" /></t> <t>Carolina<n pronunciation="Carolina" /></t>
+<t>North<n pronunciation="North" /></t> <t>Dakota<n pronunciation="Dakota" /></t>
+<t>Ohio<n pronunciation="Ohio" /></t>
+<t>Oklahoma<n pronunciation="Oklahoma" /></t>
+<t>Oregon<n pronunciation="Oregon" /></t>
+<t>Pennsylvania<n pronunciation="Pennsylvania" /></t>
+<t>Rhode<n pronunciation="Rhode" /></t> <t>Island<n pronunciation="Island" /></t>
+<t>South<n pronunciation="South" /></t> <t>Carolina<n pronunciation="Carolina" /></t>
+<t>South<n pronunciation="South" /></t> <t>Dakota<n pronunciation="Dakota" /></t>
+<t>Tennessee<n pronunciation="Tennessee" /></t>
+<t>Texas<n pronunciation="Texas" /></t>
+<t>Utah<n pronunciation="Utah" /></t>
+<t>Vermont<n pronunciation="Vermont" /></t>
+<t>Virginia<n pronunciation="Virginia" /></t>
+<t>Washington<n pronunciation="Washington" /></t>
+<t>West<n pronunciation="West" /></t> <t>Virginia<n pronunciation="Virginia" /></t>
+<t>Wisconsin<n pronunciation="Wisconsin" /></t>
+<t>Wyoming<n pronunciation="Wyoming" /></t></s></p>
+
+
+
+
+
+<s><t>Federal<n pronunciation="Federal" /></t> <t>District<n pronunciation="District" /></t></s>
+
+<s><t>Felons<n pronunciation="Felons" /></t><t>:</t> <t>Federal<n pronunciation="Federal" /></t> <t>Bureau<n pronunciation="Bureau" /></t> <t>of<n pronunciation="of" /></t> <t>Prisons<n pronunciation="Prisons" /></t><t>,</t> <t>Misdemeanants<n pronunciation="Misdemeanants" /></t><t>:</t> <t>District<n pronunciation="District" /></t> <t>of<n pronunciation="of" /></t> <t>Columbia<n pronunciation="Columbia" /></t> <t>DOC<n pronunciation="DOC" /></t></s>
+
+
+
+<s><t>Insular<n pronunciation="Insular" /></t> <t>Areas<n pronunciation="Areas" /></t></s>
+
+
+
+<p><s><t>American<n pronunciation="American" /></t> <t>Samoa<n pronunciation="Samoa" /></t>
+<t>Guam<n pronunciation="Guam" /></t>
+<t>Guantanamo<n pronunciation="Guantanamo" /></t> <t>Bay<n pronunciation="Bay" /></t>
+<t>Northern<n pronunciation="Northern" /></t> <t>Mariana<n pronunciation="Mariana" /></t> <t>Islands<n pronunciation="Islands" /></t>
+<t>Puerto<n pronunciation="Puerto" /></t> <t>Rico<n pronunciation="Rico" /></t>
+<t>U.S.<n pronunciation="U" /><n pronunciation="S" /></t> <t>Virgin<n pronunciation="Virgin" /></t> <t>Islands<n pronunciation="Islands" /></t>
+<t>Military<n pronunciation="Military" /></t> <t>prisons<n pronunciation="prisons" /></t></s></p>
+
+
+
+
+
+<s><t>US<n pronunciation="US" /></t> <t>state<n pronunciation="state" /></t> <t>prisons<n pronunciation="prisons" /></t></s>
+
+
+
+<p><s><t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>U.S.<n pronunciation="U" /><n pronunciation="S" /></t> <t>state<n pronunciation="state" /></t> <t>prisons<n pronunciation="prisons" /></t></s></p>
+
+
+
+
+
+
+
+
+ <p><s><t>Category<n pronunciation="Category" /></t>
+ <t>Commons<n pronunciation="Commons" /></t>
+ <t>United<n pronunciation="United" /></t> <t>States<n pronunciation="States" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Prisons<n pronunciation="Prisons" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+ <s><t>State<n pronunciation="State" /></t> <t>of<n pronunciation="of" /></t> <t>Wyoming<n pronunciation="Wyoming" /></t></s>
+
+
+
+
+<s><t>Cheyenne<n pronunciation="Cheyenne" /></t> <t>(</t><t>capital<n pronunciation="capital" /></t><t>)</t></s>
+
+
+
+<s><t>Topics<n pronunciation="Topics" /></t></s>
+
+
+
+<p><s><t>Bibliography<n pronunciation="Bibliography" /></t>
+<t>Fauna<n pronunciation="Fauna" /></t>
+<t>Governors<n pronunciation="Governors" /></t>
+<t>Delegations<n pronunciation="Delegations" /></t>
+<t>Geography<n pronunciation="Geography" /></t>
+<t>Government<n pronunciation="Government" /></t>
+<t>History<n pronunciation="History" /></t>
+<t>People<n pronunciation="People" /></t>
+<t>Tourist<n pronunciation="Tourist" /></t> <t>attractions<n pronunciation="attractions" /></t>
+<t>State<n pronunciation="State" /></t> <t>symbols<n pronunciation="symbols" /></t>
+<t>Radio<n pronunciation="Radio" /></t> <t>stations<n pronunciation="stations" /></t></s></p>
+
+
+
+
+
+<s><t>Society<n pronunciation="Society" /></t></s>
+
+
+
+<p><s><t>Culture<n pronunciation="Culture" /></t>
+<t>Crime<n pronunciation="Crime" /></t>
+<t>Demographics<n pronunciation="Demographics" /></t>
+<t>Economy<n pronunciation="Economy" /></t>
+<t>Education<n pronunciation="Education" /></t>
+<t>Politics<n pronunciation="Politics" /></t></s></p>
+
+
+
+
+
+<s><t>Regions<n pronunciation="Regions" /></t></s>
+
+
+
+<p><s><t>Black<n pronunciation="Black" /></t> <t>Hills<n pronunciation="Hills" /></t>
+<t>Grand<n pronunciation="Grand" /></t> <t>Teton<n pronunciation="Teton" /></t>
+<t>Great<n pronunciation="Great" /></t> <t>Basin<n pronunciation="Basin" /></t>
+<t>Powder<n pronunciation="Powder" /></t> <t>River<n pronunciation="River" /></t> <t>Country<n pronunciation="Country" /></t>
+<t>Red<n pronunciation="Red" /></t> <t>Desert<n pronunciation="Desert" /></t>
+<t>Yellowstone<n pronunciation="Yellowstone" /></t></s></p>
+
+
+
+
+
+<s><t>Cities<n pronunciation="Cities" /></t></s>
+
+
+
+<p><s><t>Buffalo<n pronunciation="Buffalo" /></t>
+<t>Casper<n pronunciation="Casper" /></t>
+<t>Cheyenne<n pronunciation="Cheyenne" /></t>
+<t>Cody<n pronunciation="Cody" /></t>
+<t>Douglas<n pronunciation="Douglas" /></t>
+<t>Evanston<n pronunciation="Evanston" /></t>
+<t>Gillette<n pronunciation="Gillette" /></t>
+<t>Green<n pronunciation="Green" /></t> <t>River<n pronunciation="River" /></t>
+<t>Jackson<n pronunciation="Jackson" /></t>
+<t>Lander<n pronunciation="Lander" /></t>
+<t>Laramie<n pronunciation="Laramie" /></t>
+<t>Powell<n pronunciation="Powell" /></t>
+<t>Rawlins<n pronunciation="Rawlins" /></t>
+<t>Riverton<n pronunciation="Riverton" /></t>
+<t>Rock<n pronunciation="Rock" /></t> <t>Springs<n pronunciation="Springs" /></t>
+<t>Sheridan<n pronunciation="Sheridan" /></t>
+<t>Torrington<n pronunciation="Torrington" /></t>
+<t>Worland<n pronunciation="Worland" /></t></s></p>
+
+
+
+
+
+<s><t>Counties<n pronunciation="Counties" /></t></s>
+
+
+
+<p><s><t>Albany<n pronunciation="Albany" /></t>
+<t>Big<n pronunciation="Big" /></t> <t>Horn<n pronunciation="Horn" /></t>
+<t>Campbell<n pronunciation="Campbell" /></t>
+<t>Carbon<n pronunciation="Carbon" /></t>
+<t>Converse<n pronunciation="Converse" /></t>
+<t>Crook<n pronunciation="Crook" /></t>
+<t>Fremont<n pronunciation="Fremont" /></t>
+<t>Goshen<n pronunciation="Goshen" /></t>
+<t>Hot<n pronunciation="Hot" /></t> <t>Springs<n pronunciation="Springs" /></t>
+<t>Johnson<n pronunciation="Johnson" /></t>
+<t>Laramie<n pronunciation="Laramie" /></t>
+<t>Lincoln<n pronunciation="Lincoln" /></t>
+<t>Natrona<n pronunciation="Natrona" /></t>
+<t>Niobrara<n pronunciation="Niobrara" /></t>
+<t>Park<n pronunciation="Park" /></t>
+<t>Platte<n pronunciation="Platte" /></t>
+<t>Sheridan<n pronunciation="Sheridan" /></t>
+<t>Sublette<n pronunciation="Sublette" /></t>
+<t>Sweetwater<n pronunciation="Sweetwater" /></t>
+<t>Teton<n pronunciation="Teton" /></t>
+<t>Uinta<n pronunciation="Uinta" /></t>
+<t>Washakie<n pronunciation="Washakie" /></t>
+<t>Weston<n pronunciation="Weston" /></t></s></p>
+
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

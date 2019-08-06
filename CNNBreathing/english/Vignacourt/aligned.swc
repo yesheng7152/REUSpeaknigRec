@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Vignacourt" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Vignacourt" /><prop key="DC.date.read" value="2015-12-24 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Vignacourt" /><prop key="DC.source.wikiID" value="16054919" /><prop key="DC.source.revision" value="791621084" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Vignacourt&amp;oldid=635831824" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/3/34/En-Vignacourt.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Vignacourt.ogg" group="audio1" /><link key="DC.source.audio.date" value="2015-12-24 17:31:04" group="audio1" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:55:37.291+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Vignacourt/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Vignacourt)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-16T15:39:54.201+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Vignacourt/aligned.swc, transcript=articles/Vignacourt/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Vignacourt/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="VignacourtFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="VignacourtFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="VignacourtFrom"><n pronunciation="VignacourtFrom" start="890" end="1890" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="2550" end="3350" /></t><t text="," /><t text="the"><n pronunciation="the" start="3380" end="3570" /></t><t text="free"><n pronunciation="free" start="3570" end="3950" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="3950" end="5000" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" start="6280" end="6490" /></t><t text="n"><n pronunciation="n" start="6500" end="6820" /></t><t text="dot"><n pronunciation="dot" start="6980" end="7280" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="7280" end="7980" /></t><t text="dot"><n pronunciation="dot" start="8050" end="8440" /></t><t text="org"><n pronunciation="org" start="8440" end="8940" /></t><t text="." /></s></extra>
+
+<ignored><s><t>Vignacourt<n pronunciation="Vignacourt" /></t></s>
+
+
+<s><t>Country<n pronunciation="Country" /></t>
+<t>France<n pronunciation="France" /></t></s>
+
+
+<s><t>Region<n pronunciation="Region" /></t>
+<t>Hauts-de-France<n pronunciation="Hauts" /><n pronunciation="de" /><n pronunciation="France" /></t></s>
+
+
+<s><t>Department<n pronunciation="Department" /></t>
+<t>Somme<n pronunciation="Somme" /></t></s>
+
+
+<s><t>Arrondissement<n pronunciation="Arrondissement" /></t>
+<t>Amiens<n pronunciation="Amiens" /></t></s>
+
+
+<s><t>Canton<n pronunciation="Canton" /></t>
+<t>Picquigny<n pronunciation="Picquigny" /></t></s>
+
+
+<s><t>Intercommunality<n pronunciation="Intercommunality" /></t>
+<t>Val<n pronunciation="Val" /></t> <t>de<n pronunciation="de" /></t> <t>Nièvre<n pronunciation="Nievre" /></t> <t>et<n pronunciation="et" /></t> <t>environs<n pronunciation="environs" /></t></s>
+
+
+<s><t>Government<n pronunciation="Government" /></t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Mayor<n pronunciation="Mayor" /></t> <t>(</t><t>2001<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="one" /></t><t>–<n pronunciation="–" /></t><t>2008<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="eight" /></t><t>)</t>
+<t>Stéphane<n pronunciation="Stephane" /></t> <t>DuCrotoy<n pronunciation="DuCrotoy" /></t></s>
+
+
+<s><t>Area1<n pronunciation="Area" /><n pronunciation="one" /></t>
+<t>29.1<n pronunciation="29.1" /></t> <t>km2<n pronunciation="km" /><n pronunciation="two" /></t> <t>(</t><t>11.2<n pronunciation="eleven" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>sq<n pronunciation="s" /><n pronunciation="q" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t></s>
+
+
+<s><t>Population<n pronunciation="Population" /></t> <t>(</t><t>2006<n pronunciation="2006" /></t><t>)</t><t>2<n pronunciation="2" /></t>
+<t>2,231<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="one" /></t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Density<n pronunciation="Density" /></t>
+<t>77/km2<n pronunciation="seventy" /><n pronunciation="seven" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="km" /><n pronunciation="two" /></t> <t>(</t><t>200/sq<n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="s" /><n pronunciation="q" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t></s>
+
+
+<s><t>Time<n pronunciation="Time" /></t> <t>zone<n pronunciation="zone" /></t>
+<t>CET<n pronunciation="CET" /></t> <t>(</t><t>UTC+1<n pronunciation="UTC" /><n pronunciation="plus" /><n pronunciation="1" /></t><t>)</t></s>
+
+
+ <s><t>•<n pronunciation="•" /></t> <t>Summer<n pronunciation="Summer" /></t> <t>(</t><t>DST<n pronunciation="D" /><n pronunciation="S" /><n pronunciation="T" /></t><t>)</t>
+<t>CEST<n pronunciation="CEST" /></t> <t>(</t><t>UTC+2<n pronunciation="UTC" /><n pronunciation="plus" /><n pronunciation="2" /></t><t>)</t></s>
+
+
+<s><t>INSEE/Postal<n pronunciation="INSEE" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="Postal" /></t> <t>code<n pronunciation="code" /></t>
+<t>80793<n pronunciation="80793" /></t> <t>/<n pronunciation="forward" /><n pronunciation="slash" /></t><t>80650<n pronunciation="eighty" /><n pronunciation="thousand" /><n pronunciation="six" /><n pronunciation="hundred" /><n pronunciation="fifty" /></t></s>
+
+
+<s><t>Elevation<n pronunciation="Elevation" /></t>
+<t>37<n pronunciation="thirty" /><n pronunciation="seven" /></t><t>–<n pronunciation="–" /></t><t>134<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="four" /></t> <t>m<n pronunciation="m" /></t> <t>(</t><t>121<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="twenty" /><n pronunciation="one" /></t><t>–<n pronunciation="–" /></t><t>440<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="forty" /></t> <t>ft<n pronunciation="f" /><n pronunciation="t" /></t><t>)</t>
+<t>(</t><t>avg<n pronunciation="avg" /></t><t>.</t></s> <s><t>126<n pronunciation="126" /></t> <t>m<n pronunciation="m" /></t> <t>or<n pronunciation="or" /></t> <t>413<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="thirteen" /></t> <t>ft<n pronunciation="f" /><n pronunciation="t" /></t><t>)</t></s>
+
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>French<n pronunciation="French" /></t> <t>Land<n pronunciation="Land" /></t> <t>Register<n pronunciation="Register" /></t> <t>data<n pronunciation="data" /></t><t>,</t> <t>which<n pronunciation="which" /></t> <t>excludes<n pronunciation="excludes" /></t> <t>lakes<n pronunciation="lakes" /></t><t>,</t> <t>ponds<n pronunciation="ponds" /></t><t>,</t> <t>glaciers<n pronunciation="glaciers" /></t> <t>&gt;<n pronunciation="greater" /><n pronunciation="than" /></t> <t>1<n pronunciation="one" /></t> <t>km²<n pronunciation="km²" /></t> <t>(</t><t>0.386<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="three" /><n pronunciation="eight" /><n pronunciation="six" /></t> <t>sq<n pronunciation="s" /><n pronunciation="q" /></t> <t>mi<n pronunciation="mi" /></t> <t>or<n pronunciation="or" /></t> <t>247<n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="forty" /><n pronunciation="seven" /></t> <t>acres<n pronunciation="acres" /></t><t>)</t> <t>and<n pronunciation="and" /></t> <t>river<n pronunciation="river" /></t> <t>estuaries<n pronunciation="estuaries" /></t><t>.</t></s></p>
+<s><t>2<n pronunciation="two" /></t> <t>Population<n pronunciation="Population" /></t> <t>without<n pronunciation="without" /></t> <t>double<n pronunciation="double" /></t> <t>counting<n pronunciation="counting" /></t><t>:</t> <t>residents<n pronunciation="residents" /></t> <t>of<n pronunciation="of" /></t> <t>multiple<n pronunciation="multiple" /></t> <t>communes<n pronunciation="communes" /></t> <t>(</t><t>e.g.<n pronunciation="e" /><n pronunciation="g" /></t><t>,</t> <t>students<n pronunciation="students" /></t> <t>and<n pronunciation="and" /></t> <t>military<n pronunciation="military" /></t> <t>personnel<n pronunciation="personnel" /></t><t>)</t> <t>only<n pronunciation="only" /></t> <t>counted<n pronunciation="counted" /></t> <t>once<n pronunciation="once" /></t><t>.</t></s></ignored>
+
+
+<p><s><t>Vignacourt<n pronunciation="Vignacourt" start="14850" end="15690"><ph start="14900" end="14950" type="v"></ph><ph start="14950" end="15070" type="I"></ph><ph start="15070" end="15100" type="n"></ph><ph start="15100" end="15170" type="j"></ph><ph start="15170" end="15210" type="{"></ph><ph start="15210" end="15360" type="k"></ph><ph start="15360" end="15580" type="O:"></ph><ph start="15580" end="15610" type="r"></ph><ph start="15610" end="15640" type="t"></ph></n></t> <t>is<n pronunciation="is" start="15800" end="15930"><ph start="15830" end="15880" type="I"></ph><ph start="15880" end="15940" type="z"></ph></n></t> <t>a<n pronunciation="a" start="15930" end="16010"><ph start="15940" end="15980" type="V"></ph></n></t> <t>commune<n pronunciation="commune" start="16010" end="16550"><ph start="15980" end="16160" type="k"></ph><ph start="16160" end="16200" type="V"></ph><ph start="16200" end="16260" type="m"></ph><ph start="16260" end="16400" type="j"></ph><ph start="16400" end="16460" type="u"></ph><ph start="16460" end="16520" type="n"></ph></n></t> <t>in<n pronunciation="in" start="16790" end="17110"><ph start="16850" end="16920" type="I"></ph><ph start="16920" end="17180" type="n"></ph></n></t> <t>the<n pronunciation="the" start="17110" end="17260"><ph start="17180" end="17210" type="D"></ph><ph start="17210" end="17240" type="V"></ph></n></t> <t>Somme<n pronunciation="Somme" start="17260" end="17590"><ph start="17240" end="17390" type="s"></ph><ph start="17390" end="17440" type="V"></ph><ph start="17440" end="17570" type="m"></ph></n></t> <t>department<n pronunciation="department" start="17590" end="18150"><ph start="17570" end="17640" type="d"></ph><ph start="17640" end="17700" type="I"></ph><ph start="17700" end="17760" type="p"></ph><ph start="17760" end="17850" type="A:"></ph><ph start="17850" end="17880" type="r"></ph><ph start="17880" end="17910" type="t"></ph><ph start="17910" end="17960" type="m"></ph><ph start="17960" end="17990" type="V"></ph><ph start="17990" end="18020" type="n"></ph><ph start="18020" end="18100" type="t"></ph></n></t> <t>in<n pronunciation="in" start="18150" end="18270"><ph start="18160" end="18190" type="I"></ph><ph start="18190" end="18260" type="n"></ph></n></t> <t>Picardie<n pronunciation="Picardie" start="18270" end="18910"><ph start="18340" end="18400" type="p"></ph><ph start="18400" end="18440" type="i:"></ph><ph start="18440" end="18540" type="k"></ph><ph start="18540" end="18570" type="A:"></ph><ph start="18570" end="18610" type="r"></ph><ph start="18610" end="18660" type="d"></ph><ph start="18660" end="18770" type="i:"></ph></n></t> <t>in<n pronunciation="in" start="18980" end="19140"><ph start="19020" end="19060" type="I"></ph><ph start="19060" end="19170" type="n"></ph></n></t> <t>northern<n pronunciation="northern" start="19140" end="19510"><ph start="19170" end="19270" type="n"></ph><ph start="19270" end="19310" type="O:"></ph><ph start="19310" end="19340" type="r"></ph><ph start="19340" end="19400" type="D"></ph><ph start="19400" end="19440" type="3`"></ph><ph start="19440" end="19525" type="n"></ph></n></t> <t>France<n pronunciation="France" start="19510" end="20180"><ph start="19525" end="19610" type="f"></ph><ph start="19610" end="19730" type="r"></ph><ph start="19730" end="19800" type="{"></ph><ph start="19800" end="19890" type="n"></ph><ph start="19890" end="20090" type="s"></ph></n></t><t>.</t></s></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>Geography<n pronunciation="Geography" /></t>
+<t>2<n pronunciation="two" /></t> <t>Population<n pronunciation="Population" /></t>
+<t>3<n pronunciation="three" /></t> <t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t>
+<t>4<n pronunciation="four" /></t> <t>References<n pronunciation="References" /></t>
+<t>5<n pronunciation="five" /></t> <t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t></s></p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>Geography<n pronunciation="Geography" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Vignacourt<n pronunciation="Vignacourt" /></t> <t>is<n pronunciation="is" /></t> <t>situated<n pronunciation="situated" /></t> <t>10<n pronunciation="ten" /></t> <t>miles<n pronunciation="miles" /></t> <t>(</t><t>16<n pronunciation="sixteen" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t><t>)</t> <t>northwest<n pronunciation="northwest" /></t> <t>of<n pronunciation="of" /></t> <t>Amiens<n pronunciation="Amiens" /></t><t>,</t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" /></t> <t>D12<n pronunciation="D" /><n pronunciation="one" /><n pronunciation="two" /></t> <t>and<n pronunciation="and" /></t> <t>D49<n pronunciation="D" /><n pronunciation="four" /><n pronunciation="nine" /></t> <t>junction<n pronunciation="junction" /></t><t>.</t></s></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>Population<n pronunciation="Population" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<ignored><s><t>Historical<n pronunciation="Historical" /></t> <t>population<n pronunciation="population" /></t> <t>of<n pronunciation="of" /></t> <t>Vignacourt<n pronunciation="Vignacourt" /></t></s>
+
+<s><t>Year<n pronunciation="Year" /></t>
+<t>1962<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="two" /></t>
+<t>1968<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="eight" /></t>
+<t>1975<n pronunciation="nineteen" /><n pronunciation="seventy" /><n pronunciation="five" /></t>
+<t>1982<n pronunciation="nineteen" /><n pronunciation="eighty" /><n pronunciation="two" /></t>
+<t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t>
+<t>1999<n pronunciation="nineteen" /><n pronunciation="ninety" /><n pronunciation="nine" /></t>
+<t>2006<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="six" /></t></s>
+
+
+<s><t>Population<n pronunciation="Population" /></t>
+<t>1594<n pronunciation="fifteen" /><n pronunciation="ninety" /><n pronunciation="four" /></t>
+<t>1828<n pronunciation="eighteen" /><n pronunciation="twenty" /><n pronunciation="eight" /></t>
+<t>2007<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="seven" /></t>
+<t>2369<n pronunciation="twenty" /><n pronunciation="three" /><n pronunciation="sixty" /><n pronunciation="nine" /></t>
+<t>2294<n pronunciation="twenty" /><n pronunciation="two" /><n pronunciation="ninety" /><n pronunciation="four" /></t>
+<t>2183<n pronunciation="twenty" /><n pronunciation="one" /><n pronunciation="eighty" /><n pronunciation="three" /></t>
+<t>2231<n pronunciation="twenty" /><n pronunciation="two" /><n pronunciation="thirty" /><n pronunciation="one" /></t></s>
+
+
+<s><t>From<n pronunciation="From" /></t> <t>the<n pronunciation="the" /></t> <t>year<n pronunciation="year" /></t> <t>1962<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="two" /></t> <t>on<n pronunciation="on" /></t><t>:</t> <t>No<n pronunciation="No" /></t> <t>double<n pronunciation="double" /></t> <t>counting<n pronunciation="counting" /></t><t>—<n pronunciation="—" /></t><t>residents<n pronunciation="residents" /></t> <t>of<n pronunciation="of" /></t> <t>multiple<n pronunciation="multiple" /></t> <t>communes<n pronunciation="communes" /></t> <t>(</t><t>e.g.<n pronunciation="e" /><n pronunciation="g" /></t> <t>students<n pronunciation="students" /></t> <t>and<n pronunciation="and" /></t> <t>military<n pronunciation="military" /></t> <t>personnel<n pronunciation="personnel" /></t><t>)</t> <t>are<n pronunciation="are" /></t> <t>counted<n pronunciation="counted" /></t> <t>only<n pronunciation="only" /></t> <t>once<n pronunciation="once" /></t><t>.</t></s></ignored>
+</sectioncontent></section>
+
+<section level="2"><sectiontitle><t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Communes<n pronunciation="Communes" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Somme<n pronunciation="Somme" /></t> <t>department<n pronunciation="department" /></t></s></p>
+</sectioncontent></section>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+<p><s><t>INSEE<n pronunciation="INSEE" /></t></s></p>
+
+</sectioncontent></section></ignored>
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>Wikimedia<n pronunciation="Wikimedia" /></t> <t>Commons<n pronunciation="Commons" /></t> <t>has<n pronunciation="has" /></t> <t>media<n pronunciation="media" /></t> <t>related<n pronunciation="related" /></t> <t>to<n pronunciation="to" /></t> <t>Vignacourt<n pronunciation="Vignacourt" /></t><t>.</t></s>
+
+
+
+<p><s><t>Vignacourt<n pronunciation="Vignacourt" /></t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" /></t> <t>Quid<n pronunciation="Quid" /></t> <t>website<n pronunciation="website" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>French<n pronunciation="French" /></t><t>)</t></s></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Communes<n pronunciation="Communes" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Somme<n pronunciation="Somme" /></t> <t>department<n pronunciation="department" /></t></s>
+
+
+
+
+
+
+<p><s><t>Abbeville<n pronunciation="Abbeville" /></t>
+<t>Ablaincourt-Pressoir<n pronunciation="Ablaincourt" /><n pronunciation="Pressoir" /></t>
+<t>Acheux-en-Amiénois<n pronunciation="Acheux" /><n pronunciation="en" /><n pronunciation="Amienois" /></t>
+<t>Acheux-en-Vimeu<n pronunciation="Acheux" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Agenville<n pronunciation="Agenville" /></t>
+<t>Agenvillers<n pronunciation="Agenvillers" /></t>
+<t>Aigneville<n pronunciation="Aigneville" /></t>
+<t>Ailly-le-Haut-Clocher<n pronunciation="Ailly" /><n pronunciation="le" /><n pronunciation="Haut" /><n pronunciation="Clocher" /></t>
+<t>Ailly-sur-Noye<n pronunciation="Ailly" /><n pronunciation="sur" /><n pronunciation="Noye" /></t>
+<t>Ailly-sur-Somme<n pronunciation="Ailly" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Airaines<n pronunciation="Airaines" /></t>
+<t>Aizecourt-le-Bas<n pronunciation="Aizecourt" /><n pronunciation="le" /><n pronunciation="Bas" /></t>
+<t>Aizecourt-le-Haut<n pronunciation="Aizecourt" /><n pronunciation="le" /><n pronunciation="Haut" /></t>
+<t>Albert<n pronunciation="Albert" /></t>
+<t>Allaines<n pronunciation="Allaines" /></t>
+<t>Allenay<n pronunciation="Allenay" /></t>
+<t>Allery<n pronunciation="Allery" /></t>
+<t>Allonville<n pronunciation="Allonville" /></t>
+<t>Amiens<n pronunciation="Amiens" /></t>
+<t>Andainville<n pronunciation="Andainville" /></t>
+<t>Andechy<n pronunciation="Andechy" /></t>
+<t>Argœuves<n pronunciation="Argœuves" /></t>
+<t>Argoules<n pronunciation="Argoules" /></t>
+<t>Arguel<n pronunciation="Arguel" /></t>
+<t>Armancourt<n pronunciation="Armancourt" /></t>
+<t>Arquèves<n pronunciation="Arqueves" /></t>
+<t>Arrest<n pronunciation="Arrest" /></t>
+<t>Arry<n pronunciation="Arry" /></t>
+<t>Arvillers<n pronunciation="Arvillers" /></t>
+<t>Assainvillers<n pronunciation="Assainvillers" /></t>
+<t>Assevillers<n pronunciation="Assevillers" /></t>
+<t>Athies<n pronunciation="Athies" /></t>
+<t>Aubercourt<n pronunciation="Aubercourt" /></t>
+<t>Aubigny<n pronunciation="Aubigny" /></t>
+<t>Aubvillers<n pronunciation="Aubvillers" /></t>
+<t>Auchonvillers<n pronunciation="Auchonvillers" /></t>
+<t>Ault<n pronunciation="Ault" /></t>
+<t>Aumâtre<n pronunciation="Aumatre" /></t>
+<t>Aumont<n pronunciation="Aumont" /></t>
+<t>Autheux<n pronunciation="Autheux" /></t>
+<t>Authie<n pronunciation="Authie" /></t>
+<t>Authieule<n pronunciation="Authieule" /></t>
+<t>Authuille<n pronunciation="Authuille" /></t>
+<t>Avelesges<n pronunciation="Avelesges" /></t>
+<t>Aveluy<n pronunciation="Aveluy" /></t>
+<t>Avesnes-Chaussoy<n pronunciation="Avesnes" /><n pronunciation="Chaussoy" /></t>
+<t>Ayencourt<n pronunciation="Ayencourt" /></t>
+<t>Bacouel-sur-Selle<n pronunciation="Bacouel" /><n pronunciation="sur" /><n pronunciation="Selle" /></t>
+<t>Bailleul<n pronunciation="Bailleul" /></t>
+<t>Baizieux<n pronunciation="Baizieux" /></t>
+<t>Balâtre<n pronunciation="Balatre" /></t>
+<t>Barleux<n pronunciation="Barleux" /></t>
+<t>Barly<n pronunciation="Barly" /></t>
+<t>Bavelincourt<n pronunciation="Bavelincourt" /></t>
+<t>Bayencourt<n pronunciation="Bayencourt" /></t>
+<t>Bayonvillers<n pronunciation="Bayonvillers" /></t>
+<t>Bazentin<n pronunciation="Bazentin" /></t>
+<t>Béalcourt<n pronunciation="Bealcourt" /></t>
+<t>Beaucamps-le-Jeune<n pronunciation="Beaucamps" /><n pronunciation="le" /><n pronunciation="Jeune" /></t>
+<t>Beaucamps-le-Vieux<n pronunciation="Beaucamps" /><n pronunciation="le" /><n pronunciation="Vieux" /></t>
+<t>Beauchamps<n pronunciation="Beauchamps" /></t>
+<t>Beaucourt-en-Santerre<n pronunciation="Beaucourt" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Beaucourt-sur-l'Ancre<n pronunciation="Beaucourt" /><n pronunciation="sur" /><n pronunciation="lAncre" /></t>
+<t>Beaucourt-sur-l'Hallue<n pronunciation="Beaucourt" /><n pronunciation="sur" /><n pronunciation="lHallue" /></t>
+<t>Beaufort-en-Santerre<n pronunciation="Beaufort" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Beaumetz<n pronunciation="Beaumetz" /></t>
+<t>Beaumont-Hamel<n pronunciation="Beaumont" /><n pronunciation="Hamel" /></t>
+<t>Beauquesne<n pronunciation="Beauquesne" /></t>
+<t>Beauval<n pronunciation="Beauval" /></t>
+<t>Bécordel-Bécourt<n pronunciation="Becordel" /><n pronunciation="Becourt" /></t>
+<t>Becquigny<n pronunciation="Becquigny" /></t>
+<t>Béhen<n pronunciation="Behen" /></t>
+<t>Béhencourt<n pronunciation="Behencourt" /></t>
+<t>Bellancourt<n pronunciation="Bellancourt" /></t>
+<t>Belleuse<n pronunciation="Belleuse" /></t>
+<t>Belloy-en-Santerre<n pronunciation="Belloy" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Belloy-Saint-Léonard<n pronunciation="Belloy" /><n pronunciation="Saint" /><n pronunciation="Leonard" /></t>
+<t>Belloy-sur-Somme<n pronunciation="Belloy" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Bergicourt<n pronunciation="Bergicourt" /></t>
+<t>Bermesnil<n pronunciation="Bermesnil" /></t>
+<t>Bernâtre<n pronunciation="Bernatre" /></t>
+<t>Bernaville<n pronunciation="Bernaville" /></t>
+<t>Bernay-en-Ponthieu<n pronunciation="Bernay" /><n pronunciation="en" /><n pronunciation="Ponthieu" /></t>
+<t>Bernes<n pronunciation="Bernes" /></t>
+<t>Berneuil<n pronunciation="Berneuil" /></t>
+<t>Berny-en-Santerre<n pronunciation="Berny" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Bertangles<n pronunciation="Bertangles" /></t>
+<t>Berteaucourt-les-Dames<n pronunciation="Berteaucourt" /><n pronunciation="les" /><n pronunciation="Dames" /></t>
+<t>Berteaucourt-lès-Thennes<n pronunciation="Berteaucourt" /><n pronunciation="les" /><n pronunciation="Thennes" /></t>
+<t>Bertrancourt<n pronunciation="Bertrancourt" /></t>
+<t>Béthencourt-sur-Mer<n pronunciation="Bethencourt" /><n pronunciation="sur" /><n pronunciation="Mer" /></t>
+<t>Béthencourt-sur-Somme<n pronunciation="Bethencourt" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Bettembos<n pronunciation="Bettembos" /></t>
+<t>Bettencourt-Rivière<n pronunciation="Bettencourt" /><n pronunciation="Riviere" /></t>
+<t>Bettencourt-Saint-Ouen<n pronunciation="Bettencourt" /><n pronunciation="Saint" /><n pronunciation="Ouen" /></t>
+<t>Beuvraignes<n pronunciation="Beuvraignes" /></t>
+<t>Biaches<n pronunciation="Biaches" /></t>
+<t>Biarre<n pronunciation="Biarre" /></t>
+<t>Biencourt<n pronunciation="Biencourt" /></t>
+<t>Billancourt<n pronunciation="Billancourt" /></t>
+<t>Blangy-sous-Poix<n pronunciation="Blangy" /><n pronunciation="sous" /><n pronunciation="Poix" /></t>
+<t>Blangy-Tronville<n pronunciation="Blangy" /><n pronunciation="Tronville" /></t>
+<t>Boisbergues<n pronunciation="Boisbergues" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Boisle<n pronunciation="Boisle" /></t>
+<t>Boismont<n pronunciation="Boismont" /></t>
+<t>Bonnay<n pronunciation="Bonnay" /></t>
+<t>Bonneville<n pronunciation="Bonneville" /></t>
+<t>Bosquel<n pronunciation="Bosquel" /></t>
+<t>Bouchavesnes-Bergen<n pronunciation="Bouchavesnes" /><n pronunciation="Bergen" /></t>
+<t>Bouchoir<n pronunciation="Bouchoir" /></t>
+<t>Bouchon<n pronunciation="Bouchon" /></t>
+<t>Boufflers<n pronunciation="Boufflers" /></t>
+<t>Bougainville<n pronunciation="Bougainville" /></t>
+<t>Bouillancourt-en-Séry<n pronunciation="Bouillancourt" /><n pronunciation="en" /><n pronunciation="Sery" /></t>
+<t>Bouillancourt-la-Bataille<n pronunciation="Bouillancourt" /><n pronunciation="la" /><n pronunciation="Bataille" /></t>
+<t>Bouquemaison<n pronunciation="Bouquemaison" /></t>
+<t>Bourdon<n pronunciation="Bourdon" /></t>
+<t>Bourseville<n pronunciation="Bourseville" /></t>
+<t>Boussicourt<n pronunciation="Boussicourt" /></t>
+<t>Bouttencourt<n pronunciation="Bouttencourt" /></t>
+<t>Bouvaincourt-sur-Bresle<n pronunciation="Bouvaincourt" /><n pronunciation="sur" /><n pronunciation="Bresle" /></t>
+<t>Bouvincourt-en-Vermandois<n pronunciation="Bouvincourt" /><n pronunciation="en" /><n pronunciation="Vermandois" /></t>
+<t>Bouzincourt<n pronunciation="Bouzincourt" /></t>
+<t>Bovelles<n pronunciation="Bovelles" /></t>
+<t>Boves<n pronunciation="Boves" /></t>
+<t>Braches<n pronunciation="Braches" /></t>
+<t>Brailly-Cornehotte<n pronunciation="Brailly" /><n pronunciation="Cornehotte" /></t>
+<t>Brassy<n pronunciation="Brassy" /></t>
+<t>Bray-lès-Mareuil<n pronunciation="Bray" /><n pronunciation="les" /><n pronunciation="Mareuil" /></t>
+<t>Bray-sur-Somme<n pronunciation="Bray" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Breilly<n pronunciation="Breilly" /></t>
+<t>Bresle<n pronunciation="Bresle" /></t>
+<t>Breuil<n pronunciation="Breuil" /></t>
+<t>Brévillers<n pronunciation="Brevillers" /></t>
+<t>Brie<n pronunciation="Brie" /></t>
+<t>Briquemesnil-Floxicourt<n pronunciation="Briquemesnil" /><n pronunciation="Floxicourt" /></t>
+<t>Brocourt<n pronunciation="Brocourt" /></t>
+<t>Brouchy<n pronunciation="Brouchy" /></t>
+<t>Brucamps<n pronunciation="Brucamps" /></t>
+<t>Brutelles<n pronunciation="Brutelles" /></t>
+<t>Buigny-l'Abbé<n pronunciation="Buigny" /><n pronunciation="lAbbe" /></t>
+<t>Buigny-lès-Gamaches<n pronunciation="Buigny" /><n pronunciation="les" /><n pronunciation="Gamaches" /></t>
+<t>Buigny-Saint-Maclou<n pronunciation="Buigny" /><n pronunciation="Saint" /><n pronunciation="Maclou" /></t>
+<t>Buire-Courcelles<n pronunciation="Buire" /><n pronunciation="Courcelles" /></t>
+<t>Buire-sur-l'Ancre<n pronunciation="Buire" /><n pronunciation="sur" /><n pronunciation="lAncre" /></t>
+<t>Bus-la-Mésière<n pronunciation="Bus" /><n pronunciation="la" /><n pronunciation="Mesiere" /></t>
+<t>Bus-lès-Artois<n pronunciation="Bus" /><n pronunciation="les" /><n pronunciation="Artois" /></t>
+<t>Bussu<n pronunciation="Bussu" /></t>
+<t>Bussus-Bussuel<n pronunciation="Bussus" /><n pronunciation="Bussuel" /></t>
+<t>Bussy-lès-Daours<n pronunciation="Bussy" /><n pronunciation="les" /><n pronunciation="Daours" /></t>
+<t>Bussy-lès-Poix<n pronunciation="Bussy" /><n pronunciation="les" /><n pronunciation="Poix" /></t>
+<t>Buverchy<n pronunciation="Buverchy" /></t>
+<t>Cachy<n pronunciation="Cachy" /></t>
+<t>Cagny<n pronunciation="Cagny" /></t>
+<t>Cahon<n pronunciation="Cahon" /></t>
+<t>Caix<n pronunciation="Caix" /></t>
+<t>Cambron<n pronunciation="Cambron" /></t>
+<t>Camon<n pronunciation="Camon" /></t>
+<t>Camps-en-Amiénois<n pronunciation="Camps" /><n pronunciation="en" /><n pronunciation="Amienois" /></t>
+<t>Canaples<n pronunciation="Canaples" /></t>
+<t>Canchy<n pronunciation="Canchy" /></t>
+<t>Candas<n pronunciation="Candas" /></t>
+<t>Cannessières<n pronunciation="Cannessieres" /></t>
+<t>Cantigny<n pronunciation="Cantigny" /></t>
+<t>Caours<n pronunciation="Caours" /></t>
+<t>Cappy<n pronunciation="Cappy" /></t>
+<t>Cardonnette<n pronunciation="Cardonnette" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Cardonnois<n pronunciation="Cardonnois" /></t>
+<t>Carnoy<n pronunciation="Carnoy" /></t>
+<t>Carrépuis<n pronunciation="Carrepuis" /></t>
+<t>Cartigny<n pronunciation="Cartigny" /></t>
+<t>Caulières<n pronunciation="Caulieres" /></t>
+<t>Cavillon<n pronunciation="Cavillon" /></t>
+<t>Cayeux-en-Santerre<n pronunciation="Cayeux" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Cayeux-sur-Mer<n pronunciation="Cayeux" /><n pronunciation="sur" /><n pronunciation="Mer" /></t>
+<t>Cerisy<n pronunciation="Cerisy" /></t>
+<t>Cerisy-Buleux<n pronunciation="Cerisy" /><n pronunciation="Buleux" /></t>
+<t>Champien<n pronunciation="Champien" /></t>
+<t>Chaulnes<n pronunciation="Chaulnes" /></t>
+<t>La<n pronunciation="La" /></t> <t>Chaussée-Tirancourt<n pronunciation="Chaussee" /><n pronunciation="Tirancourt" /></t>
+<t>Chaussoy-Epagny<n pronunciation="Chaussoy" /><n pronunciation="Epagny" /></t>
+<t>La<n pronunciation="La" /></t> <t>Chavatte<n pronunciation="Chavatte" /></t>
+<t>Chépy<n pronunciation="Chepy" /></t>
+<t>Chilly<n pronunciation="Chilly" /></t>
+<t>Chipilly<n pronunciation="Chipilly" /></t>
+<t>Chirmont<n pronunciation="Chirmont" /></t>
+<t>Chuignes<n pronunciation="Chuignes" /></t>
+<t>Chuignolles<n pronunciation="Chuignolles" /></t>
+<t>Citerne<n pronunciation="Citerne" /></t>
+<t>Cizancourt<n pronunciation="Cizancourt" /></t>
+<t>Clairy-Saulchoix<n pronunciation="Clairy" /><n pronunciation="Saulchoix" /></t>
+<t>Cléry-sur-Somme<n pronunciation="Clery" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Cocquerel<n pronunciation="Cocquerel" /></t>
+<t>Coigneux<n pronunciation="Coigneux" /></t>
+<t>Coisy<n pronunciation="Coisy" /></t>
+<t>Colincamps<n pronunciation="Colincamps" /></t>
+<t>Combles<n pronunciation="Combles" /></t>
+<t>Condé-Folie<n pronunciation="Conde" /><n pronunciation="Folie" /></t>
+<t>Contalmaison<n pronunciation="Contalmaison" /></t>
+<t>Contay<n pronunciation="Contay" /></t>
+<t>Conteville<n pronunciation="Conteville" /></t>
+<t>Contoire<n pronunciation="Contoire" /></t>
+<t>Contre<n pronunciation="Contre" /></t>
+<t>Conty<n pronunciation="Conty" /></t>
+<t>Corbie<n pronunciation="Corbie" /></t>
+<t>Cottenchy<n pronunciation="Cottenchy" /></t>
+<t>Coullemelle<n pronunciation="Coullemelle" /></t>
+<t>Coulonvillers<n pronunciation="Coulonvillers" /></t>
+<t>Courcelette<n pronunciation="Courcelette" /></t>
+<t>Courcelles-au-Bois<n pronunciation="Courcelles" /><n pronunciation="au" /><n pronunciation="Bois" /></t>
+<t>Courcelles-sous-Moyencourt<n pronunciation="Courcelles" /><n pronunciation="sous" /><n pronunciation="Moyencourt" /></t>
+<t>Courcelles-sous-Thoix<n pronunciation="Courcelles" /><n pronunciation="sous" /><n pronunciation="Thoix" /></t>
+<t>Courtemanche<n pronunciation="Courtemanche" /></t>
+<t>Cramont<n pronunciation="Cramont" /></t>
+<t>Crécy-en-Ponthieu<n pronunciation="Crecy" /><n pronunciation="en" /><n pronunciation="Ponthieu" /></t>
+<t>Crémery<n pronunciation="Cremery" /></t>
+<t>Cressy-Omencourt<n pronunciation="Cressy" /><n pronunciation="Omencourt" /></t>
+<t>Creuse<n pronunciation="Creuse" /></t>
+<t>Croix-Moligneaux<n pronunciation="Croix" /><n pronunciation="Moligneaux" /></t>
+<t>Croixrault<n pronunciation="Croixrault" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Crotoy<n pronunciation="Crotoy" /></t>
+<t>Crouy-Saint-Pierre<n pronunciation="Crouy" /><n pronunciation="Saint" /><n pronunciation="Pierre" /></t>
+<t>Curchy<n pronunciation="Curchy" /></t>
+<t>Curlu<n pronunciation="Curlu" /></t>
+<t>Damery<n pronunciation="Damery" /></t>
+<t>Dancourt-Popincourt<n pronunciation="Dancourt" /><n pronunciation="Popincourt" /></t>
+<t>Daours<n pronunciation="Daours" /></t>
+<t>Dargnies<n pronunciation="Dargnies" /></t>
+<t>Davenescourt<n pronunciation="Davenescourt" /></t>
+<t>Démuin<n pronunciation="Demuin" /></t>
+<t>Dernancourt<n pronunciation="Dernancourt" /></t>
+<t>Devise<n pronunciation="Devise" /></t>
+<t>Doingt<n pronunciation="Doingt" /></t>
+<t>Domart-en-Ponthieu<n pronunciation="Domart" /><n pronunciation="en" /><n pronunciation="Ponthieu" /></t>
+<t>Domart-sur-la-Luce<n pronunciation="Domart" /><n pronunciation="sur" /><n pronunciation="la" /><n pronunciation="Luce" /></t>
+<t>Domesmont<n pronunciation="Domesmont" /></t>
+<t>Dominois<n pronunciation="Dominois" /></t>
+<t>Domléger-Longvillers<n pronunciation="Domleger" /><n pronunciation="Longvillers" /></t>
+<t>Dommartin<n pronunciation="Dommartin" /></t>
+<t>Dompierre-Becquincourt<n pronunciation="Dompierre" /><n pronunciation="Becquincourt" /></t>
+<t>Dompierre-sur-Authie<n pronunciation="Dompierre" /><n pronunciation="sur" /><n pronunciation="Authie" /></t>
+<t>Domqueur<n pronunciation="Domqueur" /></t>
+<t>Domvast<n pronunciation="Domvast" /></t>
+<t>Doudelainville<n pronunciation="Doudelainville" /></t>
+<t>Douilly<n pronunciation="Douilly" /></t>
+<t>Doullens<n pronunciation="Doullens" /></t>
+<t>Dreuil-lès-Amiens<n pronunciation="Dreuil" /><n pronunciation="les" /><n pronunciation="Amiens" /></t>
+<t>Driencourt<n pronunciation="Driencourt" /></t>
+<t>Dromesnil<n pronunciation="Dromesnil" /></t>
+<t>Drucat<n pronunciation="Drucat" /></t>
+<t>Dury<n pronunciation="Dury" /></t>
+<t>Eaucourt-sur-Somme<n pronunciation="Eaucourt" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>L'Échelle-Saint-Aurin<n pronunciation="LEchelle" /><n pronunciation="Saint" /><n pronunciation="Aurin" /></t>
+<t>Éclusier-Vaux<n pronunciation="Eclusier" /><n pronunciation="Vaux" /></t>
+<t>Embreville<n pronunciation="Embreville" /></t>
+<t>Englebelmer<n pronunciation="Englebelmer" /></t>
+<t>Ennemain<n pronunciation="Ennemain" /></t>
+<t>Épagne-Épagnette<n pronunciation="Epagne" /><n pronunciation="Epagnette" /></t>
+<t>Épaumesnil<n pronunciation="Epaumesnil" /></t>
+<t>Épécamps<n pronunciation="Epecamps" /></t>
+<t>Épehy<n pronunciation="Epehy" /></t>
+<t>Épénancourt<n pronunciation="Epenancourt" /></t>
+<t>Éplessier<n pronunciation="Eplessier" /></t>
+<t>Eppeville<n pronunciation="Eppeville" /></t>
+<t>Équancourt<n pronunciation="Equancourt" /></t>
+<t>Équennes-Éramecourt<n pronunciation="Equennes" /><n pronunciation="Eramecourt" /></t>
+<t>Erches<n pronunciation="Erches" /></t>
+<t>Ercheu<n pronunciation="Ercheu" /></t>
+<t>Ercourt<n pronunciation="Ercourt" /></t>
+<t>Ergnies<n pronunciation="Ergnies" /></t>
+<t>Érondelle<n pronunciation="Erondelle" /></t>
+<t>Esclainvillers<n pronunciation="Esclainvillers" /></t>
+<t>Esmery-Hallon<n pronunciation="Esmery" /><n pronunciation="Hallon" /></t>
+<t>Essertaux<n pronunciation="Essertaux" /></t>
+<t>Estrébœuf<n pronunciation="Estrebœuf" /></t>
+<t>Estrées-Deniécourt<n pronunciation="Estrees" /><n pronunciation="Deniecourt" /></t>
+<t>Estrées-lès-Crécy<n pronunciation="Estrees" /><n pronunciation="les" /><n pronunciation="Crecy" /></t>
+<t>Estrées-Mons<n pronunciation="Estrees" /><n pronunciation="Mons" /></t>
+<t>Estrées-sur-Noye<n pronunciation="Estrees" /><n pronunciation="sur" /><n pronunciation="Noye" /></t>
+<t>Étalon<n pronunciation="Etalon" /></t>
+<t>Ételfay<n pronunciation="Etelfay" /></t>
+<t>Éterpigny<n pronunciation="Eterpigny" /></t>
+<t>Étinehem-Méricourt<n pronunciation="Etinehem" /><n pronunciation="Mericourt" /></t>
+<t>L'Étoile<n pronunciation="LEtoile" /></t>
+<t>Étréjust<n pronunciation="Etrejust" /></t>
+<t>Étricourt-Manancourt<n pronunciation="Etricourt" /><n pronunciation="Manancourt" /></t>
+<t>La<n pronunciation="La" /></t> <t>Faloise<n pronunciation="Faloise" /></t>
+<t>Falvy<n pronunciation="Falvy" /></t>
+<t>Famechon<n pronunciation="Famechon" /></t>
+<t>Faverolles<n pronunciation="Faverolles" /></t>
+<t>Favières<n pronunciation="Favieres" /></t>
+<t>Fay<n pronunciation="Fay" /></t>
+<t>Ferrières<n pronunciation="Ferrieres" /></t>
+<t>Fescamps<n pronunciation="Fescamps" /></t>
+<t>Feuillères<n pronunciation="Feuilleres" /></t>
+<t>Feuquières-en-Vimeu<n pronunciation="Feuquieres" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Fieffes-Montrelet<n pronunciation="Fieffes" /><n pronunciation="Montrelet" /></t>
+<t>Fienvillers<n pronunciation="Fienvillers" /></t>
+<t>Fignières<n pronunciation="Fignieres" /></t>
+<t>Fins<n pronunciation="Fins" /></t>
+<t>Flaucourt<n pronunciation="Flaucourt" /></t>
+<t>Flers<n pronunciation="Flers" /></t>
+<t>Flers-sur-Noye<n pronunciation="Flers" /><n pronunciation="sur" /><n pronunciation="Noye" /></t>
+<t>Flesselles<n pronunciation="Flesselles" /></t>
+<t>Fleury<n pronunciation="Fleury" /></t>
+<t>Flixecourt<n pronunciation="Flixecourt" /></t>
+<t>Fluy<n pronunciation="Fluy" /></t>
+<t>Folies<n pronunciation="Folies" /></t>
+<t>Folleville<n pronunciation="Folleville" /></t>
+<t>Fonches-Fonchette<n pronunciation="Fonches" /><n pronunciation="Fonchette" /></t>
+<t>Fontaine-le-Sec<n pronunciation="Fontaine" /><n pronunciation="le" /><n pronunciation="Sec" /></t>
+<t>Fontaine-lès-Cappy<n pronunciation="Fontaine" /><n pronunciation="les" /><n pronunciation="Cappy" /></t>
+<t>Fontaine-sous-Montdidier<n pronunciation="Fontaine" /><n pronunciation="sous" /><n pronunciation="Montdidier" /></t>
+<t>Fontaine-sur-Maye<n pronunciation="Fontaine" /><n pronunciation="sur" /><n pronunciation="Maye" /></t>
+<t>Fontaine-sur-Somme<n pronunciation="Fontaine" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Forceville<n pronunciation="Forceville" /></t>
+<t>Forceville-en-Vimeu<n pronunciation="Forceville" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Forest-l'Abbaye<n pronunciation="Forest" /><n pronunciation="lAbbaye" /></t>
+<t>Forest-Montiers<n pronunciation="Forest" /><n pronunciation="Montiers" /></t>
+<t>Fort-Mahon-Plage<n pronunciation="Fort" /><n pronunciation="Mahon" /><n pronunciation="Plage" /></t>
+<t>Fossemanant<n pronunciation="Fossemanant" /></t>
+<t>Foucaucourt-en-Santerre<n pronunciation="Foucaucourt" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Foucaucourt-Hors-Nesle<n pronunciation="Foucaucourt" /><n pronunciation="Hors" /><n pronunciation="Nesle" /></t>
+<t>Fouencamps<n pronunciation="Fouencamps" /></t>
+<t>Fouilloy<n pronunciation="Fouilloy" /></t>
+<t>Fouquescourt<n pronunciation="Fouquescourt" /></t>
+<t>Fourcigny<n pronunciation="Fourcigny" /></t>
+<t>Fourdrinoy<n pronunciation="Fourdrinoy" /></t>
+<t>Framerville-Rainecourt<n pronunciation="Framerville" /><n pronunciation="Rainecourt" /></t>
+<t>Framicourt<n pronunciation="Framicourt" /></t>
+<t>Francières<n pronunciation="Francieres" /></t>
+<t>Franleu<n pronunciation="Franleu" /></t>
+<t>Franqueville<n pronunciation="Franqueville" /></t>
+<t>Fransart<n pronunciation="Fransart" /></t>
+<t>Fransu<n pronunciation="Fransu" /></t>
+<t>Fransures<n pronunciation="Fransures" /></t>
+<t>Franvillers<n pronunciation="Franvillers" /></t>
+<t>Fréchencourt<n pronunciation="Frechencourt" /></t>
+<t>Frémontiers<n pronunciation="Fremontiers" /></t>
+<t>Fresnes-Mazancourt<n pronunciation="Fresnes" /><n pronunciation="Mazancourt" /></t>
+<t>Fresnes-Tilloloy<n pronunciation="Fresnes" /><n pronunciation="Tilloloy" /></t>
+<t>Fresneville<n pronunciation="Fresneville" /></t>
+<t>Fresnoy-Andainville<n pronunciation="Fresnoy" /><n pronunciation="Andainville" /></t>
+<t>Fresnoy-au-Val<n pronunciation="Fresnoy" /><n pronunciation="au" /><n pronunciation="Val" /></t>
+<t>Fresnoy-en-Chaussée<n pronunciation="Fresnoy" /><n pronunciation="en" /><n pronunciation="Chaussee" /></t>
+<t>Fresnoy-lès-Roye<n pronunciation="Fresnoy" /><n pronunciation="les" /><n pronunciation="Roye" /></t>
+<t>Fressenneville<n pronunciation="Fressenneville" /></t>
+<t>Frettecuisse<n pronunciation="Frettecuisse" /></t>
+<t>Frettemeule<n pronunciation="Frettemeule" /></t>
+<t>Friaucourt<n pronunciation="Friaucourt" /></t>
+<t>Fricamps<n pronunciation="Fricamps" /></t>
+<t>Fricourt<n pronunciation="Fricourt" /></t>
+<t>Frise<n pronunciation="Frise" /></t>
+<t>Friville-Escarbotin<n pronunciation="Friville" /><n pronunciation="Escarbotin" /></t>
+<t>Frohen-sur-Authie<n pronunciation="Frohen" /><n pronunciation="sur" /><n pronunciation="Authie" /></t>
+<t>Froyelles<n pronunciation="Froyelles" /></t>
+<t>Frucourt<n pronunciation="Frucourt" /></t>
+<t>Gamaches<n pronunciation="Gamaches" /></t>
+<t>Gapennes<n pronunciation="Gapennes" /></t>
+<t>Gauville<n pronunciation="Gauville" /></t>
+<t>Gentelles<n pronunciation="Gentelles" /></t>
+<t>Gézaincourt<n pronunciation="Gezaincourt" /></t>
+<t>Ginchy<n pronunciation="Ginchy" /></t>
+<t>Glisy<n pronunciation="Glisy" /></t>
+<t>Gorenflos<n pronunciation="Gorenflos" /></t>
+<t>Gorges<n pronunciation="Gorges" /></t>
+<t>Goyencourt<n pronunciation="Goyencourt" /></t>
+<t>Grandcourt<n pronunciation="Grandcourt" /></t>
+<t>Grand-Laviers<n pronunciation="Grand" /><n pronunciation="Laviers" /></t>
+<t>Gratibus<n pronunciation="Gratibus" /></t>
+<t>Grattepanche<n pronunciation="Grattepanche" /></t>
+<t>Grébault-Mesnil<n pronunciation="Grebault" /><n pronunciation="Mesnil" /></t>
+<t>Grécourt<n pronunciation="Grecourt" /></t>
+<t>Grivesnes<n pronunciation="Grivesnes" /></t>
+<t>Grivillers<n pronunciation="Grivillers" /></t>
+<t>Grouches-Luchuel<n pronunciation="Grouches" /><n pronunciation="Luchuel" /></t>
+<t>Gruny<n pronunciation="Gruny" /></t>
+<t>Guerbigny<n pronunciation="Guerbigny" /></t>
+<t>Gueschart<n pronunciation="Gueschart" /></t>
+<t>Gueudecourt<n pronunciation="Gueudecourt" /></t>
+<t>Guignemicourt<n pronunciation="Guignemicourt" /></t>
+<t>Guillaucourt<n pronunciation="Guillaucourt" /></t>
+<t>Guillemont<n pronunciation="Guillemont" /></t>
+<t>Guizancourt<n pronunciation="Guizancourt" /></t>
+<t>Guyencourt-Saulcourt<n pronunciation="Guyencourt" /><n pronunciation="Saulcourt" /></t>
+<t>Guyencourt-sur-Noye<n pronunciation="Guyencourt" /><n pronunciation="sur" /><n pronunciation="Noye" /></t>
+<t>Hailles<n pronunciation="Hailles" /></t>
+<t>Hallencourt<n pronunciation="Hallencourt" /></t>
+<t>Hallivillers<n pronunciation="Hallivillers" /></t>
+<t>Halloy-lès-Pernois<n pronunciation="Halloy" /><n pronunciation="les" /><n pronunciation="Pernois" /></t>
+<t>Hallu<n pronunciation="Hallu" /></t>
+<t>Ham<n pronunciation="Ham" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Hamel<n pronunciation="Hamel" /></t>
+<t>Hamelet<n pronunciation="Hamelet" /></t>
+<t>Hancourt<n pronunciation="Hancourt" /></t>
+<t>Hangard<n pronunciation="Hangard" /></t>
+<t>Hangest-en-Santerre<n pronunciation="Hangest" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Hangest-sur-Somme<n pronunciation="Hangest" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Harbonnières<n pronunciation="Harbonnieres" /></t>
+<t>Hardecourt-aux-Bois<n pronunciation="Hardecourt" /><n pronunciation="aux" /><n pronunciation="Bois" /></t>
+<t>Hargicourt<n pronunciation="Hargicourt" /></t>
+<t>Harponville<n pronunciation="Harponville" /></t>
+<t>Hattencourt<n pronunciation="Hattencourt" /></t>
+<t>Hautvillers-Ouville<n pronunciation="Hautvillers" /><n pronunciation="Ouville" /></t>
+<t>Havernas<n pronunciation="Havernas" /></t>
+<t>Hébécourt<n pronunciation="Hebecourt" /></t>
+<t>Hédauville<n pronunciation="Hedauville" /></t>
+<t>Heilly<n pronunciation="Heilly" /></t>
+<t>Hem-Hardinval<n pronunciation="Hem" /><n pronunciation="Hardinval" /></t>
+<t>Hem-Monacu<n pronunciation="Hem" /><n pronunciation="Monacu" /></t>
+<t>Hénencourt<n pronunciation="Henencourt" /></t>
+<t>Herbécourt<n pronunciation="Herbecourt" /></t>
+<t>Hérissart<n pronunciation="Herissart" /></t>
+<t>Herleville<n pronunciation="Herleville" /></t>
+<t>Herly<n pronunciation="Herly" /></t>
+<t>Hervilly<n pronunciation="Hervilly" /></t>
+<t>Hesbécourt<n pronunciation="Hesbecourt" /></t>
+<t>Hescamps<n pronunciation="Hescamps" /></t>
+<t>Heucourt-Croquoison<n pronunciation="Heucourt" /><n pronunciation="Croquoison" /></t>
+<t>Heudicourt<n pronunciation="Heudicourt" /></t>
+<t>Heuzecourt<n pronunciation="Heuzecourt" /></t>
+<t>Hiermont<n pronunciation="Hiermont" /></t>
+<t>Hombleux<n pronunciation="Hombleux" /></t>
+<t>Hornoy-le-Bourg<n pronunciation="Hornoy" /><n pronunciation="le" /><n pronunciation="Bourg" /></t>
+<t>Huchenneville<n pronunciation="Huchenneville" /></t>
+<t>Humbercourt<n pronunciation="Humbercourt" /></t>
+<t>Huppy<n pronunciation="Huppy" /></t>
+<t>Hypercourt<n pronunciation="Hypercourt" /></t>
+<t>Ignaucourt<n pronunciation="Ignaucourt" /></t>
+<t>Inval-Boiron<n pronunciation="Inval" /><n pronunciation="Boiron" /></t>
+<t>Irles<n pronunciation="Irles" /></t>
+<t>Jumel<n pronunciation="Jumel" /></t>
+<t>Laboissière-en-Santerre<n pronunciation="Laboissiere" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Lachapelle<n pronunciation="Lachapelle" /></t>
+<t>Lafresguimont-Saint-Martin<n pronunciation="Lafresguimont" /><n pronunciation="Saint" /><n pronunciation="Martin" /></t>
+<t>Lahoussoye<n pronunciation="Lahoussoye" /></t>
+<t>Laleu<n pronunciation="Laleu" /></t>
+<t>Lamaronde<n pronunciation="Lamaronde" /></t>
+<t>Lamotte-Brebière<n pronunciation="Lamotte" /><n pronunciation="Brebiere" /></t>
+<t>Lamotte-Buleux<n pronunciation="Lamotte" /><n pronunciation="Buleux" /></t>
+<t>Lamotte-Warfusée<n pronunciation="Lamotte" /><n pronunciation="Warfusee" /></t>
+<t>Lanchères<n pronunciation="Lancheres" /></t>
+<t>Lanches-Saint-Hilaire<n pronunciation="Lanches" /><n pronunciation="Saint" /><n pronunciation="Hilaire" /></t>
+<t>Languevoisin-Quiquery<n pronunciation="Languevoisin" /><n pronunciation="Quiquery" /></t>
+<t>Laucourt<n pronunciation="Laucourt" /></t>
+<t>Laviéville<n pronunciation="Lavieville" /></t>
+<t>Lawarde-Mauger-l'Hortoy<n pronunciation="Lawarde" /><n pronunciation="Mauger" /><n pronunciation="lHortoy" /></t>
+<t>Léalvillers<n pronunciation="Lealvillers" /></t>
+<t>Lesbœufs<n pronunciation="Lesbœufs" /></t>
+<t>Liancourt-Fosse<n pronunciation="Liancourt" /><n pronunciation="Fosse" /></t>
+<t>Licourt<n pronunciation="Licourt" /></t>
+<t>Liéramont<n pronunciation="Lieramont" /></t>
+<t>Liercourt<n pronunciation="Liercourt" /></t>
+<t>Ligescourt<n pronunciation="Ligescourt" /></t>
+<t>Lignières<n pronunciation="Lignieres" /></t>
+<t>Lignières-Châtelain<n pronunciation="Lignieres" /><n pronunciation="Chatelain" /></t>
+<t>Lignières-en-Vimeu<n pronunciation="Lignieres" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Lihons<n pronunciation="Lihons" /></t>
+<t>Limeux<n pronunciation="Limeux" /></t>
+<t>Liomer<n pronunciation="Liomer" /></t>
+<t>Loeuilly<n pronunciation="Loeuilly" /></t>
+<t>Long<n pronunciation="Long" /></t>
+<t>Longavesnes<n pronunciation="Longavesnes" /></t>
+<t>Longpré-les-Corps-Saints<n pronunciation="Longpre" /><n pronunciation="les" /><n pronunciation="Corps" /><n pronunciation="Saints" /></t>
+<t>Longueau<n pronunciation="Longueau" /></t>
+<t>Longueval<n pronunciation="Longueval" /></t>
+<t>Longuevillette<n pronunciation="Longuevillette" /></t>
+<t>Louvencourt<n pronunciation="Louvencourt" /></t>
+<t>Louvrechy<n pronunciation="Louvrechy" /></t>
+<t>Lucheux<n pronunciation="Lucheux" /></t>
+<t>Machiel<n pronunciation="Machiel" /></t>
+<t>Machy<n pronunciation="Machy" /></t>
+<t>Mailly-Maillet<n pronunciation="Mailly" /><n pronunciation="Maillet" /></t>
+<t>Mailly-Raineval<n pronunciation="Mailly" /><n pronunciation="Raineval" /></t>
+<t>Maisnières<n pronunciation="Maisnieres" /></t>
+<t>Maison-Ponthieu<n pronunciation="Maison" /><n pronunciation="Ponthieu" /></t>
+<t>Maison-Roland<n pronunciation="Maison" /><n pronunciation="Roland" /></t>
+<t>Maizicourt<n pronunciation="Maizicourt" /></t>
+<t>Malpart<n pronunciation="Malpart" /></t>
+<t>Mametz<n pronunciation="Mametz" /></t>
+<t>Marcelcave<n pronunciation="Marcelcave" /></t>
+<t>Marché-Allouarde<n pronunciation="Marche" /><n pronunciation="Allouarde" /></t>
+<t>Marchélepot<n pronunciation="Marchelepot" /></t>
+<t>Marestmontiers<n pronunciation="Marestmontiers" /></t>
+<t>Mareuil-Caubert<n pronunciation="Mareuil" /><n pronunciation="Caubert" /></t>
+<t>Maricourt<n pronunciation="Maricourt" /></t>
+<t>Marieux<n pronunciation="Marieux" /></t>
+<t>Marlers<n pronunciation="Marlers" /></t>
+<t>Marquaix<n pronunciation="Marquaix" /></t>
+<t>Marquivillers<n pronunciation="Marquivillers" /></t>
+<t>Martainneville<n pronunciation="Martainneville" /></t>
+<t>Matigny<n pronunciation="Matigny" /></t>
+<t>Maucourt<n pronunciation="Maucourt" /></t>
+<t>Maurepas<n pronunciation="Maurepas" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Mazis<n pronunciation="Mazis" /></t>
+<t>Méaulte<n pronunciation="Meaulte" /></t>
+<t>Méharicourt<n pronunciation="Meharicourt" /></t>
+<t>Meigneux<n pronunciation="Meigneux" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Meillard<n pronunciation="Meillard" /></t>
+<t>Méneslies<n pronunciation="Meneslies" /></t>
+<t>Méréaucourt<n pronunciation="Mereaucourt" /></t>
+<t>Mérélessart<n pronunciation="Merelessart" /></t>
+<t>Méricourt-en-Vimeu<n pronunciation="Mericourt" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Méricourt-l'Abbé<n pronunciation="Mericourt" /><n pronunciation="lAbbe" /></t>
+<t>Mers-les-Bains<n pronunciation="Mers" /><n pronunciation="les" /><n pronunciation="Bains" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Mesge<n pronunciation="Mesge" /></t>
+<t>Mesnil-Bruntel<n pronunciation="Mesnil" /><n pronunciation="Bruntel" /></t>
+<t>Mesnil-Domqueur<n pronunciation="Mesnil" /><n pronunciation="Domqueur" /></t>
+<t>Mesnil-en-Arrouaise<n pronunciation="Mesnil" /><n pronunciation="en" /><n pronunciation="Arrouaise" /></t>
+<t>Mesnil-Martinsart<n pronunciation="Mesnil" /><n pronunciation="Martinsart" /></t>
+<t>Mesnil-Saint-Georges<n pronunciation="Mesnil" /><n pronunciation="Saint" /><n pronunciation="Georges" /></t>
+<t>Mesnil-Saint-Nicaise<n pronunciation="Mesnil" /><n pronunciation="Saint" /><n pronunciation="Nicaise" /></t>
+<t>Métigny<n pronunciation="Metigny" /></t>
+<t>Mézerolles<n pronunciation="Mezerolles" /></t>
+<t>Mézières-en-Santerre<n pronunciation="Mezieres" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Miannay<n pronunciation="Miannay" /></t>
+<t>Millencourt<n pronunciation="Millencourt" /></t>
+<t>Millencourt-en-Ponthieu<n pronunciation="Millencourt" /><n pronunciation="en" /><n pronunciation="Ponthieu" /></t>
+<t>Miraumont<n pronunciation="Miraumont" /></t>
+<t>Mirvaux<n pronunciation="Mirvaux" /></t>
+<t>Misery<n pronunciation="Misery" /></t>
+<t>Moislains<n pronunciation="Moislains" /></t>
+<t>Molliens-au-Bois<n pronunciation="Molliens" /><n pronunciation="au" /><n pronunciation="Bois" /></t>
+<t>Molliens-Dreuil<n pronunciation="Molliens" /><n pronunciation="Dreuil" /></t>
+<t>Monchy-Lagache<n pronunciation="Monchy" /><n pronunciation="Lagache" /></t>
+<t>Mons-Boubert<n pronunciation="Mons" /><n pronunciation="Boubert" /></t>
+<t>Monsures<n pronunciation="Monsures" /></t>
+<t>Montagne-Fayel<n pronunciation="Montagne" /><n pronunciation="Fayel" /></t>
+<t>Montauban-de-Picardie<n pronunciation="Montauban" /><n pronunciation="de" /><n pronunciation="Picardie" /></t>
+<t>Montdidier<n pronunciation="Montdidier" /></t>
+<t>Montigny-les-Jongleurs<n pronunciation="Montigny" /><n pronunciation="les" /><n pronunciation="Jongleurs" /></t>
+<t>Montigny-sur-l'Hallue<n pronunciation="Montigny" /><n pronunciation="sur" /><n pronunciation="lHallue" /></t>
+<t>Montonvillers<n pronunciation="Montonvillers" /></t>
+<t>Morchain<n pronunciation="Morchain" /></t>
+<t>Morcourt<n pronunciation="Morcourt" /></t>
+<t>Moreuil<n pronunciation="Moreuil" /></t>
+<t>Morisel<n pronunciation="Morisel" /></t>
+<t>Morlancourt<n pronunciation="Morlancourt" /></t>
+<t>Morvillers-Saint-Saturnin<n pronunciation="Morvillers" /><n pronunciation="Saint" /><n pronunciation="Saturnin" /></t>
+<t>Mouflers<n pronunciation="Mouflers" /></t>
+<t>Mouflières<n pronunciation="Mouflieres" /></t>
+<t>Moyencourt<n pronunciation="Moyencourt" /></t>
+<t>Moyencourt-lès-Poix<n pronunciation="Moyencourt" /><n pronunciation="les" /><n pronunciation="Poix" /></t>
+<t>Moyenneville<n pronunciation="Moyenneville" /></t>
+<t>Muille-Villette<n pronunciation="Muille" /><n pronunciation="Villette" /></t>
+<t>Nampont<n pronunciation="Nampont" /></t>
+<t>Namps-Maisnil<n pronunciation="Namps" /><n pronunciation="Maisnil" /></t>
+<t>Nampty<n pronunciation="Nampty" /></t>
+<t>Naours<n pronunciation="Naours" /></t>
+<t>Nesle<n pronunciation="Nesle" /></t>
+<t>Nesle-l'Hôpital<n pronunciation="Nesle" /><n pronunciation="lHopital" /></t>
+<t>Neslette<n pronunciation="Neslette" /></t>
+<t>Neufmoulin<n pronunciation="Neufmoulin" /></t>
+<t>Neuilly-le-Dien<n pronunciation="Neuilly" /><n pronunciation="le" /><n pronunciation="Dien" /></t>
+<t>Neuilly-l'Hôpital<n pronunciation="Neuilly" /><n pronunciation="lHopital" /></t>
+<t>Neuville-au-Bois<n pronunciation="Neuville" /><n pronunciation="au" /><n pronunciation="Bois" /></t>
+<t>Neuville-Coppegueule<n pronunciation="Neuville" /><n pronunciation="Coppegueule" /></t>
+<t>La<n pronunciation="La" /></t> <t>Neuville-lès-Bray<n pronunciation="Neuville" /><n pronunciation="les" /><n pronunciation="Bray" /></t>
+<t>Neuville-lès-Loeuilly<n pronunciation="Neuville" /><n pronunciation="les" /><n pronunciation="Loeuilly" /></t>
+<t>La<n pronunciation="La" /></t> <t>Neuville-Sire-Bernard<n pronunciation="Neuville" /><n pronunciation="Sire" /><n pronunciation="Bernard" /></t>
+<t>Neuvillette<n pronunciation="Neuvillette" /></t>
+<t>Nibas<n pronunciation="Nibas" /></t>
+<t>Nouvion<n pronunciation="Nouvion" /></t>
+<t>Noyelles-en-Chaussée<n pronunciation="Noyelles" /><n pronunciation="en" /><n pronunciation="Chaussee" /></t>
+<t>Noyelles-sur-Mer<n pronunciation="Noyelles" /><n pronunciation="sur" /><n pronunciation="Mer" /></t>
+<t>Nurlu<n pronunciation="Nurlu" /></t>
+<t>Occoches<n pronunciation="Occoches" /></t>
+<t>Ochancourt<n pronunciation="Ochancourt" /></t>
+<t>Offignies<n pronunciation="Offignies" /></t>
+<t>Offoy<n pronunciation="Offoy" /></t>
+<t>Oisemont<n pronunciation="Oisemont" /></t>
+<t>Oissy<n pronunciation="Oissy" /></t>
+<t>Oneux<n pronunciation="Oneux" /></t>
+<t>Oresmaux<n pronunciation="Oresmaux" /></t>
+<t>Oust-Marest<n pronunciation="Oust" /><n pronunciation="Marest" /></t>
+<t>Outrebois<n pronunciation="Outrebois" /></t>
+<t>Ovillers-la-Boisselle<n pronunciation="Ovillers" /><n pronunciation="la" /><n pronunciation="Boisselle" /></t>
+<t>Pargny<n pronunciation="Pargny" /></t>
+<t>Parvillers-le-Quesnoy<n pronunciation="Parvillers" /><n pronunciation="le" /><n pronunciation="Quesnoy" /></t>
+<t>Pendé<n pronunciation="Pende" /></t>
+<t>Pernois<n pronunciation="Pernois" /></t>
+<t>Péronne<n pronunciation="Peronne" /></t>
+<t>Picquigny<n pronunciation="Picquigny" /></t>
+<t>Piennes-Onvillers<n pronunciation="Piennes" /><n pronunciation="Onvillers" /></t>
+<t>Pierregot<n pronunciation="Pierregot" /></t>
+<t>Pierrepont-sur-Avre<n pronunciation="Pierrepont" /><n pronunciation="sur" /><n pronunciation="Avre" /></t>
+<t>Pissy<n pronunciation="Pissy" /></t>
+<t>Plachy-Buyon<n pronunciation="Plachy" /><n pronunciation="Buyon" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Plessier-Rozainvillers<n pronunciation="Plessier" /><n pronunciation="Rozainvillers" /></t>
+<t>Poeuilly<n pronunciation="Poeuilly" /></t>
+<t>Poix-de-Picardie<n pronunciation="Poix" /><n pronunciation="de" /><n pronunciation="Picardie" /></t>
+<t>Ponches-Estruval<n pronunciation="Ponches" /><n pronunciation="Estruval" /></t>
+<t>Pont-de-Metz<n pronunciation="Pont" /><n pronunciation="de" /><n pronunciation="Metz" /></t>
+<t>Ponthoile<n pronunciation="Ponthoile" /></t>
+<t>Pont-Noyelles<n pronunciation="Pont" /><n pronunciation="Noyelles" /></t>
+<t>Pont-Remy<n pronunciation="Pont" /><n pronunciation="Remy" /></t>
+<t>Port-le-Grand<n pronunciation="Port" /><n pronunciation="le" /><n pronunciation="Grand" /></t>
+<t>Potte<n pronunciation="Potte" /></t>
+<t>Poulainville<n pronunciation="Poulainville" /></t>
+<t>Pozières<n pronunciation="Pozieres" /></t>
+<t>Prouville<n pronunciation="Prouville" /></t>
+<t>Prouzel<n pronunciation="Prouzel" /></t>
+<t>Proyart<n pronunciation="Proyart" /></t>
+<t>Puchevillers<n pronunciation="Puchevillers" /></t>
+<t>Punchy<n pronunciation="Punchy" /></t>
+<t>Puzeaux<n pronunciation="Puzeaux" /></t>
+<t>Pys<n pronunciation="P" /><n pronunciation="y" /><n pronunciation="s" /></t>
+<t>Quend<n pronunciation="Quend" /></t>
+<t>Querrieu<n pronunciation="Querrieu" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Quesne<n pronunciation="Quesne" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Quesnel<n pronunciation="Quesnel" /></t>
+<t>Quesnoy-le-Montant<n pronunciation="Quesnoy" /><n pronunciation="le" /><n pronunciation="Montant" /></t>
+<t>Quesnoy-sur-Airaines<n pronunciation="Quesnoy" /><n pronunciation="sur" /><n pronunciation="Airaines" /></t>
+<t>Quevauvillers<n pronunciation="Quevauvillers" /></t>
+<t>Quiry-le-Sec<n pronunciation="Quiry" /><n pronunciation="le" /><n pronunciation="Sec" /></t>
+<t>Quivières<n pronunciation="Quivieres" /></t>
+<t>Raincheval<n pronunciation="Raincheval" /></t>
+<t>Rainneville<n pronunciation="Rainneville" /></t>
+<t>Ramburelles<n pronunciation="Ramburelles" /></t>
+<t>Rambures<n pronunciation="Rambures" /></t>
+<t>Rancourt<n pronunciation="Rancourt" /></t>
+<t>Regnière-Écluse<n pronunciation="Regniere" /><n pronunciation="Ecluse" /></t>
+<t>Remaisnil<n pronunciation="Remaisnil" /></t>
+<t>Remaugies<n pronunciation="Remaugies" /></t>
+<t>Remiencourt<n pronunciation="Remiencourt" /></t>
+<t>Rethonvillers<n pronunciation="Rethonvillers" /></t>
+<t>Revelles<n pronunciation="Revelles" /></t>
+<t>Ribeaucourt<n pronunciation="Ribeaucourt" /></t>
+<t>Ribemont-sur-Ancre<n pronunciation="Ribemont" /><n pronunciation="sur" /><n pronunciation="Ancre" /></t>
+<t>Riencourt<n pronunciation="Riencourt" /></t>
+<t>Rivery<n pronunciation="Rivery" /></t>
+<t>Rogy<n pronunciation="Rogy" /></t>
+<t>Roiglise<n pronunciation="Roiglise" /></t>
+<t>Roisel<n pronunciation="Roisel" /></t>
+<t>Rollot<n pronunciation="Rollot" /></t>
+<t>Ronssoy<n pronunciation="Ronssoy" /></t>
+<t>Rosières-en-Santerre<n pronunciation="Rosieres" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Rouvrel<n pronunciation="Rouvrel" /></t>
+<t>Rouvroy-en-Santerre<n pronunciation="Rouvroy" /><n pronunciation="en" /><n pronunciation="Santerre" /></t>
+<t>Rouy-le-Grand<n pronunciation="Rouy" /><n pronunciation="le" /><n pronunciation="Grand" /></t>
+<t>Rouy-le-Petit<n pronunciation="Rouy" /><n pronunciation="le" /><n pronunciation="Petit" /></t>
+<t>Roye<n pronunciation="Roye" /></t>
+<t>Rubempré<n pronunciation="Rubempre" /></t>
+<t>Rubescourt<n pronunciation="Rubescourt" /></t>
+<t>Rue<n pronunciation="Rue" /></t>
+<t>Rumigny<n pronunciation="Rumigny" /></t>
+<t>Saigneville<n pronunciation="Saigneville" /></t>
+<t>Sailly-Flibeaucourt<n pronunciation="Sailly" /><n pronunciation="Flibeaucourt" /></t>
+<t>Sailly-Laurette<n pronunciation="Sailly" /><n pronunciation="Laurette" /></t>
+<t>Sailly-le-Sec<n pronunciation="Sailly" /><n pronunciation="le" /><n pronunciation="Sec" /></t>
+<t>Sailly-Saillisel<n pronunciation="Sailly" /><n pronunciation="Saillisel" /></t>
+<t>Sains-en-Amiénois<n pronunciation="Sains" /><n pronunciation="en" /><n pronunciation="Amienois" /></t>
+<t>Saint-Acheul<n pronunciation="Saint" /><n pronunciation="Acheul" /></t>
+<t>Saint-Aubin-Montenoy<n pronunciation="Saint" /><n pronunciation="Aubin" /><n pronunciation="Montenoy" /></t>
+<t>Saint-Aubin-Rivière<n pronunciation="Saint" /><n pronunciation="Aubin" /><n pronunciation="Riviere" /></t>
+<t>Saint-Blimont<n pronunciation="Saint" /><n pronunciation="Blimont" /></t>
+<t>Saint-Christ-Briost<n pronunciation="Saint" /><n pronunciation="Christ" /><n pronunciation="Briost" /></t>
+<t>Sainte-Segrée<n pronunciation="Sainte" /><n pronunciation="Segree" /></t>
+<t>Saint-Fuscien<n pronunciation="Saint" /><n pronunciation="Fuscien" /></t>
+<t>Saint-Germain-sur-Bresle<n pronunciation="Saint" /><n pronunciation="Germain" /><n pronunciation="sur" /><n pronunciation="Bresle" /></t>
+<t>Saint-Gratien<n pronunciation="Saint" /><n pronunciation="Gratien" /></t>
+<t>Saint-Léger-lès-Authie<n pronunciation="Saint" /><n pronunciation="Leger" /><n pronunciation="les" /><n pronunciation="Authie" /></t>
+<t>Saint-Léger-lès-Domart<n pronunciation="Saint" /><n pronunciation="Leger" /><n pronunciation="les" /><n pronunciation="Domart" /></t>
+<t>Saint-Léger-sur-Bresle<n pronunciation="Saint" /><n pronunciation="Leger" /><n pronunciation="sur" /><n pronunciation="Bresle" /></t>
+<t>Saint-Mard<n pronunciation="Saint" /><n pronunciation="Mard" /></t>
+<t>Saint-Maulvis<n pronunciation="Saint" /><n pronunciation="Maulvis" /></t>
+<t>Saint-Maxent<n pronunciation="Saint" /><n pronunciation="Maxent" /></t>
+<t>Saint-Ouen<n pronunciation="Saint" /><n pronunciation="Ouen" /></t>
+<t>Saint-Quentin-en-Tourmont<n pronunciation="Saint" /><n pronunciation="Quentin" /><n pronunciation="en" /><n pronunciation="Tourmont" /></t>
+<t>Saint-Quentin-la-Motte-Croix-au-Bailly<n pronunciation="Saint" /><n pronunciation="Quentin" /><n pronunciation="la" /><n pronunciation="Motte" /><n pronunciation="Croix" /><n pronunciation="au" /><n pronunciation="Bailly" /></t>
+<t>Saint-Riquier<n pronunciation="Saint" /><n pronunciation="Riquier" /></t>
+<t>Saint-Sauflieu<n pronunciation="Saint" /><n pronunciation="Sauflieu" /></t>
+<t>Saint-Sauveur<n pronunciation="Saint" /><n pronunciation="Sauveur" /></t>
+<t>Saint-Vaast-en-Chaussée<n pronunciation="Saint" /><n pronunciation="Vaast" /><n pronunciation="en" /><n pronunciation="Chaussee" /></t>
+<t>Saint-Valery-sur-Somme<n pronunciation="Saint" /><n pronunciation="Valery" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Saisseval<n pronunciation="Saisseval" /></t>
+<t>Saleux<n pronunciation="Saleux" /></t>
+<t>Salouël<n pronunciation="Salouel" /></t>
+<t>Sancourt<n pronunciation="Sancourt" /></t>
+<t>Saulchoy-sous-Poix<n pronunciation="Saulchoy" /><n pronunciation="sous" /><n pronunciation="Poix" /></t>
+<t>Sauvillers-Mongival<n pronunciation="Sauvillers" /><n pronunciation="Mongival" /></t>
+<t>Saveuse<n pronunciation="Saveuse" /></t>
+<t>Senarpont<n pronunciation="Senarpont" /></t>
+<t>Senlis-le-Sec<n pronunciation="Senlis" /><n pronunciation="le" /><n pronunciation="Sec" /></t>
+<t>Sentelie<n pronunciation="Sentelie" /></t>
+<t>Seux<n pronunciation="Seux" /></t>
+<t>Sorel<n pronunciation="Sorel" /></t>
+<t>Sorel-en-Vimeu<n pronunciation="Sorel" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Soues<n pronunciation="Soues" /></t>
+<t>Sourdon<n pronunciation="Sourdon" /></t>
+<t>Soyécourt<n pronunciation="Soyecourt" /></t>
+<t>Surcamps<n pronunciation="Surcamps" /></t>
+<t>Suzanne<n pronunciation="Suzanne" /></t>
+<t>Tailly<n pronunciation="Tailly" /></t>
+<t>Talmas<n pronunciation="Talmas" /></t>
+<t>Templeux-la-Fosse<n pronunciation="Templeux" /><n pronunciation="la" /><n pronunciation="Fosse" /></t>
+<t>Templeux-le-Guérard<n pronunciation="Templeux" /><n pronunciation="le" /><n pronunciation="Guerard" /></t>
+<t>Terramesnil<n pronunciation="Terramesnil" /></t>
+<t>Tertry<n pronunciation="Tertry" /></t>
+<t>Thennes<n pronunciation="Thennes" /></t>
+<t>Thézy-Glimont<n pronunciation="Thezy" /><n pronunciation="Glimont" /></t>
+<t>Thiepval<n pronunciation="Thiepval" /></t>
+<t>Thieulloy-l'Abbaye<n pronunciation="Thieulloy" /><n pronunciation="lAbbaye" /></t>
+<t>Thieulloy-la-Ville<n pronunciation="Thieulloy" /><n pronunciation="la" /><n pronunciation="Ville" /></t>
+<t>Thièvres<n pronunciation="Thievres" /></t>
+<t>Thoix<n pronunciation="Thoix" /></t>
+<t>Thory<n pronunciation="Thory" /></t>
+<t>Tilloloy<n pronunciation="Tilloloy" /></t>
+<t>Tilloy-Floriville<n pronunciation="Tilloy" /><n pronunciation="Floriville" /></t>
+<t>Tilloy-lès-Conty<n pronunciation="Tilloy" /><n pronunciation="les" /><n pronunciation="Conty" /></t>
+<t>Tincourt-Boucly<n pronunciation="Tincourt" /><n pronunciation="Boucly" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Titre<n pronunciation="Titre" /></t>
+<t>Tœufles<n pronunciation="Tœufles" /></t>
+<t>Tours-en-Vimeu<n pronunciation="Tours" /><n pronunciation="en" /><n pronunciation="Vimeu" /></t>
+<t>Toutencourt<n pronunciation="Toutencourt" /></t>
+<t>Le<n pronunciation="Le" /></t> <t>Translay<n pronunciation="Translay" /></t>
+<t>Treux<n pronunciation="Treux" /></t>
+<t>Tully<n pronunciation="Tully" /></t>
+<t>Ugny-l'Équipée<n pronunciation="Ugny" /><n pronunciation="lEquipee" /></t>
+<t>Vadencourt<n pronunciation="Vadencourt" /></t>
+<t>Vaire-sous-Corbie<n pronunciation="Vaire" /><n pronunciation="sous" /><n pronunciation="Corbie" /></t>
+<t>Valines<n pronunciation="Valines" /></t>
+<t>Varennes<n pronunciation="Varennes" /></t>
+<t>Vauchelles-lès-Authie<n pronunciation="Vauchelles" /><n pronunciation="les" /><n pronunciation="Authie" /></t>
+<t>Vauchelles-lès-Domart<n pronunciation="Vauchelles" /><n pronunciation="les" /><n pronunciation="Domart" /></t>
+<t>Vauchelles-les-Quesnoy<n pronunciation="Vauchelles" /><n pronunciation="les" /><n pronunciation="Quesnoy" /></t>
+<t>Vaudricourt<n pronunciation="Vaudricourt" /></t>
+<t>Vauvillers<n pronunciation="Vauvillers" /></t>
+<t>Vaux-en-Amiénois<n pronunciation="Vaux" /><n pronunciation="en" /><n pronunciation="Amienois" /></t>
+<t>Vaux-Marquenneville<n pronunciation="Vaux" /><n pronunciation="Marquenneville" /></t>
+<t>Vaux-sur-Somme<n pronunciation="Vaux" /><n pronunciation="sur" /><n pronunciation="Somme" /></t>
+<t>Vecquemont<n pronunciation="Vecquemont" /></t>
+<t>Velennes<n pronunciation="Velennes" /></t>
+<t>Vercourt<n pronunciation="Vercourt" /></t>
+<t>Vergies<n pronunciation="Vergies" /></t>
+<t>Vermandovillers<n pronunciation="Vermandovillers" /></t>
+<t>Verpillières<n pronunciation="Verpillieres" /></t>
+<t>Vers-sur-Selle<n pronunciation="Vers" /><n pronunciation="sur" /><n pronunciation="Selle" /></t>
+<t>La<n pronunciation="La" /></t> <t>Vicogne<n pronunciation="Vicogne" /></t>
+<t>Vignacourt<n pronunciation="Vignacourt" /></t>
+<t>Villecourt<n pronunciation="Villecourt" /></t>
+<t>Ville-le-Marclet<n pronunciation="Ville" /><n pronunciation="le" /><n pronunciation="Marclet" /></t>
+<t>Villeroy<n pronunciation="Villeroy" /></t>
+<t>Villers-aux-Érables<n pronunciation="Villers" /><n pronunciation="aux" /><n pronunciation="Erables" /></t>
+<t>Villers-Bocage<n pronunciation="Villers" /><n pronunciation="Bocage" /></t>
+<t>Villers-Bretonneux<n pronunciation="Villers" /><n pronunciation="Bretonneux" /></t>
+<t>Villers-Campsart<n pronunciation="Villers" /><n pronunciation="Campsart" /></t>
+<t>Villers-Carbonnel<n pronunciation="Villers" /><n pronunciation="Carbonnel" /></t>
+<t>Villers-Faucon<n pronunciation="Villers" /><n pronunciation="Faucon" /></t>
+<t>Villers-lès-Roye<n pronunciation="Villers" /><n pronunciation="les" /><n pronunciation="Roye" /></t>
+<t>Villers-sous-Ailly<n pronunciation="Villers" /><n pronunciation="sous" /><n pronunciation="Ailly" /></t>
+<t>Villers-sur-Authie<n pronunciation="Villers" /><n pronunciation="sur" /><n pronunciation="Authie" /></t>
+<t>Villers-Tournelle<n pronunciation="Villers" /><n pronunciation="Tournelle" /></t>
+<t>Ville-sur-Ancre<n pronunciation="Ville" /><n pronunciation="sur" /><n pronunciation="Ancre" /></t>
+<t>Vironchaux<n pronunciation="Vironchaux" /></t>
+<t>Vismes<n pronunciation="Vismes" /></t>
+<t>Vitz-sur-Authie<n pronunciation="Vitz" /><n pronunciation="sur" /><n pronunciation="Authie" /></t>
+<t>Voyennes<n pronunciation="Voyennes" /></t>
+<t>Vraignes-en-Vermandois<n pronunciation="Vraignes" /><n pronunciation="en" /><n pronunciation="Vermandois" /></t>
+<t>Vraignes-lès-Hornoy<n pronunciation="Vraignes" /><n pronunciation="les" /><n pronunciation="Hornoy" /></t>
+<t>Vrély<n pronunciation="Vrely" /></t>
+<t>Vron<n pronunciation="Vron" /></t>
+<t>Wargnies<n pronunciation="Wargnies" /></t>
+<t>Warloy-Baillon<n pronunciation="Warloy" /><n pronunciation="Baillon" /></t>
+<t>Warlus<n pronunciation="Warlus" /></t>
+<t>Warsy<n pronunciation="Warsy" /></t>
+<t>Warvillers<n pronunciation="Warvillers" /></t>
+<t>Wiencourt-l'Équipée<n pronunciation="Wiencourt" /><n pronunciation="lEquipee" /></t>
+<t>Wiry-au-Mont<n pronunciation="Wiry" /><n pronunciation="au" /><n pronunciation="Mont" /></t>
+<t>Woignarue<n pronunciation="Woignarue" /></t>
+<t>Woincourt<n pronunciation="Woincourt" /></t>
+<t>Woirel<n pronunciation="Woirel" /></t>
+<t>Y<n pronunciation="Y" /></t>
+<t>Yaucourt-Bussus<n pronunciation="Yaucourt" /><n pronunciation="Bussus" /></t>
+<t>Yonval<n pronunciation="Yonval" /></t>
+<t>Yvrench<n pronunciation="Yvrench" /></t>
+<t>Yvrencheux<n pronunciation="Yvrencheux" /></t>
+<t>Yzengremer<n pronunciation="Yzengremer" /></t>
+<t>Yzeux<n pronunciation="Yzeux" /></t></s></p>
+
+
+
+
+
+
+
+
+
+<s><t>This<n pronunciation="This" /></t> <t>Somme<n pronunciation="Somme" /></t> <t>geographical<n pronunciation="geographical" /></t> <t>article<n pronunciation="article" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>stub<n pronunciation="stub" /></t><t>.</t></s> <s><t>You<n pronunciation="You" /></t> <t>can<n pronunciation="can" /></t> <t>help<n pronunciation="help" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>by<n pronunciation="by" /></t> <t>expanding<n pronunciation="expanding" /></t> <t>it<n pronunciation="it" /></t><t>.</t></s>
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

@@ -1,0 +1,48 @@
+<root><template><title>Infobox Congressman
+</title><part><name> name</name><equals>=</equals><value>Larry Winn
+</value></part><part><name> image name</name><equals>=</equals><value>Larry Winn.jpeg
+</value></part><part><name> state</name><equals>=</equals><value>[[Kansas]]
+</value></part><part><name> district</name><equals>=</equals><value>[[Kansas's 3rd congressional district|3rd]]
+</value></part><part><name> party</name><equals>=</equals><value>[[United States Republican Party|Republican Party]]
+</value></part><part><name> term_start</name><equals>=</equals><value>January 3, 1967
+</value></part><part><name> term_end</name><equals>=</equals><value>January 3, 1985
+</value></part><part><name> preceded</name><equals>=</equals><value>[[Robert Fred Ellsworth]]
+</value></part><part><name> succeeded</name><equals>=</equals><value>[[Jan Meyers]]
+</value></part><part><name> birth_date</name><equals>=</equals><value><template><title>birth date and age</title><part><name index="1"/><value>1919</value></part><part><name index="2"/><value>08</value></part><part><name index="3"/><value>22</value></part></template>
+</value></part><part><name> birth_place</name><equals>=</equals><value>[[Kansas City, Missouri]], U.S.
+</value></part><part><name> death_date</name><equals>=</equals><value>
+</value></part><part><name> death_place</name><equals>=</equals><value>
+</value></part></template>
+
+'''Edward Lawrence Winn, Jr.''' (born August 22, 1919) is a [[United States|U.S.]] [[Republican Party (United States)|Republican]] [[politician]].
+
+He was born in [[Kansas City, Missouri]].  He was elected as a Republican to the [[United States House of Representatives]] from [[Kansas]] and served from January 3, 1967 to January 3, 1985.  He currently resides in [[Prairie Village, Kansas]].
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>congbio</title><part><name index="1"/><value>W000636</value></part></template>
+
+<template lineStart="1"><title>s-start</title></template>
+<template lineStart="1"><title>s-par</title><part><name index="1"/><value>us-hs</value></part></template>
+<template lineStart="1"><title>USRepSuccessionBox </title><part><name>
+ state</name><equals>=</equals><value>Kansas </value></part><part><name>
+ district</name><equals>=</equals><value>3 </value></part><part><name>
+ district_ord</name><equals>=</equals><value>3rd </value></part><part><name>
+ before</name><equals>=</equals><value>[[Robert Fred Ellsworth]] </value></part><part><name>
+ after</name><equals>=</equals><value>[[Jan Meyers]] </value></part><part><name>
+ years</name><equals>=</equals><value>1967–1985
+</value></part></template>
+<template lineStart="1"><title>s-end</title></template>
+
+<template lineStart="1"><title>Authority control</title></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Winn, Larry</title></template>
+[[Category:1919 births]]
+[[Category:Living people]]
+[[Category:People from Kansas City, Missouri]]
+[[Category:Kansas Republicans]]
+[[Category:Members of the United States House of Representatives from Kansas]]
+[[Category:University of Kansas alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+
+
+<template lineStart="1"><title>Kansas-politician-stub</title></template></root>

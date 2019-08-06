@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=William II Of England
+|user_name_link=[[:en:User:Matthew David González]]
+|date=2014-07-05 21:40:22
+|accent=American English (Midwestern Region)
+|sex=m
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}}}
+|date=2014-07-06 10:23:20
+|source={{own}}
+|author=[[User:Matthew David González|Matthew David González]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}

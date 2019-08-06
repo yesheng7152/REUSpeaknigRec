@@ -1,0 +1,77 @@
+<root><template><title>About</title><part><name index="1"/><value>the arcade game</value></part><part><name index="2"/><value>the actual World War II battle</value></part><part><name index="3"/><value>Battle of Midway</value></part></template>
+<template lineStart="1"><title>Infobox VG
+</title><part><name>title</name><equals>=</equals><value>1943: The Battle of Midway
+</value></part><part><name>image </name><equals>=</equals><value> [[Image:1943 01.png|title screen]]
+</value></part><part><name>caption</name><equals>=</equals><value>Promotional flyer.
+</value></part><part><name>developer </name><equals>=</equals><value> [[Capcom]]
+</value></part><part><name>publisher </name><equals>=</equals><value> [[Capcom]]
+</value></part><part><name>distributor</name><equals>=</equals><value>
+</value></part><part><name>designer</name><equals>=</equals><value> [[Yoshiki Okamoto]]
+</value></part><part><name>released</name><equals>=</equals><value>June <template><title>vgy</title><part><name index="1"/><value>1987</value></part></template> (arcade)
+</value></part><part><name>genre </name><equals>=</equals><value>Vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]]
+</value></part><part><name>modes </name><equals>=</equals><value>[[Single-player video game|Single player]], 2 player [[Cooperative gameplay|Co-op]]
+</value></part><part><name>ratings</name><equals>=</equals><value>
+</value></part><part><name>platforms</name><equals>=</equals><value>[[Arcade game]], [[Nintendo Entertainment System|NES]]
+</value></part><part><name>media</name><equals>=</equals><value>
+</value></part><part><name>requirements</name><equals>=</equals><value>
+</value></part><part><name>input</name><equals>=</equals><value>8-way [[joystick]], 2 buttons
+</value></part><part><name>cabinet </name><equals>=</equals><value> Upright
+</value></part><part><name>arcade system </name><equals>=</equals><value>
+</value></part><part><name>cpu</name><equals>=</equals><value>Z80 @ 6&amp;nbsp;MHz
+</value></part><part><name>sound</name><equals>=</equals><value>Sound CPU: Z80 @ 3&amp;nbsp;MHz&lt;br&gt;Sound Chips: (2x) YM2203 @ 1.5&amp;nbsp;MHz 
+</value></part><part><name>display</name><equals>=</equals><value>[[Raster graphics|Raster]], 224 x 256 pixels (Vertical), 256 colors
+</value></part></template>
+
+'''''1943: The Battle of Midway''''' ('''1943: Midway Kaisen''' in Japan, or ''1943: ミッドウェイ海戦'') is a vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]] [[arcade game]] released by [[Capcom]] in June <template><title>vgy</title><part><name index="1"/><value>1987</value></part></template>. 
+
+<h level="2" i="1">==Gameplay==</h>
+The game is set in the [[Pacific Theater of Operations|Pacific theater]] of [[World War II]], off the coast of the [[Midway Atoll]]. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 [[Level (video gaming)|level]]s of play, make their way to the [[Japanese battleship Yamato]] and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+
+As in [[1942 (video game)|1942]], players pilot a [[P-38 Lightning|P-38]]. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in [[1942 (video game)|1942]] or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a [[power-up]], such as a health boost or a temporary special weapons which replaces the default twin gun. [[Image: 1943_arcade.png|thumb|right|225 px|Gameplay screenshot of ''1943'']] 
+
+<h level="2" i="2">==Legacy==</h>
+
+<h level="2" i="3">==1943 Kai: The Battle of Midway==</h>
+This updated version was released exactly one year after the original game's debut. ''1943 Kai'' is an enhanced, &quot;wild&quot; version of ''1943'' that was made only available in Japan under the name '''1943 Kai: Midway Kaisen''' (or ''1943改: ミッドウェイ海戦''). Most of the graphics and sounds have been reworked, the weapons have been made more extreme  and some fairly strange things (laser-firing WWII planes and ships that run on ground) have been added. The trademark [[P-38 Lightning|P-38]] has been replaced with a [[biplane]] [[Boeing-Stearman Model 75|Boeing Stearman E75 N68828]].
+
+This version was ported by Naxat on the [[TurboGrafx-16#PC Engine|PC Engine]] as ''1943 Kai''. It was not available on the US [[TurboGrafx-16]]. The PC Engine port contains many additional levels and original music.
+The history of this game in PC Engine is same of the NES version, but your &quot;biplane&quot; is equipped during this action and his fight with new exclusives enemies and bosses.  Though it was never released in the US in arcades, it was included in [[Capcom Classics Collection]] for [[PlayStation 2]] and [[Xbox]] in 2005.
+
+<h level="2" i="4">==Ports==</h>
+Capcom released their own port for the [[Nintendo Entertainment System|NES]], but the game has also been ported to the [[Atari ST]], the [[ZX Spectrum]], the [[Amstrad CPC]], the [[Commodore 64]] and the [[Amiga]]. In <template><title>vgy</title><part><name index="1"/><value>2005</value></part></template> it was re–released for [[Xbox]] and [[PlayStation 2]] as part of ''[[Capcom Classics Collection]]'', and again in [[Capcom Classics Collection: Reloaded]] on the Playstation Portable. The overall faithfulness and quality of execution of these third party versions varies greatly. ''1943'' is the second game in the 1940s series, following the successful ''[[1942 (video game)|1942]]''.
+
+<h level="3" i="5">===1943 on the Nintendo Entertainment System===</h>
+The NES version varies from the arcade version somewhat, introducing the gradual improvement of the player's plane by permanently upgrading certain aspects of its abilities. These include the plane's offensive and defensive powers, the energy level, its special weapons and their durations. This somewhat alters the game balance and a different tactic is required to survive the game. For example, initially very few weapons are made available; more can be attained from power-ups by putting statistic points into &quot;special weapons ability&quot;. Likewise, there are statistics for offensive ability, defensive ability, total energy, and special weapon time limit. The statistics modify the rates of change for the energy reserve, damage inflicted, and special weapon time limit. 
+
+
+<h level="2" i="6">==References==</h>
+
+<h level="2" i="7">==External links==</h>
+*<template><title>KLOV game</title><part><name>id</name><equals>=</equals><value>6769</value></part></template>
+*<template><title>GameFAQs</title><part><name>type</name><equals>=</equals><value>/coinop/arcade</value></part><part><name>num</name><equals>=</equals><value>563934</value></part><part><name>name</name><equals>=</equals><value>''1943: The Battle of Midway''</value></part></template>
+*<template><title>moby game</title><part><name>id</name><equals>=</equals><value>/1943-the-battle-of-midway</value></part></template>
+*<template><title>WoS_game</title><part><name>id</name><equals>=</equals><value>0009298</value></part></template>
+
+<template lineStart="1"><title>194X series</title></template>
+
+[[Category:1987 video games]]
+[[Category:Arcade games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Capcom games]]
+[[Category:Commodore 64 games]]
+[[Category:Head-to-head arcade games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Scrolling shooters]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Video game sequels]]
+[[Category:World War II video games]]
+[[Category:ZX Spectrum games]]
+
+[[de:1943: The Battle of Midway]]
+[[es:1943: The Battle of Midway]]
+[[fr:1943: The Battle of Midway]]
+[[ja:1943 ミッドウェイ海戦]]
+[[ru:1943: The Battle of Midway]]
+[[zh:1943 中途島海戰]]</root>

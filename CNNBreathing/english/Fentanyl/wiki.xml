@@ -1,0 +1,264 @@
+<root><template><title>drugbox
+</title><part><name> verifiedrevid </name><equals>=</equals><value> 443760208
+</value></part><part><name> IUPAC_name </name><equals>=</equals><value> ''N''-(1-(2-phenylethyl)-4-piperidinyl)-''N''-phenylpropanamide
+</value></part><part><name> image </name><equals>=</equals><value> Fentanyl.svg
+</value></part><part><name> image2 </name><equals>=</equals><value> Fentanyl-xtal-3D-balls.png
+
+<comment>&lt;!--Clinical data--&gt;
+</comment></value></part><part><name> tradename </name><equals>=</equals><value> Sublimaze
+</value></part><part><name> Drugs.com </name><equals>=</equals><value> <template><title>drugs.com</title><part><name index="1"/><value>monograph</value></part><part><name index="2"/><value>fentanyl-citrate</value></part></template>
+</value></part><part><name> pregnancy_US </name><equals>=</equals><value> C
+</value></part><part><name> legal_UK </name><equals>=</equals><value> Class A
+</value></part><part><name> legal_US </name><equals>=</equals><value> Schedule II
+</value></part><part><name> dependency_liability </name><equals>=</equals><value> Moderate - High
+</value></part><part><name> routes_of_administration </name><equals>=</equals><value> [[Transdermal patch|TD]], [[Intramuscular injection|IM]], [[Intravenous therapy|IV]], oral, [[sublingual]], [[buccal mucosa|buccal]]
+
+<comment>&lt;!--Pharmacokinetic data--&gt;
+</comment></value></part><part><name> bioavailability </name><equals>=</equals><value> 92% (transdermal)&lt;br /&gt;89% (intranasal)&lt;br /&gt;50% (buccal)&lt;br /&gt;33% (ingestion)
+</value></part><part><name> protein_bound </name><equals>=</equals><value> 80-85%
+</value></part><part><name> metabolism </name><equals>=</equals><value> [[hepatic]], primarily by [[CYP3A4]]
+</value></part><part><name> elimination_half-life </name><equals>=</equals><value> (IV)= 2.5 minutes &lt;br /&gt; Intranasal = 6.5 mins &lt;br /&gt; Transdermal = 7 hours (range 3–12 h)
+</value></part><part><name> excretion </name><equals>=</equals><value> 60% Urinary (metabolites, &lt;10% unchanged drug)<ext><name>ref</name><attr> name=&quot;pmid4655287&quot;</attr><inner>{{cite journal | author = Hess R, Stiebler G, Herz A | title = Pharmacokinetics of fentanyl in man and the rabbit | journal = Eur. J. Clin. Pharmacol. | volume = 4 | issue = 3 | pages = 137–41 | year = 1972 | month = June | pmid = 4655287 | doi = 10.1007/BF00561135 }}</inner><close>&lt;/ref&gt;</close></ext>
+
+<comment>&lt;!--Identifiers--&gt;
+</comment></value></part><part><name> CASNo_Ref </name><equals>=</equals><value> <template><title>cascite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>CAS</value></part></template>
+</value></part><part><name> CAS_number_Ref </name><equals>=</equals><value> <template><title>cascite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>??</value></part></template>
+</value></part><part><name> CAS_number </name><equals>=</equals><value> 437-38-7
+</value></part><part><name> ATC_prefix </name><equals>=</equals><value> N01
+</value></part><part><name> ATC_suffix </name><equals>=</equals><value> AH01
+</value></part><part><name> ATC_supplemental </name><equals>=</equals><value>  <template><title>ATC</title><part><name index="1"/><value>N02</value></part><part><name index="2"/><value>AB03</value></part></template>
+</value></part><part><name> PubChem </name><equals>=</equals><value> 3345
+</value></part><part><name> IUPHAR_ligand </name><equals>=</equals><value> 1626
+</value></part><part><name> DrugBank_Ref </name><equals>=</equals><value> <template><title>drugbankcite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>drugbank</value></part></template>
+</value></part><part><name> DrugBank </name><equals>=</equals><value> DB00813
+</value></part><part><name> ChemSpiderID_Ref </name><equals>=</equals><value> <template><title>chemspidercite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>chemspider</value></part></template>
+</value></part><part><name> ChemSpiderID </name><equals>=</equals><value> 3228
+</value></part><part><name> UNII_Ref </name><equals>=</equals><value> <template><title>fdacite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>FDA</value></part></template>
+</value></part><part><name> UNII </name><equals>=</equals><value> UF599785JZ
+</value></part><part><name> KEGG_Ref </name><equals>=</equals><value> <template><title>keggcite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>kegg</value></part></template>
+</value></part><part><name> KEGG </name><equals>=</equals><value> D00320
+</value></part><part><name> ChEBI_Ref </name><equals>=</equals><value> <template><title>ebicite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>EBI</value></part></template>
+</value></part><part><name> ChEBI </name><equals>=</equals><value> 119915
+</value></part><part><name> ChEMBL_Ref </name><equals>=</equals><value> <template><title>ebicite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>EBI</value></part></template>
+</value></part><part><name> ChEMBL </name><equals>=</equals><value> 596
+
+<comment>&lt;!--Chemical data--&gt;
+</comment></value></part><part><name> C</name><equals>=</equals><value>22 </value></part><part><name> H</name><equals>=</equals><value>28 </value></part><part><name> N</name><equals>=</equals><value>2 </value></part><part><name> O</name><equals>=</equals><value>1
+</value></part><part><name> molecular_weight </name><equals>=</equals><value> 336.471 g/mol
+</value></part><part><name> smiles </name><equals>=</equals><value> O=C(N(c1ccccc1)C3CCN(CCc2ccccc2)CC3)CC
+</value></part><part><name> InChI </name><equals>=</equals><value> 1/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3
+</value></part><part><name> StdInChI_Ref </name><equals>=</equals><value> <template><title>stdinchicite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>chemspider</value></part></template>
+</value></part><part><name> StdInChI </name><equals>=</equals><value> 1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3
+</value></part><part><name> StdInChIKey_Ref </name><equals>=</equals><value> <template><title>stdinchicite</title><part><name index="1"/><value>correct</value></part><part><name index="2"/><value>chemspider</value></part></template>
+</value></part><part><name> StdInChIKey </name><equals>=</equals><value> PJMPHNIQZUBGLI-UHFFFAOYSA-N
+</value></part><part><name> melting_point </name><equals>=</equals><value> 87.5
+</value></part></template>
+
+'''Fentanyl''' (also known as '''fentanil''', brand names Sublimaze,<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.drugs.com/pro/sublimaze.html |title=Sublimaze Official FDA information, side effects and uses |publisher=Drugs.com |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> [[Actiq]], [[Durogesic|Durogesic, Duragesic]], Fentora, Onsolis,<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.onsolis.com |title=Introducing Onsolis |publisher=Onsolis.com |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> Instanyl,<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.emea.europa.eu/pdfs/human/opinion/Instanyl_6503109en.pdf |title=London, 23 April 2009 |format=PDF |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> Abstral,<ext><name>ref</name><attr/><inner>{{cite web|url=http://newdrugreview.com/index.php/analgesic-drugs/abstral-fentanyl |title=Abstral: Prescribing Information |date= |accessdate=2011-01-07}}</inner><close>&lt;/ref&gt;</close></ext>, Lazanda<ext><name>ref</name><attr/><inner>http://www.lazanda.com/</inner><close>&lt;/ref&gt;</close></ext> and others) is a potent synthetic [[narcotic analgesic]] with a rapid onset and short duration of action.<ext><name>ref</name><attr/><inner>{{cite web|url=http://aspi.wisc.edu/wpi/focus/spring96.htm |title=WCPI Focus on Pain Series: The Three Faces of Fentanyl |publisher=Aspi.wisc.edu |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> It is a strong agonist at the [[mu opioid receptor|μ-opioid]] receptors. Historically it has been used to treat [[Pain#Breakthrough_pain|breakthrough pain]] and is commonly used in pre-procedures as a pain reliever  as well as an [[anesthetic]] in combination with a [[benzodiazepine]].<ext><name>ref</name><attr/><inner>onlinelawyerssource.com [http://www.onlinelawyersource.com/fentanyl/iv/ Fentanyl I.V.] Retrieved December 23, 2010.</inner><close>&lt;/ref&gt;</close></ext>
+
+Fentanyl is approximately 100 times more potent than [[morphine]],<ext><name>ref</name><attr> name=&quot;MedsafeNZ&quot;</attr><inner>{{cite web|url=http://www.medsafe.govt.nz/profs/Datasheet/f/FentanylcitrateinjUSP.htm|title=DBL FENTANYL INJECTION|work=Medsafe|accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> with 100&amp;nbsp;micrograms of fentanyl approximately equivalent to 10&amp;nbsp;mg of morphine and 75&amp;nbsp;mg of [[pethidine]] (meperidine) in analgesic activity.<ext><name>ref</name><attr> name=&quot;MedsafeNZ&quot;</attr><inner>{{cite web|url=http://www.medsafe.govt.nz/profs/Datasheet/f/FentanylcitrateinjUSP.htm |title=Data Sheet |publisher=Medsafe.govt.nz |date=2008-03-01 |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> It has an <template><title>LD50</title></template> of 3.1&amp;nbsp;milligrams per kilogram in rats, and an LD&lt;sub&gt;50&lt;/sub&gt; of 0.03&amp;nbsp;milligrams per kilogram in monkeys.
+
+Fentanyl was first synthesized by Dr. [[Paul Janssen]] in 1960<ext><name>ref</name><attr/><inner>{{cite journal |doi=10.1016/0885-3924(92)90047-L |author=Stanley TH.|title=The history and development of the fentanyl series. |journal=J Pain Symptom Manage. |volume=7 |issue=3 |pages= S3–7|year=1992 |pmid= 1517629}}</inner><close>&lt;/ref&gt;</close></ext> following the medical inception of pethidine several years earlier. Janssen developed fentanyl by assaying analogues of the structurally-related drug pethidine for opioid activity.<ext><name>ref</name><attr/><inner>{{cite journal|doi=10.1021/jm040195b|url=http://www.pauljanssenaward.com/janssen/A_Personal_Perspective.pdf#zoom=100|title=A Personal Perspective on Dr. Paul Janssen|author=Sir James Black|
+journal=J. Med. Chem.|year=2005|volume=48|issue=6|pages=1687–1688|accessdate=2010-07-28|pmid=15771410}}</inner><close>&lt;/ref&gt;</close></ext> The widespread use of fentanyl triggered the production of fentanyl citrate (the salt formed by combining fentanyl and citric acid in a 1:1 stoichiometry),<ext><name>ref</name><attr/><inner>{{cite web|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=10055 |title=DailyMed: About DailyMed |publisher=Dailymed.nlm.nih.gov |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> which entered the clinical practice as a general anaesthetic under the trade name Sublimaze in the 1960s. Following this, many other fentanyl analogues were developed and introduced into the medical practice, including [[sufentanil]], [[alfentanil]], [[remifentanil]], and [[lofentanil]].
+
+In the mid 1990s, fentanyl saw its first widespread palliative use with the clinical introduction of the [[Duragesic]] patch, followed in the next decade by the introduction of the first quick-acting prescription formations of fentanyl for personal use, the [[Actiq]] lollipop and [[Fentora]] buccal tablets. Through the delivery method of [[transdermal patches]], fentanyl is currently the most widely used synthetic opioid in clinical practice, with several new delivery methods currently in development.<ext><name>ref</name><attr/><inner>{{cite web|url=http://clinicaltrials.gov/ct2/show/NCT00538863 |title=Long Term Safety and Efficacy Study of Fentanyl Sublingual Spray for the Treatment of Breakthrough Cancer Pain - Full Text View |publisher=ClinicalTrials.gov |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext>
+
+As of October 2011 there is currently a fentanyl shortage in the United States.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.ashp.org/DrugShortages/Current/Bulletin.aspx?id=647 |title=American Society of Health-System Pharmacists |publisher=www.ashp.org |date= |accessdate=2011-10-31}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==Medical uses==</h>
+[[Image:Fentanyl Transdermal System 50 mcg Patch.jpg|thumb|Fentanyl Transdermal System patch (50 µg/h).]]
+Intravenous fentanyl is extensively used for [[anesthesia]] and [[analgesia]], most often in operating rooms and intensive care units. It is also administered in combination with a [[benzodiazepine]], such as [[midazolam]], to produce procedural sedation for endoscopy, cardiac catheterization, oral surgery, etc., and is often used in the [[pain management|management]] of [[chronic pain]] including [[cancer pain]].
+
+It has also been found to be useful to improve the actions of local anesthetic during root canal treatment. According to E.A. Elsharrawy in the Journal of Pain Symptom Management (33; 203-207, 2007), the intraligamentary injection of 0.4 ml of fentanyl (0.05&amp;nbsp;mg/ml) was highly effective in reducing pain when used concurrently with local anesthetic for a pulpectomy procedure (where the &quot;hot&quot; nerve is removed).
+
+Fentanyl [[transdermal patch]] (Durogesic/Duragesic/Matrifen) is used in chronic pain management. The patches work by releasing fentanyl into body fats, which then slowly release the drug into the bloodstream over 48 to 72 hours, allowing for long-lasting relief from pain. The patches are available in [[Generic drug|generic]] form and are available for lower costs. Fentanyl patches are manufactured in five patch sizes: 12 [[micrograms]]/hour, 25&amp;nbsp;µg/h, 50&amp;nbsp;µg/h, 75&amp;nbsp;µg/h, and 100&amp;nbsp;µg/h. Dosage is based on the size of the patch, since the transdermal absorption rate is generally constant at a constant skin temperature.
+
+Rate of absorption is dependent on a number of factors. Body temperature, skin type, amount of body fat, and placement of the patch can have major effects. The different delivery systems used by different makers will also affect individual rates of absorption. The typical patch will take effect under normal circumstances usually within 8–12 hours, thus fentanyl patches are often prescribed with another opiate (such as morphine or [[oxycodone]]) to handle breakthrough pain.
+
+Fentanyl lozenges ([[Actiq]]) are a solid formulation of fentanyl citrate on a [[lollipop|stick]] in the form of a lollipop that dissolves slowly in the mouth for transmucosal absorption. These lozenges are intended for opioid-tolerant individuals and are effective in treating breakthrough cancer pain. It is also useful for breakthrough pain for those suffering bone injuries, severe back pain, neuropathy, arthritis, and some other examples of chronic nonmalignant pain. The unit is a berry-flavored lozenge on a stick which is swabbed on the mucosal surfaces inside the mouth&amp;mdash;inside of the cheeks, under and on the tongue and gums&amp;mdash;to release the fentanyl quickly into the system. It is most effective when the lozenge is consumed in 15 minutes. The drug is less effective if swallowed, as despite good absorbance from the small intestine there is extensive first-pass metabolism, leading to an oral bioavailability of 33%. Fentanyl lozenges are available in six dosages, from 200 to 1600&amp;nbsp;µg in 200&amp;nbsp;µg increments (excluding 1000&amp;nbsp;µg and 1400&amp;nbsp;µg). These are now available in the United States in generic form,<ext><name>ref</name><attr> name=Actiq_generic</attr><inner>{{cite press release | title = Barr Launches Generic ACTIQ(R) Cancer Pain Management Product | publisher = [[Barr Pharmaceuticals]] | date = 27 September 2006 | url = http://www.lifesciencesworld.com/news/view/9520 | accessdate = 30 September 2006 }}</inner><close>&lt;/ref&gt;</close></ext> through an [[FTC]] consent agreement.<ext><name>ref</name><attr> name=FTC</attr><inner>{{cite press release | title = With Conditions, FTC Allows Cephalon’s Purchase of CIMA, Protecting Competition for Breakthrough Cancer Pain Drugs | publisher = [[FTC]] | date = 9 August 2004 | url = http://www.ftc.gov/opa/2004/08/cimacephalon.htm | accessdate = 30 September 2006 }}</inner><close>&lt;/ref&gt;</close></ext> However, most patients find it takes 10–15 minutes to use all of one lozenge, and those with a dry mouth cannot use this route. In addition, nurses are unable to document how much of a lozenge has been used by a patient, making drug records inaccurate.
+
+Over 2008-09, a wide range of fentanyl preparations became available, including buccal tablets or patches, nasal sprays, inhalers and active transdermal patches (heat or electrical). High-quality evidence for their superiority over existing preparations is currently lacking. Some preparations such as nasal sprays and inhalers may result in a rapid response, but the fast onset of high blood levels may compromise safety (see below). In addition, the expense of some of these appliances may greatly reduce their cost-effectiveness.
+
+On July 16, 2009 the FDA approved Onsolis (BEMA Fentanyl) for breakthrough cancer pain. Onsolis incorporates &quot;bioerodible mucoadhesive&quot; technology, a small soluble film that contains fentanyl which is placed on the inside cheek of the mouth.
+
+In [[palliative care]], transdermal fentanyl has a definite, but limited, role for:
+
+* Patients already stabilized on other opioids who have persistent swallowing problem and cannot tolerate other parenteral routes such as subcutaneous administration.
+* Patients with moderate to severe [[renal failure]].
+* Troublesome adverse effects on morphine, [[hydromorphone]] or oxycodone.
+
+Fentanyl is sometimes given intrathecally as part of [[spinal anesthesia]] or epidurally for [[epidural anesthesia]] and [[epidural analgesia|analgesia]]. Because of fentanyl's high lipid solubility, its effects are more localized than morphine and some clinicians prefer to use morphine to get a wider spread of analgesia.
+
+<h level="2" i="2">==Adverse effects==</h>
+Fentanyl's major side effects (more than 10% of patients) include diarrhea, nausea, constipation, dry mouth, somnolence, confusion, [[asthenia]] (weakness), and sweating and, less frequently (3 to 10% of patients), abdominal pain, headache, fatigue, anorexia and weight loss, dizziness, nervousness, hallucinations, anxiety, depression, flu-like symptoms, [[dyspepsia]] (indigestion), [[dyspnea]] (shortness of breath), [[hypoventilation]], [[apnea]], and urinary retention. Fentanyl use has also been associated with [[aphasia]].<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.drugs.com/pro/fentanyl-transdermal.html#A02A9CB6-35CF-4F01-A980-C3733E0F861A |title=Fentanyl Transdermal Official FDA information, side effects and uses |publisher=Drugs.com |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Despite being a more potent analgesic, fentanyl tends to induce less nausea, as well as less [[histamine]]-mediated itching, in relation to morphine.<ext><name>ref</name><attr> name=&quot;medscape.com&quot;</attr></ext>
+
+Like other lipid-soluble drugs, the pharmacodynamics of fentanyl are poorly understood. The manufacturers acknowledge there is no data on the pharmacodynamics of fentanyl in elderly, [[cachexia|cachectic]] or debilitated patients, frequently the type of patient for whom transdermal fentanyl is being used. This may explain the increasing number of reports of [[respiratory depression]] events since the late 1970s.<ext><name>ref</name><attr/><inner>{{cite journal | author = Smydo J. | title = Delayed respiratory depression with fentanyl | journal = Anesthesia Progress | volume = 26 | issue = 2 | pages = 47–48 | year = 1979 | pmid = 295585 | pmc = 2515983}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = van Leeuwen L. Deen L. Helmers JH. | title = A comparison of alfentanil and fentanyl in short operations with special reference to their duration of action and postoperative respiratory depression | journal = Anaesthesist | volume = 30 | issue = 8 | pages = 397–399 | year = 1981 | pmid = 6116461}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = Brown DL | title = Postoperative analgesia following thoracotomy. Danger of delayed respiratory depression | journal = Chest | volume = 88 | issue = 5 | pages = 779–780 | year = 1985 | doi = 10.1378/chest.88.5.779 | pmid = 4053723}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = Bulow HH. Linnemann M. Berg H. Lang-Jensen T. LaCour S. Jonsson T. | title = Respiratory changes during treatment of postoperative pain with high dose transdermal fentanyl | journal = Acta Anaesthesiologica Scandinavica | year = 1995 | volume = 39 | issue = 6 | pages = 835–839 | doi = 10.1111/j.1399-6576.1995.tb04180.x | pmid = 7484044}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = Nilsson C. Rosberg B. | title = Recurrence of respiratory depression following neurolept analgesia | journal = Acta Anaesthesiologica Scandinavica | volume = 26 | issue = 3 | pages = 240–241 | year = 1982 | doi = 10.1111/j.1399-6576.1982.tb01762.x | pmid = 7113633}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = McLoughlin R. McQuillan R. | title = Transdermal fentanyl and respiratory depression | journal = Palliative Medicine | year = 1997 | volume = 11 | issue = 5 | pages = 419 | doi = 10.1177/026921639701100515}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite journal | author = Regnard C, Pelham A. | title = Severe respiratory depression and sedation with transdermal fentanyl: four case studies | journal = Palliative Medicine | year = 2003 | volume = 17 | pages = 714–716 | pmid = 14694924 | issue = 8}}</inner><close>&lt;/ref&gt;</close></ext> In 2006 the [[U.S. Food and Drug Administration]] began investigating several respiratory deaths, but doctors in the United Kingdom had to wait until September 2008 before being warned of the risks with fentanyl.<ext><name>ref</name><attr/><inner>Drug Safety Update, vol 2(2) September 2008 p2. Available online on http://www.mhra.gov.uk/Publications/Safetyguidance/DrugSafetyUpdate/CON025631</inner><close>&lt;/ref&gt;</close></ext>
+
+The precise reason for sudden respiratory depression is unclear, but there are several hypotheses:
+
+* Saturation of the body fat compartment in patients with rapid and profound body fat loss (patients with cancer, cardiac or infection-induced [[cachexia]] can lose 80% of their body fat).
+* Early carbon dioxide retention causing cutaneous vasodilatation (releasing more fentanyl), together with acidosis which reduces protein binding of fentanyl, releasing yet more fentanyl.
+* Reduced sedation, losing a useful early warning sign of opioid toxicity and resulting in levels closer to respiratory depressant levels.
+
+Fentanyl has a [[therapeutic index]] of 270.<ext><name>ref</name><attr/><inner>{{cite book
+| title = New Anesthetic Agents, Devices, and Monitoring Techniques
+| url=http://books.google.com/?id=msYvkdGM6F0C&amp;pg=PA122&amp;lpg=PA122&amp;dq=fentanyl+%22therapeutic+index%22+-narrow+-carfentanil
+| accessdate = 20 October 2007
+| publisher = Springer
+| isbn = 9789024727964
+| author1 = Stanley, Theodore Henry
+| author2 = Petty, William Clayton
+| date = 1983-03-31
+}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="3">===Post-acute withdrawal effects===</h>
+According to a range of [[Post-acute-withdrawal syndrome#References|Medical journals]] there is also an often under-emphasized potential for [[Post-acute-withdrawal syndrome]] which may last until after the initial short-term. [[Post-acute-withdrawal syndrome]] may induce or mimic psychiatric disorders temporarily or long term such as [[Depression (clinical)]], [[Anxiety disorder]], [[Psychosis]] and in rare cases, even [[Suicidal ideation]]. [[Post-acute-withdrawal syndrome]] will continue for some months (usually 1–3 months or more) after prolonged cessation of usage which is also [[reference]]d in the [[Post-acute-withdrawal syndrome#References|Medical journals on Post-acute withdrawal syndrome (PAWS)]].<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>September 2011</value></part></template>
+
+<h level="2" i="4">==Mechanism of action==</h>
+Fentanyl provides some of the effects typical of other opioids through its agonism of the opioid receptors. Its strong potency in relation to that of morphine is largely due to its high [[lipophilicity]]. Because of this, it can more easily penetrate the [[Central Nervous System|CNS]].<ext><name>ref</name><attr> name=&quot;medscape.com&quot;</attr><inner>Stacey Mayes, PharmD MS, Marcus Ferrone, PharmD BCNSP, 2006. [http://www.medscape.com/viewarticle/549359_3 Fentanyl HCl Patient-Controlled Iontophoretic Transdermal System for Pain: Pharmacology] The Annals of Pharmacotherapy</inner><close>&lt;/ref&gt;</close></ext>
+Main article: see [[Opioid#Pharmacology|Opioid]]
+
+<h level="2" i="5">==Chemistry==</h>
+<h level="3" i="6">===Synthesis===</h>
+The synthesis of fentanyl [http://cdb.ics.uci.edu/CHEMDB/Web/cgibin/ChemicalDetailWeb.py?chemical_id=3966642 (''N''-phenyl-''N''-(1-phenethyl-4-piperidinyl)propanamide)] by [[Janssen Pharmaceutica]] was achieved in four steps, starting from [[4-piperidinone]] hydrochloride. The sequence commenced with ''N''-alkylation of 4-piperidinone with [[2-phenylethylbromide]] to give [[N-phenethyl-4-piperidinone]] (NPP). Reductive amination of NPP using [[aniline]] and [[sodium borohydride]] afforded 4-anilino-''N''-phenethyl-piperidine (ANPP). Finally N-acylation of the tertiary amine with [[propionic anhydride]] provided fentanyl.
+
+<h level="3" i="7">===Analogues===</h>
+The pharmaceutical industry has developed several analogues of fentanyl:
+
+* [[Alfentanil]] (trade name '''Alfenta'''), an ultra-short-acting (five to 10 minute) analgesic.
+* [[Sufentanil]] (trade name '''Sufenta'''), a potent analgesic (five to 10 times more potent than fentanyl) for use in specific surgeries and surgery in heavily opioid-tolerant/opioid-dependent patients. Its binding affinity is high enough to theoretically break through a [[buprenorphine]] blockade to offer pain relief from acute trauma in patients who are taking high-dose buprenorphine.
+* [[Remifentanil]] (trade name '''Ultiva'''), currently the shortest-acting opioid, has the benefit of rapid offset, even after prolonged infusions.
+* [[Carfentanil]] (trade name '''Wildnil''') is an analogue of fentanyl with an analgesic potency 10,000 times that of morphine and is used in veterinary practice to immobilize certain large animals such as elephants.
+* [[Lofentanil]] is an analogue of fentanyl with a potency slightly greater than carfentanil.
+
+A number of other fentanyl analogues exist which are classified in the USA as [[Schedule I drug]]s, meaning that they have &quot;no currently accepted medical use&quot;.<ext><name>ref</name><attr/><inner>21 U.S.C. § 812(b)(1)(B) (2002).</inner><close>&lt;/ref&gt;</close></ext> Many of these drugs have been sold on the street as &quot;China White&quot;.<ext><name>ref</name><attr> name=&quot;deadiversion.usdoj.gov&quot;</attr><inner>[http://www.deadiversion.usdoj.gov/schedules/listby_sched/sched1.htm List of Schedule I Drugs, U.S. Department of Justice.]</inner><close>&lt;/ref&gt;</close></ext> These drugs include:
+
+* [[3-Methylfentanyl]] (thought to be the active constituent of [[Kolokol-1]], a [[chemical weapon]])
+* [[3-Methylthiofentanyl]]
+* [[Alphamethylacetylfentanyl|Acetyl-α-methylfentanyl]]
+* [[Alphamethylfentanyl|α-methylfentanyl]] [[Fentanyl#Illicit use|(see below)]]
+* [[Alphamethylthiofentanyl|α-methylthiofentanyl]]
+* [[Beta-hydroxy-3-methylfentanyl|β-hydroxy-3-methylfentanyl]]
+* [[Beta-hydroxyfentanyl|β-hydroxyfentanyl]]
+* [[Parafluorofentanyl|''p''-flurorofentanyl]]
+* [[Thiofentanyl]]<ext><name>ref</name><attr> name=&quot;deadiversion.usdoj.gov&quot;</attr></ext>
+
+<h level="2" i="8">==History==</h>
+Fentanyl was first synthesized by [[Paul Janssen]] under the label of his relatively newly formed [[Janssen Pharmaceutica]] in 1959. In the 1960s, fentanyl was introduced as an intravenous anesthetic under the trade name of Sublimaze.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>December 2010</value></part></template> In the mid-1990s, Janssen Pharmaceutica developed and introduced into clinical trials the Duragesic patch, which is a formation of an inert alcohol gel infused with select fentanyl doses which are worn to provide constant administration of the opioid over a period of 48 to 72&amp;nbsp;hours. After a set of successful clinical trials, Duragesic fentanyl patches were introduced into the medical practice.
+
+Following the patch, a flavored lollipop of fentanyl citrate mixed with inert fillers was introduced under the brand name of Actiq, becoming the first quick-acting formation of fentanyl for use with chronic breakthrough pain. More recently, fentanyl has been developed into an effervescent tab for [[buccal]] absorption much like the Actiq lollipop, followed by a buccal spray device for fast-acting relief and other delivery methods currently in development.
+
+A new fentanyl product has been approved by the FDA for breakthrough cancer pain called Onsolis. It uses a new drug delivery technology called BEMA (fentanyl buccal soluble film) which is placed in the mouth on a small disc. There appears to be less abuse potential because the drug can not be crushed up and snorted like other fentanyl products.
+
+<h level="2" i="9">==Society and culture==</h>
+<h level="3" i="10">===Illicit use===</h>
+<template lineStart="1"><title>Globalize/US</title><part><name>section</name><equals>=</equals><value>y</value></part><part><name>date</name><equals>=</equals><value>September 2011</value></part></template>
+[[Image:deafentanyl.jpg|thumb|right|Fentanyl powder seized by a [[Lake County, Ohio|Lake County]] Deputy Sheriff in [[Painesville, Ohio]], where a male subject had been discovered unresponsive and struggling to breathe.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.usdoj.gov/dea/programs/forensicsci/microgram/mg0606/mg0606.html|title=DEA Microgram Bulletin, June 2006 |date = June 2006|publisher=US Drug Enforcement Administration, Office of Forensic Sciences Washington, D.C. 20537|accessdate=22 June 2009}}</inner><close>&lt;/ref&gt;</close></ext>]]
+[[Drug abuse|Illicit use]] of pharmaceutical fentanyls first appeared in the mid-1970s in the medical community and continues in the present. United States authorities classify fentanyl as a [[narcotic]]. To date, more than 12 different analogues of fentanyl have been produced [[clandestine chemistry|clandestinely]] and identified in the U.S. drug traffic. The biological effects of the fentanyls are similar to those of [[heroin]], with the exception that many users report a noticeably less euphoric &quot;high&quot; associated with the drug and stronger sedative and analgesic effects.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>July 2010</value></part></template>
+
+The use of fentanyl has caused death. Because the effects of fentanyl last for only a very short time, regular users may become addicted very quickly.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>June 2010</value></part></template> Additionally, fentanyl may be hundreds of times more potent than street heroin, and tends to produce significantly worse [[respiratory depression]], making it somewhat more dangerous than heroin to users. Fentanyl is most commonly used orally, but like heroin, can also be smoked, snorted or injected. Fentanyl is sometimes sold as heroin, often leading to overdoses. Many fentanyl overdoses are initially classified as heroin overdoses.<ext><name>ref</name><attr/><inner>Boddiger, D. (2006, August 12). [http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969181-2/fulltext Fentanyl-laced street drugs “kill hundreds”]. The Lancet. Retrieved June 15, 2010.</inner><close>&lt;/ref&gt;</close></ext>
+
+Fentanyl is normally sold on the black market in the form of transdermal fentanyl patches such as [[Duragesic]], diverted from legitimate medical supplies. The patches may be cut up and eaten, or the gel from inside the patch smoked. To prevent the removal of the fentanyl base, [[Janssen-Cilag]], the inventor of the Fentanyl patch, designed the Durogesic patch. The Durogesic patches contain their fentanyl throughout the plastic matrix instead of gel incorporated into a reservoir on the patch. Manufacturers such as [[Mylan Laboratories Inc.|Mylan]] and [[Sandoz]] have also produced Durogesic-style fentanyl patches that contain the chemical in a silicone matrix, preventing the removal of the fentanyl-containing gel present in other products. The plastic matrix makes the patches far less suitable to transbuccal use and far more difficult to use illicitly than its gel-filled counterpart.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.fda.gov/OHRMS/DOCKETS/dockets/04p0506/04p-0506-c000001-06-Tab-04-Flynn-vol1.pdf|title=Declaration of Gordon Flynn, Ph.D.|date=2004-12-22|accessdate=2010-07-28|format=pdf}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Another dosage form of fentanyl that has appeared on the streets are the Actiq fentanyl lollipops, which are sold under the street name of &quot;percopop&quot;. The pharmacy retail price ranges from US$10 to US$30 per unit (based on strength of lozenge), with the black market cost anywhere from US$15 to US$40 per unit, depending on the strength.
+
+Non-medical use of fentanyl by individuals without opiate tolerance can be very dangerous and has resulted in numerous deaths.<ext><name>ref</name><attr/><inner>http://www.deadiversion.usdoj.gov/drugs_concern/fentanyl.htm</inner><close>&lt;/ref&gt;</close></ext> Even those with opiate tolerances are at high risk for overdoses. Once the fentanyl is in the user's system it is extremely difficult to stop its course because of the nature of absorption. Illicitly synthesized fentanyl powder has also appeared on the United States market. Because of the extremely high strength of pure fentanyl powder, it is very difficult to dilute appropriately, and often the resulting mixture may be far too strong and, consequently, very dangerous.
+
+Some heroin dealers mix fentanyl powder with heroin to increase potency or compensate for low-quality heroin. In 2006, illegally manufactured, non-pharmaceutical fentanyl often mixed with [[cocaine]] or [[heroin]] caused an outbreak of overdose deaths in the United States, heavily concentrated in the cities of [[Dayton]], [[Ohio]], [[Chicago]], [[Detroit]], and [[Philadelphia]].<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5729a1.htm |title=CDC MMWR Nonpharmaceutical Fentanyl-Related Deaths - Multiple States, April 2005-March 2007 |publisher=Cdc.gov |date= |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> [[Baltimore]], [[Pittsburgh]], [[St. Louis]], [[Milwaukee]], [[Camden, New Jersey]],<ext><name>ref</name><attr/><inner>[http://www.chicagopolice.org/MailingList/PressAttachment/releaseheroinhomicide.pdf Press Release by the Chicago Police Department] Police report about a death linked to heroin/fentanyl mixture August 24, 2006</inner><close>&lt;/ref&gt;</close></ext> [[Little Rock]], and [[Dallas]]<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/122106dnmetsmudrug.2b395050.html |title=SMU student's death blamed on rare drug |publisher=Dallasnews.com |date=2006-12-20 |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext> were also affected. The mixture of fentanyl and heroin is known as &quot;magic&quot; or &quot;the bomb,&quot; among other names, on the street.<ext><name>ref</name><attr/><inner>[http://www.detnews.com/apps/pbcs.dll/article?AID=/20060623/METRO/606230339/1003 Fentanyl probe nets 3 suspects] by Norman Sinclair and Ronald J. Hansen, The Detroit News, June 23, 2006. Retrieved June 25, 2006.</inner><close>&lt;/ref&gt;</close></ext>
+
+Several large quantities of illicitly produced fentanyl have been seized by U.S. law enforcement agencies. In June 2006, 945&amp;nbsp;grams of 83% pure fentanyl powder was seized by [[Border Patrol]] agents in California from a vehicle which had entered from Mexico.<ext><name>ref</name><attr/><inner>[http://www.usdoj.gov/dea/programs/forensicsci/microgram/mg0606/mg0606.html INTELLIGENCE ALERT: HIGH PURITY FENTANYL SEIZED NEAR WESTMORELAND, CALIFORNIA], DEA Microgram, June 2006</inner><close>&lt;/ref&gt;</close></ext> Mexico is the source of much of the illicit fentanyl for sale in the U.S. However, in April 2006 there was one domestic fentanyl lab discovered by law enforcement in [[Azusa, California]]. The lab was a source of counterfeit 80-mg [[oxycodone|OxyContin]] tablets containing fentanyl instead of oxycodone, as well as bulk fentanyl and other drugs.<ext><name>ref</name><attr/><inner>[http://www.usdoj.gov/dea/programs/forensicsci/microgram/mg0406/mg0406.html INTELLIGENCE ALERT: LARGE FENTANYL / MDA / TMA LABORATORY IN AZUZA, CALIFORNIA - POSSIBLY THE “OC-80” TABLET SOURCE], DEA Microgram, April 2006.</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://www.usdoj.gov/dea/programs/forensicsci/microgram/mg0106/mg0106.html INTELLIGENCE ALERT: OXYCONTIN MIMIC TABLETS (CONTAINING FENTANYL) NEAR ATLANTIC, IOWA], DEA Microgram, January 2006.</inner><close>&lt;/ref&gt;</close></ext>
+
+The &quot;China White&quot; form of fentanyl refers to any of a number of clandestinely produced analogues, especially [[Alphamethylfentanyl|α-methylfentanyl]] (AMF).<ext><name>ref</name><attr/><inner>[http://www.deadiversion.usdoj.gov/schedules/listby_sched/sched1.htm List of Schedule I Drugs, U.S. Department of Justice.]{{dead link|date=November 2010}}</inner><close>&lt;/ref&gt;</close></ext> This Department of Justice document lists &quot;China White&quot; as a synonym for a number of fentanyl analogues, including 3-methylfentanyl and α-methylfentanyl,<ext><name>ref</name><attr/><inner>[http://www.erowid.org/archive/rhodium/chemistry/china.white.identification.html Behind the Identification of China White] Analytical Chemistry, 53(12), 1379A-1386A (1981)</inner><close>&lt;/ref&gt;</close></ext> which today are classified as [[Schedule I drug]]s in the United States.<ext><name>ref</name><attr> name=&quot;deadiversion.usdoj.gov&quot;</attr></ext> Part of the motivation for AMF is that despite the extra difficulty from a synthetic standpoint, the resultant drug is relatively more resistant to metabolic degradation. This results in a drug with an increased duration.<ext><name>ref</name><attr/><inner>{{cite journal |author=Van Bever W, Niemegeers C, Janssen P |title=Synthetic analgesics. Synthesis and pharmacology of the diastereoisomers of N-(3-methyl-1-(2-phenylethyl)-4-piperidyl)-N-phenylpropanamide and N-(3-methyl-1-(1-methyl-2-phenylethyl)-4-piperidyl)-N-phenylpropanamide |journal=J Med Chem |volume=17 |issue=10 |pages=1047–51 |year=1974 |pmid=4420811 |doi=10.1021/jm00256a003}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="11">===Military use===</h>
+A derivative of fentanyl may have been used as the [[Moscow hostage crisis chemical agent]].<ext><name>ref</name><attr/><inner>{{cite news |url=http://archives.cnn.com/2002/WORLD/europe/10/30/moscow.gas/index.html|title=Russia names Moscow siege gas | work=CNN | date=2002-10-30}}</inner><close>&lt;/ref&gt;</close></ext>
+
+The [[Danish Army]] is also using the fentanyl stick in military operations as a pain killer. In the documentary film &quot;Armadillo&quot; (2010), a medic mentions the actual use of fentanyl on a severely wounded Danish soldier in Afghanistan. <template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>April 2010</value></part></template>
+
+[[United States Air Force]] [[United States Air Force Pararescue|Pararescue]] uses lollipops with fentanyl.<ext><name>ref</name><attr/><inner>{{cite web |url=http://www.wired.com/dangerroom/2009/09/airborne_emts_in_astan/ |title=Airborne EMTs Shave Seconds to Save Lives in Afghanistan |last=Shachtman |first=Noah |date=September 10, 2009 |work= |publisher=[[Wired (magazine)|Wired.com]] |accessdate=July 1, 2010}}</inner><close>&lt;/ref&gt;</close></ext>
+
+[[Mossad]] agents used levofentanyl in their 1997 attempt to kill [[Hamas]] leader [[Khaled Mashal|Khalid Mishal]].<ext><name>ref</name><attr/><inner>McGeough, Paul (2009) ''Kill Khalid - The Failed Mossad Assassination of Khalid Mishal and the Rise of Hamas.'' Quartet Books. ISBN 978-0-7043-7157-6. Page 184.</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="12">===Overdoses, recalls, and legal action===</h>
+A number of fatal fentanyl overdoses have been directly tied to the drug over the past several years. In particular, manufacturers of time-release fentanyl patches have come under scrutiny for defective products. While the fentanyl contained in the patches was safe, a malfunction of the patches caused an excessive amount of fentanyl to leak and become absorbed by patients, resulting in life-threatening side effects and even death. Regardless, Fentanyl is considered the most safe opioid medication on the market, as well as the least harmful to the physical body, especially with long-term or life-term use.<ext><name>ref</name><attr/><inner>{{cite web
+| title=Fentanyl Patch Drug Associated with Overdoses &amp; Death Claims
+| url=http://virginiabeach.injuryboard.com/defective-and-dangerous-products/fentanyl-patch-drug-associated-with-overdoses-death-claims.aspx?googleid=250866
+| first=Rick
+| last=Shapiro
+| publisher=InjuryBoard.com
+| date=5 November 2008
+| accessdate=31 August 2009
+}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web
+| title=Fentanyl Pain Patch Fatal Overdose Risk Causes Watson Patch Recall
+| url=http://www.bagoliefriedman.com/news_item.asp?NewsID=495
+| publisher=BagolieFriedman.com
+| date=13 August 2009
+| accessdate=31 August 2009
+}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Manufacturers of fentanyl transdermal pain patches have voluntarily recalled numerous lots of their patches, and the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) has issued public health advisories related to fentanyl patch dangers. Manufacturers affected include Janssen Pharmaceutica Products, L.P.; Alza Corporation; Actavis South Atlantic, LLC; Sandoz; and Cephalon, Inc.<ext><name>ref</name><attr/><inner>{{cite web
+| url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/DrugSafetyInformationforHeathcareProfessionals/ucm084307.htm
+| title=Fentanyl Transdermal System (marketed as Duragesic and generics)
+| date=30 April 2009
+| publisher=[[Food and Drug Administration (United States)|FDA]]
+| work=Postmarket Drug Safety Information for Patients and Providers
+| accessdate=31 August 2009
+}}</inner><close>&lt;/ref&gt;</close></ext>
+
+On September 25, 2002 Former WWF (E) &amp; ECW professional wrestler &quot;Pitbull #2&quot; [[Anthony Durante]] was found dead in his home alongside his wife, whom also was found dead. They both died from a Fentanyl overdose. Their 2 infant children were found inside the home alive and well.
+
+On May 24, 2009, [[Wilco (band)|Wilco's]] former guitarist [[Jay Bennett]] died in his sleep of an overdose of the drug via Duragesic time-release patches, which he was prescribed.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.chicagobreakingnews.com/2009/06/coroner-painkiller-killed-ex-wilco-member.html |title=Coroner: Painkiller killed ex-Wilco member |publisher=Chicago Tribune |date=2009-06-23 |accessdate=2010-08-20}}</inner><close>&lt;/ref&gt;</close></ext>
+
+In 2010, [[Slipknot (band)|Slipknot's]] bassist [[Paul Gray (American musician)|Paul Gray]] died after accidentally overdosing on a mixture of fentanyl and morphine.<ext><name>ref</name><attr/><inner>{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment_and_arts/10372085.stm |title=Slipknot bassist Paul Gray died of morphine overdose |publisher=BBC News |date=2010-06-21 |accessdate=2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext>
+
+An inquest jury found by a majority verdict of 3-2 that an overdose of fentanyl was responsible for the [[death by misadventure]] of [[Anita Chan Lai-ling]], 69, who died on October 17, 2007, after she was given an overdose of the powerful fentanyl.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.thestandard.com.hk/news_detail.asp?we_cat=4&amp;art_id=105633&amp;sid=30502027&amp;con_type=1&amp;d_str=20101203&amp;fc=7 |title=Son vows to sue on painkiller death |date=2010-12-03 |accessdate=2010-12-03}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="13">==References==</h>
+<template lineStart="1"><title>reflist</title><part><name>colwidth</name><equals>=</equals><value>30em</value></part></template>
+
+<h level="2" i="14">==External links==</h>
+* [http://www.nlm.nih.gov/medlineplus/druginfo/meds/a605043.html National Institute of Health (NIH) Medline Plus: Fentanyl Buccal (Transmucosal)]
+* [http://www.rxlist.com/cgi/generic/fentanyl.htm RxList: Fentanyl]
+* [http://www.usdoj.gov/dea/concern/fentanyl.html US DEA information: fentanyl]
+* [http://www.cephalon.com/newsroom/news_reader.aspx?ID=1041238 08/16/2007 News Release: Cephalon Announces Positive Results from a Pivotal Study of FENTORA in Opioid-tolerant Patients with Non-cancer Breakthrough Pain]
+* [http://news.bbc.co.uk/1/hi/world/europe/2377563.stm BBC news report on Russian siege story]
+* [http://local.lancasteronline.com/4/24625 Lancaster Online story - New Killer: Fentanyl-Heroin Mix]
+* [http://www.cdc.gov/niosh/ershdb/EmergencyResponseCard_29750022.html Fentanyl: Emergency Response Database]. National Institute for Occupational Safety and Health.
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Fentanyl U.S. National Library of Medicine: Drug Information Portal - Fentanyl]
+
+<template lineStart="1"><title>General anesthetics</title></template>
+<template lineStart="1"><title>Analgesics</title></template>
+
+[[Category:General anesthetics]]
+[[Category:Synthetic opioids]]
+[[Category:Piperidines]]
+[[Category:Anilides]]
+[[Category:Propionamides]]
+[[Category:Mu-opioid agonists]]
+[[Category:Janssen Pharmaceutica]]
+
+[[ar:فينتونيل]]
+[[bg:Фентанил]]
+[[cs:Fentanyl]]
+[[de:Fentanyl]]
+[[es:Fentanilo]]
+[[eu:Fentaniloa]]
+[[fa:فنتانیل]]
+[[fr:Fentanyl]]
+[[ko:펜타닐]]
+[[it:Fentanyl]]
+[[he:פנטניל]]
+[[hu:Fentanil]]
+[[nl:Fentanyl]]
+[[ja:フェンタニル]]
+[[pl:Fentanyl]]
+[[pt:Fentanil]]
+[[ro:Fentanil]]
+[[ru:Фентанил]]
+[[sr:Fentanil ]]
+[[fi:Fentanyyli]]
+[[sv:Fentanyl]]
+[[th:เฟนทานิล]]
+[[tr:Fentanil]]</root>

@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title= 1943: The Battle of Midway
+|time= 4:11
+|user_name= Frogbrains
+|date= 2010-05-25
+|accent= British English
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}} 
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|1943_The_Battle_of_Midway.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-05-25 21:42 (UTC) | [[:en:User:Frogbrains|Frogbrains]] | 2493972 (bytes) | 0×0 | <small><nowiki><div style='padding:0;border:1px solid black;margin:0 auto;'> <div style='padding:3px 10px;border-bottom:1px solid black;background:#d8d8ff' class="spokenMetadata">'''This is {{#if:{{{first_part}}} |{{#if:{{{next_part}}} |part of |the last par</nowiki></small>
+
+[[Category:Audio files requiring categorisation]]

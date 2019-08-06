@@ -1,0 +1,114 @@
+{{Infobox VG
+|title = Formula One: Built to Win
+|image = [[File:Formula One Built to Win Cover.jpg|frameless|upright=1.15|Formula One: Built to Win]]
+|caption = Cover art of ''Formula One: Built to Win''
+|developer = [[Winkysoft]]
+|publisher = [[SETA Corporation]]<ref>{{cite web | url = http://www.nescentral.com/games/detail/formula-one-built-to-win.html| title = Developer information| publisher = NES Central| date = | accessdate = 2008-10-13}}</ref><ref>{{cite web | url = http://www.1up.com/do/gameOverview?cId=3131036| title = Publisher information| publisher = [[1UP.com]]| date = | accessdate = 2008-11-09}}</ref>
+|producer = Toru Ishikawa<ref name="f1btwgf">{{cite web | url = http://www.gamefaqs.com/console/nes/data/587287.html| title = Basic game information| publisher = [[GameFAQs]]| date = | accessdate = 2008-12-09}}</ref>
+|composer = Masa Konishi<ref name="f1btwgf"/>
+|director = Banjyo Tadano<ref name="f1btwgf"/>
+|artist = Hiroyuki Chiken<ref name="f1btwgf"/>
+|released = {{vgrelease|NA=November 1990<ref>{{cite web | url = http://www.gamespot.com/nes/driving/formula1builttowin/index.html| title = Release date reference| publisher = [[GameSpot]]| date = | accessdate = 2008-08-20}}</ref>}}
+|genre = [[Formula One]] [[Racing video game|racing]]<ref name="f1btwgf"/>
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Nintendo Entertainment System|NES]]<ref name="f1btwgf"/>
+}}
+
+'''''Formula One: Built to Win''''' is a [[racing video game|racing]] video game for the [[Nintendo Entertainment System]] that is centered around its career mode.
+
+Races start out as single-lap events but become double-lap events as the player starts racing against more experienced competition in places like [[Las Vegas, Nevada|Las Vegas]], [[Nevada]] and [[Hawaii]].<ref name="mobygames">{{cite web | url = http://www.mobygames.com/game/formula-one-built-to-win| title = Game information | publisher = [[MobyGames]]| date = | accessdate = 2008-05-05}}</ref> Formula One: Built to Win is also considered to be one of the first racing games with races that contain multiple stages. With gameplay similar to ''[[Rad Racer]]'' and ''[[Pole Position (arcade game)|Pole Position]]'', the driver races towards the back of the screen.<ref name="bentkangaroo">{{cite web | url = http://www.thebentkangaroo.com/NRP/Reviews/FomulaOne.html| title = Informal game review | publisher = The Bent Kangaroo {{Dead link|date=June 2012}}| date = | accessdate = 2008-09-12}}</ref>
+
+The names of the opponents are chosen partially at random; they can also vary because of the ranking level of the course and the type of vehicle used. Like in ''Rad Racer'', the player can supercharge an automobile to go up to {{convert|255|mph|km/h|disp=or}}.
+
+==Gameplay==
+===Vehicle types===
+Once the player enters a user name, the player has to start out driving a [[Mini|Mini Cooper]] without an international racing license. From there, the player must earn the rankings needed to get better performing vehicles and automobile parts. These cars consist of the [[Vector W2]], the [[Ferrari F40]]<ref name="mobygames"/> and finally a Formula-1 race car; most of the game is driven with these vehicles.
+
+Drivers must also be prepared to negotiate their way through civilian traffic; which all resemble the 1990 [[Volkswagen Beetle]]s<ref>{{cite web | url = http://www.igcd.net/vehicle.php?id=23544&PHPSESSID=260f455c50c1f0ab0ce2c1bf9265062b&width=1280| title = Civilian vehicles' information| publisher = Internet Game Cars Database| date = | accessdate = 2012-11-13}}</ref> that were also used for "civilian" vehicles in the video games ''[[OutRun]]'' and ''[[Spy Hunter]]''.
+
+===Managing a racing career===
+[[File:FormulaOneBuiltoWin200+MPH.PNG|thumb|left|In this picture, a sample player is racing in his or her vehicle reaching a speed of 202 miles per hour (325.1 kilometres per hour) using parts purchased from various cities.]]
+The player starts in [[New York]]<ref name="mobygames"/> and must work towards the [[Pacific States|West Coast]]. All of tracks that make up the Formula One portion of the game are actual Formula One tracks from around the world.<ref name="ign"/> Elements from the [[1990 Formula One season|1990]] and [[1991 Formula One season]]s have been used for this video game.<ref name="ign">{{cite web | url = http://rr.cheats.ign.com/rrview/codes/formula_one_built_to_win/7633/76400/| title = Gamer's analysis | publisher = [[IGN]]| date = | accessdate = 2008-09-22}}</ref>
+
+Because this game is based on the career of a race car driver who is trying to go from "[[Rags to riches|Rags to Riches]]," the beginning of the game provides a slow and conservative period. Designing an unbeatable car from the parts that they purchased in parts shops helps improve the handling, acceleration, braking, and maximum speed of their vehicle. It is possible to develop millionaire or even multimillionaire race car drivers by being successful at the [[slot machine]] game at the Las Vegas portion of the game which may be visited at any time.<ref>{{cite web | url = http://www.neoseeker.com/Games/Products/NES/formula_one_built_to_win/| title = Game information | publisher = NeoSeeker| date = | accessdate = 2008-05-05}}</ref> Even though the player must manually turn his or her entire bank account into casino tokens, the casino tokens are automatically turned back into "dollars" after the player leaves the casino.
+
+The player must earn money in order to keep racing; this is done by either winning races or finishing in podium position. After winning the race, the money must be invested in faster and/or more efficient parts to improve the performance of the vehicle. Having a more efficient racing vehicle will eventually result in winning more difficult races where the winner's prize is higher than in the easier races. Eventually, winning certain races will result in acquiring an international racing license.<ref name="allgame">{{cite web | url = http://www.allgame.com/cg/agg.dll?p=agg&sql=1:95| title = Synopsis by Skyler Miller | publisher = [[Allgame]]| date = | accessdate = 2008-09-12}}</ref> Parts in the game vary in cost and tires can only be used a limited number of times before they have to be purchased again. Tires that have the worst handling can be used an unlimited number of times. These tires are the only automobile parts that are free and the player automatically starts out with these at the beginning of the game's "career mode."
+
+{{VG Reviews
+| Allgame = {{Rating|4.5|5}}
+}}
+
+===Other modes===
+In addition to the career (normal) mode of the game, there is also a "free mode" of the game that allows unlimited use of all four vehicles on their respective tracks.<ref name="nesguide"/> These races are done without the distraction of other vehicles.<ref name="nesguide">{{cite web | url = http://www.nesguide.com/games/formulaonebuilttowin/| title = Free mode analysis | publisher = NES Guide| date = | accessdate = 2008-10-02}}</ref>
+
+All races in "free mode" are single-lap only. There is still a limited amount of [[Nitromethane|nitro]] like in the "normal mode" of the game. However, all races done under "free mode" always start with the nitro gauge filled up. New time records made in the "free mode" are saved into the game's battery along with the driver's name until they are broken by another player. Once the player reaches the Formula One level, he or she must race against drivers whose names sound similar to the actual drivers of the 1990 and 1991 Formula One seasons. For example, [[Satoru Nakajima]] is known in the game as ''S.Nakazma''.
+
+{| class="wikitable"
+|-
+! '''Flag'''
+! Race Track
+|-
+| {{flagicon|Japan}}
+| [[Suzuka Circuit]]
+|-
+| {{flagicon|France}}
+| [[Circuit Paul Ricard|Paul Ricard]]
+|-
+| {{flagicon|Canada}}
+| [[Circuit Gilles Villeneuve]]
+|-
+| {{flagicon|Mexico}}
+| [[Autodromo Hermanos Rodriguez]]
+|-
+| {{flagicon|USA}}
+| [[Phoenix street circuit]]
+|-
+| {{flagicon|Spain}}
+| [[Circuito Permanente del Jarama|Jarama]]
+|-
+| {{flagicon|Great Britain}}
+| [[Silverstone Circuit]]
+|-
+| {{flagicon|Monaco}}
+| [[Circuit de Monaco|Monaco]]
+|-
+|}
+
+==Notes==
+===References===
+{{reflist|2}}
+
+===External links===
+* [http://gaming.wikia.com/wiki/Formula_One:_Built_to_Win Formula One: Built to Win at Gaming Wikia]
+
+==See also==
+* ''[[Taito Grand Prix: Eikou heno License]]''; a Japanese-exclusive video game released by [[Taito]] three years prior to the release of this game that shares most of the concepts with this game
+
+{{Formula One games}}
+
+{{DEFAULTSORT:Formula One Built to Win}}
+[[Category:1990 video games]]
+[[Category:Article Feedback 5 Additional Articles]]
+[[Category:Colorado in fiction]]
+[[Category:Formula One video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Nintendo Entertainment System-only games]]
+[[Category:Racing video games set in the United States]]
+[[Category:SETA Corporation games]]
+[[Category:Sports video games set in the United States]]
+[[Category:Sports video games with career mode]]
+[[Category:Video games set in the 1990s]]
+[[Category:Video games set in California]]
+[[Category:Video games set in Dallas, Texas]]
+[[Category:Video games set in Detroit, Michigan]]
+[[Category:Video games set in Las Vegas]]
+[[Category:Video games set in Hawaii]]
+[[Category:Video games set in Miami, Florida]]
+[[Category:Video games set in Canada]]
+[[Category:Video games set in France]]
+[[Category:Video games set in Japan]]
+[[Category:Video games set in Monaco]]
+[[Category:Video games set in Spain]]
+[[Category:Video games set in the United Kingdom]]
+
+[[ru:Formula One: Built to Win]]

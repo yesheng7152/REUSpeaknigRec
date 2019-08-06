@@ -1,0 +1,59 @@
+<root><template><title>Irregular satellite</title><part><name index="1"/><value>
+</value></part><part><name>ref_discovery</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;Discoverers_JPL&quot;</attr><inner>Discovery Circumstances [http://ssd.jpl.nasa.gov/?sat_discovery (JPL)]</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>name</name><equals>=</equals><value>Paaliaq - Saturn XX
+</value></part><part><name>discoverer</name><equals>=</equals><value>[[Brett J. Gladman]] et al.
+</value></part><part><name>discovery_date</name><equals>=</equals><value>in 2000
+</value></part><part><name>epoch</name><equals>=</equals><value>2000 Feb. 26.00
+</value></part><part><name>ref_orb_elems</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;JPL_mean_elems&quot;</attr><inner>Mean orbital parameters [http://ssd.jpl.nasa.gov/?sat_elem from NASA JPL]</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>semimajor</name><equals>=</equals><value>15.200
+</value></part><part><name>eccentricity</name><equals>=</equals><value>0.3631	
+</value></part><part><name>inclination</name><equals>=</equals><value>45.083
+</value></part><part><name>period</name><equals>=</equals><value>686.9 d&lt;br/&gt;(1.88 [[Julian year|yr]])
+</value></part><part><name>diameter</name><equals>=</equals><value>22 km<ext><name>ref</name><attr> name=&quot;Sheppard&quot;</attr><inner>[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]</inner><close>&lt;/ref&gt;</close></ext> 
+</value></part><part><name>albedo</name><equals>=</equals><value>0.04 <ext><name>ref</name><attr> name=&quot;Sheppard&quot;</attr></ext> ''assumed''
+</value></part><part><name>color</name><equals>=</equals><value>''red''&lt;br/&gt;&lt;small&gt;B-V=0.86 R-V=0.40<ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr><inner>[[Tommy Grav|Grav, T.]]; and [[James Bauer|Bauer, J.]]; [http://arxiv.org/abs/astro-ph/0611590 ''A deeper look at the colors of Saturnian irregular satellites'']</inner><close>&lt;/ref&gt;</close></ext>&lt;/small&gt;
+</value></part><part><name>spectral_type</name><equals>=</equals><value>[[D-type asteroid|D]]<ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr></ext>
+</value></part></template>
+'''Paaliaq''' (<template><title>pronEng</title><part><name index="1"/><value>ˈpɑːliɑːk</value></part></template> ''&lt;small&gt;PAH&lt;/small&gt;-lee-ahk)'' is a [[prograde]] [[irregular satellite|irregular]] [[natural satellite|satellite]] of [[Saturn]]. It was discovered by [[Brett J. Gladman]], [[John J. Kavelaars]], [[Jean-Marc Petit]], [[Hans Scholl (astronomer)|Hans Scholl]], [[Matthew J. Holman]], [[Brian G. Marsden]],
+[[Philip D. Nicholson]] and [[Joseph A. Burns]] in early October 2000<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/07500/07512.html IAUC 7512: ''S/2000 S 1 and S/2000 S 2''] October 25, 2000 (discovery)</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/mpec/K00/K00Y15.html MPEC 2000-Y15: ''S/2000 S 1, S/2000 S 2, S/2000 S 7, S/2000 S 8, S/2000 S 9''] December 19, 2000 (discovery and ephemeris)</inner><close>&lt;/ref&gt;</close></ext>, and given the temporary designation '''S/2000&amp;nbsp;S&amp;nbsp;2'''. It was named in August 2003 after a fictional shaman in the book ''The Curse of the Shaman,'' written by Michael Kusugak, who supplied Kavelaars with the names of giants from [[Inuit mythology]] that were used for other Saturnian moons. 
+
+Paaliaq is thought to be about 22 kilometres in diameter, and orbits Saturn at an average distance of 15.2 Gm in 687 days. It is a member of the [[Saturn's Inuit group of satellites|Inuit group]] of irregular satellites. It also has a proximity with 9 other moons reaching up to ten miles from each.
+
+Together with [[Kiviuq (moon)|Kiviuq]] and [[Siarnaq (moon)|Siarnaq]], Paaliaq displays ''light-red'' colours and similar [[infrared]] spectrum, further supporting the thesis of a possible common origin of the Inuit group in the break-up of a larger body<ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;Gladman2001&quot;</attr><inner>Gladman, B. J.; Nicholson, P. D.; Burns, J. A.; Kavelaars, J. J.; Marsden, B. G.; Holman, M. J.; Grav, T.; [[Carl W. Hergenrother|Hergenrother, C. W.]]; [[Jean-Marc Petit|Petit, J.-M.]]; [[Robert A. Jacobson|Jacobson, R. A.]]; and [[William J. Gray|Gray, W. J.]]; [http://www.nature.com/nature/journal/v412/n6843/abs/412163a0.html ''Discovery of 12 satellites of Saturn exhibiting orbital clustering''], Nature, '''412''' (July 12, 2001), pp. 163–166</inner><close>&lt;/ref&gt;</close></ext>.
+
+<h level="2" i="1">== References ==</h>
+<template lineStart="1"><title>reflist</title></template>
+*Ephemeris [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html IAU-MPC NSES]
+
+<h level="2" i="2">== External links ==</h>
+*[http://www.ifa.hawaii.edu/~jewitt/irregulars.html David Jewitt pages]
+*[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]
+
+&lt;br/&gt;
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Paaliaq (Moon)</title></template>
+[[Category:Moons of Saturn]]
+[[Category:Irregular satellites]]
+
+[[bg:Палиак (спътник)]]
+[[da:Paaliaq (måne)]]
+[[de:Paaliaq (Mond)]]
+[[el:Παάλιακ (δορυφόρος)]]
+[[es:Paaliaq (satélite)]]
+[[fr:Paaliaq]]
+[[hr:Paaliaq (mjesec)]]
+[[it:Paaliaq]]
+[[lt:Paliakas (palydovas)]]
+[[nl:Paaliaq (maan)]]
+[[ja:パーリアク (衛星)]]
+[[nn:Saturnmånen Paaliaq]]
+[[pl:Paaliaq (księżyc)]]
+[[ru:Палиак (спутник)]]
+[[simple:Paaliaq (moon)]]
+[[sk:Paaliaq (mesiac)]]
+[[sl:Paliak (luna)]]
+[[fi:Paaliaq (kuu)]]
+[[sv:Paaliaq]]
+[[uk:Паліак (супутник)]]
+[[zh:土卫二十]]</root>

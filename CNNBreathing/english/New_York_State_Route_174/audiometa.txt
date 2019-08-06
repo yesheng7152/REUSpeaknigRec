@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=New York State Route 174
+|time=10:07
+|user_name=The_seraphim
+|date=2010-03-19
+|oldid=350785012
+|accent=British English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-03-19}}
+|Author={{original uploader|The seraphim|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-New_York_State_Route_174.ogg}}
+* 2010-03-19 23:44 [[:en:User:The seraphim|The seraphim]] 0×0× (5905748 bytes) ''<nowiki>{{Spoken article |title=New York State Route 174 |time=10:07 |user_name=The_seraphim |date=2010-03-19 |oldid=350785012 |accent=British English }} == Licensin</nowiki>''
+
+[[Category:New York State Route 174]]

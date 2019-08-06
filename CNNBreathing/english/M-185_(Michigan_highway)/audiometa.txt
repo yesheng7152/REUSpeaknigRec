@@ -1,0 +1,11 @@
+{{English spoken article
+|title=M-185 (Michigan highway)
+|user_name_link=[[:en:User:Lucas Thoms|Lucas Thoms]]
+|date=2014-07-02
+|accent=Inland Northern American English
+|sex=m
+|oldid=615247237
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}

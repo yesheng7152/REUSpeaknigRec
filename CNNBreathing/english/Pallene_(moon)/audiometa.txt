@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=Pallene (moon)
+|time=2:23
+|user_name=Mangst
+|date=2010-01-16
+|oldid=335142375
+|accent=American English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-01-17}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Pallene.ogg}}
+* 2010-01-17 01:34 [[:en:User:Mangst|Mangst]] 0×0× (1401864 bytes) ''<nowiki>{{Spoken article |title=Pallene (moon) |time=2:23 |user_name=Mangst |date=2010-01-16 |oldid=335142375 |accent=American English }} == Licensing: == {{GFDL-with-disc</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

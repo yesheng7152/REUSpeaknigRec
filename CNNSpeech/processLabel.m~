@@ -1,7 +1,0 @@
-function labelMatrix = processLabel(melspecCut)
-matrixL=melspecCut(1,141,:);
-matrixL=reshape(matrixL, 1, 2703);
-matrixL=rot90(matrixL,3);
-end
-
-

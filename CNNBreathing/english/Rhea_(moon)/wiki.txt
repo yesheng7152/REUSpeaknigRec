@@ -1,0 +1,234 @@
+{{distinguish2|the [[asteroid]] named [[577 Rhea]]}}
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name               = Rhea
+| alt_names = Saturn V
+| adjectives = Rhean
+| image              = [[Image:PIA07763 Rhea full globe5.jpg|275px]]
+| caption            = ''[[Cassini–Huygens|Cassini]]'' view of Rhea's anti-Saturn hemisphere, showing the moon's two largest impact basins ([[Mamaldi (crater)|Mamaldi]] above and left of center, and adjacent [[Tirawa (crater)|Tirawa]] to its upper right)
+| bgcolour           = #a0ffa0
+| discovery          = yes
+| discoverer         = [[Giovanni Domenico Cassini|G. D. Cassini]]
+| discovered         = December 23, 1672
+| orbit_ref          = <ref name=NSES/>
+| semimajor          = 527&nbsp;108 [[Kilometer|km]]
+| eccentricity       = 0.001&nbsp;258&nbsp;3
+| period             = 4.518&nbsp;212 [[Day|d]]
+| inclination        = 0.345° (to Saturn's equator)
+| satellite_of       = [[Saturn]]
+| physical_characteristics = yes
+| mean_radius        = 763.8 ± 1.0&nbsp;km<ref name=Roatsch2009>{{cite doi|10.1007/978-1-4020-9217-6_24}}</ref>
+| dimensions         = 1532.4&times;1525.6&times;1524.4 km<ref name=Roatsch2009/>
+| surface_area       = 7&nbsp;337&nbsp;000 km<sup>2</sup>
+| mass               = (2.306&nbsp;518&nbsp;±&nbsp;0.000&nbsp;353){{e|21}} [[Kilogram|kg]]<ref name="Jacobson 2006"/> (~3.9{{e|-4}} Earths)
+| density            = 1.236 ± 0.005&nbsp;[[Gram|g]]/[[Cubic centimeter|cm<sup>3</sup>]]<ref name=Roatsch2009/>
+| surface_grav       = {{Gr|2.306|763.8|3}} [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity    = {{V2|2.306|763.8|3}} km/s
+| rotation           = 4.518&nbsp;212 d<br/>([[Synchronous rotation|synchronous]])
+| axial_tilt         = zero
+| albedo             = 0.949 ± 0.003 ([[geometric albedo|geometric]])<ref name=Verbiscer/>
+| magnitude          = 10 <ref name=magnitude/>
+| temperatures       = yes
+| temp_name1         = [[Kelvin]]
+| min_temp_1         = 53 [[Kelvin|K]]
+| mean_temp_1        = &nbsp;
+| max_temp_1         = 99 K
+}}
+[[Image:Giovanni Cassini.jpg|thumb|right|[[Giovanni Domenico Cassini]], discoverer of Rhea]]
+
+'''Rhea''' ({{IPAc-en|icon|ˈ|r|iː|ə}};<ref group=note>In US dictionary transcription, {{USdict|rē′·ə}}.</ref> [[Greek language|Greek]]: ''{{Polytonic|Ῥέᾱ}}'') is the second-largest [[natural satellite|moon]] of [[Saturn]] and the [[List of natural satellites by diameter|ninth largest moon]] in the [[Solar System]]. It was discovered in 1672 by [[Giovanni Domenico Cassini]].
+
+==Name==
+Rhea is named after the [[titan (mythology)|Titan]] [[Rhea (mythology)|Rhea]] of [[Greek mythology]], "mother of the gods". It is also designated '''Saturn&nbsp;V''' (being the fifth major moon going outward from the planet).
+
+Cassini named the four moons he discovered ([[Tethys (moon)|Tethys]], [[Dione (moon)|Dione]], Rhea and [[Iapetus (moon)|Iapetus]]) ''[[Sidera Lodoicea]]'' (the stars of Louis) to honor King [[Louis XIV of France|Louis XIV]]. Astronomers fell into the habit of referring to them and [[Titan (moon)|Titan]] as ''Saturn&nbsp;I'' through ''Saturn&nbsp;V''. Once [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]] were discovered, in 1789, the numbering scheme was extended to ''Saturn&nbsp;VII''.
+
+The names of all seven satellites of Saturn then known come from [[John Herschel]] (son of [[William Herschel]], discoverer of the planet [[Uranus]], and two other [[Cronian moons]], [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]]) in his 1847 publication ''Results of Astronomical Observations made at the Cape of Good Hope'', wherein he suggested the names of the [[Titan (mythology)|Titans]], sisters and brothers of Cronos (Saturn, in Roman mythology), be used.<ref name=Lassell1848/>
+
+==Physical characteristics==
+===Size, mass and internal structure===
+Rhea is an icy body with a density of about 1.236 g/cm<sup>3</sup>. This low [[density]] indicates that it is made of ~25% rock (density ~3.25 g/cm<sup>3</sup>) and ~75% water ice (density ~0.93 g/cm<sup>3</sup>). While Rhea is the ninth-largest moon, it is only the tenth-most-massive moon.<ref group=note>The moons more massive than Rhea are: Earth's Moon, the four [[Galilean moons]], Titan, Triton, Titania, and Oberon. Oberon, Uranus's second-largest moon, has a radius that is ~0.4% smaller than Rhea's, but a density that is ~26% greater. See [http://ssd.jpl.nasa.gov/?sat_phys_par JPLSSD.]</ref>
+
+Earlier it was assumed that Rhea had a rocky core in the center.<ref name="Anderson2003"/> However measurements taken during a close flyby by the [[Cassini-Huygens|''Cassini'']] orbiter in 2005 (see below) cast this into doubt, though this remains controversial. In a paper published in 2007 it was claimed that the axial dimensionless [[moment of inertia]] coefficient was 0.4.{{#tag:ref|More precisely, 0.3911&nbsp;±&nbsp;0.0045&nbsp;kg·m<sup>2</sup>.<ref name="Anderson 2007"/>|group=note}}<ref name="Anderson 2007"/> Such a value indicated that Rhea had an almost homogeneous interior (with some compression of ice in the center) while the existence of a rocky core would imply a moment of inertia of about 0.34.<ref name="Anderson2003"/> In the same year another paper claimed the momentum of inertia was about 0.37{{#tag:ref|More precisely, 0.3721&nbsp;±&nbsp;0.0036&nbsp;kg·m<sup>2</sup>.<ref name=Iess2007/>|group=note}} implying that Rhea was partially differentiated.<ref name=Iess2007/> A year later yet another paper claimed that the moon may not be in hydrostatic equilibrium meaning that the moment of inertia can not be determined from the gravity data alone.<ref name=MacKenzie2008/> In 2008 an author of the first paper tried to reconcile these three disparate results. He concluded that there is a systematic error in the Cassini radio Doppler data used in the analysis, but after restricting the analysis to a subset of data obtained closest to the moon, he arrived at his old result that Rhea was in hydrostatic equilibrium and had the moment inertia of about 0.4, again implying a homogeneous interior. Further measurements are necessary to resolve this problem.<ref name=Anderson2008/>
+
+The [[triaxial]] shape of Rhea is consistent with a homogeneous body in [[hydrostatic equilibrium]].<ref name="Thomas2007"/>
+
+Models suggest that Rhea could be capable of sustaining an internal liquid water ocean through heating by [[radioactive decay]].<ref name=Hussman2006>{{Cite doi|10.1016/j.icarus.2006.06.005}}</ref>
+
+===Surface features===
+{{main|List of geological features on Rhea}}
+Rhea's features resemble those of [[Dione (moon)|Dione]], with dissimilar leading and trailing hemispheres, suggesting similar composition and histories. The temperature on Rhea is 99&nbsp;K (−174 °C) in direct sunlight and between 73&nbsp;K (−200 °C) and 53&nbsp;K (−220 °C) in the shade.
+
+Rhea has a rather typical heavily [[Impact crater|cratered]] surface,<ref name=Moore2004/> with the exceptions of a few large Dione-type fractures ([[linea|whispy terrain]]) on the trailing hemisphere(the side facing away from the direction of motion along Rhea's orbit)<ref name=Wagner2008/> and a very faint "line" of material at Rhea's equator that may have been deposited by material deorbiting from its rings.<ref name=Schenk2009/> Rhea has two very large impact basins on its anti-Cronian hemisphere, which are about 400 and 500&nbsp;km across.<ref name=Wagner2008/> The more northerly and less degraded of the two, called [[Tirawa (crater)|Tirawa]], is roughly comparable to the basin Odysseus on [[Tethys (moon)|Tethys]].<ref name=Moore2004/> There is a 48&nbsp;km-diameter impact crater at 112°W that is prominent because of an extended system of bright [[ray system|ray]]s.<ref name=Wagner2008/> This crater, called Inktomi, is nicknamed "The Splat", and may be one of the youngest craters on the inner moons of Saturn.<ref name=Wagner2008/> No evidence of any endogenic activity has been discovered.<ref name=Wagner2008/> 
+[[Image:Rhea Earth Moon Comparison.png|thumb|left|250px|Size comparison of [[Earth]], [[Moon]] and Rhea]]
+
+Its surface can be divided into two geologically different areas based on [[impact crater|crater]] density; the first area contains craters which are larger than 40&nbsp;km in diameter, whereas the second area, in parts of the polar and equatorial regions, has only craters under that size. This suggests that a major resurfacing event occurred some time during its formation.  The leading hemisphere is heavily cratered and uniformly bright. As on [[Callisto (moon)|Callisto]], the craters lack the high relief features seen on the [[Moon]] and [[Mercury (planet)|Mercury]]. On the trailing hemisphere there is a network of bright swaths on a dark background and few visible craters. It had been thought that these bright areas might be material ejected from ice [[volcano]]es early in Rhea's history when its interior was still liquid. However, recent observations of Dione, which has an even darker trailing hemisphere and similar but more prominent bright streaks, show that the streaks are in fact ice cliffs resulting from extensive fracturing of the moon's surface. It is plausible that the bright streaks on the Rhean surface are also tectonically formed ice cliffs.
+
+The January 17, 2006 distant flyby by the [[Cassini-Huygens|''Cassini'']] spacecraft yielded images of the wispy hemisphere at better resolution and a lower sun angle than previous observations.  While scientific analysis is still pending, raw images from the flyby seem to show that Rhea's streaks in fact are ice cliffs similar to those of Dione.
+
+==Atmosphere==
+On November 27, 2010, [[NASA]] announced the discovery of a tenuous atmosphere—[[exosphere]]. It consists of oxygen and carbon dioxide in proportion of roughly 5 to 2. The surface density of the exosphere is from 10<sup>5</sup> to 10<sup>6</sup> molecules in a [[cubic centimeter]] depending on local temperature. The main source of oxygen is [[radiolysis]] of water ice at the surface by ions supplied by the [[magnetosphere of Saturn]]. The source of the carbon dioxide is less clear, but it may be related to [[oxidation]] of the organics present in ice or to [[outgassing]] of the moon's interior.<ref name=atmosphere/><ref>{{Cite doi|10.1126/science.1198366}}</ref>
+
+==Possible ring system==
+{{main|Rings of Rhea}}
+On March 6, 2008, [[NASA]] announced that Rhea may have a tenuous ring system. This would mark the first discovery of rings about a moon.  The rings' existence was inferred by observed changes in the flow of electrons trapped by Saturn's magnetic field as ''Cassini'' passed by Rhea.<ref name=rings/><ref name=Jones2008/><ref name="LakdawallaE"/> Dust and debris could extend out to Rhea's [[Hill sphere]], but were thought to be denser nearer the moon, with three narrow rings of higher density. The case for a ring was strengthened by the subsequent finding of the presence of a set of small ultraviolet-bright spots distributed along Rhea's equator (interpreted as the impact points of deorbiting ring material).<ref name="Lakdawalla2"/> However, when ''Cassini'' made targeted observations of the putative ring plane from several angles, no evidence of ring material was found, suggesting that another explanation for the earlier observations is needed.<ref name=Tiscareno2010/><ref name=norings/>
+
+==Exploration==
+The first images of Rhea were obtained by [[Voyager program|Voyager 1 & 2]] spacecraft in 1980–1981.
+
+There were four close targeted fly-bys by the ''[[Cassini–Huygens|Cassini]]'' orbiter: at a distance of 500&nbsp;km on November 26, 2005,at a distance of 5,750&nbsp;km on August 30, 2007, at a distance of 100&nbsp;km on March 2, 2010 and at 69&nbsp;km flyby on January 11, 2011.<ref>http://saturn.jpl.nasa.gov/news/cassinifeatures/feature20110113/</ref>. Rhea has been also imaged many times from long to moderate distances by the orbiter.
+
+==Gallery==
+<center><gallery widths=160px heights=160px>
+Image:Rhea true color.jpg|''Cassini'' color image of Rhea, showing the wispy trailing hemisphere
+Image:Rhea ice cliffs.jpg|Higher-resolution image of the wispy hemisphere, showing ice cliffs
+Image:Rhean rings PIA10246 Full res.jpg|An artist impression of Rhea's rings
+Image:Rhea 2006 PIA08343.jpg|Composite image map of Rhea's surface
+</gallery></center>
+
+==See also==
+*[[Saturn's moons in fiction#Rhea|Rhea in fiction]]
+
+==Notes==
+{{reflist|colwidth=40em|group=note}}
+
+==References==
+{{reflist|colwidth=40em|refs=
+<ref name=NSES>[http://www.minorplanetcenter.org/iau/NatSats/NaturalSatellites.html Natural Satellites Ephemeris Service] ''Minor Planet Center''</ref>
+<ref name="Jacobson 2006">{{cite doi|10.1086/508812}}</ref>
+<ref name=Verbiscer>{{cite journal|doi=10.1126/science.1134681|title=Enceladus: Cosmic Graffiti Artist Caught in the Act|year=2007|last1=Verbiscer|first1=A.|last2=French|first2=R.|last3=Showalter|first3=M.|last4=Helfenstein|first4=P.|journal=[[Science (journal)|Science]]|volume=315|pages=815|pmid=17289992|issue=5813|bibcode = 2007Sci...315..815V }} p. 815 (supporting online material, table S1)</ref>
+<ref name=magnitude>{{cite web|title=Classic Satellites of the Solar System|url=http://www.oarval.org/ClasSaten.htm|publisher=Observatorio ARVAL|accessdate=2007-09-28}}</ref>
+<ref name=Lassell1848>As reported by [[William Lassell]], [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html Monthly Notices of the Royal Astronomical Society, Vol. 8, No. 3, pp. 42–43] (January 14, 1848)</ref>
+<ref name="Anderson2003">{{cite journal| last=Anderson| first=J. D.| title=Gravity field and interior structure of Rhea| journal=[[Physics of the Earth and Planetary Interiors]]| year=2003| volume=136| issue=3–4| pages=201–213| doi=10.1016/S0031-9201(03)00035-9| bibcode=2003PEPI..136..201A| author2=Rappaport, N. J.| last3=Giampieri| first3=G.| display-authors=3| author4=<Please add first missing authors to populate metadata.>}}</ref>
+<ref name="Anderson 2007">{{cite journal| last=Anderson| first=J. D.| coauthors=Schubert, J.| title=Saturn's satellite Rhea is a homogeneous mix of rock and ice| journal=[[Geophysical Research Letters]]| year=2007| volume=34| issue=2| pages=L02202| doi=10.1029/2006GL028100}}</ref>
+<ref name=Iess2007>{{cite doi|10.1016/j.icarus.2007.03.027}}</ref>
+<ref name=MacKenzie2008>{{cite doi|10.1029/2007GL032898}}</ref>
+<ref name=Anderson2008>{{cite conference|title=Rhea's Gravitational Field and Internal Structure|url=http://adsabs.harvard.edu/abs/2008cosp...37...89A|accessadte=November 27, 2010|conference=37th COSPAR Scientific Assembly. Held 13–20 July 2008, in Montréal, Canada.|page=89|author=Anderson, John D.}}</ref>
+<ref name="Thomas2007">{{cite doi|10.1016/j.icarus.2007.03.012}}</ref>
+<ref name=Moore2004>{{cite doi|10.1016/j.icarus.2004.05.009}}</ref>
+<ref name=Wagner2008>{{cite journal|last=Wagner|first=R.J.|title=Geology of Saturn's Satellite Rhea on the Basis of the High-Resolution Images from the Targeted Flyby 049 on Aug. 30, 2007|journal=Lunar and Planetary Science|year=2008|volume=XXXIX|page=1930|bibcode=2008LPI....39.1930W|author2=Neukum, G.|last3=Giese|first3=B.|display-authors=2|last2=Neukum|last4=Roatsch|first4=T.|last5=Denk|first5=T.|last6=Wolf|first6=U.|last7=Porco|first7=C. C.}}</ref>
+<ref name=Schenk2009>{{cite journal|last=Schenk|first=Paul M.|coauthors=McKinnon, W. B.|title=Global Color Variations on Saturn's Icy Satellites, and New Evidence for Rhea's Ring|year=2009|publisher=American Astronomical Society, DPS meeting #41, #3.03|bibcode=2009DPS....41.0303S|last2=McKinnon|volume=41|journal=American Astronomical Society}}</ref>
+<ref name=atmosphere>{{cite web|url=http://www.nasa.gov/mission_pages/cassini/whycassini/cassini20101126.html|title=Cassini Finds Ethereal Atmosphere at Rhea|accessdate=November 27, 2010|publisher=NASA}}</ref>
+<ref name=Tiscareno2010>{{cite journal|author=Matthew S. Tiscareno, Joseph A. Burns, Jeffrey N. Cuzzi, Matthew M. Hedman|title=Cassini imaging search rules out rings around Rhea|year=2010|journal=[[Geophysical Research Letters]]|volume=37|issue=14|pages=L14205|doi=10.1029/2010GL043663|bibcode=2010GeoRL..3714205T}}</ref>
+<ref name=norings>{{cite web |url=http://news.sciencemag.org/sciencenow/2010/06/the-moon-rings-that-never-were.html |publisher=[[Science (journal)|ScienceNow]]|title=The Moon Rings That Never Were|author=Kerr, Richard A.|date=2010-06-25|accessdate=2010-08-05}}</ref>
+<ref name="Lakdawalla2">{{cite web|last = Lakdawalla|first = E.|title = Another possible piece of evidence for a Rhea ring|work = [http://planetary.org/blog/ The Planetary Society Blog]|publisher = [[Planetary Society]]|date = 5 October 2009|url = http://planetary.org/blog/article/00002137/|accessdate = 2009-10-06}}</ref>
+<ref name="LakdawallaE">{{cite web
+ |last = Lakdawalla
+ |first = E.
+ |title = A Ringed Moon of Saturn? ''Cassini'' Discovers Possible Rings at Rhea
+ |work = [http://www.planetary.org/home/ The Planetary Society web site]
+ |publisher = [[Planetary Society]]
+ |date = 2008-03-06
+ |url = http://planetary.org/news/2008/0306_A_Ringed_Moon_of_Saturn_Cassini.html
+ |accessdate = 2008-03-09}}</ref>
+
+<ref name=Jones2008>{{cite journal
+ |last = Jones
+ |first = G. H.
+ |authorlink = 
+ |title = The Dust Halo of Saturn's Largest Icy Moon, Rhea
+ |journal = Science
+ |volume = 319
+ |issue = 5868
+ |pages = 1380–1384
+ |publisher = [[American Association for the Advancement of Science|AAAS]]
+ |location = 
+ |date = 2008-03-07
+ |url = http://www.sciencemag.org/cgi/content/short/319/5868/1380
+ |doi = 10.1126/science.1151524
+ |id =
+ |pmid = 18323452|bibcode = 2008Sci...319.1380J
+ |display-authors = 1
+ |last2 = Roussos
+ |first2 = E.
+ |last3 = Krupp
+ |first3 = N.
+ |last4 = Beckmann
+ |first4 = U.
+ |last5 = Coates
+ |first5 = A. J.
+ |last6 = Crary
+ |first6 = F.
+ |last7 = Dandouras
+ |first7 = I.
+ |last8 = Dikarev
+ |first8 = V.
+ |last9 = Dougherty
+ |first9 = M. K. }}</ref>
+<ref name=rings>[http://www.nasa.gov/mission_pages/cassini/media/rhea20080306.html Saturn's Moon Rhea Also May Have Rings], NASA, June 3, 2006</ref>
+}}
+
+==External links==
+{{Spoken Wikipedia|En-Rhea_(moon).ogg|2010-10-13}}
+{{Commons category|Rhea (moon)}}
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Rhea Rhea Profile] at [http://solarsystem.nasa.gov NASA's Solar System Exploration site]
+*[http://www.planetary.org/explore/topics/saturn/rhea.html The Planetary Society: Rhea]
+*[http://ciclops.org/search.php?x=20&y=7&search=Rhea Cassini images of Rhea]
+*[http://photojournal.jpl.nasa.gov/target/Rhea Images of Rhea at JPL's Planetary Photojournal]
+*Movie of [http://sos.noaa.gov/videos/Rhea.mov Rhea's rotation] from the National Oceanic and Atmospheric Administration site
+*[http://www.ciclops.org/view/6567/Map_of_Rhea_-_November_2009 Rhea] [http://www.ciclops.org/view/6568/Rhea_Polar_Maps_-_November_2009 basemaps] (released December 2010) from Cassini images
+*[http://www.ciclops.org/view/6626/The_Rhea_Atlas Rhea altlas] (released December 2010) from Cassini images
+*[http://planetarynames.wr.usgs.gov/Page/RHEA/target Rhea nomenclature] and [http://planetarynames.wr.usgs.gov/images/rhea_comp.pdf Rhea map with feature names] from the [http://planetarynames.wr.usgs.gov USGS planetary nomenclature page]
+*[http://www.bbc.co.uk/news/science-environment-11834954 Saturn's moon Rhea has thin atmosphere]
+
+{{Moons of Saturn|state=uncollapsed}}
+{{Solar System moons (compact)}}
+
+{{DEFAULTSORT:Rhea (Moon)}}
+<!--Categories-->
+[[Category:Moons of Saturn]]
+[[Category:Astronomical objects discovered in 1672]]
+
+<!--Other languages-->
+
+[[af:Rhea]]
+[[ar:ريا (قمر)]]
+[[be:Рэя, спадарожнік Сатурна]]
+[[bg:Рея (спътник)]]
+[[ca:Rea (satèl·lit)]]
+[[cs:Rhea (měsíc)]]
+[[co:Rea]]
+[[cy:Rhea (lloeren)]]
+[[da:Rhea (måne)]]
+[[de:Rhea (Mond)]]
+[[el:Ρέα (δορυφόρος)]]
+[[es:Rea (satélite)]]
+[[eo:Reo (luno)]]
+[[fa:رئا (ماه)]]
+[[fr:Rhéa (lune)]]
+[[gl:Rea (lúa)]]
+[[ko:레아 (위성)]]
+[[hi:रिया (उपग्रह)]]
+[[hr:Reja (mjesec)]]
+[[is:Rea (tungl)]]
+[[it:Rea (astronomia)]]
+[[he:ריאה (ירח)]]
+[[la:Rhea (satelles)]]
+[[lv:Reja (pavadonis)]]
+[[lt:Rėja (palydovas)]]
+[[hu:Rhea (hold)]]
+[[nl:Rhea (maan)]]
+[[ja:レア (衛星)]]
+[[no:Rhea (måne)]]
+[[nn:Saturnmånen Rhea]]
+[[pl:Rea (księżyc)]]
+[[pt:Reia (satélite)]]
+[[ro:Rhea (satelit)]]
+[[ru:Рея (спутник)]]
+[[scn:Rea]]
+[[simple:Rhea (moon)]]
+[[sk:Rhea (mesiac)]]
+[[sl:Rea (luna)]]
+[[sr:Реја (месец)]]
+[[sh:Reja (mjesec)]]
+[[fi:Rhea (kuu)]]
+[[sv:Rhea (måne)]]
+[[tr:Rhea (uydu)]]
+[[uk:Рея (супутник)]]
+[[vi:Rhea (vệ tinh)]]
+[[zh-classical:土衛五]]
+[[war:Rhea (bulan)]]
+[[zh:土卫五]]

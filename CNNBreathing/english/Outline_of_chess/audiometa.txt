@@ -1,0 +1,58 @@
+Transwiki approved by: [[w:en:User:Dmcdevit]]
+
+This image was copied from wikipedia:en. The original description was:
+
+== {{int:filedesc}} ==
+ 
+{{English spoken article|
+file_name=chess.ogg
+|title= Chess
+|time= 01:13:04 ''' Size: ''' 22.1 MB (23,243,316 bytes)
+|user_name=Rfc1394
+|date= 2016-10-18
+|accent= [[w:en:General American]] 
+|sex= male
+|}}
+
+{{en|Spoken reading of the article [[w:en:Chess]] in Wikipedia as of [[w:en:October 18|October 18]], [[w:en:2016|2016]].}}
+{{eo|Laŭtlego de la artikolo [[w:en:Chess]] (ŝako) de la anglalingva Vikipedio, kiel ĝi aperis je la 2016-10-18.}}
+{{es|Un hombre de los EE.UU. lee en voz alta el artículo sobre ajedrez, de la Wikipedia en inglés, en el versión del 2016-10-18.}}
+  Uploaded by the reader, [[w:en:User:Rfc1394|Paul Robinson]] 12:50, 18 October 2016 (UTC)
+
+== {{int:license-header}} ==
+{{RTCNCA License}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 05:02, 26 September 2006 || [[w:en:User:Rfc1394]] || 31m47s || 7.65 MB || <nowiki>Version as of 2006-09-26</nowiki>
+|----
+07:26, 8 March 2006 || [[w:en:User:Rfc1394]] || 25m1s || 4.95 MB || <nowiki>Update For version of the page as it existed  March 8, 2006.  </nowiki>
+|----
+01:17, 6 September 2005 || [[w:en:User:Rfc1394]] || 10m30s || 2.01 MB || <nowiki>Updated for 5 Sept 2003 revision of article on <a href="/wiki/Chess" title="Chess">Chess</a>.</nowiki>
+|----
+17:26, 3 September 2005 || [[w:en:User:Rfc1394]] || 9m59s || 1.92 MB || <nowiki>Spoken reading of the article <a href="/wiki/Chess" title="Chess">Chess</a> in Wikipedia as of <a href="/wiki/September_3" title="September 3">September 3</a>, <a href="/wiki/2004" title="2004">2004</a>.  Uploaded by the reader, ~~~~.  {{PD-user|Rfc1394}}</nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=127140554 || 08:04, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=127140554 || 14:11, 30 April 2007 || [[w:en:User:195.56.12.184]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=77852266 || 05:05, 26 September 2006 || [[w:en:User:Rfc1394]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=42776449 || 07:30, 8 March 2006 || [[w:en:User:Rfc1394]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=23121309 || 21:16, 12 September 2005 || [[w:en:User:Rfc1394]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=22482147 || 17:29, 3 September 2005 || [[w:en:User:Rfc1394]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Chess.ogg&redirect=no&oldid=22481948 || 17:26, 3 September 2005 || [[w:en:User:Rfc1394]] || <nowiki>(Spoken reading of the article <a href="/wiki/Chess" title="Chess">Chess</a> in Wikipedia as of <a href="/wiki/September_3" title="September 3">September 3</a>, <a href="/wiki/2004" title="2004">2004</a>.  Uploaded by the reader, ~~~~.  {{PD-user|Rfc1394}})</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Audio files of chess]]
+[[Category:Spoken Wikipedia articles about games]]

@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2015|month=03|day=26}}
+{{English spoken article
+|title=Chrysoberyl
+|user_name_link=[[:en:user:Dokidokes|Dokidokes]]
+|date=2015-03-26
+|accent=American
+|sex=m
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Chrysoberyl&oldid=653626528
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->}}
+|Source = Audacity
+|Date = 2015-03-26
+|Author = [[User:Dokidokes|Dokidokes]]
+}}

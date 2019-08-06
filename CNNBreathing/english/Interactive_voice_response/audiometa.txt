@@ -1,0 +1,20 @@
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|FSII|CommonsHelper}}
+|Date={{original upload date|2010-09-27}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Interactive_voice_response.ogg}}
+* 2011-10-27 01:23 [[:en:User:Mangst|Mangst]] 0×0× (13230096 bytes) ''<nowiki>Updated to reflect article changes.</nowiki>''
+* 2010-09-27 23:51 [[:en:User:Mangst|Mangst]] 0×0× (14879736 bytes) ''<nowiki>{{Spoken article entry |title=Interactive voice response |time=23:34 |user_name=Mangst |date=2010-09-27 |link_to_recorded_version=http://en.wikipedia.org/w/index.php?title=Interactive_voice_response&oldid=385702721 |accent=American English |sex=male }} ==</nowiki>''
+
+[[Category:Spoken Wikipedia]]
+[[Category:Telephony]]
+[[Category:Graphical user interface]]

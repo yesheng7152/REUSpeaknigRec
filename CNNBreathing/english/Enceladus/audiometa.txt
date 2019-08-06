@@ -1,0 +1,18 @@
+{{Spoken article
+|title=Enceladus (moon)
+|time=44:55
+|user_name=Mangst
+|date=2011-10-24
+|oldid=457059880
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Enceladus_%28moon%29.ogg}}
+* 2010-01-03 23:40 [[:en:User:Mangst|Mangst]] 0&times;0&times; (26201919 bytes) ''<nowiki>{{Spoken article |title=Enceladus (moon) |time=40:04 |user_name=Mangst  |date=January 3, 2010 |oldid=335688443 |accent=Amerrrrican English }} </nowiki>''
+
+[[Category:Enceladus]]
+[[Category:Spoken Wikipedia]]

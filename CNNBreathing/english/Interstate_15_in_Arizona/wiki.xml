@@ -1,0 +1,99 @@
+<root><template><title>Infobox road
+</title><part><name>state</name><equals>=</equals><value>AZ
+</value></part><part><name>route</name><equals>=</equals><value>15
+</value></part><part><name>type</name><equals>=</equals><value>I
+</value></part><part><name>map</name><equals>=</equals><value>
+</value></part><part><name>alternate_name</name><equals>=</equals><value>
+</value></part><part><name>maint</name><equals>=</equals><value>[[Arizona Department of Transportation]]
+</value></part><part><name>length_mi</name><equals>=</equals><value>29.43
+</value></part><part><name>length_round</name><equals>=</equals><value>2
+</value></part><part><name>length_ref</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;ADOT Highway Log&quot;</attr><inner>{{cite web |url=http://tpd.az.gov/data/reports/2006SHSLog.pdf |format=PDF|title=2006 ADOT Highway Log |author=[[Arizona Department of Transportation]]|accessdate=2008-04-16}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>established</name><equals>=</equals><value>1962<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.azhighwaydata.com/engineeringrecs/search.asp?Road=%20%20I%20015&amp;BKMP=&amp;EKMP=&amp;Show=False&amp;Tracs=&amp;Fed=|accessdate=2008-04-21|title=Official Highway Names and Engineering Records for Interstate 15|author=[[Arizona Department of Transportation]]}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>direction_a</name><equals>=</equals><value>South
+</value></part><part><name>terminus_a</name><equals>=</equals><value><template><title>jct</title><part><name>state</name><equals>=</equals><value>NV</value></part><part><name index="1"/><value>I</value></part><part><name index="2"/><value>15</value></part></template> towards [[Las Vegas, NV]]
+</value></part><part><name>junction</name><equals>=</equals><value>
+</value></part><part><name>direction_b</name><equals>=</equals><value>North
+</value></part><part><name>terminus_b</name><equals>=</equals><value><template><title>jct</title><part><name>state</name><equals>=</equals><value>UT</value></part><part><name index="1"/><value>I</value></part><part><name index="2"/><value>15</value></part></template> towards [[St. George, UT]]
+</value></part><part><name>previous_type</name><equals>=</equals><value>I
+</value></part><part><name>previous_route</name><equals>=</equals><value>10
+</value></part><part><name>next_type</name><equals>=</equals><value>I
+</value></part><part><name>next_route</name><equals>=</equals><value>17
+</value></part><part><name>map</name><equals>=</equals><value>I-15 (AZ) map.svg
+</value></part></template>
+[[Interstate 15]] (I-15), a transcontinental [[Interstate Highway]] from [[San Diego, California]] to the [[Canadian border (US)|Canadian border]], passes through [[Mohave County, AZ|Mohave County]] in the far northwest corner of the [[U.S. state]] of [[Arizona]].  Despite its length of <template><title>convert</title><part><name index="1"/><value>29.43</value></part><part><name index="2"/><value>mi</value></part><part><name index="3"/><value>km</value></part><part><name index="4"/><value>2</value></part></template> and isolation from the rest of the state in the remote [[Arizona Strip]], it is notable for the scenic section through the [[Virgin River Gorge]].  The highway heads in a northeasterly direction from the [[Nevada]] border northeast of [[Mesquite, Nevada]] to the [[Utah]] border southwest of [[St. George, Utah]]. 
+
+The southern portion of the routing of I-15 was built close to the alignment of the old [[U.S. Route 91 (Arizona)|U.S. Route 91]] (US 91), but the northern section through the Virgin River Gorge was built along an alignment that had not had a road previously.  The southern section of the highway was complete and opened in the early 1960s, while the section through the gorge did not open to traffic until 1973.  When it opened, the portion of I-15 through the Virgin River Gorge was the most expensive section of rural Interstate per mile.
+
+<h level="2" i="1">==Route description==</h>
+
+The highway is signed and designated the ''Veterans Memorial Highway'',<ext><name>ref</name><attr> name=arizonalaw</attr><inner>{{cite web
+|url=http://www.azleg.state.az.us/legtext/42leg/1r/bills/hjr2003s.htm
+|title=HJR2003 - 421R - S Ver
+|accessdate=2008-01-12
+|publisher=Arizona State Legislature - State of Arizona
+}}</inner><close>&lt;/ref&gt;</close></ext> a designation which continues into [[Utah]].<ext><name>ref</name><attr> name=utahlaw</attr><inner>{{cite web
+|url = http://le.utah.gov/~code/TITLE72/htm/72_04_020100.htm
+|title = Utah Code Section 72-4-201
+|accessdate=2008-01-12
+|publisher= State of Utah}}</inner><close>&lt;/ref&gt;</close></ext> I-15 parallels the [[Virgin River]] for its entire length in Arizona, but the terrain abruptly becomes more rugged at mile 13, where the [[Virgin River Gorge]] begins.<ext><name>ref</name><attr> name=USGS</attr><inner>{{cite web|publisher=[[United States Geological Survey]]|title=USGS topographic maps via Terraserver-USA|url=http://terraserver-usa.com/|accessdate=2008-05-07}}</inner><close>&lt;/ref&gt;</close></ext>  Traffic volumes along I-15 are approximately 23,000 vehicles per day.<ext><name>ref</name><attr/><inner>{{cite web|publisher=[[Arizona Department of Transportation]]|url=http://tpd.azdot.gov/data/aadt.php|title=Average Annual Daily Traffic (AADT)|accessdate=2008-05-08}}</inner><close>&lt;/ref&gt;</close></ext>  The highway is also a part of the [[CANAMEX Corridor]], a trade corridor in North America linking [[Edmonton]] in Canada and [[Mexico City]].<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.canamex.org/CanaMexUSA.asp|title= CANAMEX Highway in the USA|accessdate=2008-05-10}}</inner><close>&lt;/ref&gt;</close></ext>
+
+[[Image:I15storm3.jpg|thumb|left|A storm rolls over the Virgin River Gorge]]
+The highway enters the state in Mohave County northeast of [[Mesquite, Nevada|Mesquite]] and [[Las Vegas, Nevada]], paralleling the old [[U.S. Route 91 (Arizona)|US 91]] heading northeast on an alignment north of the river.  The first interchange is exit 8 at [[Littlefield, Arizona|Littlefield]], where old US 91 turns north to avoid the gorge. I-15 crosses the river for the first time just beyond Littlefield, and passes another interchange serving local roads east of Littlefield. This exit, exit 9, is a [[right-in/right-out]] design with [[frontage road]]s, and was constructed after the initial opening of I-15. Access under I-15 is provided just south of the ramps.<ext><name>ref</name><attr> name=USGS</attr></ext>
+
+[[Image:Cedarpkt.jpg|thumb|I-15 at exit 18, [[Cedar Pocket Reservoir|Cedar Pocket]]]]
+Beyond exit 9, I-15 enters the Virgin River Gorge, first passing through the section known as &quot;The Narrows&quot;.  The gorge features [[limestone]] cliffs that are as high as <template><title>convert</title><part><name index="1"/><value>500</value></part><part><name index="2"/><value>ft</value></part><part><name index="3"/><value>m</value></part></template> above the highway.  There are several pulloffs along the highway that allow access to the cliffs of the gorge.<ext><name>ref</name><attr> name=&quot;Scenic driving&quot;</attr><inner>{{cite book |title=Scenic Driving Arizona |last=Green |first=Stewart |year=2003 |publisher=Falcon |isbn=0-7627-2701-2 |edition=2nd Edition |page=24}}</inner><close>&lt;/ref&gt;</close></ext>  Within the canyon, through which it ascends northbound and descends southbound, five bridges cross or travel above the river.<ext><name>ref</name><attr> name=bridges</attr><inner>{{cite web|author=[[Arizona Department of Transportation]]|url=http://www.azdot.gov/Highways/bridge/BridgeInventory/PDF/BridgeInv-Flagstaff.pdf|format=PDF|title=Arizona State Highway System Bridge Record|accessdate=2008-04-16}}</inner><close>&lt;/ref&gt;</close></ext> The highway generally follows the winding course of the river, but several [[rock cut]]s allow it to bypass bends.<ext><name>ref</name><attr> name=USGS</attr></ext>
+
+The canyon opens up slightly at the [[Cedar Pocket Reservoir|Cedar Pocket]] interchange (exit 18), allowing for a [[rest area]]. This rest area was turned over to the federal [[Bureau of Land Management]] in 2002 which maintains the nearby [[Virgin River Gorge Recreation Area]].<ext><name>ref</name><attr/><inner>{{cite web|author=[[Arizona Department of Transportation]]|title=Arizona Right-of-Way Resolution 2002-12-A-062|date=2002-12-20|accessdate=2008-04-17|url=http://www.azhighwaydata.com/resolutions/pdf/resolutionfull/2002-12-A-062.pdf|format=PDF}}</inner><close>&lt;/ref&gt;</close></ext> I-15 continues to parallel the Virgin River, but deviates more than through the narrower part of the canyon.<ext><name>ref</name><attr> name=USGS</attr></ext>  Foliage through the canyon consists of [[tamarix]], [[ash tree|ash]], [[cottonwood]]s, [[willow]]s and [[Yucca brevifolia|Joshua tree]]s.  Wildflowers such as [[globemallow]], [[marigold]], and [[sand verbena]] are in bloom during the spring along the highway's path through the gorge.<ext><name>ref</name><attr> name=&quot;Scenic driving&quot;</attr></ext>  At mile 22.5, the highway crosses the Virgin River for the final time, continuing east along the smaller [[Black Rock Gulch]] before turning slightly northeast into a flatter area. The final interchange (exit 27) provides local access, and a [[weigh station]]/[[port of entry]] formerly served both sides of the road near mile 28 before the Utah state line.<ext><name>ref</name><attr> name=USGS</attr></ext> The port of entry and weigh station are now combined into a joint Arizona/Utah facility just north of the state line that is jointly staffed by personnel from the [[Arizona Department of Transportation]] (DOT) Motor Vehicle Division and [[Utah DOT]] Motor Carrier Division.  I-15 continues on into Utah providing access to [[St. George, Utah|St. George]] as well as [[Salt Lake City, Utah|Salt Lake City]].<ext><name>ref</name><attr> name=USGS</attr></ext>
+
+<h level="2" i="2">==History==</h>
+[[Image:Rockcut15.jpg|thumb|I-15 in afternoon light]]
+The [[Old Spanish Trail (trade route)|Old Spanish Trail]] to [[Southern California]] had two routes through northwestern Arizona, splitting at [[Littlefield, AZ|Littlefield]]; one went north towards central Utah, and the other went northeast through the Virgin River Gorge, straddling the state line to the [[Four Corners]] area.<ext><name>ref</name><attr/><inner>{{cite web|author=[[National Park Service]]|url=http://imgis.nps.gov/national_historic_trails.html|title=Old Spanish National Historic Trail|accessdate=2007-08-09}}</inner><close>&lt;/ref&gt;</close></ext> When the [[Arrowhead Trail (auto trail)|Arrowhead Trail]] was marked in the 1920s, and [[U.S. Route 91 (Arizona)|U.S. Route 91]] in 1926, automobile travelers between Nevada and Utah followed the northerly routing, turning east in Utah to reach [[St. George, UT|St. George]].<ext><name>ref</name><attr> name=&quot;1926 Rand McNally&quot;</attr><inner>{{cite map|publisher=[[Rand McNally]]|title=Auto Road Atlas|year=1926|url=http://www.broermapsonline.org/members/NorthAmerica/UnitedStates/Southwest/Arizona/unitedstates1926ra_060.html|accessdate=2008-04-16}}</inner><close>&lt;/ref&gt;</close></ext>
+
+When the Interstates were planned, federal authorities decided to save <template><title>convert</title><part><name index="1"/><value>12</value></part><part><name index="2"/><value>mi</value></part><part><name index="3"/><value>km</value></part><part><name index="4"/><value>0</value></part></template> over US 91 and pass through the Virgin River Gorge to take advantage of its scenery and lower grades for trucks.<ext><name>ref</name><attr> name=Fresno</attr></ext><ext><name>ref</name><attr> name=&quot;costy&quot;</attr></ext>  Construction was completed first, in the early 1960s, on the portion between Nevada and the gorge.  The bridges over Big Bend Wash were completed in 1962.  The bridge over the Virgin River near Littlefield was completed by 1964.  North of the gorge, the overpass over Black Rock Road was completed in 1965.<ext><name>ref</name><attr> name=bridges</attr></ext>  
+
+[[Image:Cedarpocketclouds.jpg|thumb|left|Cliffs sheathed in clouds along the highway]]
+Construction through the gorge was slower and much more difficult and that segment would not fully open until December 14, 1973.<ext><name>ref</name><attr/><inner>{{cite web|url=http://interstate50th.org/history/2006-12-14.shtml|accessdate=2008-04-16|title=Today in Interstate History|publisher=[[AASHTO]]}}</inner><close>&lt;/ref&gt;</close></ext>  To help expedite the construction of the segment through the gorge, the state of [[Utah]] forwarded a portion of their federal highway funds to Arizona.<ext><name>ref</name><attr> name=&quot;costy&quot;</attr><inner>{{cite news|publisher=[[The Progress]]|title=Costliest Interstate To Be in Arizona|date=1969-10-15}}</inner><close>&lt;/ref&gt;</close></ext>  The highway is of little importance to the transportation needs of Arizona since it does not link any Arizona communities, but it does serve as a vital link between the state capital of Utah in [[Salt Lake City, Utah|Salt Lake City]] and [[Las Vegas, Nevada|Las Vegas]] and [[Los Angeles, California|Los Angeles]] to the southwest.<ext><name>ref</name><attr/><inner>{{cite news|publisher=[[Arizona Daily Sun]]|title=On Scenic Virgin River Gorge Road|date=1972-06-16|page=2}}</inner><close>&lt;/ref&gt;</close></ext>  Arizona would eventually repay the funds they received from Utah.<ext><name>ref</name><attr> name=&quot;costy&quot;</attr></ext>  Flash flooding and quicksand in the gorge caused problems throughout the project with equipment and materials seeming to disappear overnight as a result.  In October 1969, a helicopter performing reconnaissance in the gorge brushed against the cliffs and crashed due to high winds, killing the pilot.  To help navigate the rugged terrain in the gorge, a special piece of equipment called a [[swamp buggy]] had to be brought in from [[Texas]].<ext><name>ref</name><attr> name=&quot;problems&quot;</attr><inner>{{cite news|publisher=[[Arizona Daily Sun]]|title=I-15 Project Surrounded by Problems|page=13|date=1973-12-18}}</inner><close>&lt;/ref&gt;</close></ext>  The planned routing through the gorge required the construction of four bridges over Virgin River.  The westernmost bridge and the bridge carrying the northbound lanes at the third bridge location from the west were completed in 1972.  By 1973, all five bridges were complete through the gorge.<ext><name>ref</name><attr> name=bridges</attr></ext>  Even before its opening, it was promoted as the most scenic highway in the state; a 1988 article in ''[[Arizona Highways]]'' said that the project &quot;enhanced rather than distracted from Nature's handiwork&quot;. The Virgin River was rechanneled 12 times in what was, at the time<comment>&lt;!--still?--&gt;</comment>, the most expensive rural freeway in the country, costing about $10&amp;nbsp;million per mile ($49&amp;nbsp;million in 2007).<ext><name>ref</name><attr> name=Fresno</attr><inner>{{cite news|publisher=[[Fresno Bee]]|title=Costliest Rural Freeway - $100 An Inch|date=November 26, 1972}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|author=[[Federal Highway Administration]]|url=http://www.environment.fhwa.dot.gov/histpres/highways_list.asp|title=Final List of Nationally and Exceptionally Significant Features of the Federal Interstate Highway System|accessdate=2007-08-09}}</inner><close>&lt;/ref&gt;</close></ext>
+<template lineStart="1"><title>-</title></template>
+
+<h level="2" i="3">==Exit list==</h>
+The entire route is in [[Mohave County, Arizona|Mohave County]].
+{| class=wikitable
+!Mile<ext><name>ref</name><attr> name=&quot;ADOT Highway Log&quot;</attr></ext>
+![[Exit number|#]]
+!Destinations
+!Notes
+|-
+|8.61
+|8
+|[[Beaver Dam, Arizona|Beaver Dam]], [[Littlefield, Arizona|Littlefield]]
+|Former [[U.S. Route 91 (Arizona)|US 91]]
+|-
+|9.63
+|9
+|[[Desert Springs, Arizona|Desert Springs]]
+|
+|-
+|18.35
+|18
+|[[Cedar Pocket Reservoir|Cedar Pocket]]
+|
+|-
+|27.49
+|27
+|[[Black Rock, Arizona|Black Rock]] Road
+|
+|}
+
+<h level="2" i="4">== References ==</h>
+<template lineStart="1"><title>Spoken Wikipedia</title><part><name index="1"/><value>Interstate_15_in_Arizona.ogg</value></part><part><name index="2"/><value>2008-12-10</value></part></template>
+<template lineStart="1"><title>commonscat</title></template>
+<template lineStart="1"><title>reflist</title><part><name index="1"/><value>2</value></part></template>
+
+<template lineStart="1"><title>state detail page browse</title><part><name>type</name><equals>=</equals><value>I</value></part><part><name>route</name><equals>=</equals><value>15</value></part><part><name>state</name><equals>=</equals><value>Arizona</value></part><part><name>statebefore</name><equals>=</equals><value>Nevada</value></part><part><name>stateafter</name><equals>=</equals><value>Utah</value></part></template>
+
+<template lineStart="1"><title>featured article</title></template>
+
+[[Category:Interstate Highways in Arizona|15]]
+[[Category:Interstate 15|Arizona]]
+
+[[es:Interestatal 15 en Arizona]]</root>

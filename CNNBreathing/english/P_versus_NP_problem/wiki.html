@@ -1,0 +1,1046 @@
+<div class="mw-parser-output"><table style="float:right; width:30%; margin:0em 1em 1em 1em; background:#eee; border:#ccc solid">
+<tr>
+<td><a href="/wiki/File:Question_dropshade.png" class="image"><img alt="Question dropshade.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Question_dropshade.png/20px-Question_dropshade.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Question_dropshade.png/30px-Question_dropshade.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Question_dropshade.png/40px-Question_dropshade.png 2x" data-file-width="50" data-file-height="50" /></a></td>
+<td><b>Unsolved problem in computer science</b>:<br />
+<div style="padding:5px"><i>Is <b>P</b> = <b>NP</b>&#160;?</i><br />
+<small><a href="/wiki/List_of_unsolved_problems_in_computer_science" title="List of unsolved problems in computer science">(more unsolved problems in computer science)</a></small></div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Millennium_Prize_Problems" title="Millennium Prize Problems">Millennium Prize Problems</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a class="mw-selflink selflink">P versus NP problem</a></li>
+<li><a href="/wiki/Hodge_conjecture" title="Hodge conjecture">Hodge conjecture</a></li>
+<li><a href="/wiki/Poincar%C3%A9_conjecture" title="Poincaré conjecture">Poincaré conjecture</a> (solved)</li>
+<li><a href="/wiki/Riemann_hypothesis" title="Riemann hypothesis">Riemann hypothesis</a></li>
+<li><a href="/wiki/Yang%E2%80%93Mills_existence_and_mass_gap" title="Yang–Mills existence and mass gap">Yang–Mills existence and mass gap</a></li>
+<li><a href="/wiki/Navier%E2%80%93Stokes_existence_and_smoothness" title="Navier–Stokes existence and smoothness">Navier–Stokes existence and smoothness</a></li>
+<li><a href="/wiki/Birch_and_Swinnerton-Dyer_conjecture" title="Birch and Swinnerton-Dyer conjecture">Birch and Swinnerton-Dyer conjecture</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Millennium_Problems" title="Template:Millennium Problems"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Millennium_Problems" title="Template talk:Millennium Problems"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Millennium_Problems&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Complexity_classes.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Complexity_classes.svg/250px-Complexity_classes.svg.png" width="250" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Complexity_classes.svg/375px-Complexity_classes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Complexity_classes.svg/500px-Complexity_classes.svg.png 2x" data-file-width="414" data-file-height="255" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Complexity_classes.svg" class="internal" title="Enlarge"></a></div>
+Diagram of complexity classes provided that <b>P</b> <a href="/wiki/%E2%89%A0" class="mw-redirect" title="≠">≠</a> <b>NP</b>. The existence of problems within <b>NP</b> but outside both <b>P</b> and <b>NP</b>-complete, under that assumption, was established by <a href="/wiki/NP-intermediate" title="NP-intermediate">Ladner's theorem</a>.<sup id="cite_ref-Ladner75_1-0" class="reference"><a href="#cite_note-Ladner75-1">[1]</a></sup></div>
+</div>
+</div>
+<p>The <b>P versus NP problem</b> is a major <a href="/wiki/List_of_unsolved_problems_in_computer_science" title="List of unsolved problems in computer science">unsolved problem in computer science</a>. Informally, it asks whether every problem whose solution can be quickly verified by a computer can also be quickly solved by a computer. It was introduced in 1971 by <a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> in his seminal paper "The complexity of theorem proving procedures"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and is considered by many to be the most important open problem in the field.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It is one of the seven <a href="/wiki/Millennium_Prize_Problems" title="Millennium Prize Problems">Millennium Prize Problems</a> selected by the <a href="/wiki/Clay_Mathematics_Institute" title="Clay Mathematics Institute">Clay Mathematics Institute</a> to carry a US $1,000,000 prize for the first correct solution.</p>
+<p>The informal term <i>quickly</i> used above means the existence of an algorithm for the task that runs in <a href="/wiki/Polynomial_time" class="mw-redirect" title="Polynomial time">polynomial time</a>. The general class of questions for which some algorithm can provide an answer in polynomial time is called "class <b>P</b>" or just "<b><a href="/wiki/P_(complexity)" title="P (complexity)">P</a></b>". For some questions, there is no known way to find an answer quickly, but if one is provided with information showing what the answer is, it may be possible to verify the answer quickly. The class of questions for which an answer can be <i>verified</i> in polynomial time is called <b><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a></b>.</p>
+<p>Consider the <a href="/wiki/Subset_sum_problem" title="Subset sum problem">subset sum problem</a>, an example of a problem that is easy to verify, but whose answer may be difficult to compute. Given a set of <a href="/wiki/Integer" title="Integer">integers</a>, does some nonempty <a href="/wiki/Subset" title="Subset">subset</a> of them sum to 0? For instance, does a subset of the set <span class="nowrap">{−2, −3, 15, 14, 7, −10}</span> add up to 0? The answer "yes, because <span class="nowrap">{−2, −3, −10, 15}</span> add up to zero" can be quickly verified with three additions. However, there is no known algorithm to find such a subset in polynomial time (there is one, however, in <a href="/wiki/Exponential_time" class="mw-redirect" title="Exponential time">exponential time</a>, which consists of 2<sup><i>n</i></sup>-1 tries), and indeed such an algorithm can only exist if <b>P</b> = <b>NP</b>; hence this problem is in <b>NP</b> (quickly checkable) but not necessarily in <b>P</b> (quickly solvable).</p>
+<p>An answer to the <b>P</b>&#160;=&#160;<b>NP</b> question would determine whether problems that can be verified in polynomial time, like the subset-sum problem, can also be solved in polynomial time. If it turned out that <b>P</b> ≠ <b>NP</b>, it would mean that there are problems in <b>NP</b> (such as <a href="/wiki/NP-complete" class="mw-redirect" title="NP-complete"><b>NP</b>-complete</a> problems) that are harder to compute than to verify: they could not be solved in polynomial time, but the answer could be verified in polynomial time.</p>
+<p>Aside from being an important problem in computational theory, a proof either way would have profound implications for mathematics, cryptography, algorithm research, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, <a href="/wiki/Game_theory" title="Game theory">game theory</a>, multimedia processing and many other fields.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Context"><span class="tocnumber">1</span> <span class="toctext">Context</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#NP-complete"><span class="tocnumber">2</span> <span class="toctext">NP-complete</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Harder_problems"><span class="tocnumber">3</span> <span class="toctext">Harder problems</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Problems_in_NP_not_known_to_be_in_P_or_NP-complete"><span class="tocnumber">4</span> <span class="toctext">Problems in NP not known to be in P or NP-complete</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Does_P_mean_.22easy.22.3F"><span class="tocnumber">5</span> <span class="toctext">Does P mean "easy"?</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reasons_to_believe_P_.E2.89.A0_NP"><span class="tocnumber">6</span> <span class="toctext">Reasons to believe P ≠ NP</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Consequences_of_the_resolution_of_the_problem"><span class="tocnumber">7</span> <span class="toctext">Consequences of the resolution of the problem</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#P_.3D_NP"><span class="tocnumber">7.1</span> <span class="toctext">P = NP</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#P_.E2.89.A0_NP"><span class="tocnumber">7.2</span> <span class="toctext">P ≠ NP</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Results_about_difficulty_of_proof"><span class="tocnumber">8</span> <span class="toctext">Results about difficulty of proof</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Claimed_solutions"><span class="tocnumber">9</span> <span class="toctext">Claimed solutions</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Logical_characterizations"><span class="tocnumber">10</span> <span class="toctext">Logical characterizations</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Polynomial-time_algorithms"><span class="tocnumber">11</span> <span class="toctext">Polynomial-time algorithms</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Formal_definitions_for_P_and_NP"><span class="tocnumber">12</span> <span class="toctext">Formal definitions for P and NP</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Example"><span class="tocnumber">12.1</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Formal_definition_for_NP-completeness"><span class="tocnumber">13</span> <span class="toctext">Formal definition for NP-completeness</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Popular_culture"><span class="tocnumber">14</span> <span class="toctext">Popular culture</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">15</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes"><span class="tocnumber">16</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">17</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">18</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Context">Context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=1" title="Edit section: Context">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The relation between the <a href="/wiki/Complexity_class" title="Complexity class">complexity classes</a> <b>P</b> and <b>NP</b> is studied in <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity theory</a>, the part of the <a href="/wiki/Theory_of_computation" title="Theory of computation">theory of computation</a> dealing with the resources required during computation to solve a given problem. The most common resources are time (how many steps it takes to solve a problem) and space (how much memory it takes to solve a problem).</p>
+<p>In such analysis, a model of the computer for which time must be analyzed is required. Typically such models assume that the computer is <i><a href="/wiki/Deterministic_computation" class="mw-redirect" title="Deterministic computation">deterministic</a></i> (given the computer's present state and any inputs, there is only one possible action that the computer might take) and <i>sequential</i> (it performs actions one after the other).</p>
+<p>In this theory, the class <b>P</b> consists of all those <i><a href="/wiki/Decision_problem" title="Decision problem">decision problems</a></i> (defined <a href="#Formal_definitions_for_P_and_NP">below</a>) that can be solved on a deterministic sequential machine in an amount of time that is <a href="/wiki/Polynomial" title="Polynomial">polynomial</a> in the size of the input; the class <b><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a></b> consists of all those decision problems whose positive solutions can be verified in <a href="/wiki/Polynomial_time" class="mw-redirect" title="Polynomial time">polynomial time</a> given the right information, or equivalently, whose solution can be found in polynomial time on a <a href="/wiki/Non-deterministic_Turing_machine" title="Non-deterministic Turing machine">non-deterministic</a> machine.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Clearly, <b>P</b> ⊆ <b>NP</b>. Arguably the biggest open question in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a> concerns the relationship between those two classes:</p>
+<dl>
+<dd>Is <b>P</b> equal to <b>NP</b>?</dd>
+</dl>
+<p>In a 2002 poll of 100 researchers, 61 believed the answer to be no, 9 believed the answer is yes, and 22 were unsure; 8 believed the question may be <a href="/wiki/Independent_(mathematical_logic)" class="mw-redirect" title="Independent (mathematical logic)">independent</a> of the currently accepted axioms and therefore is impossible to prove or disprove.<sup id="cite_ref-poll_5-0" class="reference"><a href="#cite_note-poll-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="NP-complete">NP-complete</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=2" title="Edit section: NP-complete">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:P_np_np-complete_np-hard.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/300px-P_np_np-complete_np-hard.svg.png" width="300" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/450px-P_np_np-complete_np-hard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/600px-P_np_np-complete_np-hard.svg.png 2x" data-file-width="800" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:P_np_np-complete_np-hard.svg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Euler_diagram" title="Euler diagram">Euler diagram</a> for <b><a href="/wiki/P_(complexity)" title="P (complexity)">P</a></b>, <b><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a></b>, <b>NP</b>-complete, and <b>NP</b>-hard set of problems</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/NP-complete" class="mw-redirect" title="NP-complete">NP-complete</a></div>
+<p>To attack the <b>P</b> = <b>NP</b> question the concept of <b>NP</b>-completeness is very useful. <b>NP</b>-complete problems are a set of problems to each of which any other <b>NP</b>-problem can be reduced in polynomial time, and whose solution may still be verified in polynomial time. That is, any <b>NP</b> problem can be transformed into any of the <b>NP</b>-complete problems. Informally, an <b>NP</b>-complete problem is a <b>NP</b> problem that is at least as "tough" as any other problem in <b>NP</b>.</p>
+<p><a href="/wiki/NP-hard" class="mw-redirect" title="NP-hard"><b>NP</b>-hard</a> problems are those at least as hard as <b>NP</b>-complete problems, i.e., all <b>NP</b> problems can be reduced (in polynomial time) to them. <b>NP</b>-hard problems need not be in <b>NP</b>, i.e., they need not have solutions verifiable in polynomial time.</p>
+<p>For instance, the <a href="/wiki/Boolean_satisfiability_problem" title="Boolean satisfiability problem">boolean satisfiability problem</a> is <b>NP</b>-complete by the <a href="/wiki/Cook%E2%80%93Levin_theorem" title="Cook–Levin theorem">Cook–Levin theorem</a>, so <i>any</i> instance of <i>any</i> problem in <b>NP</b> can be transformed mechanically into an instance of the boolean satisfiability problem in polynomial time. The boolean satisfiability problem is one of many such <b>NP</b>-complete problems. If any <b>NP</b>-complete problem is in <b>P</b>, then it would follow that <b>P</b> = <b>NP</b>. Unfortunately, many important problems have been shown to be <b>NP</b>-complete, and as of 2013<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=P_versus_NP_problem&amp;action=edit">[update]</a></sup> not a single fast algorithm for any of them is known.</p>
+<p>Based on the definition alone it is not obvious that <b>NP</b>-complete problems exist. A trivial and contrived <b>NP</b>-complete problem can be formulated as: given a description of a Turing machine M guaranteed to halt in polynomial time, does there exist a polynomial-size input that M will accept?<sup id="cite_ref-Scott_6-0" class="reference"><a href="#cite_note-Scott-6">[6]</a></sup> It is in <b>NP</b> because (given an input) it is simple to check whether M accepts the input by simulating M; it is <b>NP</b>-complete because the verifier for any particular instance of a problem in <b>NP</b> can be encoded as a polynomial-time machine M that takes the solution to be verified as input. Then the question of whether the instance is a yes or no instance is determined by whether a valid input exists.</p>
+<p>The first natural problem proven to be <b>NP</b>-complete was the <a href="/wiki/Boolean_satisfiability_problem" title="Boolean satisfiability problem">boolean satisfiability problem</a>. As noted above, this is the <a href="/wiki/Cook%E2%80%93Levin_theorem" title="Cook–Levin theorem">Cook–Levin theorem</a>; its proof that satisfiability is <b>NP</b>-complete contains technical details about Turing machines as they relate to the definition of <b>NP</b>. However, after this problem was proved to be <b>NP</b>-complete, <a href="/wiki/Reduction_(complexity)" title="Reduction (complexity)">proof by reduction</a> provided a simpler way to show that many other problems are also <b>NP</b>-complete, including the <a href="/wiki/Subset-sum_problem" class="mw-redirect" title="Subset-sum problem">subset-sum problem</a> discussed earlier. Thus, a vast class of seemingly unrelated problems are all reducible to one another, and are in a sense "the same problem".</p>
+<h2><span class="mw-headline" id="Harder_problems">Harder problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=3" title="Edit section: Harder problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Complexity_class" title="Complexity class">Complexity class</a></div>
+<p>Although it is unknown whether <b>P</b> = <b>NP</b>, problems outside of <b>P</b> are known. A number of succinct problems (problems that operate not on normal input, but on a computational description of the input) are known to be <a href="/wiki/EXPTIME#EXPTIME-complete" title="EXPTIME"><b>EXPTIME</b>-complete</a>. Because it can be shown that <b>P</b> ⊊ <b><a href="/wiki/EXPTIME" title="EXPTIME">EXPTIME</a></b>, these problems are outside <b>P</b>, and so require more than polynomial time. In fact, by the <a href="/wiki/Time_hierarchy_theorem" title="Time hierarchy theorem">time hierarchy theorem</a>, they cannot be solved in significantly less than exponential time. Examples include finding a perfect strategy for chess (on an <i>N</i> × <i>N</i> board)<sup id="cite_ref-Fraenkel1981_7-0" class="reference"><a href="#cite_note-Fraenkel1981-7">[7]</a></sup> and some other board games.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The problem of deciding the truth of a statement in <a href="/wiki/Presburger_arithmetic" title="Presburger arithmetic">Presburger arithmetic</a> requires even more time. Fischer and <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Rabin</a> proved in 1974 that every algorithm that decides the truth of Presburger statements has a runtime of at least <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mn>2</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>n</mi>
+              </mrow>
+            </msup>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{2^{cn}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7fdfdc2a032b7715499ed9706ea8c506bbdcf0a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.789ex; height:2.676ex;" alt="2^{2^{cn}}" /></span> for some constant <i>c</i>. Here, <i>n</i> is the length of the Presburger statement. Hence, the problem is known to need more than exponential run time. Even more difficult are the <a href="/wiki/List_of_undecidable_problems" title="List of undecidable problems">undecidable problems</a>, such as the <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a>. They cannot be completely solved by any algorithm, in the sense that for any particular algorithm there is at least one input for which that algorithm will not produce the right answer; it will either produce the wrong answer, finish without giving a conclusive answer, or otherwise run forever without producing any answer at all.</p>
+<h2><span class="mw-headline" id="Problems_in_NP_not_known_to_be_in_P_or_NP-complete">Problems in NP not known to be in P or NP-complete</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=4" title="Edit section: Problems in NP not known to be in P or NP-complete">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/NP-intermediate" title="NP-intermediate">NP-intermediate</a></div>
+<p>It was shown by Ladner that if <b>P</b> ≠ <b>NP</b> then there exist problems in <b>NP</b> that are neither in <b>P</b> nor <b>NP</b>-complete.<sup id="cite_ref-Ladner75_1-1" class="reference"><a href="#cite_note-Ladner75-1">[1]</a></sup> Such problems are called <b>NP</b>-intermediate problems. The <a href="/wiki/Graph_isomorphism_problem" title="Graph isomorphism problem">graph isomorphism problem</a>, the <a href="/wiki/Discrete_logarithm_problem" class="mw-redirect" title="Discrete logarithm problem">discrete logarithm problem</a> and the <a href="/wiki/Integer_factorization_problem" class="mw-redirect" title="Integer factorization problem">integer factorization problem</a> are examples of problems believed to be <b>NP</b>-intermediate. They are some of the very few <b>NP</b> problems not known to be in <b>P</b> or to be <b>NP</b>-complete.</p>
+<p>The <a href="/wiki/Graph_isomorphism_problem" title="Graph isomorphism problem">graph isomorphism problem</a> is the computational problem of determining whether two finite <a href="/wiki/Graph_(mathematics)" class="mw-redirect mw-disambig" title="Graph (mathematics)">graphs</a> are <a href="/wiki/Graph_isomorphism" title="Graph isomorphism">isomorphic</a>. An important unsolved problem in complexity theory is whether the graph isomorphism problem is in <b>P</b>, <b>NP</b>-complete, or <b>NP</b>-intermediate. The answer is not known, but it is believed that the problem is at least not <b>NP</b>-complete.<sup id="cite_ref-AK06_9-0" class="reference"><a href="#cite_note-AK06-9">[9]</a></sup> If graph isomorphism is <b>NP</b>-complete, the <a href="/wiki/Polynomial_time_hierarchy" class="mw-redirect" title="Polynomial time hierarchy">polynomial time hierarchy</a> collapses to its second level.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not <b>NP</b>-complete. The best algorithm for this problem, due to <a href="/wiki/Laszlo_Babai" class="mw-redirect" title="Laszlo Babai">Laszlo Babai</a> and <a href="/wiki/Eugene_Luks" class="mw-redirect" title="Eugene Luks">Eugene Luks</a> has run time 2<sup>O(√<i>n</i>log(<i>n</i>))</sup> for graphs with <i>n</i> vertices.</p>
+<p>The <a href="/wiki/Integer_factorization_problem" class="mw-redirect" title="Integer factorization problem">integer factorization problem</a> is the computational problem of determining the <a href="/wiki/Prime_factorization" class="mw-redirect" title="Prime factorization">prime factorization</a> of a given integer. Phrased as a decision problem, it is the problem of deciding whether the input has a factor less than <i>k</i>. No efficient integer factorization algorithm is known, and this fact forms the basis of several modern cryptographic systems, such as the <a href="/wiki/RSA_(algorithm)" class="mw-redirect" title="RSA (algorithm)">RSA</a> algorithm. The integer factorization problem is in <b>NP</b> and in <b><a href="/wiki/Co-NP" title="Co-NP">co-NP</a></b> (and even in <b>UP</b> and <b>co-UP</b><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>). If the problem is <b>NP</b>-complete, the polynomial time hierarchy will collapse to its first level (i.e., <b>NP</b> = <b>co-NP</b>). The best known algorithm for integer factorization is the <a href="/wiki/General_number_field_sieve" title="General number field sieve">general number field sieve</a>, which takes expected time</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>O</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>exp</mi>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mrow>
+            <mo>(</mo>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="false" scriptlevel="0">
+                    <mfrac>
+                      <mrow>
+                        <mn>64</mn>
+                        <mi>n</mi>
+                      </mrow>
+                      <mn>9</mn>
+                    </mfrac>
+                  </mstyle>
+                </mrow>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mo stretchy="false">(</mo>
+                <mn>2</mn>
+                <mo stretchy="false">)</mo>
+                <mo>)</mo>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mn>1</mn>
+                  <mn>3</mn>
+                </mfrac>
+              </mrow>
+            </msup>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mo stretchy="false">(</mo>
+                <mi>n</mi>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mo stretchy="false">(</mo>
+                <mn>2</mn>
+                <mo stretchy="false">)</mo>
+                <mo stretchy="false">)</mo>
+                <mo>)</mo>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mn>2</mn>
+                  <mn>3</mn>
+                </mfrac>
+              </mrow>
+            </msup>
+            <mo>)</mo>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle O\left(\exp \left(\left({\tfrac {64n}{9}}\log(2)\right)^{\frac {1}{3}}\left(\log(n\log(2))\right)^{\frac {2}{3}}\right)\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f89bfa57ed1686c2d6d65df139ecdb0fea8a327d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:43.783ex; height:7.509ex;" alt="O\left(\exp \left(\left({\tfrac {64n}{9}}\log(2)\right)^{\frac {1}{3}}\left(\log(n\log(2))\right)^{\frac {2}{3}}\right)\right)" /></span></dd>
+</dl>
+<p>to factor an <i>n</i>-bit integer. However, the best known <a href="/wiki/Quantum_algorithm" title="Quantum algorithm">quantum algorithm</a> for this problem, <a href="/wiki/Shor%27s_algorithm" title="Shor's algorithm">Shor's algorithm</a>, does run in polynomial time. Unfortunately, this fact doesn't say much about where the problem lies with respect to non-quantum complexity classes.</p>
+<h2><span class="mw-headline" id="Does_P_mean_.22easy.22.3F">Does P mean "easy"?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=5" title="Edit section: Does P mean &quot;easy&quot;?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a href="/wiki/File:KnapsackEmpComplexity.GIF" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/KnapsackEmpComplexity.GIF/310px-KnapsackEmpComplexity.GIF" width="310" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/KnapsackEmpComplexity.GIF/465px-KnapsackEmpComplexity.GIF 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/KnapsackEmpComplexity.GIF/620px-KnapsackEmpComplexity.GIF 2x" data-file-width="658" data-file-height="388" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:KnapsackEmpComplexity.GIF" class="internal" title="Enlarge"></a></div>
+The graph shows time (average of 100 instances in ms using a 933 MHz Pentium III) vs.problem size for knapsack problems for a state-of-the-art specialized algorithm. Quadratic fit suggests that empirical algorithmic complexity for instances with 50–10,000 variables is O((log(<i>n</i>))<sup>2</sup>).<sup id="cite_ref-Pisinger2003_12-0" class="reference"><a href="#cite_note-Pisinger2003-12">[12]</a></sup></div>
+</div>
+</div>
+<p>All of the above discussion has assumed that <b>P</b> means "easy" and "not in <b>P</b>" means "hard", an assumption known as <i><a href="/wiki/Cobham%27s_thesis" title="Cobham's thesis">Cobham's thesis</a></i>. It is a common and reasonably accurate assumption in complexity theory; however, it has some caveats.</p>
+<p>First, it is not always true in practice. A theoretical polynomial algorithm may have extremely large constant factors or exponents thus rendering it impractical. On the other hand, even if a problem is shown to be <b>NP</b>-complete, and even if <b>P</b> ≠ <b>NP</b>, there may still be effective approaches to tackling the problem in practice. There are algorithms for many <b>NP</b>-complete problems, such as the <a href="/wiki/Knapsack_problem" title="Knapsack problem">knapsack problem</a>, the <a href="/wiki/Traveling_salesman_problem" class="mw-redirect" title="Traveling salesman problem">traveling salesman problem</a> and the <a href="/wiki/Boolean_satisfiability_problem" title="Boolean satisfiability problem">boolean satisfiability problem</a>, that can solve to optimality many real-world instances in reasonable time. The empirical <a href="/wiki/Average-case_complexity" title="Average-case complexity">average-case complexity</a> (time vs. problem size) of such algorithms can be surprisingly low. A famous example is the <a href="/wiki/Simplex_algorithm" title="Simplex algorithm">simplex algorithm</a> in <a href="/wiki/Linear_programming" title="Linear programming">linear programming</a>, which works surprisingly well in practice; despite having exponential worst-case <a href="/wiki/Time_complexity" title="Time complexity">time complexity</a> it runs on par with the best known polynomial-time algorithms.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Second, there are types of computations which do not conform to the Turing machine model on which <b>P</b> and <b>NP</b> are defined, such as <a href="/wiki/Quantum_computation" class="mw-redirect" title="Quantum computation">quantum computation</a> and <a href="/wiki/Randomized_algorithm" title="Randomized algorithm">randomized algorithms</a>.</p>
+<h2><span class="mw-headline" id="Reasons_to_believe_P_.E2.89.A0_NP">Reasons to believe P ≠ NP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=6" title="Edit section: Reasons to believe P ≠ NP">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to polls,<sup id="cite_ref-poll_5-1" class="reference"><a href="#cite_note-poll-5">[5]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> many computer scientists believe that <b>P</b>&#160;≠&#160;<b>NP</b>. A key reason for this belief is that after decades of studying these problems no one has been able to find a polynomial-time algorithm for any of more than 3000 important known <b>NP</b>-complete problems (see <a href="/wiki/List_of_NP-complete_problems" title="List of NP-complete problems">List of <b>NP</b>-complete problems</a>). These algorithms were sought long before the concept of <b>NP</b>-completeness was even defined (<a href="/wiki/Karp%27s_21_NP-complete_problems" title="Karp's 21 NP-complete problems">Karp's 21 <b>NP</b>-complete problems</a>, among the first found, were all well-known existing problems at the time they were shown to be <b>NP</b>-complete). Furthermore, the result <b>P</b> = <b>NP</b> would imply many other startling results that are currently believed to be false, such as <b>NP</b> = <b><a href="/wiki/Co-NP" title="Co-NP">co-NP</a></b> and <b>P</b> = <b><a href="/wiki/PH_(complexity)" title="PH (complexity)">PH</a></b>.</p>
+<p>It is also intuitively argued that the existence of problems that are hard to solve but for which the solutions are easy to verify matches real-world experience.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<blockquote class="templatequote">
+<p>If <b>P</b> = <b>NP</b>, then the world would be a profoundly different place than we usually assume it to be. There would be no special value in "creative leaps," no fundamental gap between solving a problem and recognizing the solution once it's found. Everyone who could appreciate a symphony would be Mozart; everyone who could follow a step-by-step argument would be Gauss...</p>
+<div class="templatequotecite"><cite>— <a href="/wiki/Scott_Aaronson" title="Scott Aaronson">Scott Aaronson</a>, <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a></cite></div>
+</blockquote>
+<p>On the other hand, some researchers believe that there is overconfidence in believing <b>P</b> ≠ <b>NP</b> and that researchers should explore proofs of <b>P</b> = <b>NP</b> as well. For example, in 2002 these statements were made:<sup id="cite_ref-poll_5-2" class="reference"><a href="#cite_note-poll-5">[5]</a></sup></p>
+<blockquote class="templatequote">
+<p>The main argument in favor of <b>P</b>&#160;≠&#160;<b>NP</b> is the total lack of fundamental progress in the area of exhaustive search. This is, in my opinion, a very weak argument. The space of algorithms is very large and we are only at the beginning of its exploration. [...] The resolution of <a href="/wiki/Fermat%27s_Last_Theorem" title="Fermat's Last Theorem">Fermat's Last Theorem</a> also shows that very simple questions may be settled only by very deep theories.</p>
+<div class="templatequotecite"><cite>— <a href="/wiki/Moshe_Y._Vardi" class="mw-redirect" title="Moshe Y. Vardi">Moshe Y. Vardi</a>, <a href="/wiki/Rice_University" title="Rice University">Rice University</a></cite></div>
+</blockquote>
+<blockquote class="templatequote">
+<p>Being attached to a speculation is not a good guide to research planning. One should always try both directions of every problem. Prejudice has caused famous mathematicians to fail to solve famous problems whose solution was opposite to their expectations, even though they had developed all the methods required.</p>
+<div class="templatequotecite"><cite>— <a href="/wiki/Anil_Nerode" title="Anil Nerode">Anil Nerode</a>, <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="Consequences_of_the_resolution_of_the_problem">Consequences of the resolution of the problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=7" title="Edit section: Consequences of the resolution of the problem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the reasons the problem attracts so much attention is the consequences of the answer. Either direction of resolution would advance theory enormously, and perhaps have huge practical consequences as well.</p>
+<h3><span class="mw-headline" id="P_.3D_NP">P = NP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=8" title="Edit section: P = NP">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A proof that <b>P</b> = <b>NP</b> could have stunning practical consequences, if the proof leads to efficient methods for solving some of the important problems in <b>NP</b>. It is also possible that a proof would not lead directly to efficient methods, perhaps if the proof is non-constructive, or the size of the bounding polynomial is too big to be efficient in practice. The consequences, both positive and negative, arise since various <b>NP</b>-complete problems are fundamental in many fields.</p>
+<p>Cryptography, for example, relies on certain problems being difficult. A constructive and efficient solution to an <b>NP</b>-complete problem such as <a href="/wiki/Boolean_satisfiability_problem#3-satisfiability" title="Boolean satisfiability problem">3-SAT</a> would break most existing cryptosystems including <a href="/wiki/Public-key_cryptography" title="Public-key cryptography">public-key cryptography</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> a foundation for many modern security applications such as secure economic transactions over the Internet, and <a href="/wiki/Symmetric_cipher" class="mw-redirect" title="Symmetric cipher">symmetric ciphers</a> such as <a href="/wiki/Advanced_Encryption_Standard" title="Advanced Encryption Standard">AES</a> or <a href="/wiki/Triple_DES" title="Triple DES">3DES</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> used for the encryption of communications data. These would need to be modified or replaced by <a href="/wiki/Information-theoretic_security" title="Information-theoretic security">information-theoretically secure</a> solutions.</p>
+<p>On the other hand, there are enormous positive consequences that would follow from rendering tractable many currently mathematically intractable problems. For instance, many problems in <a href="/wiki/Operations_research" title="Operations research">operations research</a> are <b>NP</b>-complete, such as some types of <a href="/wiki/Integer_programming" title="Integer programming">integer programming</a>, and the <a href="/wiki/Travelling_salesman_problem" title="Travelling salesman problem">travelling salesman problem</a>, to name two of the most famous examples. Efficient solutions to these problems would have enormous implications for logistics. Many other important problems, such as some problems in <a href="/wiki/Protein_structure_prediction" title="Protein structure prediction">protein structure prediction</a>, are also <b>NP</b>-complete;<sup id="cite_ref-Berger_18-0" class="reference"><a href="#cite_note-Berger-18">[18]</a></sup> if these problems were efficiently solvable it could spur considerable advances in biology.</p>
+<p>But such changes may pale in significance compared to the revolution an efficient method for solving <b>NP</b>-complete problems would cause in mathematics itself. According to <a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a>,<sup id="cite_ref-Official_Problem_Description_19-0" class="reference"><a href="#cite_note-Official_Problem_Description-19">[19]</a></sup></p>
+<blockquote class="templatequote">
+<p>...it would transform mathematics by allowing a computer to find a formal proof of any theorem which has a proof of a reasonable length, since formal proofs can easily be recognized in polynomial time. Example problems may well include all of the <a href="/wiki/Clay_Math_Institute#Millennium_Prize_Problems" class="mw-redirect" title="Clay Math Institute">CMI prize problems</a>.</p>
+</blockquote>
+<p>Research mathematicians spend their careers trying to prove theorems, and some proofs have taken decades or even centuries to find after problems have been stated—for instance, <a href="/wiki/Fermat%27s_Last_Theorem" title="Fermat's Last Theorem">Fermat's Last Theorem</a> took over three centuries to prove. A method that is guaranteed to find proofs to theorems, should one exist of a "reasonable" size, would essentially end this struggle.</p>
+<h3><span class="mw-headline" id="P_.E2.89.A0_NP">P ≠ NP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=9" title="Edit section: P ≠ NP">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A proof that showed that <b>P</b> ≠ <b>NP</b> would lack the practical computational benefits of a proof that <b>P</b> = <b>NP</b>, but would nevertheless represent a very significant advance in computational complexity theory and provide guidance for future research. It would allow one to show in a formal way that many common problems cannot be solved efficiently, so that the attention of researchers can be focused on partial solutions or solutions to other problems. Due to widespread belief in <b>P</b> ≠ <b>NP</b>, much of this focusing of research has already taken place.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Also <b>P</b> ≠ <b>NP</b> still leaves open the <a href="/wiki/Average-case_complexity" title="Average-case complexity">average-case complexity</a> of hard problems in <b>NP</b>. For example, it is possible that SAT requires exponential time in the worst case, but that almost all randomly selected instances of it are efficiently solvable. <a href="/wiki/Russell_Impagliazzo" title="Russell Impagliazzo">Russell Impagliazzo</a> has described five hypothetical "worlds" that could result from different possible resolutions to the average-case complexity question.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> These range from "Algorithmica", where <b>P</b> = <b>NP</b> and problems like SAT can be solved efficiently in all instances, to "Cryptomania", where <b>P</b> ≠ <b>NP</b> and generating hard instances of problems outside <b>P</b> is easy, with three intermediate possibilities reflecting different possible distributions of difficulty over instances of <b>NP-hard</b> problems. The "world" where <b>P</b> ≠ <b>NP</b> but all problems in <b>NP</b> are tractable in the average case is called "Heuristica" in the paper. A <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> workshop in 2009 studied the status of the five worlds.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="Results_about_difficulty_of_proof">Results about difficulty of proof</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=10" title="Edit section: Results about difficulty of proof">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the <b>P</b> = <b>NP</b>? problem itself remains open, despite a million-dollar prize and a huge amount of dedicated research, efforts to solve the problem have led to several new techniques. In particular, some of the most fruitful research related to the <b>P</b> = <b>NP</b> problem has been in showing that existing proof techniques are not powerful enough to answer the question, thus suggesting that novel technical approaches are required.</p>
+<p>As additional evidence for the difficulty of the problem, essentially all known proof techniques in <a href="/wiki/Computational_complexity" class="mw-disambig" title="Computational complexity">computational complexity</a> theory fall into one of the following classifications, each of which is known to be insufficient to prove that <b>P</b> ≠ <b>NP</b>:</p>
+<table class="wikitable">
+<tr>
+<th>Classification</th>
+<th>Definition</th>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Relativizing_proof&amp;action=edit&amp;redlink=1" class="new" title="Relativizing proof (page does not exist)">Relativizing proofs</a></td>
+<td>Imagine a world where every algorithm is allowed to make queries to some fixed subroutine called an <a href="/wiki/Oracle_machine" title="Oracle machine">oracle</a>, and the running time of the oracle is not counted against the running time of the algorithm. Most proofs (especially classical ones) apply uniformly in a world with oracles regardless of what the oracle does. These proofs are called <i>relativizing</i>. In 1975, Baker, Gill, and <a href="/wiki/Robert_M._Solovay" title="Robert M. Solovay">Solovay</a> showed that <b>P</b> = <b>NP</b> with respect to some oracles, while <b>P</b> ≠ <b>NP</b> for other oracles.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Since relativizing proofs can only prove statements that are uniformly true with respect to all possible oracles, this showed that relativizing techniques cannot resolve <b>P</b> = <b>NP</b>.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Natural_proof" title="Natural proof">Natural proofs</a></td>
+<td>In 1993, <a href="/wiki/Alexander_Razborov" title="Alexander Razborov">Alexander Razborov</a> and <a href="/wiki/Steven_Rudich" title="Steven Rudich">Steven Rudich</a> defined a general class of proof techniques for circuit complexity lower bounds, called <i><a href="/wiki/Natural_proof" title="Natural proof">natural proofs</a></i>. At the time all previously known circuit lower bounds were natural, and circuit complexity was considered a very promising approach for resolving <b>P</b> = <b>NP</b>. However, Razborov and Rudich showed that, if <a href="/wiki/One-way_functions" class="mw-redirect" title="One-way functions">one-way functions</a> exist, then no natural proof method can distinguish between <b>P</b> and <b>NP</b>. Although one-way functions have never been formally proven to exist, most mathematicians believe that they do, and a proof or disproof of their existence would be a much stronger statement than the quantification of <b>P</b> relative to <b>NP</b>. Thus it is unlikely that natural proofs alone can resolve <b>P</b> = <b>NP</b>.</td>
+</tr>
+<tr>
+<td>Algebrizing proofs</td>
+<td>After the Baker-Gill-Solovay result, new non-relativizing proof techniques were successfully used to prove that <a href="/wiki/IP_(complexity)" title="IP (complexity)">IP</a> = <a href="/wiki/PSPACE" title="PSPACE">PSPACE</a>. However, in 2008, <a href="/wiki/Scott_Aaronson" title="Scott Aaronson">Scott Aaronson</a> and <a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Avi Wigderson</a> showed that the main technical tool used in the <b>IP</b> = <b>PSPACE</b> proof, known as <i>arithmetization</i>, was also insufficient to resolve <b>P</b> = <b>NP</b>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td>
+</tr>
+</table>
+<p>These barriers are another reason why <b>NP</b>-complete problems are useful: if a polynomial-time algorithm can be demonstrated for an <b>NP</b>-complete problem, this would solve the <b>P</b> = <b>NP</b> problem in a way not excluded by the above results.</p>
+<p>These barriers have also led some computer scientists to suggest that the <b>P</b> versus <b>NP</b> problem may be <a href="/wiki/Independence_(mathematical_logic)" title="Independence (mathematical logic)">independent</a> of standard axiom systems like <a href="/wiki/ZFC" class="mw-redirect" title="ZFC">ZFC</a> (cannot be proved or disproved within them). The interpretation of an independence result could be that either no polynomial-time algorithm exists for any <b>NP</b>-complete problem, and such a proof cannot be constructed in (e.g.) ZFC, or that polynomial-time algorithms for <b>NP</b>-complete problems may exist, but it's impossible to prove in ZFC that such algorithms are correct.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> However, if it can be shown, using techniques of the sort that are currently known to be applicable, that the problem cannot be decided even with much weaker assumptions extending the <a href="/wiki/Peano_axioms" title="Peano axioms">Peano axioms</a> (PA) for integer arithmetic, then there would necessarily exist nearly-polynomial-time algorithms for every problem in <b>NP</b>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Therefore, if one believes (as most complexity theorists do) that not all problems in <b>NP</b> have efficient algorithms, it would follow that proofs of independence using those techniques cannot be possible. Additionally, this result implies that proving independence from PA or ZFC using currently known techniques is no easier than proving the existence of efficient algorithms for all problems in <b>NP</b>.</p>
+<h2><span class="mw-headline" id="Claimed_solutions">Claimed solutions <span id="Deolalikar"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=11" title="Edit section: Claimed solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While the <b>P</b> versus <b>NP</b> problem is generally considered unsolved,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> many amateur and some professional researchers have claimed solutions. Woeginger (2010) has a comprehensive list.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> An August 2010 claim of proof that <b>P</b> ≠ <b>NP</b>, by Vinay Deolalikar, researcher at <a href="/wiki/HP_Labs" title="HP Labs">HP Labs</a>, <a href="/wiki/Palo_Alto" class="mw-redirect" title="Palo Alto">Palo Alto</a>, received heavy Internet and press attention after being initially described as "<span class="nowrap">seem[ing]</span> to be a relatively serious attempt" by two leading specialists.<sup id="cite_ref-NYT2010_29-0" class="reference"><a href="#cite_note-NYT2010-29">[29]</a></sup> The proof has been reviewed publicly by academics,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> and <a href="/wiki/Neil_Immerman" title="Neil Immerman">Neil Immerman</a>, an expert in the field, had pointed out two possibly fatal errors in the proof.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> As of 15 September 2010, Deolalikar was reported to be working on a detailed expansion of his attempted proof.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> However, opinions expressed by several notable theoretical computer scientists indicate that the attempted proof is neither correct nor a significant advancement in the understanding of the problem.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h2><span class="mw-headline" id="Logical_characterizations">Logical characterizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=12" title="Edit section: Logical characterizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>P</b> = <b>NP</b> problem can be restated in terms of expressible certain classes of logical statements, as a result of work in <a href="/wiki/Descriptive_complexity" class="mw-redirect" title="Descriptive complexity">descriptive complexity</a>. All languages (of finite structures with a fixed <a href="/wiki/Signature_(logic)" title="Signature (logic)">signature</a> including a <a href="/wiki/Linear_order" class="mw-redirect" title="Linear order">linear order</a> relation) in <b>P</b> can be expressed in <a href="/wiki/First-order_logic" title="First-order logic">first-order logic</a> with the addition of a suitable least <a href="/wiki/Fixed-point_combinator" title="Fixed-point combinator">fixed-point combinator</a> (effectively, this, in combination with the order, allows the definition of recursive functions); indeed, (as long as the signature contains at least one predicate or function in addition to the distinguished order relation [so that the amount of space taken to store such finite structures is actually polynomial in the number of elements in the structure]), this precisely characterizes <b>P</b>. Similarly, <b>NP</b> is the set of languages expressible in existential <a href="/wiki/Second-order_logic" title="Second-order logic">second-order logic</a>—that is, second-order logic restricted to exclude <a href="/wiki/Universal_quantification" title="Universal quantification">universal quantification</a> over relations, functions, and subsets. The languages in the <a href="/wiki/Polynomial_hierarchy" title="Polynomial hierarchy">polynomial hierarchy</a>, <b><a href="/wiki/PH_(complexity)" title="PH (complexity)">PH</a></b>, correspond to all of second-order logic. Thus, the question "is <b>P</b> a proper subset of <b>NP</b>" can be reformulated as "is existential second-order logic able to describe languages (of finite linearly ordered structures with nontrivial signature) that first-order logic with least fixed point cannot?".<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> The word "existential" can even be dropped from the previous characterization, since <b>P</b> = <b>NP</b> if and only if <b>P</b> = <b>PH</b> (as the former would establish that <b>NP</b> = <b>co-NP</b>, which in turn implies that <b>NP</b> = <b>PH</b>). <a href="/wiki/PSPACE" title="PSPACE">PSPACE</a> = <a href="/wiki/NPSPACE" class="mw-redirect" title="NPSPACE">NPSPACE</a> as established <a href="/wiki/Savitch%27s_theorem" title="Savitch's theorem">Savitch's theorem</a>, this follows directly from the fact that the square of a polynomial function is still a polynomial function. However, it has yet to be proven if a similar relationship may or may not exist between the polynomial time complexity classes <b><a href="/wiki/P_(complexity)" title="P (complexity)">P</a></b> and <b><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a></b>, so the question is still open.</p>
+<h2><span class="mw-headline" id="Polynomial-time_algorithms">Polynomial-time algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=13" title="Edit section: Polynomial-time algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>No algorithm for any <b>NP</b>-complete problem is known to run in polynomial time. However, there are algorithms for <b>NP</b>-complete problems with the property that if <b>P</b> = <b>NP</b>, then the algorithm runs in polynomial time (although with enormous constants, making the algorithm impractical). The following algorithm, due to <a href="/wiki/Leonid_Levin" title="Leonid Levin">Levin</a> (without any citation), is such an example below. It correctly accepts the <b>NP</b>-complete language <a href="/wiki/Subset_sum_problem" title="Subset sum problem">SUBSET-SUM</a>. It runs polynomial time if and only if <b>P</b> = <b>NP</b>:</p>
+<pre>
+// Algorithm that accepts the <b>NP</b>-complete language SUBSET-SUM.
+//
+// this is a polynomial-time algorithm if and only if <b>P</b> = <b>NP</b>.
+//
+// "Polynomial-time" means it returns "yes" in polynomial time when
+// the answer should be "yes", and runs forever when it is "no".
+//
+// Input: S = a finite set of integers
+// Output: "yes" if any subset of S adds up to 0.
+// Runs forever with no output otherwise.
+// Note: "Program number P" is the program obtained by
+// writing the integer P in binary, then
+// considering that string of bits to be a
+// program. Every possible program can be
+// generated this way, though most do nothing
+// because of syntax errors. <br />FOR N = 1...∞
+  FOR P = 1...N
+    Run program number P for N steps with input S
+    IF the program outputs a list of distinct integers
+      AND the integers are all in S
+      AND the integers sum to 0<br />    THEN
+      OUTPUT "yes" and HALT
+</pre>
+<p>If, and only if, <b>P</b> = <b>NP</b>, then this is a polynomial-time algorithm accepting an <b>NP</b>-complete language. "Accepting" means it gives "yes" answers in polynomial time, but is allowed to run forever when the answer is "no".</p>
+<p>This algorithm is enormously impractical, even if <b>P</b> = <b>NP</b>. If the shortest program that can solve SUBSET-SUM in polynomial time is <i>b</i> bits long, the above algorithm will try at least 2<sup><i>b</i></sup>−1 other programs first.</p>
+<h2><span class="mw-headline" id="Formal_definitions_for_P_and_NP">Formal definitions for P and NP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=14" title="Edit section: Formal definitions for P and NP">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Conceptually a <i>decision problem</i> is a problem that takes as input some <a href="/wiki/String_(computer_science)" title="String (computer science)">string</a> <i>w</i> over an alphabet Σ, and outputs "yes" or "no". If there is an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> (say a <a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a>, or a <a href="/wiki/Computer_programming" title="Computer programming">computer program</a> with unbounded memory) that can produce the correct answer for any input string of length <i>n</i> in at most <i>cn<sup>k</sup></i> steps, where <i>k</i> and <i>c</i> are constants independent of the input string, then we say that the problem can be solved in <i>polynomial time</i> and we place it in the class <b>P</b>. Formally, <b>P</b> is defined as the set of all languages that can be decided by a deterministic polynomial-time Turing machine. That is,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">P</mi>
+        </mrow>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>L</mi>
+        <mo>:</mo>
+        <mi>L</mi>
+        <mo>=</mo>
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <mi>M</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;for some deterministic polynomial-time Turing machine&#xA0;</mtext>
+        </mrow>
+        <mi>M</mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {P} =\{L:L=L(M){\text{ for some deterministic polynomial-time Turing machine }}M\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ad99118aeb4401577b4a2787bcd29e03115a2bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:81.308ex; height:2.843ex;" alt="\mathbf {P} =\{L:L=L(M){\text{ for some deterministic polynomial-time Turing machine }}M\}" /></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+        <mo stretchy="false">(</mo>
+        <mi>M</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>w</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mo>:</mo>
+        <mi>M</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;accepts&#xA0;</mtext>
+        </mrow>
+        <mi>w</mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L(M)=\{w\in \Sigma ^{*}:M{\text{ accepts }}w\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/054f106a62486b09305b6a4191da1a06d66153ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:33.289ex; height:2.843ex;" alt="L(M)=\{w\in \Sigma ^{*}:M{\text{ accepts }}w\}" /></span></dd>
+</dl>
+<p>and a deterministic polynomial-time Turing machine is a deterministic Turing machine <i>M</i> that satisfies the following two conditions:</p>
+<ol>
+<li><i>M</i> halts on all input <i>w</i> and</li>
+<li>there exists <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k\in N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc8695d703e66cb6e8c4a9544835cbc81c4db4f9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.147ex; height:2.176ex;" alt="k\in N" /></span> such that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>M</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>O</mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{M}(n)\in O(n^{k})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4526a52b15c74348370cf8c8dc2d9dffd4e19012" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.536ex; height:3.176ex;" alt="T_M(n)\in O(n^{k})" /></span>, where O refers to the <a href="/wiki/Big_O_notation#Formal_definition" title="Big O notation">big O notation</a> and</li>
+</ol>
+<dl>
+<dd>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>M</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo movablelimits="true" form="prefix">max</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>M</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>:</mo>
+        <mi>w</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mo>,</mo>
+        <mrow>
+          <mo>|</mo>
+          <mi>w</mi>
+          <mo>|</mo>
+        </mrow>
+        <mo>=</mo>
+        <mi>n</mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{M}(n)=\max\{t_{M}(w):w\in \Sigma ^{*},\left|w\right|=n\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8051623bec945801cde95d982b7863674f2088c1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:40.474ex; height:2.843ex;" alt="T_M(n) = \max\{ t_M(w) : w\in\Sigma^{*}, \left|w\right| = n \}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>M</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;number of steps&#xA0;</mtext>
+        </mrow>
+        <mi>M</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;takes to halt on input&#xA0;</mtext>
+        </mrow>
+        <mi>w</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t_{M}(w)={\text{ number of steps }}M{\text{ takes to halt on input }}w.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c1249947cc8ca2992160da7ac626e9752f2bd12" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:54.24ex; height:2.843ex;" alt="t_{M}(w)={\text{ number of steps }}M{\text{ takes to halt on input }}w." /></span></dd>
+</dl>
+</dd>
+</dl>
+<p><b>NP</b> can be defined similarly using nondeterministic Turing machines (the traditional way). However, a modern approach to define <b>NP</b> is to use the concept of <i><a href="/wiki/Certificate_(complexity)" title="Certificate (complexity)">certificate</a></i> and <i>verifier</i>. Formally, <b>NP</b> is defined as the set of languages over a finite alphabet that have a verifier that runs in polynomial time, where the notion of "verifier" is defined as follows.</p>
+<p>Let <i>L</i> be a language over a finite alphabet, Σ.</p>
+<p><i>L</i> ∈ <b>NP</b> if, and only if, there exists a binary relation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>&#x2282;<!-- ⊂ --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mo>&#x00D7;<!-- × --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R\subset \Sigma ^{*}\times \Sigma ^{*}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c11a88bb17429fb2afb1ea019b50d785c54304ca" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:13.235ex; height:2.343ex;" alt="R\subset \Sigma ^{*}\times \Sigma ^{*}" /></span> and a positive integer <i>k</i> such that the following two conditions are satisfied:</p>
+<ol>
+<li>For all <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\in \Sigma ^{*}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/075eb8da700827174d5f09fa9064d4d3542397f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.941ex; height:2.343ex;" alt="x\in \Sigma ^{*}" /></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>L</mi>
+        <mo stretchy="false">&#x21D4;<!-- ⇔ --></mo>
+        <mi mathvariant="normal">&#x2203;<!-- ∃ --></mi>
+        <mi>y</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\in L\Leftrightarrow \exists y\in \Sigma ^{*}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48a042f5b4c68ceb6a30d2f4eda9e5c720b00e69" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:17.479ex; height:2.676ex;" alt="x\in L\Leftrightarrow \exists y\in \Sigma ^{*}" /></span> such that (<i>x</i>, <i>y</i>) ∈ <i>R</i> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>y</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>O</mi>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>x</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |y|\in O(|x|^{k})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64d2ceeea14de0d3cc967a0ed81a1d3fb2bc4d5f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.696ex; height:3.343ex;" alt="|y|\in O(|x|^{k})" /></span>; and</li>
+<li>the language <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>R</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>x</mi>
+        <mi mathvariant="normal">&#x0023;<!-- # --></mi>
+        <mi>y</mi>
+        <mo>:</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>R</mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L_{R}=\{x\#y:(x,y)\in R\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa37957f56f73b1cfbc2655b6822a0d05ff5f01d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:24.941ex; height:2.843ex;" alt="L_{R}=\{x\#y:(x,y)\in R\}" /></span> over <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x03A3;<!-- Σ --></mi>
+        <mo>&#x222A;<!-- ∪ --></mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi mathvariant="normal">&#x0023;<!-- # --></mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Sigma \cup \{\#\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c2b919bf9b9ec97abd2d46cdbba1f083227d632" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.574ex; height:2.843ex;" alt="\Sigma \cup \{\#\}" /></span> is decidable by a Turing machine in polynomial time.</li>
+</ol>
+<p>A Turing machine that decides <i>L<sub>R</sub></i> is called a <i>verifier</i> for <i>L</i> and a <i>y</i> such that (<i>x</i>, <i>y</i>) ∈ <i>R</i> is called a <i>certificate of membership</i> of <i>x</i> in <i>L</i>.</p>
+<p>In general, a verifier does not have to be polynomial-time. However, for <i>L</i> to be in <b>NP</b>, there must be a verifier that runs in polynomial time.</p>
+<h3><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=15" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Let</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">C</mi>
+          <mi mathvariant="normal">O</mi>
+          <mi mathvariant="normal">M</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">O</mi>
+          <mi mathvariant="normal">S</mi>
+          <mi mathvariant="normal">I</mi>
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">E</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow>
+          <mo>{</mo>
+          <mi>x</mi>
+          <mo>&#x2208;<!-- ∈ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">N</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mi>x</mi>
+          <mo>=</mo>
+          <mi>p</mi>
+          <mi>q</mi>
+          <mspace width="thickmathspace" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>for integers</mtext>
+          </mrow>
+          <mspace width="thickmathspace" />
+          <mi>p</mi>
+          <mo>,</mo>
+          <mi>q</mi>
+          <mo>&gt;</mo>
+          <mn>1</mn>
+          <mo>}</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {COMPOSITE} =\left\{x\in \mathbb {N} |x=pq\;{\text{for integers}}\;p,q&gt;1\right\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73ea2730d8379380db55da281b4eca5c1d79b03a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:53.453ex; height:2.843ex;" alt="\mathrm{COMPOSITE} = \left \{x\in\mathbb{N} | x=pq \;\text{for integers}\; p, q &gt; 1 \right \}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+        <mrow>
+          <mo>{</mo>
+          <mo stretchy="false">(</mo>
+          <mi>x</mi>
+          <mo>,</mo>
+          <mi>y</mi>
+          <mo stretchy="false">)</mo>
+          <mo>&#x2208;<!-- ∈ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">N</mi>
+          </mrow>
+          <mo>&#x00D7;<!-- × --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">N</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mn>1</mn>
+          <mo>&lt;</mo>
+          <mi>y</mi>
+          <mo>&#x2264;<!-- ≤ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msqrt>
+              <mi>x</mi>
+            </msqrt>
+          </mrow>
+          <mspace width="thickmathspace" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>and</mtext>
+          </mrow>
+          <mspace width="thickmathspace" />
+          <mi>y</mi>
+          <mspace width="thickmathspace" />
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>divides</mtext>
+          </mrow>
+          <mspace width="thickmathspace" />
+          <mi>x</mi>
+          <mo>}</mo>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=\left\{(x,y)\in \mathbb {N} \times \mathbb {N} |1&lt;y\leq {\sqrt {x}}\;{\text{and}}\;y\;{\text{divides}}\;x\right\}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca5cfd063598ebf2ad3fd3d7e6613ee4ecf18454" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:51.613ex; height:3.343ex;" alt="R = \left \{(x,y)\in\mathbb{N} \times\mathbb{N} | 1&lt;y \leq \sqrt x\; \text{and} \;y\; \text{divides}\; x \right \}." /></span></dd>
+</dl>
+<p>Clearly, the question of whether a given <i>x</i> is a <a href="/wiki/Composite_number" title="Composite number">composite</a> is equivalent to the question of whether <i>x</i> is a member of COMPOSITE. It can be shown that COMPOSITE ∈ <b>NP</b> by verifying that it satisfies the above definition (if we identify natural numbers with their binary representations).</p>
+<p>COMPOSITE also happens to be in <b>P</b>.<sup id="cite_ref-Agrawal_36-0" class="reference"><a href="#cite_note-Agrawal-36">[36]</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<h2><span class="mw-headline" id="Formal_definition_for_NP-completeness">Formal definition for NP-completeness</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=16" title="Edit section: Formal definition for NP-completeness">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many equivalent ways of describing <b>NP</b>-completeness.</p>
+<p>Let <i>L</i> be a language over a finite alphabet Σ.</p>
+<p><i>L</i> is <b>NP</b>-complete if, and only if, the following two conditions are satisfied:</p>
+<ol>
+<li><i>L</i> ∈ <b>NP</b>; and</li>
+<li>any <i>L′</i> in <b>NP</b> is polynomial-time-reducible to <i>L</i> (written as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>L</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msub>
+          <mo>&#x2264;<!-- ≤ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L'\leq _{p}L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63a5e90d0dd696a441d88b301d9f60e81bc1f111" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.054ex; height:3.176ex;" alt="L&#039;\leq _{p}L" /></span>), where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>L</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <msub>
+          <mo>&#x2264;<!-- ≤ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L'\leq _{p}L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63a5e90d0dd696a441d88b301d9f60e81bc1f111" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.054ex; height:3.176ex;" alt="L&#039;\leq _{p}L" /></span> if, and only if, the following two conditions are satisfied:
+<ol>
+<li>There exists <i>f</i>&#160;: Σ* → Σ* such that for all <i>w</i> in Σ* we have: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi>L</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo stretchy="false">&#x21D4;<!-- ⇔ --></mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>L</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (w\in L'\Leftrightarrow f(w)\in L)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71b14fda78c5eb95ccb83e9eef11c02c9eabb84c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:21.504ex; height:3.009ex;" alt="(w\in L&#039;\Leftrightarrow f(w)\in L)" /></span>; and</li>
+<li>there exists a polynomial-time Turing machine that halts with <i>f</i>(<i>w</i>) on its tape on any input <i>w</i>.</li>
+</ol>
+</li>
+</ol>
+<h2><span class="mw-headline" id="Popular_culture">Popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=17" title="Edit section: Popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The film <i><a href="/wiki/Travelling_Salesman_(2012_film)" title="Travelling Salesman (2012 film)">Travelling Salesman</a></i>, by director Timothy Lanzone, is the story of four mathematicians hired by the US government to solve the P vs. NP problem.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Game_complexity" title="Game complexity">Game complexity</a></li>
+<li><a href="/wiki/Unique_games_conjecture" title="Unique games conjecture">Unique games conjecture</a></li>
+<li><a href="/wiki/Unsolved_problems_in_computer_science" class="mw-redirect" title="Unsolved problems in computer science">Unsolved problems in computer science</a></li>
+<li><a href="/wiki/Unsolved_problems_in_mathematics" class="mw-redirect" title="Unsolved problems in mathematics">Unsolved problems in mathematics</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=19" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Ladner75-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ladner75_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ladner75_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">R. E. Ladner "On the structure of polynomial time reducibility," <a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a>, 22, pp. 151–171, 1975. Corollary 1.1. <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=321877&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">ACM site</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Stephen_Cook" title="Stephen Cook">Cook, Stephen</a> (1971). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?coll=GUIDE&amp;dl=GUIDE&amp;id=805047">"The complexity of theorem proving procedures"</a>. <i>Proceedings of the Third Annual ACM Symposium on Theory of Computing</i>. pp.&#160;151–158.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=The+complexity+of+theorem+proving+procedures&amp;rft.aufirst=Stephen&amp;rft.aulast=Cook&amp;rft.btitle=Proceedings+of+the+Third+Annual+ACM+Symposium+on+Theory+of+Computing&amp;rft.date=1971&amp;rft.genre=bookitem&amp;rft.pages=151-158&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fcoll%3DGUIDE%26dl%3DGUIDE%26id%3D805047&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Lance_Fortnow" title="Lance Fortnow">Lance Fortnow</a>, <a rel="nofollow" class="external text" href="http://www.cs.uchicago.edu/~fortnow/papers/pnp-cacm.pdf"><i>The status of the <b>P</b> versus <b>NP</b> problem</i></a>, Communications of the ACM 52 (2009), no.&#160;9, pp.&#160;78–86. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1562164.1562186">10.1145/1562164.1562186</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Sipser, Michael: <i>Introduction to the Theory of Computation, Second Edition, International Edition</i>, page 270. Thomson Course Technology, 2006. Definition 7.19 and Theorem 7.20.</span></li>
+<li id="cite_note-poll-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-poll_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-poll_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-poll_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">William I. Gasarch (2002). <a rel="nofollow" class="external text" href="http://www.cs.umd.edu/~gasarch/papers/poll.pdf">"The P=?NP poll."</a> <span style="font-size:85%;">(PDF)</span>. <i>SIGACT News</i>. <b>33</b> (2): 34–47. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1052796.1052804">10.1145/1052796.1052804</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=The+P%3D%3FNP+poll.&amp;rft.au=William+I.+Gasarch&amp;rft.date=2002&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=SIGACT+News&amp;rft.pages=34-47&amp;rft.volume=33&amp;rft_id=http%3A%2F%2Fwww.cs.umd.edu%2F~gasarch%2Fpapers%2Fpoll.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F1052796.1052804&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Unknown parameter <code style="color:inherit; border:inherit; padding:inherit;">|month=</code> ignored (<a href="/wiki/Help:CS1_errors#parameter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Scott-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Scott_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Scott Aaronson. <a rel="nofollow" class="external text" href="http://www.scottaaronson.com/democritus/lec6.html">"PHYS771 Lecture 6: P, NP, and Friends"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Scott+Aaronson&amp;rft.btitle=PHYS771+Lecture+6%3A+P%2C+NP%2C+and+Friends&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scottaaronson.com%2Fdemocritus%2Flec6.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fraenkel1981-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fraenkel1981_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Aviezri_Fraenkel" title="Aviezri Fraenkel">Aviezri Fraenkel</a> and D. Lichtenstein (1981). "Computing a perfect strategy for n×n chess requires time exponential in n". <i>J. Comb. Th. A</i> (31): 199–214.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Computing+a+perfect+strategy+for+n%C3%97n+chess+requires+time+exponential+in+n&amp;rft.au=Aviezri+Fraenkel+and+D.+Lichtenstein&amp;rft.date=1981&amp;rft.genre=article&amp;rft.issue=31&amp;rft.jtitle=J.+Comb.+Th.+A&amp;rft.pages=199-214&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/David_Eppstein" title="David Eppstein">David Eppstein</a>. <a rel="nofollow" class="external text" href="http://www.ics.uci.edu/~eppstein/cgt/hard.html">"Computational Complexity of Games and Puzzles"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=David+Eppstein&amp;rft.btitle=Computational+Complexity+of+Games+and+Puzzles&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ics.uci.edu%2F~eppstein%2Fcgt%2Fhard.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AK06-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-AK06_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Arvind, Vikraman; Kurur, Piyush P. (2006). "Graph isomorphism is in SPP". <i>Information and Computation</i>. <b>204</b> (5): 835–852. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ic.2006.02.002">10.1016/j.ic.2006.02.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Graph+isomorphism+is+in+SPP&amp;rft.au=Kurur%2C+Piyush+P.&amp;rft.aufirst=Vikraman&amp;rft.aulast=Arvind&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Information+and+Computation&amp;rft.pages=835-852&amp;rft.volume=204&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ic.2006.02.002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="/wiki/Uwe_Sch%C3%B6ning" title="Uwe Schöning">Uwe Schöning</a>, "Graph isomorphism is in the low hierarchy", Proceedings of the 4th Annual <a href="/wiki/Symposium_on_Theoretical_Aspects_of_Computer_Science" title="Symposium on Theoretical Aspects of Computer Science">Symposium on Theoretical Aspects of Computer Science</a>, 1987, 114–124; also: <i>Journal of Computer and System Sciences</i>, vol. 37 (1988), 312–323</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Lance_Fortnow" title="Lance Fortnow">Lance Fortnow</a>. Computational Complexity Blog: <a rel="nofollow" class="external text" href="http://weblog.fortnow.com/2002/09/complexity-class-of-week-factoring.html">Complexity Class of the Week: Factoring</a>. 13 September 2002.</span></li>
+<li id="cite_note-Pisinger2003-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pisinger2003_12-0">^</a></b></span> <span class="reference-text">Pisinger, D. 2003. "Where are the hard knapsack problems?" Technical Report 2003/08, Department of Computer Science, University of Copenhagen, Copenhagen, Denmark</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFGondzioTerlaky1996" class="citation book">Gondzio, Jacek; Terlaky, Tamás (1996). "3 A computational view of interior point methods". In J.&#160;E. Beasley. <a rel="nofollow" class="external text" href="http://www.maths.ed.ac.uk/~gondzio/CV/oxford.ps"><i>Advances in linear and integer programming</i></a>. Oxford Lecture Series in Mathematics and its Applications. <b>4</b>. New York: Oxford University Press. pp.&#160;103–144. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1438311">1438311</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/Oxford-Clarendon">Press Oxford-Clarendon Press</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span> <span style="font-size:100%" class="error citation-comment">Check <code style="color:inherit; border:inherit; padding:inherit;">|arxiv=</code> value (<a href="/wiki/Help:CS1_errors#bad_arxiv" title="Help:CS1 errors">help</a>)</span>. <a rel="nofollow" class="external text" href="http://www.maths.ed.ac.uk/~gondzio/CV/oxford.ps">Postscript file at website of Gondzio</a> and <a rel="nofollow" class="external text" href="http://www.cas.mcmaster.ca/~terlaky/files/dut-twi-94-73.ps.gz">at McMaster University website of Terlaky</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=3+A+computational+view+of+interior+point+methods&amp;rft.au=Terlaky%2C+Tam%C3%A1s&amp;rft.aufirst=Jacek&amp;rft.aulast=Gondzio&amp;rft.btitle=Advances+in+linear+and+integer+programming&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.pages=103-144&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.series=Oxford+Lecture+Series+in+Mathematics+and+its+Applications&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1438311&amp;rft_id=http%3A%2F%2Fwww.maths.ed.ac.uk%2F~gondzio%2FCV%2Foxford.ps&amp;rft_id=info%3Aarxiv%2FOxford-Clarendon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rosenberger, Jack (May 2012). <a rel="nofollow" class="external text" href="http://mags.acm.org/communications/201205?pg=12">"<b>P</b> vs. <b>NP</b> poll results"</a>. <i>Communications of the ACM</i>. <b>55</b> (5): 10.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=P+vs.+NP+poll+results&amp;rft.aufirst=Jack&amp;rft.aulast=Rosenberger&amp;rft.date=2012-05&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=10&amp;rft.volume=55&amp;rft_id=http%3A%2F%2Fmags.acm.org%2Fcommunications%2F201205%3Fpg%3D12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Scott Aaronson. <a rel="nofollow" class="external text" href="http://scottaaronson.com/blog/?p=122">"Reasons to believe"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Scott+Aaronson&amp;rft.btitle=Reasons+to+believe&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscottaaronson.com%2Fblog%2F%3Fp%3D122&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, point 9.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">See <cite class="citation journal">Horie, S. and Watanabe, O.; Watanabe (1997). "Hard instance generation for SAT". <i>Algorithms and Computation</i>. Lecture Notes in Computer Science. Springer. <b>1350</b>: 22–31. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998cs........9117H">1998cs........9117H</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-63890-2" title="Special:BookSources/978-3-540-63890-2">978-3-540-63890-2</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/cs/9809117">cs/9809117</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F3-540-63890-3_4">10.1007/3-540-63890-3_4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Hard+instance+generation+for+SAT&amp;rft.au=Horie%2C+S.+and+Watanabe%2C+O.&amp;rft.au=Watanabe&amp;rft.date=1997&amp;rft.genre=article&amp;rft.isbn=978-3-540-63890-2&amp;rft.jtitle=Algorithms+and+Computation&amp;rft.pages=22-31&amp;rft.volume=1350&amp;rft_id=info%3Aarxiv%2Fcs%2F9809117&amp;rft_id=info%3Abibcode%2F1998cs........9117H&amp;rft_id=info%3Adoi%2F10.1007%2F3-540-63890-3_4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span> for a reduction of factoring to SAT. A 512 bit factoring problem (8400 MIPS-years when factored) translates to a SAT problem of 63,652 variables and 406,860 clauses.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">See, for example, <cite class="citation journal">Massacci, F. and Marraro, L. (2000). "Logical cryptanalysis as a SAT problem". <i>Journal of Automated Reasoning</i>. Springer. <b>24</b> (1): 165–203. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1023%2FA%3A1006326723002">10.1023/A:1006326723002</a>. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.104.962">10.1.1.104.962</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Logical+cryptanalysis+as+a+SAT+problem&amp;rft.au=Massacci%2C+F.+and+Marraro%2C+L.&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Automated+Reasoning&amp;rft.pages=165-203&amp;rft.volume=24&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1006326723002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span> in which an instance of DES is encoded as a SAT problem with 10336 variables and 61935 clauses. A 3DES problem instance would be about 3 times this size.</span></li>
+<li id="cite_note-Berger-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Berger_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Berger B, Leighton T (1998). "Protein folding in the hydrophobic-hydrophilic (HP) model is <b>NP</b>-complete". <i>J. Comput. Biol</i>. <b>5</b> (1): 27–40. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9541869">9541869</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1089%2Fcmb.1998.5.27">10.1089/cmb.1998.5.27</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Protein+folding+in+the+hydrophobic-hydrophilic+%28HP%29+model+is+NP-complete&amp;rft.au=Berger+B%2C+Leighton+T&amp;rft.date=1998&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=J.+Comput.+Biol.&amp;rft.pages=27-40&amp;rft.volume=5&amp;rft_id=info%3Adoi%2F10.1089%2Fcmb.1998.5.27&amp;rft_id=info%3Apmid%2F9541869&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Official_Problem_Description-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Official_Problem_Description_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Stephen_Cook" title="Stephen Cook">Cook, Stephen</a> (2000). <a rel="nofollow" class="external text" href="http://www.claymath.org/millennium/P_vs_NP/pvsnp.pdf">"The <b>P</b> versus <b>NP</b> Problem"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Clay_Mathematics_Institute" title="Clay Mathematics Institute">Clay Mathematics Institute</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=The+P+versus+NP+Problem&amp;rft.aufirst=Stephen&amp;rft.aulast=Cook&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.claymath.org%2Fmillennium%2FP_vs_NP%2Fpvsnp.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Unknown parameter <code style="color:inherit; border:inherit; padding:inherit;">|month=</code> ignored (<a href="/wiki/Help:CS1_errors#parameter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">L. R. Foulds (1983). "The Heuristic Problem-Solving Approach". <i><a href="/wiki/Journal_of_the_Operational_Research_Society" title="Journal of the Operational Research Society">Journal of the Operational Research Society</a></i>. <b>34</b> (10): 927–934. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2580891">2580891</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2580891">10.2307/2580891</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=The+Heuristic+Problem-Solving+Approach&amp;rft.au=L.+R.+Foulds&amp;rft.date=1983&amp;rft.genre=article&amp;rft.issue=10&amp;rft.jtitle=Journal+of+the+Operational+Research+Society&amp;rft.pages=927-934&amp;rft.volume=34&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2580891&amp;rft_id=info%3Adoi%2F10.2307%2F2580891&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Unknown parameter <code style="color:inherit; border:inherit; padding:inherit;">|month=</code> ignored (<a href="/wiki/Help:CS1_errors#parameter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">R. Impagliazzo, <a rel="nofollow" class="external text" href="http://cseweb.ucsd.edu/~russell/average.ps">"A personal view of average-case complexity,"</a> sct, pp.134, 10th Annual Structure in Complexity Theory Conference (SCT'95), 1995</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://intractability.princeton.edu/blog/2009/05/program-for-workshop-on-impagliazzos-worlds/">http://intractability.princeton.edu/blog/2009/05/program-for-workshop-on-impagliazzos-worlds/</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">T. P. Baker, J. Gill, R. Solovay. <i>Relativizations of the <b>P</b> =? <b>NP</b> Question</i>. <a href="/wiki/SIAM_Journal_on_Computing" title="SIAM Journal on Computing">SIAM Journal on Computing</a>, 4(4): 431–442 (1975)</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation conference">S. Aaronson and A. Wigderson (2008). <a rel="nofollow" class="external text" href="http://www.scottaaronson.com/papers/alg.pdf"><i>Algebrization: A New Barrier in Complexity Theory</i></a> <span style="font-size:85%;">(PDF)</span>. Proceedings of ACM STOC'2008. pp.&#160;731–740. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1374376.1374481">10.1145/1374376.1374481</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=S.+Aaronson+and+A.+Wigderson&amp;rft.btitle=Algebrization%3A+A+New+Barrier+in+Complexity+Theory&amp;rft.date=2008&amp;rft.genre=conference&amp;rft.pages=731-740&amp;rft_id=http%3A%2F%2Fwww.scottaaronson.com%2Fpapers%2Falg.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F1374376.1374481&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Scott_Aaronson" title="Scott Aaronson">Aaronson, Scott</a>. <a rel="nofollow" class="external text" href="http://www.scottaaronson.com/papers/pnp.pdf">"Is <b>P</b> Versus <b>NP</b> Formally Independent?"</a> <span style="font-size:85%;">(PDF)</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.aufirst=Scott&amp;rft.aulast=Aaronson&amp;rft.btitle=Is+P+Versus+NP+Formally+Independent%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scottaaronson.com%2Fpapers%2Fpnp.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ben-David, Shai; Halevi, Shai (1992). <a rel="nofollow" class="external text" href="http://www.cs.technion.ac.il/~shai/ph.ps.gz">"On the independence of P versus NP"</a>. Technical Report. <b>714</b>. Technion</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=On+the+independence+of+P+versus+NP&amp;rft.au=Halevi%2C+Shai&amp;rft.aufirst=Shai&amp;rft.aulast=Ben-David&amp;rft.date=1992&amp;rft.genre=article&amp;rft.volume=714&amp;rft_id=http%3A%2F%2Fwww.cs.technion.ac.il%2F~shai%2Fph.ps.gz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/John_Markoff" title="John Markoff">John Markoff</a> (8 October 2009). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2009/10/08/science/Wpolynom.html">"Prizes Aside, the P-NP Puzzler Has Consequences"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Prizes+Aside%2C+the+P-NP+Puzzler+Has+Consequences&amp;rft.au=John+Markoff&amp;rft.date=2009-10-08&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2009%2F10%2F08%2Fscience%2FWpolynom.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Gerhard J. Woeginger (9 August 2010). <a rel="nofollow" class="external text" href="http://www.win.tue.nl/~gwoegi/P-versus-NP.htm">"The P-versus-NP page"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Gerhard+J.+Woeginger&amp;rft.btitle=The+P-versus-NP+page&amp;rft.date=2010-08-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.win.tue.nl%2F~gwoegi%2FP-versus-NP.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYT2010-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT2010_29-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Markoff, John (16 August 2010). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2010/08/17/science/17proof.html?_r=1">"Step 1: Post Elusive Proof. Step 2: Watch Fireworks."</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Step+1%3A+Post+Elusive+Proof.+Step+2%3A+Watch+Fireworks.&amp;rft.aufirst=John&amp;rft.aulast=Markoff&amp;rft.date=2010-08-16&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2010%2F08%2F17%2Fscience%2F17proof.html%3F_r%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Polymath_Project" title="Polymath Project">Polymath Project</a> wiki. <a rel="nofollow" class="external text" href="http://michaelnielsen.org/polymath1/index.php?title=Deolalikar_P_vs_NP_paper">"Deolalikar's <b>P</b> vs <b>NP</b> paper"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Polymath+Project+wiki&amp;rft.btitle=Deolalikar%27s+P+vs+NP+paper&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmichaelnielsen.org%2Fpolymath1%2Findex.php%3Ftitle%3DDeolalikar_P_vs_NP_paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Science News, <a rel="nofollow" class="external text" href="http://www.sciencenews.org/index/generic/activity/view/id/63252/title/Crowdsourcing_peer_review">"Crowdsourcing peer review"</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Richard_J._Lipton" title="Richard J. Lipton">Dick Lipton</a> (12 August 2010). <a rel="nofollow" class="external text" href="http://rjlipton.wordpress.com/2010/08/12/fatal-flaws-in-deolalikars-proof/">"Fatal Flaws in Deolalikar's Proof?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Dick+Lipton&amp;rft.btitle=Fatal+Flaws+in+Deolalikar%27s+Proof%3F&amp;rft.date=2010-08-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Frjlipton.wordpress.com%2F2010%2F08%2F12%2Ffatal-flaws-in-deolalikars-proof%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Richard_J._Lipton" title="Richard J. Lipton">Dick Lipton</a> (15 September 2010). <a rel="nofollow" class="external text" href="http://rjlipton.wordpress.com/2010/09/15/an-update-on-vinay-deolalikars-proof/">"An Update on Vinay Deolalikar's Proof"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Dick+Lipton&amp;rft.btitle=An+Update+on+Vinay+Deolalikar%27s+Proof&amp;rft.date=2010-09-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Frjlipton.wordpress.com%2F2010%2F09%2F15%2Fan-update-on-vinay-deolalikars-proof%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Gödel’s Lost Letter and P=NP, <a rel="nofollow" class="external text" href="http://rjlipton.wordpress.com/2010/08/10/update-on-deolalikars-proof-that-p%E2%89%A0np/#comment-4885">Update on Deolalikar’s Proof that P≠NP</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Elvira Mayordomo. <a rel="nofollow" class="external text" href="http://www.unizar.es/acz/05Publicaciones/Monografias/MonografiasPublicadas/Monografia26/057Mayordomo.pdf">"P versus NP"</a> <i>Monografías de la Real Academia de Ciencias de Zaragoza</i> <b>26</b>: 57–68 (2004).</span></li>
+<li id="cite_note-Agrawal-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Agrawal_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web">M. Agrawal, N. Kayal, N. Saxena. <a rel="nofollow" class="external text" href="http://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf">"Primes is in P"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=M.+Agrawal%2C+N.+Kayal%2C+N.+Saxena&amp;rft.btitle=Primes+is+in+P&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cse.iitk.ac.in%2Fusers%2Fmanindra%2Falgebra%2Fprimality_v6.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a href="/wiki/AKS_primality_test" title="AKS primality test">AKS primality test</a></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web">Geere, Duncan. <a rel="nofollow" class="external text" href="http://www.wired.co.uk/news/archive/2012-04/26/travelling-salesman">"<span style="padding-left:0.2em;">'</span>Travelling Salesman' movie considers the repercussions if P equals NP"</a>. Wired<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.aufirst=Duncan&amp;rft.aulast=Geere&amp;rft.btitle=%27Travelling+Salesman%27+movie+considers+the+repercussions+if+P+equals+NP&amp;rft.genre=unknown&amp;rft.pub=Wired&amp;rft_id=http%3A%2F%2Fwww.wired.co.uk%2Fnews%2Farchive%2F2012-04%2F26%2Ftravelling-salesman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="error">Attention: This template ({{<a href="/wiki/Template:Cite_doi" title="Template:Cite doi">cite doi</a>}}) is deprecated. To cite the publication identified by doi:10.1007/3-540-10843-2_23, please use {{<a href="/wiki/Template:Cite_journal" title="Template:Cite journal">cite journal</a>}} with <code class="nowrap">|doi=10.1007/3-540-10843-2_23</code> instead.</span></li>
+<li><cite class="citation book">Garey, Michael; Johnson, David (1979). <i>Computers and Intractability: A Guide to the Theory of NP-Completeness</i>. San Francisco: <a href="/wiki/W._H._Freeman_and_Company" title="W. H. Freeman and Company">W. H. Freeman and Company</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-1045-5" title="Special:BookSources/0-7167-1045-5">0-7167-1045-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Johnson%2C+David&amp;rft.aufirst=Michael&amp;rft.aulast=Garey&amp;rft.btitle=Computers+and+Intractability%3A+A+Guide+to+the+Theory+of+NP-Completeness&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-7167-1045-5&amp;rft.place=San+Francisco&amp;rft.pub=W.+H.+Freeman+and+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">line feed character in <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> at position 30 (<a href="/wiki/Help:CS1_errors#invisible_char" title="Help:CS1 errors">help</a>)</span></li>
+<li><cite class="citation book">Goldreich, Oded (2010). <i>P, Np, and Np-Completeness</i>. Cambridge: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-12254-2" title="Special:BookSources/978-0-521-12254-2">978-0-521-12254-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.aufirst=Oded&amp;rft.aulast=Goldreich&amp;rft.btitle=P%2C+Np%2C+and+Np-Completeness&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-0-521-12254-2&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="http://www.wisdom.weizmann.ac.il/~oded/bc-drafts.html">Online drafts</a></li>
+<li><cite class="citation journal">Immerman, N. (1987). <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.4936">"Languages which capture complexity classes"</a>. <i>SIAM Journal of Computing</i>. <b>16</b> (4): 760–778. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1137%2F0216051">10.1137/0216051</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.atitle=Languages+which+capture+complexity+classes&amp;rft.aufirst=N.&amp;rft.aulast=Immerman&amp;rft.date=1987&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=SIAM+Journal+of+Computing&amp;rft.pages=760-778&amp;rft.volume=16&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.50.4936&amp;rft_id=info%3Adoi%2F10.1137%2F0216051&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Cormen, Thomas (2001). <i><a href="/wiki/Introduction_to_Algorithms" title="Introduction to Algorithms">Introduction to Algorithms</a></i>. Cambridge: <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-03293-7" title="Special:BookSources/0-262-03293-7">0-262-03293-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.aufirst=Thomas&amp;rft.aulast=Cormen&amp;rft.btitle=Introduction+to+Algorithms&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-262-03293-7&amp;rft.place=Cambridge&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Papadimitriou, Christos (1994). <i>Computational Complexity</i>. Boston: Addison-Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-53082-1" title="Special:BookSources/0-201-53082-1">0-201-53082-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.aufirst=Christos&amp;rft.aulast=Papadimitriou&amp;rft.btitle=Computational+Complexity&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-201-53082-1&amp;rft.place=Boston&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="error">Attention: This template ({{<a href="/wiki/Template:Cite_doi" title="Template:Cite doi">cite doi</a>}}) is deprecated. To cite the publication identified by doi: 10.1145/1562164.1562186, please use {{<a href="/wiki/Template:Cite_journal" title="Template:Cite journal">cite journal</a>}} with <code class="nowrap">|doi= 10.1145/1562164.1562186</code> instead.</span></li>
+<li><cite class="citation web">Fortnow, L.; Gasarch, W. <a rel="nofollow" class="external text" href="http://weblog.fortnow.com">"Computational complexity"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AP+versus+NP+problem&amp;rft.au=Gasarch%2C+W.&amp;rft.aufirst=L.&amp;rft.aulast=Fortnow&amp;rft.btitle=Computational+complexity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweblog.fortnow.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=P_versus_NP_problem&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.claymath.org/millennium/">The Clay Mathematics Institute Millennium Prize Problems</a></li>
+<li><a href="/w/index.php?title=Template:PDF&amp;action=edit&amp;redlink=1" class="new" title="Template:PDF (page does not exist)">Template:PDF</a></li>
+<li>Gerhard J. Woeginger. <a rel="nofollow" class="external text" href="http://www.win.tue.nl/~gwoegi/P-versus-NP.htm">The P-versus-NP page</a>. A list of links to a number of purported solutions to the problem. Some of these links state that P equals NP, some of them state the opposite. It is probable that all these alleged solutions are incorrect.</li>
+<li><i><a href="/wiki/Complexity_Zoo" class="mw-redirect" title="Complexity Zoo">Complexity Zoo</a></i>: <a rel="nofollow" class="external text" href="https://complexityzoo.uwaterloo.ca/Complexity_Zoo:P#p">Class P</a>, <i><a href="/wiki/Complexity_Zoo" class="mw-redirect" title="Complexity Zoo">Complexity Zoo</a></i>: <a rel="nofollow" class="external text" href="https://complexityzoo.uwaterloo.ca/Complexity_Zoo:N#np">Class NP</a></li>
+<li><a href="/wiki/Scott_Aaronson" title="Scott Aaronson">Scott Aaronson</a> <a rel="nofollow" class="external text" href="http://scottaaronson.com/blog/?p=122">'s Shtetl Optimized blog: Reasons to believe</a>, a list of justifications for the belief that P ≠ NP</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Important_complexity_classes_.28more.29" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ComplexityClasses" title="Template:ComplexityClasses"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ComplexityClasses" title="Template talk:ComplexityClasses"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ComplexityClasses&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Important_complexity_classes_.28more.29" style="font-size:114%;margin:0 4em">Important <a href="/wiki/Complexity_class" title="Complexity class">complexity classes</a> (<a href="/wiki/List_of_complexity_classes" title="List of complexity classes">more</a>)</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Considered feasible</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DLOGTIME" title="DLOGTIME">DLOGTIME</a></li>
+<li><a href="/wiki/AC0" title="AC0">AC<sup>0</sup></a></li>
+<li><a href="/wiki/ACC0" title="ACC0">ACC<sup>0</sup></a></li>
+<li><a href="/wiki/TC0" title="TC0">TC<sup>0</sup></a></li>
+<li><a href="/wiki/L_(complexity)" title="L (complexity)">L</a></li>
+<li><a href="/wiki/SL_(complexity)" title="SL (complexity)">SL</a></li>
+<li><a href="/wiki/RL_(complexity)" title="RL (complexity)">RL</a></li>
+<li><a href="/wiki/NL_(complexity)" title="NL (complexity)">NL</a></li>
+<li><a href="/wiki/NC_(complexity)" title="NC (complexity)">NC</a></li>
+<li><a href="/wiki/SC_(complexity)" title="SC (complexity)">SC</a></li>
+<li><a href="/wiki/CC_(complexity)" title="CC (complexity)">CC</a></li>
+<li><a href="/wiki/P_(complexity)" title="P (complexity)">P</a>
+<ul>
+<li><a href="/wiki/P-complete" title="P-complete">P-complete</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ZPP_(complexity)" title="ZPP (complexity)">ZPP</a></li>
+<li><a href="/wiki/RP_(complexity)" title="RP (complexity)">RP</a></li>
+<li><a href="/wiki/BPP_(complexity)" title="BPP (complexity)">BPP</a></li>
+<li><a href="/wiki/BQP" title="BQP">BQP</a></li>
+<li><a href="/wiki/APX" title="APX">APX</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Suspected infeasible</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/UP_(complexity)" title="UP (complexity)">UP</a></li>
+<li><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a>
+<ul>
+<li><a href="/wiki/NP-complete" class="mw-redirect" title="NP-complete">NP-complete</a></li>
+<li><a href="/wiki/NP-hard" class="mw-redirect" title="NP-hard">NP-hard</a></li>
+<li><a href="/wiki/Co-NP" title="Co-NP">co-NP</a></li>
+<li><a href="/wiki/Co-NP-complete" title="Co-NP-complete">co-NP-complete</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arthur%E2%80%93Merlin_protocol" title="Arthur–Merlin protocol">AM</a></li>
+<li><a href="/wiki/QMA" title="QMA">QMA</a></li>
+<li><a href="/wiki/PH_(complexity)" title="PH (complexity)">PH</a></li>
+<li><a href="/wiki/Parity_P" title="Parity P">⊕P</a></li>
+<li><a href="/wiki/PP_(complexity)" title="PP (complexity)">PP</a></li>
+<li><a href="/wiki/Sharp-P" title="Sharp-P">#P</a>
+<ul>
+<li><a href="/wiki/Sharp-P-complete" title="Sharp-P-complete">#P-complete</a></li>
+</ul>
+</li>
+<li><a href="/wiki/IP_(complexity)" title="IP (complexity)">IP</a></li>
+<li><a href="/wiki/PSPACE" title="PSPACE">PSPACE</a>
+<ul>
+<li><a href="/wiki/PSPACE-complete" title="PSPACE-complete">PSPACE-complete</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Considered infeasible</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/EXPTIME" title="EXPTIME">EXPTIME</a></li>
+<li><a href="/wiki/NEXPTIME" title="NEXPTIME">NEXPTIME</a></li>
+<li><a href="/wiki/EXPSPACE" title="EXPSPACE">EXPSPACE</a></li>
+<li><a href="/wiki/ELEMENTARY" title="ELEMENTARY">ELEMENTARY</a></li>
+<li><a href="/wiki/PR_(complexity)" title="PR (complexity)">PR</a></li>
+<li><a href="/wiki/R_(complexity)" title="R (complexity)">R</a></li>
+<li><a href="/wiki/RE_(complexity)" title="RE (complexity)">RE</a></li>
+<li><a href="/wiki/ALL_(complexity)" title="ALL (complexity)">ALL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Class hierarchies</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polynomial_hierarchy" title="Polynomial hierarchy">Polynomial hierarchy</a></li>
+<li><a href="/wiki/Exponential_hierarchy" title="Exponential hierarchy">Exponential hierarchy</a></li>
+<li><a href="/wiki/Grzegorczyk_hierarchy" title="Grzegorczyk hierarchy">Grzegorczyk hierarchy</a></li>
+<li><a href="/wiki/Arithmetical_hierarchy" title="Arithmetical hierarchy">Arithmetical hierarchy</a></li>
+<li><a href="/wiki/Boolean_hierarchy" title="Boolean hierarchy">Boolean hierarchy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Families of classes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DTIME" title="DTIME">DTIME</a></li>
+<li><a href="/wiki/NTIME" title="NTIME">NTIME</a></li>
+<li><a href="/wiki/DSPACE" title="DSPACE">DSPACE</a></li>
+<li><a href="/wiki/NSPACE" title="NSPACE">NSPACE</a></li>
+<li><a href="/wiki/Probabilistically_checkable_proof" title="Probabilistically checkable proof">Probabilistically checkable proof</a></li>
+<li><a href="/wiki/Interactive_proof_system" title="Interactive proof system">Interactive proof system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1207
+Cached time: 20170809203503
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.859 seconds
+Preprocessor visited node count: 2358/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72670/2097152 bytes
+Template argument size: 2906/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 4.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  467.725      1 -total
+ 59.30%  277.346      1 Template:Reflist
+ 17.17%   80.318      6 Template:Cite_book
+ 14.63%   68.436     10 Template:Cite_journal
+ 10.72%   50.129     11 Template:Cite_web
+  7.33%   34.297      4 Template:Quote
+  5.70%   26.642      3 Template:Comma_separated_entries
+  3.70%   17.298      1 Template:Pp-move-indef
+  3.44%   16.076      1 Template:As_of
+  3.21%   15.017      2 Template:DMCA
+-->
+</div>

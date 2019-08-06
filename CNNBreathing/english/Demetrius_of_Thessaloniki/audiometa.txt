@@ -1,0 +1,29 @@
+
+{{English spoken article
+|title= Saint Demetrius of Thessaloniki
+|time= 2:50
+|user_name= Alekjds
+|date= 2006-11-26
+|oldid=90343727
+|accent= US, Southwestern Pennsylvania
+}}
+
+{{GFDL|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 04:16, 27 November 2006 || [[w:en:User:Alekjds]] || 2m50s || 1.57 MB || <nowiki>{{Spoken article entry |title= Saint Demetrius of Thessaloniki |time= 2:50 |user_name= Alekjds |date= 2006-11-26 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Saint_Demetrius_of_Thessaloniki&amp;oldid=90343727 |accent= US, Southwestern </nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Saint_Demetrius_of_Thessaloniki.ogg&redirect=no&oldid=90367797 || 09:45, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Saint_Demetrius_of_Thessaloniki.ogg&redirect=no&oldid=90367797 || 04:16, 27 November 2006 || [[w:en:User:Alekjds]] || <nowiki>({{Spoken article entry |title= Saint Demetrius of Thessaloniki |time= 2:50 |user_name= Alekjds |date= 2006-11-26 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Saint_Demetrius_of_Thessaloniki&amp;oldid=90343727 |accent= US, Southwestern )</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Saint Demetrius]]

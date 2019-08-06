@@ -1,0 +1,146 @@
+{{distinguish2|the [[asteroid]] called [[106 Dione]]}}
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name               = Dione
+| alt_names = Saturn IV
+| adjectives = Dionean
+| image              = [[Image:Dione3 cassini big.jpg|250px]]
+| caption            = [[Cassini–Huygens|''Cassini'']] spacecraft view of Dione
+| bgcolour           = #a0ffa0
+| discovery          = yes
+| discoverer         = Giovanni Cassini
+| discovered         = 1684
+| semimajor          = 377&nbsp;396 [[Kilometer|km]] <!--Computed from period using the http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html µ value-->
+| eccentricity       = 0.002&nbsp;2<ref name="exp.arc.nasa.gov">[http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc] ''Exp.arc.nasa.gov'' Retrieved on 05-21-07 </ref>
+| period             = 2.736&nbsp;915 d<ref name="exp.arc.nasa.gov"/>
+| inclination        = 0.019° (to Saturn's equator)
+| satellite_of       = [[Saturn]]
+| physical_characteristics = yes
+| dimensions         = 1127.6 &times; 1122 &times; 1120.6 km<ref name="Thomas 2006">{{cite journal| last=Thomas| first=P. C.| coauthors=Veverka, J.; [[Paul Helfenstein|Helfenstein, P.]]; [[Carolyn Porco|Porco, C.]]; [[Joseph A. Burns|Burns, J.]]; Denk, T.; Turtle, E.; [[Robert A. Jacobson|Jacobson, R. A.]]| title=Shapes of the Saturnian Icy Satellites| journal=37th Annual Lunar and Planetary Science Conference| month=March 13-17| year=2006| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/1639.pdf|format=PDF}}</ref>
+| mean_radius        = 561.70 ± 0.45 km<ref name="Jacobson 2006">{{cite journal| last=Jacobson| first=R. A.| coauthors=Antreasian, P. G.; Bordi, J. J.; Criddle, K. E.; et al.| title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data| journal=The Astronomical Journal| month=December| year=2006| volume=132| pages=2520–2526| doi=10.1086/508812}}</ref> (348.96 [[mile|mi]])
+| mass               = (1.095&nbsp;452 ± 0.000&nbsp;168){{e|21}} [[Kilogram|kg]]<ref name="Jacobson 2006"/> (3.28{{e|-4}} Earths)
+| density            = 1.475&nbsp;7 ± 0.003&nbsp;6 [[Gram|g]]/[[Cubic centimeter|cm³]]<ref name="Jacobson 2006"/>
+| surface_grav       = 0.231 [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity    = 0.510 km/s
+| rotation           = 2.736&nbsp;915 d<br/>([[Synchronous rotation|synchronous]])
+| axial_tilt         = zero
+| albedo             = 0.998 ± 0.004 ([[geometric albedo|geometric]])<ref name=Verbiscer>[[Anne Verbiscer|Verbiscer, A.]]; [[Richard French|French, R.]]; [[Mark Showalter|Showalter, M.]]; and [[Paul Helfenstein|Helfenstein, P.]]; [http://www.sciencemag.org/cgi/content/abstract/315/5813/815 ''Enceladus: Cosmic Graffiti Artist Caught in the Act''], Science, Vol. 315, No. 5813 (February 9, 2007), p. 815 (supporting online material, table S1)</ref>
+| magnitude          = 10.4 <ref name=magnitude>{{cite web|title=Classic Satellites of the Solar System|url=http://www.oarval.org/ClasSaten.htm|publisher=Observatorio ARVAL|accessdate=2007-09-28}}</ref>
+| single_temperature = 87 [[Kelvin|K]] (-186°[[Celsius|C]])
+}}
+'''Dione''' ({{pron-en|daɪˈoʊniː}},<ref>In US dictionary transcription, {{USdict|dī·ō′·nē}}.</ref> or as Greek ''Διώνη)'' is a [[natural satellite|moon]] of [[Saturn]] discovered by Cassini in 1684.<ref>Cassini, G. D.; [http://links.jstor.org/sici?sici=0260-7085%281686%2F1692%2916%3C79%3AAEOTJD%3E2.0.CO%3B2-J ''An Extract of the'' Journal Des Scavans. ''of'' April 22 st. N. 1686. ''Giving an account of two new'' Satellites ''of'' Saturn, ''discovered lately by Mr.'' Cassini ''at the Royal Observatory at'' Paris], Philosophical Transactions, Vol. 16 (1686-1692), pp. 79-85.<!--- This journal became the Philosophical Transactions of the Royal Society of London in 1775. Are there any earlier publications? Two years seems a long time... ---><br/></ref> It is named after the [[titan (mythology)|titan]] [[Dione (mythology)|Dione]] of [[Greek mythology]]. It is also designated '''Saturn&nbsp;IV'''.
+
+==Name==
+Cassini named the four moons he discovered ([[Tethys (moon)|Tethys]], Dione, [[Rhea (moon)|Rhea]] and [[Iapetus (moon)|Iapetus]]) ''[[Sidera Lodoicea]]'' ("the stars of Louis") to honour king [[Louis XIV of France|Louis XIV]]. Cassini found Dione using a large [[aerial telescope]] he set up on the grounds of the [[Paris Observatory]]<ref>[http://books.google.com/books?id=GnrAVhVZ3wMC&pg=PA279&lpg=PA279&dq=Cassini+aerial+telescope&source=bl&ots=4oujueW9U6&sig=rn9kx6bFMEcDmX3YPLgTqsapDhA&hl=en&ei=aOMBSoK5JN7gtge5_OWJBw&sa=X&oi=book_result&ct=result&resnum=9#PPA279,M1 Fred William Price - ''The planet observer's handbook'' - page 279]</ref>. The satellites of Saturn were not named until 1847, when [[William Herschel]]'s son, [[John Herschel]] published ''Results of Astronomical Observations made at the Cape of Good Hope'', and suggested the names of the [[Titan (mythology)|Titan]]s, sisters and brothers of Cronos (the Greek Saturn), be used.<ref>As reported by [[William Lassell]], [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html Monthly Notices of the Royal Astronomical Society, Vol. 8, No. 3, pp. 42–43] (January 14, 1848)</ref>
+
+==Physical characteristics==
+{{seealso|List of geological features on Dione}}
+[[Image:Dione color.jpg|thumb|250px|left|''Cassini'' enhanced-color composite of Dione, showing the darker, fractured terrain on the trailing hemisphere]]
+Dione is composed primarily of water ice, but as the third densest of Saturn's moons (after [[Enceladus (moon)|Enceladus]] and [[Titan (moon)|Titan]], whose density is increased by [[gravitational compression]]) it must have a considerable fraction (~ 46%) of denser material like [[silicate]] [[Rock (geology)|rock]] in its interior.
+
+Though somewhat smaller and denser, Dione is otherwise very similar to [[Rhea (moon)|Rhea]]. They both have similar albedo features and varied terrain, and both have dissimilar leading and trailing hemispheres. Dione's leading hemisphere is heavily cratered and is uniformly bright. Its trailing hemisphere, meanwhile, contains an unusual and distinctive surface feature: a network of bright ice cliffs.
+
+Scientists recognise the following types of Dionean [[geology|geological]] feature:
+* [[Chasmata]] (chasms)
+* [[Lineae]] (wispy features)
+* [[Impact crater|Crater]]s
+
+<br clear="all"/>
+[[Image:Crescent Dione.jpg|thumb|700px|center|'''Dione''' in a [[crescent]] taken by [[Cassini-Huygens|Cassini]] on October 11, 2005]]
+<br clear="all"/>
+===The ice cliffs (formerly 'wispy terrain')===
+[[Image:Dione Carthage Linea.jpg|thumb|200px|right|Fractures bisecting older craters on Dione]]
+When the ''[[Voyager]]'' space probe photographed Dione in 1980, it showed what appeared to be wispy features covering its trailing hemisphere. The origin of these features was mysterious, as all that was known was that the material has a high [[albedo]] and is thin enough that it does not obscure the surface features underneath. One hypothesis was that shortly after its formation Dione was geologically active, and some process such as ice volcanism resurfaced much of its surface, with the streaks forming from eruptions along cracks in Dione's surface that fell back to the surface as snow or ash. Later, after the internal activity and resurfacing ceased, cratering continued primarily on the leading hemisphere and wiped out the streak patterns there.
+
+This theory was proven wrong by the [[Cassini-Huygens Mission|''Cassini'' probe]] flyby of December 13, 2004, which produced close-up images. These revealed that the 'wisps' were in fact not ice deposits at all, but rather bright ice cliffs created by tectonic fractures; Dione has been revealed as a world riven by enormous fractures on its trailing hemisphere.
+
+The ''Cassini'' orbiter performed a closer flyby of Dione (500&nbsp;km) on October 11, 2005, and captured [[oblique]] images of the cliffs, showing that some of them are several hundred metres high.
+
+[[Image:Dione and Saturn.jpg|left|thumb|Dione against the shadow of Saturn's rings.]]<!--KEEP THIS ON LEFT PLEASE, OTHERWISE ARTICLE BECOMES A MESS-->
+===Craters===
+
+Dione's icy surface includes heavily cratered terrain, moderately cratered plains, lightly cratered plains, and areas of tectonic fractures. The heavily cratered terrain has numerous craters greater than 100 kilometers in diameter. The plains areas tends to have craters less than 30 kilometers in diameter. Some of the plains are more heavily cratered than others. Much of the heavily cratered terrain is located on the trailing hemisphere, with the less cratered plains areas present on the leading hemisphere. This is the opposite of what some scientists expected; [[Eugene Shoemaker|Shoemaker]] and [[Ruth F. Wolfe|Wolfe]]<ref>Shoemaker, E. M.; and Wolfe, R. F.; [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1982stjp.conf..277S&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=45eb6e10af25897 ''Cratering time scales for the Galilean satellites''], in Morrison, D., editor; ''Satellites of Jupiter'', [[University of Arizona Press]], Tucson (AZ) (1982), pp. 277-339</ref> proposed a cratering model for a [[tidal locking|tidally locked]] satellite with the highest cratering rates on the leading hemisphere and the lowest on the trailing hemisphere. This suggests that during the period of heavy bombardment, Dione was tidally locked to Saturn in the opposite orientation. Because Dione is relatively small, an impact causing a 35 kilometer crater could have spun the satellite. Since there are many craters larger than 35 kilometers, Dione could have been repeatedly spun during its early heavy bombardment. The pattern of cratering since then and the bright albedo of the leading side suggests that Dione has remained in its current orientation for several billion years.
+
+Like [[Callisto (moon)|Callisto]], Dione's craters lack the high relief features seen on the [[Moon]] and [[Mercury (planet)|Mercury]]; this is probably due to slumping of the weak icy crust over geologic time.
+
+[[Image:Dione PIA08413.jpg|thumb|200px|right|Composite image of Dione's surface]]
+
+==Exploration==
+Dione was first imaged by the ''Voyager'' space probes. It has also been imaged several times from closer distances by the [[Cassini–Huygens|Cassini orbiter]]. There was one close targeted fly-by, at a distance of 500&nbsp;km on 2005 October 11; another similarly close fly-by is planned for 2010 April 7.
+
+==See also==
+*[[List of geological features on Dione]]
+*The moon [[Helene (moon)|Helene]], which orbits in Dione's leading [[Lagrangian point]], {{L4}}.
+*The moon [[Polydeuces (moon)|Polydeuces]] orbits in Dione's trailing Lagrangian point, {{L5}}.
+
+==Gallery==
+<gallery>
+Image:Dione_color_south.jpg | Bottom right: A huge, shallow impact basin is visible near Dione's south pole
+Image:Dionean Linea PIA08256.jpg | The wispy terrain
+Image:Dione.jpg | Dione as seen by [[Voyager 1]]
+Image:Dione south pole Sd15.png | Composite map of south pole as of May 2008
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Dione Dione Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://www.planetary.org/explore/topics/saturn/dione.html The Planetary Society: Dione]
+*[http://www.maniacworld.com/Saturn-Dione-Flyby.htm NASA probe video of approach to Dione]
+
+<br/>
+{{Moons of Saturn|state=uncollapsed}}
+{{Solar System moons (compact)}}
+
+{{DEFAULTSORT:Dione (Moon)}}
+<!--Categories-->
+[[Category:Moons of Saturn]]
+
+<!--Other languages-->
+
+[[af:Dione (maan)]]
+[[als:Dione (Mond)]]
+[[bg:Диона (спътник)]]
+[[ca:Dione (satèl·lit)]]
+[[cs:Dione (měsíc)]]
+[[cy:Dione (lloeren)]]
+[[da:Dione (måne)]]
+[[de:Dione (Mond)]]
+[[el:Διώνη (δορυφόρος)]]
+[[es:Dione (satélite)]]
+[[fa:دیونه (ماه)]]
+[[fr:Dioné (lune)]]
+[[ga:Dione]]
+[[gv:Dione (fo-phlannad)]]
+[[ko:디오네 (위성)]]
+[[hr:Diona (mjesec)]]
+[[id:Dione]]
+[[it:Dione (astronomia)]]
+[[he:דיוני]]
+[[la:Dione (satelles)]]
+[[lv:Dione (pavadonis)]]
+[[lt:Dionė (palydovas)]]
+[[hu:Dione (hold)]]
+[[ms:Dione (bulan)]]
+[[nl:Dione (maan)]]
+[[ja:ディオネ (衛星)]]
+[[no:Dione]]
+[[nn:Saturnmånen Dione]]
+[[pl:Dione (księżyc)]]
+[[pt:Dione (satélite)]]
+[[ro:Dione (satelit)]]
+[[ru:Диона (спутник)]]
+[[scn:Dioni]]
+[[simple:Dione (moon)]]
+[[sk:Dione (mesiac)]]
+[[sl:Diona (luna)]]
+[[sh:Diona (mjesec)]]
+[[fi:Dione (kuu)]]
+[[sv:Dione (måne)]]
+[[uk:Діона (супутник)]]
+[[zh-classical:土衛四]]
+[[zh:土卫四]]

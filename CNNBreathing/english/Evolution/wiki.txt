@@ -1,0 +1,257 @@
+{{otheruses}}
+[[Image:Charles Darwin.jpg|right|frame|[[Charles Darwin]], the father of evolutionary theory]]  
+Generally, '''evolution''' is any [[process]] of change over time. In the context of [[life science]], evolution is a change in the traits of living [[organism]]s over generations, including the emergence of new [[species]]. Since the development of modern [[genetics]] in the [[1940s]], evolution has been defined more specifically as a change in the frequency of [[allele]]s in a population from one generation to the next.
+
+Darwin's theory of evolution describes the descent of all living organisms from a common ancestor. [[Natural Selection]] is the principal mechanism that causes evolution. In common parlance the word "evolution" is often used as a shorthand for both the modern [[theory]] that all extant species share a common ancestor as well as the mechanisms through which [[natural selection]] acts to change populations over time.
+
+This theory was updated in the twentieth century through the incorporation of [[Gregor Mendel]]'s theory of [[heredity|inherited]] characteristics, now called [[gene]]s. The combination of Darwin's theory of natural selection and Mendel's theory of genetics is called the [[modern evolutionary synthesis|modern synthesis]].  In the modern synthesis, "evolution" means a change in the frequency of an [[allele]] within a [[gene pool]]. This change may be caused by a number of different mechanisms: [[natural selection]], [[genetic drift]] or changes in population structure ([[gene flow]]).
+
+==Scientific theory==
+
+The theory underlying the modern synthesis has three major aspects:
+
+# The [[common descent]] of all [[organism]]s from a single ancestor.
+# The origin of novel [[trait]]s in a lineage.
+# The mechanisms that cause some traits to persist while others perish.
+
+The modern synthesis, like its Mendelian and Darwinian antecedents, is a scientific theory.  In plain English, people use the word "theory" to signify "conjecture", "speculation", or "opinion".  In contrast, a [[theory|scientific theory]] is a model of the world (or some portion of it) from which [[falsifiability|falsifiable]] [[hypothesis|hypotheses]] can be generated and be verified through [[empiricism|empirical observation]].  In this sense, "theory" and "fact" do not stand in opposition, but rather exist in a reciprocal relationship.  Currently, the modern synthesis is the most powerful theory explaining variation and speciation, and for use in the [[science]] of [[biology]], it has replaced other explanations for the origin of species, including [[creationism]] and [[Lamarckism]].
+
+===Ancestry of organisms===
+{|align=right
+|[[Image:Stromatolites.jpg|right|thumbnail|250px|[[Pre-Cambrian]] [[stromatolite]]s in the Siyeh Formation, [[Glacier National Park]]. In 2002, William Schopf of [[University of California, Los Angeles|UCLA]] published a controversial paper in the journal ''[[Nature (journal)|Nature]]'' arguing that formations such as this possess 3.5 billion year old [[fossil]]ized [[alga]]e microbes. [http://www.abc.net.au/science/news/space/SpaceRepublish_497964.htm] If true, they would be the earliest known life on earth.]]
+|-
+|[[Image:PhylogeneticTree.jpg|thumb|250px|A [[phylogenetic tree]] of [[evolutionary tree|all living things]], based on [[rRNA]] [[gene]] data, showing the separation of the three domains [[bacterium|bacteria]], [[archaea]], and [[eukaryote]]s as described initially by [[Carl Woese]]. Trees constructed with other genes are generally similar, although they may place some early-branching groups very differently, presumably owing to rapid rRNA evolution. The exact relationships of the three domains are still being debated.]]
+|-
+|[[Image:South - Djoum Chimps.jpg|right|250px|thumbnail|Genetic testing has shown that humans and [[chimpanzee]]s have most of their [[DNA]] in common. In a study of 90,000 [[base pair]]s, [[Wayne State University]]'s Morris Goodman found humans and chimpanzees share 99.4% of their DNA.[http://www.freep.com/news/nw/chimp20_20030520.htm]
+[http://www.reasons.org/resources/apologetics/humans_chimps_same_genus.shtml].]]
+|-
+|[[Image:UreyMillerExperiment.jpeg|right|250px|thumbnail|This is a [[NASA]] recreation of the famous [[Miller-Urey experiment]]. In [[1953]], [[Stanley Miller]] and [[Harold Urey]] sealed the chemical precursors to life in a closed environment, and subjected them to conditions similar to primordial earth. The results of the experiment suggest that the chemicals necessary for life did tend to arise under those circumstances, supporting the theories of [[Abiogenesis]]]]
+|}
+:''Main article: [[Common descent]]''
+
+A group of organisms is said to have [[common descent]] if they have a common ancestor. In [[biology]], the theory of universal common descent proposes that all organisms on Earth are descended from a common ancestor or ancestral gene pool.
+
+Evidence for common descent may be found in traits shared between all living organisms. In Darwin's day, the evidence of shared traits was based solely on visible observation of [[morphology (biology)|morphologic]] similarities, such as the fact that all birds &mdash; even those which do not fly &mdash; have wings. Today, the theory of evolution has been strongly confirmed by the science of [[DNA]] genetics. For example, every living thing makes use of [[nucleic acid]]s as its genetic material, and uses the same twenty [[amino acid]]s as the building blocks for [[protein]]s. All organisms use the same [[genetic code]] (with some extremely rare and minor deviations) to [[translation (genetics)|translate]] nucleic acid sequences into proteins. Because the selection of these traits is somewhat arbitrary, their universality strongly suggests common ancestry.
+
+In addition, [[abiogenesis]] &mdash; the generation of life from non-living matter &mdash; has never been observed, indicating that the [[origin of life]] from non-life is either extremely rare or only happens under conditions very unlike those of modern Earth. The 1953 [[Miller-Urey experiment]] suggests that conditions on the ancient earth may have permitted abiogenesis.
+
+Since abiogenesis is rare or impossible under modern conditions and the evolutionary process is exceedingly slow, the diversity and complexity of modern life requires that the Earth be very old, on the order of billions of years. This is compatible with [[geology|geological]] evidence that the Earth is approximately  [[Age of the earth|4.6 billion years old]]. (See [[Timeline of evolution]].)
+
+Information about the early development of life includes input from the fields of geology and [[planetary science]]. These sciences provide information about the history of the Earth and the changes produced by life. A great deal of information about the early Earth has been destroyed by geological processes over the course of time.
+
+====Morphological evidence====
+[[Fossil]]s are important for estimating when various lineages developed. As fossilization is an uncommon occurrence, usually requiring hard parts (like bone) and death near a site where [[sediment]]s are being deposited, the [[fossil record]] only provides sparse and intermittent information about the evolution of life. Fossil evidence of early life is sparse before the evolution of organisms with hard body parts, such as shell, bone, and teeth, but exists in the form of ancient microfossils and the fossilization of ancient burrows and a few soft-bodied organisms.
+
+Nevertheless, fossil evidence of prehistoric organisms has been found all over the Earth. The age of fossils can often be deduced from the geologic context in which they are found; and their absolute age can be verified with [[radiometric dating]]. Some fossils bear a resemblance to organisms alive today, while others are radically different. Fossils have been used to determine at what time a lineage developed, and can be used to demonstrate the continuity between two different lineages through ''[[transitional fossil]]s''. [[Paleontology|Paleontologist]]s investigate evolution largely through analysis of fossils.
+
+[[Phylogeny]], the study of the ancestry of species, has revealed that structures with similar internal organization may perform divergent functions. [[Vertebrate]] limbs are a common example of such ''homologous structures''. A [[vestigial organ|vestigial organ]] or structure may exist with little or no purpose in one organism, though they have a clear purpose in others. The human [[wisdom teeth]] and [[Vermiform appendix|appendix]] are common examples.
+
+====Genetic sequence evidence====
+Comparison of the genetic sequence of organisms reveals that organisms that are [[phylogeny|phylogenetically]] close have a higher degree of sequence similarity than organisms that are phylogenetically distant. For example, neutral human DNA sequences are approximately 1.2% divergent (based on substitutions) from those of their nearest genetic relative, the [[chimpanzee]], 1.6% from [[gorilla]]s [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11170892], and 6.6% from [[baboon]]s[http://www.genome.org/cgi/content/full/13/5/813]. Sequence comparison is considered such a robust measure that it is sometimes used to correct mistakes in the phylogenetic tree, in instances where other evidence is scarce.
+
+Further evidence for common descent comes from genetic detritus such as [[pseudogene]]s, regions of DNA which are [[ortholog]]ous to a gene in a related organism, but are no longer active and appear to be undergoing a steady process of degeneration[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10833048].
+
+Since [[metabolism|metabolic]] processes do not leave fossils, research into the evolution of the basic cellular processes is also done largely by comparison of existing organisms. Many lineages diverged at different stages of development, so it is theoretically possible to determine when certain metabolic processes appeared by comparing the traits of the descendants of a common ancestor.
+
+====Origin of life====
+:''Main article: [[Origin of life]]''
+
+Not much is known about the earliest development of life. However, all existing organisms share certain traits, including the cellular structure, and the [[genetic code]]. Most scientists interpret this to mean all existing organisms share a common ancestor, which had already developed the most fundamental cellular processes, but there is no [[scientific consensus]] on the relationship of the three domains of life ([[Archea]], [[Bacterium|Bacteria]], [[Eukaryota]]) or the [[origin of life]]. Attempts to shed light on the earliest history of life generally focus on the behavior of [[macromolecule]]s, particularly [[RNA]], and the behavior of [[complex system]]s.
+
+Though the origins of life are murky, other milestones in the evolutionary history of life are well-known. The emergence of oxygenic [[photosynthesis]] (around 3 billion years ago) and the subsequent emergence of an oxygen-rich, non-reducing atmosphere can be traced through the formation of [[banded iron]] deposits, and later [[red beds]] of iron oxides. This was a necessary prerequisite for the development of [[aerobic respiration|aerobic]] [[cellular respiration]], believed to have emerged around 2 billion years ago. In the last billion years, simple multicellular plants and animals began to appear in the oceans. Soon after the emergence of the first animals the [[Cambrian explosion]] (a period of unrivaled and remarkable, but brief, organismal diversity documented in the fossils found at the [[Burgess Shale]]) saw the creation of all the major body plans, or [[phyla]], of modern animals. About 500 million years ago, [[plant]]s and [[fungi]] colonized the land, and were soon followed by [[arthropod]]s and other animals, leading to
+the development of land [[ecosystem]]s with which we are familiar.
+
+===The emergence of novel traits===
+====Mechanisms of inheritance====
+In Darwin's time, scientists did not share broad agreement on how [[trait]]s were inherited. Today most inherited traits are traced to discrete, persistent entities called ''[[gene]]s'', encoded in linear molecules called ''[[DNA]]''. Though by and large faithfully maintained, DNA is both variable across individuals and subject to a process of change or [[mutation]] (described below).
+
+However, other non-DNA based forms of heritable variation exist. The processes that produce these variations leave the genetic information intact and are often reversible. This is called [[epigenetic inheritance]] and may include phenomena such as DNA methylation, [[prion]]s, and [[structural inheritance]]. Investigations continue into whether these mechanisms allow for the production of specific beneficial heritable variation in response to environmental signals. If this is shown to be the case, then some instances of evolution would lie outside of the typically Darwinian framework, which avoided any connection between environmental signals and the production of heritable variation.
+
+====Mutation====
+:''Main article: [[Mutation]]''
+Darwin did not know the source of variations in individual organisms, but observed that it seemed to be by chance. Later work pinned much of this variation onto mutations. Mutations are permanent, transmissible changes to the [[genetic material]] (usually [[DNA]] or [[RNA]]) of a [[cell (biology)|cell]], and can be caused by "copying errors" in the genetic material during [[cell division]] and by exposure to [[radiation]], chemicals, or [[virus (biology)|viruses]], or can occur deliberately under cellular control during processes such as [[meiosis]] or [[hypermutation]]. In multicellular organisms, mutations can be subdivided into ''germline mutations,'' which can be passed on to progeny and ''somatic mutations'', which (when accidental) often lead to the malfunction or death of a cell and can cause [[cancer]].
+
+Mutations introduce new genetic variation, without which evolution cannot proceed. [[Neutral theory of molecular evolution|Neutral mutations]] do not affect the organism's chances of survival in its natural environment and can accumulate over time, which might result in what is known as [[punctuated equilibrium]], the modern interpretation of classic evolutionary theory.
+
+Most biologists believe that [[adaptation (biology)|adaptation]] occurs through the accumulation of many mutations of small effect. However, [[macromutation]] is an alternative process for adaption which involves a single, very large scale mutation.
+
+===Differential survival of traits===
+While mutation can create new [[allele]]s, other factors influence the frequency of existing alleles. These factors mean that some characteristics will become more frequent while others diminish or are lost entirely. There are three known processes that affect the survival of a characteristic; or, more specifically, the frequency of an allele:
+* [[Genetic drift]]   
+* [[Gene flow]]
+* [[Natural selection]]
+
+====Natural selection====
+Natural selection is based on differential survival and reproduction rates as a result of the environment. Differential mortality is the survival rate of individuals before their reproductive age. If they survive, they are then selected further by differential fertility &mdash; that is, their total genetic contribution to the next generation.
+
+Natural selection can be subdivided into two categories:
+* [[Ecological selection]] occurs when organisms that survive and reproduce increase the frequency of their genes in the gene pool over those that do not survive.
+* [[Sexual selection]] occurs when organisms that are more attractive to the opposite sex because of their features reproduce more and increase the frequency of those features in the gene pool.
+
+Natural selection also operates on mutations in several different ways:
+* [[Purifying selection|Purifying]] or [[background selection]] eliminates deleterious mutations from a population.
+* [[Positive selection]] increases the frequency of a beneficial mutation.
+* [[Balancing selection]] maintains variation within a population through a number of mechanisms, including:
+** [[Overdominance]] or [[heterozygote advantage]], where the [[heterozygote]] is more fit than either of the homozygous forms (famously exemplified by human [[sickle cell anemia]] conferring resistance to [[malaria]])
+** [[Frequency-dependent selection]], where the rare variants have a higher fitness.
+
+The central role of natural selection in evolutionary theory has given rise to a strong connection between that field and the study of [[ecology]].
+
+Mutations that are not affected by natural selection are called [[Neutral theory of molecular evolution|neutral mutations]]. Their frequency in the population is governed entirely by genetic drift and gene flow. It is understood that an organism's DNA sequence, in the absence of selection, undergoes a steady accumulation of neutral mutations. The [[probable mutation effect]] is the proposition that a gene that is not under selection will be destroyed by accumulated mutations. This is an aspect of [[genome degradation]].
+
+* Selection of organisms for desirable characteristics, when done by humans, e.g. for [[agriculture]] or as pets, is called [[artificial selection]].
+
+* [[James Mark Baldwin|Baldwinian]] evolution refers to the way human beings, as [[culture|cultured]] animals capable of symbolic (extrasomatic) learning, can change their environment, or the environment of any species, in such a way as to result in new selective forces.
+
+====Genetic drift====
+[[Genetic drift]] describes changes in allele frequency that cannot be ascribed to selective pressures, but are due instead to events that are unrelated to inherited traits. This is especially important in small mating populations, where chance fluctuations from generation to generation can be large. Such fluctuations in allele frequency between successive generations may result in some alleles disappearing from the population. Two separate populations that begin with the same allele frequency might, therefore, "drift" by random fluctuation into two divergent populations with different allele sets (for example, alleles that are present in one have been lost in the other). Rare sporadic events ([[volcano|volcanic]] explosion, [[meteor]] impact, etc.) might contribute to genetic drift by altering the allele frequency outside of "normal" selective pressures.
+
+Many aspects of genetic drift depend on the size of the population (generally abbreviated as N). In small populations, genetic drift can cause large changes in allele frequencies from one generation to the next, whereas in large populations, changes in allele frequencies in each generation are usually very small. The relative importance of natural selection and genetic drift in determining the fate of new mutations also depends on the population size and the strength of selection: when N times s (population size times strength of selection) is small, genetic drift predominates. When N times s is large, selection predominates. Thus natural selection is 'more efficient' in large populations, or equivalently, genetic drift is stronger in small populations. Finally, the time for an allele to become fixed in the population by genetic drift (that is, for all individuals in the population to carry that allele) depends on population size, with smaller populations requiring a shorter time to fixation.
+
+====Gene flow====
+[[Gene flow]] (or gene admixture) is the only mechanism whereby populations can become closer genetically while building larger gene pools. Migration of one population into another area occupied by a second population can result in gene flow. Gene flow operates when geography and culture are not obstacles.
+
+===Microevolution and macroevolution===
+[[Microevolution]] consists of small-scale changes in gene frequencies in a population over the course of a few generations. These changes may be due to a number of processes: mutation, gene flow, genetic drift, as well as natural selection. [[Population genetics]] is the branch of biology that provides the mathematical structure for the study of the process of microevolution.
+
+[[Macroevolution]] works through large-scale changes in gene-frequencies in a population over a long period of time, and is usually taken to refer to events that result in ''[[speciation]]'', the evolution of a new [[species]]. An absolute distinction between macroevolution and microevolution isn't normally drawn by biologists for a number of reasons, including no definition of what constitutes a 'macroevolutionary' change. Mutations to existing species resulting in entirely new species have been observed in the laboratory and in the field.
+
+The relation between microevolution and macroevolution can be summed up as such: macroevolution is the long-term result of many microevolutions that, over time, result in two populations of organisms so different that speciation can be said to have occurred.
+
+===Speciation and extinction===
+[[Speciation]] is the creation of two or more species from one. There are various mechanisms by which this may take place. [[Allopatric speciation]] begins when subpopulations of a species become isolated geographically, for example by [[habitat fragmentation]] or migration. [[Sympatric speciation]] occurs when new species emerge in the same geographic area. [[Ernst Mayr]]'s [[peripatric speciation]] is a type of speciation that exists in between the extremes of allopatry and sympatry. Peripatric speciation is a critical underpinning of the theory of [[punctuated equilibrium]].
+
+[[Extinction]] is the disappearance of species (i.e. [[gene pool]]s). The moment of extinction is generally considered to be the death of the last individual of that species. Extinction is not an unusual event in [[geological time]] &mdash; species are created by speciation, and disappear through extinction.
+
+==Evolutionary biology==
+:''Main article: [[Evolutionary biology]]''
+Evolutionary biology is a subfield of [[biology]] concerned with the origin and descent of [[species]], as well as their change over time. Evolutionary biology is a kind of meta field because it includes scientists from many traditional [[taxonomy|taxonomically]]-oriented disciplines. For example, it generally includes scientists who may have a specialist training in particular [[organism]]s such as [[mammalogy]], [[ornithology]], or [[herpetology]] but use those organisms as systems to answer general questions in evolution.
+
+Evolutionary biology as an [[academic discipline]] in its own right emerged as a result of the [[modern evolutionary synthesis]] in the [[1930s]] and [[1940s]].  It was not until the [[1970s]] and [[1980s]], however, that a significant number of universities had departments that specifically included the term ''evolutionary biology'' in their titles.
+
+== History of evolutionary thought ==
+[[Image:Origin of Species.jpg|right|thumbnail|200px|The 1859 edition of ''On the Origin of Species'']]
+:''Main article: [[History of evolutionary thought]]''
+The idea of biological evolution has existed since ancient times, but the modern theory wasn't established until the 18th and 19th centuries, with scientists such as [[Jean-Baptiste Lamarck]] and [[Charles Darwin]].  While transmutation of species was accepted by a sizeable number of scientists before [[1859]], it was the publication of Charles Darwin's ''[[The Origin of Species]]'' which provided the first cogent mechanism by which evolutionary change could persist: his theory of natural selection. Darwin was motivated to publish his work on evolution after receiving a letter from [[Alfred Russel Wallace]], in which Wallace revealed his own discovery of natural selection. As such, Wallace is sometimes given shared credit for the theory of evolution.
+
+Darwin's theory, though it succeeded in profoundly shaking scientific opinion regarding the development of life (and indeed resulted in a small social revolution), could not explain the source of variation in traits within a species, and he could not provide a mechanism whereby traits were passed faithfully from one generation to the next. It was not until the late 19th and early 20th centuries that these mechanisms  were established.
+
+When [[Gregor Mendel]]'s work regarding the nature of inheritance in the late [[19th century]] was "rediscovered" in 1900, it led to a storm of conflict between Mendelians ([[Charles Benedict Davenport]]) and biometricians ([[Walter Frank Raphael Weldon]] and [[Karl Pearson]]), who insisted that the great majority of traits important to evolution must show continuous variation that was not explainable by Mendelian analysis.
+Eventually, the two models were reconciled and merged, primarily through the work of the biologist and statistician [[R.A. Fisher]]. This combined approach, applying a rigorous statistical model to Mendel's theories of inheritance via genes, became known in the 1930s and 1940s as the [[modern synthesis]] of Darwin's theory.
+
+[[Image:Stephen Jay Gould.png|right|frame|[[Stephen Jay Gould]], who, along with [[Niles Eldredge]] proposed the theory of [[punctuated equilibrium]] in 1972]]
+
+In the 1940s, following up on [[Griffith's experiment]], [[Oswald Avery|Avery]], [[Colin McCleod|McCleod]] and [[Maclyn McCarty|McCarty]] definitively identified [[DNA|deoxyribonucleic acid (DNA)]] as the "transforming principle" responsible for transmitting genetic information. In [[1953]], [[Francis Crick]] and [[James Watson]] published their famous paper on the structure of DNA, based on the research of [[Rosalind Franklin]] and [[Maurice Wilkins]]. These developments ignited the era of [[molecular biology]] and transformed the understanding of evolution into a molecular process: the [[mutation]] of segments of DNA (see [[molecular evolution]]).
+
+In the mid-[[1970s]], [[Motoo Kimura]] formulated the [[neutral theory of molecular evolution]], firmly establishing the importance of [[genetic drift]] as a major mechanism of evolution.
+Debates have continued within the field. One of the most prominent outstanding debates is over the theory of [[punctuated equilibrium]], a theory propounded by [[Niles Eldredge]] and [[Stephen Jay Gould]] to explain the paucity of transitional forms between phyla.
+
+== Social effect of evolutionary theory ==
+:''Main article: [[Social effect of evolutionary theory]]''
+[[Image:Darwin fish.png|200px|right|frame|The [[Darwin fish]] is a parody of the [[Ichthus]], and is used by some to symbolize their acceptance of evolution.]]
+As the scientific explanation of life's diversity has developed, it has often displaced alternative, sometimes very widely held, explanations. Because the theory of evolution includes an explanation of humanity's origins, it has had a profound impact on human [[society|societies]]. Some have vigorously opposed acceptance of the scientific explanation due to its perceived religious implications (e.g. its implied rejection of the special creation of humans described in the [[Bible]]). This has led to a vigorous conflict between [[creation and evolution in public education]].
+
+===Evolution and ethical systems===
+The theory of evolution by natural selection has also been adopted as a foundation for various ethical and social systems, such as [[social Darwinism]], which holds that "the survival of the fittest" explains and justifies differences in wealth and success among societies and people and [[eugenics]], which claimed that human civilization was subverting natural selection by allowing the "less fit" to survive and "out-breed" the "more fit." After the atrocities of [[the Holocaust]] became linked with eugenics, it greatly fell out of favor with public and scientific opinion (though it was never universally accepted by either).
+
+The notion that humans share ancestors with other animals has also affected how some people view the relationship between humans and other species. Many proponents of [[animal rights]] hold that if animals and humans are of the same nature, then rights cannot be distinct to humans.
+The theory has also been incorporated into other fields of knowledge, creating hybrids such as [[evolutionary psychology]] and [[sociobiology]].
+
+===Evolution and religion===
+Before the serious study of geology as a science began, early in the 19th century, Western religions almost unanimously discounted or condemned any claims that life is the result of an evolutionary process, as did nearly all scientists. However, as geological evidence began to accumulate throughout the world, it was realized by pragmatic scientists that the stories of the creation in the Judeo-Christian [[Bible]] could not be reconciled with reality, by any stretch of the imagination. Certain religious geologists like Dean [[William Buckland]] in England, [[Edward Hitchcock]] in America and [[Hugh Miller]] in Scotland continued to explain the evidence in terms of a universal deluge, but when [[Charles Darwin]] published [[The Origin of Species]] in 1859 the weight of scientific opinion swung irreversibly in favor of the pragmatists. This early debate about the literal validity of the Bible was not conducted behind closed doors and it unsettled educated opinion in both continents. Eventually it instigated a "counter-reformation" that took the form of a religious [[Revival]] in both continents in 1857-1860.
+
+Literal or authoritative interpretation of [[sacred text|Scripture]] holds that a [[supreme being]] directly created humans and other animals as separate species. This view is commonly referred to as [[creationism]], and continues to be defended by some religious groups, particularly among [[United States of America|American]] [[Protestantism|Protestants]].
+
+In response to the wide scientific acceptance of the theory of evolution, many religions have formally or informally synthesized the scientific and religious viewpoints. Some religions have adopted a [[theistic evolution]] viewpoint, where the [[God]] provides a [[divine spark]] that ignited the process of evolution and (or), where the God has guided evolution in one way or another.
+
+For example, the [[Roman Catholic Church]], beginning in [[1950]] with [[Pope Pius XII]]'s encyclical Humani Generis, took up a neutral position with regard to evolution. ''"The Church does not forbid that...research and discussions, on the part of men experienced in both fields, take place with regard to the doctrine of evolution, in as far as it inquires into the origin of the human body as coming from pre-existent and living matter."'' [http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html].
+In an [[October 22]], [[1996]], address to the [[Pontifical Academy of Science]], [[Pope John Paul II]] updated the Church's position, recognizing that Evolution is "more than a hypothesis" [http://www.ewtn.com/library/PAPALDOC/JP961022.HTM]. (''For more see: [[evolution and the Roman Catholic Church]]'').
+
+In countries or regions where the majority of people hold strong religious beliefs, creationism has a much broader appeal than in countries where the majority of people hold [[secularism|secular]] beliefs. In the west, the [[United States of America]] is the only country where creationist ideas are given serious consideration. From the [[1920]]s to the present in the US, there has been a strong religious backlash to the teaching of evolution theory, particularly by evangelicals.  Some creationists, such as Dr. [[Kent Hovind]], believe that evolution is the basis for [[Nazism]], [[Communism]], [[Marxism]], [[Mother Earth]] worship, and [[racism]].
+
+For additional reading, see the [[creation-evolution controversy]].
+
+==References==
+*Darwin, Charles [[November 24]] [[1859]]. ''On the [[Origin of Species]] by means of Natural Selection''. London: John Murray, Albemarle Street. 502 pages. Reprinted: Gramercy (May 22, 1995). ISBN 0517123207
+*Zimmer, Carl. ''Evolution: The Triumph of an Idea''. Perennial (October 1, 2002). ISBN 0060958502
+*Larson, Edward J. ''Evolution: The Remarkable History of a Scientific Theory'' (Modern Library Chronicles). Modern Library (May 4, 2004). ISBN 0679642889
+*Mayr, Ernst. ''What Evolution Is''. Basic Books (October, 2002). ISBN 0465044263
+*Gigerenzer, Gerd, et al., ''The empire of chance: how probability changed science and everyday life'' (New York: Cambridge University Press, 1989).
+
+==See also==
+{| border=0 cellpadding=0
+|- valign=top
+|
+*[[anagenesis]]
+*[[argument from evolution]]
+*[[atavism]]
+*[[blind variation and selective retention]]
+*[[catagenesis]]
+*[[cladogenesis]]
+*[[Convergent evolution]]
+*[[evolutionary medicine]]
+*[[endosymbiont]]
+*[[evolutionary algorithm]]
+*[[evolution of sex]]
+*[[evolutionary tree]]
+*[[experimental evolution]]
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+|
+*[[fitness landscape]]
+*[[genetic algorithm]]
+*[[gradualism]]
+*[[modern evolutionary synthesis]]
+*[[natural science]]
+*[[neutral theory of molecular evolution]]
+*[[niche construction]]
+*[[parallel evolution]]
+*[[quantum evolution]]
+*[[quasispecies model]]
+*[[scientific method]]
+*[[sexual selection]]
+*[[teratogenesis]]
+|}
+
+==External links==
+{{Spoken Wikipedia|Evolution.ogg}}
+
+*[http://www.evowiki.org/index.php/Main_Page EvoWiki] - A wiki dedicated to Evolution
+*[http://www.pbs.org/wgbh/evolution/index.html Evolution] - Provided by ''[[Public Broadcasting Service|PBS]]''.
+*[http://science.howstuffworks.com/evolution.htm/printable Howstuffworks.com - How Evolution Works]
+*[http://www.talkorigins.org Talk.Origins Archive] - see also [[talk.origins]]
+*[http://pages.britishlibrary.net/charles.darwin/ Charles Darwin's writings]
+*[http://www.genomenewsnetwork.org/categories/index/genome/evolution.php Evolution News from Genome News Network (GNN)]
+*[http://www.nap.edu/books/0309063647/html/ National Academy Press: Teaching About Evolution and the Nature of Science]
+{{evolution}}
+
+<!-- en-US -->
+<!-- Categorization -->
+[[Category:Evolutionary biology]]
+[[Category:Evolution|*]]
+
+<!-- Localization -->
+[[bn:&#2476;&#2495;&#2476;&#2480;&#2509;&#2468;&#2472;]]
+[[cs:Evoluce]]
+[[ca:Evolució]]
+[[cy:Esblygiad]]
+[[da:Evolutionsteori]]
+[[de:Evolution]]
+[[es:Evolución biológica]]
+[[eo:Evoluismo]]
+[[fa:&#1601;&#1585;&#1711;&#1588;&#1578;]]
+[[fi:Evoluutio]]
+[[fr:Théorie de l'évolution]]
+[[he:&#1488;&#1489;&#1493;&#1500;&#1493;&#1510;&#1497;&#1492;]]
+[[it:Evoluzione]]
+[[ja:&#36914;&#21270;&#35542;]]
+[[ko:&#51652;&#54868; &#49373;&#47932;&#54617;]]
+[[lt:Evoliucija]]
+[[nl:Evolutieleer]]
+[[no:Evolusjonsteori]]
+[[pl:Ewolucja]]
+[[pt:Evolução]]
+[[ro:Teoria evolu&#355;ionist&#259;]]
+[[ru:&#1069;&#1074;&#1086;&#1083;&#1102;&#1094;&#1080;&#1086;&#1085;&#1085;&#1086;&#1077; &#1091;&#1095;&#1077;&#1085;&#1080;&#1077;]]
+[[sl:evolucija]]
+[[sv:Evolution]]
+[[zh:&#36827;&#21270;&#35770;]]

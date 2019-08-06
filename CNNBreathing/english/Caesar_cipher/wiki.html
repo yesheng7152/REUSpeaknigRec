@@ -1,0 +1,226 @@
+<div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Caesar3.png" class="new" title="File:Caesar3.png">File:Caesar3.png</a>
+<div class="thumbcaption">The action of a Caesar cipher is to move each letter a number of places down the alphabet. This example is with a shift of three, so that a <tt>B</tt> in the plaintext becomes <tt>E</tt> in the ciphertext.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Cryptography" title="Cryptography">cryptography</a>, a <b>Caesar cipher</b>, also known as a <b>Caesar shift cipher</b> or <b>shift cipher</b>, is one of the simplest and most widely-known <a href="/wiki/Encryption" title="Encryption">encryption</a> techniques. It is a type of <a href="/wiki/Substitution_cipher" title="Substitution cipher">substitution cipher</a> in which each letter in the <a href="/wiki/Plaintext" title="Plaintext">plaintext</a> is replaced by a letter some fixed number of positions further down the <a href="/wiki/Alphabet" title="Alphabet">alphabet</a>. For example, with a shift of 3, <tt>A</tt> would be replaced by <tt>D</tt>, <tt>B</tt> would become <tt>E</tt>, and so on. The method is named after <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a>, who used it to communicate with his <a href="/wiki/General" class="mw-redirect" title="General">generals</a>.</p>
+<p>The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the <a href="/wiki/Vigen%C3%A8re_cipher" title="Vigenère cipher">Vigenère cipher</a>, and still has modern application in the <a href="/wiki/ROT13" title="ROT13">ROT13</a> system. As with all single alphabet substitution ciphers, the Caesar cipher is easily broken and in practice offers essentially no communication security.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Example"><span class="tocnumber">1</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_and_usage"><span class="tocnumber">2</span> <span class="toctext">History and usage</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Breaking_the_cipher"><span class="tocnumber">3</span> <span class="toctext">Breaking the cipher</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caesar_cipher&amp;action=edit&amp;section=1" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The transformation can be represented by aligning two alphabets; the cipher <a href="/wiki/Alphabet" title="Alphabet">alphabet</a> is the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a right rotation of three places (the shift parameter, here 3, is used as the <a href="/wiki/Key_(cryptography)" title="Key (cryptography)">key</a>):</p>
+<pre>
+Plain:  abcdefghijklmnopqrstuvwxyz
+Cipher: DEFGHIJKLMNOPQRSTUVWXYZABC
+</pre>
+<p>To <a href="/wiki/Encryption" title="Encryption">encipher</a> a message, simply look up each letter of the message in the "plain" line and write down the corresponding letter in the "cipher" line. To decipher, do the reverse.</p>
+<pre>
+ Plaintext: thequickbrownfoxjumpsoverthelazydog
+Ciphertext: WKHTXLFNEURZQIRAMXPSVRYHUWKHODCBGRJ
+</pre>
+<p>The encryption can also be represented using <a href="/wiki/Modular_arithmetic" title="Modular arithmetic">modular arithmetic</a> by first transforming the letters into numbers, according to the scheme, A = 0, B = 1,..., Z = 25. Encryption of a letter <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;" alt="x" /></span> by a shift <i>n</i> can be described mathematically as,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>n</mi>
+        <mspace width="1em" />
+        <mi>mod</mi>
+        <mspace width="thinmathspace" />
+        <mspace width="thinmathspace" />
+        <mn>26.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{n}(x)=x+n\mod {26}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f03f90f723dc56a19c9cf16f8d8ba0481fbd2336" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.123ex; height:2.843ex;" alt="{\displaystyle E_{n}(x)=x+n\mod {26}.}" /></span></dd>
+</dl>
+<p>Decryption is performed similarly,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>D</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>n</mi>
+        <mspace width="1em" />
+        <mi>mod</mi>
+        <mspace width="thinmathspace" />
+        <mspace width="thinmathspace" />
+        <mn>26.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle D_{n}(x)=x-n\mod {26}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/101c1e012096d75aec2f7caa2c02d5989a337268" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.332ex; height:2.843ex;" alt="{\displaystyle D_{n}(x)=x-n\mod {26}.}" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="History_and_usage">History and usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caesar_cipher&amp;action=edit&amp;section=2" title="Edit section: History and usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Hw-caesar.jpg" class="new" title="File:Hw-caesar.jpg">File:Hw-caesar.jpg</a>
+<div class="thumbcaption">The Caesar cipher is named for <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a>, who used an alphabet with a shift of three.</div>
+</div>
+</div>
+<p>The Caesar cipher is named after <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a>, who, according to <a href="/wiki/Suetonius" title="Suetonius">Suetonius</a>, used it with a shift of three to protect messages of military significance:</p>
+<dl>
+<dd><i>If he had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others.</i> — Suetonius, Life of Julius Caesar 56 <a rel="nofollow" class="external autonumber" href="http://www.fordham.edu/halsall/ancient/suetonius-julius.html">[1]</a>.</dd>
+</dl>
+<p>While Caesar's was the first recorded use of this scheme, other substitution ciphers are known to have been used earlier. Julius Caesar's nephew <a href="/wiki/Augustus_Caesar" class="mw-redirect" title="Augustus Caesar">Augustus</a> also used the cipher, but with a shift of one:</p>
+<dl>
+<dd><i>Whenever he wrote in cipher, he wrote B for A, C for B, and the rest of the letters on the same principle, using AA for X.</i> — Suetonius, Life of Augustus 88.</dd>
+</dl>
+<p>There is evidence that Julius Caesar used more complicated systems as well, and one writer, <a href="/wiki/Aulus_Gellius" title="Aulus Gellius">Aulus Gellius</a>, refers to a (now lost) treatise on his ciphers:</p>
+<dl>
+<dd><i>There is even a rather ingeniously written treatise by the grammarian Probus concerning the secret meaning of letters in the composition of Caesar's epistles.</i> — Aulus Gellius, 17.9.1–5.</dd>
+</dl>
+<p>It is unknown how effective the Caesar cipher was at the time, but it is likely to have been reasonably secure, not least because few of Caesar's enemies would have been <a href="/wiki/Literacy" title="Literacy">literate</a>, let alone able to consider <a href="/wiki/Cryptanalysis" title="Cryptanalysis">cryptanalysis</a>. Assuming that an attacker could read the message, there is no record at that time of any techniques for the solution of simple substitution ciphers. The earliest surviving records date to the 9th century AD in the <a href="/wiki/Arab" class="mw-redirect" title="Arab">Arab</a> world with the discovery of <a href="/wiki/Frequency_analysis" title="Frequency analysis">frequency analysis</a>.</p>
+<p>In the <a href="/wiki/19th_Century" class="mw-redirect" title="19th Century">19th Century</a>, the personal advertisements section in newspapers would sometimes be used to exchange messages encrypted using simple cipher schemes. <a href="/wiki/David_Kahn" class="mw-disambig" title="David Kahn">Kahn</a> (1967) describes instances of lovers engaging in secret communications enciphered using the Caesar cipher in <i><a href="/wiki/The_Times" title="The Times">The Times</a>.</i> Even as late as <a href="/wiki/1915" title="1915">1915</a>, the Caesar cipher was in use: the Russian army employed it as a replacement for more complicated ciphers which had proved to be too difficult for their troops to master; German and Austrian cryptanalysts had little difficulty in decrypting their messages.</p>
+<p>Caesar ciphers can be found today in children's toys such as <a href="/wiki/Secret_decoder_ring" title="Secret decoder ring">secret decoder rings</a>. A Caesar shift of 13 is also performed in the <a href="/wiki/ROT13" title="ROT13">ROT13</a> <a href="/wiki/Algorithm" title="Algorithm">algorithm</a>, a simple method of obfuscating text used in some Internet forums to obscure text (such as joke punchlines and story <a href="/wiki/Spoiler" class="mw-disambig" title="Spoiler">spoilers</a>), but not used as a method of encryption.</p>
+<p>The <a href="/wiki/Vigen%C3%A8re_cipher" title="Vigenère cipher">Vigenère cipher</a> uses a Caesar cipher with a different shift at each position in the text; the value of the shift is defined using a repeating keyword. If the keyword were 1) chosen randomly and 2) was as long as the message (so that it did not repeat), the resultant system would be theoretically unbreakable — equivalent to the <a href="/wiki/One-time_pad" title="One-time pad">one-time pad</a> cipher.</p>
+<h2><span class="mw-headline" id="Breaking_the_cipher">Breaking the cipher</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caesar_cipher&amp;action=edit&amp;section=3" title="Edit section: Breaking the cipher">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right" style="margin: 0 0 1em 1em">
+<tr>
+<th>Decryption<br />
+shift</th>
+<th>Candidate plaintext</th>
+</tr>
+<tr align="center">
+<td>0</td>
+<td><tt>exxegoexsrgi</tt></td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td><tt>dwwdfndwrqfh</tt></td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td><tt>cvvcemcvqpeg</tt></td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td><tt>buubdlbupodf</tt></td>
+</tr>
+<tr align="center">
+<td bgcolor="#FFEBAD">4</td>
+<td bgcolor="#FFEBAD"><tt>attackatonce</tt></td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td><tt>zsszbjzsnmbd</tt></td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td><tt>yrryaiyrmlac</tt></td>
+</tr>
+<tr align="center">
+<td colspan="2">...</td>
+</tr>
+<tr align="center">
+<td>23</td>
+<td><tt>haahjrhavujl</tt></td>
+</tr>
+<tr align="center">
+<td>24</td>
+<td><tt>gzzgiqgzutik</tt></td>
+</tr>
+<tr align="center">
+<td>25</td>
+<td><tt>fyyfhpfytshj</tt></td>
+</tr>
+</table>
+<p>The Caesar cipher can be easily broken even in a <a href="/wiki/Ciphertext-only_attack" title="Ciphertext-only attack">ciphertext-only scenario</a>. Two situations can be considered: 1) an attacker knows (or guesses) that some sort of simple substitution cipher has been used, but not specifically that it is a Caesar scheme; and 2) an attacker knows that a Caesar cipher is in use, but does not know the shift value.</p>
+<p>In the first case, the cipher can be broken using the same techniques as for a general simple substitution cipher, such as <a href="/wiki/Frequency_analysis" title="Frequency analysis">frequency analysis</a> or <a href="/w/index.php?title=Pattern_word&amp;action=edit&amp;redlink=1" class="new" title="Pattern word (page does not exist)">pattern words</a>. While solving, it is likely that an attacker will quickly notice the regularity in the solution and deduce that a Caesar cipher is the specific algorithm employed.</p>
+<p>In the second instance, breaking the scheme is even more straightforward. Since there are only a limited number of possible shifts (26 in English), they can each be tested in turn in a <a href="/wiki/Brute_force_attack" class="mw-redirect" title="Brute force attack">brute force attack</a>. One way to do this is to write out a snippet of the ciphertext in a table of all possible shifts — a technique sometimes known as "completing the plain component". The example given is for the ciphertext "<tt>EXXEGOEXSRGI</tt>"; the plaintext is instantly recognisable by eye at a shift of four. Another way of viewing this method is that, under each letter of the ciphertext, the entire alphabet is written out in reverse starting at that letter. This attack can be speeded up using a set of strips prepared with the alphabet written on them, the strips are then aligned in columns according to the ciphertext, and the plaintext should appear on one of the resulting rows.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:English-slf.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/English-slf.png/320px-English-slf.png" width="320" height="257" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/English-slf.png/480px-English-slf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/41/English-slf.png 2x" data-file-width="560" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:English-slf.png" class="internal" title="Enlarge"></a></div>
+The distribution of letters in a typical sample of English language text has a distinctive and predictable shape. A Caesar shift "rotates" this distribution, and it is possible to determine the shift by examining the resultant frequency graph.</div>
+</div>
+</div>
+<p>Another brute force approach is to match up the frequency distribution of the letters. By graphing the frequencies of letters in the ciphertext, and by knowing the expected distribution of those letters in the original language of the plaintext, a human can easily spot the value of the shift by looking at the displacement of particular features of the graph. This is known as <a href="/wiki/Frequency_analysis" title="Frequency analysis">frequency analysis</a>. For example in the <a href="/wiki/English_language" title="English language">English language</a> the plaintext frequencies of the letters <tt>E</tt>, <tt>T</tt>, (usually most frequent), and <tt>Q</tt>, <tt>Z</tt> (typically least frequent) are particularly distinctive. Computers can also do this by measuring how well the actual frequency distribution matches up with the expected distribution; for example, the <a href="/wiki/Chi-square_statistic" class="mw-redirect" title="Chi-square statistic">chi-square statistic</a> can be used.</p>
+<p>For natural language plaintext, there will, in all likelihood, be only one plausible decryption, although for extremely short plaintexts, multiple candidates are possible. For example, the ciphertext <tt>MPQY</tt> could, plausibly, decrypt to either "<tt><a href="/wiki/Aden" title="Aden">aden</a></tt>" or "<tt>know</tt>" (assuming the plaintext is in English); similarly, "<tt>ALIIP</tt>" to "<tt>dolls</tt>" or "<tt>wheel</tt>"; and "<tt>AFCCP</tt>" to "<tt>jolly</tt>" or "<tt>cheer</tt>" (see also <a href="/wiki/Unicity_distance" title="Unicity distance">unicity distance</a>).</p>
+<p>Multiple encryptions and decryptions provide no additional security. This is because two encryptions of, say, shift <i>A</i> and shift <i>B</i>, will be equivalent to an encryption with shift <i>A</i> + <i>B</i>. In mathematical terms, the encryption under various keys forms a <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">group</a>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caesar_cipher&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/David_Kahn" class="mw-disambig" title="David Kahn">David Kahn</a>, <i>The Codebreakers — The Story of Secret Writing,</i> 1967. <a href="/wiki/Special:BookSources/0684831309" class="internal mw-magiclink-isbn">ISBN 0684831309</a>.</li>
+<li>F. L. Bauer, <i>Decrypted Secrets,</i> 2nd edition, 2000, Springer. <a href="/wiki/Special:BookSources/3540668713" class="internal mw-magiclink-isbn">ISBN 3540668713</a>.</li>
+<li>Chris Savarese and Brian Hart, <i>The Caesar Cipher,</i> 1999 <a rel="nofollow" class="external autonumber" href="http://starbase.trincoll.edu/~crypto/historical/caesar.html">[2]</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caesar_cipher&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.sccs.swarthmore.edu/users/03/julieg/hw14cipher.html">An online Caesar cipher encoder</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.murky.org/cryptography/archives/2004/09/the_caesar_shif_1.html">The Caesar Shift</a> discussed on <a rel="nofollow" class="external text" href="http://www.murky.org/cryptography/">The Beginner's Guide to Cryptography</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.antilles.k12.vi.us/math/cryptotut/caesar4.htm">A Caesar cipher solver</a></li>
+<li><a rel="nofollow" class="external text" href="http://laudatortemporisacti.blogspot.com/2004/09/secret-writing.html">Historical sources for Caesar's use of the cipher</a></li>
+</ul>
+<p><a href="/w/index.php?title=Template:Classical_cryptography&amp;action=edit&amp;redlink=1" class="new" title="Template:Classical cryptography (page does not exist)">Template:Classical cryptography</a></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20170809194828
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.036 seconds
+Real time usage: 0.150 seconds
+Preprocessor visited node count: 85/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   14.279      1 -total
+ 42.26%    6.035      1 Template:Prettytable
+ 36.42%    5.201      1 Template:Classical_cryptography
+ 19.61%    2.800      2 Template:Highlight2
+-->
+</div>

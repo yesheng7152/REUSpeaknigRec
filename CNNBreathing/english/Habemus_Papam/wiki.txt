@@ -1,0 +1,129 @@
+[[Image:Habemus Papam 1415.jpg|thumb|250px|''Habemus Papam'' ("We have a Pope!") at the [[Council of Constance]]]]
+
+'''''Habemus Papam''''' is the announcement given in [[Latin]] by the [[Protodeacon|senior Cardinal Deacon]] upon the [[Papal conclave|election]] of a new [[pope]].
+
+The announcement is given from the central balcony of [[St. Peter's Basilica]] in the [[Vatican City|Vatican]]. After the announcement, the new pope is presented to the people and he gives his first ''[[Urbi et Orbi]]'' blessing.
+
+==Format==
+
+The format for the announcement when a cardinal is elected Pope is:
+
+<blockquote xml:lang="la" lang="la"><poem>
+Annuntio vobis gaudium magnum:
+Habemus Papam!
+Eminentissimum ac reverendissimum Dominum,
+Dominum [First Name],
+Sanctæ Romanæ Ecclesiæ Cardinalem [Last Name],
+Qui sibi nomen imposuit [Papal Name].
+</poem></blockquote>
+
+In English, it reads:
+
+<blockquote><poem>
+I announce to you a great joy:
+We have a Pope!
+The most eminent and most reverend Lord,
+Lord [First Name],
+Cardinal of the Holy Roman Church [Last Name],
+Who takes to himself the name of [Papal Name].
+</poem></blockquote>
+
+In the most recent ''Habemus Papam'' announcement, given by Cardinal [[Jorge Medina Estévez]] on [[19 April]] [[2005]] upon the [[Papal conclave, 2005|election]] of [[Pope Benedict XVI]], the announcement was preceded by a greeting in several languages:
+
+<blockquote><div>
+<span xml:lang="it" lang="it">Fratelli e sorelle carissimi.</span> ([[Italian language|Italian]])
+
+<span xml:lang="es" lang="es">Queridísimos hermanos y hermanas.</span> ([[Spanish language|Spanish]])
+
+<span xml:lang="fr" lang="fr">Bien chers frères et sœurs.</span> ([[French language|French]])
+
+<span xml:lang="de" lang="de">Liebe Brüder und Schwestern.</span> ([[German language|German]])
+
+<span xml:lang="en" lang="en">Dear brothers and sisters.</span> ([[English language|English]])
+</div></blockquote>
+
+==Announcing the names of the new Pontiff==
+
+In announcing the name of the newly-elected pontiff, the new pontiff's birth forename or first name is announced in Latin in the accusative case (e.g., ''Angelum Iosephum'', ''Ioannem Baptistam'', ''Albinum'', ''Carolum'', ''Iosephum''), but the new pontiff's surname or family name is given in the original form (e.g., ''Roncalli'', ''Montini'', ''Luciani'', ''Wojtyła'', ''Ratzinger'').  The new pope's [[regnal name]] is usually given in the genitive case in Latin (e.g., ''Ioannis vicesimi tertii'', ''Ioannis Pauli primi'' etc.), although it can also be declined in the accusative case in Latin (as was the case in 1963 when [[Pope Paul VI]]'s regnal name was announced as ''Paulum sextum'').
+
+==Protodeacons who gave announcement==
+
+This is a partial list of protodeacons (senior cardinal deacons) who have been known to have given the ''Habemus Papam'' announcement.
+*[[Francesco Sforza di Santa Fiora]], announced the elections of [[Pope Leo XI]] and [[Pope Paul V]] in 1605
+*[[Andrea Baroni Peretti Montalto]], announced the election of [[Pope Gregory XV]] (1621)
+*[[Alessandro d'Este]], announced the election of [[Pope Urban VIII]] (1623)
+*[[Carlo de' Medici (1595-1666)|Carlo de' Medici]], announced the election of [[Pope Innocent X]] (1644)
+*[[Giangiacomo Teodoro Trivulzio]], announced the election of [[Pope Alexander VII]] (1655)
+*[[Rinaldo d'Este (1618-1672)|Rinaldo d'Este]], announced the election of [[Pope Clement IX]] (1667)
+*[[Francesco Maidalchini]], announced the elections of [[Pope Clement X]] (1670), [[Pope Innocent XI]] (1676) and [[Pope Alexander VIII]] (1689)
+*[[Urbano Saccetti]], announced the election of [[Pope Innocent XII]] (1691)
+*[[Benedetto Pamphilj]], announced the elections of [[Pope Clement XI]] (1700), [[Pope Innocent XIII]] (1721) and [[Pope Benedict XIII]] (1724)
+*[[Lorenzo Altieri]], announced the election of [[Pope Clement XII]] (1730), but was not able because of illness to announce the election of [[Pope Benedict XIV]] in 1740 (Cardinal [[Carlo Maria Marini]] acted as his substitute).
+*[[Alessandro Albani]], announced the elections of [[Pope Clement XIII]] (1758), [[Pope Clement XIV]] (1769) and [[Pope Pius VI]] (1775)
+*[[Antonio Doria Pamphilj]], announced [[Pope Pius VII]]'s election (1800)
+*[[Fabrizio Ruffo]], announced [[Pope Leo XII]]'s election (1823)
+*[[Giuseppe Albani]], announced the elections of [[Pope Pius VIII]] (1829) and [[Pope Gregory XVI]] (1831)
+*[[Tommaso Riario Sforza]], announced [[Pope Pius IX]]'s election (1846)
+*[[Prospero Caterini]], announced [[Pope Leo XIII]]'s election (1878)
+*[[Luigi Macchi]], announced [[Pope Pius X]]'s election (1903)
+*[[Francesco Salesio Della Volpe]], announced [[Pope Benedict XV]]'s election (1914)
+*[[Gaetano Bisleti]], announced [[Pope Pius XI]]'s election (1922)
+*[[Camillo Caccia-Dominioni]], announced [[Pope Pius XII]]'s election (1939)
+*[[Nicola Canali]], announced [[Pope John XXIII]]'s election (1958)
+*[[Alfredo Ottaviani]], announced [[Pope Paul VI]]'s election (1963)
+*[[Pericle Felici]], announced the elections of [[Pope John Paul I]] and [[Pope John Paul II]] (1978)
+*[[Jorge Medina Estévez]], announced [[Pope Benedict XVI]]'s election (2005)
+
+==Media==
+{{listen|filename=Habemuspapam.ogg|title=Habemus Papam|description=Narration of this article|format=[[Ogg]]}}
+
+==Habemus Papam recordings==
+
+{{listen 
+ | filename     = 
+ | title        = Habemus Papam of Pope Pius XII
+ | description  = [[Camillo Caccia-Dominioni]] announcing the election of Eugenio Pacelli as [[Pope Pius XII]] ([[March 2]], [[1939]])
+ | format       = [[Ogg]]
+ | filename2    = 
+ | title2       = Habemus Papam of Pope John XXIII
+ | description2 = [[Nicola Canali]] announcing the election of Angelo Giuseppe Roncalli as [[Pope John XXIII]] ([[October 28]], [[1958]])
+ | format2      = [[Ogg]]
+ | filename3    = 
+ | title3       = Habemus Papam of Pope Paul VI
+ | description3 = [[Alfredo Cardinal Ottaviani]] announcing the election of Giovanni Battista Montini as [[Pope Paul VI]] ([[june 21]], [[1963]])
+ | format3      = [[Ogg]]
+ | filename4    = 
+ | title4       = Habemus Papam of Pope John Paul I 
+ | description4 = [[Pericle Felici]] announcing the election of Albino Luciani as [[John Paul I]] ([[August 26]], [[1978]])
+ | format4      = [[Ogg]]
+ | filename5    = 
+ | title5       = Habemus Papam of Pope John Paul II 
+ | description5 = [[Pericle Felici]] announcing the election of Karol Wojtyła as [[John Paul II]] ([[October 16]], [[1978]])
+ | format5      = [[Ogg]]
+ | filename6    = 
+ | title6       = Habemus Papam of Pope Benedict XVI 
+ | description6 = [[Jorge Arturo Medina Estévez]] announcing the election of Joseph Ratzinger as [[Benedict XVI]] ([[April 19]], [[2005]])
+ | format6      = [[Ogg]]
+}}
+
+[[Category:Election of the Pope]]
+[[Category:Latin religious phrases]]
+[[Category:Protodeacons]]
+
+[[cs:Habemus Papam]]
+[[es:Habemus Papam]]
+[[eo:Habemus Papam]]
+[[eu:Habemus Papam]]
+[[fr:Habemus papam]]
+[[ko:하베무스 파팜]]
+[[id:Habemus Papam]]
+[[it:Habemus Papam]]
+[[he:הבמוס פאפאם]]
+[[hu:Habemus papam]]
+[[nl:Habemus Papam]]
+[[pl:Habemus papam]]
+[[pt:Habemus Papam]]
+[[ru:Habemus Papam]]
+[[simple:Habemus Papam]]
+[[sl:Habemus Papam]]
+[[tl:Habemvs papam]]

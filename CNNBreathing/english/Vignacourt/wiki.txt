@@ -1,0 +1,54 @@
+{{Infobox French commune
+|name               = Vignacourt
+|region             = [[Picardie]]
+|department         = [[Somme]]
+|arrondissement     = [[arrondissement of Amiens|Amiens]]
+|canton             = Picquigny
+|INSEE              = 80793
+|postal code        = 80650
+|mayor              = Stéphane DuCrotoy
+|term               = 2001&ndash;2008
+|intercommunality   = [[Communauté de communes du Val de Nièvre et environs|Val de Nièvre et environs]]
+|latitude           = 50.0119
+|longitude          = 2.1958
+|elevation m        = 126
+|elevation min m    = 37
+|elevation max m    = 134
+|area km2           = 29.1
+|population         = 2231
+|population date    = 2006
+}}
+
+'''Vignacourt''' is a [[Communes of France|commune]] in the [[Somme (department)|Somme]] [[Departments of France|department]] in [[Picardie]] in northern [[France]].
+
+==Geography==
+Vignacourt is situated {{Convert|10|mi|km|0}} northwest of [[Amiens]], on the D12 and D49 junction.
+
+==Population==
+{{Demography
+|1962 = 1594
+|1968 = 1828
+|1975 = 2007
+|1982 = 2369
+|1990 = 2294
+|1999 = 2183
+|2006 = 2231
+|withoutdoublecount = 1962
+}}
+
+==See also==
+*[[Communes of the Somme department]]
+
+==References==
+*[http://www.insee.fr/en/home/home_page.asp INSEE]
+{{reflist}}
+
+==External links==
+{{commonscat}}
+* [http://www.quid.fr/communes.html?mode=query&req=Vignacourt Vignacourt on the Quid website] {{Fr}}
+
+{{Somme communes}}
+
+[[Category:Communes of Somme]]
+
+{{Somme-geo-stub}}

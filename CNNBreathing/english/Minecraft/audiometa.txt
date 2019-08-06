@@ -1,0 +1,14 @@
+{{Spoken article
+|title=Minecraft
+|time=23:00
+|user_name=Mangst
+|date=2012-01-22
+|oldid=472544051
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+by 4 c t sa can
+
+[[Category:Minecraft]]

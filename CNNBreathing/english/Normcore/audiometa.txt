@@ -1,0 +1,11 @@
+{{English spoken article
+|title= Normcore
+|user_name_link= https://en.wikipedia.org/wiki/User:Emmiecc
+|date= October 9 2014
+|accent= East Coast American
+|sex= f
+|oldid=628102284
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}

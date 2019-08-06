@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=China–Laos relations
+|user_name_link=Spoœekspaar
+|date=2015-01-08
+|accent=British
+|sex=Male 
+|oldid=634479311
+}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-3.0}} 
+== {{int:license-header}} ==

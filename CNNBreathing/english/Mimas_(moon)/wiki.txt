@@ -1,0 +1,131 @@
+<!-- Scroll down to edit the contents of this page. Additional parameters for this template are available at [[Template:Infobox Planet]]. -->
+{{Infobox Planet
+| name = Mimas
+| alt_names = Saturn I
+| adjectives = Mimantean
+| image = [[Image:Mimas moon.jpg|200px|Mimas, as imaged by Cassini in 2005 (NASA)]]
+| bgcolour = #a0ffa0
+| discovery = yes
+| discoverer = [[William Herschel]]
+| discovered = September 17, 1789<ref name=CosmoVisions>{{Cite web| url=http://www.cosmovisions.com/SaturneChrono02.htm| title=Imago Mundi - La Découverte des satellites de Saturne| language=French}}</ref>
+| mean_orbit_radius = 185&nbsp;520 [[kilometer|km]] <ref name="nasafact">{{cite web|url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mimas&Display=Facts|title = NASA: Solar System Exploration: Planets: Saturn: Moons: Mimas: Facts & Figures|publisher = NASA|last = Harvey|first = Samantha|accessdate = 2007-10-10|date = April 11, 2007}}</ref>
+| eccentricity = 0.020&nbsp;2<ref name="NASACelestia">[http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc NASA Celestia]</ref>
+| period = 0.942&nbsp;421&nbsp;8 d<ref name="NASACelestia"/>
+| inclination = 1.51° (to Saturn's equator)
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 414.8&times;394.4&times;381.4 km (0.0311 Earths)<ref name="Thomas">{{Cite web| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/1639.pdf|format=PDF| title=Shapes of the Saturnian Icy Satellites| author= Thomas, P. C.; ''et al.''| publisher=37th Lunar and Planetary Science Conference| year=2006| accessdate=2006-11-26}}</ref>
+| mean_radius = 198.30 ± 0.30 km<ref name="Jacobson 2006">{{cite journal| last=Jacobson| first=R. A.| authorlink=Robert A. Jacobson| coauthors=[[Peter G. Antreasian|Antreasian, P. G.]]; [[John J. Bordi|Bordi, J. J.]]; [[Kevin E. Criddle|Criddle, K. E.]]; et al.| title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data| journal=The Astronomical Journal| month=December| year=2006| volume=132| pages=2520–2526| doi=10.1086/508812}}</ref>
+| surface_area = ~490&nbsp;000 [[square kilometer|km²]]
+| volume = ~32&nbsp;900&nbsp;000 [[cubic kilometer|km<sup>3</sup>]]
+| mass = (3.749&nbsp;3 ± 0.003&nbsp;1){{e|19}} [[kilogram|kg]] <ref name="Jacobson 2006"/><ref name="Jacobson05">{{cite journal | author= Jacobson, R. A.; ''et al.''| title= ''The GM values of Mimas and Tethys and the libration of Methone''| journal= Astronomical Journal| year= 2005| volume= 132| pages= 711| doi= 10.1086/505209| url= http://www.journals.uchicago.edu/doi/pdf/10.1086/505209}}</ref><br/>(6.3{{e|-6}} Earths)
+| density = 1.147&nbsp;9 ± 0.005&nbsp;3 g/cm<sup>3</sup> <ref name="Jacobson 2006"/>
+| surface_grav = 0.063&nbsp;6 [[Acceleration|m/s<sup>2</sup>]] (0.648%[[Standard gravity|g]])
+| escape_velocity = 0.159 km/s
+| rotation = [[Synchronous rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 0.962 ± 0.004 ([[geometric albedo|geometric]])<ref name=Verbiscer>[[Anne Verbiscer|Verbiscer, A.]]; [[Richard French|French, R.]]; [[Mark Showalter|Showalter, M.]]; and [[Paul Helfenstein|Helfenstein, P.]]; [http://www.sciencemag.org/cgi/content/abstract/315/5813/815 ''Enceladus: Cosmic Graffiti Artist Caught in the Act''], Science, Vol. 315, No. 5813 (February 9, 2007), p. 815 (supporting online material, table S1)</ref>
+| magnitude = 12.9 <ref name=magnitude>{{cite web|title=Classic Satellites of the Solar System|url=http://www.oarval.org/ClasSaten.htm|publisher=Observatorio ARVAL|accessdate=2007-09-28}}</ref>
+| single_temperature = ~64 K
+}}
+'''Mimas''' ({{pron-en|ˈmaɪməs}},<ref>In US dictionary transcription, {{USdict|mī′·məs}}.</ref> or as Greek ''Μίμᾱς,'' rarely ''Μίμανς)'' is a [[natural satellite|moon]] of [[Saturn]] which was discovered in 1789 by [[William Herschel]].<ref name=Herschel_1790>{{Cite journal| last=Herschel| first=W.| title=Account of the Discovery of a Sixth and Seventh Satellite of the Planet Saturn; With Remarks on the Construction of Its Ring, Its Atmosphere, Its Rotation on an Axis, and Its Spheroidical Figure| journal=Philosophical Transactions of the Royal Society of London<!--- not in NASA ADS --->| year=1790| volume=80| pages=1–20| doi=10.1098/rstl.1790.0001}}</ref>  It is named after [[Mimas (giant)|Mimas]], a son of [[Gaia (mythology)|Gaia]] in [[Greek mythology]], and is also designated '''Saturn I'''.
+
+By diameter, Mimas is the 20th largest moon in the solar system. However, Mimas is the smallest known [[astronomical body]] that is thought to be rounded in shape due to self-gravitation.
+
+==Discovery==
+Mimas was discovered by the [[astronomer]] [[William Herschel]] on September 17, 1789. He recorded his discovery as follows: "The great light of my forty-foot telescope was so useful that on the 17th of September, 1789, I remarked the seventh satellite, then situated at its greatest western elongation."<ref>William Herschel, ''Philosophical Transactions of the Royal Society of London'', Vol. 80, reported by {{Cite journal| last=Arago| first=M.| title=Herschel| journal=Annual Report of the Board of Regents of the Smithsonian Institution| year=1871| pages=198–223| url=http://laplaza.org/~tom/People/Herschel.htm| accessdate=2006-11-26}}</ref>
+
+===Name===
+Mimas is named after one of the [[Titan (mythology)|Titan]]s in [[Greek mythology]], [[Mimas (giant)|Mimas]]. The names of all seven then-known satellites of Saturn, including Mimas, were suggested by William Herschel's son [[John Herschel|John]] in his 1847 publication ''Results of Astronomical Observations made at the Cape of Good Hope''.<ref>As reported by [[William Lassell]], [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html Monthly Notices of the Royal Astronomical Society, Vol. 8, No. 3, pp. 42–43] (January 14, 1848)</ref><ref>{{Cite journal| last=Lassell| first= William| title=Satellites of Saturn: Observations of Mimas, the closest and most interior Satellite of Saturn| url=http://articles.adsabs.harvard.edu/full/seri/MNRAS/0008//0000042.000.html| journal=Monthly Notices of the Royal Astronomical Society| year=1848| volume=8| pages=42| accessdate=2006-11-26}}</ref>  He named them after Titans specifically because Saturn (the Roman equivalent of [[Cronus|Kronos]] in Greek mythology), was the leader of the Titans.
+
+According to Liddell and Scott's ''[[A Greek-English Lexicon|Greek-English Lexicon]],'' the adjectival form of Mimas would be ''Mimantean'' (the [[genitive case]] is Latin ''Mimantis,'' Greek ''Μῑμάντος).'' In practice, anglicisms such as ''Mimasian'' and ''Mimian'' are very occasionally seen, but more commonly writers simply use the phrase 'of Mimas'.
+
+== Physical characteristics ==
+[[Image:PIA06256 Mimas full view.jpg|left|thumb|240px|High-resolution ''Cassini'' view of Mimas, showing craters up to 6 km deep, and 1-km-deep grooves.]]
+Mimas' low density (1.17) indicates that it is composed mostly of water ice with only a small amount of rock. Due to the tidal forces acting on it, the moon is not perfectly spherical; its longest axis is about 10% longer than the shortest. The somewhat [[Spheroid|ovoid]] shape of Mimas is especially noticeable in recent images from the ''[[Cassini-Huygens|Cassini]]'' probe.
+
+Mimas' most distinctive feature is a colossal [[impact crater]] 130&nbsp;km across, named [[Herschel (crater on Mimas)|Herschel]] after the moon's discoverer. Herschel's diameter is almost a third of the moon's own diameter; its walls are approximately 5&nbsp;km high, parts of its floor measure 10&nbsp;km deep, and its central peak rises 6&nbsp;km above the crater floor. If there were a crater of an equivalent scale on [[Earth]] it would be over 4000&nbsp;km in diameter, wider than [[Canada]]. The impact that made this crater must have nearly shattered Mimas: fractures can be seen on the opposite side of Mimas that may have been created by shock waves from the impact travelling through the moon's body.
+
+The surface is saturated with smaller impact craters, but no others are anywhere near the size of Herschel. Although Mimas is heavily cratered, the cratering is not uniform. Most of the surface is covered with craters greater than 40&nbsp;km in diameter, but in the south polar region, craters greater than 20&nbsp;km are generally lacking. This suggests that some process removed the larger craters from these areas, or that something prevented larger stellar bodies from hitting the south polar region.
+
+[[Image:Mimas 2008 PIA11118.jpg|thumb|right|Map of Mimas]]
+
+Scientists officially recognise two types of geological features on Mimas: [[Impact crater|crater]]s and [[chasmata]] (chasms). ''(See also: [[List of geological features on Mimas]])''
+
+==Relationship with the rings of Saturn==
+Mimas is responsible for clearing the material from the [[Rings of Saturn #Cassini Division|Cassini Division]], the gap between Saturn's two widest rings, [[Rings of Saturn #A Ring|A ring]] and [[Rings of Saturn #B Ring|B ring]]. Particles at the inner edge of the Cassini division are in a 2:1 [[orbital resonance|resonance]] with Mimas. They orbit twice for each orbit of Mimas. The repeated pulls by Mimas on the Cassini division particles, always in the same direction in space, force them into new orbits outside the gap. Other resonances with Mimas are also responsible for other features in Saturn's rings: the boundary between the C and B ring is at the 3:1 resonance and the outer [[Rings of Saturn #F Ring|F ring]] [[Planetary ring|shepherd]], [[Pandora (moon)|Pandora]], is at the 3:2 resonance. More recently, a 7:6 corotation eccentricity resonance has been discovered with the [[Rings of Saturn #G Ring|G ring]], whose inner edge is about 15&nbsp;000&nbsp;km inside the orbit of Mimas.
+
+==Exploration==
+Mimas has been imaged several times from moderate distances by the [[Cassini–Huygens|Cassini orbiter]], the closest being at 63&nbsp;000&nbsp;km on August 1, 2005. Cassini's extended mission will include several non-targeted close approaches to Mimas. Improvements on the current best will occur during passes on October 24, 2008 and October 14, 2009. The closest will be on February 13, 2010 at 9&nbsp;500&nbsp;km.
+
+==Gallery==
+<gallery>
+Image:Mimas shape.jpg|Mimas, imaged by ''Cassini'', looking notably egg-shaped
+Image:Mimas (NASA) PIA06176.jpg|Mimas, silhouetted against Saturn's northern latitudes
+Image:Mimas and F ring PIA09806.jpg|Mimas, behind the F ring
+</gallery>
+
+==See also==
+* [[Polar bulge]]
+* [[Death Star]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://saturn.jpl.nasa.gov/science/moons/moonDetails.cfm?pageID=9 Cassini mission page - Mimas]
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Mimas Mimas Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://ciclops.org/view_event.php?id=24 Journal of raw images from Cassini]
+* [http://www.planetary.org/explore/topics/our_solar_system/saturn/mimas.html The Planetary Society: Mimas]
+* [http://www.nineplanets.org/mimas.html The Nine Planets - Mimas]
+* [http://www.solarviews.com/eng/mimas.htm Views of the Solar System - Mimas]
+
+{{Moons of Saturn|state=uncollapsed}}
+{{Solar System moons (compact)}}
+
+{{DEFAULTSORT:Mimas (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[af:Mimas (natuurlike satelliet)]]
+[[bg:Мимас (спътник)]]
+[[ca:Mimas (satèl·lit)]]
+[[cs:Mimas (měsíc)]]
+[[co:Mimas]]
+[[cy:Mimas (lloeren)]]
+[[da:Mimas (måne)]]
+[[de:Mimas (Mond)]]
+[[el:Μίμας (δορυφόρος)]]
+[[es:Mimas (satélite)]]
+[[eo:Mimaso (luno)]]
+[[fa:میماس (ماه)]]
+[[fr:Mimas (lune)]]
+[[ga:Mimas]]
+[[gl:Mimas]]
+[[ko:미마스 (위성)]]
+[[hr:Mimant (mjesec)]]
+[[id:Mimas]]
+[[it:Mimas (astronomia)]]
+[[he:מימס]]
+[[la:Mimas (satelles)]]
+[[lt:Mimas (palydovas)]]
+[[hu:Mimas (hold)]]
+[[ms:Mimas (bulan)]]
+[[nl:Mimas (maan)]]
+[[ja:ミマス (衛星)]]
+[[no:Mimas (måne)]]
+[[nn:Saturnmånen Mimas]]
+[[pl:Mimas (księżyc)]]
+[[pt:Mimas (satélite)]]
+[[ro:Mimas (satelit)]]
+[[ru:Мимас (спутник)]]
+[[simple:Mimas (moon)]]
+[[sk:Mimas (mesiac)]]
+[[sl:Mimas (luna)]]
+[[sr:Мимас (сателит)]]
+[[fi:Mimas]]
+[[sv:Mimas]]
+[[tr:Mimas (uydu)]]
+[[uk:Мімас (супутник)]]
+[[vi:Mimas (vệ tinh)]]
+[[zh-classical:土衛一]]
+[[zh:土卫一]]

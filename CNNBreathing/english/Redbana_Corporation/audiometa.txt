@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=This is a spoken word version of the article: [http://en.wikipedia.org/w/index.php?title=Redbana_Corporation&oldid=399269467 Redbana Corporation]
+
+* '''Corresponding article version:''' [http://en.wikipedia.org/w/index.php?title=Redbana_Corporation&oldid=399269467 Click here to see the article as it was read.]
+* '''Accent:''' Chicago English
+* '''Sex of the narrator:''' Male}}
+|Source=Derivative of [http://en.wikipedia.org/w/index.php?title=Redbana_Corporation&oldid=399269467 Redbana Corporation] at Wikipedia
+|Author=[[User:Animeshadows|Animeshadows]]
+|Date=2010-11-27
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]

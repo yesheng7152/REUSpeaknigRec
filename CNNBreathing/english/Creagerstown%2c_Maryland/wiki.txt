@@ -1,0 +1,137 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Creagerstown
+| native_name             =
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[Unincorporated area|Unincorporated community]] 
+| image_skyline           = St. Johns Church, Creagerstown, Maryland.jpg
+| image_alt               =
+| image                   = 
+| image_caption           = [[St. John's Church at Creagerstown Historic District|St. John's Church]] in Creagerstown
+| image_flag              =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             =
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     =
+| latd  =39  |latm  =34  |lats  =38  |latNS  =N
+| longd =77  |longm =21  |longs =54  |longEW =W
+| coor_pinpoint           =
+| coordinates_type        =
+| coordinates_display     = inline,title
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = State
+| subdivision_name1       = [[Maryland]]
+| subdivision_type2       = County
+| subdivision_name2       = [[Frederick County, Maryland|Frederick]]
+| subdivision_type3       =
+| subdivision_name3       =
+| established_title       = First Settled
+| established_date        = 1750
+| founder                 = Creager Family<ref>{{cite web |url=http://freepages.genealogy.rootsweb.ancestry.com/~grannyapple/CREAGER-KRIEGER/CREAGERSTOWNmdHOME.html |title=CREAGERSTOWN, FREDERICK CO., MD |author=Audrey Shields Hancock |date=2001-01-01 |work= |publisher=Ancestry |accessdate=15 July 2012}}</ref>
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = US<!-- or UK or Metric -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               =
+| area_water_percent      =
+| area_rank               =
+| area_blank1_title       =
+| area_blank2_title       =
+<!-- square miles -->
+| area_total_sq_mi        = 
+| area_land_sq_mi         =
+| area_water_sq_mi        =
+| area_urban_sq_mi        =
+| area_rural_sq_mi        =
+| area_metro_sq_mi        =
+| area_blank1_sq_mi       =
+| area_blank2_sq_mi       =
+<!-- acres -->
+| area_total_acre         = 
+| area_land_acre          =
+| area_water_acre         =
+| area_urban_acre         =
+| area_rural_acre         =
+| area_metro_acre         =
+| area_blank1_acre        =
+| area_blank2_acre        =
+| length_mi               =
+| width_mi                =
+| dimensions_footnotes    =
+| elevation_footnotes     =
+| elevation_ft            =
+| population_footnotes    =
+| population_total        =
+| population_as_of        =
+| population_density_sq_mi= auto
+| population_demonym      =
+| population_note         =
+| timezone1               =
+| utc_offset1             =
+| timezone1_DST           =
+| utc_offset1_DST         =
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}
+
+'''Creagerstown''' is an [[unincorporated area|unincorporated community]] in [[Frederick County, Maryland]], United States.<ref>{{cite web|url=http://geonames.usgs.gov/pls/gnispublic|title=Geographic Names Information System|date=2009-01-29|work= Creagerstown (Populated Place)|publisher=U.S. Geological Survey}}</ref>  It is playfully known by its residents as "4 miles from everywhere" because of its situation at {{convert|4|mi}} from [[Thurmont, Maryland|Thurmont]], [[Woodsboro, Maryland|Woodsboro]], [[Rocky Ridge, Maryland|Rocky Ridge]], and [[Lewistown, Maryland|Lewistown]].<ref name=Chronicles />
+
+The town consists of about 40 buildings, including three churches and a small school building.  A number of the buildings in the town can be classified as historical and the ruins of older buildings can also be found.<ref name=survey>{{Citation |last=Shipe |first=Mary Kendall |date=July 1991  |title=State Historic Sites Inventory Form |publisher=Maryland Historic Trust |publication-place=Frederick, Maryland |page= |url=http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/010000/010900/010929/pdf/msa_se5_10929.pdf |accessdate=2014-03-19 |id=Survey No. F-6-100}}</ref>
+
+Creagerstown is additionally the home to both Creagerstown Park<ref name="Frederick County Parks & Rec Website">{{cite web |url=https://frederickcountymd.gov/index.aspx?NID=2929 |title=Creagerstown Park |author= |date= |work= |publisher=Frederick County Parks & Rec |accessdate=15 July 2012}}</ref> and Creagerstown Cemetery.  [[Maryland Route 550]] passes through Creagerstown on its way towards [[Loys Station Park|Loys Station]] in the form of Creagerstown Road.
+
+==History==
+===Founding===
+The town originally grew up as an important crossroads for stagecoaches around a major Indian trail known as the Monocacy Road.<ref name=survey /><ref name=Chronicles />  The Monocacy Road connected the area to Pennsylvania and Virginia.  Creagerstown is located at a crossroads where the Monocacy Road connected to another road that ran between Baltimore and Pittsburg.  The earliest settlement of the area was in the early 1700 by German immigrants.  Sometime between 1760 and 1770 John Creager laid out Creagerstown, which would eventually supplant nearby [[Monocacy, Maryland|Monocacy]].<ref name=survey />
+
+===Growth===
+[[File:Creagerstown 001.jpg|right|thumb|Creagerstown before the 1914 fire.]]
+The town experienced steady growth for a number of years.  In 1775 the first house in Creagerstown was built by Isaac Kolb.  In 1785 a tannery opened in town; it would operate until 1810.  Around the same time that the tannery closed a German brewery opened in Creagerstown.  In 1866 the church from Monocacy was reconstructed in Creagerstown and became known as Union Bethel Church.  By 1858 Creagerstown contained a doctors office, two stores, a hotel, a church, a parsonage, and a school.  Growing further by 1873, Creagerstown also contained a blacksmith shop, a wagon shop, and another church. By 1910 the population of Creagerstown was 200.<ref name=survey />  At one point there was a tavern on every corner in the town square.<ref name=Chronicles />
+
+===Fire of June 2, 1914===
+[[File:Creagerstown Fire H060.jpg|right|thumb|Postcard from 1914 showing the destruction caused by the fire.]]
+On June 2, 1914, around 10 am, a major fire broke out in Monocacy Valley Creamery and destroyed about 30 buildings,<ref name=Chronicles>{{cite book|last=Erickson|first=Marie Anne|title=Frederick County chronicles : the crossroads of Maryland|date=2012|publisher=The History Press|location=Charleston, SC|isbn=1609497759|editor=Ingrid Price}}</ref><ref name=survey /> causing somewhere between $60,000 and $70,000 worth of damages.<ref name=fnp>{{cite news|title=NEARLY HALF CREAGERSTOWN BURNS; LOSS MAY BE $70,000|url=https://en.wikisource.org/wiki/Index:Frederick_News_Post_1914-06-03.pdf|accessdate=20 March 2014|newspaper=Frederick News Post|date=3 June 1914}}</ref>   The fire was caused accidentally when a spark from a fire set by a man in the creamery ignited the roof. Strong winds fanned the flames, allowing the blaze to cross the road and gaps between buildings.  Creagerstown had no fire department to put out the fire.  The town hall was burned down and the fire also destroyed all of the hotels owned by the Valentine family, though the Valley Hotel was eventually rebuilt.<ref name=Chronicles />  Between 1920 and 1930 a number of houses in the town were reconstructed.  But by 1930 other road improvements and other highways, such as the Frederick and Emmitsburg railroads, had been constructed throughout Frederick and Creagerstown never recovered.<ref name=survey /><ref name=Chronicles />
+
+==Historical buildings==
+Most of the buildings in Creagerstown were built between the early 19th century and early 20th century and are made out of log, brick, or stone.  The Maryland State Historic Sites Inventory Form for Creagerstown states that "the town demonstrates building forms spanning over 100 years." Many of the houses have smaller agricultural buildings in the back of their lots.  Most of the commercial buildings are located towards the center of the town.<ref name=survey />
+
+There are a number of notable historical buildings in Creagerstown including the Georgian-style farmhouse [[Strawberry Hill (Creagerstown, Maryland)|Strawberry Hill]] which is located on Creagerstown Road and is not in the town proper, but is located in the Creagerstown Election District.<ref>{{cite web|url=http://mht.maryland.gov/nr/NRDetail.aspx?HDID=362&COUNTY=Frederick&FROM=NRCountyList.aspx?COUNTY=Frederick|title=Maryland Historical Trust|date=2008-10-05|work= National Register of Historic Places: Properties in Frederick County, Strawberry Hill|publisher=Maryland Historical Trust}}</ref> Along with [[Pennterra (Creagerstown, Maryland)|Pennterra]], Strawberry Hill was listed on the [[National Register of Historic Places]] in 1976.<ref name="nris">{{NRISref|2008a}}</ref>  [[St. John's Church at Creagerstown Historic District|St. John's Church]], built in 1908 and located on Blacks Mill Rd, is also in Creagerstown.  St. John's Church was built to replace the original St. John's Lutheran Church which was built in the 1850s.  Still standing in the town is a small schoolhouse, built in 1855, and the Union Bethel church, a one-story stone church built in 1866.<ref name=survey />
+
+==See also==
+* [[Monocacy, Maryland]]
+
+==References==
+{{reflist}}
+
+{{Frederick County, Maryland}}
+
+[[Category:Unincorporated communities in Frederick County, Maryland]]
+[[Category:Unincorporated communities in Maryland]]
+[[Category:Populated places established in 1750]]

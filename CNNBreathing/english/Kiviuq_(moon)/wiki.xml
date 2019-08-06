@@ -1,0 +1,61 @@
+<root><template><title>Irregular satellite</title><part><name index="1"/><value>
+</value></part><part><name>ref_discovery</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;Discoverers_JPL&quot;</attr><inner>Discovery Circumstances [http://ssd.jpl.nasa.gov/?sat_discovery (JPL)]</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>name</name><equals>=</equals><value>Kiviuq - Saturn XXIV
+</value></part><part><name>discoverer</name><equals>=</equals><value>[[Brett J. Gladman|B. J. Gladman]] et al.
+</value></part><part><name>discovery_date</name><equals>=</equals><value>in 2000
+</value></part><part><name>epoch</name><equals>=</equals><value>2000 Feb. 26.00
+</value></part><part><name>ref_orb_elems</name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;JPL_mean_elems&quot;</attr><inner>
+Mean orbital parameters [http://ssd.jpl.nasa.gov/?sat_elem from JPL] </inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>semimajor</name><equals>=</equals><value>11.111
+</value></part><part><name>eccentricity</name><equals>=</equals><value>0.3288 	
+</value></part><part><name>inclination</name><equals>=</equals><value>45.71
+</value></part><part><name>period</name><equals>=</equals><value>449.22 d &lt;br/&gt;(1.23 [[Julian year (astronomy)|yr]])
+</value></part><part><name>diameter</name><equals>=</equals><value>16 km<ext><name>ref</name><attr> name=&quot;Sheppard&quot;</attr><inner>[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>albedo</name><equals>=</equals><value>0.04 <ext><name>ref</name><attr> name=&quot;Sheppard&quot;</attr></ext> ''assumed'' 
+</value></part><part><name> color</name><equals>=</equals><value>''light red'' &lt;small&gt;B-V=0.87 &lt;br/&gt;R-V=0.66<ext><name>ref</name><attr> name=&quot;Grav2003&quot;</attr><inner>[[Tommy Grav|Grav, T.]]; [[Matthew J. Holman|Holman, M. J.]]; Gladman, B. J.; [[Kaare Aksnes|Aksnes, K.]]; [http://arxiv.org/abs/astro-ph/0301016 ''Photometric survey of the irregular satellites''], Icarus, '''166''' (2003), pp. 33-45</inner><close>&lt;/ref&gt;</close></ext>/0.48<ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr><inner>Grav, T.; and [[James Bauer|Bauer, J.]]; [http://arxiv.org/abs/astro-ph/0611590 ''A deeper look at the colors of Saturnian irregular satellites'']</inner><close>&lt;/ref&gt;</close></ext>&lt;/small&gt;
+</value></part><part><name>spectral_type</name><equals>=</equals><value>[[D-type asteroid|D]] <ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr></ext>
+</value></part></template>
+'''Kiviuq''' (<template><title>pron-en</title><part><name index="1"/><value>ˈkiːvi.oʊk</value></part></template> <template><title>respell</title><part><name index="1"/><value>KEE</value></part><part><name index="2"/><value>vee-ohk</value></part></template> or <template><title>IPA-en</title><part><name index="1"/><value>ˈkɪvi.ʊk</value></part><part><name index="2"/><value/></part></template> <template><title>respell</title><part><name index="1"/><value>KIV</value></part><part><name index="2"/><value>ee-ook</value></part></template>) is a [[prograde]] [[irregular satellite|irregular]] [[natural satellite|satellite]] of [[Saturn]]. It was discovered by [[Brett J. Gladman]] in 2000, and given the temporary designation '''S/2000&amp;nbsp;S&amp;nbsp;5'''.<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/07500/07521.html IAUC 7521: ''S/2000 S 5, S/2000 S 6''] November 18, 2000 (discovery)</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/mpec/K00/K00Y14.html MPEC 2000-Y14: ''S/2000 S 3, S/2000 S 4, S/2000 S 5, S/2000 S 6, S/2000 S 10''] December 19, 2000 (discovery and ephemeris)</inner><close>&lt;/ref&gt;</close></ext>
+
+It was named in 2003 after a &quot;giant&quot; of [[Inuit mythology]].<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/08100/08177.html IAUC 8177: ''Satellites of Jupiter, Saturn, Uranus''] August 8, 2003 (naming the moon)</inner><close>&lt;/ref&gt;</close></ext> [[Kiviuq]] (also spelled Keeveeok, Qiviuq or Kivioq) is a legendary and heroic Inuk, a sort of Inuit [[Odysseus]]. He has lived very long (or has had several lives), has wandered and journeyed, living all sorts of adventures whose details depend on the story-teller's local tradition.
+
+Kiviuq is about 16 kilometres in diameter, and orbits Saturn at an average distance of 11.1 million kilometers in 450 days. It is a member of the [[Saturn's Inuit group of satellites|Inuit group]] of irregular satellites.
+
+Kiviuq displays ''light-red'' colours and the [[infrared]] spectrum very similar to [[Siarnaq (moon)|Siarnaq]] and [[Paaliaq (moon)|Paaliaq]], further supporting the thesis of a possible common origin of the Inuit group in the break-up of a larger body<ext><name>ref</name><attr> name=&quot;Grav2006&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;Gladman2001&quot;</attr><inner>Gladman, B. J.; [[Philip D. Nicholson|Nicholson, P. D.]]; [[Joseph A. Burns|Burns, J. A.]]; [[John J. Kavelaars|Kavelaars, J. J.]]; [[Brian G. Marsden|Marsden, B. G.]]; Holman, M. J.; Grav, T.; [[Carl W. Hergenrother|Hergenrother, C. W.]]; [[Jean-Marc Petit|Petit, J.-M.]]; [[Robert A. Jacobson|Jacobson, R. A.]]; and [[William J. Gray|Gray, W. J.]]; [http://www.nature.com/nature/journal/v412/n6843/abs/412163a0.html ''Discovery of 12 satellites of Saturn exhibiting orbital clustering''], Nature, '''412''' (July 12. 2001), pp. 163–166</inner><close>&lt;/ref&gt;</close></ext>.
+
+Kiviuq is believed to be in [[Kozai resonance]] i.e. cyclically reducing the [[orbital inclination]] while increasing the [[orbital eccentricity|eccentricity]] and ''vice versa''.<ext><name>ref</name><attr> name=&quot;Cuk2004&quot;</attr><inner>[[Matija Ćuk|Ćuk, M.]]; and Burns, J. A.; [http://arxiv.org/abs/astro-ph/0408119 ''On the Secular Behavior of Irregular Satellites''], The Astronomical Journal, Vol. 128 (2004), pp. 2518-2541</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">== References ==</h>
+<template lineStart="1"><title>reflist</title></template>
+*Ephemeris [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html from IAU-MPC NSES]
+
+<h level="2" i="2">==External links==</h>
+*[http://www.ifa.hawaii.edu/~jewitt/irregulars.html David Jewitt pages]
+
+&lt;br/&gt;
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Kiviuq (Moon)</title></template>
+[[Category:Moons of Saturn]]
+[[Category:Irregular satellites]]
+
+[[bg:Кивиок (спътник)]]
+[[da:Kiviuq (måne)]]
+[[de:Kiviuq (Mond)]]
+[[el:Κίβιουκ (δορυφόρος)]]
+[[es:Kiviuq (satélite)]]
+[[fr:Kiviuq]]
+[[hr:Kiviuq (mjesec)]]
+[[it:Kiviuq (astronomia)]]
+[[lt:Kiviukas (palydovas)]]
+[[nl:Kiviuq (maan)]]
+[[ja:キビウク (衛星)]]
+[[pl:Kiviuq (księżyc)]]
+[[ru:Кивиок (спутник)]]
+[[simple:Kiviuq (moon)]]
+[[sk:Kiviuq (mesiac)]]
+[[sl:Kiviuk (luna)]]
+[[fi:Kiviuq (kuu)]]
+[[sv:Kiviuq]]
+[[uk:Ківіок (супутник)]]
+[[zh:土卫二十四]]</root>

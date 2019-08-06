@@ -1,0 +1,17 @@
+{{English spoken article
+|title=Vignacourt
+|user_name_link=[[:en:Incledon|Incledon]])
+|date=2015-12-24
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/wiki/Vignacourt
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Vignacourt]]

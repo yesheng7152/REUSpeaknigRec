@@ -1,0 +1,104 @@
+<root><comment>&lt;!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+--&gt;</comment>
+<template lineStart="1"><title>Infobox Planet
+</title><part><name> name </name><equals>=</equals><value> Atlas
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:Cassini Atlas N00084634 CL.png]]
+</value></part><part><name> caption </name><equals>=</equals><value> Photo taken by ''[[Cassini–Huygens|Cassini]]'' on June 12, 2007, showing Atlas as seen from above its south pole
+</value></part><part><name> bgcolour </name><equals>=</equals><value> #a0ffa0
+</value></part><part><name> discovery </name><equals>=</equals><value> yes
+</value></part><part><name> discoverer </name><equals>=</equals><value> [[Richard Terrile|Terrile]], [[Voyager 1]]
+</value></part><part><name> discovered </name><equals>=</equals><value> October, 1980
+</value></part><part><name> orbit_ref </name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr><inner>{{cite journal | author= [[Joseph N. Spitale|Spitale, J. N.]]; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132| issue=2 | pages= 692–710 | url=http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> epoch </name><equals>=</equals><value> December 31, 2003 ([[Julian day|JD]] 2453005.5)
+</value></part><part><name> mean_orbit_radius </name><equals>=</equals><value> 137,670 ± 10 km
+</value></part><part><name> eccentricity </name><equals>=</equals><value> 0.0012
+</value></part><part><name> period </name><equals>=</equals><value> 0.6016947883 d
+</value></part><part><name> inclination </name><equals>=</equals><value> 0.003 ± 0.004°
+</value></part><part><name> satellite_of </name><equals>=</equals><value> [[Saturn]]
+</value></part><part><name> physical_characteristics </name><equals>=</equals><value> yes
+</value></part><part><name> dimensions </name><equals>=</equals><value> 46 &amp;times; 38 &amp;times; 19 km<ext><name>ref</name><attr> name=&quot;Porco2006&quot;</attr><inner>{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites''| journal= Bulletin of the American Astronomical Society| year= 2006| volume= 37| pages= 768| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf|format=PDF}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> mean_radius </name><equals>=</equals><value> 15.3 ± 1.2 km <ext><name>ref</name><attr> name=&quot;Porco2006&quot; </attr></ext>
+</value></part><part><name> surface_area </name><equals>=</equals><value> ~3,700 km²
+</value></part><part><name> volume </name><equals>=</equals><value> ~15,000 km³
+</value></part><part><name> mass </name><equals>=</equals><value> 6.6 ± 0.6 <template><title>e</title><part><name index="1"/><value>15</value></part></template> [[kilogram|kg]] <ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr></ext>
+</value></part><part><name> density </name><equals>=</equals><value> 0.44 ± 0.11 [[gram|g]]/cm³
+</value></part><part><name> surface_grav </name><equals>=</equals><value> ~0.00083 [[Acceleration|m/s&lt;sup&gt;2&lt;/sup&gt;]]
+</value></part><part><name> escape_velocity </name><equals>=</equals><value> ~0.0062 km/s
+</value></part><part><name> rotation </name><equals>=</equals><value> [[synchronous rotation|synchronous]]
+</value></part><part><name> axial_tilt </name><equals>=</equals><value> zero
+</value></part><part><name> albedo </name><equals>=</equals><value> 0.4
+</value></part><part><name> single_temperature </name><equals>=</equals><value> ~81 K
+</value></part><part><name> adjectives </name><equals>=</equals><value> Atlantean
+</value></part></template>
+'''Atlas''' (<template><title>pronEng</title><part><name index="1"/><value>ˈætləs</value></part></template> <template><title>respell</title><part><name index="1"/><value>AT</value></part><part><name index="2"/><value>ləs</value></part></template>, or as Greek ''Άτλας)'' is an [[inner satellite]] of [[Saturn]].
+
+Atlas was discovered by [[Richard Terrile]] in 1980 (some time before November 12) from [[Voyager program|Voyager]] photos and was designated '''<template><title>nowrap</title><part><name index="1"/><value>S/1980 S 28</value></part></template>'''.<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/03500/03539.html IAUC 3539: ''1980 S 28''] November 13, 1980 (discovery)</inner><close>&lt;/ref&gt;</close></ext> In 1983 it was officially named after [[Atlas (mythology)|Atlas]] of [[Greek mythology]], because it &quot;holds the rings on its shoulders&quot; like the [[Titan (mythology)|Titan]] Atlas held the sky up above the [[Earth]].<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/03800/03872.html IAUC 3872: ''Satellites of Jupiter and Saturn''] September 30, 1983 (naming the moon)</inner><close>&lt;/ref&gt;</close></ext> It is also designated as '''<template><title>nowrap</title><part><name index="1"/><value>Saturn XV</value></part></template>'''.
+
+Atlas is the closest satellite to the sharp outer edge of the [[Rings_of_Saturn#A_Ring|A ring]], and was long thought to be a [[shepherd satellite]] for this ring. However, now it is known that the outer edge of the ring is instead maintained by a 7:6 [[orbital resonance]] with the larger but more distant moons [[Janus (moon)|Janus]] and [[Epimetheus (moon)|Epimetheus]]. <ext><name>ref</name><attr> name=&quot;Lakdawalla2007&quot;</attr><inner>{{cite web
+|url=http://www.planetary.org/blog/article/00001003/
+|title=''Funny little Atlas''
+|author=E. Lakdawalla
+|date=June 13, 2007
+|work=The [[Planetary Society]] weblog
+}}
+</inner><close>&lt;/ref&gt;</close></ext> In 2004 a faint, thin ring, temporarily designated <template><title>nowrap</title><part><name index="1"/><value>[[R/2004 S 1]]</value></part></template>, was discovered within Atlas's orbit.<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/08400/08401.html IAUC 8401: ''S/2004 S 3, S/2004 S 4, and R/2004 S 1''] September 9, 2004</inner><close>&lt;/ref&gt;</close></ext>
+
+High-resolution images taken in June 2005 by ''[[Cassini-Huygens Mission|Cassini]]'' reveal a saucer-shaped moon with a large smooth [[equatorial ridge]]. The most likely explanation for this unusual and prominent  structure is that ring material swept up by the moon accumulates on the moon, with a strong preference for the equator due to the ring's thinness. In fact, the size of the equatorial ridge is comparable with the expected size of Atlas's [[Roche lobe]]. This would mean that for any further particles attempting to accumulate on the equator, the [[centrifugal force]] overcomes Atlas's tiny gravity and they will be lost. <ext><name>ref</name><attr> name=&quot;Lakdawalla2007&quot;</attr></ext>
+
+Atlas is significantly perturbed by [[Prometheus (moon)|Prometheus]] and to a lesser degree by [[Pandora (moon)|Pandora]], leading to excursions in longitude of up to 600&amp;nbsp;km (~0.25°) away from the precessing keplerian orbit with a rough period of about 3 years. Since the orbits of Prometheus and Pandora are chaotic, it is suspected that Atlas's may be as well.<ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr></ext>
+
+<h level="2" i="1">==Gallery==</h>
+<ext><name>gallery</name><attr/><inner>
+Image:Atlas_Rev09.2x.jpg|Atlas, as imaged by ''Cassini'' on June 8, 2005
+&lt;!-- Deleted image removed: Image:Atlas moon.jpg|Photo from [[Voyager 1]] --&gt;
+</inner><close>&lt;/gallery&gt;</close></ext><ext><name>gallery</name><attr/><inner>
+Image:Atlas with rings.jpg|With [[Rings_of_Saturn#A_Ring|A]] and [[Rings_of_Saturn#F_Ring|F]] rings to scale, ''Cassini''
+Image:F Ring and Atlas PIA10448.jpg|Near the F ring.
+</inner><close>&lt;/gallery&gt;</close></ext>
+
+<h level="2" i="2">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<h level="2" i="3">==External links==</h>
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Atlas Atlas Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/saturn/atlas.html The Planetary Society: Atlas]
+* [http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Sat_Atlas&amp;Display=Facts NASA factsheet]
+
+<template lineStart="1"><title>Moons of Saturn</title></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Atlas (Moon)</title></template>
+[[Category:Moons of Saturn]]
+
+[[als:Atlas (Mond)]]
+[[br:Atlas (loarenn)]]
+[[bg:Атлас (спътник)]]
+[[ca:Atles (satèl·lit)]]
+[[cs:Atlas (měsíc)]]
+[[cy:Atlas (lloeren)]]
+[[da:Atlas (måne)]]
+[[de:Atlas (Mond)]]
+[[el:Άτλας (δορυφόρος)]]
+[[es:Atlas (satélite)]]
+[[fr:Atlas (lune)]]
+[[hr:Atlas (mjesec)]]
+[[it:Atlante (astronomia)]]
+[[lt:Atlantas (palydovas)]]
+[[mk:Атлас (месечина)]]
+[[nl:Atlas (maan)]]
+[[ja:アトラス (衛星)]]
+[[no:Atlas (måne)]]
+[[nn:Saturnmånen Atlas]]
+[[pl:Atlas (księżyc)]]
+[[pt:Atlas (satélite)]]
+[[ro:Atlas (satelit)]]
+[[ru:Атлас (спутник)]]
+[[simple:Atlas (moon)]]
+[[sk:Atlas (mesiac)]]
+[[sl:Atlas (luna)]]
+[[sr:Atlas (satelit)]]
+[[fi:Atlas (kuu)]]
+[[sv:Atlas (måne)]]
+[[uk:Атлас (супутник)]]
+[[zh:土卫十五]]</root>

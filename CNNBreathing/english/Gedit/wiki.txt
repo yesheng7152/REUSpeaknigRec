@@ -1,0 +1,98 @@
+{{lowercase|title=gedit}}
+{{Infobox software
+| name                   = gedit
+| logo                   = [[File:Gedit-logo-clean.svg|200px]]
+| screenshot             = [[File:Gedit2261.png|250px]]
+| caption                = gedit 2.26.1 displaying the [[XHTML]] coding for a Wikipedia page, including colour-coded syntax highlighting.
+| developer              = Paolo Maggi<br />Paolo Borelli<br />Steve Frécinaux<br />Jesse van den Kieboom<br />James Willcox<br />Chema Celorio<br /> Federico Mena Quintero
+| released               = 12 February 1999
+| frequently_updated     = yes<!-- Release version update? Don't edit this page, just click on the version number! -->
+| programming language   = [[C (programming language)|C]], [[Python (programming language)|Python]]
+| operating system       = [[Cross-platform]]
+| language               = English
+| genre                  = [[Text editor]]
+| license                = [[GNU General Public License]]
+| website                = [http://projects.gnome.org/gedit/ projects.gnome.org/gedit]
+}}
+
+'''gedit''' is a [[text editor]] for the [[GNOME]] [[desktop environment]], [[Mac&nbsp;OS&nbsp;X]] and [[Microsoft Windows]]. Designed as a general purpose text editor, gedit emphasizes simplicity and ease of use. It includes tools for editing [[source code]] and structured text such as [[markup language]]s.<ref name="gedithomepage">{{cite web|url = http://projects.gnome.org/gedit/|title = What is gedit|accessdate = 2009-03-16|last = The GNOME Project|authorlink = |year = 2009|month = March}}</ref>
+
+It is designed to have a clean, simple [[graphical user interface]] according to the philosophy of the GNOME project, and it is the default text editor for GNOME.<ref name="gedithomepage" />
+
+Released under the terms of the [[GNU General Public License]], gedit is [[free software]].<ref name="gedithomepage" />
+
+==Features==
+
+gedit includes [[syntax highlighting]] for various program code and text markup formats.  gedit also has GUI tabs for editing multiple files. Tabs can be moved between various windows by the user. It can edit remote files using [[GVFS]] ([[GnomeVFS]] is now [[Deprecation|deprecated]]) libraries. It supports a full undo and redo system as well as search and replace.<ref name="fsm"/> Other typical code oriented features include line numbering, bracket matching, text wrapping, current line highlighting, automatic indentation and automatic file backup.<ref name="fsm">[http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody "gedit: a powerful, underrated text editor for everybody", ''Free Software Magazine''] 15  February 2008</ref>
+
+The features of gedit include multilanguage [[spell checker|spellchecking]] and a flexible [[Plug-in (computing)|plugin]] system allowing the addition of new features, for example [[Snippet management|snippets]] and integration with external applications including a Python or Bash terminal.<ref name="fsm" />  A number of plugins are included in gedit itself, with more plugins in the gedit-plugins package and online.<ref>{{cite web|url=http://live.gnome.org/Gedit/Plugins |title=Gedit Plugins |publisher=Live.gnome.org |date= |accessdate=2009-03-13}}</ref>
+
+gedit has an optional side pane displaying the list of open files and (in a different tab of the side pane) a file browser. It also has an optional bottom pane with a Python console and (using gedit-plugins) terminal.  gedit automatically detects when an open file is modified on disk by another application and offers to reload that file.  Using a plugin (in gedit-plugins package), gedit can save and load sessions, which are lists of currently open tabs.{{Citation needed|date=January 2009}}
+
+gedit supports [[computer printer|printing]], including print preview and printing to [[PostScript]] and [[Portable Document Format|PDF]] files. Printing options include text font, and page size, orientation, margins, optional printing of page headers and line numbers, as well as syntax highlighting.{{Citation needed|date=January 2009}}
+
+==Architecture==
+
+Designed for the [[X Window System]], gedit uses the [[GTK+]] 2.0 and GNOME 2.0 [[library (computer science)|libraries]]. The GNOME integration includes [[drag and drop]] to and from [[Nautilus file manager|Nautilus]], the GNOME [[file manager]].
+
+gedit uses the GNOME help system for documentation.  It also uses [[GNOME Virtual File System|virtual file system]] and GNOME printing framework.<ref>{{cite web|url=http://directory.fsf.org/project/gedit/ |title=Free Software Directory - gedit |publisher=Directory.fsf.org |date=2005-10-03 |accessdate=2009-03-13}}</ref>
+
+In December 2008, gedit binaries were made available for [[Mac OS X]] and [[Microsoft Windows]].<ref>{{cite web|url=http://blogs.gnome.org/pbor/2008/12/25/late-christmas-gift-for-windows-users/ |title=Club Silencio » Late Christmas gift for Windows users |publisher=Blogs.gnome.org |date=2008-12-25 |accessdate=2009-03-13}}</ref>
+
+==See also==
+{{Portal|Free software}}
+
+*[[List of text editors]]
+*[[Comparison of text editors]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://projects.gnome.org/gedit/}}
+* [http://live.gnome.org/Gedit/Windows Gedit for Windows]
+
+{{GNOME Software}}
+{{FLOSS}}
+
+[[Category:GNOME]]
+[[Category:GTK+]]
+[[Category:Linux text editors]]
+[[Category:Unix text editors]]
+[[Category:Free text editors]]
+[[Category:Free software programmed in C]]
+[[Category:Free software programmed in Python]]
+[[Category:Mac OS X text editors]]
+
+[[ar:جي إديت]]
+[[ast:Gedit]]
+[[bg:Gedit]]
+[[ca:Gedit]]
+[[cs:Gedit]]
+[[de:Gedit]]
+[[et:Gedit]]
+[[es:Gedit]]
+[[eo:Gedit]]
+[[eu:Gedit]]
+[[fa:جی‌ادیت]]
+[[fr:Gedit]]
+[[ko:Gedit]]
+[[it:Gedit]]
+[[jv:Gedit]]
+[[hu:Gedit]]
+[[nl:Gedit]]
+[[ja:Gedit]]
+[[no:Gedit]]
+[[pl:Gedit]]
+[[pt:Gedit]]
+[[ro:Gedit]]
+[[ru:Gedit]]
+[[sk:Gedit]]
+[[fi:Gedit]]
+[[sv:Gedit]]
+[[ta:ஜிஎடிட்]]
+[[th:จีเอดิต]]
+[[uk:Gedit]]
+[[vi:Gedit]]
+[[zh:Gedit]]

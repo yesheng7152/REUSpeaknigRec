@@ -1,0 +1,112 @@
+<root>:''For other uses, see [[Pan (disambiguation)]]. For the moon of Jupiter formerly known by this name, see [[Carme (moon)]].''
+<comment>&lt;!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+--&gt;
+</comment><template lineStart="1"><title>Infobox Planet
+</title><part><name> name </name><equals>=</equals><value> Pan
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:Pan side view.jpg]]
+</value></part><part><name> caption </name><equals>=</equals><value> Pan amid the rings of Saturn. The 'side' view gives Pan the appearance of being embedded in the rings, although it actually travels within the empty [[Encke Division]].
+</value></part><part><name> bgcolour </name><equals>=</equals><value> #a0ffa0
+</value></part><part><name> discovery </name><equals>=</equals><value> yes
+</value></part><part><name> discoverer </name><equals>=</equals><value> M. R. Showalter
+</value></part><part><name> discovered </name><equals>=</equals><value> July 16, 1990
+</value></part><part><name> orbit_ref </name><equals>=</equals><value><ext><name>ref</name><attr> name=&quot;Jacobson2008&quot;</attr><inner>{{cite journal | author= Jacobson, R. A.; ''et al.''| title= ''Revised orbits of Saturn's small inner satellites''| journal=[[Astronomical Journal]]| year= 2008| volume= 135| pages= 261–263| url=http://adsabs.harvard.edu/abs/2008AJ....135..261J}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> semimajor </name><equals>=</equals><value> 133,584.0±0.1 km
+</value></part><part><name> eccentricity </name><equals>=</equals><value> 0.0000144±0.0000054
+</value></part><part><name> period </name><equals>=</equals><value> 0.575050718 days (13.801217 hours)
+</value></part><part><name> inclination </name><equals>=</equals><value> 0.0001°±0.0004° 
+</value></part><part><name> satellite_of </name><equals>=</equals><value> [[Saturn]]
+</value></part><part><name> physical_characteristics </name><equals>=</equals><value> yes
+</value></part><part><name> dimensions </name><equals>=</equals><value> 35 × 32 × 21 km<ext><name>ref</name><attr> name=&quot;Porco2007&quot;</attr><inner>{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Saturn's Small Inner Satellites: Clues to Their Origins''| journal=[[Science (journal)|Science]]| year= 2007| volume= 318| pages= 1602–1607| url=http://adsabs.harvard.edu/abs/2007Sci...318.1602P}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> mean_radius </name><equals>=</equals><value> 14.2 ± 1.3 km<ext><name>ref</name><attr> name=&quot;Porco2007&quot; </attr></ext>
+</value></part><part><name> mass </name><equals>=</equals><value> 4.95 ± 0.75 <template><title>e</title><part><name index="1"/><value>15</value></part></template> [[kilogram|kg]]<ext><name>ref</name><attr> name=&quot;Porco2007&quot;</attr></ext>
+</value></part><part><name> density </name><equals>=</equals><value> 0.41 ± 0.15 g/cm³<ext><name>ref</name><attr> name=&quot;Porco2007&quot;</attr></ext>
+</value></part><part><name> surface_grav </name><equals>=</equals><value> 0.001 [[Acceleration|m/s&lt;sup&gt;2&lt;/sup&gt;]]
+</value></part><part><name> escape_velocity </name><equals>=</equals><value> ~0.006 km/s
+</value></part><part><name> rotation </name><equals>=</equals><value> [[synchronous rotation|synchronous]]
+</value></part><part><name> axial_tilt </name><equals>=</equals><value> zero
+</value></part><part><name> albedo </name><equals>=</equals><value> 0.5
+</value></part><part><name> single_temperature </name><equals>=</equals><value> ~78 K
+</value></part></template>
+
+'''Pan''' (<template><title>pronEng</title><part><name index="1"/><value>ˈpæn</value></part></template> <template><title>respell</title><part><name index="1"/><value><template><title>sm</title><part><name index="1"/><value>pan</value></part></template></value></part></template>, or as in Greek ''Πάν'') is the innermost moon of [[Saturn]]. It is a [[walnut]]-shaped small moon about 35 kilometres across and 23&amp;nbsp;km high that orbits within the [[Encke Gap]] in Saturn's [[A Ring]]. It acts as a [[shepherd satellite|ring shepherd]] and is responsible for keeping the Encke Gap free of ring particles.
+
+<h level="2" i="1">==Prediction==</h>
+[[Image:Pans highway 3-05-07.jpg|thumb|left|180px|The image shows Pan orbiting in the Encke Gap.]]
+
+The existence of a moon in the Encke Gap was first predicted by Jeffrey N. Cuzzi and Jeffrey D. Scargle in 1985, based on wavy edges of the gap which indicated a gravitational disturbance.<ext><name>ref</name><attr/><inner>Cuzzi, J. N.; and Scargle, J. D.; [http://adsabs.harvard.edu//full/seri/ApJ../0292//0000276.000.html ''Wavy Edges Suggest Moonlet in Encke's Gap''], Astrophysical Journal, Vol. 292 (May 1, 1985), pp. 276–290</inner><close>&lt;/ref&gt;</close></ext> In 1986 Showalter ''et al.'' inferred its orbit and mass by modeling its gravitational wake. They arrived at a very precise prediction of 133,603 ± 10&amp;nbsp;km for the semi-major axis and a mass of 5&amp;ndash;10<template><title>e</title><part><name index="1"/><value>&amp;minus;12</value></part></template>Saturn masses, and inferred that there was only a single moon within the Encke gap.<ext><name>ref</name><attr> name=&quot;Showalter1986&quot;</attr><inner>{{cite journal | author= Showalter, M. R.; ''et al.''| title= ''Satellite &quot;wakes&quot; and the orbit of the Encke Gap moonlet''| journal= Icarus| year= 1986| volume= 66| pages= 297| url= http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1986Icar...66..297S&amp;amp;db_key=AST&amp;amp;data_type=HTML&amp;amp;format=&amp;amp;high=444b66a47d24282 | doi = 10.1016/0019-1035(86)90160-0}}</inner><close>&lt;/ref&gt;</close></ext> The actual semi-major axis differs by 19&amp;nbsp;km and the actual mass is 8.6<template><title>e</title><part><name index="1"/><value>&amp;minus;12</value></part></template> of Saturn's.
+
+The moon was later found within 1° of the predicted position. The search was undertaken by considering all ''[[Voyager 2]]'' images and using a computer calculation to predict whether the moon would be visible under sufficiently favorable conditions in each one. Every qualifying Voyager 2 image with resolution better than ~50&amp;nbsp;km/pixel shows Pan clearly. In all, it appears in eleven ''Voyager 2'' images.<ext><name>ref</name><attr> name=&quot;Showalter1990&quot;</attr><inner>{{cite journal | author=Showalter, M. R.| title= ''Visual Detection of 1981 S 13, the Encke Gap Moonlet''| journal=  Bulletin of the American Astronomical Society| year= 1990| volume= 22| pages= 1031| url= http://adsabs.harvard.edu//full/seri/BAAS./0022//0001040.000.html}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;Showalter1990&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;Showalter1991&quot;</attr><inner>{{cite journal | author= Showalter, M. R.| title= ''Visual detection of 1981 S 13, Saturn's eighteenth satellite, and its role in the Encke gap''| journal= Nature| year= 1991| volume= 351| pages= 709| doi=  10.1038/351709a0}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="2">==Orbit==</h>
+The [[eccentricity (orbit)|eccentricity]] of Pan's orbit causes its distance from Saturn to vary by ~4&amp;nbsp;km.  Its [[inclination]], which would cause it to move up and down, is not distinguishable from zero with present data.  The [[Encke Gap]], within which Pan orbits, is about 325&amp;nbsp;km wide.
+
+<h level="2" i="3">==Geography==</h>
+[[Image:Pan Rev09.2x.jpg|thumb|180px|left|Pan in the center of the image, occupying the Encke Division in Saturn's rings. Its walnut-like shape is clearly visible]]
+''[[Cassini-Huygens|Cassini]]'' scientists have described Pan as &quot;[[walnut]]-shaped&quot;<ext><name>ref</name><attr/><inner>[http://photojournal.jpl.nasa.gov/catalog/PIA08320 &quot;PIA08320: Cruising with Pan&quot;], ''[[Planetary Photojournal]]''.</inner><close>&lt;/ref&gt;</close></ext> owing to the [[equatorial ridge]], similar to that on [[Atlas (moon)|Atlas]], that is visible in images. The ridge is due to ring material that Pan has swept up from the Encke gap.
+
+<h level="2" i="4">==Pan ringlet==</h>
+[[Image:PIA06534 Encke Division.jpg|thumb|240px|Closeup of the Encke Division. The central ringlet is coincident with Pan's orbit.]]
+The Encke Division contains a ringlet that is coincident with Pan's orbit, indicating that Pan maintains the particles in [[horseshoe orbit]]s.
+
+<h level="2" i="5">==Name==</h>
+The moon was named on 16 September 1991,<ext><name>ref</name><attr/><inner>[http://cfa-www.harvard.edu/iauc/05300/05347.html IAUC 5347: ''Satellites of Saturn and Neptune''] 1991 September 16 (naming the moon)</inner><close>&lt;/ref&gt;</close></ext> after the mythological [[Pan (mythology)|Pan]], who was (among other things) the god of shepherds.  This is a reference to Pan's role as a [[shepherd moon]].  It is also designated '''<template><title>nowrap</title><part><name index="1"/><value>Saturn XVIII</value></part></template>'''.<ext><name>ref</name><attr> name=&quot;Gazetteer&quot;</attr><inner>{{cite web
+  | title = Planet and Satellite Names and Discoverers
+  | work = Gazetteer of Planetary Nomenclature
+  | publisher = USGS Astrogeology
+  | date = July 21, 2006
+  | url = http://planetarynames.wr.usgs.gov/append7.html
+  | accessdate = 2006-08-07 }}</inner><close>&lt;/ref&gt;</close></ext>
+It was discovered by Mark R. Showalter in 1990 from analysis of old ''Voyager 2'' probe photos and received the provisional designation '''<template><title>nowrap</title><part><name index="1"/><value>S/1981 S 13</value></part></template>''' because the discovery images dated back to 1981.<ext><name>ref</name><attr> name=&quot;iauc5052&quot;</attr><inner>[http://cfa-www.harvard.edu/iauc/05000/05052.html IAUC 5052: ''Saturn''] July 16, 1990 (discovery)</inner><close>&lt;/ref&gt;</close></ext>
+
+There is also an [[asteroid]] called [[4450 Pan]].
+
+<h level="2" i="6">== References ==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<h level="2" i="7">== External links ==</h>
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Pan Pan Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/our_solar_system/saturn/pan.html The Planetary Society: Pan]
+
+<template lineStart="1"><title>Moons of Saturn</title><part><name>state</name><equals>=</equals><value>uncollapsed</value></part></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Pan (Moon)</title></template>
+[[Category:Moons of Saturn]]
+
+[[als:Pan (Mond)]]
+[[br:Pan (loarenn)]]
+[[bg:Пан (спътник)]]
+[[ca:Pan (satèl·lit)]]
+[[cs:Pan (měsíc)]]
+[[co:Pan (astrunumia)]]
+[[cy:Pan (lloeren)]]
+[[da:Pan (måne)]]
+[[de:Pan (Mond)]]
+[[el:Πάνας (δορυφόρος)]]
+[[eml:Pan (astronomî)]]
+[[es:Pan (satélite)]]
+[[eu:Pan (satelitea)]]
+[[fr:Pan (lune)]]
+[[gl:Pan (lúa)]]
+[[ko:판 (위성)]]
+[[hr:Pan (mjesec)]]
+[[it:Pan (astronomia)]]
+[[la:Pan (satelles)]]
+[[lt:Panas (palydovas)]]
+[[mk:Пан (месечина)]]
+[[nl:Pan (maan)]]
+[[ja:パン (衛星)]]
+[[no:Pan (måne)]]
+[[nn:Saturnmånen Pan]]
+[[pl:Pan (księżyc)]]
+[[pt:Pã (satélite)]]
+[[ro:Pan (satelit)]]
+[[ru:Пан (спутник)]]
+[[simple:Pan (moon)]]
+[[sk:Pan (mesiac)]]
+[[sl:Pan (luna)]]
+[[fi:Pan (kuu)]]
+[[sv:Pan (måne)]]
+[[uk:Пан (супутник)]]
+[[zh:土卫十八]]</root>

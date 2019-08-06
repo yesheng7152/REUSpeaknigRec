@@ -1,0 +1,12 @@
+{{Spoken article
+|title= Merkle Tree
+|time= 04:45
+|user_name= slashdottir
+|date= 2013-09-17
+|oldid=572323953
+|accent=Californian English
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+{{Uncategorized|year=2015|month=September|day=17}}

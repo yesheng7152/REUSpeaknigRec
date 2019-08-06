@@ -2,8 +2,8 @@ load('setup.mat');
 %layers
 
 numClasses = numel(categories(YTrain));
-classWeights = rand(numClasses,1);
-classWeights = classWeights'/mean(classWeights);
+%classWeights = rand(numClasses,1);
+%classWeights = classWeights'/mean(classWeights);
 %sz = size(XTrain);
 %specSize = sz(1:2);
 %imageSize = [specSize 1];
@@ -45,7 +45,6 @@ layers = [
     fullyConnectedLayer(numClasses)
     softmaxLayer
     classificationLayer
-    %weightedClassificationLayer(classWeights)
     ];
 
 %training option 
@@ -67,6 +66,7 @@ options = trainingOptions('adam', ...
 doTraining = true;
 if doTraining
     trainedNet = trainNetwork(augimdsTrain,layers,options);
+    %trainedNet = trainNetwork(XTrain,YTrain,layers,options);
 %else
  %   load('commandNet.mat','trainedNet');
 end

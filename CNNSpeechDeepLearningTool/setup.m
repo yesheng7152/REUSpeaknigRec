@@ -34,7 +34,9 @@ YValidation = adsValidation.Labels;
 YTest = adsTest.Labels;
 
 
-%Show three data's graph
+
+%{
+Show three data's graph
 specMin = min(XTrain(:));
 specMax = max(XTrain(:));
 idx = randperm(size(XTrain,4),3);
@@ -55,6 +57,8 @@ for i = 1:3
     sound(x,fs)
     pause(2)
 end
+%}
+
 
 
 %{

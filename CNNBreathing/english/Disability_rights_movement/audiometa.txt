@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Disability Rights Movement article}}
+|Source={{Own}}
+|Author=[[User:Ama1016|Ama1016]]
+|Date=2009-04-21
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Human rights]]
+[[Category:Disabled people]]
+[[Category:Ableism]]
+[[Category:Social movements]]

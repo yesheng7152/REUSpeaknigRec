@@ -1,0 +1,297 @@
+<root><template><title>distinguish</title><part><name index="1"/><value>Trincomali Channel</value></part></template>
+<template lineStart="1"><title>Infobox settlement
+</title><part><name>name    </name><equals>=</equals><value> Trincomalee
+</value></part><part><name>native_name </name><equals>=</equals><value> திருகோணமலை&lt;br&gt;තිරිකුණාමළය
+</value></part><part><name> settlement_type </name><equals>=</equals><value> [[City]]
+</value></part><part><name>image_skyline    </name><equals>=</equals><value> Sri Lanka-Trincomalee-Bucht.JPG
+</value></part><part><name>image_caption    </name><equals>=</equals><value> 
+</value></part><part><name>image_map        </name><equals>=</equals><value> Trincomalee District A3.png
+</value></part><part><name>pushpin_map      </name><equals>=</equals><value> Sri Lanka
+</value></part><part><name>map_caption      </name><equals>=</equals><value> 
+</value></part><part><name> coordinates_region </name><equals>=</equals><value> LK
+</value></part><part><name> subdivision_type </name><equals>=</equals><value> [[List of countries|Country]]
+</value></part><part><name> subdivision_name </name><equals>=</equals><value> [[Sri Lanka]]
+</value></part><part><name> subdivision_type2 </name><equals>=</equals><value> [[Provinces of Sri Lanka|Province]]
+</value></part><part><name> subdivision_name2 </name><equals>=</equals><value> [[Eastern Province, Sri Lanka|Eastern]]
+</value></part><part><name> subdivision_type3 </name><equals>=</equals><value> [[Districts of Sri Lanka|District]]
+</value></part><part><name> subdivision_name3 </name><equals>=</equals><value> [[Trincomalee District|Trincomalee]]
+</value></part><part><name> subdivision_type4 </name><equals>=</equals><value> [[Divisional Secretariats of Sri Lanka|DS Division]]
+</value></part><part><name> subdivision_name4 </name><equals>=</equals><value> Town &amp; Gravets 
+</value></part><part><name> government_type </name><equals>=</equals><value> Urban Council
+</value></part><part><name>leader_title     </name><equals>=</equals><value> [[Mayor]]
+</value></part><part><name>leader_name      </name><equals>=</equals><value> 
+</value></part><part><name> area_magnitude </name><equals>=</equals><value> 
+</value></part><part><name> unit_pref </name><equals>=</equals><value> [[Metric system|Metric]]
+</value></part><part><name> area_footnotes </name><equals>=</equals><value> 
+</value></part><part><name> area_total_km2 </name><equals>=</equals><value> 7.5
+</value></part><part><name> area_land_km2 </name><equals>=</equals><value> 
+</value></part><part><name> area_water_km2 </name><equals>=</equals><value> 
+</value></part><part><name> area_total_sq_mi </name><equals>=</equals><value> 
+</value></part><part><name> area_land_sq_mi </name><equals>=</equals><value> 
+</value></part><part><name> area_water_sq_mi </name><equals>=</equals><value> 
+</value></part><part><name> area_water_percent </name><equals>=</equals><value> 
+</value></part><part><name> area_urban_km2 </name><equals>=</equals><value> 
+</value></part><part><name> area_urban_sq_mi </name><equals>=</equals><value> 
+</value></part><part><name> area_metro_km2 </name><equals>=</equals><value> 
+</value></part><part><name> area_metro_sq_mi </name><equals>=</equals><value> 
+</value></part><part><name> area_blank1_title </name><equals>=</equals><value> 
+</value></part><part><name> area_blank1_km2 </name><equals>=</equals><value> 
+</value></part><part><name> area_blank1_sq_mi </name><equals>=</equals><value>
+</value></part><part><name>population_as_of </name><equals>=</equals><value> 2007
+</value></part><part><name>population_total </name><equals>=</equals><value> 101,958
+</value></part><part><name>population_footnotes </name><equals>=</equals><value> 
+</value></part><part><name>population_metro </name><equals>=</equals><value> 
+</value></part><part><name>population_density_km2 </name><equals>=</equals><value> 13,594
+</value></part><part><name> population_density_sq_mi </name><equals>=</equals><value> 35,158
+</value></part><part><name>latd</name><equals>=</equals><value>8 </value></part><part><name>latm</name><equals>=</equals><value>34 </value></part><part><name>lats</name><equals>=</equals><value>0 </value></part><part><name>latNS</name><equals>=</equals><value>N
+</value></part><part><name>longd</name><equals>=</equals><value>81 </value></part><part><name>longm</name><equals>=</equals><value>14 </value></part><part><name>longs</name><equals>=</equals><value>0 </value></part><part><name>longEW</name><equals>=</equals><value>E
+</value></part><part><name>area_telephone   </name><equals>=</equals><value> 
+</value></part><part><name>timezone         </name><equals>=</equals><value> [[Time zone#UTC .2B 6.2C F|Sri Lanka Standard Time Zone]] 
+</value></part><part><name>utc_offset       </name><equals>=</equals><value> +5:30
+</value></part><part><name>timezone_DST     </name><equals>=</equals><value> 
+</value></part><part><name>utc_offset_DST   </name><equals>=</equals><value> +6
+</value></part><part><name> elevation_footnotes </name><equals>=</equals><value> 
+</value></part><part><name> elevation_m </name><equals>=</equals><value> 
+</value></part><part><name> elevation_ft </name><equals>=</equals><value> 
+</value></part><part><name> postal_code_type </name><equals>=</equals><value> 
+</value></part><part><name> postal_code </name><equals>=</equals><value> 
+</value></part><part><name> area_code </name><equals>=</equals><value> 
+</value></part><part><name> blank_name </name><equals>=</equals><value> 
+</value></part><part><name> blank_info </name><equals>=</equals><value> 
+</value></part><part><name> blank1_name </name><equals>=</equals><value> 
+</value></part><part><name> blank1_info </name><equals>=</equals><value> 
+</value></part><part><name> website </name><equals>=</equals><value> [http://www.sathi-us.net/sindu/designs/trincomalee/ Trincomalee website]
+</value></part><part><name> footnotes </name><equals>=</equals><value> 
+</value></part></template>
+
+'''Trincomalee''' (<template><title>lang-ta</title><part><name index="1"/><value>திருகோணமலை</value></part></template> Tirukōṇamalai) (<template><title>lang-si</title><part><name index="1"/><value>තිරිකුණාමළය</value></part></template> Tirikūṇamaḷaya) is a [[port]] [[city]] on the east coast of [[Sri Lanka]], about 110 miles northeast of [[Kandy]]. The city is built on a [[peninsula]], which divides the inner and outer [[harbours]]. It is one of the main centers of [[Tamil language|Tamil]] speaking culture on the [[island]]. Historically referred to as '''Gokanna''',<ext><name>ref</name><attr/><inner>[http://www.britannica.com/eb/topic-605425/Trincomalee Trincomalee, or Gokanna (Sri Lanka), Britannica]</inner><close>&lt;/ref&gt;</close></ext> or '''Gokarna''' it has been a sea port that has played a major role in maritime and international trading history of Sri Lanka.   
+
+The Bay of Trincomalee's harbour is renowned for its large size and security; unlike every other in the [[Indian Sea]], it is accessible to all types of craft in all weathers. The beaches are used for [[surfing]], [[scuba diving]], [[fishing]] and [[whale]] watching. The city also has the largest [[Dutch period in Ceylon|Dutch]] [[fort]] in [[Sri Lanka]]. It is home to major [[Sri Lankan Navy|Sri Lankan naval base]]s and a [[Sri Lankan Air Force|Sri Lankan Air Force base]].
+
+<h level="2" i="1">==Names and etymology==</h>
+
+Trincomalee is an [[anglicized]] version of the Tamil word ''Tirukonamalai'' (lit &quot;lord of the sacred hill&quot;); it is a hill situated in the end of a natural land formation that resembles an arc.
+
+The ancient texts, as well as an inscription unearthed by archeologists, call it ''Gokarna'' in Sanskrit.<ext><name>ref</name><attr/><inner>Professor K. Indrapala, Early Tamil Settlements in Ceylon. PhD Thesis, University of London, 1965.page 331</inner><close>&lt;/ref&gt;</close></ext> The Vayu Purana refers to a [[Shiva|Siva]] temple on ''Trikuta'' hill on the eastern coast of Lanka in the 3rd century.<ext><name>ref</name><attr/><inner>H.N. Apte, Vayupurana, Chapter 48 verses 20-30, Poona, 1929</inner><close>&lt;/ref&gt;</close></ext> The [[Mahavamsa]] documents that the King Mahasena destroyed a Deva temple and built a [[Buddhist]] shrine in its stead to expiate for an earlier heresy on his part.<ext><name>ref</name><attr/><inner>Mahavamsa. Chapter 35. Verses 40-47</inner><close>&lt;/ref&gt;</close></ext> This explains the Buddhist archeological remains in the region. The South Indian [[Tevaram]] of [[Sambanthar|Tiru-gnana Sambandar]] makes mention to the Siva temple in Trincomalee once again in the 6th century.<ext><name>ref</name><attr/><inner>Thirunanacamptanta Cuvamikal Arulicceyta Tevarattiruppatikankal, Saiva Siddhanta publishing works Ltd, Madras, 1927</inner><close>&lt;/ref&gt;</close></ext> The [[Hindu]] [[temple]] was also documented in several late medieval texts such as the ''Konesar Kalvettu''<ext><name>ref</name><attr/><inner>S.Pathmanathan, The Kingdom of Jaffna, Colombo, 1978. pages 135-144</inner><close>&lt;/ref&gt;</close></ext> and the ''Dakshina Kailasa Puranam''.<ext><name>ref</name><attr/><inner>C.S. Navaratnam, A Short History of Hinduism in Ceylon, Jaffna, 1964. Pages 43-47</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="2">== History ==</h>
+Trincomalee which is a natural deep-water harbour that has attracted sea farers like [[Marco Polo]], [[Ptolemy]] and Sea Traders from [[China]] and [[East Asia]] since ancient times. Trinco, as it is commonly called, has been a sea port since the days of the ancient Sri Lankan Kings. The earliest known reference to the port of Gokanna is found in the [[Mahavamsa]] stating that in 5th century BC, when King [[Vijaya]] who having failed to convince his brother to come to Sri Lanka as his successor, got down his youngest son Panduvasdeva, who landed at Gokanna and was subsequently enthroned at Upatissagama. 
+
+[[Rajaraja Chola I]] invaded Sri Lanka in 993 CE. The copper-plate inscription mention that Rajaraja’s powerful army crossed the ocean by ships and burnt up the kingdom of Lanka. [[Mahinda V]] was the king of Sinhalas. In 991 CE, Mahinda’s army mutinied with help from mercenaries from [[Kerala]]. Mahinda had to seek refuge in the southern region of Rohana. Rajaraja utilised this opportunity and invaded the island. Chola armies occupied the northern half of Lanka and named the dominion ‘Mummudi Chola Mandalam’. [[Anuradhapura]], the 1400-year-old capital of Sinhala kings was destroyed. The destruction was so extensive the city was abandoned. Cholas made the city of [[Polonnaruwa]] as their capital and renamed it [[Jananathamangalam]]. The choice of this city demonstrates the desire of Rajaraja to conquer the entire island.
+Rajaraja also built a Temple for [[Shiva|Siva]] in Pollonaruwa.<ext><name>ref</name><attr> name=autogenerated1</attr><inner>KAN Sastri The Colas</inner><close>&lt;/ref&gt;</close></ext>&lt;/small&gt;
+
+To complete the task began by his father, of conquering the island of Srilanka, [[Rajendra Chola I]] invaded the island in 1018 C.E. As a result of the campaign, Rajendra claimed to have captured the regal jewels of the [[Pandya]] kings, which [[Parantaka I]] tried in vain to capture. Rajendra also captured the crown of the Sinhala king, his Queen and daughter. The Sinhala king [[Mahinda V]] was taken prisoner and transported to the Chola country. He was held prisoner for over twelve years and died in captivity.  [[Mahavamsa]] gives a graphic illustration of the carnage wrought by the pillaging Chola army in the Sinhala country, claiming the invading army destroyed monasteries seeking treasure. 
+
+Mahinda’s son [[Kassapa]] became the centre of Sihalese resistance against the Tamil Power. The war between the Cholas and the Sinhalese raged for over six months in which a great number of Tamils were killed. At the end of the battle Kassapa managed to drive out the Chola army from the southeast corner of the island and ruled as [[Vikramabahu I]]. 
+
+Remains of a number of Hindu temples have been discovered around the [[Polonnaruwa]] area attesting to the presence of the Tamil army<template><title>Fact</title><part><name>date</name><equals>=</equals><value>March 2009</value></part></template>.
+
+In 1041 C.E. Rajendra had to lead another expedition into [[Sri Lanka]] to quell the continuing attacks against the Chola army by Vikramabahu. Vikramabahu died soon after and anarchy reigned outside the Chola territories. An assortment of adventurers including Sinhalese, dispossessed Pandya princes and even a certain Jagaitpala from distance [[Kanauj]] asserted authority over portions of the island. Chola army had to fight and defeat them all.<ext><name>ref</name><attr> name=autogenerated1 </attr></ext>
+
+King [[Parakramabahu I]] used Gokanna (Trincomalee) as his eastern port, to launch a successful invasion of Burma in the 12th Century.<ext><name>ref</name><attr/><inner>[http://www.amazinglanka.com/attractions/trincomalee/trincomalee.php Trincomalee, www.amazinglanka.com]</inner><close>&lt;/ref&gt;</close></ext> An English sea captain and historical chronicle writer named [[Robert Knox (sailor)|Robert Knox]] came ashore by chance near Trincomalee and surrendered to the ''Dissawa'' (official) of the King of [[Kandy]] in 1659. Hence, it was an important trade city between Sri Lanka and the outside world, and one of the British Empire's most important ports in Asia during the second world war.
+
+As a catalyst for change, [[Kalinga Magha]] is arguably one of the most significant rulers in Sri Lankan history. His invasion marks the final - cataclysmic - destruction of the kingdom of Rajarata, which had for so long been the heart of native power on the island. The great cities of the ancient kings were now lost and disappeared into the jungle, and were not rediscovered until the 19th century. Native power was henceforth centred on a kaleidoscopically shifting collection of kingdoms in south and central Sri Lanka. The north, in the meanwhile, eventually evolved into the [[Jaffna Kingdom]], which was subjected colonial rule by the Portuguese in 1619.
+
+Magha's geopolitical impact is reflected in the changing language of the Culavamsa as well. The traditional divisions of Sri Lanka, into Rajarata, Dhakkinadesa, and Ruhuna, first undergo a change of names (Rajarata becomes Pathithadesa, Dhakkinadesa becomes Mayarata), and then slip into obsolescence altogether. Their successor kingdoms tended to be geographically smaller and centred on a strong citadel-capital, such as Yapahuwa or Gampola; they also tended to be much short lived, like Sitawaka. 
+
+The bitter memory of Magha's invasion also tainted the previously close relationship between the Sinhalese and the Chola, Chera and Pandya inhabitants of southern India. Whereas the great families of Rajarata had invariably been polity-spanning clans, with extensive intermarriage between Indian and Sri Lankan branches, the royal families of the Middle Ages became more distinctive and recognisably Sinhalese in the modern sense of the word. This is not to say however that south Indian influence in Sri Lankan politics ended altogether - witness the [[Madurai Nayak|Nayakkar]] dynasty of [[Kandy]]. However the age of the great, Indo-Lankan clans like the Moriya and Lambakanna was over.
+
+Native authority on Sri Lanka, already in decline before Magha's invasion, never fully recovered from the invasion; the next three centuries were marked by near-anarchy. This period of Sri Lanka's history ended only with the arrival of a foe that would eventually subsume both the great empires of south India and the kingdoms of Sri Lanka under its authority - the forces of colonial Europe.
+
+Trincomalee had a Portuguese force during the reign of Kandyan King Rajasinghe I. Rajasinghe finally ended with an alliance with Dutch and the Dutch invaded Kottyar Bay Fort as their first attack. The fall of the Kottyar Bay Fort was the first nail in the Portuguese coffin. 
+
+Trincomalee was occupied by the Dutch, and subsequently by French alternately, until the capture of the fort there by the British in 1795. Trincomalee was the first land to be captured by the British who fought and defeated the Dutch, who did not want to surrender Ceylon as directed by the Prince of Orange, who took refuge in London after being defeated by the French republicans under Napoleon. As such Trincomalee has served as an entrance to a western invader from Calcutta.
+
+<h level="3" i="3">===Historical sites===</h>
+[[Image:Koneshwaramtemple3.jpg|thumb|right|The [[Koneswaram Temple]].]]
+Most of the [[Tamils]] and [[Sinhalese people|Sinhalese]] believe that this place is sacred to them and they are the indigenous people of the area. Trincomalee and its environs have both [[Hindu]] and [[Buddhist]] sites of historical importance. These sites are sacred to the Hindus and Buddhists.
+
+Even though King Mahasena demolished the Sivan Temple and built a Mahayana Buddhist temple on the hilltop the Sinhala Buddhists maintained good peaceful relationships as Theravada Buddhism does not advocate any conflicts with Hinduism and maintained excellent relationships. 
+
+<h level="4" i="4">====Hindu historical sites====</h>
+The [[Koneswaram|Koṇēsvaram]] temple attracted pilgrims from all parts of India<template><title>Fact</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template>. The Koṇēsvaram shrine itself was demolished in 1622 by the Portuguese (who called it the [[Koneswaram|Temple of a Thousand Columns]]), and who fortified the heights with the materials derived from its destruction<template><title>Fact</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template>. Some of the artefacts from the demolished temple were kept in the Lisbon Museum including the stone inscription by Kulakottan (Kunakottan)<template><title>Fact</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template>. It has an emblem including two fish and is engraved with a prophesy stating that, after the 16th century, westerners with different eye colours will rule the country for 500 years and, at the end of it, rule will revert back to Vadugus.<template><title>Fact</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template> The [[Hindu]] [[temple]] was also documented in several late medieval texts such as the ''Konesar Kalvettu''<ext><name>ref</name><attr/><inner>S.Pathmanathan, The Kingdom of Jaffna, Colombo, 1978. pages 135-144</inner><close>&lt;/ref&gt;</close></ext> and the ''Dakshina Kailasa Puranam''.<ext><name>ref</name><attr/><inner>C.S. Navaratnam, A Short History of Hinduism in Ceylon, Jaffna, 1964. Pages 43-47</inner><close>&lt;/ref&gt;</close></ext> 
+
+<h level="4" i="5">====Buddhist historical sites====</h>
+There are several Buddhist historical sites around the Trincomalee, meaning that there had been a Buddhist inhabitance in the area for many centuries. These include the famous ''Seruwila Mangala Raja Maha Vihara'' (Seruwila Temple), south of the trico town, which is under consideration to be declared a [[UNESCO world heritage site]] dating back to 2nd century B.C.<ext><name>ref</name><attr/><inner>[http://whc.unesco.org/en/tentativelists/5083/ Seruwila Mangala Raja Maha Vihara, unesco]</inner><close>&lt;/ref&gt;</close></ext> the ''Sri Gajaba Len Vihara'' (Sri Gajaba Cave Temple), Tiriyay temple and the Welgam temple.<ext><name>ref</name><attr/><inner>[http://www.lankalibrary.com/heritage/temples/trinco.htm Buddhist shrines in the Trincomalee district]</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="6">===The Dutch Fort===</h>
+The entrance to the roadway leading to Koneswaram is actually the entrance to what used to be [[Fort Fredrick]]. The fort was built in 1623 by the Portuguese and captured in 1639 by the Dutch. It then went through a phase of dismantling and reconstruction and was attacked and captured by the French in 1672.
+
+<h level="3" i="7">===The British in Trincomalee===</h>
+On January 8, 1782 the British captured the fort but the French recaptured it on August 29 of the same year. In 1783 the French ceded it to the British and subsequently Britain ceded it to the Dutch. In 1795 the British recaptured and held it until Sri Lanka's independence in 1948. The importance of Fort Fredrick was due to Trincomalee's natural harbour. Through Trincomalee, it was believed a strong naval force could secure control of India's [[Coromandel Coast]]. 
+
+Prior to the Second World War the British had built a large airfield to house a permanent [[RAF]] base, [[RAF China Bay]] and a fuel storage and support facilities for the [[Royal Navy]] and [[HMS Highflyer]] naval base based there. After the fall of Singapore, Trincomalee became the home port of the [[Eastern Fleet]] of the Royal Navy, and submarines of the [[Dutch Navy]]. The harbour and airfield were attacked by a Japanese carrier fleet in April 1942 in the [[Indian Ocean Raid]]  
+
+Until 1957, Trincomalee was an important base for the Royal Navy and was home to many British people who were employed by the British Admiralty. One of the places inhabited by the British was Fort Fredrick which is now occupied by the [[Sri Lankan Army]]. Some of the old buildings in the fort were used as residences, including one previously occupied by The Duke of Wellington. In the early 1950s The British Government built groups of bungalows within the Fort specifically for their employees. 
+
+These bungalows still exist and provide accommodation for soldiers of the Sri Lankan Army. One of the groups of bungalows was named Edinburgh Terrace. Children of the British residents attended a Royal Naval School which was part of the Naval Base.
+
+<h level="3" i="8">===Post independence=== </h>
+[[File:Sri Lanka Navy troop transport catamaran.JPG|thumb|Sri Lankan naval ship at Trincomalee]]
+The naval and air bases were take over by Sri Lanka in 1957, today SLNS Tissa and SLN Dockyard are used by the [[Sri Lankan Navy]], while the [[Sri Lanka Air Force]] is based at [[China Bay Airport|SLAF China Bay]]. The [[Sri Lanka Army]] has its [[Security Forces Headquarters - East]] in Trincomalee.
+
+Trincomalee War Cemetery, is one of the six commonwealth war cemeteries in Sri Lanka, it is maintained by Sri Lankan Ministry of Defence on behalf of the [[Commonwealth War Graves Commission]]. 
+
+The Navy Base is home to a naval museum called The [[Hoods Tower Museum]]. The name of the museum refers to a watchtower built on a hill commanding a 360-degree view of the harbor and the bay.
+
+<h level="2" i="9">== Harbour ==</h>
+Trincomalee's strategic importance has shaped its recent history. The great European powers vied for mastery of the harbour. The Portuguese, the Dutch, the French, and the English, each held it in turn, and there have been many sea battles nearby.
+
+The harbour, the fifth largest natural harbour in the world, is overlooked by terraced highlands, its entrance is guarded by two headlands, and there is a carriage road along its northern and eastern edges.
+
+Trincomalee's location, in a less well developed and sparsely populated area, has in the past hampered its own development. Nevertheless plans are under way to develop Trincomalee as a commercial seaport.
+
+<h level="2" i="10">== Hot springs ==</h>
+There are the seven hot springs of Kanniya (Kal = stone; niya = land), on the road to Trincomalee. A high wall bounds the rectangular enclosure which includes all seven springs. Each is in turn enclosed by a dwarf wall to form a well. The water is warm, the temperature of each spring being slightly different. The use of the springs for bathing is controlled by the neighbouring Mari Amman Kovil, who holds the lease of the wells<template><title>Fact</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template>.
+
+<h level="2" i="11">==Climate==</h>
+<template lineStart="1"><title>Infobox Weather
+</title><part><name>collapsed</name><equals>=</equals><value>
+</value></part><part><name>metric_first</name><equals>=</equals><value>yes
+</value></part><part><name>single_line</name><equals>=</equals><value>yes
+</value></part><part><name>location </name><equals>=</equals><value> Trincomalee
+</value></part><part><name>Jan_REC_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Feb_REC_Hi_°C </name><equals>=</equals><value>36
+</value></part><part><name>Mar_REC_Hi_°C </name><equals>=</equals><value>38
+</value></part><part><name>Apr_REC_Hi_°C </name><equals>=</equals><value>39
+</value></part><part><name>May_REC_Hi_°C </name><equals>=</equals><value>40
+</value></part><part><name>Jun_REC_Hi_°C </name><equals>=</equals><value>39
+</value></part><part><name>Jul_REC_Hi_°C </name><equals>=</equals><value>38
+</value></part><part><name>Aug_REC_Hi_°C </name><equals>=</equals><value>39
+</value></part><part><name>Sep_REC_Hi_°C </name><equals>=</equals><value>39
+</value></part><part><name>Oct_REC_Hi_°C </name><equals>=</equals><value>39
+</value></part><part><name>Nov_REC_Hi_°C </name><equals>=</equals><value>36
+</value></part><part><name>Dec_REC_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Year_REC_Hi_°C </name><equals>=</equals><value>40
+</value></part><part><name>Jan_Hi_°C </name><equals>=</equals><value>27
+</value></part><part><name>Feb_Hi_°C </name><equals>=</equals><value>28
+</value></part><part><name>Mar_Hi_°C </name><equals>=</equals><value>29
+</value></part><part><name>Apr_Hi_°C </name><equals>=</equals><value>32
+</value></part><part><name>May_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Jun_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Jul_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Aug_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Sep_Hi_°C </name><equals>=</equals><value>33
+</value></part><part><name>Oct_Hi_°C </name><equals>=</equals><value>31
+</value></part><part><name>Nov_Hi_°C </name><equals>=</equals><value>29
+</value></part><part><name>Dec_Hi_°C </name><equals>=</equals><value>27
+</value></part><part><name>Year_Hi_°C</name><equals>=</equals><value>30.7
+</value></part><part><name>Jan_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Feb_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Mar_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Apr_Lo_°C </name><equals>=</equals><value>26
+</value></part><part><name>May_Lo_°C </name><equals>=</equals><value>26
+</value></part><part><name>Jun_Lo_°C </name><equals>=</equals><value>26
+</value></part><part><name>Jul_Lo_°C </name><equals>=</equals><value>26
+</value></part><part><name>Aug_Lo_°C </name><equals>=</equals><value>25
+</value></part><part><name>Sep_Lo_°C </name><equals>=</equals><value>25
+</value></part><part><name>Oct_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Nov_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Dec_Lo_°C </name><equals>=</equals><value>24
+</value></part><part><name>Year_Lo_°C </name><equals>=</equals><value>24.8
+</value></part><part><name>Jan_REC_Lo_°C </name><equals>=</equals><value>18
+</value></part><part><name>Feb_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>Mar_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>Apr_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>May_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>Jun_REC_Lo_°C </name><equals>=</equals><value>22
+</value></part><part><name>Jul_REC_Lo_°C </name><equals>=</equals><value>21
+</value></part><part><name>Aug_REC_Lo_°C </name><equals>=</equals><value>21
+</value></part><part><name>Sep_REC_Lo_°C </name><equals>=</equals><value>21
+</value></part><part><name>Oct_REC_Lo_°C </name><equals>=</equals><value>21
+</value></part><part><name>Nov_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>Dec_REC_Lo_°C </name><equals>=</equals><value>19
+</value></part><part><name>Year_REC_Lo_°C </name><equals>=</equals><value>18
+</value></part><part><name>Jan_Precip_mm </name><equals>=</equals><value>173
+</value></part><part><name>Feb_Precip_mm </name><equals>=</equals><value>66
+</value></part><part><name>Mar_Precip_mm </name><equals>=</equals><value>48
+</value></part><part><name>Apr_Precip_mm </name><equals>=</equals><value>58
+</value></part><part><name>May_Precip_mm </name><equals>=</equals><value>69
+</value></part><part><name>Jun_Precip_mm </name><equals>=</equals><value>28
+</value></part><part><name>Jul_Precip_mm </name><equals>=</equals><value>51
+</value></part><part><name>Aug_Precip_mm </name><equals>=</equals><value>107
+</value></part><part><name>Sep_Precip_mm </name><equals>=</equals><value>107
+</value></part><part><name>Oct_Precip_mm </name><equals>=</equals><value>221
+</value></part><part><name>Nov_Precip_mm </name><equals>=</equals><value>358
+</value></part><part><name>Dec_Precip_mm </name><equals>=</equals><value>363
+</value></part><part><name>Year_Precip_mm </name><equals>=</equals><value>1649
+</value></part><part><name>source </name><equals>=</equals><value>BBC Weather <ext><name>ref</name><attr> name=&quot;weather1&quot;</attr><inner>{{cite web
+| url =http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT002830 | title =Average Conditions Trincomalee, Sri Lanka| accessdate =July 21, 2010
+| publisher =BBC Weather }}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>accessdate </name><equals>=</equals><value> 2010-07-21
+</value></part></template>
+
+<h level="2" i="12">== Deutsche Welle Relay Station ==</h>
+There is a [[Deutsche Welle]] Shortwave and Mediumwave Relay Station in Trincomalee. It was not adversely affected by the Tsunami of 2004 because of the sea terrain around Trincomalee. [[Deutsche Welle]] started broadcasting from Trincomalee Relay Station in 1984.
+
+<h level="2" i="13">== Education ==</h>
+The [[Naval and Maritime Academy]] of the [[Sri Lanka Navy]] and the [[Air Force Academy, China Bay|Air Force Academy]] of the [[Sri Lanka Air Force]] is situated in Trincomalee. It was first established in 1967, and gained university status in 2001.<ext><name>ref</name><attr/><inner>[http://www.navy.lk/index.php?id=725 http://www.navy.lk | Naval and Maritime Academy of SLN reaches Par Excellence&lt;!-- Bot generated title --&gt;]</inner><close>&lt;/ref&gt;</close></ext> The [[Eastern University of Sri Lanka]], which has its main campus in [[Batticaloa]], also has a campus in Trincomalee.
+
+<h level="3" i="14">===List of Trincomalee schools===</h>
+*T/R.K.M.Sri Koneswara Hindu College
+*T/Sri Shanmuga Hindu Ladies College
+*T/St Mary's College
+* St Joseph Collage, Trincomalee
+*[[Orr's hill vivekananda college trincomalee|Orr's Hill Vivekananda College]]
+*T/Vikneswara Mahavidyalayam
+*T/Sampoor Mahavidyalayam,Sampoor
+* Sinhala central college at Trincomale town
+* Kantale central college at Kantale town
+*[[Kinniya Central College]]
+* Al-Aqza College, Kinniya
+* Kinniya Muslim Girls College
+* Naamahal Vidyalayam, Trincomalee
+* Kalaimahal Vidyalayam, Trincomalee
+* St Francis Xavier School
+
+<h level="2" i="15">== 2004 tsunami ==</h>
+In the aftermath of the 2004 Asian Tsunami, Trincomalee was a focal point for relief efforts on the eastern coast of Sri Lanka.<ext><name>ref</name><attr/><inner>http://www.tamilnet.com/art.html?catid=13&amp;artid=14006 Canadian Red Cross </inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="16">== Maps ==</h>
+*[http://www.unhcr.org/refworld/category,REFERENCE,,,,4918095a2,0.html Detailed map of Trincomalee] Adobe Reader required to view the map
+
+<h level="2" i="17">== See also ==</h>
+<template lineStart="1"><title>commonscat</title><part><name index="1"/><value>Trincomalee</value></part></template>
+*[[Place names in Sri Lanka]]
+*[[HMS Trincomalee|HMS ''Trincomalee'']], a British sailing frigate built in India.
+
+<h level="2" i="18">==References==</h>
+<template lineStart="1"><title>reflist</title><part><name index="1"/><value>2</value></part></template>
+
+<h level="2" i="19">== External links ==</h>
+*[http://www.lankalibrary.com/heritage/temples/trinco.htm Buddhist shrines in the Trincomalee district]
+*[http://lankalive.info/attractions/trincomalee/trincomalee3.php Trincomalee Temples Under Arakan Bhikkus]
+
+<template lineStart="1"><title>Template group
+</title><part><name>list </name><equals>=</equals><value>
+<template lineStart="1"><title>Sri Lankan Urban Councils</title></template>
+<template lineStart="1"><title>Sri Lankan cities</title></template>
+<template lineStart="1"><title>Provincial capitals of Sri Lanka</title></template>
+<template lineStart="1"><title>coord</title><part><name index="1"/><value>8</value></part><part><name index="2"/><value>34</value></part><part><name index="3"/><value>N</value></part><part><name index="4"/><value>81</value></part><part><name index="5"/><value>14</value></part><part><name index="6"/><value>E</value></part><part><name index="7"/><value>region:LK_type:city</value></part><part><name>display</name><equals>=</equals><value>title</value></part></template>
+</value></part></template>
+
+[[Category:Populated places in Sri Lanka]]
+[[Category:Trincomalee District]]
+[[Category:Port cities and towns in Sri Lanka]]
+[[Category:Provincial capitals in Sri Lanka]]
+[[Category:Kingdom of Kandy]]
+
+[[ar:ترينكومالي]]
+[[bg:Тринкомале]]
+[[da:Trincomalee]]
+[[de:Trincomalee]]
+[[fr:Trincomalee]]
+[[id:Trincomalee]]
+[[it:Trincomalee]]
+[[mr:त्रिंकोमली]]
+[[nl:Trincomalee (stad)]]
+[[ja:トリンコマリー]]
+[[no:Trincomalee]]
+[[pl:Trikunamalaja]]
+[[ru:Трикомали]]
+[[si:ත්‍රිකුණාමලය]]
+[[su:Trincomalee]]
+[[fi:Trincomalee]]
+[[sv:Trincomalee]]
+[[ta:திருக்கோணமலை]]
+[[zh:亭可马里]]</root>

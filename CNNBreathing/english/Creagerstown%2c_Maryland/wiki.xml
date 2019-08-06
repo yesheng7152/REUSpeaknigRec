@@ -1,0 +1,137 @@
+<root><template><title>Infobox settlement
+<comment>&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+</comment></title><part><name> name                    </name><equals>=</equals><value> Creagerstown
+</value></part><part><name> native_name             </name><equals>=</equals><value>
+</value></part><part><name> native_name_lang        </name><equals>=</equals><value> <comment>&lt;!-- ISO 639-2 code e.g. &quot;fr&quot; for French. If more than one, use {{lang}} instead --&gt;</comment>
+</value></part><part><name> settlement_type         </name><equals>=</equals><value> [[Unincorporated area|Unincorporated community]] 
+</value></part><part><name> image_skyline           </name><equals>=</equals><value> St. Johns Church, Creagerstown, Maryland.jpg
+</value></part><part><name> image_alt               </name><equals>=</equals><value>
+</value></part><part><name> image                   </name><equals>=</equals><value> 
+</value></part><part><name> image_caption           </name><equals>=</equals><value> [[St. John's Church at Creagerstown Historic District|St. John's Church]] in Creagerstown
+</value></part><part><name> image_flag              </name><equals>=</equals><value>
+</value></part><part><name> flag_alt                </name><equals>=</equals><value>
+</value></part><part><name> image_seal              </name><equals>=</equals><value>
+</value></part><part><name> seal_alt                </name><equals>=</equals><value>
+</value></part><part><name> image_shield            </name><equals>=</equals><value>
+</value></part><part><name> shield_alt              </name><equals>=</equals><value>
+</value></part><part><name> nickname                </name><equals>=</equals><value>
+</value></part><part><name> motto                   </name><equals>=</equals><value>
+</value></part><part><name> image_map               </name><equals>=</equals><value>
+</value></part><part><name> map_alt                 </name><equals>=</equals><value>
+</value></part><part><name> map_caption             </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map             </name><equals>=</equals><value>
+</value></part><part><name> pushpin_label_position  </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map_alt         </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map_caption     </name><equals>=</equals><value>
+</value></part><part><name> latd  </name><equals>=</equals><value>39  </value></part><part><name>latm  </name><equals>=</equals><value>34  </value></part><part><name>lats  </name><equals>=</equals><value>38  </value></part><part><name>latNS  </name><equals>=</equals><value>N
+</value></part><part><name> longd </name><equals>=</equals><value>77  </value></part><part><name>longm </name><equals>=</equals><value>21  </value></part><part><name>longs </name><equals>=</equals><value>54  </value></part><part><name>longEW </name><equals>=</equals><value>W
+</value></part><part><name> coor_pinpoint           </name><equals>=</equals><value>
+</value></part><part><name> coordinates_type        </name><equals>=</equals><value>
+</value></part><part><name> coordinates_display     </name><equals>=</equals><value> inline,title
+</value></part><part><name> coordinates_footnotes   </name><equals>=</equals><value>
+</value></part><part><name> subdivision_type        </name><equals>=</equals><value> Country
+</value></part><part><name> subdivision_name        </name><equals>=</equals><value> United States
+</value></part><part><name> subdivision_type1       </name><equals>=</equals><value> State
+</value></part><part><name> subdivision_name1       </name><equals>=</equals><value> [[Maryland]]
+</value></part><part><name> subdivision_type2       </name><equals>=</equals><value> County
+</value></part><part><name> subdivision_name2       </name><equals>=</equals><value> [[Frederick County, Maryland|Frederick]]
+</value></part><part><name> subdivision_type3       </name><equals>=</equals><value>
+</value></part><part><name> subdivision_name3       </name><equals>=</equals><value>
+</value></part><part><name> established_title       </name><equals>=</equals><value> First Settled
+</value></part><part><name> established_date        </name><equals>=</equals><value> 1750
+</value></part><part><name> founder                 </name><equals>=</equals><value> Creager Family<ext><name>ref</name><attr/><inner>{{cite web |url=http://freepages.genealogy.rootsweb.ancestry.com/~grannyapple/CREAGER-KRIEGER/CREAGERSTOWNmdHOME.html |title=CREAGERSTOWN, FREDERICK CO., MD |author=Audrey Shields Hancock |date=2001-01-01 |work= |publisher=Ancestry |accessdate=15 July 2012}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> seat_type               </name><equals>=</equals><value>
+</value></part><part><name> seat                    </name><equals>=</equals><value>
+</value></part><part><name> government_footnotes    </name><equals>=</equals><value>
+</value></part><part><name> leader_party            </name><equals>=</equals><value>
+</value></part><part><name> leader_title            </name><equals>=</equals><value>
+</value></part><part><name> leader_name             </name><equals>=</equals><value>
+</value></part><part><name> unit_pref               </name><equals>=</equals><value> US<comment>&lt;!-- or UK or Metric --&gt;</comment>
+<comment>&lt;!-- ALL fields with measurements have automatic unit conversion --&gt;
+</comment><comment>&lt;!-- for references: use &lt;ref&gt; tags --&gt;
+</comment></value></part><part><name> area_footnotes          </name><equals>=</equals><value> 
+</value></part><part><name> area_urban_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/re&gt; --&gt;</comment>
+</value></part><part><name> area_rural_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/re&gt; --&gt;</comment>
+</value></part><part><name> area_metro_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/re&gt; --&gt;</comment>
+</value></part><part><name> area_magnitude          </name><equals>=</equals><value> <comment>&lt;!-- use only to set a special wikilink --&gt;</comment>
+</value></part><part><name> area_note               </name><equals>=</equals><value>
+</value></part><part><name> area_water_percent      </name><equals>=</equals><value>
+</value></part><part><name> area_rank               </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_title       </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_title       </name><equals>=</equals><value>
+<comment>&lt;!-- square miles --&gt;
+</comment></value></part><part><name> area_total_sq_mi        </name><equals>=</equals><value> 
+</value></part><part><name> area_land_sq_mi         </name><equals>=</equals><value>
+</value></part><part><name> area_water_sq_mi        </name><equals>=</equals><value>
+</value></part><part><name> area_urban_sq_mi        </name><equals>=</equals><value>
+</value></part><part><name> area_rural_sq_mi        </name><equals>=</equals><value>
+</value></part><part><name> area_metro_sq_mi        </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_sq_mi       </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_sq_mi       </name><equals>=</equals><value>
+<comment>&lt;!-- acres --&gt;
+</comment></value></part><part><name> area_total_acre         </name><equals>=</equals><value> 
+</value></part><part><name> area_land_acre          </name><equals>=</equals><value>
+</value></part><part><name> area_water_acre         </name><equals>=</equals><value>
+</value></part><part><name> area_urban_acre         </name><equals>=</equals><value>
+</value></part><part><name> area_rural_acre         </name><equals>=</equals><value>
+</value></part><part><name> area_metro_acre         </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_acre        </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_acre        </name><equals>=</equals><value>
+</value></part><part><name> length_mi               </name><equals>=</equals><value>
+</value></part><part><name> width_mi                </name><equals>=</equals><value>
+</value></part><part><name> dimensions_footnotes    </name><equals>=</equals><value>
+</value></part><part><name> elevation_footnotes     </name><equals>=</equals><value>
+</value></part><part><name> elevation_ft            </name><equals>=</equals><value>
+</value></part><part><name> population_footnotes    </name><equals>=</equals><value>
+</value></part><part><name> population_total        </name><equals>=</equals><value>
+</value></part><part><name> population_as_of        </name><equals>=</equals><value>
+</value></part><part><name> population_density_sq_mi</name><equals>=</equals><value> auto
+</value></part><part><name> population_demonym      </name><equals>=</equals><value>
+</value></part><part><name> population_note         </name><equals>=</equals><value>
+</value></part><part><name> timezone1               </name><equals>=</equals><value>
+</value></part><part><name> utc_offset1             </name><equals>=</equals><value>
+</value></part><part><name> timezone1_DST           </name><equals>=</equals><value>
+</value></part><part><name> utc_offset1_DST         </name><equals>=</equals><value>
+</value></part><part><name> postal_code_type        </name><equals>=</equals><value>
+</value></part><part><name> postal_code             </name><equals>=</equals><value>
+</value></part><part><name> area_code_type          </name><equals>=</equals><value>
+</value></part><part><name> area_code               </name><equals>=</equals><value>
+</value></part><part><name> iso_code                </name><equals>=</equals><value>
+</value></part><part><name> website                 </name><equals>=</equals><value> <comment>&lt;!-- {{URL|example.com}} --&gt;</comment>
+</value></part><part><name> footnotes               </name><equals>=</equals><value>
+</value></part></template>
+
+'''Creagerstown''' is an [[unincorporated area|unincorporated community]] in [[Frederick County, Maryland]], United States.<ext><name>ref</name><attr/><inner>{{cite web|url=http://geonames.usgs.gov/pls/gnispublic|title=Geographic Names Information System|date=2009-01-29|work= Creagerstown (Populated Place)|publisher=U.S. Geological Survey}}</inner><close>&lt;/ref&gt;</close></ext>  It is playfully known by its residents as &quot;4 miles from everywhere&quot; because of its situation at <template><title>convert</title><part><name index="1"/><value>4</value></part><part><name index="2"/><value>mi</value></part></template> from [[Thurmont, Maryland|Thurmont]], [[Woodsboro, Maryland|Woodsboro]], [[Rocky Ridge, Maryland|Rocky Ridge]], and [[Lewistown, Maryland|Lewistown]].<ext><name>ref</name><attr> name=Chronicles </attr></ext>
+
+The town consists of about 40 buildings, including three churches and a small school building.  A number of the buildings in the town can be classified as historical and the ruins of older buildings can also be found.<ext><name>ref</name><attr> name=survey</attr><inner>{{Citation |last=Shipe |first=Mary Kendall |date=July 1991  |title=State Historic Sites Inventory Form |publisher=Maryland Historic Trust |publication-place=Frederick, Maryland |page= |url=http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/010000/010900/010929/pdf/msa_se5_10929.pdf |accessdate=2014-03-19 |id=Survey No. F-6-100}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Creagerstown is additionally the home to both Creagerstown Park<ext><name>ref</name><attr> name=&quot;Frederick County Parks &amp; Rec Website&quot;</attr><inner>{{cite web |url=https://frederickcountymd.gov/index.aspx?NID=2929 |title=Creagerstown Park |author= |date= |work= |publisher=Frederick County Parks &amp; Rec |accessdate=15 July 2012}}</inner><close>&lt;/ref&gt;</close></ext> and Creagerstown Cemetery.  [[Maryland Route 550]] passes through Creagerstown on its way towards [[Loys Station Park|Loys Station]] in the form of Creagerstown Road.
+
+<h level="2" i="1">==History==</h>
+<h level="3" i="2">===Founding===</h>
+The town originally grew up as an important crossroads for stagecoaches around a major Indian trail known as the Monocacy Road.<ext><name>ref</name><attr> name=survey </attr></ext><ext><name>ref</name><attr> name=Chronicles </attr></ext>  The Monocacy Road connected the area to Pennsylvania and Virginia.  Creagerstown is located at a crossroads where the Monocacy Road connected to another road that ran between Baltimore and Pittsburg.  The earliest settlement of the area was in the early 1700 by German immigrants.  Sometime between 1760 and 1770 John Creager laid out Creagerstown, which would eventually supplant nearby [[Monocacy, Maryland|Monocacy]].<ext><name>ref</name><attr> name=survey </attr></ext>
+
+<h level="3" i="3">===Growth===</h>
+[[File:Creagerstown 001.jpg|right|thumb|Creagerstown before the 1914 fire.]]
+The town experienced steady growth for a number of years.  In 1775 the first house in Creagerstown was built by Isaac Kolb.  In 1785 a tannery opened in town; it would operate until 1810.  Around the same time that the tannery closed a German brewery opened in Creagerstown.  In 1866 the church from Monocacy was reconstructed in Creagerstown and became known as Union Bethel Church.  By 1858 Creagerstown contained a doctors office, two stores, a hotel, a church, a parsonage, and a school.  Growing further by 1873, Creagerstown also contained a blacksmith shop, a wagon shop, and another church. By 1910 the population of Creagerstown was 200.<ext><name>ref</name><attr> name=survey </attr></ext>  At one point there was a tavern on every corner in the town square.<ext><name>ref</name><attr> name=Chronicles </attr></ext>
+
+<h level="3" i="4">===Fire of June 2, 1914===</h>
+[[File:Creagerstown Fire H060.jpg|right|thumb|Postcard from 1914 showing the destruction caused by the fire.]]
+On June 2, 1914, around 10 am, a major fire broke out in Monocacy Valley Creamery and destroyed about 30 buildings,<ext><name>ref</name><attr> name=Chronicles</attr><inner>{{cite book|last=Erickson|first=Marie Anne|title=Frederick County chronicles : the crossroads of Maryland|date=2012|publisher=The History Press|location=Charleston, SC|isbn=1609497759|editor=Ingrid Price}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=survey </attr></ext> causing somewhere between $60,000 and $70,000 worth of damages.<ext><name>ref</name><attr> name=fnp</attr><inner>{{cite news|title=NEARLY HALF CREAGERSTOWN BURNS; LOSS MAY BE $70,000|url=https://en.wikisource.org/wiki/Index:Frederick_News_Post_1914-06-03.pdf|accessdate=20 March 2014|newspaper=Frederick News Post|date=3 June 1914}}</inner><close>&lt;/ref&gt;</close></ext>   The fire was caused accidentally when a spark from a fire set by a man in the creamery ignited the roof. Strong winds fanned the flames, allowing the blaze to cross the road and gaps between buildings.  Creagerstown had no fire department to put out the fire.  The town hall was burned down and the fire also destroyed all of the hotels owned by the Valentine family, though the Valley Hotel was eventually rebuilt.<ext><name>ref</name><attr> name=Chronicles </attr></ext>  Between 1920 and 1930 a number of houses in the town were reconstructed.  But by 1930 other road improvements and other highways, such as the Frederick and Emmitsburg railroads, had been constructed throughout Frederick and Creagerstown never recovered.<ext><name>ref</name><attr> name=survey </attr></ext><ext><name>ref</name><attr> name=Chronicles </attr></ext>
+
+<h level="2" i="5">==Historical buildings==</h>
+Most of the buildings in Creagerstown were built between the early 19th century and early 20th century and are made out of log, brick, or stone.  The Maryland State Historic Sites Inventory Form for Creagerstown states that &quot;the town demonstrates building forms spanning over 100 years.&quot; Many of the houses have smaller agricultural buildings in the back of their lots.  Most of the commercial buildings are located towards the center of the town.<ext><name>ref</name><attr> name=survey </attr></ext>
+
+There are a number of notable historical buildings in Creagerstown including the Georgian-style farmhouse [[Strawberry Hill (Creagerstown, Maryland)|Strawberry Hill]] which is located on Creagerstown Road and is not in the town proper, but is located in the Creagerstown Election District.<ext><name>ref</name><attr/><inner>{{cite web|url=http://mht.maryland.gov/nr/NRDetail.aspx?HDID=362&amp;COUNTY=Frederick&amp;FROM=NRCountyList.aspx?COUNTY=Frederick|title=Maryland Historical Trust|date=2008-10-05|work= National Register of Historic Places: Properties in Frederick County, Strawberry Hill|publisher=Maryland Historical Trust}}</inner><close>&lt;/ref&gt;</close></ext> Along with [[Pennterra (Creagerstown, Maryland)|Pennterra]], Strawberry Hill was listed on the [[National Register of Historic Places]] in 1976.<ext><name>ref</name><attr> name=&quot;nris&quot;</attr><inner>{{NRISref|2008a}}</inner><close>&lt;/ref&gt;</close></ext>  [[St. John's Church at Creagerstown Historic District|St. John's Church]], built in 1908 and located on Blacks Mill Rd, is also in Creagerstown.  St. John's Church was built to replace the original St. John's Lutheran Church which was built in the 1850s.  Still standing in the town is a small schoolhouse, built in 1855, and the Union Bethel church, a one-story stone church built in 1866.<ext><name>ref</name><attr> name=survey </attr></ext>
+
+<h level="2" i="6">==See also==</h>
+* [[Monocacy, Maryland]]
+
+<h level="2" i="7">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<template lineStart="1"><title>Frederick County, Maryland</title></template>
+
+[[Category:Unincorporated communities in Frederick County, Maryland]]
+[[Category:Unincorporated communities in Maryland]]
+[[Category:Populated places established in 1750]]</root>

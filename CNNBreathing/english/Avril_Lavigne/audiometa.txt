@@ -1,0 +1,18 @@
+{{Information
+|Description={{en|Audio Recording of the Wikipedia article on the artist Avril Lavigne, read aloud by Jules Ismail.}}
+|Source={{transferred from|en.wikipedia|Sreejithk2000|CommonsHelper}}
+|Date={{original upload date|2010-05-16}}
+|Author={{original uploader|Theroachyjay|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Avril_Lavigne_Wikipedia_Article_Read_By_Jules_Ismail.ogg}}
+* 2010-05-16 10:23 [[:en:User:Theroachyjay|Theroachyjay]] 0×0× (18660437 bytes) ''<nowiki>Audio Recording of the Wikipedia article on the artist Avril Lavigne, read aloud by Jules Ismail.</nowiki>''
+
+[[Category:Avril Lavigne]]
+[[Category:Spoken Wikipedia - English]]

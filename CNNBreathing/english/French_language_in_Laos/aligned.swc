@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="French language in Laos" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="French_language_in_Laos" /><prop key="DC.date.read" value="2014-12-31 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/French_language_in_Laos" /><prop key="DC.source.wikiID" value="3960770" /><prop key="DC.source.revision" value="701674760" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=French language in Laos&amp;oldid=640378158" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/d/dd/En-French_language_in_Laos-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-French_language_in_Laos-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2014-12-31 13:02:46" group="audio1" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:39:03.735+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/French_language_in_Laos/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/French_language_in_Laos)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T13:42:35.291+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/French_language_in_Laos/aligned.swc, transcript=articles/French_language_in_Laos/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/French_language_in_Laos/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="French language in LaosFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="French language in LaosFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="French"><n pronunciation="French" start="270" end="830" /></t><t text="language"><n pronunciation="language" start="870" end="1520" /></t><t text="in"><n pronunciation="in" start="1610" end="1880" /></t><t text="LaosFrom"><n pronunciation="LaosFrom" start="1970" end="2990" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="3090" end="3980" /></t><t text="," /><t text="the"><n pronunciation="the" start="4120" end="4250" /></t><t text="free"><n pronunciation="free" start="4250" end="4700" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="4700" end="5960" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" start="6580" end="6950" /></t><t text="n"><n pronunciation="n" start="6980" end="7280" /></t><t text="dot"><n pronunciation="dot" start="7530" end="7950" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="7950" end="8850" /></t><t text="dot"><n pronunciation="dot" start="9050" end="9440" /></t><t text="org"><n pronunciation="org" start="9580" end="10110" /></t><t text="." /></s></extra><p><s><t>French<n pronunciation="French" start="16300" end="17070"><ph start="16420" end="16590" type="f"></ph><ph start="16590" end="16690" type="r"></ph><ph start="16690" end="16720" type="E"></ph><ph start="16720" end="16870" type="n"></ph><ph start="16870" end="16900" type="T"></ph><ph start="16900" end="17050" type="S"></ph></n></t> <t>is<n pronunciation="is" start="17130" end="17290"><ph start="17180" end="17250" type="I"></ph><ph start="17250" end="17450" type="z"></ph></n></t> <t>spoken<n pronunciation="spoken" start="17290" end="17940"><ph start="17450" end="17480" type="s"></ph><ph start="17480" end="17530" type="p"></ph><ph start="17530" end="17740" type="@U"></ph><ph start="17740" end="17820" type="k"></ph><ph start="17820" end="17850" type="V"></ph><ph start="17850" end="17950" type="n"></ph></n></t> <t>by<n pronunciation="by" start="17940" end="18170"><ph start="17950" end="18000" type="b"></ph><ph start="18000" end="18190" type="aI"></ph></n></t> <t>a<n pronunciation="a" start="18170" end="18250"><ph start="18190" end="18230" type="V"></ph></n></t> <t>significant<n pronunciation="significant" start="18250" end="19010"><ph start="18230" end="18370" type="s"></ph><ph start="18370" end="18430" type="I"></ph><ph start="18430" end="18460" type="g"></ph><ph start="18460" end="18560" type="n"></ph><ph start="18560" end="18700" type="I"></ph><ph start="18700" end="18730" type="f"></ph><ph start="18730" end="18820" type="I"></ph><ph start="18820" end="18900" type="k"></ph><ph start="18900" end="18930" type="V"></ph><ph start="18930" end="19000" type="n"></ph></n></t> <t>minority<n pronunciation="minority" start="19010" end="19750"><ph start="19000" end="19070" type="m"></ph><ph start="19070" end="19190" type="V"></ph><ph start="19190" end="19310" type="n"></ph><ph start="19310" end="19500" type="O:"></ph><ph start="19500" end="19560" type="r"></ph><ph start="19560" end="19600" type="V"></ph><ph start="19600" end="19690" type="t"></ph><ph start="19690" end="19780" type="i:"></ph></n></t> <t>in<n pronunciation="in" start="19750" end="19870"><ph start="19780" end="19830" type="I"></ph><ph start="19830" end="19880" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="19870" end="20470"><ph start="19880" end="20000" type="l"></ph><ph start="20000" end="20140" type="A:"></ph><ph start="20140" end="20260" type="@U"></ph><ph start="20260" end="20470" type="s"></ph></n></t><t>.</t></s> <s><t>Laos<n pronunciation="Laos" start="20830" end="21290"><ph start="20860" end="20930" type="l"></ph><ph start="20930" end="20960" type="A:"></ph><ph start="20960" end="21160" type="@U"></ph><ph start="21160" end="21340" type="s"></ph></n></t> <t>is<n pronunciation="is" start="21390" end="21640"><ph start="21410" end="21510" type="I"></ph><ph start="21510" end="21645" type="z"></ph></n></t> <t>the<n pronunciation="the" start="21640" end="21790"><ph start="21645" end="21720" type="D"></ph><ph start="21720" end="21780" type="V"></ph></n></t> <t>second<n pronunciation="second" start="21790" end="22430"><ph start="21780" end="22010" type="s"></ph><ph start="22010" end="22040" type="E"></ph><ph start="22040" end="22080" type="k"></ph><ph start="22080" end="22130" type="V"></ph><ph start="22130" end="22190" type="n"></ph><ph start="22190" end="22310" type="d"></ph></n></t> <t>largest<n pronunciation="largest" start="22430" end="23000"><ph start="22310" end="22660" type="l"></ph><ph start="22660" end="22690" type="A:"></ph><ph start="22690" end="22720" type="r"></ph><ph start="22720" end="22810" type="dZ"></ph><ph start="22810" end="22850" type="E"></ph><ph start="22850" end="22910" type="s"></ph><ph start="22910" end="22980" type="t"></ph></n></t> <t>Francophone<n pronunciation="Francophone" start="23000" end="23720"><ph start="23090" end="23140" type="f"></ph><ph start="23140" end="23180" type="r"></ph><ph start="23180" end="23290" type="{"></ph><ph start="23290" end="23340" type="N"></ph><ph start="23340" end="23390" type="k"></ph><ph start="23390" end="23430" type="V"></ph><ph start="23430" end="23530" type="f"></ph><ph start="23530" end="23630" type="@U"></ph><ph start="23630" end="23740" type="n"></ph></n></t> <t>nation<n pronunciation="nation" start="23720" end="24260"><ph start="23740" end="23780" type="n"></ph><ph start="23780" end="23960" type="eI"></ph><ph start="23960" end="24110" type="S"></ph><ph start="24110" end="24140" type="V"></ph><ph start="24140" end="24250" type="n"></ph></n></t> <t>in<n pronunciation="in" start="24260" end="24430"><ph start="24250" end="24340" type="I"></ph><ph start="24340" end="24400" type="n"></ph></n></t> <t>Asia<n pronunciation="Asia" start="24430" end="24930"><ph start="24400" end="24670" type="eI"></ph><ph start="24670" end="24730" type="Z"></ph><ph start="24730" end="24870" type="V"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="25050" end="25300"><ph start="25180" end="25280" type="D"></ph><ph start="25280" end="25320" type="V"></ph></n></t> <t>others<n pronunciation="others" start="25300" end="25540"><ph start="25320" end="25370" type="V"></ph><ph start="25370" end="25420" type="D"></ph><ph start="25420" end="25460" type="3`"></ph><ph start="25460" end="25530" type="z"></ph></n></t> <t>being<n pronunciation="being" start="25540" end="25880"><ph start="25530" end="25630" type="b"></ph><ph start="25630" end="25750" type="i:"></ph><ph start="25750" end="25780" type="I"></ph><ph start="25780" end="25900" type="N"></ph></n></t> <t>Vietnam<n pronunciation="Vietnam" start="25880" end="26520"><ph start="25900" end="25930" type="v"></ph><ph start="25930" end="26060" type="i:"></ph><ph start="26060" end="26110" type="E"></ph><ph start="26110" end="26140" type="t"></ph><ph start="26140" end="26190" type="n"></ph><ph start="26190" end="26440" type="A:"></ph><ph start="26440" end="26490" type="m"></ph></n></t> <t>and<n pronunciation="and" start="26550" end="26820"><ph start="26570" end="26690" type="{"></ph><ph start="26690" end="26790" type="n"></ph><ph start="26790" end="26880" type="d"></ph></n></t> <t>Cambodia<n pronunciation="Cambodia" start="26820" end="27550"><ph start="26880" end="26910" type="k"></ph><ph start="26910" end="26940" type="I"></ph><ph start="26940" end="26990" type="m"></ph><ph start="26990" end="27090" type="b"></ph><ph start="27090" end="27260" type="@U"></ph><ph start="27260" end="27320" type="d"></ph><ph start="27320" end="27450" type="i:"></ph><ph start="27450" end="27520" type="V"></ph></n></t><t>.</t></s> <s><t>French<n pronunciation="French" start="28110" end="28710"><ph start="28160" end="28380" type="f"></ph><ph start="28380" end="28470" type="r"></ph><ph start="28470" end="28520" type="E"></ph><ph start="28520" end="28590" type="n"></ph><ph start="28590" end="28620" type="T"></ph><ph start="28620" end="28710" type="S"></ph></n></t> <t>is<n pronunciation="is" start="28770" end="28960"><ph start="28710" end="28840" type="?"></ph><ph start="28840" end="28910" type="I"></ph><ph start="28910" end="28940" type="z"></ph></n></t> <t>used<n pronunciation="used" start="28960" end="29330"><ph start="28940" end="29040" type="j"></ph><ph start="29040" end="29210" type="u"></ph><ph start="29210" end="29240" type="z"></ph><ph start="29240" end="29300" type="d"></ph></n></t> <t>as<n pronunciation="as" start="29330" end="29450"><ph start="29300" end="29410" type="V"></ph><ph start="29410" end="29460" type="s"></ph></n></t> <t>a<n pronunciation="a"><ph start="29460" end="29540" type="V"></ph></n></t> <t>diplomatic<n pronunciation="diplomatic" start="29570" end="30420"><ph start="29540" end="29640" type="d"></ph><ph start="29640" end="29760" type="I"></ph><ph start="29760" end="29830" type="p"></ph><ph start="29830" end="29870" type="l"></ph><ph start="29870" end="29900" type="V"></ph><ph start="29900" end="29980" type="m"></ph><ph start="29980" end="30100" type="{"></ph><ph start="30100" end="30210" type="t"></ph><ph start="30210" end="30350" type="I"></ph><ph start="30350" end="30410" type="k"></ph></n></t> <t>and<n pronunciation="and" start="30490" end="30740"><ph start="30530" end="30610" type="{"></ph><ph start="30610" end="30710" type="n"></ph><ph start="30710" end="30780" type="d"></ph></n></t> <t>commercial<n pronunciation="commercial" start="30740" end="31400"><ph start="30780" end="30990" type="k"></ph><ph start="30990" end="31090" type="V"></ph><ph start="31090" end="31120" type="m"></ph><ph start="31120" end="31190" type="3`"></ph><ph start="31190" end="31320" type="S"></ph><ph start="31320" end="31360" type="V"></ph><ph start="31360" end="31480" type="l"></ph></n></t> <t>language<n pronunciation="language" start="31400" end="31880"><ph start="31480" end="31540" type="l"></ph><ph start="31540" end="31570" type="{"></ph><ph start="31570" end="31600" type="N"></ph><ph start="31600" end="31710" type="w"></ph><ph start="31710" end="31740" type="I"></ph><ph start="31740" end="31890" type="dZ"></ph></n></t> <t>and<n pronunciation="and" start="32070" end="32230"><ph start="32110" end="32170" type="{"></ph><ph start="32170" end="32220" type="n"></ph></n></t> <t>is<n pronunciation="is" start="32230" end="32350"><ph start="32220" end="32270" type="I"></ph><ph start="32270" end="32330" type="z"></ph></n></t> <t>also<n pronunciation="also" start="32350" end="32740"><ph start="32330" end="32420" type="O:"></ph><ph start="32420" end="32560" type="l"></ph><ph start="32560" end="32660" type="s"></ph><ph start="32660" end="32760" type="U"></ph></n></t> <t>studied<n pronunciation="studied" start="32740" end="33220"><ph start="32760" end="32890" type="s"></ph><ph start="32890" end="32960" type="t"></ph><ph start="32960" end="33030" type="V"></ph><ph start="33030" end="33070" type="4"></ph><ph start="33070" end="33190" type="i:"></ph><ph start="33190" end="33230" type="d"></ph></n></t> <t>by<n pronunciation="by" start="33220" end="33390"><ph start="33230" end="33280" type="b"></ph><ph start="33280" end="33410" type="aI"></ph></n></t> <t>over<n pronunciation="over" start="33390" end="33710"><ph start="33410" end="33570" type="@U"></ph><ph start="33570" end="33650" type="v"></ph><ph start="33650" end="33700" type="3`"></ph></n></t> <t>a<n pronunciation="a"><ph start="33700" end="33775" type="V"></ph></n></t> <t>third<n pronunciation="third" start="33940" end="34390"><ph start="33775" end="34010" type="T"></ph><ph start="34010" end="34250" type="3`"></ph><ph start="34250" end="34310" type="d"></ph></n></t> <t>of<n pronunciation="of"><ph start="34310" end="34400" type="V"></ph><ph start="34400" end="34435" type="v"></ph></n></t> <t>students<n pronunciation="students" start="34400" end="35090"><ph start="34435" end="34570" type="s"></ph><ph start="34570" end="34660" type="t"></ph><ph start="34660" end="34810" type="u"></ph><ph start="34810" end="34870" type="d"></ph><ph start="34870" end="34900" type="V"></ph><ph start="34900" end="34990" type="n"></ph><ph start="34990" end="35020" type="t"></ph><ph start="35020" end="35090" type="s"></ph></n></t> <t>in<n pronunciation="in" start="35090" end="35280"><ph start="35090" end="35210" type="I"></ph><ph start="35210" end="35260" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="35280" end="35940"><ph start="35260" end="35410" type="l"></ph><ph start="35410" end="35500" type="A:"></ph><ph start="35500" end="35640" type="@U"></ph><ph start="35640" end="35890" type="s"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>History<n pronunciation="History" /></t>
+<t>2<n pronunciation="two" /></t> <t>Characteristics<n pronunciation="Characteristics" /></t>
+<t>3<n pronunciation="three" /></t> <t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t>
+<t>4<n pronunciation="four" /></t> <t>References<n pronunciation="References" /></t>
+<t>5<n pronunciation="five" /></t> <t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t></s></p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>History<n pronunciation="History" start="38440" end="39180"><ph start="38480" end="38570" type="h"></ph><ph start="38570" end="38660" type="I"></ph><ph start="38660" end="38770" type="s"></ph><ph start="38770" end="38860" type="t"></ph><ph start="38860" end="38980" type="r"></ph><ph start="38980" end="39130" type="i:"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>The<n pronunciation="The" /></t> <t>French<n pronunciation="French" start="40570" end="41210" /></t> <t>language<n pronunciation="language" start="41240" end="41780" /></t> <t>was<n pronunciation="was" start="41780" end="42080" /></t> <t>introduced<n pronunciation="introduced" start="42080" end="42970" /></t> <t>to<n pronunciation="to" start="42900" end="43080" /></t> <t>Laos<n pronunciation="Laos" start="43080" end="43520" /></t> <t>in<n pronunciation="in" start="43520" end="43840" /></t> <t>the<n pronunciation="the" /></t> <t>19th<n pronunciation="nineteenth" start="43990" end="44490" /></t> <t>century<n pronunciation="century" start="44520" end="45220" /></t> <t>when<n pronunciation="when" start="45370" end="45790" /></t> <t>French<n pronunciation="French" start="45790" end="46220" /></t> <t>explorers<n pronunciation="explorers" start="46220" end="47130" /></t> <t>arrived<n pronunciation="arrived" start="47130" end="47650" /></t> <t>in<n pronunciation="in" start="47650" end="47770" /></t> <t>Laos<n pronunciation="Laos" /></t> <t>trying<n pronunciation="trying" start="48360" end="48620" /></t> <t>to<n pronunciation="to" start="48620" end="48740" /></t> <t>make<n pronunciation="make" start="48740" end="49110" /></t> <t>inroads<n pronunciation="inroads" start="49100" end="49640" /></t> <t>into<n pronunciation="into" start="49640" end="49990" /></t> <t>China<n pronunciation="China" start="50000" end="50630" /></t> <t>after<n pronunciation="after" start="50810" end="51140" /></t> <t>colonizing<n pronunciation="colonizing" start="51140" end="51930" /></t> <t>Vietnam<n pronunciation="Vietnam" start="51930" end="52710" /></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>French<n pronunciation="French" start="53780" end="54320" /></t> <t>did<n pronunciation="did" /></t> <t>not<n pronunciation="not" start="54500" end="54790" /></t> <t>pay<n pronunciation="pay" start="54890" end="55170" /></t> <t>much<n pronunciation="much" start="55170" end="55410" /></t> <t>attention<n pronunciation="attention" start="55410" end="56010" /></t> <t>to<n pronunciation="to" start="56010" end="56160" /></t> <t>the<n pronunciation="the" start="56160" end="56240" /></t> <t>kingdom<n pronunciation="kingdom" start="56240" end="56760" /></t> <t>of<n pronunciation="of" start="56760" end="56980" /></t> <t>Lan<n pronunciation="Lan" start="56980" end="57320" /></t> <t>Xang<n pronunciation="Xang" start="57320" end="57860" /></t> <t>but<n pronunciation="but" start="58030" end="58360" /></t> <t>established<n pronunciation="established" start="58360" end="59120" /></t> <t>a<n pronunciation="a" start="59120" end="59230" /></t> <t>counsulate<n pronunciation="counsulate" start="59230" end="59990" /></t> <t>in<n pronunciation="in" start="60020" end="60210" /></t> <t>present-day<n pronunciation="present" start="60210" end="60650" /><n pronunciation="day" start="60650" end="60940" /></t> <t>Luang<n pronunciation="Luang" start="61000" end="61390" /></t> <t>Prabang<n pronunciation="Prabang" start="61470" end="62100" /></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored> <s><t>The<n pronunciation="The" /></t> <t>actual<n pronunciation="actual" start="63650" end="64280" /></t> <t>catalysts<n pronunciation="catalysts" start="64340" end="65250" /></t> <t>for<n pronunciation="for" start="65250" end="65420" /></t> <t>the<n pronunciation="the" start="65420" end="65480" /></t> <t>establishment<n pronunciation="establishment" start="65480" end="66440" /></t> <t>of<n pronunciation="of" start="66640" end="66960" /></t> <t>colonial<n pronunciation="colonial" start="66960" end="67600" /></t> <t>protectorate<n pronunciation="protectorate" start="67600" end="68530" /></t> <t>over<n pronunciation="over" start="68530" end="68870" /></t> <t>Lao<n pronunciation="Lao" start="68870" end="69180" /></t> <t>cultural<n pronunciation="cultural" start="69180" end="69680" /></t> <t>regions<n pronunciation="regions" start="69680" end="70110" /></t> <t>were<n pronunciation="were" /></t> <t>French<n pronunciation="French" start="70270" end="70830" /></t> <t>fears<n pronunciation="fears" start="70830" end="71330" /></t> <t>of<n pronunciation="of" start="71520" end="71690" /></t> <t>economic<n pronunciation="economic" start="71780" end="72430" /></t> <t>and<n pronunciation="and" start="72470" end="72780" /></t> <t>political<n pronunciation="political" start="72780" end="73250" /></t> <t>competition<n pronunciation="competition" start="73250" end="73900" /></t> <t>from<n pronunciation="from" start="73900" end="74100" /></t> <t>Britain<n pronunciation="Britain" start="74100" end="74600" /></t><t>.</t></s><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored> <s><t>By<n pronunciation="By" /></t> <t>the<n pronunciation="the" /></t> <t>1890s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="eight" /><n pronunciation="hundred" /><n pronunciation="nineties" start="76500" end="77270" /></t><t>,</t> <t>border<n pronunciation="border" start="77540" end="77910" /></t> <t>disputes<n pronunciation="disputes" start="77910" end="78470" /></t> <t>with<n pronunciation="with" /></t> <t>Siam<n pronunciation="Siam" start="78640" end="79160" /></t> <t>and<n pronunciation="and" start="79160" end="79360" /></t> <t>France<n pronunciation="France" start="79360" end="80060" /></t> <t>led<n pronunciation="led" start="80290" end="80570" /></t> <t>to<n pronunciation="to" start="80570" end="80710" /></t> <t>the<n pronunciation="the" start="80710" end="80830" /></t> <t>Franco-Siamese<n pronunciation="Franco" start="80830" end="81340" /><n pronunciation="Siamese" start="81340" end="81980" /></t> <t>War<n pronunciation="War" start="81980" end="82350" /></t> <t>and<n pronunciation="and" start="82520" end="82720" /></t> <t>the<n pronunciation="the" start="82720" end="82820" /></t> <t>borders<n pronunciation="borders" start="82820" end="83320" /></t> <t>of<n pronunciation="of" start="83320" end="83470" /></t> <t>Laos<n pronunciation="Laos" start="83460" end="83880" /></t> <t>and<n pronunciation="and" start="83880" end="84090" /></t> <t>Siam<n pronunciation="Siam" start="84130" end="84830" /></t> <t>were<n pronunciation="were" start="85020" end="85220" /></t> <t>established<n pronunciation="established" start="85220" end="86070" /></t> <t>in<n pronunciation="in" start="86070" end="86240" /></t> <t>favor<n pronunciation="favor" start="86240" end="86670" /></t> <t>of<n pronunciation="of" start="86670" end="86940" /></t> <t>France<n pronunciation="France" start="86940" end="87550" /></t> <t>and<n pronunciation="and" start="87610" end="87870" /></t> <t>Laos<n pronunciation="Laos" /></t> <t>became<n pronunciation="became" start="88220" end="88720" /></t> <t>a<n pronunciation="a" /></t> <t>French<n pronunciation="French" start="88900" end="89390" /></t> <t>protectorate<n pronunciation="protectorate" start="89390" end="90200" /></t><t>.</t></s><ignored><s><t>[</t><t>4<n pronunciation="four" /></t><t>]</t></s></ignored> <s><t>Unlike<n pronunciation="Unlike" start="91240" end="91800" /></t> <t>in<n pronunciation="in" start="91800" end="91970" /></t> <t>Vietnam<n pronunciation="Vietnam" start="91970" end="92680" /></t><t>,</t> <t>the<n pronunciation="the" start="92880" end="92990" /></t> <t>French<n pronunciation="French" start="92990" end="93480" /></t> <t>did<n pronunciation="did" start="93480" end="93630" /></t> <t>not<n pronunciation="not" start="93630" end="93830" /></t> <t>pursue<n pronunciation="pursue" start="93870" end="94430" /></t> <t>to<n pronunciation="to" start="94430" end="94620" /></t> <t>fully<n pronunciation="fully" start="94620" end="94980" /></t> <t>exert<n pronunciation="exert" start="94980" end="95520" /></t> <t>their<n pronunciation="their" /></t> <t>influence<n pronunciation="influence" /></t> <t>in<n pronunciation="in" start="96350" end="96380" /></t> <t>Laos<n pronunciation="Laos" start="96380" end="96500" /></t> <t>and<n pronunciation="and" start="96960" end="97260" /></t> <t>it<n pronunciation="it" start="97260" end="97410" /></t> <t>was<n pronunciation="was" start="97410" end="97470" /></t> <t>not<n pronunciation="not" start="97470" end="97630" /></t> <t>until<n pronunciation="until" start="97630" end="97880" /></t> <t>the<n pronunciation="the" start="97880" end="98170" /></t> <t>1900s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" start="98170" end="98280" /><n pronunciation="hundreds" start="98560" end="98840" /></t> <t>that<n pronunciation="that" start="99560" end="99660" /></t> <t>French<n pronunciation="French" start="99660" end="99920" /></t> <t>began<n pronunciation="began" start="99920" end="100510" /></t> <t>to<n pronunciation="to" start="100510" end="100850" /></t> <t>be<n pronunciation="be" start="100850" end="100940" /></t> <t>introduced<n pronunciation="introduced" start="100940" end="101150" /></t> <t>into<n pronunciation="into" start="101150" end="101830" /></t> <t>schools<n pronunciation="schools" start="101830" end="102130" /></t> <t>in<n pronunciation="in" start="102130" end="102640" /></t> <t>Laos<n pronunciation="Laos" start="102640" end="102770" /></t><t>,</t> <t>but<n pronunciation="but" /></t> <t>it<n pronunciation="it" /></t> <t>was<n pronunciation="was" start="103740" end="103930" /></t> <t>mostly<n pronunciation="mostly" start="103930" end="104530" /></t> <t>limited<n pronunciation="limited" start="104530" end="104940" /></t> <t>to<n pronunciation="to" start="104940" end="105080" /></t> <t>Vientiane<n pronunciation="Vientiane" start="105080" end="105800" /></t><t>.</t></s> <s><t>However<n pronunciation="However" start="106660" end="107350"><ph start="106690" end="106750" type="h"></ph><ph start="106750" end="106920" type="aU"></ph><ph start="106920" end="107050" type="E"></ph><ph start="107050" end="107130" type="v"></ph><ph start="107130" end="107320" type="6"></ph></n></t><t>,</t> <t>French<n pronunciation="French" start="107680" end="108280"><ph start="107860" end="107900" type="f"></ph><ph start="107900" end="107930" type="r"></ph><ph start="107930" end="108020" type="E"></ph><ph start="108020" end="108110" type="n"></ph><ph start="108110" end="108150" type="T"></ph><ph start="108150" end="108270" type="S"></ph></n></t> <t>rule<n pronunciation="rule" start="108280" end="108750"><ph start="108430" end="108500" type="r"></ph><ph start="108500" end="108530" type="u"></ph><ph start="108530" end="108770" type="l"></ph></n></t> <t>finally<n pronunciation="finally" start="108870" end="109290"><ph start="108920" end="108960" type="f"></ph><ph start="108960" end="109130" type="aI"></ph><ph start="109130" end="109160" type="n"></ph><ph start="109160" end="109190" type="V"></ph><ph start="109190" end="109250" type="l"></ph><ph start="109250" end="109310" type="i:"></ph></n></t> <t>gained<n pronunciation="gained" start="109350" end="109780"><ph start="109310" end="109420" type="g"></ph><ph start="109420" end="109490" type="eI"></ph><ph start="109490" end="109710" type="n"></ph><ph start="109710" end="109900" type="d"></ph></n></t> <t>firmer<n pronunciation="firmer" start="109780" end="110270"><ph start="109900" end="109980" type="f"></ph><ph start="109980" end="110140" type="3`"></ph><ph start="110140" end="110180" type="m"></ph><ph start="110180" end="110250" type="3`"></ph></n></t> <t>ground<n pronunciation="ground" start="110270" end="110820"><ph start="110250" end="110340" type="g"></ph><ph start="110340" end="110450" type="r"></ph><ph start="110450" end="110510" type="aU"></ph><ph start="110510" end="110720" type="n"></ph><ph start="110720" end="110780" type="d"></ph></n></t> <t>and<n pronunciation="and" start="111160" end="111400"><ph start="111200" end="111290" type="{"></ph><ph start="111290" end="111380" type="n"></ph><ph start="111380" end="111430" type="d"></ph></n></t> <t>French<n pronunciation="French" start="111400" end="111900"><ph start="111430" end="111560" type="f"></ph><ph start="111560" end="111630" type="r"></ph><ph start="111630" end="111680" type="E"></ph><ph start="111680" end="111760" type="n"></ph><ph start="111760" end="111790" type="T"></ph><ph start="111790" end="111960" type="S"></ph></n></t> <t>soon<n pronunciation="soon"><ph start="111960" end="112010" type="s"></ph><ph start="112010" end="112170" type="u"></ph><ph start="112170" end="112220" type="n"></ph></n></t> <t>became<n pronunciation="became" start="112210" end="112610"><ph start="112220" end="112270" type="b"></ph><ph start="112270" end="112310" type="I"></ph><ph start="112310" end="112440" type="k"></ph><ph start="112440" end="112520" type="eI"></ph><ph start="112520" end="112580" type="m"></ph></n></t> <t>the<n pronunciation="the" start="112610" end="112700"><ph start="112580" end="112660" type="D"></ph><ph start="112660" end="112700" type="V"></ph></n></t> <t>primary<n pronunciation="primary" start="112700" end="113380"><ph start="112900" end="112970" type="p"></ph><ph start="112970" end="113020" type="r"></ph><ph start="113020" end="113140" type="aI"></ph><ph start="113140" end="113170" type="m"></ph><ph start="113170" end="113200" type="E"></ph><ph start="113200" end="113330" type="r"></ph><ph start="113330" end="113370" type="i:"></ph></n></t> <t>language<n pronunciation="language" start="113380" end="113770"><ph start="113370" end="113520" type="l"></ph><ph start="113520" end="113550" type="{"></ph><ph start="113550" end="113580" type="N"></ph><ph start="113580" end="113670" type="w"></ph><ph start="113670" end="113710" type="I"></ph><ph start="113710" end="113790" type="dZ"></ph></n></t> <t>of<n pronunciation="of" start="113770" end="113970"><ph start="113790" end="113840" type="V"></ph><ph start="113840" end="113920" type="v"></ph></n></t> <t>government<n pronunciation="government" start="113970" end="114480"><ph start="113920" end="114030" type="g"></ph><ph start="114030" end="114120" type="V"></ph><ph start="114120" end="114160" type="v"></ph><ph start="114160" end="114200" type="3`"></ph><ph start="114200" end="114230" type="n"></ph><ph start="114230" end="114260" type="m"></ph><ph start="114260" end="114290" type="V"></ph><ph start="114290" end="114400" type="n"></ph><ph start="114400" end="114460" type="t"></ph></n></t> <t>and<n pronunciation="and" start="114650" end="114860"><ph start="114720" end="114810" type="{"></ph><ph start="114810" end="114850" type="n"></ph></n></t> <t>education<n pronunciation="education" start="114860" end="115620"><ph start="114850" end="114950" type="E"></ph><ph start="114950" end="115020" type="dZ"></ph><ph start="115020" end="115050" type="V"></ph><ph start="115050" end="115180" type="k"></ph><ph start="115180" end="115340" type="eI"></ph><ph start="115340" end="115480" type="S"></ph><ph start="115480" end="115510" type="V"></ph><ph start="115510" end="115540" type="n"></ph></n></t> <t>and<n pronunciation="and" start="115870" end="116080"><ph start="115940" end="116000" type="{"></ph><ph start="116000" end="116070" type="n"></ph></n></t> <t>the<n pronunciation="the" start="116080" end="116170"><ph start="116070" end="116100" type="D"></ph><ph start="116100" end="116150" type="V"></ph></n></t> <t>language<n pronunciation="language" start="116170" end="116560"><ph start="116150" end="116210" type="l"></ph><ph start="116210" end="116310" type="{"></ph><ph start="116310" end="116350" type="N"></ph><ph start="116350" end="116480" type="w"></ph><ph start="116480" end="116510" type="I"></ph><ph start="116510" end="116750" type="dZ"></ph></n></t> <t>spread<n pronunciation="spread" start="116560" end="117210"><ph start="116830" end="116860" type="p"></ph><ph start="116860" end="116950" type="r"></ph><ph start="116950" end="117020" type="E"></ph><ph start="117020" end="117080" type="d"></ph></n></t> <t>into<n pronunciation="into" start="117350" end="117680"><ph start="117320" end="117410" type="?"></ph><ph start="117410" end="117440" type="I"></ph><ph start="117440" end="117530" type="n"></ph><ph start="117530" end="117600" type="t"></ph><ph start="117600" end="117670" type="u"></ph></n></t> <t>southern<n pronunciation="southern" start="117680" end="118140"><ph start="117670" end="117860" type="s"></ph><ph start="117860" end="117930" type="V"></ph><ph start="117930" end="117980" type="D"></ph><ph start="117980" end="118020" type="3`"></ph><ph start="118020" end="118050" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="118140" end="118610"><ph start="118050" end="118080" type="l"></ph><ph start="118080" end="118350" type="A:"></ph><ph start="118350" end="118420" type="@U"></ph><ph start="118420" end="118620" type="s"></ph></n></t> <t>following<n pronunciation="following" start="119000" end="119450"><ph start="119030" end="119090" type="f"></ph><ph start="119090" end="119140" type="A:"></ph><ph start="119140" end="119220" type="l"></ph><ph start="119220" end="119290" type="@U"></ph><ph start="119290" end="119350" type="I"></ph><ph start="119350" end="119460" type="N"></ph></n></t> <t>the<n pronunciation="the" start="119450" end="119550"><ph start="119460" end="119490" type="D"></ph><ph start="119490" end="119520" type="V"></ph></n></t> <t>founding<n pronunciation="founding" start="119550" end="120010"><ph start="119520" end="119640" type="f"></ph><ph start="119640" end="119800" type="aU"></ph><ph start="119800" end="119860" type="n"></ph><ph start="119860" end="119930" type="I"></ph><ph start="119930" end="120090" type="N"></ph></n></t> <t>of<n pronunciation="of" start="120010" end="120150"><ph start="120290" end="120380" type="V"></ph><ph start="120380" end="120410" type="v"></ph></n></t> <t>Pakse<n pronunciation="Pakse" start="120150" end="120620"><ph start="120540" end="120630" type="p"></ph><ph start="120630" end="120790" type="{"></ph><ph start="120790" end="120820" type="k"></ph><ph start="120820" end="120850" type="s"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>French<n pronunciation="French" start="122620" end="123110" /></t> <t>language<n pronunciation="language" start="123110" end="123710" /></t> <t>peaked<n pronunciation="peaked" start="123900" end="124320" /></t> <t>between<n pronunciation="between" start="124320" end="124750" /></t> <t>the<n pronunciation="the" start="124750" end="124860" /></t> <t>1910s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="tens" start="125370" end="126050" /></t> <t>and<n pronunciation="and" start="126350" end="126600" /></t> <t>World<n pronunciation="World" start="126600" end="126880" /></t> <t>War<n pronunciation="War" start="126880" end="127110" /></t> <t>II<n pronunciation="II" start="127200" end="127230" /></t> <t>and<n pronunciation="and" start="127780" end="128000" /></t> <t>spread<n pronunciation="spread" start="128000" end="128400" /></t> <t>throughout<n pronunciation="throughout" start="128400" end="128690" /></t> <t>the<n pronunciation="the" start="128790" end="128930" /></t> <t>nation<n pronunciation="nation" start="128930" end="129470" /></t> <t>but<n pronunciation="but" start="129640" end="130040" /></t><t>,</t> <t>like<n pronunciation="like" start="130040" end="130450" /></t> <t>Vietnam<n pronunciation="Vietnam" start="130450" end="131090" /></t><t>,</t> <t>was<n pronunciation="was" start="131160" end="131470" /></t> <t>not<n pronunciation="not" start="131470" end="131840" /></t> <t>widely<n pronunciation="widely" start="131840" end="132380" /></t> <t>spoken<n pronunciation="spoken" start="132380" end="133110" /></t> <t>in<n pronunciation="in" start="133100" end="133490" /></t> <t>most<n pronunciation="most" /></t> <t>rural<n pronunciation="rural" start="133580" end="134040" /></t> <t>areas<n pronunciation="areas" start="134040" end="134780" /></t><t>.</t></s> <s><t>French<n pronunciation="French" start="134880" end="136360"><ph start="135910" end="135990" type="f"></ph><ph start="135990" end="136090" type="r"></ph><ph start="136090" end="136120" type="E"></ph><ph start="136120" end="136210" type="n"></ph><ph start="136210" end="136240" type="T"></ph><ph start="136240" end="136320" type="S"></ph></n></t> <t>eventually<n pronunciation="eventually" start="136430" end="136890"><ph start="136320" end="136390" type="?"></ph><ph start="136390" end="136430" type="i:"></ph><ph start="136430" end="136500" type="v"></ph><ph start="136500" end="136570" type="E"></ph><ph start="136570" end="136660" type="n"></ph><ph start="136660" end="136690" type="T"></ph><ph start="136690" end="136790" type="S"></ph><ph start="136790" end="136820" type="V"></ph><ph start="136820" end="136850" type="w"></ph><ph start="136850" end="136880" type="V"></ph><ph start="136880" end="136910" type="l"></ph><ph start="136910" end="136940" type="I"></ph></n></t> <t>became<n pronunciation="became" start="136910" end="137390"><ph start="136940" end="136990" type="b"></ph><ph start="136990" end="137030" type="I"></ph><ph start="137030" end="137140" type="k"></ph><ph start="137140" end="137300" type="eI"></ph><ph start="137300" end="137330" type="m"></ph></n></t> <t>the<n pronunciation="the"><ph start="137390" end="137490" type="D"></ph><ph start="137490" end="137550" type="V"></ph></n></t> <t>language<n pronunciation="language" start="137570" end="138030"><ph start="137550" end="137670" type="l"></ph><ph start="137670" end="137710" type="{"></ph><ph start="137710" end="137740" type="N"></ph><ph start="137740" end="137900" type="w"></ph><ph start="137900" end="137960" type="I"></ph><ph start="137960" end="138060" type="dZ"></ph></n></t> <t>of<n pronunciation="of" start="138030" end="138340"><ph start="138060" end="138120" type="?"></ph><ph start="138120" end="138190" type="V"></ph><ph start="138190" end="138250" type="v"></ph></n></t> <t>government<n pronunciation="government" start="138340" end="138750"><ph start="138250" end="138410" type="g"></ph><ph start="138410" end="138500" type="V"></ph><ph start="138500" end="138560" type="v"></ph><ph start="138560" end="138610" type="3`"></ph><ph start="138610" end="138650" type="n"></ph><ph start="138650" end="138680" type="m"></ph><ph start="138680" end="138710" type="V"></ph><ph start="138710" end="138780" type="n"></ph></n></t> <t>officials<n pronunciation="officials" start="138750" end="139330"><ph start="138860" end="138890" type="V"></ph><ph start="138890" end="138920" type="f"></ph><ph start="138920" end="138960" type="I"></ph><ph start="138960" end="139100" type="S"></ph><ph start="139100" end="139130" type="V"></ph><ph start="139130" end="139270" type="l"></ph><ph start="139270" end="139340" type="z"></ph></n></t> <t>and<n pronunciation="and" start="139330" end="139790"><ph start="139340" end="139750" type="?"></ph><ph start="139750" end="139780" type="I"></ph><ph start="139780" end="139810" type="n"></ph></n></t> <t>the<n pronunciation="the"><ph start="139810" end="139840" type="D"></ph><ph start="139840" end="139870" type="V"></ph></n></t> <t>elite<n pronunciation="elite" start="139790" end="140350"><ph start="139870" end="139900" type="I"></ph><ph start="139900" end="140020" type="l"></ph><ph start="140020" end="140130" type="i:"></ph><ph start="140130" end="140350" type="t"></ph></n></t><t>.</t></s> <s><t>When<n pronunciation="When" start="140540" end="141170"><ph start="140840" end="140880" type="h"></ph><ph start="140880" end="140980" type="w"></ph><ph start="140980" end="141070" type="I"></ph><ph start="141070" end="141170" type="n"></ph></n></t> <t>Japan<n pronunciation="Japan" start="141170" end="141690"><ph start="141170" end="141270" type="dZ"></ph><ph start="141270" end="141360" type="V"></ph><ph start="141360" end="141490" type="p"></ph><ph start="141490" end="141610" type="{"></ph><ph start="141610" end="141685" type="n"></ph></n></t> <t>invaded<n pronunciation="invaded" start="141690" end="142300"><ph start="141685" end="141730" type="I"></ph><ph start="141730" end="141850" type="n"></ph><ph start="141850" end="141880" type="v"></ph><ph start="141880" end="142080" type="eI"></ph><ph start="142080" end="142130" type="d"></ph><ph start="142130" end="142190" type="I"></ph><ph start="142190" end="142270" type="d"></ph></n></t> <t>Laos<n pronunciation="Laos" start="142300" end="142910"><ph start="142270" end="142420" type="l"></ph><ph start="142420" end="142550" type="A:"></ph><ph start="142550" end="142700" type="@U"></ph><ph start="142700" end="142920" type="s"></ph></n></t> <t>in<n pronunciation="in" start="143090" end="143310"><ph start="143140" end="143170" type="I"></ph><ph start="143170" end="143210" type="n"></ph></n></t> <t>World<n pronunciation="World" start="143310" end="143680"><ph start="143210" end="143380" type="w"></ph><ph start="143380" end="143420" type="3`"></ph><ph start="143420" end="143600" type="l"></ph><ph start="143600" end="143640" type="d"></ph></n></t> <t>War<n pronunciation="War" start="143680" end="143920"><ph start="143640" end="143750" type="w"></ph><ph start="143750" end="143900" type="O:"></ph><ph start="143900" end="143950" type="r"></ph></n></t> <t>II<n pronunciation="II" start="144040" end="144100"><ph start="144100" end="144150" type="i:"></ph><ph start="144150" end="144310" type="i:"></ph></n></t><t>,</t> <t>French<n pronunciation="French" start="144670" end="145240"><ph start="144840" end="144900" type="f"></ph><ph start="144900" end="144980" type="r"></ph><ph start="144980" end="145020" type="E"></ph><ph start="145020" end="145100" type="n"></ph><ph start="145100" end="145130" type="T"></ph><ph start="145130" end="145245" type="S"></ph></n></t> <t>remained<n pronunciation="remained" start="145240" end="145690"><ph start="145245" end="145300" type="r"></ph><ph start="145300" end="145380" type="6"></ph><ph start="145380" end="145410" type="m"></ph><ph start="145410" end="145520" type="eI"></ph><ph start="145520" end="145640" type="n"></ph><ph start="145640" end="145690" type="d"></ph></n></t> <t>in<n pronunciation="in"><ph start="145690" end="145770" type="I"></ph><ph start="145770" end="145960" type="n"></ph></n></t> <t>the<n pronunciation="the"><ph start="145960" end="145990" type="D"></ph><ph start="145990" end="146020" type="V"></ph></n></t> <t>educational<n pronunciation="educational" start="145970" end="146690"><ph start="146020" end="146060" type="E"></ph><ph start="146060" end="146160" type="dZ"></ph><ph start="146160" end="146190" type="V"></ph><ph start="146190" end="146330" type="k"></ph><ph start="146330" end="146450" type="eI"></ph><ph start="146450" end="146570" type="S"></ph><ph start="146570" end="146610" type="V"></ph><ph start="146610" end="146640" type="n"></ph><ph start="146640" end="146670" type="V"></ph><ph start="146670" end="146700" type="l"></ph></n></t> <t>system<n pronunciation="system" start="146690" end="147280"><ph start="146700" end="146840" type="s"></ph><ph start="146840" end="146920" type="I"></ph><ph start="146920" end="146990" type="s"></ph><ph start="146990" end="147070" type="t"></ph><ph start="147070" end="147150" type="V"></ph><ph start="147150" end="147210" type="m"></ph></n></t><t>,</t> <t>unlike<n pronunciation="unlike" start="147370" end="147990"><ph start="147530" end="147570" type="V"></ph><ph start="147570" end="147600" type="n"></ph><ph start="147600" end="147730" type="l"></ph><ph start="147730" end="147940" type="aI"></ph><ph start="147940" end="148015" type="k"></ph></n></t> <t>in<n pronunciation="in" start="147990" end="148210"><ph start="148015" end="148250" type="?"></ph><ph start="148250" end="148280" type="I"></ph><ph start="148280" end="148380" type="n"></ph></n></t> <t>Vietnam<n pronunciation="Vietnam" start="148210" end="148880"><ph start="148380" end="148410" type="v"></ph><ph start="148410" end="148470" type="i:"></ph><ph start="148470" end="148700" type="E"></ph><ph start="148700" end="148730" type="t"></ph><ph start="148730" end="148760" type="n"></ph><ph start="148760" end="148820" type="A:"></ph><ph start="148820" end="148850" type="m"></ph></n></t><t>,</t> <t>where<n pronunciation="where" start="149030" end="149450"><ph start="149100" end="149190" type="w"></ph><ph start="149190" end="149380" type="E"></ph><ph start="149380" end="149480" type="r"></ph></n></t> <t>Vietnamese<n pronunciation="Vietnamese" start="149450" end="150190"><ph start="149480" end="149520" type="v"></ph><ph start="149520" end="149630" type="i:"></ph><ph start="149630" end="149710" type="E"></ph><ph start="149710" end="149740" type="t"></ph><ph start="149740" end="149780" type="n"></ph><ph start="149780" end="149840" type="A:"></ph><ph start="149840" end="149880" type="m"></ph><ph start="149880" end="150140" type="i:"></ph><ph start="150140" end="150180" type="s"></ph></n></t> <t>became<n pronunciation="became" start="150190" end="150630"><ph start="150180" end="150250" type="b"></ph><ph start="150250" end="150310" type="I"></ph><ph start="150310" end="150450" type="k"></ph><ph start="150450" end="150620" type="eI"></ph><ph start="150620" end="150660" type="m"></ph></n></t> <t>the<n pronunciation="the" start="150630" end="150740"><ph start="150660" end="150690" type="D"></ph><ph start="150690" end="150730" type="V"></ph></n></t> <t>sole<n pronunciation="sole" start="150740" end="151070"><ph start="150730" end="150880" type="s"></ph><ph start="150880" end="150940" type="@U"></ph><ph start="150940" end="150990" type="l"></ph></n></t> <t>language<n pronunciation="language" start="151070" end="151440"><ph start="150990" end="151160" type="l"></ph><ph start="151160" end="151190" type="{"></ph><ph start="151190" end="151230" type="N"></ph><ph start="151230" end="151340" type="w"></ph><ph start="151340" end="151370" type="I"></ph><ph start="151370" end="151460" type="dZ"></ph></n></t> <t>of<n pronunciation="of"><ph start="151460" end="151490" type="V"></ph><ph start="151490" end="151560" type="v"></ph></n></t> <t>education<n pronunciation="education" start="151560" end="152240"><ph start="151560" end="151650" type="E"></ph><ph start="151650" end="151720" type="dZ"></ph><ph start="151720" end="151750" type="V"></ph><ph start="151750" end="151870" type="k"></ph><ph start="151870" end="152020" type="eI"></ph><ph start="152020" end="152130" type="S"></ph><ph start="152130" end="152160" type="V"></ph><ph start="152160" end="152200" type="n"></ph></n></t><t>,</t> <t>but<n pronunciation="but" start="152740" end="153140"><ph start="152790" end="152920" type="b"></ph><ph start="152920" end="153020" type="V"></ph><ph start="153020" end="153050" type="t"></ph></n></t> <t>the<n pronunciation="the" start="153140" end="153310"><ph start="153050" end="153220" type="D"></ph><ph start="153220" end="153280" type="V"></ph></n></t> <t>Lao<n pronunciation="Lao" start="153310" end="153640"><ph start="153280" end="153390" type="l"></ph><ph start="153390" end="153590" type="aU"></ph></n></t> <t>language<n pronunciation="language" start="153640" end="154120"><ph start="153590" end="153730" type="l"></ph><ph start="153730" end="153800" type="{"></ph><ph start="153800" end="153830" type="N"></ph><ph start="153830" end="154010" type="w"></ph><ph start="154010" end="154070" type="I"></ph><ph start="154070" end="154130" type="dZ"></ph></n></t> <t>was<n pronunciation="was" start="154120" end="154370"><ph start="154130" end="154220" type="w"></ph><ph start="154220" end="154280" type="A:"></ph><ph start="154280" end="154350" type="z"></ph></n></t> <t>briefly<n pronunciation="briefly" start="154450" end="155070"><ph start="154470" end="154520" type="b"></ph><ph start="154520" end="154600" type="r"></ph><ph start="154600" end="154750" type="i:"></ph><ph start="154750" end="154840" type="f"></ph><ph start="154840" end="154920" type="l"></ph><ph start="154920" end="155020" type="i:"></ph></n></t> <t>used<n pronunciation="used" start="155070" end="155590"><ph start="155020" end="155260" type="j"></ph><ph start="155260" end="155420" type="u"></ph><ph start="155420" end="155500" type="z"></ph><ph start="155500" end="155580" type="d"></ph></n></t> <t>in<n pronunciation="in" start="155620" end="155920"><ph start="155690" end="155750" type="I"></ph><ph start="155750" end="155810" type="n"></ph></n></t> <t>the<n pronunciation="the"><ph start="155890" end="155920" type="D"></ph><ph start="155920" end="155950" type="V"></ph></n></t> <t>government<n pronunciation="government" start="155990" end="156660"><ph start="155950" end="156150" type="g"></ph><ph start="156150" end="156210" type="V"></ph><ph start="156210" end="156240" type="v"></ph><ph start="156240" end="156280" type="3`"></ph><ph start="156280" end="156350" type="n"></ph><ph start="156350" end="156380" type="m"></ph><ph start="156380" end="156420" type="V"></ph><ph start="156420" end="156560" type="n"></ph><ph start="156560" end="156710" type="t"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s></ignored> <s><t>French<n pronunciation="French" start="157720" end="158360"><ph start="157920" end="157990" type="f"></ph><ph start="157990" end="158070" type="r"></ph><ph start="158070" end="158100" type="E"></ph><ph start="158100" end="158230" type="n"></ph><ph start="158230" end="158260" type="T"></ph><ph start="158260" end="158350" type="S"></ph></n></t> <t>returned<n pronunciation="returned" start="158360" end="158890"><ph start="158400" end="158470" type="r"></ph><ph start="158470" end="158510" type="I"></ph><ph start="158510" end="158660" type="t"></ph><ph start="158660" end="158780" type="3`"></ph><ph start="158780" end="158810" type="n"></ph><ph start="158810" end="158920" type="d"></ph></n></t> <t>as<n pronunciation="as"><ph start="158920" end="159120" type="V"></ph><ph start="159120" end="159180" type="s"></ph></n></t> <t>the<n pronunciation="the" start="159150" end="159300"><ph start="159180" end="159240" type="D"></ph><ph start="159240" end="159300" type="V"></ph></n></t> <t>sole<n pronunciation="sole" start="159300" end="159850"><ph start="159300" end="159540" type="s"></ph><ph start="159540" end="159670" type="@U"></ph><ph start="159670" end="159840" type="l"></ph></n></t> <t>political<n pronunciation="political" start="159850" end="160420"><ph start="159970" end="160060" type="p"></ph><ph start="160060" end="160100" type="V"></ph><ph start="160100" end="160130" type="l"></ph><ph start="160130" end="160160" type="I"></ph><ph start="160160" end="160210" type="t"></ph><ph start="160210" end="160240" type="I"></ph><ph start="160240" end="160340" type="k"></ph><ph start="160340" end="160370" type="V"></ph><ph start="160370" end="160460" type="l"></ph></n></t> <t>language<n pronunciation="language" start="160420" end="160940"><ph start="160460" end="160520" type="l"></ph><ph start="160520" end="160550" type="{"></ph><ph start="160550" end="160590" type="N"></ph><ph start="160590" end="160770" type="w"></ph><ph start="160770" end="160820" type="I"></ph><ph start="160820" end="160980" type="dZ"></ph></n></t> <t>after<n pronunciation="after" start="161150" end="161510"><ph start="161200" end="161290" type="{"></ph><ph start="161290" end="161360" type="f"></ph><ph start="161360" end="161430" type="t"></ph><ph start="161430" end="161510" type="3`"></ph></n></t> <t>France<n pronunciation="France" start="161510" end="162010"><ph start="161610" end="161690" type="f"></ph><ph start="161690" end="161780" type="r"></ph><ph start="161780" end="161810" type="{"></ph><ph start="161810" end="161890" type="n"></ph><ph start="161890" end="161970" type="s"></ph></n></t> <t>resumed<n pronunciation="resumed" start="162010" end="162500"><ph start="162050" end="162080" type="r"></ph><ph start="162080" end="162110" type="I"></ph><ph start="162110" end="162240" type="z"></ph><ph start="162240" end="162420" type="u"></ph><ph start="162420" end="162450" type="m"></ph><ph start="162450" end="162510" type="d"></ph></n></t> <t>its<n pronunciation="its"><ph start="162510" end="162630" type="I"></ph><ph start="162630" end="162690" type="t"></ph></n></t> <t>rule<n pronunciation="rule" start="162750" end="163190"><ph start="162820" end="162920" type="r"></ph><ph start="162920" end="162950" type="u"></ph><ph start="162950" end="163180" type="l"></ph></n></t> <t>of<n pronunciation="of" start="163190" end="163330"><ph start="163180" end="163280" type="V"></ph><ph start="163280" end="163330" type="v"></ph></n></t> <t>Laos<n pronunciation="Laos" start="163330" end="163850"><ph start="163330" end="163430" type="l"></ph><ph start="163430" end="163460" type="A:"></ph><ph start="163460" end="163710" type="@U"></ph><ph start="163710" end="163850" type="s"></ph></n></t> <t>and<n pronunciation="and" start="163980" end="164380"><ph start="164130" end="164250" type="{"></ph><ph start="164250" end="164300" type="n"></ph></n></t> <t>was<n pronunciation="was" start="164380" end="164560"><ph start="164300" end="164370" type="w"></ph><ph start="164370" end="164480" type="A:"></ph><ph start="164480" end="164560" type="z"></ph></n></t> <t>co-official<n pronunciation="company" start="164560" end="165080"><ph start="164560" end="164750" type="k"></ph><ph start="164750" end="164800" type="V"></ph><ph start="164800" end="164830" type="m"></ph><ph start="164830" end="164860" type="p"></ph><ph start="164860" end="164910" type="V"></ph><ph start="164910" end="164940" type="n"></ph><ph start="164940" end="164990" type="I"></ph></n><n pronunciation="official" start="165080" end="165540"><ph start="164990" end="165040" type="V"></ph><ph start="165040" end="165190" type="f"></ph><ph start="165190" end="165240" type="I"></ph><ph start="165240" end="165380" type="S"></ph><ph start="165380" end="165410" type="V"></ph><ph start="165410" end="165470" type="l"></ph></n></t> <t>with<n pronunciation="with" start="165540" end="165780"><ph start="165470" end="165640" type="w"></ph><ph start="165640" end="165690" type="I"></ph><ph start="165690" end="165780" type="T"></ph></n></t> <t>Lao<n pronunciation="Lao" start="165780" end="166300"><ph start="165780" end="166000" type="l"></ph><ph start="166000" end="166500" type="aU"></ph></n></t> <t>when<n pronunciation="when" start="166690" end="167160"><ph start="166880" end="166940" type="w"></ph><ph start="166940" end="167060" type="E"></ph><ph start="167060" end="167110" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos"><ph start="167110" end="167240" type="l"></ph><ph start="167240" end="167320" type="A:"></ph><ph start="167320" end="167480" type="@U"></ph><ph start="167480" end="167550" type="s"></ph></n></t> <t>was<n pronunciation="was" start="167390" end="167550"><ph start="167550" end="167600" type="w"></ph><ph start="167600" end="167660" type="A:"></ph><ph start="167660" end="167720" type="z"></ph></n></t> <t>granted<n pronunciation="granted" start="167710" end="168380"><ph start="167720" end="167820" type="g"></ph><ph start="167820" end="167910" type="r"></ph><ph start="167910" end="167950" type="{"></ph><ph start="167950" end="168070" type="n"></ph><ph start="168070" end="168170" type="t"></ph><ph start="168170" end="168260" type="I"></ph><ph start="168260" end="168380" type="d"></ph></n></t> <t>self-rule<n pronunciation="self" start="168430" end="169020"><ph start="168500" end="168640" type="s"></ph><ph start="168640" end="168740" type="E"></ph><ph start="168740" end="168840" type="l"></ph><ph start="168840" end="168870" type="f"></ph></n><n pronunciation="rule" start="169020" end="169390"><ph start="169070" end="169200" type="r"></ph><ph start="169200" end="169230" type="u"></ph><ph start="169230" end="169390" type="l"></ph></n></t> <t>in<n pronunciation="in" start="169390" end="169580"><ph start="169390" end="169440" type="I"></ph><ph start="169440" end="169720" type="n"></ph></n></t> <t>1949<n pronunciation="nineteen" start="169580" end="170210"><ph start="169720" end="169780" type="n"></ph><ph start="169780" end="169890" type="aI"></ph><ph start="169890" end="169970" type="n"></ph><ph start="169970" end="170050" type="t"></ph><ph start="170050" end="170130" type="i:"></ph><ph start="170130" end="170200" type="n"></ph></n><n pronunciation="forty" start="170210" end="170680"><ph start="170260" end="170330" type="f"></ph><ph start="170330" end="170470" type="O:"></ph><ph start="170470" end="170500" type="r"></ph><ph start="170500" end="170620" type="t"></ph><ph start="170620" end="170680" type="i:"></ph></n><n pronunciation="nine" start="170680" end="171140"><ph start="170740" end="170780" type="n"></ph><ph start="170780" end="170960" type="aI"></ph><ph start="170960" end="171060" type="n"></ph></n></t><t>,</t> <t>but<n pronunciation="but" start="171440" end="171680"><ph start="171480" end="171520" type="b"></ph><ph start="171520" end="171630" type="V"></ph><ph start="171630" end="171660" type="t"></ph></n></t> <t>Lao<n pronunciation="Lao" start="171680" end="172020"><ph start="171660" end="171780" type="l"></ph><ph start="171780" end="172060" type="aU"></ph></n></t> <t>became<n pronunciation="became" start="172020" end="172490"><ph start="172060" end="172110" type="b"></ph><ph start="172110" end="172170" type="I"></ph><ph start="172170" end="172290" type="k"></ph><ph start="172290" end="172420" type="eI"></ph><ph start="172420" end="172530" type="m"></ph></n></t> <t>the<n pronunciation="the" start="172490" end="172610"><ph start="172530" end="172560" type="D"></ph><ph start="172560" end="172610" type="V"></ph></n></t> <t>sole<n pronunciation="sole" start="172610" end="173220"><ph start="172610" end="172840" type="s"></ph><ph start="172840" end="173060" type="@U"></ph><ph start="173060" end="173190" type="l"></ph></n></t> <t>official<n pronunciation="official" start="173220" end="173890"><ph start="173190" end="173480" type="?"></ph><ph start="173480" end="173510" type="V"></ph><ph start="173510" end="173540" type="f"></ph><ph start="173540" end="173570" type="I"></ph><ph start="173570" end="173710" type="S"></ph><ph start="173710" end="173740" type="V"></ph><ph start="173740" end="173915" type="l"></ph></n></t> <t>language<n pronunciation="language" start="173890" end="174680"><ph start="173915" end="173980" type="l"></ph><ph start="173980" end="174020" type="{"></ph><ph start="174020" end="174110" type="N"></ph><ph start="174110" end="174290" type="w"></ph><ph start="174290" end="174370" type="I"></ph><ph start="174370" end="174670" type="dZ"></ph></n></t> <t>after<n pronunciation="after" start="175040" end="175390"><ph start="175090" end="175190" type="{"></ph><ph start="175190" end="175260" type="f"></ph><ph start="175260" end="175340" type="t"></ph><ph start="175340" end="175380" type="3`"></ph></n></t> <t>independence<n pronunciation="independence" start="175390" end="176190"><ph start="175380" end="175410" type="I"></ph><ph start="175410" end="175570" type="n"></ph><ph start="175570" end="175620" type="d"></ph><ph start="175620" end="175700" type="I"></ph><ph start="175700" end="175810" type="p"></ph><ph start="175810" end="175860" type="E"></ph><ph start="175860" end="175930" type="n"></ph><ph start="175930" end="175960" type="d"></ph><ph start="175960" end="175990" type="V"></ph><ph start="175990" end="176100" type="n"></ph><ph start="176100" end="176180" type="s"></ph></n></t> <t>in<n pronunciation="in" start="176190" end="176400"><ph start="176180" end="176270" type="?"></ph><ph start="176270" end="176300" type="I"></ph><ph start="176300" end="176450" type="n"></ph></n></t> <t>1953<n pronunciation="nineteen" start="176400" end="176870"><ph start="176450" end="176490" type="n"></ph><ph start="176490" end="176590" type="aI"></ph><ph start="176590" end="176650" type="n"></ph><ph start="176650" end="176750" type="t"></ph><ph start="176750" end="176800" type="i:"></ph><ph start="176800" end="176850" type="n"></ph></n><n pronunciation="fifty" start="176870" end="177280"><ph start="176940" end="176970" type="f"></ph><ph start="176970" end="177070" type="I"></ph><ph start="177070" end="177100" type="f"></ph><ph start="177100" end="177180" type="t"></ph><ph start="177180" end="177270" type="i:"></ph></n><n pronunciation="three" start="177370" end="177740"><ph start="177370" end="177410" type="T"></ph><ph start="177410" end="177510" type="r"></ph><ph start="177510" end="177640" type="i:"></ph></n></t><t>.</t></s></p>
+<p><s><t>The<n pronunciation="The" /></t> <t>French<n pronunciation="French" start="178880" end="179530" /></t> <t>language's<n pronunciation="language's" start="179570" end="180210" /></t> <t>decline<n pronunciation="decline" start="180210" end="180860" /></t> <t>was<n pronunciation="was" start="180860" end="181020" /></t> <t>slower<n pronunciation="slower" start="181020" end="181680" /></t> <t>and<n pronunciation="and" start="181680" end="181840" /></t> <t>occurred<n pronunciation="occurred" start="181840" end="182300" /></t> <t>later<n pronunciation="later" start="182300" end="182820" /></t> <t>than<n pronunciation="than" start="182820" end="183200" /></t> <t>in<n pronunciation="in" /></t> <t>Vietnam<n pronunciation="Vietnam" start="183220" end="183780" /></t> <t>and<n pronunciation="and" start="183780" end="184040" /></t> <t>Cambodia<n pronunciation="Cambodia" start="184040" end="184860" /></t> <t>in<n pronunciation="in" start="185220" end="185470" /></t> <t>Laos<n pronunciation="Laos" start="185470" end="185890" /></t> <t>as<n pronunciation="as" start="185890" end="186190" /></t> <t>the<n pronunciation="the" start="186190" end="186310" /></t> <t>monarchy<n pronunciation="monarchy" start="186310" end="186830" /></t> <t>of<n pronunciation="of" start="186830" end="187010" /></t> <t>Laos<n pronunciation="Laos" start="187010" end="187430" /></t> <t>had<n pronunciation="had" start="187490" end="187710" /></t> <t>close<n pronunciation="close" start="187840" end="188310" /></t> <t>political<n pronunciation="political" start="188310" end="188970" /></t> <t>relations<n pronunciation="relations" start="188970" end="189680" /></t> <t>with<n pronunciation="with" start="189680" end="189890" /></t> <t>France<n pronunciation="France" start="189890" end="190600" /></t><t>.</t></s> <s><t>At<n pronunciation="At" start="191630" end="192010"><ph start="191360" end="191390" type="{"></ph><ph start="191390" end="191650" type="?"></ph></n></t> <t>the<n pronunciation="the"><ph start="191740" end="191770" type="D"></ph><ph start="191770" end="191870" type="V"></ph></n></t> <t>eve<n pronunciation="eve" start="192290" end="192790"><ph start="192350" end="192740" type="i:"></ph><ph start="192740" end="192830" type="v"></ph></n></t> <t>of<n pronunciation="of" start="192790" end="192870"><ph start="192990" end="193140" type="?"></ph><ph start="193140" end="193180" type="V"></ph><ph start="193180" end="193210" type="v"></ph></n></t> <t>the<n pronunciation="the" start="192980" end="193200"><ph start="193310" end="193350" type="D"></ph><ph start="193350" end="193400" type="V"></ph></n></t> <t>Vietnam<n pronunciation="Vietnam" start="193380" end="193920"><ph start="193400" end="193450" type="v"></ph><ph start="193450" end="193560" type="i:"></ph><ph start="193560" end="193650" type="E"></ph><ph start="193650" end="193700" type="t"></ph><ph start="193700" end="193790" type="n"></ph><ph start="193790" end="193890" type="A:"></ph><ph start="193890" end="193920" type="m"></ph></n></t> <t>War<n pronunciation="War" start="193920" end="194330"><ph start="193920" end="193990" type="w"></ph><ph start="193990" end="194240" type="O:"></ph><ph start="194240" end="194270" type="r"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="194490" end="194690"><ph start="194540" end="194630" type="D"></ph><ph start="194630" end="194680" type="V"></ph></n></t> <t>Secret<n pronunciation="Secret" start="194690" end="195390"><ph start="194680" end="194930" type="s"></ph><ph start="194930" end="195050" type="i:"></ph><ph start="195050" end="195170" type="k"></ph><ph start="195170" end="195230" type="r"></ph><ph start="195230" end="195260" type="I"></ph><ph start="195260" end="195340" type="t"></ph></n></t> <t>War<n pronunciation="War" start="195390" end="195750"><ph start="195340" end="195480" type="w"></ph><ph start="195480" end="195720" type="O:"></ph><ph start="195720" end="195750" type="r"></ph></n></t> <t>was<n pronunciation="was" start="195750" end="196010"><ph start="195750" end="195880" type="w"></ph><ph start="195880" end="195920" type="A:"></ph><ph start="195920" end="196010" type="z"></ph></n></t> <t>beginning<n pronunciation="beginning" start="196010" end="196480"><ph start="196010" end="196070" type="b"></ph><ph start="196070" end="196110" type="I"></ph><ph start="196110" end="196260" type="g"></ph><ph start="196260" end="196290" type="I"></ph><ph start="196290" end="196330" type="n"></ph><ph start="196330" end="196360" type="I"></ph><ph start="196360" end="196520" type="N"></ph></n></t> <t>in<n pronunciation="in" start="196480" end="196650"><ph start="196520" end="196580" type="I"></ph><ph start="196580" end="196630" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="196650" end="197300"><ph start="196630" end="196800" type="l"></ph><ph start="196800" end="196970" type="A:"></ph><ph start="196970" end="197130" type="@U"></ph><ph start="197130" end="197290" type="s"></ph></n></t> <t>as<n pronunciation="as" start="197460" end="197790"><ph start="197620" end="197730" type="V"></ph><ph start="197730" end="197780" type="s"></ph></n></t> <t>political<n pronunciation="political" start="197790" end="198270"><ph start="197840" end="197940" type="p"></ph><ph start="197940" end="197970" type="V"></ph><ph start="197970" end="198000" type="l"></ph><ph start="198000" end="198030" type="I"></ph><ph start="198030" end="198060" type="t"></ph><ph start="198060" end="198090" type="I"></ph><ph start="198090" end="198180" type="k"></ph><ph start="198180" end="198210" type="V"></ph><ph start="198210" end="198250" type="l"></ph></n></t> <t>factions<n pronunciation="factions" start="198270" end="198850"><ph start="198250" end="198400" type="f"></ph><ph start="198400" end="198570" type="{"></ph><ph start="198570" end="198600" type="k"></ph><ph start="198600" end="198710" type="S"></ph><ph start="198710" end="198750" type="V"></ph><ph start="198750" end="198810" type="n"></ph><ph start="198810" end="198860" type="z"></ph></n></t> <t>between<n pronunciation="between" start="198850" end="199190"><ph start="198860" end="198890" type="b"></ph><ph start="198890" end="198930" type="i:"></ph><ph start="198930" end="199050" type="t"></ph><ph start="199050" end="199080" type="w"></ph><ph start="199080" end="199150" type="i:"></ph><ph start="199150" end="199200" type="n"></ph></n></t> <t>communist<n pronunciation="communist" start="199190" end="199830"><ph start="199200" end="199310" type="k"></ph><ph start="199310" end="199460" type="A:"></ph><ph start="199460" end="199490" type="m"></ph><ph start="199490" end="199520" type="j"></ph><ph start="199520" end="199550" type="V"></ph><ph start="199550" end="199580" type="n"></ph><ph start="199580" end="199610" type="V"></ph><ph start="199610" end="199710" type="s"></ph><ph start="199710" end="199900" type="t"></ph></n></t> <t>Pathet<n pronunciation="Pathet" start="199980" end="200450"><ph start="200020" end="200090" type="p"></ph><ph start="200090" end="200180" type="V"></ph><ph start="200180" end="200280" type="T"></ph><ph start="200280" end="200360" type="E"></ph><ph start="200360" end="200420" type="t"></ph></n></t> <t>Lao<n pronunciation="Lao" start="200450" end="200890"><ph start="200420" end="200630" type="l"></ph><ph start="200630" end="200870" type="aU"></ph></n></t> <t>and<n pronunciation="and"><ph start="201130" end="201170" type="{"></ph><ph start="201170" end="201240" type="n"></ph></n></t> <t>the<n pronunciation="the" start="201060" end="201330"><ph start="201240" end="201280" type="D"></ph><ph start="201280" end="201310" type="V"></ph></n></t> <t>government<n pronunciation="government" start="201330" end="201870"><ph start="201310" end="201430" type="g"></ph><ph start="201430" end="201520" type="V"></ph><ph start="201520" end="201570" type="v"></ph><ph start="201570" end="201620" type="3`"></ph><ph start="201620" end="201650" type="n"></ph><ph start="201650" end="201680" type="m"></ph><ph start="201680" end="201710" type="V"></ph><ph start="201710" end="201790" type="n"></ph><ph start="201790" end="201840" type="t"></ph></n></t> <t>occurred<n pronunciation="occurred" start="201900" end="202520"><ph start="201930" end="201960" type="V"></ph><ph start="201960" end="202160" type="k"></ph><ph start="202160" end="202470" type="3`"></ph><ph start="202470" end="202550" type="d"></ph></n></t><t>.</t></s> <s><t>Pathet<n pronunciation="Pathet" start="203230" end="203740"><ph start="203250" end="203320" type="p"></ph><ph start="203320" end="203390" type="V"></ph><ph start="203390" end="203500" type="T"></ph><ph start="203500" end="203600" type="E"></ph><ph start="203600" end="203720" type="?"></ph></n></t> <t>Lao<n pronunciation="Lao" start="203740" end="204090"><ph start="203720" end="203850" type="l"></ph><ph start="203850" end="204100" type="aU"></ph></n></t> <t>held<n pronunciation="held" start="204090" end="204490"><ph start="204100" end="204240" type="h-"></ph><ph start="204240" end="204290" type="E"></ph><ph start="204290" end="204430" type="l"></ph><ph start="204430" end="204470" type="d"></ph></n></t> <t>areas<n pronunciation="areas" start="204490" end="205090"><ph start="204470" end="204580" type="E"></ph><ph start="204580" end="204690" type="r"></ph><ph start="204690" end="204870" type="i:"></ph><ph start="204870" end="204910" type="V"></ph><ph start="204910" end="205080" type="z"></ph></n></t> <t>used<n pronunciation="used" start="205090" end="205620"><ph start="205140" end="205250" type="j"></ph><ph start="205250" end="205410" type="u"></ph><ph start="205410" end="205480" type="z"></ph><ph start="205480" end="205620" type="d"></ph></n></t> <t>Lao<n pronunciation="Lao" start="205620" end="205990"><ph start="205620" end="205740" type="l"></ph><ph start="205740" end="206050" type="aU"></ph></n></t> <t>as<n pronunciation="as"><ph start="206050" end="206270" type="?"></ph><ph start="206270" end="206300" type="V"></ph></n></t> <t>their<n pronunciation="their"><ph start="206300" end="206360" type="D"></ph><ph start="206360" end="206420" type="E"></ph><ph start="206420" end="206450" type="r"></ph></n></t> <t>sole<n pronunciation="sole" start="206460" end="206930"><ph start="206450" end="206660" type="s"></ph><ph start="206660" end="206730" type="@U"></ph><ph start="206730" end="206810" type="l"></ph></n></t> <t>language<n pronunciation="language" start="206930" end="207440"><ph start="206810" end="207030" type="l"></ph><ph start="207030" end="207070" type="{"></ph><ph start="207070" end="207120" type="N"></ph><ph start="207120" end="207290" type="w"></ph><ph start="207290" end="207320" type="I"></ph><ph start="207320" end="207480" type="dZ"></ph></n></t> <t>and<n pronunciation="and" start="207580" end="207930"><ph start="207740" end="207820" type="{"></ph><ph start="207820" end="207890" type="n"></ph></n></t> <t>following<n pronunciation="following" start="207930" end="208340"><ph start="207950" end="207980" type="f"></ph><ph start="207980" end="208050" type="A:"></ph><ph start="208050" end="208130" type="l"></ph><ph start="208130" end="208190" type="@U"></ph><ph start="208190" end="208240" type="I"></ph><ph start="208240" end="208490" type="N"></ph></n></t> <t>the<n pronunciation="the" start="208340" end="208520"><ph start="208490" end="208540" type="D"></ph><ph start="208540" end="208570" type="V"></ph></n></t> <t>end<n pronunciation="end" start="208520" end="208930"><ph start="208570" end="208660" type="E"></ph><ph start="208660" end="208830" type="n"></ph><ph start="208830" end="208900" type="d"></ph></n></t> <t>of<n pronunciation="of" start="208930" end="209070"><ph start="208900" end="208990" type="?"></ph><ph start="208990" end="209070" type="V"></ph><ph start="209070" end="209100" type="v"></ph></n></t> <t>the<n pronunciation="the" start="209070" end="209190"><ph start="209100" end="209130" type="D"></ph><ph start="209130" end="209210" type="V"></ph></n></t> <t>Vietnam<n pronunciation="Vietnam" start="209190" end="209670"><ph start="209210" end="209240" type="v"></ph><ph start="209240" end="209360" type="i:"></ph><ph start="209360" end="209400" type="E"></ph><ph start="209400" end="209430" type="t"></ph><ph start="209430" end="209460" type="n"></ph><ph start="209460" end="209650" type="A:"></ph><ph start="209650" end="209680" type="m"></ph></n></t> <t>War<n pronunciation="War" start="209670" end="209940"><ph start="209680" end="209730" type="w"></ph><ph start="209730" end="209910" type="O:"></ph><ph start="209910" end="209940" type="r"></ph></n></t><t>,</t> <t>French<n pronunciation="French" start="210130" end="210900"><ph start="210430" end="210480" type="f"></ph><ph start="210480" end="210590" type="r"></ph><ph start="210590" end="210630" type="E"></ph><ph start="210630" end="210720" type="n"></ph><ph start="210720" end="210750" type="T"></ph><ph start="210750" end="210820" type="S"></ph></n></t> <t>began<n pronunciation="began" start="210900" end="211330"><ph start="210910" end="210950" type="b"></ph><ph start="210950" end="211040" type="I"></ph><ph start="211040" end="211120" type="g"></ph><ph start="211120" end="211270" type="{"></ph><ph start="211270" end="211420" type="n"></ph></n></t> <t>its<n pronunciation="its"><ph start="211420" end="211490" type="I"></ph><ph start="211490" end="211530" type="t"></ph></n></t> <t>sharp<n pronunciation="sharp" start="211560" end="212090"><ph start="211530" end="211780" type="S"></ph><ph start="211780" end="212020" type="A:"></ph><ph start="212020" end="212050" type="r"></ph><ph start="212050" end="212080" type="p"></ph></n></t> <t>decline<n pronunciation="decline" start="212160" end="212840"><ph start="212170" end="212210" type="d"></ph><ph start="212210" end="212280" type="I"></ph><ph start="212280" end="212420" type="k"></ph><ph start="212420" end="212470" type="l"></ph><ph start="212470" end="212630" type="aI"></ph><ph start="212630" end="212890" type="n"></ph></n></t> <t>in<n pronunciation="in" start="212840" end="213050"><ph start="212890" end="212930" type="I"></ph><ph start="212930" end="213010" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="213050" end="213650"><ph start="213010" end="213190" type="l"></ph><ph start="213190" end="213300" type="A:"></ph><ph start="213300" end="213400" type="@U"></ph><ph start="213400" end="213630" type="s"></ph></n></t><t>.</t></s> <s><t>Additionally<n pronunciation="Additionally" start="214370" end="215290"><ph start="214400" end="214480" type="V"></ph><ph start="214480" end="214610" type="d"></ph><ph start="214610" end="214660" type="I"></ph><ph start="214660" end="214870" type="S"></ph><ph start="214870" end="214950" type="n"></ph><ph start="214950" end="214980" type="V"></ph><ph start="214980" end="215130" type="l"></ph><ph start="215130" end="215190" type="i:"></ph></n></t><t>,</t> <t>many<n pronunciation="many" start="215550" end="215910"><ph start="215640" end="215690" type="m"></ph><ph start="215690" end="215760" type="E"></ph><ph start="215760" end="215800" type="n"></ph><ph start="215800" end="215950" type="i:"></ph></n></t> <t>elite<n pronunciation="elite" start="215910" end="216460"><ph start="215950" end="215980" type="I"></ph><ph start="215980" end="216180" type="l"></ph><ph start="216180" end="216350" type="i:"></ph><ph start="216350" end="216500" type="t"></ph></n></t> <t>and<n pronunciation="and"><ph start="216500" end="216550" type="{"></ph><ph start="216550" end="216670" type="n"></ph><ph start="216670" end="216730" type="d"></ph></n></t> <t>French-educated<n pronunciation="French" start="216680" end="217250"><ph start="216860" end="216920" type="f"></ph><ph start="216920" end="216990" type="r"></ph><ph start="216990" end="217030" type="E"></ph><ph start="217030" end="217120" type="n"></ph><ph start="217120" end="217150" type="T"></ph><ph start="217150" end="217200" type="S"></ph></n><n pronunciation="educated" start="217280" end="218000"><ph start="217200" end="217340" type="?"></ph><ph start="217340" end="217400" type="E"></ph><ph start="217400" end="217510" type="dZ"></ph><ph start="217510" end="217540" type="j"></ph><ph start="217540" end="217580" type="u"></ph><ph start="217580" end="217680" type="k"></ph><ph start="217680" end="217780" type="eI"></ph><ph start="217780" end="217880" type="t"></ph><ph start="217880" end="217920" type="I"></ph><ph start="217920" end="217990" type="d"></ph></n></t> <t>Lao<n pronunciation="Lao" start="218000" end="218540"><ph start="217990" end="218160" type="l"></ph><ph start="218160" end="218500" type="aU"></ph></n></t> <t>immigrated<n pronunciation="immigrated" start="218660" end="219280"><ph start="218720" end="218770" type="I"></ph><ph start="218770" end="218830" type="m"></ph><ph start="218830" end="218890" type="V"></ph><ph start="218890" end="218920" type="g"></ph><ph start="218920" end="219010" type="r"></ph><ph start="219010" end="219130" type="eI"></ph><ph start="219130" end="219180" type="t"></ph><ph start="219180" end="219230" type="I"></ph><ph start="219230" end="219260" type="d"></ph></n></t> <t>to<n pronunciation="to" start="219280" end="219430"><ph start="219260" end="219390" type="t"></ph><ph start="219390" end="219430" type="u"></ph></n></t> <t>nations<n pronunciation="nations" start="219430" end="220200"><ph start="219430" end="219530" type="n"></ph><ph start="219530" end="219710" type="eI"></ph><ph start="219710" end="219860" type="S"></ph><ph start="219860" end="219890" type="V"></ph><ph start="219890" end="220000" type="n"></ph><ph start="220000" end="220070" type="z"></ph></n></t> <t>such<n pronunciation="such"><ph start="220070" end="220210" type="s"></ph><ph start="220210" end="220340" type="V"></ph><ph start="220340" end="220380" type="T"></ph><ph start="220380" end="220470" type="S"></ph></n></t> <t>as<n pronunciation="as"><ph start="220470" end="220600" type="V"></ph><ph start="220600" end="220640" type="s"></ph></n></t> <t>the<n pronunciation="the" start="220620" end="220730"><ph start="220640" end="220680" type="D"></ph><ph start="220680" end="220710" type="V"></ph></n></t> <t>United<n pronunciation="United" start="220730" end="221170"><ph start="220710" end="220790" type="j"></ph><ph start="220790" end="220820" type="u"></ph><ph start="220820" end="220870" type="n"></ph><ph start="220870" end="221010" type="aI"></ph><ph start="221010" end="221090" type="t"></ph><ph start="221090" end="221180" type="I"></ph></n></t> <t>States<n pronunciation="States" start="221170" end="221570"><ph start="221180" end="221260" type="s"></ph><ph start="221260" end="221320" type="t"></ph><ph start="221320" end="221480" type="eI"></ph><ph start="221480" end="221510" type="t"></ph><ph start="221510" end="221570" type="s"></ph></n></t> <t>and<n pronunciation="and" start="221570" end="221690"><ph start="221570" end="221680" type="n="></ph></n></t> <t>France<n pronunciation="France" start="221700" end="222300"><ph start="221810" end="221840" type="f"></ph><ph start="221840" end="221950" type="r"></ph><ph start="221950" end="221980" type="{"></ph><ph start="221980" end="222200" type="n"></ph><ph start="222200" end="222330" type="s"></ph></n></t> <t>to<n pronunciation="to" start="222530" end="222740"><ph start="222540" end="222690" type="t"></ph><ph start="222690" end="222730" type="u"></ph></n></t> <t>escape<n pronunciation="escape" start="222740" end="223260"><ph start="222730" end="222780" type="I"></ph><ph start="222780" end="222960" type="s"></ph><ph start="222960" end="223020" type="k"></ph><ph start="223020" end="223170" type="eI"></ph><ph start="223170" end="223200" type="p"></ph></n></t> <t>government<n pronunciation="government" start="223260" end="223980"><ph start="223200" end="223460" type="g"></ph><ph start="223460" end="223570" type="V"></ph><ph start="223570" end="223600" type="v"></ph><ph start="223600" end="223640" type="3`"></ph><ph start="223640" end="223690" type="n"></ph><ph start="223690" end="223720" type="m"></ph><ph start="223720" end="223750" type="V"></ph><ph start="223750" end="223880" type="n"></ph></n></t> <t>persecution<n pronunciation="persecution" start="223980" end="224870"><ph start="223970" end="224040" type="p"></ph><ph start="224040" end="224160" type="3`"></ph><ph start="224160" end="224280" type="s"></ph><ph start="224280" end="224310" type="V"></ph><ph start="224310" end="224460" type="k"></ph><ph start="224460" end="224490" type="j"></ph><ph start="224490" end="224550" type="u"></ph><ph start="224550" end="224690" type="S"></ph><ph start="224690" end="224720" type="V"></ph><ph start="224720" end="224800" type="n"></ph></n></t><t>.</t></s> <s><t>With<n pronunciation="With" start="225410" end="225480" /></t> <t>the<n pronunciation="the" start="225480" end="225600" /></t> <t>end<n pronunciation="end" start="225850" end="225920" /></t> <t>of<n pronunciation="of" start="225920" end="226380" /></t> <t>isolationism<n pronunciation="isolationism" start="226380" end="226590" /></t> <t>in<n pronunciation="in" start="227900" end="228010" /></t> <t>the<n pronunciation="the" start="228010" end="228190" /></t> <t>early<n pronunciation="early" start="228190" end="228320" /></t> <t>1990s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="nineties" start="228890" end="228980" /></t> <t>however<n pronunciation="however" start="228980" end="229640" /></t><t>,</t> <t>the<n pronunciation="the" start="229640" end="229670" /></t> <t>French<n pronunciation="French" start="230520" end="231030" /></t> <t>language<n pronunciation="language" start="231030" end="231530" /></t> <t>rebounded<n pronunciation="rebounded" start="231530" end="232310" /></t><t>,</t> <t>thanks<n pronunciation="thanks" start="232650" end="232990" /></t> <t>to<n pronunciation="to" start="232990" end="233160" /></t> <t>the<n pronunciation="the" start="233160" end="233250" /></t> <t>establishment<n pronunciation="establishment" start="233250" end="234050" /></t> <t>of<n pronunciation="of" start="234050" end="234250" /></t> <t>French<n pronunciation="French" start="234250" end="234750" /></t><t>,</t> <t>Swiss<n pronunciation="Swiss" start="234780" end="235360" /></t> <t>and<n pronunciation="and" start="235390" end="235620" /></t> <t>Canadian<n pronunciation="Canadian" start="235620" end="236390" /></t> <t>relations<n pronunciation="relations" start="236390" end="237130" /></t> <t>and<n pronunciation="and" /></t> <t>opening<n pronunciation="opening" start="237670" end="238110" /></t> <t>of<n pronunciation="of" start="238110" end="238390" /></t> <t>French-language<n pronunciation="French" start="238390" end="238870" /><n pronunciation="language" start="238900" end="239380" /></t> <t>centers<n pronunciation="centers" start="239380" end="239940" /></t> <t>in<n pronunciation="in" start="239940" end="240220" /></t> <t>central<n pronunciation="central" start="240220" end="240740" /></t> <t>Laos<n pronunciation="Laos" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored> <s><t>Today<n pronunciation="Today" start="241610" end="242260" /></t><t>,</t> <t>French<n pronunciation="French" start="242700" end="243190" /></t> <t>has<n pronunciation="has" start="243190" end="243420" /></t> <t>a<n pronunciation="a" start="243420" end="243510" /></t> <t>healthier<n pronunciation="healthier" start="243510" end="244130" /></t> <t>status<n pronunciation="status" start="244130" end="244690" /></t> <t>in<n pronunciation="in" start="244690" end="244900" /></t> <t>Laos<n pronunciation="Laos" start="244900" end="245620" /></t> <t>than<n pronunciation="than" start="245730" end="246690" /></t> <t>the<n pronunciation="the" /></t> <t>other<n pronunciation="other" start="246750" end="247010" /></t> <t>Francophone<n pronunciation="Francophone" start="247010" end="247670" /></t> <t>nations<n pronunciation="nations" start="247670" end="248110" /></t> <t>of<n pronunciation="of" start="248110" end="248290" /></t> <t>Asia<n pronunciation="Asia" start="248290" end="248770" /></t> <t>and<n pronunciation="and" start="248960" end="249100" /></t> <t>about<n pronunciation="about" start="249100" end="249410" /></t> <t>35<n pronunciation="thirty" start="249410" end="249890" /><n pronunciation="five" start="249890" end="250200" /></t><t>%<n pronunciation="per" /><n pronunciation="cent" start="250340" end="250670" /></t> <t>of<n pronunciation="of" /></t> <t>all<n pronunciation="all" start="251020" end="251350" /></t> <t>students<n pronunciation="students" start="251350" end="251850" /></t> <t>in<n pronunciation="in" start="251850" end="252070" /></t> <t>Laos<n pronunciation="Laos" start="252070" end="252520" /></t> <t>receive<n pronunciation="receive" start="252810" end="253180" /></t> <t>their<n pronunciation="their" /></t> <t>education<n pronunciation="education" start="253310" end="254060" /></t> <t>in<n pronunciation="in" start="254060" end="254240" /></t> <t>French<n pronunciation="French" start="254240" end="254940" /></t><t>,</t> <t>with<n pronunciation="with" start="255040" end="255240" /></t> <t>the<n pronunciation="the" start="255240" end="255360" /></t> <t>language<n pronunciation="language" start="255360" end="256050" /></t> <t>a<n pronunciation="a" /></t> <t>required<n pronunciation="required" start="256250" end="256810" /></t> <t>course<n pronunciation="course" start="256850" end="257410" /></t> <t>in<n pronunciation="in" start="257410" end="257890" /></t> <t>many<n pronunciation="many" /></t> <t>schools<n pronunciation="schools" start="257950" end="258660" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored> <s><t>French<n pronunciation="French" start="259020" end="259590"><ph start="259060" end="259250" type="f"></ph><ph start="259250" end="259340" type="r"></ph><ph start="259340" end="259380" type="E"></ph><ph start="259380" end="259480" type="n"></ph><ph start="259480" end="259510" type="T"></ph><ph start="259510" end="259625" type="S"></ph></n></t> <t>is<n pronunciation="is" start="259590" end="259790"><ph start="259625" end="259720" type="I"></ph><ph start="259720" end="259790" type="z"></ph></n></t> <t>also<n pronunciation="also" start="259790" end="260100"><ph start="259790" end="259910" type="O:"></ph><ph start="259910" end="259980" type="l"></ph><ph start="259980" end="260070" type="s"></ph><ph start="260070" end="260100" type="@"></ph></n></t> <t>used<n pronunciation="used" start="260100" end="260530"><ph start="260100" end="260330" type="j"></ph><ph start="260330" end="260410" type="u"></ph><ph start="260410" end="260460" type="z"></ph><ph start="260460" end="260510" type="d"></ph></n></t> <t>in<n pronunciation="in" start="260530" end="260690"><ph start="260510" end="260620" type="I"></ph><ph start="260620" end="260700" type="n"></ph></n></t> <t>public<n pronunciation="public" start="260690" end="261200"><ph start="260700" end="260810" type="p"></ph><ph start="260810" end="260870" type="V"></ph><ph start="260870" end="260930" type="b"></ph><ph start="260930" end="261020" type="l"></ph><ph start="261020" end="261070" type="I"></ph><ph start="261070" end="261130" type="k"></ph></n></t> <t>works<n pronunciation="works" start="261200" end="261670"><ph start="261250" end="261430" type="w"></ph><ph start="261430" end="261530" type="3`"></ph><ph start="261530" end="261590" type="k"></ph><ph start="261590" end="261695" type="s"></ph></n></t> <t>in<n pronunciation="in" start="261670" end="261840"><ph start="261695" end="261760" type="I"></ph><ph start="261760" end="261840" type="n"></ph></n></t> <t>central<n pronunciation="central" start="261840" end="262410"><ph start="261840" end="261990" type="s"></ph><ph start="261990" end="262130" type="E"></ph><ph start="262130" end="262170" type="n"></ph><ph start="262170" end="262240" type="t"></ph><ph start="262240" end="262270" type="r"></ph><ph start="262270" end="262300" type="V"></ph><ph start="262300" end="262410" type="l"></ph></n></t> <t>and<n pronunciation="and" start="262410" end="262570"><ph start="262410" end="262470" type="{"></ph><ph start="262470" end="262550" type="n"></ph></n></t> <t>southern<n pronunciation="southern" start="262570" end="262930"><ph start="262550" end="262700" type="s"></ph><ph start="262700" end="262810" type="V"></ph><ph start="262810" end="262840" type="D"></ph><ph start="262840" end="262900" type="3`"></ph><ph start="262900" end="262935" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos"><ph start="262935" end="263050" type="l"></ph><ph start="263050" end="263100" type="A:"></ph><ph start="263100" end="263270" type="@U"></ph><ph start="263270" end="263390" type="s"></ph></n></t> <t>and<n pronunciation="and" start="263570" end="263850"><ph start="263630" end="263720" type="{"></ph><ph start="263720" end="263750" type="n"></ph></n></t> <t>Luang<n pronunciation="Luang" start="263850" end="264170"><ph start="263750" end="263900" type="l"></ph><ph start="263900" end="263980" type="w"></ph><ph start="263980" end="264120" type="A:"></ph><ph start="264120" end="264220" type="N"></ph></n></t> <t>Prabang<n pronunciation="Prabang" start="264170" end="264570"><ph start="264220" end="264270" type="p"></ph><ph start="264270" end="264390" type="r"></ph><ph start="264390" end="264480" type="{"></ph><ph start="264480" end="264510" type="b"></ph><ph start="264510" end="264600" type="{"></ph><ph start="264600" end="264750" type="N"></ph></n></t> <t>and<n pronunciation="and" start="264570" end="264790"><ph start="265060" end="265190" type="{"></ph><ph start="265190" end="265290" type="n"></ph><ph start="265290" end="265360" type="d"></ph></n></t> <t>is<n pronunciation="is" start="265360" end="265560"><ph start="265360" end="265450" type="I"></ph><ph start="265450" end="265570" type="z"></ph></n></t> <t>a<n pronunciation="a"><ph start="265570" end="265650" type="V"></ph></n></t> <t>language<n pronunciation="language" start="265790" end="266190"><ph start="265650" end="265900" type="l"></ph><ph start="265900" end="265940" type="{"></ph><ph start="265940" end="265980" type="N"></ph><ph start="265980" end="266090" type="w"></ph><ph start="266090" end="266120" type="I"></ph><ph start="266120" end="266210" type="dZ"></ph></n></t> <t>of<n pronunciation="of" start="266190" end="266390"><ph start="266210" end="266350" type="V"></ph><ph start="266350" end="266390" type="v"></ph></n></t> <t>diplomacy<n pronunciation="diplomacy" start="266470" end="267300"><ph start="266490" end="266540" type="d"></ph><ph start="266540" end="266600" type="I"></ph><ph start="266600" end="266760" type="p"></ph><ph start="266760" end="266870" type="l"></ph><ph start="266870" end="266900" type="V"></ph><ph start="266900" end="266930" type="m"></ph><ph start="266930" end="266990" type="V"></ph><ph start="266990" end="267120" type="s"></ph><ph start="267120" end="267260" type="i:"></ph></n></t> <t>and<n pronunciation="and" start="267300" end="267480"><ph start="267260" end="267360" type="I"></ph><ph start="267360" end="267400" type="n"></ph></n></t> <t>of<n pronunciation="of"><ph start="267400" end="267440" type="V"></ph><ph start="267440" end="267470" type="v"></ph></n></t> <t>the<n pronunciation="the" start="267630" end="267850"><ph start="267470" end="267500" type="D"></ph><ph start="267500" end="267640" type="V"></ph></n></t> <t>elite<n pronunciation="elite" start="267850" end="268310"><ph start="267830" end="267890" type="I"></ph><ph start="267890" end="268050" type="l"></ph><ph start="268050" end="268120" type="i:"></ph><ph start="268120" end="268300" type="t"></ph></n></t> <t>classes<n pronunciation="classes" start="268310" end="268930"><ph start="268300" end="268450" type="k"></ph><ph start="268450" end="268490" type="l"></ph><ph start="268490" end="268560" type="{"></ph><ph start="268560" end="268700" type="s"></ph><ph start="268700" end="268820" type="V"></ph><ph start="268820" end="268960" type="z"></ph></n></t><t>,</t> <t>higher<n pronunciation="higher" start="269180" end="269560"><ph start="269210" end="269330" type="h"></ph><ph start="269330" end="269500" type="aI"></ph><ph start="269500" end="269580" type="3`"></ph></n></t> <t>professions<n pronunciation="professions" start="269560" end="270400"><ph start="269580" end="269680" type="p"></ph><ph start="269680" end="269740" type="r"></ph><ph start="269740" end="269770" type="V"></ph><ph start="269770" end="269840" type="f"></ph><ph start="269840" end="269930" type="E"></ph><ph start="269930" end="270100" type="S"></ph><ph start="270100" end="270130" type="V"></ph><ph start="270130" end="270300" type="n"></ph><ph start="270300" end="270390" type="z"></ph></n></t> <t>and<n pronunciation="and" start="270500" end="270830"><ph start="270550" end="270670" type="{"></ph><ph start="270670" end="270750" type="n"></ph><ph start="270750" end="270800" type="d"></ph></n></t> <t>elders<n pronunciation="elders" start="270830" end="271510"><ph start="270800" end="270960" type="E"></ph><ph start="270960" end="271100" type="l"></ph><ph start="271100" end="271170" type="d"></ph><ph start="271170" end="271220" type="3`"></ph><ph start="271220" end="271420" type="z"></ph></n></t><t>.</t></s> <s><t>However<n pronunciation="However" start="271800" end="272410" /></t><t>,</t> <t>the<n pronunciation="the" start="272800" end="273170" /></t> <t>English<n pronunciation="English" start="273170" end="273600" /></t> <t>language<n pronunciation="language" start="273600" end="274130" /></t> <t>has<n pronunciation="has" /></t> <t>continued<n pronunciation="continued" start="274310" end="274910" /></t> <t>to<n pronunciation="to" start="274910" end="275020" /></t> <t>threaten<n pronunciation="threaten" start="275230" end="275660" /></t> <t>the<n pronunciation="the" start="275660" end="275770" /></t> <t>French<n pronunciation="French" start="275770" end="276140" /></t> <t>language<n pronunciation="language" start="276140" end="276470" /></t> <t>in<n pronunciation="in" start="276470" end="276570" /></t> <t>Laos<n pronunciation="Laos" start="276570" end="277030" /></t> <t>as<n pronunciation="as" /></t> <t>it<n pronunciation="it" /></t> <t>is<n pronunciation="is" start="277460" end="277770" /></t> <t>seen<n pronunciation="seen" start="277770" end="278300" /></t> <t>as<n pronunciation="as" start="278330" end="278690" /></t> <t>the<n pronunciation="the" /></t> <t>language<n pronunciation="language" start="278790" end="279360" /></t> <t>of<n pronunciation="of" start="279360" end="279500" /></t> <t>international<n pronunciation="international" start="279500" end="280120" /></t> <t>commerce<n pronunciation="commerce" start="280120" end="280760" /></t> <t>and<n pronunciation="and" /></t> <t>some<n pronunciation="some" /></t> <t>schools<n pronunciation="schools" /></t> <t>have<n pronunciation="have" /></t> <t>also<n pronunciation="also" /></t> <t>made<n pronunciation="made" /></t> <t>English<n pronunciation="English" /></t> <t>a<n pronunciation="a" /></t> <t>mandatory<n pronunciation="mandatory" /></t> <t>subject<n pronunciation="subject" /></t><t>.</t></s> <s><t>Laos<n pronunciation="Laos" /></t> <t>is<n pronunciation="is" /></t> <t>also<n pronunciation="also" /></t> <t>a<n pronunciation="a" /></t> <t>member<n pronunciation="member" /></t> <t>of<n pronunciation="of" /></t> <t>La<n pronunciation="La" /></t> <t>Francophonie<n pronunciation="Francophonie" /></t><t>.</t></s></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>Characteristics<n pronunciation="Characteristics" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>The<n pronunciation="The" /></t> <t>French<n pronunciation="French" start="293570" end="294040" /></t> <t>spoken<n pronunciation="spoken" start="294040" end="294660" /></t> <t>in<n pronunciation="in" start="294660" end="294790" /></t> <t>Laos<n pronunciation="Laos" start="294790" end="295280" /></t> <t>is<n pronunciation="is" start="295280" end="295450" /></t> <t>based<n pronunciation="based" start="295450" end="295870" /></t> <t>on<n pronunciation="on" start="295870" end="296020" /></t> <t>standard<n pronunciation="standard" start="296020" end="296620" /></t> <t>Parisian<n pronunciation="Parisian" start="296620" end="297300" /></t> <t>French<n pronunciation="French" start="297300" end="297900" /></t> <t>but<n pronunciation="but" start="298200" end="298380" /></t> <t>has<n pronunciation="has" start="298820" end="299150" /></t> <t>some<n pronunciation="some" /></t> <t>minor<n pronunciation="minor" start="299350" end="299750" /></t> <t>differences<n pronunciation="differences" start="299750" end="300350" /></t> <t>in<n pronunciation="in" start="300350" end="300540" /></t> <t>vocabulary<n pronunciation="vocabulary" start="300540" end="301440" /></t> <t>as<n pronunciation="as" start="301670" end="301900" /></t> <t>in<n pronunciation="in" start="301900" end="301990" /></t> <t>other<n pronunciation="other" start="302050" end="302360" /></t> <t>French<n pronunciation="French" start="302360" end="302800" /></t> <t>dialects<n pronunciation="dialects" start="302800" end="303510" /></t> <t>of<n pronunciation="of" start="303510" end="303660" /></t> <t>Asia<n pronunciation="Asia" start="303660" end="304090" /></t><t>.</t></s> <s><t>Mixtures<n pronunciation="Mixtures" start="305350" end="306200"><ph start="305380" end="305460" type="m"></ph><ph start="305460" end="305610" type="I"></ph><ph start="305610" end="305720" type="k"></ph><ph start="305720" end="305790" type="s"></ph><ph start="305790" end="305830" type="T"></ph><ph start="305830" end="305910" type="S"></ph><ph start="305910" end="306040" type="3`"></ph><ph start="306040" end="306140" type="z"></ph></n></t> <t>of<n pronunciation="of" start="306200" end="306400"><ph start="306140" end="306290" type="?"></ph><ph start="306290" end="306340" type="V"></ph><ph start="306340" end="306370" type="v"></ph></n></t> <t>Lao<n pronunciation="Lao" start="306400" end="307000"><ph start="306470" end="306580" type="l"></ph><ph start="306580" end="306710" type="aU"></ph></n></t> <t>are<n pronunciation="are"><ph start="306710" end="306930" type="A:"></ph><ph start="306930" end="306960" type="r"></ph></n></t> <t>sometimes<n pronunciation="sometimes" start="307200" end="307930"><ph start="307160" end="307360" type="s"></ph><ph start="307360" end="307510" type="@"></ph><ph start="307510" end="307570" type="m"></ph><ph start="307570" end="307640" type="t"></ph><ph start="307640" end="307710" type="Q"></ph><ph start="307710" end="307770" type="m"></ph><ph start="307770" end="307900" type="z"></ph></n></t> <t>added<n pronunciation="added" start="307930" end="308390"><ph start="307960" end="308060" type="{"></ph><ph start="308060" end="308120" type="4"></ph><ph start="308120" end="308220" type="I"></ph><ph start="308220" end="308290" type="d"></ph></n></t> <t>into<n pronunciation="into" start="308390" end="308750"><ph start="308290" end="308480" type="?"></ph><ph start="308480" end="308550" type="I"></ph><ph start="308550" end="308580" type="n"></ph><ph start="308580" end="308640" type="t"></ph><ph start="308640" end="308700" type="u"></ph></n></t> <t>French<n pronunciation="French" start="308750" end="309220"><ph start="308700" end="308860" type="f"></ph><ph start="308860" end="308890" type="r"></ph><ph start="308890" end="308990" type="E"></ph><ph start="308990" end="309090" type="n"></ph><ph start="309090" end="309120" type="T"></ph><ph start="309120" end="309230" type="S"></ph></n></t><t>,</t> <t>giving<n pronunciation="giving" start="309510" end="309740"><ph start="309530" end="309590" type="g"></ph><ph start="309590" end="309630" type="I"></ph><ph start="309630" end="309690" type="v"></ph><ph start="309690" end="309730" type="I"></ph><ph start="309730" end="309780" type="N"></ph></n></t> <t>it<n pronunciation="it"><ph start="309780" end="309940" type="I"></ph><ph start="309940" end="309990" type="t"></ph></n></t> <t>a<n pronunciation="a" start="309940" end="310100"><ph start="309990" end="310030" type="V"></ph></n></t> <t>local<n pronunciation="local" start="310100" end="310580"><ph start="310030" end="310230" type="l"></ph><ph start="310230" end="310330" type="@U"></ph><ph start="310330" end="310440" type="k"></ph><ph start="310440" end="310470" type="V"></ph><ph start="310470" end="310570" type="l"></ph></n></t> <t>flavor<n pronunciation="flavor" start="310580" end="311160"><ph start="310680" end="310720" type="f"></ph><ph start="310720" end="310830" type="l"></ph><ph start="310830" end="310950" type="eI"></ph><ph start="310950" end="311020" type="v"></ph><ph start="311020" end="311120" type="3`"></ph></n></t><t>.</t></s> <s><t>Some<n pronunciation="Some" start="311880" end="311910"><ph start="311930" end="312110" type="s"></ph><ph start="312110" end="312230" type="V"></ph><ph start="312230" end="312260" type="m"></ph></n></t> <t>Lao<n pronunciation="Lao" start="312260" end="312670"><ph start="312260" end="312460" type="l"></ph><ph start="312460" end="312630" type="aU"></ph></n></t> <t>words<n pronunciation="words" start="312670" end="313160"><ph start="312630" end="312850" type="w"></ph><ph start="312850" end="313050" type="3`"></ph><ph start="313050" end="313080" type="d"></ph><ph start="313080" end="313130" type="z"></ph></n></t> <t>that<n pronunciation="that"><ph start="313130" end="313170" type="D"></ph><ph start="313170" end="313270" type="{"></ph><ph start="313270" end="313300" type="t"></ph></n></t> <t>have<n pronunciation="have"><ph start="313300" end="313360" type="h"></ph><ph start="313360" end="313420" type="eI"></ph><ph start="313420" end="313450" type="v"></ph></n></t> <t>found<n pronunciation="found" start="313420" end="313960"><ph start="313580" end="313640" type="f"></ph><ph start="313640" end="313870" type="aU"></ph><ph start="313870" end="313960" type="n"></ph></n></t> <t>their<n pronunciation="their" start="313960" end="314190"><ph start="313960" end="313990" type="D"></ph><ph start="313990" end="314120" type="E"></ph><ph start="314120" end="314150" type="r"></ph></n></t> <t>way<n pronunciation="way" start="314190" end="314560"><ph start="314150" end="314280" type="w"></ph><ph start="314280" end="314390" type="eI"></ph></n></t> <t>into<n pronunciation="into" start="314560" end="314910"><ph start="314390" end="314710" type="?"></ph><ph start="314710" end="314740" type="I"></ph><ph start="314740" end="314820" type="n"></ph><ph start="314820" end="314880" type="t"></ph><ph start="314880" end="314910" type="u"></ph></n></t> <t>the<n pronunciation="the" start="314910" end="315040"><ph start="314910" end="314970" type="D"></ph><ph start="314970" end="315030" type="V"></ph></n></t> <t>French<n pronunciation="French" start="315040" end="315470"><ph start="315100" end="315180" type="f"></ph><ph start="315180" end="315250" type="r"></ph><ph start="315250" end="315280" type="E"></ph><ph start="315280" end="315370" type="n"></ph><ph start="315370" end="315400" type="T"></ph><ph start="315400" end="315465" type="S"></ph></n></t> <t>language<n pronunciation="language" start="315470" end="316010"><ph start="315465" end="315580" type="l"></ph><ph start="315580" end="315610" type="{"></ph><ph start="315610" end="315640" type="N"></ph><ph start="315640" end="315780" type="w"></ph><ph start="315780" end="315850" type="I"></ph><ph start="315850" end="316050" type="dZ"></ph></n></t> <t>are<n pronunciation="are" start="316210" end="316260"><ph start="316270" end="316400" type="A:"></ph><ph start="316400" end="316430" type="r"></ph></n></t> <t>used<n pronunciation="used" start="316260" end="316420"><ph start="316430" end="316640" type="j"></ph><ph start="316640" end="316740" type="u"></ph><ph start="316740" end="316830" type="z"></ph><ph start="316830" end="316860" type="d"></ph></n></t> <t>in<n pronunciation="in" start="316420" end="316930"><ph start="316860" end="317050" type="?"></ph><ph start="317050" end="317080" type="I"></ph><ph start="317080" end="317115" type="n"></ph></n></t> <t>Laos<n pronunciation="Laos" start="316930" end="317130"><ph start="317115" end="317210" type="l"></ph><ph start="317210" end="317280" type="A:"></ph><ph start="317280" end="317480" type="@U"></ph><ph start="317480" end="317670" type="s"></ph></n></t> <t>as<n pronunciation="as" start="317130" end="317670"><ph start="317670" end="317790" type="?"></ph><ph start="317790" end="317850" type="V"></ph><ph start="317850" end="317945" type="s"></ph></n></t> <t>well<n pronunciation="well" start="317670" end="317940"><ph start="317945" end="318060" type="w"></ph><ph start="318060" end="318100" type="E"></ph><ph start="318100" end="318200" type="l"></ph></n></t><t>.</t></s> <s><t>There<n pronunciation="There" /></t> <t>are<n pronunciation="are" /></t> <t>some<n pronunciation="some" start="319190" end="319550" /></t> <t>notable<n pronunciation="notable" start="319550" end="320130" /></t> <t>differences<n pronunciation="differences" start="320130" end="320780" /></t> <t>between<n pronunciation="between" start="320780" end="321190" /></t> <t>Lao<n pronunciation="Lao" start="321190" end="321800" /></t> <t>and<n pronunciation="and" start="321920" end="322210" /></t> <t>standard<n pronunciation="standard" start="322210" end="322860" /></t> <t>French<n pronunciation="French" start="322860" end="323500" /></t> <t>such<n pronunciation="such" start="323750" end="324130" /></t> <t>as<n pronunciation="as" start="324180" end="324600" /></t><t>:</t></s></p>
+
+<p><s><t>The<n pronunciation="The" start="324760" end="325150"><ph start="324780" end="324840" type="D"></ph><ph start="324840" end="324870" type="V"></ph></n></t> <t>word<n pronunciation="word" start="325370" end="325520"><ph start="324870" end="325010" type="w"></ph><ph start="325010" end="325180" type="3`"></ph><ph start="325180" end="325280" type="d"></ph></n></t> <t>rue<n pronunciation="rue" start="325520" end="325900"><ph start="325420" end="325510" type="r"></ph><ph start="325510" end="325820" type="u"></ph></n></t> <t>can<n pronunciation="can" start="326210" end="326450"><ph start="326220" end="326330" type="k"></ph><ph start="326330" end="326410" type="V"></ph><ph start="326410" end="326460" type="n"></ph></n></t> <t>be<n pronunciation="be"><ph start="326460" end="326510" type="b"></ph><ph start="326510" end="326760" type="i:"></ph></n></t> <t>used<n pronunciation="used"><ph start="326760" end="326790" type="j"></ph><ph start="326790" end="326840" type="u"></ph><ph start="326840" end="326920" type="z"></ph></n></t> <t>to<n pronunciation="to" start="326940" end="327070"><ph start="326920" end="327020" type="t"></ph><ph start="327020" end="327050" type="u"></ph></n></t> <t>refer<n pronunciation="refer" start="327070" end="327550"><ph start="327050" end="327130" type="r"></ph><ph start="327130" end="327160" type="I"></ph><ph start="327160" end="327330" type="f"></ph><ph start="327330" end="327520" type="6"></ph></n></t> <t>to<n pronunciation="to" start="327550" end="327700"><ph start="327520" end="327670" type="t"></ph><ph start="327670" end="327765" type="u"></ph></n></t> <t>any<n pronunciation="any" start="327740" end="328060"><ph start="327765" end="327890" type="E"></ph><ph start="327890" end="327920" type="n"></ph><ph start="327920" end="328050" type="i:"></ph></n></t> <t>street<n pronunciation="street" start="328060" end="328650"><ph start="328050" end="328200" type="S"></ph><ph start="328200" end="328310" type="t"></ph><ph start="328310" end="328370" type="r"></ph><ph start="328370" end="328510" type="i:"></ph><ph start="328510" end="328600" type="t"></ph></n></t><t>,</t> <t>road<n pronunciation="road" start="328980" end="329500"><ph start="329130" end="329180" type="r"></ph><ph start="329180" end="329410" type="@U"></ph><ph start="329410" end="329480" type="d"></ph></n></t><t>,</t> <t>avenue<n pronunciation="avenue" start="329710" end="330230"><ph start="329770" end="329890" type="{"></ph><ph start="329890" end="329940" type="v"></ph><ph start="329940" end="329970" type="V"></ph><ph start="329970" end="330030" type="n"></ph><ph start="330030" end="330180" type="u"></ph></n></t> <t>and<n pronunciation="and" start="330260" end="330440"><ph start="330180" end="330290" type="?"></ph><ph start="330290" end="330390" type="E"></ph><ph start="330390" end="330440" type="n"></ph></n></t> <t>highway<n pronunciation="highway" start="330440" end="331180"><ph start="330440" end="330650" type="h"></ph><ph start="330650" end="330800" type="aI"></ph><ph start="330800" end="330950" type="w"></ph><ph start="330950" end="331170" type="eI"></ph></n></t> <t>unlike<n pronunciation="unlike" start="331390" end="331850"><ph start="331430" end="331460" type="V"></ph><ph start="331460" end="331490" type="n"></ph><ph start="331490" end="331710" type="l"></ph><ph start="331710" end="331800" type="aI"></ph></n></t> <t>standard<n pronunciation="standard" start="331900" end="332650"><ph start="331950" end="332110" type="s"></ph><ph start="332110" end="332210" type="t"></ph><ph start="332210" end="332340" type="{"></ph><ph start="332340" end="332420" type="n"></ph><ph start="332420" end="332480" type="d"></ph><ph start="332480" end="332520" type="3`"></ph><ph start="332520" end="332630" type="d"></ph></n></t> <t>French<n pronunciation="French" start="332840" end="333410"><ph start="332870" end="332930" type="f"></ph><ph start="332930" end="333000" type="r"></ph><ph start="333000" end="333070" type="E"></ph><ph start="333070" end="333190" type="n"></ph><ph start="333190" end="333220" type="T"></ph><ph start="333220" end="333290" type="S"></ph></n></t> <t>which<n pronunciation="which" start="333470" end="333760"><ph start="333530" end="333590" type="w"></ph><ph start="333590" end="333640" type="I"></ph><ph start="333640" end="333670" type="T"></ph><ph start="333670" end="333770" type="S"></ph></n></t> <t>also<n pronunciation="also"><ph start="333770" end="333800" type="k"></ph><ph start="333800" end="333830" type="l"></ph><ph start="333830" end="333860" type="s"></ph><ph start="333860" end="333890" type="U"></ph></n></t> <t>uses<n pronunciation="uses"><ph start="333890" end="333920" type="j"></ph><ph start="333920" end="334000" type="u"></ph><ph start="334000" end="334050" type="s"></ph><ph start="334050" end="334080" type="I"></ph><ph start="334080" end="334190" type="z"></ph></n></t> <t>avenue<n pronunciation="avenue" start="334540" end="335180"><ph start="334190" end="334630" type="?"></ph><ph start="334630" end="334690" type="{"></ph><ph start="334690" end="334780" type="v"></ph><ph start="334780" end="334810" type="V"></ph><ph start="334810" end="334980" type="n"></ph><ph start="334980" end="335110" type="u"></ph></n></t> <t>or<n pronunciation="or" start="335350" end="335590"><ph start="335460" end="335590" type="O:"></ph><ph start="335590" end="335620" type="r"></ph></n></t> <t>boulevard<n pronunciation="boulevard" start="335590" end="336470"><ph start="335780" end="335810" type="b"></ph><ph start="335810" end="335900" type="U"></ph><ph start="335900" end="335960" type="l"></ph><ph start="335960" end="336020" type="V"></ph><ph start="336020" end="336070" type="v"></ph><ph start="336070" end="336360" type="A:"></ph><ph start="336360" end="336390" type="r"></ph><ph start="336390" end="336480" type="d"></ph></n></t><t>.</t></s>
+<s><t>The<n pronunciation="The" start="337380" end="337570" /></t> <t>incorporation<n pronunciation="incorporation" start="338460" end="339630" /></t> <t>of<n pronunciation="of" start="339630" end="339870" /></t> <t>Lao<n pronunciation="Lao" start="339870" end="340230" /></t> <t>words<n pronunciation="words" start="340230" end="340660" /></t> <t>into<n pronunciation="into" start="340660" end="341020" /></t> <t>French<n pronunciation="French" start="341020" end="341550" /></t> <t>when<n pronunciation="when" start="341690" end="342030" /></t> <t>referring<n pronunciation="referring" start="342030" end="342680" /></t> <t>to<n pronunciation="to" start="342680" end="342850" /></t> <t>native<n pronunciation="native" start="342850" end="343360" /></t> <t>Lao<n pronunciation="Lao" start="343360" end="343650" /></t> <t>topics<n pronunciation="topics" start="343650" end="344250" /></t> <t>such<n pronunciation="such" start="344450" end="344780" /></t> <t>as<n pronunciation="as" /></t> <t>food<n pronunciation="food" /></t><t>,</t> <t>plants<n pronunciation="plants" /></t><t>,</t> <t>etc.<n pronunciation="etcetera" /></t></s></p>
+</sectioncontent></section>
+<section level="2"><sectiontitle><t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<p><s><t>Laos<n pronunciation="Laos" /></t> <t>portal<n pronunciation="portal" /></t>
+<t>French<n pronunciation="French" /></t> <t>language<n pronunciation="language" /></t> <t>and<n pronunciation="and" /></t> <t>French-speaking<n pronunciation="French" /><n pronunciation="speaking" /></t> <t>world<n pronunciation="world" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+<p><s><t>French<n pronunciation="French" /></t> <t>language<n pronunciation="language" /></t> <t>in<n pronunciation="in" /></t> <t>Vietnam<n pronunciation="Vietnam" /></t>
+<t>French<n pronunciation="French" /></t> <t>language<n pronunciation="language" /></t> <t>in<n pronunciation="in" /></t> <t>Cambodia<n pronunciation="Cambodia" /></t>
+<t>French<n pronunciation="French" /></t> <t>Laos<n pronunciation="Laos" /></t></s></p>
+</sectioncontent></section>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>La<n pronunciation="La" /></t> <t>Francophonie<n pronunciation="Francophonie" /></t> <t>in<n pronunciation="in" /></t> <t>Asia<n pronunciation="Asia" /></t><t>,</t> <t>France-Diplomatie<n pronunciation="France" /><n pronunciation="Diplomatie" /></t><t>,</t> <t>2005<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="five" /></t><t>,</t> <t>retrieved<n pronunciation="retrieved" /></t> <t>2010-10-14<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="four" /></t> 
+<t>^<n pronunciation="^" /></t> <t>French<n pronunciation="French" /></t> <t>legacy<n pronunciation="legacy" /></t> <t>in<n pronunciation="in" /></t> <t>Laos<n pronunciation="Laos" /></t><t>,</t> <t>France-Diplomatie<n pronunciation="France" /><n pronunciation="Diplomatie" /></t><t>,</t> <t>retrieved<n pronunciation="retrieved" /></t> <t>2010-10-30<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="three" /><n pronunciation="zero" /></t> 
+<t>^<n pronunciation="^" /></t> <t>John<n pronunciation="John" /></t> <t>Holt<n pronunciation="Holt" /></t> <t>(</t><t>2009<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="nine" /></t><t>)</t><t>.</t></s> <s><t>Page<n pronunciation="Page" /></t> <t>79<n pronunciation="79" /></t><t>.</t></s> <s><t>Spirits<n pronunciation="Spirits" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Place<n pronunciation="Place" /></t><t>:</t> <t>Buddhism<n pronunciation="Buddhism" /></t> <t>and<n pronunciation="and" /></t> <t>Lao<n pronunciation="Lao" /></t> <t>Religious<n pronunciation="Religious" /></t> <t>Culture<n pronunciation="Culture" /></t><t>.</t></s> <s><t>University<n pronunciation="University" /></t> <t>of<n pronunciation="of" /></t> <t>Hawaii<n pronunciation="Hawaii" /></t> <t>Press<n pronunciation="Press" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>Ooi<n pronunciation="Ooi" /></t> <t>2004<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /></t>
+<t>^<n pronunciation="^" /></t> <t>Chieu<n pronunciation="Chieu" /></t><t>,</t> <t>p.<n pronunciation="p" /><n pronunciation="." /></t> <t>309<n pronunciation="three" /><n pronunciation="hundred" /><n pronunciation="nine" /></t><t>.</t></s></sectioncontent></section></ignored>
+
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+<p><s><t>Official<n pronunciation="Official" /></t> <t>website<n pronunciation="website" /></t> <t>of<n pronunciation="of" /></t> <t>La<n pronunciation="La" /></t> <t>Francophonie<n pronunciation="Francophonie" /></t></s></p>
+<p></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Varieties<n pronunciation="Varieties" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>French<n pronunciation="French" /></t> <t>language<n pronunciation="language" /></t></s>
+
+
+
+<s><t>Africa<n pronunciation="Africa" /></t></s>
+
+
+
+<p><s><t>Maghrebi<n pronunciation="Maghrebi" /></t>
+<t>African<n pronunciation="African" /></t></s></p>
+
+
+
+
+
+<s><t>Asia<n pronunciation="Asia" /></t></s>
+
+
+
+<p><s><t>Cambodian<n pronunciation="Cambodian" /></t>
+<t>Indian<n pronunciation="Indian" /></t>
+<t>Laotian<n pronunciation="Laotian" /></t>
+<t>Vietnamese<n pronunciation="Vietnamese" /></t></s></p>
+
+
+
+
+
+<s><t>Europe<n pronunciation="Europe" /></t></s>
+
+
+
+<p><s><t>Meridional<n pronunciation="Meridional" /></t>
+<t>Standard<n pronunciation="Standard" /></t>
+<t>Belgian<n pronunciation="Belgian" /></t>
+<t>Jersey<n pronunciation="Jersey" /></t> <t>Legal<n pronunciation="Legal" /></t>
+<t>Swiss<n pronunciation="Swiss" /></t>
+<t>Aostan<n pronunciation="Aostan" /></t></s></p>
+
+
+
+
+
+<s><t>North<n pronunciation="North" /></t> <t>America<n pronunciation="America" /></t></s>
+
+
+
+
+<s><t>Canada<n pronunciation="Canada" /></t></s>
+
+
+
+<p><s><t>Quebec<n pronunciation="Quebec" /></t></s>
+
+<p><s><t>Joual<n pronunciation="Joual" /></t>
+<t>Magoua<n pronunciation="Magoua" /></t></s></p>
+
+
+<s><t>Brayon<n pronunciation="Brayon" /></t>
+<t>Acadian<n pronunciation="Acadian" /></t></s>
+
+<p><s><t>Chiac<n pronunciation="Chiac" /></t></s></p>
+
+
+<s><t>Newfoundland<n pronunciation="Newfoundland" /></t>
+<t>Métis<n pronunciation="Metis" /></t></s></p>
+
+
+
+
+
+<s><t>United<n pronunciation="United" /></t> <t>States<n pronunciation="States" /></t></s>
+
+
+
+<p><s><t>Louisiana<n pronunciation="Louisiana" /></t></s>
+
+<p><s><t>Cajun<n pronunciation="Cajun" /></t>
+<t>Colonial<n pronunciation="Colonial" /></t></s></p>
+
+
+<s><t>Métis<n pronunciation="Metis" /></t>
+<t>Missouri<n pronunciation="Missouri" /></t>
+<t>Muskrat<n pronunciation="Muskrat" /></t>
+<t>New<n pronunciation="New" /></t> <t>England<n pronunciation="England" /></t></s></p>
+
+
+
+
+
+<s><t>Caribbean<n pronunciation="Caribbean" /></t></s>
+
+
+
+<p><s><t>Haitian<n pronunciation="Haitian" /></t>
+<t>Saint-Barthélemy<n pronunciation="Saint" /><n pronunciation="Barthelemy" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Related<n pronunciation="Related" /></t></s>
+
+
+
+<p><s><t>French-based<n pronunciation="French" /><n pronunciation="based" /></t> <t>creole<n pronunciation="creole" /></t> <t>languages<n pronunciation="languages" /></t>
+<t>Michif<n pronunciation="Michif" /></t></s></p>
+
+
+
+
+
+<s><t>Signed<n pronunciation="Signed" /></t></s>
+
+
+
+<p><s><t>Français<n pronunciation="Francais" /></t> <t>signé<n pronunciation="signe" /></t></s></p>
+
+
+
+
+
+
+
+
+<p><s><t>French<n pronunciation="French" /></t> <t>language<n pronunciation="language" /></t> <t>and<n pronunciation="and" /></t> <t>French-speaking<n pronunciation="French" /><n pronunciation="speaking" /></t> <t>world<n pronunciation="world" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Romance<n pronunciation="Romance" /></t> <t>languages<n pronunciation="languages" /></t> <t>(</t><t>Classification<n pronunciation="Classification" /></t><t>)</t></s>
+
+
+
+
+
+
+
+
+<s><t>Western<n pronunciation="Western" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Ibero-Romance<n pronunciation="Ibero" /><n pronunciation="Romance" /></t></s>
+
+
+
+
+<s><t>Galician-Portuguese<n pronunciation="Galician" /><n pronunciation="Portuguese" /></t></s>
+
+
+
+<p><s><t>Portuguese<n pronunciation="Portuguese" /></t></s>
+
+<p><s><t>dialects<n pronunciation="dialects" /></t>
+<t>European<n pronunciation="European" /></t>
+<t>Brazilian<n pronunciation="Brazilian" /></t>
+<t>Uruguayan<n pronunciation="Uruguayan" /></t>
+<t>African<n pronunciation="African" /></t>
+<t>Asian<n pronunciation="Asian" /></t>
+<t>Creoles<n pronunciation="Creoles" /></t></s></p>
+
+
+<s><t>Galician<n pronunciation="Galician" /></t></s>
+
+<p><s><t>Eonavian/Galician-Asturian<n pronunciation="Eonavian" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="Galician" /><n pronunciation="Asturian" /></t>
+<t>Fala<n pronunciation="Fala" /></t></s></p>
+
+
+<s><t>Judaeo-Portuguese<n pronunciation="Judaeo" /><n pronunciation="Portuguese" /></t>
+<t>Caló<n pronunciation="Calo" /></t></s></p>
+
+
+
+
+
+<s><t>Astur-Leonese<n pronunciation="Astur" /><n pronunciation="Leonese" /></t></s>
+
+
+
+<p><s><t>Asturian<n pronunciation="Asturian" /></t>
+<t>Cantabrian<n pronunciation="Cantabrian" /></t>
+<t>Extremaduran<n pronunciation="Extremaduran" /></t>
+<t>Leonese<n pronunciation="Leonese" /></t>
+<t>Mirandese<n pronunciation="Mirandese" /></t></s></p>
+
+
+
+
+
+<s><t>Spanish<n pronunciation="Spanish" /></t></s>
+
+
+
+<p><s><t>Spanish<n pronunciation="Spanish" /></t></s>
+
+<p><s><t>dialects<n pronunciation="dialects" /></t>
+<t>Latin<n pronunciation="Latin" /></t> <t>American<n pronunciation="American" /></t>
+<t>Philippine<n pronunciation="Philippine" /></t>
+<t>Equatoguinean<n pronunciation="Equatoguinean" /></t>
+<t>European<n pronunciation="European" /></t>
+<t>Creoles<n pronunciation="Creoles" /></t></s></p>
+
+
+<s><t>Old<n pronunciation="Old" /></t> <t>Spanish<n pronunciation="Spanish" /></t>
+<t>Judaeo-Spanish<n pronunciation="Judaeo" /><n pronunciation="Spanish" /></t>
+<t>Caló<n pronunciation="Calo" /></t></s></p>
+
+
+
+
+
+<s><t>Others<n pronunciation="Others" /></t></s>
+
+
+
+<p><s><t>Navarro-Aragonese<n pronunciation="Navarro" /><n pronunciation="Aragonese" /></t></s>
+
+<p><s><t>Aragonese<n pronunciation="Aragonese" /></t>
+<t>Judaeo-Aragonese<n pronunciation="Judaeo" /><n pronunciation="Aragonese" /></t></s></p>
+
+
+<s><t>Mozarabic<n pronunciation="Mozarabic" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Occitano<n pronunciation="Occitano" /></t><t>-</t>
+<t>Romance<n pronunciation="Romance" /></t></s>
+
+
+
+
+<s><t>Catalan<n pronunciation="Catalan" /></t></s><p>
+
+
+
+
+
+<p><s><t>dialects<n pronunciation="dialects" /></t>
+<t>Eastern<n pronunciation="Eastern" /></t> <t>Catalan<n pronunciation="Catalan" /></t>
+<t>Alguerese<n pronunciation="Alguerese" /></t>
+<t>Balearic<n pronunciation="Balearic" /></t>
+<t>Central<n pronunciation="Central" /></t>
+<t>Northern<n pronunciation="Northern" /></t>
+<t>Western<n pronunciation="Western" /></t> <t>Catalan<n pronunciation="Catalan" /></t>
+<t>North-Western<n pronunciation="North" /><n pronunciation="Western" /></t>
+<t>Valencian<n pronunciation="Valencian" /></t></s></p>
+
+
+<s><t>Judaeo-Catalan<n pronunciation="Judaeo" /><n pronunciation="Catalan" /></t>
+<t>Caló<n pronunciation="Calo" /></t></s></p>
+
+
+
+
+
+<s><t>Occitan<n pronunciation="Occitan" /></t></s>
+
+
+
+<p><s><t>Auvergnat<n pronunciation="Auvergnat" /></t>
+<t>Gascon<n pronunciation="Gascon" /></t></s>
+
+<p><s><t>Aranese<n pronunciation="Aranese" /></t></s></p>
+
+
+<s><t>Languedocien<n pronunciation="Languedocien" /></t>
+<t>Limousin<n pronunciation="Limousin" /></t>
+<t>Provençal<n pronunciation="Provencal" /></t></s>
+
+<p><s><t>Niçard<n pronunciation="Nicard" /></t>
+<t>Mentonasc<n pronunciation="Mentonasc" /></t></s></p>
+
+
+<s><t>Vivaro-Alpine<n pronunciation="Vivaro" /><n pronunciation="Alpine" /></t>
+<t>Old<n pronunciation="Old" /></t> <t>Provençal<n pronunciation="Provencal" /></t>
+<t>Judaeo-Provençal<n pronunciation="Judaeo" /><n pronunciation="Provencal" /></t>
+<t>Caló<n pronunciation="Calo" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Gallo-Romance<n pronunciation="Gallo" /><n pronunciation="Romance" /></t></s>
+
+
+
+
+<s><t>Langues<n pronunciation="Langues" /></t> <t>d'oïl<n pronunciation="doil" /></t></s>
+
+
+
+<p><s><t>Burgundian<n pronunciation="Burgundian" /></t>
+<t>Champenois<n pronunciation="Champenois" /></t>
+<t>Franc-Comtois<n pronunciation="Franc" /><n pronunciation="Comtois" /></t>
+<t>French<n pronunciation="French" /></t></s>
+
+<p><s><t>dialects<n pronunciation="dialects" /></t>
+<t>Standard<n pronunciation="Standard" /></t>
+<t>African<n pronunciation="African" /></t>
+<t>Aostan<n pronunciation="Aostan" /></t>
+<t>Belgian<n pronunciation="Belgian" /></t>
+<t>Cambodian<n pronunciation="Cambodian" /></t>
+<t>Canadian<n pronunciation="Canadian" /></t>
+<t>Indian<n pronunciation="Indian" /></t>
+<t>Laotian<n pronunciation="Laotian" /></t>
+<t>Swiss<n pronunciation="Swiss" /></t>
+<t>Vietnamese<n pronunciation="Vietnamese" /></t>
+<t>Old<n pronunciation="Old" /></t> <t>French<n pronunciation="French" /></t>
+<t>Middle<n pronunciation="Middle" /></t> <t>French<n pronunciation="French" /></t>
+<t>Judaeo-French<n pronunciation="Judaeo" /><n pronunciation="French" /></t>
+<t>Creoles<n pronunciation="Creoles" /></t></s></p>
+
+
+<s><t>Gallo<n pronunciation="Gallo" /></t>
+<t>Lorrain<n pronunciation="Lorrain" /></t>
+<t>Norman<n pronunciation="Norman" /></t></s>
+
+<p><s><t>Anglo-Norman<n pronunciation="Anglo" /><n pronunciation="Norman" /></t></s></p>
+
+
+<s><t>Picard<n pronunciation="Picard" /></t>
+<t>Poitevin<n pronunciation="Poitevin" /></t>
+<t>Saintongeais<n pronunciation="Saintongeais" /></t>
+<t>Walloon<n pronunciation="Walloon" /></t>
+<t>Moselle<n pronunciation="Moselle" /></t> <t>Romance<n pronunciation="Romance" /></t>
+<t>British<n pronunciation="British" /></t> <t>Latin<n pronunciation="Latin" /></t></s></p>
+
+
+
+
+
+<s><t>Others<n pronunciation="Others" /></t></s>
+
+
+
+<p><s><t>Arpitan/Franco-Provençal<n pronunciation="Arpitan" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="Franco" /><n pronunciation="Provencal" /></t></s>
+
+<p><s><t>Valdôtain<n pronunciation="Valdotain" /></t>
+<t>Savoyard<n pronunciation="Savoyard" /></t></s></p>
+
+</p>
+
+
+
+
+
+
+
+
+<s><t>North<n pronunciation="North" /></t> <t>Italian<n pronunciation="Italian" /></t> <t>dialects<n pronunciation="dialects" /></t></s>
+
+
+
+
+<s><t>Gallo-Italic<n pronunciation="Gallo" /><n pronunciation="Italic" /></t></s>
+
+
+
+<p><s><t>Ligurian<n pronunciation="Ligurian" /></t></s>
+
+<p><s><t>Brigasc<n pronunciation="Brigasc" /></t>
+<t>Genoese<n pronunciation="Genoese" /></t>
+<t>Intemelio<n pronunciation="Intemelio" /></t>
+<t>Monégasque<n pronunciation="Monegasque" /></t></s></p>
+
+
+<s><t>Lombard<n pronunciation="Lombard" /></t></s>
+
+<p><s><t>Western<n pronunciation="Western" /></t>
+<t>Eastern<n pronunciation="Eastern" /></t></s></p>
+
+
+<s><t>Emilian-Romagnol<n pronunciation="Emilian" /><n pronunciation="Romagnol" /></t></s>
+
+<p><s><t>Emilian<n pronunciation="Emilian" /></t></s>
+
+<p><s><t>Bolognese<n pronunciation="Bolognese" /></t>
+<t>Parmigiano<n pronunciation="Parmigiano" /></t></s></p>
+
+
+<s><t>Romagnol<n pronunciation="Romagnol" /></t></s></p>
+
+
+<s><t>Piedmontese<n pronunciation="Piedmontese" /></t></s>
+
+<p><s><t>Judaeo-Piedmontese<n pronunciation="Judaeo" /><n pronunciation="Piedmontese" /></t></s></p>
+
+
+<s><t>Gallo-Italic<n pronunciation="Gallo" /><n pronunciation="Italic" /></t> <t>of<n pronunciation="of" /></t> <t>Sicily<n pronunciation="Sicily" /></t>
+<t>Gallo-Italic<n pronunciation="Gallo" /><n pronunciation="Italic" /></t> <t>of<n pronunciation="of" /></t> <t>Basilicata<n pronunciation="Basilicata" /></t></s></p>
+
+
+
+
+
+<s><t>Others<n pronunciation="Others" /></t></s>
+
+
+
+<p><s><t>Venetian<n pronunciation="Venetian" /></t></s>
+
+<p><s><t>Fiuman<n pronunciation="Fiuman" /></t>
+<t>Talian<n pronunciation="Talian" /></t>
+<t>Triestine<n pronunciation="Triestine" /></t></s></p>
+
+</p>
+
+
+
+
+
+
+
+
+<s><t>Rhaeto-Romance<n pronunciation="Rhaeto" /><n pronunciation="Romance" /></t></s>
+
+
+
+
+<s><t>Rhaeto-Romance<n pronunciation="Rhaeto" /><n pronunciation="Romance" /></t></s>
+
+
+
+<p><s><t>Friulian<n pronunciation="Friulian" /></t>
+<t>Ladin<n pronunciation="Ladin" /></t>
+<t>Romansh<n pronunciation="Romansh" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Central<n pronunciation="Central" /></t><t>,</t> <t>Sardinian<n pronunciation="Sardinian" /></t> <t>and<n pronunciation="and" /></t> <t>Eastern<n pronunciation="Eastern" /></t></s>
+
+
+
+
+
+
+
+<s><t>Italo-Dalmatian<n pronunciation="Italo" /><n pronunciation="Dalmatian" /></t></s>
+
+
+
+
+<s><t>Italian<n pronunciation="Italian" /></t></s>
+
+
+
+<p><s><t>Italian<n pronunciation="Italian" /></t>
+<t>dialects<n pronunciation="dialects" /></t></s>
+
+<p><s><t>Central<n pronunciation="Central" /></t>
+<t>Tuscan<n pronunciation="Tuscan" /></t></s></p>
+
+
+<s><t>Corsican<n pronunciation="Corsican" /></t></s>
+
+<p><s><t>Gallurese<n pronunciation="Gallurese" /></t></s></p>
+
+
+<s><t>Sassarese<n pronunciation="Sassarese" /></t>
+<t>Judaeo-Italian<n pronunciation="Judaeo" /><n pronunciation="Italian" /></t></s></p>
+
+
+
+
+
+<s><t>Southern<n pronunciation="Southern" /></t> <t>Italian<n pronunciation="Italian" /></t></s>
+
+
+
+<p><s><t>Neapolitan<n pronunciation="Neapolitan" /></t></s>
+
+<p><s><t>Northern<n pronunciation="Northern" /></t> <t>Calabrese<n pronunciation="Calabrese" /></t></s></p>
+
+
+<s><t>Sicilian<n pronunciation="Sicilian" /></t></s>
+
+<p><s><t>Southern<n pronunciation="Southern" /></t> <t>Calabrese<n pronunciation="Calabrese" /></t></s></p>
+
+</p>
+
+
+
+
+
+<s><t>Others<n pronunciation="Others" /></t></s>
+
+
+
+<p><s><t>Dalmatian<n pronunciation="Dalmatian" /></t>
+<t>Istriot<n pronunciation="Istriot" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Sardinian<n pronunciation="Sardinian" /></t></s>
+
+
+
+
+<s><t>Sardinian<n pronunciation="Sardinian" /></t></s>
+
+
+
+<p><s><t>Sardinian<n pronunciation="Sardinian" /></t></s>
+
+<p><s><t>Campidanese<n pronunciation="Campidanese" /></t>
+<t>Logudorese<n pronunciation="Logudorese" /></t></s></p>
+
+</p>
+
+
+
+
+
+
+
+
+<s><t>Eastern<n pronunciation="Eastern" /></t></s>
+
+
+
+
+<s><t>Romanian<n pronunciation="Romanian" /></t></s>
+
+
+
+<p><s><t>Romanian<n pronunciation="Romanian" /></t></s>
+
+<p><s><t>Moldovan<n pronunciation="Moldovan" /></t>
+<t>Vlach<n pronunciation="Vlach" /></t></s></p>
+
+</p>
+
+
+
+
+
+<s><t>Others<n pronunciation="Others" /></t></s>
+
+
+
+<p><s><t>Aromanian<n pronunciation="Aromanian" /></t>
+<t>Istro-Romanian<n pronunciation="Istro" /><n pronunciation="Romanian" /></t>
+<t>Megleno-Romanian<n pronunciation="Megleno" /><n pronunciation="Romanian" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>North<n pronunciation="North" /></t> <t>African<n pronunciation="African" /></t></s>
+
+
+
+
+<s><t>North<n pronunciation="North" /></t> <t>African<n pronunciation="African" /></t></s>
+
+
+
+<p><s><t>African<n pronunciation="African" /></t> <t>Romance<n pronunciation="Romance" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>Italics<n pronunciation="Italics" /></t> <t>indicate<n pronunciation="indicate" /></t> <t>extinct<n pronunciation="extinct" /></t> <t>languages<n pronunciation="languages" /></t>
+<t>Bold<n pronunciation="Bold" /></t> <t>indicates<n pronunciation="indicates" /></t> <t>languages<n pronunciation="languages" /></t> <t>with<n pronunciation="with" /></t> <t>more<n pronunciation="more" /></t> <t>than<n pronunciation="than" /></t> <t>5<n pronunciation="five" /></t> <t>million<n pronunciation="million" /></t> <t>speakers<n pronunciation="speakers" /></t>
+<t>Languages<n pronunciation="Languages" /></t> <t>between<n pronunciation="between" /></t> <t>parentheses<n pronunciation="parentheses" /></t> <t>are<n pronunciation="are" /></t> <t>varieties<n pronunciation="varieties" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>language<n pronunciation="language" /></t> <t>on<n pronunciation="on" /></t> <t>their<n pronunciation="their" /></t> <t>left<n pronunciation="left" /></t><t>.</t></s></p>
+
+
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

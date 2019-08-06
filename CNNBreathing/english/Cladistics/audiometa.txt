@@ -1,0 +1,43 @@
+Transwiki approved by: [[w:en:User:Dmcdevit]]
+
+This image was copied from wikipedia:en. The original description was:
+
+{{English spoken article|
+file_name=Cladistics.ogg
+|title=Cladistics
+|time=12:54
+|file_size=5.8 MB
+|user_name=Demi
+|date=[http://en.wikipedia.org/w/index.php?title=Cladistics&oldid=13063175 2005-04-30] ([http://en.wikipedia.org/w/index.php?title=Cladistics&diff=0&oldid=13063175 diff])
+|accent=[[w:en:Regional accents of English speakers#United States|U.S.]], California
+|sex=Male
+}}
+
+
+{{GFDL-en|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 03:11, 1 May 2005 || [[w:en:User:Demi]] || 12m54s || 5.49 MB || <nowiki>Spoken version of <a href="/wiki/Cladistics" title="Cladistics">Cladistics</a> {{GFDL}}</nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Cladistics.ogg&redirect=no&oldid=129010833 || 07:36, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Cladistics.ogg&redirect=no&oldid=129010833 || 18:47, 7 May 2007 || [[w:en:User:Cydebot]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Cladistics.ogg&redirect=no&oldid=25232464 || 22:56, 10 October 2005 || [[w:en:User:Horsten]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Cladistics.ogg&redirect=no&oldid=17466357 || 03:14, 1 May 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Cladistics.ogg&redirect=no&oldid=13063260 || 03:11, 1 May 2005 || [[w:en:User:Demi]] || <nowiki>(Spoken version of <a href="/wiki/Cladistics" title="Cladistics">Cladistics</a> {{GFDL}})</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Phylogenetic trees]]
+[[Category:Evolutionary biology OGG sound files]]
+[[Category:Cladistics]]

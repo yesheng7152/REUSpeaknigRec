@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="List of Greek mythological figures" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="List_of_Greek_mythological_figures" /><prop key="DC.date.read" value="2009-01-19 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures" /><prop key="DC.source.wikiID" value="61963" /><prop key="DC.source.revision" value="792273449" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=List of Greek mythological figures&amp;oldid=263536512" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/a/a2/En-Greek_mythology-article.oga" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Greek_mythology-article.oga" group="audio1" /><link key="DC.source.audio.date" value="2009-04-18 12:08:50" group="audio1" /><prop key="reader.name" value="Tonyle" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:45:19.681+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/List_of_Greek_mythological_figures/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/List_of_Greek_mythological_figures)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T16:12:47.784+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/List_of_Greek_mythological_figures/aligned.swc, transcript=articles/List_of_Greek_mythological_figures/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/List_of_Greek_mythological_figures/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="List of Greek mythological figuresFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="List of Greek mythological figuresFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="List"><n pronunciation="List" /></t><t text="of"><n pronunciation="of" /></t><t text="Greek"><n pronunciation="Greek" /></t><t text="mythological"><n pronunciation="mythological" /></t><t text="figuresFrom"><n pronunciation="figuresFrom" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="," /><t text="the"><n pronunciation="the" /></t><t text="free"><n pronunciation="free" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" /></t><t text="n"><n pronunciation="n" /></t><t text="dot"><n pronunciation="dot" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="dot"><n pronunciation="dot" /></t><t text="org"><n pronunciation="org" /></t><t text="." /></s></extra>
+
+<ignored><s><t>Part<n pronunciation="Part" /></t> <t>of<n pronunciation="of" /></t> <t>a<n pronunciation="a" /></t> <t>series<n pronunciation="series" /></t> <t>on<n pronunciation="on" /></t></s>
+
+
+<s><t>Ancient<n pronunciation="Ancient" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>religion<n pronunciation="religion" /></t></s>
+
+
+
+
+
+
+
+<s><t>Features<n pronunciation="Features" /></t></s>
+
+
+<p><s><t>Greek<n pronunciation="Greek" /></t> <t>mythology<n pronunciation="mythology" /></t>
+<t>Ancient<n pronunciation="Ancient" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>philosophy<n pronunciation="philosophy" /></t>
+<t>Hellenistic<n pronunciation="Hellenistic" /></t> <t>philosophy<n pronunciation="philosophy" /></t>
+<t>Ancient<n pronunciation="Ancient" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>religion<n pronunciation="religion" /></t></s></p>
+
+
+
+<p><s><t>Polytheism<n pronunciation="Polytheism" /></t>
+<t>Henosis<n pronunciation="Henosis" /></t>
+<t>Monism<n pronunciation="Monism" /></t>
+<t>Pantheism<n pronunciation="Pantheism" /></t>
+<t>Orthopraxy<n pronunciation="Orthopraxy" /></t></s></p>
+
+
+
+
+
+
+
+
+
+<s><t>Godheads<n pronunciation="Godheads" /></t></s>
+
+
+
+<s><t>Olympians<n pronunciation="Olympians" /></t></s>
+
+
+
+
+<p><s><t>Zeus<n pronunciation="Zeus" /></t>
+<t>Hera<n pronunciation="Hera" /></t>
+<t>Aphrodite<n pronunciation="Aphrodite" /></t>
+<t>Apollo<n pronunciation="Apollo" /></t>
+<t>Ares<n pronunciation="Ares" /></t>
+<t>Artemis<n pronunciation="Artemis" /></t>
+<t>Athena<n pronunciation="Athena" /></t>
+<t>Demeter<n pronunciation="Demeter" /></t>
+<t>Dionysus<n pronunciation="Dionysus" /></t>
+<t>Hades<n pronunciation="Hades" /></t>
+<t>Hephaestus<n pronunciation="Hephaestus" /></t>
+<t>Hermes<n pronunciation="Hermes" /></t>
+<t>Hestia<n pronunciation="Hestia" /></t>
+<t>Poseidon<n pronunciation="Poseidon" /></t></s></p>
+
+
+
+
+<s><t>Primordial<n pronunciation="Primordial" /></t> <t>deities<n pronunciation="deities" /></t></s>
+
+
+
+
+<p><s><t>Aether<n pronunciation="Aether" /></t>
+<t>Aion<n pronunciation="Aion" /></t>
+<t>Ananke<n pronunciation="Ananke" /></t>
+<t>Chaos<n pronunciation="Chaos" /></t>
+<t>Chronos<n pronunciation="Chronos" /></t>
+<t>Erebus<n pronunciation="Erebus" /></t>
+<t>Eros<n pronunciation="Eros" /></t>
+<t>Gaia<n pronunciation="Gaia" /></t>
+<t>Hemera<n pronunciation="Hemera" /></t>
+<t>Nyx<n pronunciation="Nyx" /></t>
+<t>Phanes<n pronunciation="Phanes" /></t>
+<t>Pontus<n pronunciation="Pontus" /></t>
+<t>Thalassa<n pronunciation="Thalassa" /></t>
+<t>Tartarus<n pronunciation="Tartarus" /></t>
+<t>Uranus<n pronunciation="Uranus" /></t></s></p>
+
+
+
+
+<s><t>Lesser<n pronunciation="Lesser" /></t> <t>deities<n pronunciation="deities" /></t></s>
+
+
+
+
+<p><s><t>Alpheus<n pronunciation="Alpheus" /></t>
+<t>Amphitrite<n pronunciation="Amphitrite" /></t>
+<t>Asclepius<n pronunciation="Asclepius" /></t>
+<t>Aura<n pronunciation="Aura" /></t>
+<t>Bia<n pronunciation="Bia" /></t>
+<t>Circe<n pronunciation="Circe" /></t>
+<t>Deimos<n pronunciation="Deimos" /></t>
+<t>Eileithyia<n pronunciation="Eileithyia" /></t>
+<t>Enyo<n pronunciation="Enyo" /></t>
+<t>Eos<n pronunciation="Eos" /></t>
+<t>Eris<n pronunciation="Eris" /></t>
+<t>Harmonia<n pronunciation="Harmonia" /></t>
+<t>Hebe<n pronunciation="Hebe" /></t>
+<t>Hecate<n pronunciation="Hecate" /></t>
+<t>Helios<n pronunciation="Helios" /></t>
+<t>Heracles<n pronunciation="Heracles" /></t>
+<t>Iris<n pronunciation="Iris" /></t>
+<t>Kratos<n pronunciation="Kratos" /></t>
+<t>Leto<n pronunciation="Leto" /></t>
+<t>Metis<n pronunciation="Metis" /></t>
+<t>Momus<n pronunciation="Momus" /></t>
+<t>Morpheus<n pronunciation="Morpheus" /></t>
+<t>Nemesis<n pronunciation="Nemesis" /></t>
+<t>Nike<n pronunciation="Nike" /></t>
+<t>Pan<n pronunciation="Pan" /></t>
+<t>Persephone<n pronunciation="Persephone" /></t>
+<t>Phantasos<n pronunciation="Phantasos" /></t>
+<t>Phobos<n pronunciation="Phobos" /></t>
+<t>Proteus<n pronunciation="Proteus" /></t>
+<t>Scamander<n pronunciation="Scamander" /></t>
+<t>Selene<n pronunciation="Selene" /></t>
+<t>Thanatos<n pronunciation="Thanatos" /></t>
+<t>Thetis<n pronunciation="Thetis" /></t>
+<t>Triton<n pronunciation="Triton" /></t>
+<t>Zelus<n pronunciation="Zelus" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Ethics<n pronunciation="Ethics" /></t></s>
+
+
+
+<p><s><t>Arete<n pronunciation="Arete" /></t>
+<t>Hubris<n pronunciation="Hubris" /></t>
+<t>Xenia<n pronunciation="Xenia" /></t></s></p>
+
+
+
+<p><s><t>Ethic<n pronunciation="Ethic" /></t> <t>of<n pronunciation="of" /></t> <t>reciprocity<n pronunciation="reciprocity" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Practices<n pronunciation="Practices" /></t></s>
+
+
+
+
+
+
+<p><s><t>Amphidromia<n pronunciation="Amphidromia" /></t>
+<t>Animal<n pronunciation="Animal" /></t> <t>sacrifice<n pronunciation="sacrifice" /></t>
+<t>Funeral<n pronunciation="Funeral" /></t> <t>practices<n pronunciation="practices" /></t>
+<t>Greek<n pronunciation="Greek" /></t> <t>hero<n pronunciation="hero" /></t> <t>cult<n pronunciation="cult" /></t>
+<t>Hieros<n pronunciation="Hieros" /></t> <t>gamos<n pronunciation="gamos" /></t>
+<t>Iatromantis<n pronunciation="Iatromantis" /></t>
+<t>Libations<n pronunciation="Libations" /></t>
+<t>Oracles<n pronunciation="Oracles" /></t>
+<t>Pharmakos<n pronunciation="Pharmakos" /></t>
+<t>Temples<n pronunciation="Temples" /></t>
+<t>Votive<n pronunciation="Votive" /></t> <t>offerings<n pronunciation="offerings" /></t></s></p>
+
+
+
+
+
+<s><t>Festivals<n pronunciation="Festivals" /></t></s>
+
+
+
+
+
+<p><s><t>Daphnephoria<n pronunciation="Daphnephoria" /></t>
+<t>Dionysia<n pronunciation="Dionysia" /></t></s></p>
+
+
+
+<p><s><t>Dionysian<n pronunciation="Dionysian" /></t> <t>Mysteries<n pronunciation="Mysteries" /></t>
+<t>Eleusinian<n pronunciation="Eleusinian" /></t> <t>Mysteries<n pronunciation="Mysteries" /></t>
+<t>Panathenaic<n pronunciation="Panathenaic" /></t> <t>Games<n pronunciation="Games" /></t></s>
+
+<s><t>Panhellenic<n pronunciation="Panhellenic" /></t> <t>Games<n pronunciation="Games" /></t></s>
+
+
+<p><s><t>(</t><t>Isthmian<n pronunciation="Isthmian" /></t>
+<t>Nemean<n pronunciation="Nemean" /></t>
+<t>Olympic<n pronunciation="Olympic" /></t>
+<t>Pythian<n pronunciation="Pythian" /></t><t>)</t></s></p>
+
+
+
+
+<s><t>Thesmophoria<n pronunciation="Thesmophoria" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Sacred<n pronunciation="Sacred" /></t> <t>places<n pronunciation="places" /></t></s>
+
+
+
+<p><s><t>Eleusis<n pronunciation="Eleusis" /></t>
+<t>Delphi<n pronunciation="Delphi" /></t>
+<t>Delos<n pronunciation="Delos" /></t>
+<t>Dodona<n pronunciation="Dodona" /></t>
+<t>Mount<n pronunciation="Mount" /></t> <t>Olympus<n pronunciation="Olympus" /></t>
+<t>Olympia<n pronunciation="Olympia" /></t></s></p>
+
+
+
+
+
+
+
+
+
+<s><t>Texts<n pronunciation="Texts" /></t></s>
+
+
+
+<p><s><t>Argonautica<n pronunciation="Argonautica" /></t>
+<t>Bibliotheca<n pronunciation="Bibliotheca" /></t>
+<t>Corpus<n pronunciation="Corpus" /></t> <t>Hermeticum<n pronunciation="Hermeticum" /></t>
+<t>Delphic<n pronunciation="Delphic" /></t> <t>maxims<n pronunciation="maxims" /></t>
+<t>Dionysiaca<n pronunciation="Dionysiaca" /></t>
+<t>Epic<n pronunciation="Epic" /></t> <t>Cycle<n pronunciation="Cycle" /></t>
+<t>Homeric<n pronunciation="Homeric" /></t> <t>Hymns<n pronunciation="Hymns" /></t>
+<t>Iliad<n pronunciation="Iliad" /></t>
+<t>Odyssey<n pronunciation="Odyssey" /></t>
+<t>Orphic<n pronunciation="Orphic" /></t> <t>Hymns<n pronunciation="Hymns" /></t>
+<t>Theogony<n pronunciation="Theogony" /></t>
+<t>Works<n pronunciation="Works" /></t> <t>and<n pronunciation="and" /></t> <t>Days<n pronunciation="Days" /></t></s></p>
+
+
+
+
+
+
+
+
+
+<s><t>History<n pronunciation="History" /></t></s>
+
+
+<p><s><t>Mycenaean<n pronunciation="Mycenaean" /></t> <t>gods<n pronunciation="gods" /></t>
+<t>Decline<n pronunciation="Decline" /></t> <t>of<n pronunciation="of" /></t> <t>Hellenistic<n pronunciation="Hellenistic" /></t> <t>polytheism<n pronunciation="polytheism" /></t>
+<t>Julian<n pronunciation="Julian" /></t> <t>restoration<n pronunciation="restoration" /></t></s></p>
+
+
+
+
+
+
+ <s><t>Hellenismos<n pronunciation="Hellenismos" /></t> <t>portal<n pronunciation="portal" /></t></s>
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+</ignored>
+
+<p><s><t>A<n pronunciation="A" /></t> <t>listing<n pronunciation="listing" /></t> <t>of<n pronunciation="of" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>mythological<n pronunciation="mythological" /></t> <t>figures<n pronunciation="figures" /></t><t>.</t></s> <s><t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t> <t>family<n pronunciation="family" /></t> <t>tree<n pronunciation="tree" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>gods<n pronunciation="gods" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>list<n pronunciation="list" /></t> <t>of<n pronunciation="of" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>mythological<n pronunciation="mythological" /></t> <t>creatures<n pronunciation="creatures" /></t><t>.</t></s> <s><t>For<n pronunciation="For" /></t> <t>a<n pronunciation="a" /></t> <t>list<n pronunciation="list" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>deities<n pronunciation="deities" /></t> <t>of<n pronunciation="of" /></t> <t>many<n pronunciation="many" /></t> <t>cultures<n pronunciation="cultures" /></t> <t>(</t><t>including<n pronunciation="including" /></t> <t>this<n pronunciation="this" /></t> <t>one<n pronunciation="one" /></t><t>)</t><t>,</t> <t>see<n pronunciation="see" /></t> <t>list<n pronunciation="list" /></t> <t>of<n pronunciation="of" /></t> <t>deities<n pronunciation="deities" /></t><t>.</t></s></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>Immortals<n pronunciation="Immortals" /></t></s>
+
+<p><s><t>1.1<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="one" /></t> <t>Olympian<n pronunciation="Olympian" /></t> <t>deities<n pronunciation="deities" /></t>
+<t>1.2<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>Primordial<n pronunciation="Primordial" /></t> <t>deities<n pronunciation="deities" /></t>
+<t>1.3<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="three" /></t> <t>Titans<n pronunciation="Titans" /></t>
+<t>1.4<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="four" /></t> <t>The<n pronunciation="The" /></t> <t>Hundred-Handed<n pronunciation="Hundred" /><n pronunciation="Handed" /></t> <t>Ones<n pronunciation="Ones" /></t> <t>(</t><t>Hecatoncheires<n pronunciation="Hecatoncheires" /></t><t>)</t>
+<t>1.5<n pronunciation="1.5" /></t> <t>Cyclopes<n pronunciation="Cyclopes" /></t>
+<t>1.6<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="six" /></t> <t>River<n pronunciation="River" /></t> <t>gods<n pronunciation="gods" /></t>
+<t>1.7<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="seven" /></t> <t>Nymphs<n pronunciation="Nymphs" /></t>
+<t>1.8<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="eight" /></t> <t>Giants<n pronunciation="Giants" /></t>
+<t>1.9<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="nine" /></t> <t>Other<n pronunciation="Other" /></t> <t>deities<n pronunciation="deities" /></t></s></p>
+
+
+<s><t>2<n pronunciation="two" /></t> <t>Mortals<n pronunciation="Mortals" /></t></s>
+
+<p><s><t>2.1<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="one" /></t> <t>A-B<n pronunciation="_a" /><n pronunciation="B" /></t>
+<t>2.2<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>C-G<n pronunciation="C" /><n pronunciation="G" /></t>
+<t>2.3<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="three" /></t> <t>H-L<n pronunciation="H" /><n pronunciation="L" /></t>
+<t>2.4<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="four" /></t> <t>M-P<n pronunciation="M" /><n pronunciation="P" /></t>
+<t>2.5<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>R-Z<n pronunciation="R" /><n pronunciation="Z" /></t></s></p>
+
+</p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>Immortals<n pronunciation="Immortals" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<section level="3"><sectiontitle><t>Olympian<n pronunciation="Olympian" /></t> <t>deities<n pronunciation="deities" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<ignored><s><t>Greek<n pronunciation="Greek" /></t> <t>name<n pronunciation="name" /></t>
+<t>English<n pronunciation="English" /></t> <t>name<n pronunciation="name" /></t>
+<t>Description<n pronunciation="Description" /></t></s>
+
+
+<s><t>Aφροδίτη<n pronunciation="Aφροδίτη" /></t> <t>(</t><t>Aphroditē<n pronunciation="Aphroditē" /></t><t>)</t>
+<t>Aphrodite<n pronunciation="Aphrodite" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>love<n pronunciation="love" /></t><t>,</t> <t>lust<n pronunciation="lust" /></t><t>,</t> <t>beauty<n pronunciation="beauty" /></t><t>,</t> <t>wife<n pronunciation="wife" /></t> <t>of<n pronunciation="of" /></t> <t>Hephaestus<n pronunciation="Hephaestus" /></t><t>.</t></s> <s><t>Ares<n pronunciation="Ares" /></t> <t>is<n pronunciation="is" /></t> <t>her<n pronunciation="her" /></t> <t>lover<n pronunciation="lover" /></t><t>.</t></s> <s><t>Eros<n pronunciation="Eros" /></t> <t>is<n pronunciation="is" /></t> <t>her<n pronunciation="her" /></t> <t>son<n pronunciation="son" /></t><t>.</t></s> <s><t>Known<n pronunciation="Known" /></t> <t>as<n pronunciation="as" /></t> <t>the<n pronunciation="the" /></t> <t>most<n pronunciation="most" /></t> <t>beautiful<n pronunciation="beautiful" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>goddesses<n pronunciation="goddesses" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>scepter<n pronunciation="scepter" /></t><t>,</t> <t>myrtle<n pronunciation="myrtle" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>dove<n pronunciation="dove" /></t><t>.</t></s>
+
+
+<s><t>Aπόλλων<n pronunciation="Aπόλλων" /></t> <t>(</t><t>Apollōn<n pronunciation="Apollōn" /></t><t>)</t>
+<t>Apollo<n pronunciation="Apollo" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>music<n pronunciation="music" /></t><t>,</t> <t>prophecies<n pronunciation="prophecies" /></t><t>,</t> <t>poetry<n pronunciation="poetry" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>archery<n pronunciation="archery" /></t><t>.</t></s> <s><t>Also<n pronunciation="Also" /></t> <t>said<n pronunciation="said" /></t> <t>to<n pronunciation="to" /></t> <t>be<n pronunciation="be" /></t> <t>the<n pronunciation="the" /></t> <t>god<n pronunciation="god" /></t> <t>of<n pronunciation="of" /></t> <t>light<n pronunciation="light" /></t> <t>and<n pronunciation="and" /></t> <t>truth<n pronunciation="truth" /></t><t>.</t></s> <s><t>Is<n pronunciation="Is" /></t> <t>associated<n pronunciation="associated" /></t> <t>with<n pronunciation="with" /></t> <t>the<n pronunciation="the" /></t> <t>sun<n pronunciation="sun" /></t><t>.</t></s> <s><t>Also<n pronunciation="Also" /></t> <t>referred<n pronunciation="referred" /></t> <t>to<n pronunciation="to" /></t> <t>as<n pronunciation="as" /></t> <t>the<n pronunciation="the" /></t> <t>most<n pronunciation="most" /></t> <t>beautiful<n pronunciation="beautiful" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>gods<n pronunciation="gods" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>is<n pronunciation="is" /></t> <t>Artemis's<n pronunciation="Artemis's" /></t> <t>twin<n pronunciation="twin" /></t> <t>brother<n pronunciation="brother" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>son<n pronunciation="son" /></t> <t>of<n pronunciation="of" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>bow<n pronunciation="bow" /></t><t>,</t> <t>lyre<n pronunciation="lyre" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>laurel<n pronunciation="laurel" /></t><t>.</t></s>
+
+
+<s><t>Άρης<n pronunciation="Άρης" /></t> <t>(</t><t>Arēs<n pronunciation="Arēs" /></t><t>)</t>
+<t>Ares<n pronunciation="Ares" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>war<n pronunciation="war" /></t><t>,</t> <t>murder<n pronunciation="murder" /></t> <t>and<n pronunciation="and" /></t> <t>bloodshed<n pronunciation="bloodshed" /></t><t>.</t></s> <s><t>Brother<n pronunciation="Brother" /></t> <t>to<n pronunciation="to" /></t> <t>Athena<n pronunciation="Athena" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>son<n pronunciation="son" /></t> <t>of<n pronunciation="of" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>.</t></s> <s><t>Has<n pronunciation="Has" /></t> <t>an<n pronunciation="an" /></t> <t>affair<n pronunciation="affair" /></t> <t>with<n pronunciation="with" /></t> <t>Aphrodite<n pronunciation="Aphrodite" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>vultures<n pronunciation="vultures" /></t><t>,</t> <t>dogs<n pronunciation="dogs" /></t><t>,</t> <t>boars<n pronunciation="boars" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>a<n pronunciation="a" /></t> <t>spear<n pronunciation="spear" /></t><t>.</t></s>
+
+
+<s><t>Άρτεμις<n pronunciation="Άρτεμις" /></t> <t>(</t><t>Artemis<n pronunciation="Artemis" /></t><t>)</t>
+<t>Artemis<n pronunciation="Artemis" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>hunt<n pronunciation="hunt" /></t> <t>and<n pronunciation="and" /></t> <t>wild<n pronunciation="wild" /></t> <t>things<n pronunciation="things" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>moon<n pronunciation="moon" /></t><t>.</t></s> <s><t>Protector<n pronunciation="Protector" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>dewy<n pronunciation="dewy" /></t> <t>young<n pronunciation="young" /></t><t>.</t></s> <s><t>She<n pronunciation="She" /></t> <t>became<n pronunciation="became" /></t> <t>associated<n pronunciation="associated" /></t> <t>with<n pronunciation="with" /></t> <t>the<n pronunciation="the" /></t> <t>moon<n pronunciation="moon" /></t><t>.</t></s> <s><t>Apollo<n pronunciation="Apollo" /></t> <t>is<n pronunciation="is" /></t> <t>her<n pronunciation="her" /></t> <t>twin<n pronunciation="twin" /></t> <t>brother<n pronunciation="brother" /></t><t>.</t></s> <s><t>Artemis<n pronunciation="Artemis" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>virgin<n pronunciation="virgin" /></t> <t>goddess<n pronunciation="goddess" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>bow<n pronunciation="bow" /></t><t>,</t> <t>dogs<n pronunciation="dogs" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>deer<n pronunciation="deer" /></t><t>.</t></s>
+
+
+<s><t>Αθηνά<n pronunciation="Αθηνά" /></t> <t>(</t><t>Athēna<n pronunciation="Athēna" /></t><t>)</t>
+<t>Athena<n pronunciation="Athena" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>wisdom<n pronunciation="wisdom" /></t><t>,</t> <t>warfare<n pronunciation="warfare" /></t><t>,</t> <t>handicrafts<n pronunciation="handicrafts" /></t> <t>and<n pronunciation="and" /></t> <t>reason<n pronunciation="reason" /></t><t>.</t></s> <s><t>Sister<n pronunciation="Sister" /></t> <t>of<n pronunciation="of" /></t> <t>Ares<n pronunciation="Ares" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>daughter<n pronunciation="daughter" /></t> <t>of<n pronunciation="of" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>.</t></s> <s><t>Sprung<n pronunciation="Sprung" /></t> <t>from<n pronunciation="from" /></t> <t>Zeus's<n pronunciation="Zeus's" /></t> <t>head<n pronunciation="head" /></t> <t>in<n pronunciation="in" /></t> <t>full<n pronunciation="full" /></t> <t>body<n pronunciation="body" /></t> <t>armor<n pronunciation="armor" /></t><t>.</t></s> <s><t>She<n pronunciation="She" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>wisest<n pronunciation="wisest" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>gods<n pronunciation="gods" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>aegis<n pronunciation="aegis" /></t><t>,</t> <t>owl<n pronunciation="owl" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>olive<n pronunciation="olive" /></t> <t>tree<n pronunciation="tree" /></t><t>.</t></s>
+
+
+<s><t>Δήμητρα<n pronunciation="Δήμητρα" /></t> <t>(</t><t>Dēmētra<n pronunciation="Dēmētra" /></t><t>)</t>
+<t>Demeter<n pronunciation="Demeter" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>fertility<n pronunciation="fertility" /></t><t>,</t> <t>grain<n pronunciation="grain" /></t> <t>and<n pronunciation="and" /></t> <t>harvest<n pronunciation="harvest" /></t><t>.</t></s> <s><t>Demeter<n pronunciation="Demeter" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>daughter<n pronunciation="daughter" /></t> <t>of<n pronunciation="of" /></t> <t>Cronus<n pronunciation="Cronus" /></t> <t>and<n pronunciation="and" /></t> <t>Rhea<n pronunciation="Rhea" /></t> <t>and<n pronunciation="and" /></t> <t>sister<n pronunciation="sister" /></t> <t>of<n pronunciation="of" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>scepter<n pronunciation="scepter" /></t><t>,</t> <t>torch<n pronunciation="torch" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>corn<n pronunciation="corn" /></t><t>.</t></s>
+
+
+<s><t>Διόνυσος<n pronunciation="Διόνυσος" /></t> <t>(</t><t>Dionysus<n pronunciation="Dionysus" /></t><t>)</t>
+<t>Dionysus<n pronunciation="Dionysus" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>wine<n pronunciation="wine" /></t><t>,</t> <t>parties/festivals<n pronunciation="parties" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="festivals" /></t><t>,</t> <t>madness<n pronunciation="madness" /></t> <t>and<n pronunciation="and" /></t> <t>merriment<n pronunciation="merriment" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>represents<n pronunciation="represents" /></t> <t>not<n pronunciation="not" /></t> <t>only<n pronunciation="only" /></t> <t>the<n pronunciation="the" /></t> <t>intoxicating<n pronunciation="intoxicating" /></t> <t>power<n pronunciation="power" /></t> <t>of<n pronunciation="of" /></t> <t>wine<n pronunciation="wine" /></t><t>,</t> <t>but<n pronunciation="but" /></t> <t>also<n pronunciation="also" /></t> <t>its<n pronunciation="its" /></t> <t>social<n pronunciation="social" /></t> <t>and<n pronunciation="and" /></t> <t>beneficial<n pronunciation="beneficial" /></t> <t>influences<n pronunciation="influences" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>grape<n pronunciation="grape" /></t> <t>vine<n pronunciation="vine" /></t><t>,</t> <t>ivy<n pronunciation="ivy" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>thyrsus<n pronunciation="thyrsus" /></t><t>.</t></s>
+
+
+<s><t>ᾍδης<n pronunciation="ᾍδης" /></t> <t>(</t><t>Hades<n pronunciation="Hades" /></t><t>)</t>
+<t>Hades<n pronunciation="Hades" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>underworld<n pronunciation="underworld" /></t><t>.</t></s> <s><t>Brother<n pronunciation="Brother" /></t> <t>of<n pronunciation="of" /></t> <t>Poseidon<n pronunciation="Poseidon" /></t> <t>and<n pronunciation="and" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>consort<n pronunciation="consort" /></t> <t>to<n pronunciation="to" /></t> <t>Persephone<n pronunciation="Persephone" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>bident<n pronunciation="bident" /></t><t>,</t> <t>the<n pronunciation="the" /></t> <t>Helm<n pronunciation="Helm" /></t> <t>of<n pronunciation="of" /></t> <t>Darkness<n pronunciation="Darkness" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>three-headed<n pronunciation="three" /><n pronunciation="headed" /></t> <t>dog<n pronunciation="dog" /></t><t>,</t> <t>Cerberus<n pronunciation="Cerberus" /></t><t>.</t></s>
+
+
+<s><t>Ήφαιστος<n pronunciation="Ήφαιστος" /></t> <t>(</t><t>Hēphaistos<n pronunciation="Hēphaistos" /></t><t>)</t>
+<t>Hephaestus<n pronunciation="Hephaestus" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>fire<n pronunciation="fire" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>forge<n pronunciation="forge" /></t> <t>(</t><t>god<n pronunciation="god" /></t> <t>of<n pronunciation="of" /></t> <t>fire<n pronunciation="fire" /></t> <t>and<n pronunciation="and" /></t> <t>smiths<n pronunciation="smiths" /></t><t>)</t> <t>with<n pronunciation="with" /></t> <t>very<n pronunciation="very" /></t> <t>weak<n pronunciation="weak" /></t> <t>legs<n pronunciation="legs" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>was<n pronunciation="was" /></t> <t>thrown<n pronunciation="thrown" /></t> <t>off<n pronunciation="off" /></t> <t>Mount<n pronunciation="Mount" /></t> <t>Olympus<n pronunciation="Olympus" /></t> <t>as<n pronunciation="as" /></t> <t>a<n pronunciation="a" /></t> <t>baby<n pronunciation="baby" /></t> <t>by<n pronunciation="by" /></t> <t>his<n pronunciation="his" /></t> <t>mother<n pronunciation="mother" /></t> <t>and<n pronunciation="and" /></t> <t>in<n pronunciation="in" /></t> <t>some<n pronunciation="some" /></t> <t>stories<n pronunciation="stories" /></t> <t>his<n pronunciation="his" /></t> <t>father<n pronunciation="father" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>makes<n pronunciation="makes" /></t> <t>armor<n pronunciation="armor" /></t> <t>for<n pronunciation="for" /></t> <t>the<n pronunciation="the" /></t> <t>gods<n pronunciation="gods" /></t> <t>and<n pronunciation="and" /></t> <t>other<n pronunciation="other" /></t> <t>heroes<n pronunciation="heroes" /></t> <t>like<n pronunciation="like" /></t> <t>Achilles<n pronunciation="Achilles" /></t><t>.</t></s> <s><t>Son<n pronunciation="Son" /></t> <t>of<n pronunciation="of" /></t> <t>Hera<n pronunciation="Hera" /></t> <t>and<n pronunciation="and" /></t> <t>Zeus<n pronunciation="Zeus" /></t> <t>is<n pronunciation="is" /></t> <t>his<n pronunciation="his" /></t> <t>father<n pronunciation="father" /></t> <t>in<n pronunciation="in" /></t> <t>some<n pronunciation="some" /></t> <t>accounts<n pronunciation="accounts" /></t><t>.</t></s> <s><t>Married<n pronunciation="Married" /></t> <t>to<n pronunciation="to" /></t> <t>Aphrodite<n pronunciation="Aphrodite" /></t><t>,</t> <t>but<n pronunciation="but" /></t> <t>she<n pronunciation="she" /></t> <t>does<n pronunciation="does" /></t> <t>not<n pronunciation="not" /></t> <t>love<n pronunciation="love" /></t> <t>him<n pronunciation="him" /></t> <t>because<n pronunciation="because" /></t> <t>he<n pronunciation="he" /></t> <t>is<n pronunciation="is" /></t> <t>deformed<n pronunciation="deformed" /></t> <t>and<n pronunciation="and" /></t><t>,</t> <t>as<n pronunciation="as" /></t> <t>a<n pronunciation="a" /></t> <t>result<n pronunciation="result" /></t><t>,</t> <t>is<n pronunciation="is" /></t> <t>cheating<n pronunciation="cheating" /></t> <t>on<n pronunciation="on" /></t> <t>him<n pronunciation="him" /></t> <t>with<n pronunciation="with" /></t> <t>Ares<n pronunciation="Ares" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>had<n pronunciation="had" /></t> <t>a<n pronunciation="a" /></t> <t>daughter<n pronunciation="daughter" /></t> <t>named<n pronunciation="named" /></t> <t>Pandora<n pronunciation="Pandora" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>an<n pronunciation="an" /></t> <t>axe<n pronunciation="axe" /></t><t>,</t> <t>a<n pronunciation="a" /></t> <t>hammer<n pronunciation="hammer" /></t> <t>and<n pronunciation="and" /></t> <t>a<n pronunciation="a" /></t> <t>flame<n pronunciation="flame" /></t><t>.</t></s>
+
+
+<s><t>Ήρα<n pronunciation="Ήρα" /></t> <t>(</t><t>Hēra<n pronunciation="Hēra" /></t><t>)</t>
+<t>Hera<n pronunciation="Hera" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>marriage<n pronunciation="marriage" /></t><t>,</t> <t>women<n pronunciation="women" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>childbirth<n pronunciation="childbirth" /></t><t>.</t></s> <s><t>Zeus<n pronunciation="Zeus" /></t><t>'</t> <t>wife<n pronunciation="wife" /></t><t>.</t></s> <s><t>Appears<n pronunciation="Appears" /></t> <t>with<n pronunciation="with" /></t> <t>peacock<n pronunciation="peacock" /></t> <t>feathers<n pronunciation="feathers" /></t> <t>often<n pronunciation="often" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>scepter<n pronunciation="scepter" /></t><t>,</t> <t>diadem<n pronunciation="diadem" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>peacock<n pronunciation="peacock" /></t><t>.</t></s>
+
+
+<s><t>Ερμής<n pronunciation="Ερμής" /></t> <t>(</t><t>Hērmēs<n pronunciation="Hērmēs" /></t><t>)</t>
+<t>Hermes<n pronunciation="Hermes" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>flight<n pronunciation="flight" /></t><t>,</t> <t>thieves<n pronunciation="thieves" /></t><t>,</t> <t>commerce<n pronunciation="commerce" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>travelers<n pronunciation="travelers" /></t><t>.</t></s> <s><t>Messenger<n pronunciation="Messenger" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>gods<n pronunciation="gods" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>showed<n pronunciation="showed" /></t> <t>the<n pronunciation="the" /></t> <t>way<n pronunciation="way" /></t> <t>for<n pronunciation="for" /></t> <t>the<n pronunciation="the" /></t> <t>dead<n pronunciation="dead" /></t> <t>souls<n pronunciation="souls" /></t> <t>to<n pronunciation="to" /></t> <t>Hades's<n pronunciation="Hades's" /></t> <t>realm<n pronunciation="realm" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>shows<n pronunciation="shows" /></t> <t>up<n pronunciation="up" /></t> <t>in<n pronunciation="in" /></t> <t>more<n pronunciation="more" /></t> <t>myths<n pronunciation="myths" /></t> <t>than<n pronunciation="than" /></t> <t>any<n pronunciation="any" /></t> <t>other<n pronunciation="other" /></t> <t>god<n pronunciation="god" /></t> <t>or<n pronunciation="or" /></t> <t>goddess<n pronunciation="goddess" /></t><t>.</t></s> <s><t>Likes<n pronunciation="Likes" /></t> <t>to<n pronunciation="to" /></t> <t>trick<n pronunciation="trick" /></t> <t>people<n pronunciation="people" /></t> <t>and<n pronunciation="and" /></t> <t>is<n pronunciation="is" /></t> <t>very<n pronunciation="very" /></t> <t>inventive<n pronunciation="inventive" /></t><t>.</t></s> <s><t>Hermes<n pronunciation="Hermes" /></t> <t>invented<n pronunciation="invented" /></t> <t>the<n pronunciation="the" /></t> <t>lyre<n pronunciation="lyre" /></t> <t>using<n pronunciation="using" /></t> <t>a<n pronunciation="a" /></t> <t>turtle<n pronunciation="turtle" /></t> <t>shell<n pronunciation="shell" /></t> <t>and<n pronunciation="and" /></t> <t>sinew<n pronunciation="sinew" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>caduceus<n pronunciation="caduceus" /></t> <t>and<n pronunciation="and" /></t> <t>winged<n pronunciation="winged" /></t> <t>boots<n pronunciation="boots" /></t><t>.</t></s>
+
+
+<s><t>Ἑστία<n pronunciation="Ἑστία" /></t> <t>(</t><t>Hestia<n pronunciation="Hestia" /></t><t>)</t>
+<t>Hestia<n pronunciation="Hestia" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>hearth<n pronunciation="hearth" /></t> <t>and<n pronunciation="and" /></t> <t>home<n pronunciation="home" /></t><t>,</t> <t>the<n pronunciation="the" /></t> <t>focal<n pronunciation="focal" /></t> <t>point<n pronunciation="point" /></t> <t>of<n pronunciation="of" /></t> <t>every<n pronunciation="every" /></t> <t>household<n pronunciation="household" /></t><t>.</t></s> <s><t>Daughter<n pronunciation="Daughter" /></t> <t>of<n pronunciation="of" /></t> <t>Rhea<n pronunciation="Rhea" /></t> <t>and<n pronunciation="and" /></t> <t>Cronus<n pronunciation="Cronus" /></t><t>.</t></s> <s><t>Gave<n pronunciation="Gave" /></t> <t>up<n pronunciation="up" /></t> <t>her<n pronunciation="her" /></t> <t>seat<n pronunciation="seat" /></t> <t>as<n pronunciation="as" /></t> <t>one<n pronunciation="one" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Twelve<n pronunciation="Twelve" /></t> <t>Olympians<n pronunciation="Olympians" /></t> <t>to<n pronunciation="to" /></t> <t>tend<n pronunciation="tend" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>sacred<n pronunciation="sacred" /></t> <t>flame<n pronunciation="flame" /></t> <t>on<n pronunciation="on" /></t> <t>Mount<n pronunciation="Mount" /></t> <t>Olympus<n pronunciation="Olympus" /></t> <t>for<n pronunciation="for" /></t> <t>Dionysus<n pronunciation="Dionysus" /></t><t>.</t></s> <s><t>Her<n pronunciation="Her" /></t> <t>symbol<n pronunciation="symbol" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>hearth<n pronunciation="hearth" /></t><t>.</t></s>
+
+
+<s><t>Poseidon<n pronunciation="Poseidon" /></t>
+<t>Poseidon<n pronunciation="Poseidon" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>sea<n pronunciation="sea" /></t><t>.</t></s> <s><t>He<n pronunciation="He" /></t> <t>created<n pronunciation="created" /></t> <t>horses<n pronunciation="horses" /></t> <t>from<n pronunciation="from" /></t> <t>sea<n pronunciation="sea" /></t> <t>foam<n pronunciation="foam" /></t><t>.</t></s> <s><t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>earthquakes<n pronunciation="earthquakes" /></t> <t>as<n pronunciation="as" /></t> <t>well<n pronunciation="well" /></t><t>.</t></s> <s><t>Also<n pronunciation="Also" /></t> <t>called<n pronunciation="called" /></t> <t>'</t><t>Earth<n pronunciation="Earth" /></t> <t>Shaker<n pronunciation="Shaker" /></t><t>'</t> <t>and<n pronunciation="and" /></t> <t>'</t><t>Storm<n pronunciation="Storm" /></t> <t>Bringer<n pronunciation="Bringer" /></t><t>'</t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>horses<n pronunciation="horses" /></t><t>,</t> <t>sea<n pronunciation="sea" /></t> <t>foam<n pronunciation="foam" /></t><t>,</t> <t>dolphins<n pronunciation="dolphins" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>a<n pronunciation="a" /></t> <t>trident<n pronunciation="trident" /></t><t>.</t></s>
+
+
+<s><t>Ζεύς<n pronunciation="Ζεύς" /></t> <t>(</t><t>Zeus<n pronunciation="Zeus" /></t><t>)</t>
+<t>Zeus<n pronunciation="Zeus" /></t>
+<t>The<n pronunciation="The" /></t> <t>king<n pronunciation="king" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>gods<n pronunciation="gods" /></t><t>,</t> <t>the<n pronunciation="the" /></t> <t>ruler<n pronunciation="ruler" /></t> <t>of<n pronunciation="of" /></t> <t>Mount<n pronunciation="Mount" /></t> <t>Olympus<n pronunciation="Olympus" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>god<n pronunciation="god" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>sky<n pronunciation="sky" /></t> <t>and<n pronunciation="and" /></t> <t>thunder<n pronunciation="thunder" /></t><t>.</t></s> <s><t>His<n pronunciation="His" /></t> <t>symbols<n pronunciation="symbols" /></t> <t>are<n pronunciation="are" /></t> <t>the<n pronunciation="the" /></t> <t>thunderbolt<n pronunciation="thunderbolt" /></t><t>,</t> <t>eagle<n pronunciation="eagle" /></t><t>,</t> <t>bull<n pronunciation="bull" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>oak<n pronunciation="oak" /></t><t>.</t></s></ignored>
+</sectioncontent></section>
+
+<section level="3"><sectiontitle><t>Primordial<n pronunciation="Primordial" /></t> <t>deities<n pronunciation="deities" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<ignored><s><t>Greek<n pronunciation="Greek" /></t> <t>name<n pronunciation="name" /></t>
+<t>English<n pronunciation="English" /></t> <t>name<n pronunciation="name" /></t>
+<t>Description<n pronunciation="Description" /></t></s>
+
+
+<s><t>Αιθήρ<n pronunciation="Αιθήρ" /></t> <t>(</t><t>Aithēr<n pronunciation="Aithēr" /></t><t>)</t>
+<t>Aether<n pronunciation="Aether" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>upper<n pronunciation="upper" /></t> <t>air<n pronunciation="air" /></t><t>.</t></s>
+
+
+<s><t>Χάος<n pronunciation="Χάος" /></t> <t>(</t><t>Khaos<n pronunciation="Khaos" /></t><t>)</t>
+<t>Chaos<n pronunciation="Chaos" /></t>
+<t>Non-gendered<n pronunciation="Non" /><n pronunciation="gendered" /></t> <t>deity<n pronunciation="deity" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>nothingness<n pronunciation="nothingness" /></t> <t>from<n pronunciation="from" /></t> <t>which<n pronunciation="which" /></t> <t>all<n pronunciation="all" /></t> <t>else<n pronunciation="else" /></t> <t>sprang<n pronunciation="sprang" /></t><t>.</t></s>
+
+
+<s><t>Κρόνος<n pronunciation="Κρόνος" /></t> <t>or<n pronunciation="or" /></t> <t>Kronos<n pronunciation="Kronos" /></t>
+<t>Kronos<n pronunciation="Kronos" /></t> <t>or<n pronunciation="or" /></t> <t>Cronus<n pronunciation="Cronus" /></t>
+<t>Titan<n pronunciation="Titan" /></t> <t>of<n pronunciation="of" /></t> <t>eternal<n pronunciation="eternal" /></t> <t>time<n pronunciation="time" /></t> <t>and<n pronunciation="and" /></t> <t>father<n pronunciation="father" /></t> <t>of<n pronunciation="of" /></t> <t>six<n pronunciation="six" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Olympian<n pronunciation="Olympian" /></t> <t>gods<n pronunciation="gods" /></t><t>.</t></s> <s><t>Cronus<n pronunciation="Cronus" /></t> <t>and<n pronunciation="and" /></t> <t>Chronos<n pronunciation="Chronos" /></t> <t>(</t><t>Kρόνος<n pronunciation="Kρόνος" /></t> <t>and<n pronunciation="and" /></t> <t>Xρόνος<n pronunciation="Xρόνος" /></t><t>)</t> <t>are<n pronunciation="are" /></t> <t>two<n pronunciation="two" /></t> <t>separate<n pronunciation="separate" /></t> <t>entities<n pronunciation="entities" /></t> <t>altogether<n pronunciation="altogether" /></t><t>.</t></s> <s><t>Chronos<n pronunciation="Chronos" /></t> <t>is<n pronunciation="is" /></t> <t>The<n pronunciation="The" /></t> <t>Keeper<n pronunciation="Keeper" /></t> <t>of<n pronunciation="of" /></t> <t>time<n pronunciation="time" /></t><t>;</t> <t>Cronus<n pronunciation="Cronus" /></t> <t>or<n pronunciation="or" /></t> <t>Kronos<n pronunciation="Kronos" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>father<n pronunciation="father" /></t> <t>of<n pronunciation="of" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>,</t> <t>Poseidon<n pronunciation="Poseidon" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>Hades<n pronunciation="Hades" /></t><t>.</t></s> <s><t>In<n pronunciation="In" /></t> <t>addition<n pronunciation="addition" /></t><t>,</t> <t>in<n pronunciation="in" /></t> <t>the<n pronunciation="the" /></t> <t>Greek<n pronunciation="Greek" /></t> <t>language<n pronunciation="language" /></t> <t>"</t><t>χρονια<n pronunciation="χρονια" /></t><t>"</t> <t>means<n pronunciation="means" /></t> <t>"</t><t>year<n pronunciation="year" /></t><t>"</t> <t>or<n pronunciation="or" /></t> <t>"</t><t>years<n pronunciation="years" /></t><t>"</t> <t>depending<n pronunciation="depending" /></t> <t>on<n pronunciation="on" /></t> <t>accent<n pronunciation="accent" /></t><t>.</t></s>
+
+
+<s><t>Έρεβος<n pronunciation="Έρεβος" /></t> <t>(</t><t>Erebos<n pronunciation="Erebos" /></t><t>)</t>
+<t>Erebus<n pronunciation="Erebus" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>darkness<n pronunciation="darkness" /></t> <t>and<n pronunciation="and" /></t> <t>shadow<n pronunciation="shadow" /></t><t>.</t></s>
+
+
+<s><t>Γαία<n pronunciation="Γαία" /></t> <t>(</t><t>Gaia<n pronunciation="Gaia" /></t><t>)</t>
+<t>Gaia<n pronunciation="Gaia" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Earth<n pronunciation="Earth" /></t> <t>(</t><t>Mother<n pronunciation="Mother" /></t> <t>Earth<n pronunciation="Earth" /></t><t>)</t><t>,</t> <t>mother<n pronunciation="mother" /></t> <t>of<n pronunciation="of" /></t> <t>Kronos<n pronunciation="Kronos" /></t> <t>(</t><t>Cronus<n pronunciation="Cronus" /></t><t>)</t><t>.</t></s>
+
+
+<s><t>Ημέρα<n pronunciation="Ημέρα" /></t> <t>(</t><t>Émera<n pronunciation="Emera" /></t><t>)</t>
+<t>Hemera<n pronunciation="Hemera" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>daylight<n pronunciation="daylight" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>sun<n pronunciation="sun" /></t><t>.</t></s>
+
+
+<s><t>Ζέφυρος<n pronunciation="Ζέφυρος" /></t> <t>(</t><t>Zephuros<n pronunciation="Zephuros" /></t><t>)</t>
+<t>Zephyrus<n pronunciation="Zephyrus" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>west<n pronunciation="west" /></t> <t>wind<n pronunciation="wind" /></t><t>.</t></s>
+
+
+<s><t>Νύξ<n pronunciation="Νύξ" /></t> <t>(</t><t>Nux<n pronunciation="Nux" /></t><t>)</t>
+<t>Nyx<n pronunciation="Nyx" /></t>
+<t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>darkness/night<n pronunciation="darkness" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="night" /></t><t>.</t></s> <s><t>She<n pronunciation="She" /></t> <t>is<n pronunciation="is" /></t> <t>also<n pronunciation="also" /></t> <t>the<n pronunciation="the" /></t> <t>only<n pronunciation="only" /></t> <t>being<n pronunciation="being" /></t> <t>from<n pronunciation="from" /></t> <t>which<n pronunciation="which" /></t> <t>Zeus<n pronunciation="Zeus" /></t> <t>turned<n pronunciation="turned" /></t> <t>from<n pronunciation="from" /></t> <t>when<n pronunciation="when" /></t> <t>her<n pronunciation="her" /></t> <t>son<n pronunciation="son" /></t> <t>Hypnos<n pronunciation="Hypnos" /></t><t>,</t> <t>who<n pronunciation="who" /></t> <t>had<n pronunciation="had" /></t> <t>angered<n pronunciation="angered" /></t> <t>Zeus<n pronunciation="Zeus" /></t><t>,</t> <t>hid<n pronunciation="hid" /></t> <t>behind<n pronunciation="behind" /></t> <t>her<n pronunciation="her" /></t><t>.</t></s>
+
+
+<s><t>Τάρταρος<n pronunciation="Τάρταρος" /></t> <t>(</t><t>Tartaros<n pronunciation="Tartaros" /></t><t>)</t>
+<t>Tartarus<n pronunciation="Tartarus" /></t>
+<t>Is<n pronunciation="Is" /></t> <t>the<n pronunciation="the" /></t> <t>darkest<n pronunciation="darkest" /></t><t>,</t> <t>deepest<n pronunciation="deepest" /></t> <t>part<n pronunciation="part" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>underworld<n pronunciation="underworld" /></t> <t>controlled<n pronunciation="controlled" /></t> <t>by<n pronunciation="by" /></t> <t>Hades<n pronunciation="Hades" /></t><t>.</t></s>
+
+
+<s><t>Ουρανός<n pronunciation="Ουρανός" /></t> <t>(</t><t>Ouranos<n pronunciation="Ouranos" /></t><t>)</t>
+<t>Uranus<n pronunciation="Uranus" /></t>
+<t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>heavens<n pronunciation="heavens" /></t> <t>(</t><t>Father<n pronunciation="Father" /></t> <t>Sky<n pronunciation="Sky" /></t><t>)</t> <t>and<n pronunciation="and" /></t> <t>father<n pronunciation="father" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Titans<n pronunciation="Titans" /></t><t>;</t> <t>banished<n pronunciation="banished" /></t> <t>the<n pronunciation="the" /></t> <t>Cyclopes<n pronunciation="Cyclopes" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>underworld<n pronunciation="underworld" /></t> <t>because<n pronunciation="because" /></t> <t>they<n pronunciation="they" /></t> <t>did<n pronunciation="did" /></t> <t>not<n pronunciation="not" /></t> <t>please<n pronunciation="please" /></t> <t>him<n pronunciation="him" /></t><t>.</t></s></ignored>
+</sectioncontent></section>
+
+<section level="3"><sectiontitle><t>Titans<n pronunciation="Titans" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Themis<n pronunciation="Themis" /></t>
+<t>Cronus<n pronunciation="Cronus" /></t>
+<t>Atlas<n pronunciation="Atlas" /></t>
+<t>Oceanus<n pronunciation="Oceanus" /></t>
+<t>Tethys<n pronunciation="Tethys" /></t>
+<t>Hyperion<n pronunciation="Hyperion" /></t>
+<t>Theia<n pronunciation="Theia" /></t>
+<t>Coeus<n pronunciation="Coeus" /></t>
+<t>Phoebe<n pronunciation="Phoebe" /></t>
+<t>Rhea<n pronunciation="Rhea" /></t>
+<t>Crius<n pronunciation="Crius" /></t>
+<t>Iapetus<n pronunciation="Iapetus" /></t>
+<t>Prometheus<n pronunciation="Prometheus" /></t>
+<t>Helios<n pronunciation="Helios" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>The<n pronunciation="The" /></t> <t>Hundred-Handed<n pronunciation="Hundred" /><n pronunciation="Handed" /></t> <t>Ones<n pronunciation="Ones" /></t> <t>(</t><t>Hecatoncheires<n pronunciation="Hecatoncheires" /></t><t>)</t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Briareus<n pronunciation="Briareus" /></t> <t>(</t><t>or<n pronunciation="or" /></t> <t>Aegaeon<n pronunciation="Aegaeon" /></t><t>)</t> <t>(</t><t>Βριάρεως<n pronunciation="Βριάρεως" /></t><t>)</t>
+<t>Gyes<n pronunciation="Gyes" /></t>
+<t>Cottusgeit<n pronunciation="Cottusgeit" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>Cyclopes<n pronunciation="Cyclopes" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Arges<n pronunciation="Arges" /></t>
+<t>Brontes<n pronunciation="Brontes" /></t>
+<t>Steropes<n pronunciation="Steropes" /></t>
+<t>Polyphemus<n pronunciation="Polyphemus" /></t> <t>(</t><t>Πολύφημος<n pronunciation="Πολύφημος" /></t><t>)</t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>River<n pronunciation="River" /></t> <t>gods<n pronunciation="gods" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Achelous<n pronunciation="Achelous" /></t> <t>(</t><t>Αχέλους<n pronunciation="Αχέλους" /></t> <t>or<n pronunciation="or" /></t> <t>Αχελώος<n pronunciation="Αχελώος" /></t> <t>in<n pronunciation="in" /></t> <t>contemporary<n pronunciation="contemporary" /></t> <t>Greek<n pronunciation="Greek" /></t><t>)</t>
+<t>Acheron<n pronunciation="Acheron" /></t> <t>(</t><t>Αχέρων<n pronunciation="Αχέρων" /></t><t>)</t>
+<t>Acis<n pronunciation="Acis" /></t>
+<t>Alpheus<n pronunciation="Alpheus" /></t> <t>(</t><t>Αλφειός<n pronunciation="Αλφειός" /></t><t>)</t>
+<t>Asopus<n pronunciation="Asopus" /></t> <t>(</t><t>Ασωπός<n pronunciation="Ασωπός" /></t><t>)</t>
+<t>Cladeus<n pronunciation="Cladeus" /></t>
+<t>Eurotas<n pronunciation="Eurotas" /></t> <t>(</t><t>Ευρώτας<n pronunciation="Ευρώτας" /></t><t>)</t>
+<t>Peneus<n pronunciation="Peneus" /></t> <t>(</t><t>Πηνειός<n pronunciation="Πηνειός" /></t><t>)</t>
+<t>Styx<n pronunciation="Styx" /></t>
+<t>Emanopsus<n pronunciation="Emanopsus" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>Nymphs<n pronunciation="Nymphs" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Adrasteia<n pronunciation="Adrasteia" /></t> <t>(</t><t>Αδράστεια<n pronunciation="Αδράστεια" /></t><t>)</t>
+<t>Clytie<n pronunciation="Clytie" /></t>
+<t>Crataeis<n pronunciation="Crataeis" /></t>
+<t>Daphne<n pronunciation="Daphne" /></t> <t>(</t><t>Δάφνη<n pronunciation="Δάφνη" /></t><t>)</t>
+<t>Dryads<n pronunciation="Dryads" /></t> <t>(</t><t>Δρυάς-Δρυάδες<n pronunciation="Δρυάς" /><n pronunciation="Δρυάδες" /></t> <t>in<n pronunciation="in" /></t> <t>plural<n pronunciation="plural" /></t><t>)</t>
+<t>Hamadryads<n pronunciation="Hamadryads" /></t> <t>(</t><t>Αμαδρυάς-Αμαδρυάδες<n pronunciation="Αμαδρυάς" /><n pronunciation="Αμαδρυάδες" /></t> <t>in<n pronunciation="in" /></t> <t>plural<n pronunciation="plural" /></t><t>)</t>
+<t>Metope<n pronunciation="Metope" /></t> <t>(</t><t>Μετώπη<n pronunciation="Μετώπη" /></t><t>)</t>
+<t>Naiads<n pronunciation="Naiads" /></t> <t>(</t><t>Ναιάδες<n pronunciation="Ναιάδες" /></t><t>)</t></s>
+
+<p><s><t>Cleochareia<n pronunciation="Cleochareia" /></t></s></p>
+
+
+<s><t>Nereids<n pronunciation="Nereids" /></t> <t>(</t><t>Νηρηίδες<n pronunciation="Νηρηίδες" /></t><t>)</t></s>
+
+<p><s><t>Amphitrite<n pronunciation="Amphitrite" /></t> <t>(</t><t>Αμφιτρίτη<n pronunciation="Αμφιτρίτη" /></t><t>)</t>
+<t>Arethusa<n pronunciation="Arethusa" /></t> <t>(</t><t>Αρετούσα<n pronunciation="Αρετούσα" /></t><t>)</t></s></p>
+
+
+<s><t>Oceanids<n pronunciation="Oceanids" /></t> <t>(</t><t>Ωκεανίδες<n pronunciation="Ωκεανίδες" /></t><t>)</t></s>
+
+<p><s><t>Eidyia<n pronunciation="Eidyia" /></t></s></p>
+
+
+<s><t>Oreads<n pronunciation="Oreads" /></t></s>
+
+<p><s><t>Echo<n pronunciation="Echo" /></t> <t>(</t><t>Ηχώ<n pronunciation="Ηχώ" /></t><t>)</t></s></p>
+
+</p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>Giants<n pronunciation="Giants" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Agrius<n pronunciation="Agrius" /></t>
+<t>Alcyoneus<n pronunciation="Alcyoneus" /></t>
+<t>Aloadae<n pronunciation="Aloadae" /></t></s>
+
+<p><s><t>Otus<n pronunciation="Otus" /></t>
+<t>Orion<n pronunciation="Orion" /></t> <t>(</t><t>Ωρίων<n pronunciation="Ωρίων" /></t><t>)</t>
+<t>Ephialtes<n pronunciation="Ephialtes" /></t> <t>(</t><t>Εφιάλτης<n pronunciation="Εφιάλτης" /></t><t>)</t></s></p>
+
+
+<s><t>Antaeus<n pronunciation="Antaeus" /></t> <t>(</t><t>Ανταίος<n pronunciation="Ανταίος" /></t><t>)</t>
+<t>Argus<n pronunciation="Argus" /></t> <t>(</t><t>Άργος<n pronunciation="Άργος" /></t><t>)</t>
+<t>Enceladus<n pronunciation="Enceladus" /></t> <t>(</t><t>Εγκέλαδος<n pronunciation="Εγκέλαδος" /></t><t>)</t>
+<t>Tityos<n pronunciation="Tityos" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>Other<n pronunciation="Other" /></t> <t>deities<n pronunciation="deities" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Achilles<n pronunciation="Achilles" /></t> <t>Ascendant<n pronunciation="Ascendant" /></t> <t>hero<n pronunciation="hero" /></t>
+<t>Adephagia<n pronunciation="Adephagia" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>gluttony<n pronunciation="gluttony" /></t>
+<t>Aeolus<n pronunciation="Aeolus" /></t> <t>(</t><t>Aiolos<n pronunciation="Aiolos" /></t><t>)</t> <t>(</t><t>Αίολος<n pronunciation="Αίολος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>winds<n pronunciation="winds" /></t>
+<t>Agdistis<n pronunciation="Agdistis" /></t> <t>hermaphroditic<n pronunciation="hermaphroditic" /></t> <t>demon<n pronunciation="demon" /></t>
+<t>Alastor<n pronunciation="Alastor" /></t> <t>God/demon<n pronunciation="God" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="demon" /></t> <t>of<n pronunciation="of" /></t> <t>family<n pronunciation="family" /></t> <t>feuds<n pronunciation="feuds" /></t>
+<t>Alectrona<n pronunciation="Alectrona" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>morning<n pronunciation="morning" /></t> <t>or<n pronunciation="or" /></t> <t>waking<n pronunciation="waking" /></t> <t>up<n pronunciation="up" /></t>
+<t>Alexiares<n pronunciation="Alexiares" /></t> <t>and<n pronunciation="and" /></t> <t>Anicetus<n pronunciation="Anicetus" /></t> <t>Twin<n pronunciation="Twin" /></t> <t>guardians<n pronunciation="guardians" /></t> <t>of<n pronunciation="of" /></t> <t>Mount<n pronunciation="Mount" /></t> <t>Olympus<n pronunciation="Olympus" /></t>
+<t>Amphitrite<n pronunciation="Amphitrite" /></t> <t>(</t><t>Αμφιτρίτη<n pronunciation="Αμφιτρίτη" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>sea<n pronunciation="sea" /></t><t>,</t> <t>wife<n pronunciation="wife" /></t> <t>of<n pronunciation="of" /></t> <t>Poseidon<n pronunciation="Poseidon" /></t>
+<t>Anakes<n pronunciation="Anakes" /></t>
+<t>Antheia<n pronunciation="Antheia" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>flowers<n pronunciation="flowers" /></t> <t>and<n pronunciation="and" /></t> <t>flowery<n pronunciation="flowery" /></t> <t>wreaths<n pronunciation="wreaths" /></t>
+<t>Aphaea<n pronunciation="Aphaea" /></t> <t>Minor<n pronunciation="Minor" /></t> <t>goddess<n pronunciation="goddess" /></t> <t>of<n pronunciation="of" /></t> <t>agriculture<n pronunciation="agriculture" /></t> <t>and<n pronunciation="and" /></t> <t>fertility<n pronunciation="fertility" /></t>
+<t>Aristaeus<n pronunciation="Aristaeus" /></t> <t>A<n pronunciation="A" /></t> <t>good<n pronunciation="good" /></t> <t>hunter<n pronunciation="hunter" /></t> <t>and<n pronunciation="and" /></t> <t>inventor<n pronunciation="inventor" /></t>
+<t>Asclepius<n pronunciation="Asclepius" /></t> <t>(</t><t>Ασκληπιός<n pronunciation="Ασκληπιός" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>healing<n pronunciation="healing" /></t>
+<t>Astraea<n pronunciation="Astraea" /></t> <t>(</t><t>Αστραία<n pronunciation="Αστραία" /></t><t>)</t> <t>Virgin<n pronunciation="Virgin" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>Justice<n pronunciation="Justice" /></t>
+<t>Ate<n pronunciation="Ate" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>foolish<n pronunciation="foolish" /></t> <t>acts<n pronunciation="acts" /></t>
+<t>Attis<n pronunciation="Attis" /></t>
+<t>Bia<n pronunciation="Bia" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>violence<n pronunciation="violence" /></t>
+<t>Boreas<n pronunciation="Boreas" /></t> <t>(</t><t>Βορέας<n pronunciation="Βορέας" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>north<n pronunciation="north" /></t> <t>wind<n pronunciation="wind" /></t> <t>and<n pronunciation="and" /></t> <t>of<n pronunciation="of" /></t> <t>winter<n pronunciation="winter" /></t>
+<t>Brizo<n pronunciation="Brizo" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>sailors<n pronunciation="sailors" /></t>
+<t>Cabiri<n pronunciation="Cabiri" /></t>
+<t>Caerus<n pronunciation="Caerus" /></t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>luck<n pronunciation="luck" /></t> <t>and<n pronunciation="and" /></t> <t>opportunity<n pronunciation="opportunity" /></t>
+<t>Calypso<n pronunciation="Calypso" /></t> <t>(</t><t>Καλυψώ<n pronunciation="Καλυψώ" /></t><t>)</t>
+<t>Ceto<n pronunciation="Ceto" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>dangers<n pronunciation="dangers" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>ocean<n pronunciation="ocean" /></t> <t>and<n pronunciation="and" /></t> <t>of<n pronunciation="of" /></t> <t>sea<n pronunciation="sea" /></t> <t>monsters<n pronunciation="monsters" /></t>
+<t>Charon<n pronunciation="Charon" /></t> <t>Hades<n pronunciation="Hades" /></t><t>’<n pronunciation="’" /></t> <t>ferryman<n pronunciation="ferryman" /></t>
+<t>Circe<n pronunciation="Circe" /></t> <t>(</t><t>Κίρκη<n pronunciation="Κίρκη" /></t><t>)</t>
+<t>Cotys<n pronunciation="Cotys" /></t>
+<t>Cragus<n pronunciation="Cragus" /></t>
+<t>Cybele<n pronunciation="Cybele" /></t> <t>(</t><t>Κυβέλη<n pronunciation="Κυβέλη" /></t><t>)</t>
+<t>Dike<n pronunciation="Dike" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>Justice<n pronunciation="Justice" /></t>
+<t>Dioscuri<n pronunciation="Dioscuri" /></t> <t>(</t><t>Διόσκουροι<n pronunciation="Διόσκουροι" /></t><t>)</t></s>
+
+<p><s><t>Castor<n pronunciation="Castor" /></t> <t>(</t><t>Κάστορ<n pronunciation="Κάστορ" /></t><t>)</t>
+<t>Polydeuces<n pronunciation="Polydeuces" /></t> <t>(</t><t>Πολυδεύκης<n pronunciation="Πολυδεύκης" /></t><t>)</t></s></p>
+
+
+<s><t>Doris<n pronunciation="Doris" /></t> <t>(</t><t>Δωρίς<n pronunciation="Δωρίς" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>sea<n pronunciation="sea" /></t><t>’<n pronunciation="’" /></t><t>s<n pronunciation="s" /></t> <t>bounty<n pronunciation="bounty" /></t>
+<t>Efreisone<n pronunciation="Efreisone" /></t> <t>(</t><t>Ευφροσύνη<n pronunciation="Ευφροσύνη" /></t><t>)</t> <t>Personification<n pronunciation="Personification" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>olive<n pronunciation="olive" /></t> <t>branch<n pronunciation="branch" /></t>
+<t>Eileithyia<n pronunciation="Eileithyia" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>childbirth<n pronunciation="childbirth" /></t>
+<t>Elpis<n pronunciation="Elpis" /></t> <t>(</t><t>Ελπίς<n pronunciation="Ελπίς" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>hope<n pronunciation="hope" /></t> <t>or<n pronunciation="or" /></t> <t>expectation<n pronunciation="expectation" /></t>
+<t>Enyalius<n pronunciation="Enyalius" /></t> <t>Minor<n pronunciation="Minor" /></t> <t>god<n pronunciation="god" /></t> <t>of<n pronunciation="of" /></t> <t>war<n pronunciation="war" /></t>
+<t>Enyo<n pronunciation="Enyo" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>destructive<n pronunciation="destructive" /></t> <t>war<n pronunciation="war" /></t>
+<t>Eos<n pronunciation="Eos" /></t> <t>(</t><t>Ηώς<n pronunciation="Ηώς" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>dawn<n pronunciation="dawn" /></t>
+<t>Eosphorus<n pronunciation="Eosphorus" /></t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>morning<n pronunciation="morning" /></t> <t>star<n pronunciation="star" /></t>
+<t>The<n pronunciation="The" /></t> <t>Erinyes<n pronunciation="Erinyes" /></t><t>,</t> <t>or<n pronunciation="or" /></t> <t>"</t><t>Furies<n pronunciation="Furies" /></t><t>"</t>
+<t>Eris<n pronunciation="Eris" /></t> <t>(</t><t>Έρις<n pronunciation="Έρις" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>strife<n pronunciation="strife" /></t> <t>and<n pronunciation="and" /></t> <t>discord<n pronunciation="discord" /></t>
+<t>Eros<n pronunciation="Eros" /></t> <t>(</t><t>Έρος<n pronunciation="Έρος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>lust<n pronunciation="lust" /></t><t>,</t> <t>love<n pronunciation="love" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>sex<n pronunciation="sex" /></t>
+<t>Eurynome<n pronunciation="Eurynome" /></t> <t>(</t><t>Ευρυνόμη<n pronunciation="Ευρυνόμη" /></t><t>)</t>
+<t>Eurus<n pronunciation="Eurus" /></t> <t>(</t><t>Euros<n pronunciation="Euros" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>east<n pronunciation="east" /></t> <t>wind<n pronunciation="wind" /></t>
+<t>Glaucus<n pronunciation="Glaucus" /></t> <t>Minor<n pronunciation="Minor" /></t> <t>sea<n pronunciation="sea" /></t> <t>god<n pronunciation="god" /></t>
+<t>Gorgons<n pronunciation="Gorgons" /></t> <t>(</t><t>Γοργόνες<n pronunciation="Γοργόνες" /></t><t>)</t></s>
+
+<p><s><t>Stheno<n pronunciation="Stheno" /></t>
+<t>Euryale<n pronunciation="Euryale" /></t>
+<t>Medusa<n pronunciation="Medusa" /></t> <t>(</t><t>a<n pronunciation="a" /></t> <t>mortal<n pronunciation="mortal" /></t><t>)</t> <t>(</t><t>Μέδουσα<n pronunciation="Μέδουσα" /></t><t>)</t></s></p>
+
+
+<s><t>Hêbê<n pronunciation="Hebe" /></t> <t>(</t><t>Ήβη<n pronunciation="Ήβη" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>youth<n pronunciation="youth" /></t>
+<t>Hecate<n pronunciation="Hecate" /></t> <t>(</t><t>Εκάτη<n pronunciation="Εκάτη" /></t><t>)</t>
+<t>Hêlios<n pronunciation="Helios" /></t> <t>(</t><t>Ήλιος<n pronunciation="Ήλιος" /></t><t>)</t> <t>Personification<n pronunciation="Personification" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>sun<n pronunciation="sun" /></t>
+<t>Heracles<n pronunciation="Heracles" /></t> <t>(</t><t>Ηρακλής<n pronunciation="Ηρακλής" /></t><t>)</t> <t>Ascended<n pronunciation="Ascended" /></t> <t>hero<n pronunciation="hero" /></t>
+<t>Hespera<n pronunciation="Hespera" /></t>
+<t>Horae<n pronunciation="Horae" /></t> <t>(</t><t>Ώρες<n pronunciation="Ώρες" /></t><t>)</t> <t>(</t><t>the<n pronunciation="the" /></t> <t>hours<n pronunciation="hours" /></t><t>)</t></s>
+
+<p><s><t>Thallo<n pronunciation="Thallo" /></t> <t>(</t><t>Θαλλώ<n pronunciation="Θαλλώ" /></t><t>)</t>
+<t>Auxo<n pronunciation="Auxo" /></t> <t>(</t><t>Αυξώ<n pronunciation="Αυξώ" /></t><t>)</t>
+<t>Karpo<n pronunciation="Karpo" /></t> <t>(</t><t>Καρπώ<n pronunciation="Καρπώ" /></t><t>)</t>
+<t>Eunomia<n pronunciation="Eunomia" /></t> <t>(</t><t>Ευνομία<n pronunciation="Ευνομία" /></t><t>)</t>
+<t>Dike<n pronunciation="Dike" /></t> <t>(</t><t>Δίκη<n pronunciation="Δίκη" /></t><t>)</t>
+<t>Eirene<n pronunciation="Eirene" /></t> <t>(</t><t>Ειρήνη<n pronunciation="Ειρήνη" /></t><t>)</t></s></p>
+
+
+<s><t>Hybris<n pronunciation="Hybris" /></t> <t>(</t><t>Ύβρις<n pronunciation="Ύβρις" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>hubris<n pronunciation="hubris" /></t>
+<t>Hygieia<n pronunciation="Hygieia" /></t> <t>(</t><t>Υγεία<n pronunciation="Υγεία" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>cleanliness<n pronunciation="cleanliness" /></t>
+<t>Hymen<n pronunciation="Hymen" /></t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>Marriage<n pronunciation="Marriage" /></t> <t>and<n pronunciation="and" /></t> <t>Marriage<n pronunciation="Marriage" /></t> <t>Feasts<n pronunciation="Feasts" /></t>
+<t>Hypnos<n pronunciation="Hypnos" /></t> <t>(</t><t>Ύπνος<n pronunciation="Ύπνος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>sleep<n pronunciation="sleep" /></t>
+<t>Iris<n pronunciation="Iris" /></t> <t>(</t><t>Ίρις<n pronunciation="Ίρις" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>rainbow<n pronunciation="rainbow" /></t> <t>and<n pronunciation="and" /></t> <t>minor<n pronunciation="minor" /></t> <t>messenger<n pronunciation="messenger" /></t>
+<t>Moira<n pronunciation="Moira" /></t> <t>(</t><t>Μοίρα<n pronunciation="Μοίρα" /></t><t>)</t>
+<t>The<n pronunciation="The" /></t> <t>three<n pronunciation="three" /></t> <t>Moirae<n pronunciation="Moirae" /></t><t>,</t> <t>or<n pronunciation="or" /></t> <t>"</t><t>Fates<n pronunciation="Fates" /></t><t>"</t><t>:</t> <t>(</t><t>Μοίρες<n pronunciation="Μοίρες" /></t><t>)</t></s>
+
+<p><s><t>Clotho<n pronunciation="Clotho" /></t> <t>(</t><t>Κλωθώ<n pronunciation="Κλωθώ" /></t><t>)</t>
+<t>Lachesis<n pronunciation="Lachesis" /></t> <t>(</t><t>Λάχεσις<n pronunciation="Λάχεσις" /></t><t>)</t>
+<t>Atropos<n pronunciation="Atropos" /></t> <t>(</t><t>Άτροπος<n pronunciation="Άτροπος" /></t><t>)</t></s></p>
+
+
+<s><t>Mania<n pronunciation="Mania" /></t> <t>(</t><t>Μανία<n pronunciation="Μανία" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>insanity<n pronunciation="insanity" /></t>
+<t>Metis<n pronunciation="Metis" /></t> <t>(</t><t>Μέτις<n pronunciation="Μέτις" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>wisdom<n pronunciation="wisdom" /></t> <t>and<n pronunciation="and" /></t> <t>thought<n pronunciation="thought" /></t>
+<t>Momus<n pronunciation="Momus" /></t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>satire<n pronunciation="satire" /></t> <t>and<n pronunciation="and" /></t> <t>criticism<n pronunciation="criticism" /></t>
+<t>Morpheus<n pronunciation="Morpheus" /></t> <t>(</t><t>Μορφέας<n pronunciation="Μορφέας" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>dreams<n pronunciation="dreams" /></t>
+<t>Muses<n pronunciation="Muses" /></t> <t>(</t><t>Μούσες<n pronunciation="Μούσες" /></t><t>)</t></s>
+
+<p><s><t>Calliope<n pronunciation="Calliope" /></t> <t>(</t><t>Καλλιόπη<n pronunciation="Καλλιόπη" /></t><t>)</t>
+<t>Clio<n pronunciation="Clio" /></t> <t>(</t><t>Κλειώ<n pronunciation="Κλειώ" /></t><t>)</t>
+<t>Erato<n pronunciation="Erato" /></t> <t>(</t><t>Ερατώ<n pronunciation="Ερατώ" /></t><t>)</t>
+<t>Euterpe<n pronunciation="Euterpe" /></t> <t>(</t><t>Ευτέρπη<n pronunciation="Ευτέρπη" /></t><t>)</t>
+<t>Melpomene<n pronunciation="Melpomene" /></t> <t>(</t><t>Μελπομένη<n pronunciation="Μελπομένη" /></t><t>)</t>
+<t>Polyhymnia<n pronunciation="Polyhymnia" /></t> <t>(</t><t>Πολυμνία<n pronunciation="Πολυμνία" /></t><t>)</t> <t>-</t> <t>(</t><t>Πολύμνια<n pronunciation="Πολύμνια" /></t><t>)</t>
+<t>Terpsichore<n pronunciation="Terpsichore" /></t> <t>(</t><t>Τερψιχόρη<n pronunciation="Τερψιχόρη" /></t><t>)</t>
+<t>Thalia<n pronunciation="Thalia" /></t> <t>(</t><t>Θάλεια<n pronunciation="Θάλεια" /></t><t>)</t>
+<t>Urania<n pronunciation="Urania" /></t> <t>(</t><t>Ουρανία<n pronunciation="Ουρανία" /></t><t>)</t></s></p>
+
+
+<s><t>Nemesis<n pronunciation="Nemesis" /></t> <t>(</t><t>Νέμεσις<n pronunciation="Νέμεσις" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>retribution<n pronunciation="retribution" /></t>
+<t>Nereus<n pronunciation="Nereus" /></t> <t>(</t><t>Νηρέας<n pronunciation="Νηρέας" /></t><t>)</t>
+<t>Nike<n pronunciation="Nike" /></t> <t>(</t><t>Νίκη<n pronunciation="Νίκη" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>victory<n pronunciation="victory" /></t>
+<t>Notus<n pronunciation="Notus" /></t> <t>(</t><t>Νότος<n pronunciation="Νότος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>south<n pronunciation="south" /></t> <t>wind<n pronunciation="wind" /></t>
+<t>Pan<n pronunciation="Pan" /></t> <t>(</t><t>Πάν<n pronunciation="Πάν" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>shepherds<n pronunciation="shepherds" /></t><t>,</t> <t>pastures<n pronunciation="pastures" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>fertility<n pronunciation="fertility" /></t>
+<t>Phoebe<n pronunciation="Phoebe" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>moon<n pronunciation="moon" /></t><t>:</t> <t>Bright<n pronunciation="Bright" /></t>
+<t>Perséphonê<n pronunciation="Persephone" /></t> <t>(</t><t>Περσεφόνη<n pronunciation="Περσεφόνη" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>earth<n pronunciation="earth" /></t><t>’<n pronunciation="’" /></t><t>s<n pronunciation="s" /></t> <t>fertility<n pronunciation="fertility" /></t>
+<t>Peitho<n pronunciation="Peitho" /></t> <t>(</t><t>Πειθώ<n pronunciation="Πειθώ" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>persuasion<n pronunciation="persuasion" /></t> <t>and<n pronunciation="and" /></t> <t>seduction<n pronunciation="seduction" /></t>
+<t>Pleiades<n pronunciation="Pleiades" /></t> <t>(</t><t>Πλειάδες<n pronunciation="Πλειάδες" /></t><t>)</t>
+<t>Psyche<n pronunciation="Psyche" /></t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Soul<n pronunciation="Soul" /></t></s>
+
+<p><s><t>Alcyone<n pronunciation="Alcyone" /></t> <t>(</t><t>Αλκυόνη<n pronunciation="Αλκυόνη" /></t><t>)</t>
+<t>Sterope<n pronunciation="Sterope" /></t> <t>(</t><t>Στερόπη<n pronunciation="Στερόπη" /></t><t>)</t>
+<t>Celaeno<n pronunciation="Celaeno" /></t> <t>(</t><t>Κελαινώ<n pronunciation="Κελαινώ" /></t><t>)</t>
+<t>Electra<n pronunciation="Electra" /></t> <t>(</t><t>Ηλέκτρα<n pronunciation="Ηλέκτρα" /></t><t>)</t>
+<t>Maia<n pronunciation="Maia" /></t> <t>(</t><t>Μαία<n pronunciation="Μαία" /></t><t>)</t>
+<t>Merope<n pronunciation="Merope" /></t> <t>(</t><t>Μερόπη<n pronunciation="Μερόπη" /></t><t>)</t>
+<t>Taygete<n pronunciation="Taygete" /></t> <t>(</t><t>Ταϋγέτη<n pronunciation="Ταϋγέτη" /></t><t>)</t></s></p>
+
+
+<s><t>Phorcys<n pronunciation="Phorcys" /></t> <t>(</t><t>Φόρκυς<n pronunciation="Φόρκυς" /></t><t>)</t>
+<t>Proteus<n pronunciation="Proteus" /></t> <t>(</t><t>Πρωτεύς<n pronunciation="Πρωτεύς" /></t><t>)</t> <t>Minor<n pronunciation="Minor" /></t> <t>sea<n pronunciation="sea" /></t> <t>god<n pronunciation="god" /></t>
+<t>Priapus<n pronunciation="Priapus" /></t> <t>(</t><t>Πρίαπος<n pronunciation="Πρίαπος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>male<n pronunciation="male" /></t> <t>virility<n pronunciation="virility" /></t>
+<t>Satyr<n pronunciation="Satyr" /></t> <t>(</t><t>Σάτυροι<n pronunciation="Σάτυροι" /></t><t>)</t>
+<t>Selene<n pronunciation="Selene" /></t> <t>(</t><t>Σελήνη<n pronunciation="Σελήνη" /></t><t>)</t> <t>Goddess<n pronunciation="Goddess" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>moon<n pronunciation="moon" /></t>
+<t>Thanatos<n pronunciation="Thanatos" /></t> <t>(</t><t>Θάνατος<n pronunciation="Θάνατος" /></t><t>)</t> <t>God/demon<n pronunciation="God" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="demon" /></t> <t>of<n pronunciation="of" /></t> <t>death<n pronunciation="death" /></t> <t>and<n pronunciation="and" /></t> <t>mortality<n pronunciation="mortality" /></t>
+<t>Thetis<n pronunciation="Thetis" /></t> <t>(</t><t>Θέτις<n pronunciation="Θέτις" /></t><t>)</t>
+<t>Triton<n pronunciation="Triton" /></t> <t>(</t><t>Τρίτων<n pronunciation="Τρίτων" /></t><t>)</t> <t>Poseidon<n pronunciation="Poseidon" /></t><t>’<n pronunciation="’" /></t><t>s<n pronunciation="s" /></t> <t>messenger<n pronunciation="messenger" /></t>
+<t>Typhon<n pronunciation="Typhon" /></t> <t>(</t><t>Τυφών<n pronunciation="Τυφών" /></t><t>)</t>
+<t>Zephyrus<n pronunciation="Zephyrus" /></t> <t>(</t><t>Ζέφυρος<n pronunciation="Ζέφυρος" /></t><t>)</t> <t>God<n pronunciation="God" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>west<n pronunciation="west" /></t> <t>wind<n pronunciation="wind" /></t></s></p>
+</sectioncontent></section></sectioncontent></section>
+<section level="2"><sectiontitle><t>Mortals<n pronunciation="Mortals" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<section level="3"><sectiontitle><t>A-B<n pronunciation="_a" /><n pronunciation="B" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Abas<n pronunciation="Abas" /></t>
+<t>Abderus<n pronunciation="Abderus" /></t>
+<t>Acacallis<n pronunciation="Acacallis" /></t>
+<t>Acamas<n pronunciation="Acamas" /></t> <t>(</t><t>Ακάμας<n pronunciation="Ακάμας" /></t><t>)</t>
+<t>Acarnan<n pronunciation="Acarnan" /></t> <t>(</t><t>Ακαρνάν<n pronunciation="Ακαρνάν" /></t><t>)</t>
+<t>Acastus<n pronunciation="Acastus" /></t>
+<t>Acestes<n pronunciation="Acestes" /></t>
+<t>Achaeus<n pronunciation="Achaeus" /></t> <t>(</t><t>Αχαιός<n pronunciation="Αχαιός" /></t><t>)</t>
+<t>Achilles<n pronunciation="Achilles" /></t> <t>(</t><t>Akhilleus<n pronunciation="Akhilleus" /></t><t>)</t> <t>(</t><t>Αχιλλεύς<n pronunciation="Αχιλλεύς" /></t> <t>or<n pronunciation="or" /></t> <t>Αχιλλέας<n pronunciation="Αχιλλέας" /></t><t>)</t>
+<t>Acoetes<n pronunciation="Acoetes" /></t>
+<t>Acrisius<n pronunciation="Acrisius" /></t>
+<t>Actaeon<n pronunciation="Actaeon" /></t> <t>(</t><t>Aktaion<n pronunciation="Aktaion" /></t><t>)</t>
+<t>Actaeus<n pronunciation="Actaeus" /></t>
+<t>Actor<n pronunciation="Actor" /></t> <t>(</t><t>Άκτωρ<n pronunciation="Άκτωρ" /></t><t>)</t>
+<t>Admetus<n pronunciation="Admetus" /></t> <t>(</t><t>Άδμητος<n pronunciation="Άδμητος" /></t><t>)</t>
+<t>Adonis<n pronunciation="Adonis" /></t> <t>(</t><t>Άδωνις<n pronunciation="Άδωνις" /></t><t>)</t>
+<t>Adrastus<n pronunciation="Adrastus" /></t> <t>(</t><t>Άδραστος<n pronunciation="Άδραστος" /></t><t>)</t>
+<t>Aeacus<n pronunciation="Aeacus" /></t> <t>(</t><t>Aiakos<n pronunciation="Aiakos" /></t><t>)</t> <t>(</t><t>Αιακός<n pronunciation="Αιακός" /></t><t>)</t>
+<t>Aeetes<n pronunciation="Aeetes" /></t>
+<t>Aegeus<n pronunciation="Aegeus" /></t> <t>(</t><t>Αιγεύς<n pronunciation="Αιγεύς" /></t><t>)</t>
+<t>Aegialeia<n pronunciation="Aegialeia" /></t> <t>(</t><t>Αιγιαλεία<n pronunciation="Αιγιαλεία" /></t><t>)</t>
+<t>Aegialeus<n pronunciation="Aegialeus" /></t>
+<t>Aegimius<n pronunciation="Aegimius" /></t>
+<t>Aegina<n pronunciation="Aegina" /></t> <t>(</t><t>Αίγινα<n pronunciation="Αίγινα" /></t><t>)</t>
+<t>Aegisthus<n pronunciation="Aegisthus" /></t> <t>(</t><t>Αίγισθος<n pronunciation="Αίγισθος" /></t><t>)</t>
+<t>Aegyptus<n pronunciation="Aegyptus" /></t> <t>(</t><t>Αίγυπτος<n pronunciation="Αίγυπτος" /></t><t>)</t>
+<t>Aeneas<n pronunciation="Aeneas" /></t> <t>(</t><t>Aineas<n pronunciation="Aineas" /></t><t>)</t> <t>(</t><t>Αινείας<n pronunciation="Αινείας" /></t><t>)</t>
+<t>Aeolus<n pronunciation="Aeolus" /></t> <t>(</t><t>Αίολος<n pronunciation="Αίολος" /></t><t>)</t>
+<t>Aepytus<n pronunciation="Aepytus" /></t>
+<t>Aerope<n pronunciation="Aerope" /></t>
+<t>Aesacus<n pronunciation="Aesacus" /></t>
+<t>Aeson<n pronunciation="Aeson" /></t> <t>(</t><t>Aison<n pronunciation="Aison" /></t><t>)</t>
+<t>Aethalides<n pronunciation="Aethalides" /></t>
+<t>Aethlius<n pronunciation="Aethlius" /></t>
+<t>Aethra<n pronunciation="Aethra" /></t> <t>(</t><t>Αίθρα<n pronunciation="Αίθρα" /></t><t>)</t>
+<t>Aetolus<n pronunciation="Aetolus" /></t> <t>(</t><t>Αιτωλός<n pronunciation="Αιτωλός" /></t><t>)</t>
+<t>Agamedes<n pronunciation="Agamedes" /></t>
+<t>Agamemnon<n pronunciation="Agamemnon" /></t> <t>(</t><t>Αγαμέμνων<n pronunciation="Αγαμέμνων" /></t><t>)</t>
+<t>Agapenor<n pronunciation="Agapenor" /></t>
+<t>Agasthenes<n pronunciation="Agasthenes" /></t>
+<t>Agave<n pronunciation="Agave" /></t>
+<t>Agelaus<n pronunciation="Agelaus" /></t> <t>(</t><t>Ageláos<n pronunciation="Agelaos" /></t><t>)</t>
+<t>Agenor<n pronunciation="Agenor" /></t> <t>(</t><t>Αγήνωρ<n pronunciation="Αγήνωρ" /></t><t>)</t>
+<t>Aglaea<n pronunciation="Aglaea" /></t> <t>(</t><t>Αγλαΐα<n pronunciation="Αγλαΐα" /></t><t>)</t>
+<t>Agraulus<n pronunciation="Agraulus" /></t>
+<t>Agrius<n pronunciation="Agrius" /></t>
+<t>Agron<n pronunciation="Agron" /></t>
+<t>Ajax<n pronunciation="Ajax" /></t> <t>the<n pronunciation="the" /></t> <t>great<n pronunciation="great" /></t> <t>(</t><t>Aîas<n pronunciation="Aias" /></t> <t>the<n pronunciation="the" /></t> <t>great<n pronunciation="great" /></t><t>)</t> <t>(</t><t>Αίας<n pronunciation="Αίας" /></t> <t>ο<n pronunciation="ο" /></t> <t>Μέγας<n pronunciation="Μέγας" /></t><t>)</t>
+<t>Ajax<n pronunciation="Ajax" /></t> <t>the<n pronunciation="the" /></t> <t>lesser<n pronunciation="lesser" /></t> <t>(</t><t>Aîas<n pronunciation="Aias" /></t> <t>the<n pronunciation="the" /></t> <t>lesser<n pronunciation="lesser" /></t><t>)</t> <t>(</t><t>Αίας<n pronunciation="Αίας" /></t> <t>ο<n pronunciation="ο" /></t> <t>Μικρός<n pronunciation="Μικρός" /></t><t>)</t>
+<t>Alcaeus<n pronunciation="Alcaeus" /></t> <t>(</t><t>Alkaios<n pronunciation="Alkaios" /></t><t>)</t> <t>(</t><t>Αλκαίος<n pronunciation="Αλκαίος" /></t><t>)</t>
+<t>Alcathous<n pronunciation="Alcathous" /></t>
+<t>Alcestis<n pronunciation="Alcestis" /></t> <t>(</t><t>Άλκηστις<n pronunciation="Άλκηστις" /></t><t>)</t>
+<t>Alcidice<n pronunciation="Alcidice" /></t>
+<t>Alcimede<n pronunciation="Alcimede" /></t>
+<t>Alcinous<n pronunciation="Alcinous" /></t> <t>(</t><t>Αλκίνους<n pronunciation="Αλκίνους" /></t> <t>or<n pronunciation="or" /></t> <t>Αλκίνοος<n pronunciation="Αλκίνοος" /></t><t>)</t>
+<t>Alcmaeon<n pronunciation="Alcmaeon" /></t>
+<t>Alcmene<n pronunciation="Alcmene" /></t> <t>(</t><t>Alkmênê<n pronunciation="Alkmene" /></t><t>)</t> <t>(</t><t>Αλκμήνη<n pronunciation="Αλκμήνη" /></t><t>)</t>
+<t>Alcyone<n pronunciation="Alcyone" /></t> <t>(</t><t>Αλκυών<n pronunciation="Αλκυών" /></t> <t>or<n pronunciation="or" /></t> <t>Αλκυόνη<n pronunciation="Αλκυόνη" /></t><t>)</t>
+<t>Aleus<n pronunciation="Aleus" /></t>
+<t>Almus<n pronunciation="Almus" /></t>
+<t>Aloeus<n pronunciation="Aloeus" /></t>
+<t>Alope<n pronunciation="Alope" /></t>
+<t>Althaea<n pronunciation="Althaea" /></t> <t>(</t><t>Αλθαία<n pronunciation="Αλθαία" /></t><t>)</t>
+<t>Althaemenes<n pronunciation="Althaemenes" /></t>
+<t>Amarynceus<n pronunciation="Amarynceus" /></t>
+<t>Amphiaraus<n pronunciation="Amphiaraus" /></t> <t>(</t><t>Αμφιάραος<n pronunciation="Αμφιάραος" /></t><t>)</t>
+<t>Amphictyon<n pronunciation="Amphictyon" /></t> <t>(</t><t>Αμφικτύων<n pronunciation="Αμφικτύων" /></t><t>)</t>
+<t>Amphidamas<n pronunciation="Amphidamas" /></t> <t>(</t><t>Αμφιδάμας<n pronunciation="Αμφιδάμας" /></t><t>)</t>
+<t>Amphilochus<n pronunciation="Amphilochus" /></t> <t>(</t><t>Αμφίλοχος<n pronunciation="Αμφίλοχος" /></t>
+<t>Amphimachus<n pronunciation="Amphimachus" /></t> <t>(</t><t>Αμφίμαχος<n pronunciation="Αμφίμαχος" /></t><t>)</t>
+<t>Amphinomus<n pronunciation="Amphinomus" /></t> <t>(</t><t>Amphínomos<n pronunciation="Amphinomos" /></t><t>)</t> <t>(</t><t>Αμφίνομος<n pronunciation="Αμφίνομος" /></t><t>)</t>
+<t>Amphion<n pronunciation="Amphion" /></t>
+<t>Amphinomus<n pronunciation="Amphinomus" /></t>
+<t>Amphithea<n pronunciation="Amphithea" /></t> <t>(</t><t>Αμφιθέα<n pronunciation="Αμφιθέα" /></t><t>)</t>
+<t>Amphitryon<n pronunciation="Amphitryon" /></t> <t>(</t><t>Amphitrion<n pronunciation="Amphitrion" /></t><t>)</t> <t>(</t><t>Αμφιτρύων<n pronunciation="Αμφιτρύων" /></t><t>)</t>
+<t>Amyclas<n pronunciation="Amyclas" /></t> <t>(</t><t>Αμύκλας<n pronunciation="Αμύκλας" /></t><t>)</t>
+<t>Amycus<n pronunciation="Amycus" /></t>
+<t>Amymone<n pronunciation="Amymone" /></t>
+<t>Amyntor<n pronunciation="Amyntor" /></t> <t>(</t><t>Αμύντωρ<n pronunciation="Αμύντωρ" /></t><t>)</t>
+<t>Amythaon<n pronunciation="Amythaon" /></t>
+<t>Anaxagoras<n pronunciation="Anaxagoras" /></t> <t>(</t><t>Αναξαγόρας<n pronunciation="Αναξαγόρας" /></t><t>)</t>
+<t>Anaxibia<n pronunciation="Anaxibia" /></t>
+<t>Anaxo<n pronunciation="Anaxo" /></t>
+<t>Ancaeus<n pronunciation="Ancaeus" /></t>
+<t>Anchialus<n pronunciation="Anchialus" /></t> <t>(</t><t>Αγχίαλος<n pronunciation="Αγχίαλος" /></t><t>)</t>
+<t>Anchises<n pronunciation="Anchises" /></t> <t>(</t><t>Αγχίσης<n pronunciation="Αγχίσης" /></t><t>)</t>
+<t>Andraemon<n pronunciation="Andraemon" /></t>
+<t>Andreus<n pronunciation="Andreus" /></t>
+<t>Androgeus<n pronunciation="Androgeus" /></t>
+<t>Andromache<n pronunciation="Andromache" /></t> <t>(</t><t>Ανδρομάχη<n pronunciation="Ανδρομάχη" /></t><t>)</t>
+<t>Andromeda<n pronunciation="Andromeda" /></t> <t>(</t><t>Ανδρομέδα<n pronunciation="Ανδρομέδα" /></t><t>)</t>
+<t>Anius<n pronunciation="Anius" /></t>
+<t>Antenor<n pronunciation="Antenor" /></t> <t>(</t><t>Αντήνωρ<n pronunciation="Αντήνωρ" /></t><t>)</t>
+<t>Anticlea<n pronunciation="Anticlea" /></t> <t>(</t><t>Antiklia<n pronunciation="Antiklia" /></t><t>)</t>
+<t>Antigone<n pronunciation="Antigone" /></t> <t>(</t><t>Αντιγόνη<n pronunciation="Αντιγόνη" /></t><t>)</t>
+<t>Antilochus<n pronunciation="Antilochus" /></t> <t>(</t><t>Αντίλοχος<n pronunciation="Αντίλοχος" /></t><t>)</t>
+<t>Antimachus<n pronunciation="Antimachus" /></t> <t>(</t><t>Αντίμαχος<n pronunciation="Αντίμαχος" /></t><t>)</t>
+<t>Antinous<n pronunciation="Antinous" /></t> <t>(</t><t>Antinoös<n pronunciation="Antinoos" /></t><t>)</t>
+<t>Antion<n pronunciation="Antion" /></t>
+<t>Antiope<n pronunciation="Antiope" /></t> <t>(</t><t>Αντιόπη<n pronunciation="Αντιόπη" /></t><t>)</t>
+<t>Antiphates<n pronunciation="Antiphates" /></t>
+<t>Antiphus<n pronunciation="Antiphus" /></t>
+<t>Aphareus<n pronunciation="Aphareus" /></t>
+<t>Apheidas<n pronunciation="Apheidas" /></t>
+<t>Apis<n pronunciation="Apis" /></t>
+<t>Apsyrtus<n pronunciation="Apsyrtus" /></t>
+<t>Arachne<n pronunciation="Arachne" /></t> <t>(</t><t>Arakhne<n pronunciation="Arakhne" /></t><t>)</t> <t>(</t><t>Αράχνη<n pronunciation="Αράχνη" /></t><t>)</t>
+<t>Arcas<n pronunciation="Arcas" /></t> <t>(</t><t>Αρκάς<n pronunciation="Αρκάς" /></t><t>)</t>
+<t>Arcesius<n pronunciation="Arcesius" /></t> <t>(</t><t>Arkêsios<n pronunciation="Arkesios" /></t><t>)</t>
+<t>Arete<n pronunciation="Arete" /></t>
+<t>Argea<n pronunciation="Argea" /></t>
+<t>Argeius<n pronunciation="Argeius" /></t>
+<t>Argos<n pronunciation="Argos" /></t> <t>(</t><t>Άργος<n pronunciation="Άργος" /></t><t>)</t>
+<t>Ariadne<n pronunciation="Ariadne" /></t> <t>(</t><t>Αριάδνη<n pronunciation="Αριάδνη" /></t><t>)</t>
+<t>Arion<n pronunciation="Arion" /></t> <t>(</t><t>Αρίων<n pronunciation="Αρίων" /></t><t>)</t>
+<t>Aristodemus<n pronunciation="Aristodemus" /></t> <t>(</t><t>Αριστόδημος<n pronunciation="Αριστόδημος" /></t><t>)</t>
+<t>Aristomachus<n pronunciation="Aristomachus" /></t> <t>(</t><t>Αριστόμαχος<n pronunciation="Αριστόμαχος" /></t><t>)</t>
+<t>Arsinoe<n pronunciation="Arsinoe" /></t> <t>(</t><t>Αρσινόη<n pronunciation="Αρσινόη" /></t><t>)</t>
+<t>Asclepius<n pronunciation="Asclepius" /></t> <t>(</t><t>Ασκληπιός<n pronunciation="Ασκληπιός" /></t><t>)</t>
+<t>Asius<n pronunciation="Asius" /></t>
+<t>Assaracus<n pronunciation="Assaracus" /></t>
+<t>Astacus<n pronunciation="Astacus" /></t>
+<t>Asterius<n pronunciation="Asterius" /></t>
+<t>Astyanax<n pronunciation="Astyanax" /></t> <t>(</t><t>Αστυάναξ<n pronunciation="Αστυάναξ" /></t><t>)</t>
+<t>Astydameia<n pronunciation="Astydameia" /></t> <t>(</t><t>Αστυδάμεια<n pronunciation="Αστυδάμεια" /></t><t>)</t>
+<t>Astypalaea<n pronunciation="Astypalaea" /></t> <t>(</t><t>Αστυπάλαια<n pronunciation="Αστυπάλαια" /></t><t>)</t>
+<t>Astyoche<n pronunciation="Astyoche" /></t>
+<t>Atalanta<n pronunciation="Atalanta" /></t> <t>(</t><t>Αταλάντη<n pronunciation="Αταλάντη" /></t><t>)</t>
+<t>Athamas<n pronunciation="Athamas" /></t> <t>(</t><t>Αθάμας<n pronunciation="Αθάμας" /></t><t>)</t>
+<t>Atreus<n pronunciation="Atreus" /></t> <t>(</t><t>Ατρέας<n pronunciation="Ατρέας" /></t><t>)</t>
+<t>Atymnius<n pronunciation="Atymnius" /></t>
+<t>Auge<n pronunciation="Auge" /></t>
+<t>Augeas<n pronunciation="Augeas" /></t> <t>(</t><t>Αυγείας<n pronunciation="Αυγείας" /></t><t>)</t>
+<t>Autesion<n pronunciation="Autesion" /></t>
+<t>Autolycus<n pronunciation="Autolycus" /></t>
+<t>Automedon<n pronunciation="Automedon" /></t> <t>(</t><t>Αυτομέδων<n pronunciation="Αυτομέδων" /></t><t>)</t>
+<t>Autonoe<n pronunciation="Autonoe" /></t>
+<t>Bateia<n pronunciation="Bateia" /></t>
+<t>Battus<n pronunciation="Battus" /></t>
+<t>Baucis<n pronunciation="Baucis" /></t>
+<t>Bellerophon<n pronunciation="Bellerophon" /></t>
+<t>Belus<n pronunciation="Belus" /></t>
+<t>Bias<n pronunciation="Bias" /></t>
+<t>Borus<n pronunciation="Borus" /></t>
+<t>Briseis<n pronunciation="Briseis" /></t>
+<t>Briseus<n pronunciation="Briseus" /></t>
+<t>Britomartis<n pronunciation="Britomartis" /></t>
+<t>Broteas<n pronunciation="Broteas" /></t>
+<t>Bunus<n pronunciation="Bunus" /></t>
+<t>Busiris<n pronunciation="Busiris" /></t>
+<t>Butes<n pronunciation="Butes" /></t>
+<t>Byblis<n pronunciation="Byblis" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>C-G<n pronunciation="C" /><n pronunciation="G" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Cadmus<n pronunciation="Cadmus" /></t>
+<t>Caeneus<n pronunciation="Caeneus" /></t> <t>(</t><t>Caenis<n pronunciation="Caenis" /></t> <t>when<n pronunciation="when" /></t> <t>female<n pronunciation="female" /></t><t>)</t>
+<t>Calchas<n pronunciation="Calchas" /></t>
+<t>Callidice<n pronunciation="Callidice" /></t>
+<t>Callirhoe<n pronunciation="Callirhoe" /></t>
+<t>Callisto<n pronunciation="Callisto" /></t>
+<t>Calyce<n pronunciation="Calyce" /></t>
+<t>Calydon<n pronunciation="Calydon" /></t>
+<t>Canace<n pronunciation="Canace" /></t>
+<t>Canthus<n pronunciation="Canthus" /></t>
+<t>Capaneus<n pronunciation="Capaneus" /></t>
+<t>Capys<n pronunciation="Capys" /></t>
+<t>Car<n pronunciation="Car" /></t>
+<t>Carme<n pronunciation="Carme" /></t>
+<t>Carnabon<n pronunciation="Carnabon" /></t>
+<t>Cassandra<n pronunciation="Cassandra" /></t>
+<t>Cassiopeia<n pronunciation="Cassiopeia" /></t>
+<t>Castor<n pronunciation="Castor" /></t>
+<t>Catreus<n pronunciation="Catreus" /></t>
+<t>Caunus<n pronunciation="Caunus" /></t>
+<t>Cebriones<n pronunciation="Cebriones" /></t>
+<t>Cecrops<n pronunciation="Cecrops" /></t>
+<t>Ceisus<n pronunciation="Ceisus" /></t>
+<t>Celeus<n pronunciation="Celeus" /></t>
+<t>Cephalus<n pronunciation="Cephalus" /></t>
+<t>Cepheus<n pronunciation="Cepheus" /></t><t>,</t> <t>King<n pronunciation="King" /></t> <t>of<n pronunciation="of" /></t> <t>Aethiopia<n pronunciation="Aethiopia" /></t>
+<t>Cepheus<n pronunciation="Cepheus" /></t><t>,</t> <t>King<n pronunciation="King" /></t> <t>of<n pronunciation="of" /></t> <t>Tegea<n pronunciation="Tegea" /></t>
+<t>Cerdo<n pronunciation="Cerdo" /></t>
+<t>Cestrinus<n pronunciation="Cestrinus" /></t>
+<t>Ceyx<n pronunciation="Ceyx" /></t>
+<t>Chalciope<n pronunciation="Chalciope" /></t>
+<t>Chalcodon<n pronunciation="Chalcodon" /></t>
+<t>Chione<n pronunciation="Chione" /></t>
+<t>Chiron<n pronunciation="Chiron" /></t>
+<t>Chloris<n pronunciation="Chloris" /></t>
+<t>Chryseis<n pronunciation="Chryseis" /></t>
+<t>Chryses<n pronunciation="Chryses" /></t>
+<t>Chrysippus<n pronunciation="Chrysippus" /></t>
+<t>Chrysothemis<n pronunciation="Chrysothemis" /></t>
+<t>Chthonius<n pronunciation="Chthonius" /></t>
+<t>Cilix<n pronunciation="Cilix" /></t>
+<t>Cinyras<n pronunciation="Cinyras" /></t>
+<t>Cleite<n pronunciation="Cleite" /></t>
+<t>Cleodaeus<n pronunciation="Cleodaeus" /></t>
+<t>Cleopatra<n pronunciation="Cleopatra" /></t>
+<t>Clymene<n pronunciation="Clymene" /></t>
+<t>Clymenus<n pronunciation="Clymenus" /></t>
+<t>Clytemnestra<n pronunciation="Clytemnestra" /></t>
+<t>Clytius<n pronunciation="Clytius" /></t>
+<t>Codrus<n pronunciation="Codrus" /></t>
+<t>Comaetho<n pronunciation="Comaetho" /></t>
+<t>Copreus<n pronunciation="Copreus" /></t>
+<t>Corcyra<n pronunciation="Corcyra" /></t>
+<t>Corinthus<n pronunciation="Corinthus" /></t>
+<t>Coronis<n pronunciation="Coronis" /></t>
+<t>Coronus<n pronunciation="Coronus" /></t>
+<t>Cranaus<n pronunciation="Cranaus" /></t>
+<t>Creon<n pronunciation="Creon" /></t>
+<t>Cresphontes<n pronunciation="Cresphontes" /></t>
+<t>Crete<n pronunciation="Crete" /></t>
+<t>Cretheus<n pronunciation="Cretheus" /></t>
+<t>Creusa<n pronunciation="Creusa" /></t>
+<t>Crisus<n pronunciation="Crisus" /></t>
+<t>Croesus<n pronunciation="Croesus" /></t>
+<t>Cychreus<n pronunciation="Cychreus" /></t>
+<t>Cycnus<n pronunciation="Cycnus" /></t>
+<t>Cylla<n pronunciation="Cylla" /></t>
+<t>Cynortas<n pronunciation="Cynortas" /></t>
+<t>Cyparissus<n pronunciation="Cyparissus" /></t>
+<t>Cypselus<n pronunciation="Cypselus" /></t>
+<t>Cytisorus<n pronunciation="Cytisorus" /></t>
+<t>Cyzicus<n pronunciation="Cyzicus" /></t>
+<t>Daedalion<n pronunciation="Daedalion" /></t>
+<t>Daedalus<n pronunciation="Daedalus" /></t>
+<t>Damocles<n pronunciation="Damocles" /></t>
+<t>Danaë<n pronunciation="Danae" /></t>
+<t>Danaus<n pronunciation="Danaus" /></t>
+<t>Dardanus<n pronunciation="Dardanus" /></t>
+<t>Dascylus<n pronunciation="Dascylus" /></t>
+<t>Deianeira<n pronunciation="Deianeira" /></t>
+<t>Deimachus<n pronunciation="Deimachus" /></t>
+<t>Deion<n pronunciation="Deion" /></t>
+<t>Deiphobus<n pronunciation="Deiphobus" /></t>
+<t>Deiphontes<n pronunciation="Deiphontes" /></t>
+<t>Deipyle<n pronunciation="Deipyle" /></t>
+<t>Demonassa<n pronunciation="Demonassa" /></t>
+<t>Demonice<n pronunciation="Demonice" /></t>
+<t>Demophon<n pronunciation="Demophon" /></t>
+<t>Deucalion<n pronunciation="Deucalion" /></t>
+<t>Dexamenus<n pronunciation="Dexamenus" /></t>
+<t>Dia<n pronunciation="Dia" /></t>
+<t>Dictys<n pronunciation="Dictys" /></t>
+<t>Diomedes<n pronunciation="Diomedes" /></t>
+<t>Diores<n pronunciation="Diores" /></t>
+<t>Dioscuri<n pronunciation="Dioscuri" /></t> <t>(</t><t>Castor<n pronunciation="Castor" /></t> <t>and<n pronunciation="and" /></t> <t>Polydeuces<n pronunciation="Polydeuces" /></t><t>)</t>
+<t>Dirce<n pronunciation="Dirce" /></t>
+<t>Dius<n pronunciation="Dius" /></t>
+<t>Dolius<n pronunciation="Dolius" /></t>
+<t>Dolon<n pronunciation="Dolon" /></t>
+<t>Dorus<n pronunciation="Dorus" /></t>
+<t>Dryope<n pronunciation="Dryope" /></t>
+<t>Echemus<n pronunciation="Echemus" /></t>
+<t>Echetus<n pronunciation="Echetus" /></t>
+<t>Echion<n pronunciation="Echion" /></t>
+<t>Eetion<n pronunciation="Eetion" /></t>
+<t>Elatus<n pronunciation="Elatus" /></t> <t>(</t><t>Élatos<n pronunciation="Elatos" /></t><t>)</t>
+<t>Electra<n pronunciation="Electra" /></t>
+<t>Electryon<n pronunciation="Electryon" /></t>
+<t>Eleius<n pronunciation="Eleius" /></t>
+<t>Elephenor<n pronunciation="Elephenor" /></t>
+<t>Eleusis<n pronunciation="Eleusis" /></t>
+<t>Elpenor<n pronunciation="Elpenor" /></t>
+<t>Elymus<n pronunciation="Elymus" /></t> <t>(</t><t>Elumos<n pronunciation="Elumos" /></t><t>)</t>
+<t>Endeis<n pronunciation="Endeis" /></t>
+<t>Endymion<n pronunciation="Endymion" /></t>
+<t>Epaphus<n pronunciation="Epaphus" /></t>
+<t>Epeius<n pronunciation="Epeius" /></t>
+<t>Epicasta<n pronunciation="Epicasta" /></t>
+<t>Epidaurus<n pronunciation="Epidaurus" /></t>
+<t>Epopeus<n pronunciation="Epopeus" /></t>
+<t>Erechtheus<n pronunciation="Erechtheus" /></t>
+<t>Erginus<n pronunciation="Erginus" /></t> <t>(</t><t>Erginos<n pronunciation="Erginos" /></t><t>)</t>
+<t>Erichthonius<n pronunciation="Erichthonius" /></t>
+<t>Eriphyle<n pronunciation="Eriphyle" /></t>
+<t>Eteocles<n pronunciation="Eteocles" /></t>
+<t>Eumaeus<n pronunciation="Eumaeus" /></t> <t>(</t><t>Eumaios<n pronunciation="Eumaios" /></t><t>)</t>
+<t>Eumelus<n pronunciation="Eumelus" /></t>
+<t>Europa<n pronunciation="Europa" /></t>
+<t>Eurotas<n pronunciation="Eurotas" /></t>
+<t>Euryalus<n pronunciation="Euryalus" /></t>
+<t>Eurycleia<n pronunciation="Eurycleia" /></t> <t>(</t><t>also<n pronunciation="also" /></t> <t>Eurýkleia<n pronunciation="Eurykleia" /></t><t>,</t> <t>Euryclea<n pronunciation="Euryclea" /></t><t>)</t>
+<t>Eurylochus<n pronunciation="Eurylochus" /></t>
+<t>Eurymachus<n pronunciation="Eurymachus" /></t>
+<t>Eurypylus<n pronunciation="Eurypylus" /></t>
+<t>Eurystheus<n pronunciation="Eurystheus" /></t>
+<t>Eurytion<n pronunciation="Eurytion" /></t>
+<t>Eurytus<n pronunciation="Eurytus" /></t>
+<t>Ganymede<n pronunciation="Ganymede" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>H-L<n pronunciation="H" /><n pronunciation="L" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Haemon<n pronunciation="Haemon" /></t>
+<t>Hector<n pronunciation="Hector" /></t> <t>(</t><t>Hektor<n pronunciation="Hektor" /></t><t>)</t>
+<t>Hecuba<n pronunciation="Hecuba" /></t> <t>(</t><t>Hekuba<n pronunciation="Hekuba" /></t><t>)</t>
+<t>Helen<n pronunciation="Helen" /></t>
+<t>Helenus<n pronunciation="Helenus" /></t>
+<t>Helle<n pronunciation="Helle" /></t>
+<t>Helios<n pronunciation="Helios" /></t> <t>(</t><t>mythology<n pronunciation="mythology" /></t><t>)</t>
+<t>Heracles<n pronunciation="Heracles" /></t> <t>(</t><t>Heraklês<n pronunciation="Herakles" /></t><t>)</t>
+<t>Hermaphroditus<n pronunciation="Hermaphroditus" /></t>
+<t>Hermione<n pronunciation="Hermione" /></t>
+<t>Hippocoon<n pronunciation="Hippocoon" /></t>
+<t>Hippodamia<n pronunciation="Hippodamia" /></t><t>,</t> <t>wife<n pronunciation="wife" /></t> <t>of<n pronunciation="of" /></t> <t>Pilops<n pronunciation="Pilops" /></t>
+<t>Hippodamia<n pronunciation="Hippodamia" /></t><t>,</t> <t>wife<n pronunciation="wife" /></t> <t>of<n pronunciation="of" /></t> <t>Pirithous<n pronunciation="Pirithous" /></t>
+<t>Hippolyta<n pronunciation="Hippolyta" /></t>
+<t>Hippolytus<n pronunciation="Hippolytus" /></t>
+<t>Hippomedon<n pronunciation="Hippomedon" /></t>
+<t>Hippomenes<n pronunciation="Hippomenes" /></t>
+<t>Hylas<n pronunciation="Hylas" /></t>
+<t>Iambe<n pronunciation="Iambe" /></t>
+<t>Icarius<n pronunciation="Icarius" /></t>
+<t>Icarus<n pronunciation="Icarus" /></t>
+<t>Idomeneus<n pronunciation="Idomeneus" /></t>
+<t>Ino<n pronunciation="Ino" /></t>
+<t>Io<n pronunciation="Io" /></t>
+<t>Iolaus<n pronunciation="Iolaus" /></t>
+<t>Iole<n pronunciation="Iole" /></t>
+<t>Iphicles<n pronunciation="Iphicles" /></t>
+<t>Iphigenia<n pronunciation="Iphigenia" /></t>
+<t>Iphthime<n pronunciation="Iphthime" /></t>
+<t>Irus<n pronunciation="Irus" /></t>
+<t>Ismene<n pronunciation="Ismene" /></t>
+<t>Ixion<n pronunciation="Ixion" /></t>
+<t>Jason<n pronunciation="Jason" /></t>
+<t>Jocasta<n pronunciation="Jocasta" /></t>
+<t>Labdacus<n pronunciation="Labdacus" /></t>
+<t>Laërtês<n pronunciation="Laertes" /></t>
+<t>Laius<n pronunciation="Laius" /></t>
+<t>Laodamas<n pronunciation="Laodamas" /></t>
+<t>Laomedon<n pronunciation="Laomedon" /></t>
+<t>Leda<n pronunciation="Leda" /></t>
+<t>Lelex<n pronunciation="Lelex" /></t>
+<t>Lycaon<n pronunciation="Lycaon" /></t>
+<t>Lycus<n pronunciation="Lycus" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>M-P<n pronunciation="M" /><n pronunciation="P" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Machaon<n pronunciation="Machaon" /></t>
+<t>Marsyas<n pronunciation="Marsyas" /></t>
+<t>Medea<n pronunciation="Medea" /></t>
+<t>Medôn<n pronunciation="Medon" /></t>
+<t>Medusa<n pronunciation="Medusa" /></t> <t>(</t><t>the<n pronunciation="the" /></t> <t>mortal<n pronunciation="mortal" /></t> <t>gorgon<n pronunciation="gorgon" /></t><t>)</t>
+<t>Melampus<n pronunciation="Melampus" /></t>
+<t>Melanthus<n pronunciation="Melanthus" /></t>
+<t>Meleager<n pronunciation="Meleager" /></t>
+<t>Memnon<n pronunciation="Memnon" /></t>
+<t>Menelaus<n pronunciation="Menelaus" /></t>
+<t>Menestheus<n pronunciation="Menestheus" /></t>
+<t>Messene<n pronunciation="Messene" /></t>
+<t>Midas<n pronunciation="Midas" /></t>
+<t>Minos<n pronunciation="Minos" /></t>
+<t>Munippus<n pronunciation="Munippus" /></t>
+<t>Myles<n pronunciation="Myles" /></t>
+<t>Myrrha<n pronunciation="Myrrha" /></t>
+<t>Myrtilus<n pronunciation="Myrtilus" /></t>
+<t>Narcissus<n pronunciation="Narcissus" /></t>
+<t>Nausicaa<n pronunciation="Nausicaa" /></t>
+<t>Neleus<n pronunciation="Neleus" /></t>
+<t>Neoptolemus<n pronunciation="Neoptolemus" /></t>
+<t>Nephele<n pronunciation="Nephele" /></t>
+<t>Nestor<n pronunciation="Nestor" /></t></s></p>
+
+
+<p><s><t>Nimrit/Maya<n pronunciation="Nimrit" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="Maya" /></t>
+<t>Niobe<n pronunciation="Niobe" /></t>
+<t>Nycteus<n pronunciation="Nycteus" /></t>
+<t>Odysseus<n pronunciation="Odysseus" /></t>
+<t>Oebalus<n pronunciation="Oebalus" /></t>
+<t>Oedipus<n pronunciation="Oedipus" /></t>
+<t>Oeneus<n pronunciation="Oeneus" /></t>
+<t>Oenomaus<n pronunciation="Oenomaus" /></t>
+<t>Ogygus<n pronunciation="Ogygus" /></t>
+<t>Oileus<n pronunciation="Oileus" /></t>
+<t>Olenus<n pronunciation="Olenus" /></t>
+<t>Orestes<n pronunciation="Orestes" /></t>
+<t>Orion<n pronunciation="Orion" /></t>
+<t>Orpheus<n pronunciation="Orpheus" /></t>
+<t>Oxyntes<n pronunciation="Oxyntes" /></t>
+<t>Pandion<n pronunciation="Pandion" /></t> <t>I<n pronunciation="I" /></t>
+<t>Pandion<n pronunciation="Pandion" /></t> <t>II<n pronunciation="II" /></t>
+<t>Pandarus<n pronunciation="Pandarus" /></t>
+<t>Pandora<n pronunciation="Pandora" /></t>
+<t>Paris<n pronunciation="Paris" /></t>
+<t>Parthenopeus<n pronunciation="Parthenopeus" /></t>
+<t>Patroclus<n pronunciation="Patroclus" /></t>
+<t>Peleus<n pronunciation="Peleus" /></t>
+<t>Pelias<n pronunciation="Pelias" /></t>
+<t>Pelopia<n pronunciation="Pelopia" /></t>
+<t>Pelops<n pronunciation="Pelops" /></t>
+<t>Penélopê<n pronunciation="Penelope" /></t> <t>(</t><t>Penelopeia<n pronunciation="Penelopeia" /></t><t>)</t>
+<t>Peneus<n pronunciation="Peneus" /></t>
+<t>Penthesilea<n pronunciation="Penthesilea" /></t>
+<t>Pentheus<n pronunciation="Pentheus" /></t>
+<t>Periphetes<n pronunciation="Periphetes" /></t>
+<t>Perseus<n pronunciation="Perseus" /></t> <t>(</t><t>Perseos<n pronunciation="Perseos" /></t><t>)</t> <t>(</t><t>Περσεύς<n pronunciation="Περσεύς" /></t><t>,</t> <t>Περσέως<n pronunciation="Περσέως" /></t><t>)</t>
+<t>Phaethon<n pronunciation="Phaethon" /></t> <t>(</t><t>Phaëton<n pronunciation="Phaeton" /></t><t>)</t>
+<t>Phegeus<n pronunciation="Phegeus" /></t>
+<t>Philemon<n pronunciation="Philemon" /></t>
+<t>Philoctetes<n pronunciation="Philoctetes" /></t>
+<t>Phineas<n pronunciation="Phineas" /></t>
+<t>Phineus<n pronunciation="Phineus" /></t>
+<t>Phocus<n pronunciation="Phocus" /></t>
+<t>Phoenix<n pronunciation="Phoenix" /></t> <t>(</t><t>Phoinix<n pronunciation="Phoinix" /></t><t>)</t>
+<t>Phrixus<n pronunciation="Phrixus" /></t>
+<t>Phyleus<n pronunciation="Phyleus" /></t>
+<t>Pirithous<n pronunciation="Pirithous" /></t>
+<t>Pittheus<n pronunciation="Pittheus" /></t>
+<t>Podalirius<n pronunciation="Podalirius" /></t>
+<t>Polites<n pronunciation="Polites" /></t>
+<t>Polycaon<n pronunciation="Polycaon" /></t>
+<t>Polydorus<n pronunciation="Polydorus" /></t>
+<t>Polynices<n pronunciation="Polynices" /></t>
+<t>Polyxena<n pronunciation="Polyxena" /></t>
+<t>Priam<n pronunciation="Priam" /></t>
+<t>Procrustes<n pronunciation="Procrustes" /></t> <t>(</t><t>Prokrustes<n pronunciation="Prokrustes" /></t><t>)</t>
+<t>Proetus<n pronunciation="Proetus" /></t>
+<t>Prosymnus<n pronunciation="Prosymnus" /></t>
+<t>Protesilaus<n pronunciation="Protesilaus" /></t>
+<t>Psyche<n pronunciation="Psyche" /></t>
+<t>Pterelaos<n pronunciation="Pterelaos" /></t>
+<t>Pygmalion<n pronunciation="Pygmalion" /></t>
+<t>Pylades<n pronunciation="Pylades" /></t>
+<t>Pyramus<n pronunciation="Pyramus" /></t>
+<t>Pyrrhag<n pronunciation="Pyrrhag" /></t></s></p>
+</sectioncontent></section>
+<section level="3"><sectiontitle><t>R-Z<n pronunciation="R" /><n pronunciation="Z" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+<p><s><t>Rhadamanthys<n pronunciation="Rhadamanthys" /></t>
+<t>Rhesus<n pronunciation="Rhesus" /></t>
+<t>Sarpedon<n pronunciation="Sarpedon" /></t>
+<t>Semele<n pronunciation="Semele" /></t>
+<t>Sisyphus<n pronunciation="Sisyphus" /></t>
+<t>Sparta<n pronunciation="Sparta" /></t>
+<t>Sthenelus<n pronunciation="Sthenelus" /></t>
+<t>Tantalus<n pronunciation="Tantalus" /></t>
+<t>Telamon<n pronunciation="Telamon" /></t>
+<t>Telemachus<n pronunciation="Telemachus" /></t> <t>(</t><t>Telémakhos<n pronunciation="Telemakhos" /></t><t>,</t> <t>Telemachos<n pronunciation="Telemachos" /></t><t>)</t>
+<t>Telephus<n pronunciation="Telephus" /></t>
+<t>Teucer<n pronunciation="Teucer" /></t>
+<t>Theoclymenus<n pronunciation="Theoclymenus" /></t>
+<t>Thersander<n pronunciation="Thersander" /></t>
+<t>Thersites<n pronunciation="Thersites" /></t>
+<t>Theseus<n pronunciation="Theseus" /></t> <t>(</t><t>Theseos<n pronunciation="Theseos" /></t><t>)</t>
+<t>Thisbe<n pronunciation="Thisbe" /></t>
+<t>Thyestes<n pronunciation="Thyestes" /></t>
+<t>Thymoetes<n pronunciation="Thymoetes" /></t>
+<t>Tithonus<n pronunciation="Tithonus" /></t>
+<t>Tlepolemus<n pronunciation="Tlepolemus" /></t>
+<t>Trophonius<n pronunciation="Trophonius" /></t>
+<t>Tydeus<n pronunciation="Tydeus" /></t>
+<t>Tyndareus<n pronunciation="Tyndareus" /></t>
+<t>Xuthus<n pronunciation="Xuthus" /></t>
+<t>Zetes<n pronunciation="Zetes" /></t>
+<t>Zethus<n pronunciation="Zethus" /></t></s></p>
+
+
+
+
+</sectioncontent></section></sectioncontent></section>
+</d></article>

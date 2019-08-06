@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Selleophytum
+|user_name_link=[[:en:User:Incledon|Incledon]])
+|date=2015-12-24
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Selleophytum&oldid=641565543
+}}
+
+=={{int:license-header}}==}}
+|date=2015-12-24
+|source={{own}}
+|author=[[User:Incledon|Incledon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coreopsideae]]

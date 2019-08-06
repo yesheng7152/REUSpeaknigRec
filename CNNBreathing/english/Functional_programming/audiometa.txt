@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Functional_programming
+|time=27:58
+|user_name=Mangst
+|date=2011-08-25
+|oldid=446744874
+|accent=American English
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Functional programming]]
+[[Category:Spoken Wikipedia - English]]

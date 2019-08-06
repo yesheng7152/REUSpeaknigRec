@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=voice file about depression}}
+|date=2014-10-06 21:38:58
+|source={{own}}
+|author=[[User:Ex-nimh-researcher|Ex-nimh-researcher]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+{{Uncategorized|year=2015|month=October|day=6}}

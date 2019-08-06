@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Wikipedia article on Priapus, read aloud by Jules Ismail.}}
+|Source=Wikipedia
+|Author=[[User:Theroachyjay|Theroachyjay]]
+|Date=2009-01-07
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+{{Check categories|year=2010|month=January|day=9
+|lang1=en|wiki1=wikipedia|article1=Priapus
+|ncats=1
+}}
+
+[[Category:Priapus]]

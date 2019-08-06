@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken version of the Wikipedia article on Hillary Clinton. Speaker is a male with an American (midwest region) accent.}}
+|date=2014-07-24 16:49:17
+|source={{own}}
+|author=[[User:Matthew David González|Matthew David González]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Hillary Rodham Clinton in 2014]]
+[[Category:General American]]
+[[Category:Hillary Rodham Clinton-related audio]]

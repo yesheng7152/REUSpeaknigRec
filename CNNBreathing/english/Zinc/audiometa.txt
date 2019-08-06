@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a spoken version of [[w:Zinc]] version [http://en.wikipedia.org/w/index.php?title=Zinc&oldid=473107705].}}
+|date=2012-01-25
+|source={{own}}
+|author=[[User:99of9|Toby Hudson]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Uploads by User:99of9]]
+[[Category:Zinc]]

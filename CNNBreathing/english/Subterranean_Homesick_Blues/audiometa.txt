@@ -1,0 +1,12 @@
+{{Spoken article entry
+|title= Subterranean Homesick Blues
+|time= 5:40
+|user_name= LeoTohill
+|date= Jan 7 2008
+|link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Subterranean_Homesick_Blues&oldid=181656855
+|accent=American
+|reviewed=yes
+}}
+
+{{GFDL-with-disclaimers|migration=relicense}} <!-- This is the license tag.  Please leave the license selector blank. -->
+{{Copy to Wikimedia Commons|bot=Svenbot|priority=true}}

@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Breiðdalsvík Airport
+|user_name_link= [[:en:User:Incledon|Incledon]]
+|date=2015-12-27
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Brei%C3%B0dalsv%C3%ADk_Airport&oldid=619645051
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}}}
+|date=2015-12-27
+|source={{own}}
+|author=[[User:Incledon|Incledon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Airports in Iceland]]

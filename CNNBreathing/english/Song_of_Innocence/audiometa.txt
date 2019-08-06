@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Song of Innocence
+|user_name_link=[[:en:User:Pilot_Dawg|User:Pilot_Dawg]]
+|date=2015-01-3
+|accent=West/Central Canadian English
+|sex=M
+|oldid=640557707
+}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-3.0}}

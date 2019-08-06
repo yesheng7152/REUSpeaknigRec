@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Selleophytum" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Selleophytum" /><prop key="DC.date.read" value="2015-12-24 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Selleophytum" /><prop key="DC.source.wikiID" value="24691826" /><prop key="DC.source.revision" value="696673741" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Selleophytum&amp;oldid=641565543" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/e/e7/Selleophytum.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aSelleophytum.ogg" group="audio1" /><link key="DC.source.audio.date" value="2015-12-24 20:43:56" group="audio1" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:51:05.785+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Selleophytum/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Selleophytum)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T19:02:56.470+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Selleophytum/aligned.swc, transcript=articles/Selleophytum/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Selleophytum/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="SelleophytumFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="SelleophytumFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="SelleophytumFrom"><n pronunciation="SelleophytumFrom" start="910" end="2440" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="3290" end="4390" /></t><t text="," /><t text="the"><n pronunciation="the" /></t><t text="free"><n pronunciation="free" start="5000" end="5290" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="5290" end="6480" /></t><t text="at"><n pronunciation="at" start="6620" end="7410" /></t><t text="e"><n pronunciation="e" /></t><t text="n"><n pronunciation="n" start="7790" end="8210" /></t><t text="dot"><n pronunciation="dot" start="8380" end="8740" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="8740" end="9600" /></t><t text="dot"><n pronunciation="dot" start="10000" end="10360" /></t><t text="org"><n pronunciation="org" start="10430" end="10900" /></t><t text="." /></s></extra>
+
+<ignored><s><t>Selleophytum<n pronunciation="Selleophytum" /></t></s>
+
+
+<s><t>Scientific<n pronunciation="Scientific" /></t> <t>classification<n pronunciation="classification" /></t></s>
+
+
+<s><t>Kingdom<n pronunciation="Kingdom" /></t><t>:</t>
+<t>Plantae<n pronunciation="Plantae" /></t></s>
+
+
+<s><t>(</t><t>unranked<n pronunciation="unranked" /></t><t>)</t><t>:</t>
+<t>Angiosperms<n pronunciation="Angiosperms" /></t></s>
+
+
+<s><t>(</t><t>unranked<n pronunciation="unranked" /></t><t>)</t><t>:</t>
+<t>Eudicots<n pronunciation="Eudicots" /></t></s>
+
+
+<s><t>(</t><t>unranked<n pronunciation="unranked" /></t><t>)</t><t>:</t>
+<t>Asterids<n pronunciation="Asterids" /></t></s>
+
+
+<s><t>Order<n pronunciation="Order" /></t><t>:</t>
+<t>Asterales<n pronunciation="Asterales" /></t></s>
+
+
+<s><t>Family<n pronunciation="Family" /></t><t>:</t>
+<t>Asteraceae<n pronunciation="Asteraceae" /></t></s>
+
+
+<s><t>Tribe<n pronunciation="Tribe" /></t><t>:</t>
+<t>Coreopsideae<n pronunciation="Coreopsideae" /></t><t>[</t><t>1<n pronunciation="1" /></t><t>]</t></s>
+
+
+<s><t>Genus<n pronunciation="Genus" /></t><t>:</t>
+<t>Selleophytum<n pronunciation="Selleophytum" /></t>
+<t>Urb<n pronunciation="Urb" /></t><t>.</t></s>
+
+
+<s><t>Binomial<n pronunciation="Binomial" /></t> <t>name<n pronunciation="name" /></t></s>
+
+
+<s><t>Selleophytum<n pronunciation="Selleophytum" /></t> <t>buchii<n pronunciation="buchii" /></t>
+<t>Urb<n pronunciation="Urb" /></t><t>.</t></s>
+
+
+<s><t>Synonyms<n pronunciation="Synonyms" /></t><t>[</t><t>1<n pronunciation="one" /></t><t>]</t><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s>
+
+
+
+<p><s><t>Coreopsis<n pronunciation="Coreopsis" /></t> <t>buchii<n pronunciation="buchii" /></t> <t>(</t><t>Urb<n pronunciation="Urb" /></t><t>.</t><t>)</t></s> <s><t>S.F.<n pronunciation="S" /><n pronunciation="F" /></t> <t>Blake<n pronunciation="Blake" /></t></s></p>
+
+
+</ignored>
+<p><s><t>Selleophytum<n pronunciation="Selleophytum" start="12300" end="13750"><ph start="12330" end="12530" type="s"></ph><ph start="12530" end="12600" type="E"></ph><ph start="12600" end="12690" type="l"></ph><ph start="12690" end="12880" type="i:"></ph><ph start="12880" end="13090" type="V"></ph><ph start="13090" end="13220" type="f"></ph><ph start="13220" end="13340" type="aI"></ph><ph start="13340" end="13470" type="t"></ph><ph start="13470" end="13520" type="V"></ph><ph start="13520" end="13660" type="m"></ph></n></t> <t>is<n pronunciation="is" start="14210" end="14400"><ph start="14260" end="14340" type="I"></ph><ph start="14340" end="14410" type="z"></ph></n></t> <t>a<n pronunciation="a" start="14400" end="14510"><ph start="14410" end="14440" type="V"></ph></n></t> <t>genus<n pronunciation="genus" start="14510" end="15230"><ph start="14440" end="14640" type="dZ"></ph><ph start="14640" end="14790" type="i:"></ph><ph start="14790" end="14870" type="n"></ph><ph start="14870" end="14970" type="V"></ph><ph start="14970" end="15150" type="s"></ph></n></t> <t>of<n pronunciation="of" start="15230" end="15540"><ph start="15150" end="15350" type="?"></ph><ph start="15350" end="15390" type="V"></ph><ph start="15390" end="15430" type="v"></ph></n></t> <t>flowering<n pronunciation="flowering" start="15540" end="16270"><ph start="15430" end="15640" type="f"></ph><ph start="15640" end="15690" type="l"></ph><ph start="15690" end="15930" type="aU"></ph><ph start="15930" end="16040" type="3`"></ph><ph start="16040" end="16160" type="I"></ph><ph start="16160" end="16340" type="N"></ph></n></t> <t>plants<n pronunciation="plants" start="16350" end="17100"><ph start="16500" end="16580" type="p"></ph><ph start="16580" end="16610" type="l"></ph><ph start="16610" end="16700" type="{"></ph><ph start="16700" end="16850" type="n"></ph><ph start="16850" end="16900" type="t"></ph><ph start="16900" end="17090" type="s"></ph></n></t> <t>in<n pronunciation="in" start="17130" end="17340"><ph start="17160" end="17450" type="?"></ph><ph start="17450" end="17520" type="I"></ph><ph start="17520" end="17550" type="n"></ph></n></t> <t>the<n pronunciation="the" start="17340" end="17560"><ph start="17640" end="17680" type="D"></ph><ph start="17680" end="17710" type="V"></ph></n></t> <t>tickseed<n pronunciation="tickseed" start="17560" end="18360"><ph start="17710" end="17740" type="t"></ph><ph start="17740" end="17830" type="I"></ph><ph start="17830" end="17910" type="k"></ph><ph start="17910" end="18050" type="s"></ph><ph start="18050" end="18240" type="i:"></ph><ph start="18240" end="18310" type="d"></ph></n></t> <t>tribe<n pronunciation="tribe" start="18390" end="19020"><ph start="18430" end="18580" type="t"></ph><ph start="18580" end="18680" type="r"></ph><ph start="18680" end="18880" type="aI"></ph><ph start="18880" end="18910" type="b"></ph></n></t> <t>within<n pronunciation="within" start="19200" end="19850"><ph start="19380" end="19480" type="w"></ph><ph start="19480" end="19540" type="I"></ph><ph start="19540" end="19580" type="T"></ph><ph start="19580" end="19680" type="I"></ph><ph start="19680" end="19870" type="n"></ph></n></t> <t>the<n pronunciation="the" start="19850" end="19980"><ph start="19870" end="19910" type="D"></ph><ph start="19910" end="19940" type="V"></ph></n></t> <t>daisy<n pronunciation="daisy" start="19980" end="20570"><ph start="19940" end="20070" type="d"></ph><ph start="20070" end="20320" type="eI"></ph><ph start="20320" end="20390" type="z"></ph><ph start="20390" end="20530" type="i:"></ph></n></t> <t>family<n pronunciation="family" start="20570" end="21210"><ph start="20650" end="20710" type="f"></ph><ph start="20710" end="20830" type="{"></ph><ph start="20830" end="20930" type="m"></ph><ph start="20930" end="21030" type="l"></ph><ph start="21030" end="21100" type="i:"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>4<n pronunciation="four" /></t><t>]</t></s></ignored></p>
+
+<s><t>Species<n pronunciation="Species" /></t></s>
+
+<p><s><t>The<n pronunciation="The" /></t> <t>only<n pronunciation="only" start="22810" end="23340" /></t> <t>known<n pronunciation="known" start="23340" end="23720" /></t> <t>species<n pronunciation="species" start="23920" end="24590" /></t> <t>is<n pronunciation="is" start="24600" end="24990" /></t> <t>Selleophytum<n pronunciation="Selleophytum" start="24990" end="26210" /></t> <t>buchii<n pronunciation="buchii" start="26390" end="26840" /></t><t>,</t> <t>native<n pronunciation="native" start="27590" end="28280" /></t> <t>to<n pronunciation="to" start="28360" end="28640" /></t> <t>Haiti<n pronunciation="Haiti" start="28640" end="29290" /></t> <t>and<n pronunciation="and" start="29490" end="30050" /></t> <t>the<n pronunciation="the" start="30050" end="30230" /></t> <t>Dominican<n pronunciation="Dominican" start="30230" end="31010" /></t> <t>Republic<n pronunciation="Republic" start="31010" end="31780" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s></ignored></p>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>Flann<n pronunciation="Flann" /></t><t>,</t> <t>C<n pronunciation="C" /></t> <t>(</t><t>ed<n pronunciation="ed" /></t><t>)</t> <t>2009+<n pronunciation="2009" /><n pronunciation="plus" /></t> <t>Global<n pronunciation="Global" /></t> <t>Compositae<n pronunciation="Compositae" /></t> <t>Checklist<n pronunciation="Checklist" /></t>
+<t>^<n pronunciation="^" /></t> <t>The<n pronunciation="The" /></t> <t>Plant<n pronunciation="Plant" /></t> <t>List<n pronunciation="List" /></t><t>,</t> <t>Selleophytum<n pronunciation="Selleophytum" /></t> <t>buchii<n pronunciation="buchii" /></t> <t>Urb<n pronunciation="Urb" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>Urban<n pronunciation="Urban" /></t><t>,</t> <t>Ignatz<n pronunciation="Ignatz" /></t><t>.</t></s> <s><t>1915<n pronunciation="nineteen" /><n pronunciation="fifteen" /></t><t>.</t></s> <s><t>Repertorium<n pronunciation="Repertorium" /></t> <t>Specierum<n pronunciation="Specierum" /></t> <t>Novarum<n pronunciation="Novarum" /></t> <t>Regni<n pronunciation="Regni" /></t> <t>Vegetabilis<n pronunciation="Vegetabilis" /></t> <t>13<n pronunciation="thirteen" /></t><t>:</t> <t>483-484<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="eighty" /><n pronunciation="three" /><n pronunciation="to" /><n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="eighty" /><n pronunciation="four" /></t> <t>in<n pronunciation="in" /></t> <t>Latin<n pronunciation="Latin" /></t>
+<t>^<n pronunciation="^" /></t> <t>Tropicos<n pronunciation="Tropicos" /></t><t>,</t> <t>Selleophytum<n pronunciation="Selleophytum" /></t> <t>Urb<n pronunciation="Urb" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>Blake<n pronunciation="Blake" /></t><t>,</t> <t>Sydney<n pronunciation="Sydney" /></t> <t>Fay<n pronunciation="Fay" /></t><t>.</t></s> <s><t>1924<n pronunciation="nineteen" /><n pronunciation="twenty" /><n pronunciation="four" /></t><t>.</t></s> <s><t>Contributions<n pronunciation="Contributions" /></t> <t>from<n pronunciation="from" /></t> <t>the<n pronunciation="the" /></t> <t>United<n pronunciation="United" /></t> <t>States<n pronunciation="States" /></t> <t>National<n pronunciation="National" /></t> <t>Herbarium<n pronunciation="Herbarium" /></t> <t>22<n pronunciation="twenty" /><n pronunciation="two" /></t><t>(</t><t>8<n pronunciation="eight" /></t><t>)</t><t>:</t> <t>641<n pronunciation="641" /></t><t>–<n pronunciation="–" /></t><t>642<n pronunciation="six" /><n pronunciation="hundred" /><n pronunciation="forty" /><n pronunciation="two" /></t> <t>in<n pronunciation="in" /></t> <t>Englisy<n pronunciation="Englisy" /></t></s>
+
+
+
+
+
+
+<s><t>This<n pronunciation="This" /></t> <t>Asteraceae-related<n pronunciation="Asteraceae" /><n pronunciation="related" /></t> <t>article<n pronunciation="article" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>stub<n pronunciation="stub" /></t><t>.</t></s> <s><t>You<n pronunciation="You" /></t> <t>can<n pronunciation="can" /></t> <t>help<n pronunciation="help" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>by<n pronunciation="by" /></t> <t>expanding<n pronunciation="expanding" /></t> <t>it<n pronunciation="it" /></t><t>.</t></s>
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

@@ -1,0 +1,55 @@
+<root><template><title>Infobox computer
+</title><part><name>Logo </name><equals>=</equals><value> [[File:Aquarius Home Computer System Logo.png|250px|center]]
+</value></part><part><name>Photo </name><equals>=</equals><value> [[Image:Aquarius Computer Mod.png|320px]]
+</value></part><part><name>Type </name><equals>=</equals><value> [[Home computer]]
+</value></part><part><name>Released </name><equals>=</equals><value> June 1983
+</value></part><part><name>Discontinued </name><equals>=</equals><value> October 1983
+</value></part><part><name>Processor </name><equals>=</equals><value> [[Zilog Z80]]A @ 3.5 MHz
+</value></part><part><name>Memory </name><equals>=</equals><value> 4[[kilobyte|KB]] [[RAM]] (expandable to 20KB), 8KB [[Read-only memory|ROM]]
+</value></part><part><name>OS </name><equals>=</equals><value> [[Microsoft BASIC]]
+</value></part><part><name>input </name><equals>=</equals><value> [[Keyboard (computing)|Keyboard]]
+</value></part><part><name>media </name><equals>=</equals><value> [[Cassette tape]], [[ROM Cartridge]]
+</value></part><part><name>price </name><equals>=</equals><value> US$160
+</value></part></template>
+
+'''Aquarius''' is a [[home computer]] designed by [[Radofin]] and released by [[Mattel]] in 1983. It features a [[Zilog Z80]] microprocessor, a rubber [[chiclet keyboard]], 4K of RAM, and a subset of [[Microsoft BASIC]] in ROM. It connects to a [[television]] set and uses a [[compact audio cassette|cassette]] tape recorder for secondary data storage. A limited number of peripherals, such as a 40-column [[thermal printer]], a 4-color printer/plotter, and a 300 baud [[modem]], were released for the unit.
+
+<h level="2" i="1">==History==</h>
+[[Image:Mattelaquarius.jpg|thumb|left|The Aquarius with attached expansion block including 4KB RAM expansion and game cartridge inserted, controllers, and tape Data Recorder]]
+
+Looking to compete in the standalone computer market, Mattel Electronics turned to Radofin, the [[Hong Kong]] based manufacturer of their [[Intellivision]] consoles. Radofin had designed two computer systems. Internally they were known as &quot;Checkers&quot;, and the more sophisticated &quot;Chess&quot;. Mattel contracted for these to become the Aquarius and Aquarius II, respectively. Aquarius was announced in 1982 and finally released in June 1983, at a price of $160. Production ceased four months later because of poor sales. Mattel paid Radofin to take back the marketing rights, and four other companies—CEZAR Industries, CRIMAC Inc., New Era Incentives, Inc., and Bentley Industries—also marketed the unit and accessories for it. Bentley Industries (of [[Los Angeles]]) and New Era Incentives, Inc. (of St. Paul) are still in business, though they no longer have any affiliation with the Aquarius product line.
+
+The Aquarius often came bundled with the Mini-Expander peripheral, which added game pads, an additional cartridge port for memory expansion, and the GI AY-3-8914 sound chip, which was the same one used on the Intellivision console. Other common peripherals were the Data recorder, 40 column thermal printer, 4K and 16K ram carts. Less common first party peripherals include a 300 baud cartridge modem, 32k RAM cart, 4 color plotter, and [[Quick Disk#Quick|Quick Disk drive]].
+
+Although less expensive than the [[Texas Instruments TI-99/4A]] and [[Commodore VIC-20]], the Aquarius had comparatively weak graphics and limited memory. Internally, Mattel programmers dubbed it &quot;the system for the seventies&quot;. Of the 32 software titles Mattel announced for the unit, only 21 were released, most of which were ports from Mattel's [[Intellivision]] game console. Because of the hardware limitations of the Aquarius (such as a lack of programmable graphics), the quality of many games suffered. This is in contrast to other home video game companies of the era who were branching out into the home computer market, such as [[Atari]] and [[Coleco]], who's offerings typically matched or exceeded the capabilities of their dedicated gaming consoles.
+
+Shortly after the release of the Aquarius, Mattel announced plans for another home computer, the [[Aquarius II]]. There is evidence that the Aquarius II reached the market in small numbers,<ext><name>ref</name><attr/><inner>[http://old-computers.com/museum/computer.asp?c=74&amp;st=1 Mattel Aquarius II at old-computers.com], retrieved October 6, 2006</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>[http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=fr_en&amp;url=http%3A%2F%2Fperso.orange.fr%2Frogue%2Faquarius.html Mattel Aquarius at perso.orange.fr] (translated via [[Babel Fish (website)|Babel Fish]], [http://perso.orange.fr/rogue/aquarius.html original article]), retrieved October 6, 2006{{dead link|date=April 2013}}</inner><close>&lt;/ref&gt;</close></ext> but it was never a commercial success.
+
+<h level="2" i="2">==Technical specifications==</h>
+* CPU: Zilog Z-80, 3.5&amp;nbsp;MHz
+* Memory: 4K RAM, expandable to 20K RAM; 8K ROM
+* Keyboard: 48-key rubber [[chicklet keyboard|chiclet]]
+* Display: 40x24 text, 80x72 graphics, 16 colors
+* Sound: One voice, expandable to four voices
+* Ports: Television, cartridge/expansion, tape recorder, printer
+* Hardware Sprites: None
+* PSU: Non-removable external power supply hard-wired into case providing 8.8 / 16 / 19 VDC
+
+<h level="2" i="3">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<h level="2" i="4">==External links==</h>
+* http://www.vdSteenoven.com/aquarius/
+* http://oldcomputers.net/aquarius.html
+* http://www.zophar.net/aquarius/
+* [http://www.thedoteaters.com/p3_stage3.php The Dot Eaters entry] on Aquarius and the Intellivision
+* [http://www.youtube.com/mattelaquarius Sample videos of most Mattel Aquarius programs]
+* [http://www.computinghistory.org.uk/det/502/Mattel-Aquarius/ The Mattel Aquarius at The Centre for Computing History]
+
+<template lineStart="1"><title>Mattel Electronics</title></template>
+
+<template lineStart="1"><title>commons category</title><part><name index="1"/><value>Mattel Aquarius</value></part></template>
+
+[[Category:Mattel]]
+[[Category:Home computers]]
+[[Category:1983 introductions]]</root>

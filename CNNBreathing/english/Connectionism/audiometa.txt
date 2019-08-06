@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Connectionism
+|time=19:19
+|user_name=Mangst
+|date=2011-11-26
+|oldid=461401646
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+{{Uncategorized|year=2015|month=November|day=5}}

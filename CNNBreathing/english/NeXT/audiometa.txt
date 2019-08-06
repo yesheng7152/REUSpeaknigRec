@@ -1,0 +1,28 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:Mangst|Mangst]] made this recording based on Wikipedia
+|Date={{original upload date|2009-02-10}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Mangst|migration=relicense}}
+{{Spoken article
+|title=NeXT
+|time=28:25
+|user_name=Mangst
+|sex=male
+|date=2011-10-16
+|oldid=455061626
+|accent=American English
+|wiki_lang=en
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|NeXT.ogg}}
+* 2009-02-10 05:08 [[:en:User:Mangst|Mangst]] 0×0× (16209817 bytes) ''<nowiki>{{Spoken article |title=NeXT |time=27:51 |user_name=Mangst |date=2009-02-09 |oldid=269229041 |accent=American English }} {{GFDL-with-disclaimers}} <!-- This is the license tag.</nowiki>''
+
+[[Category:NeXT]]
+[[Category:Spoken Wikipedia - English]]

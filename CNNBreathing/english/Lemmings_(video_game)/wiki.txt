@@ -1,0 +1,179 @@
+{{Infobox VG
+|title=Lemmings
+|image=[[Image:Lemmings-BoxScan.jpg|250px]]
+|developer=DMA Design (now [[Rockstar North]])
+|publisher=[[Psygnosis]], [[Sunsoft]],<br>[[Data East]] (arcade prototype)
+|designer=[[Mike Dailly]]
+|engine=
+|released=[[February 14]] [[1991]] (Amiga)
+|genre=[[Puzzle video game|Puzzle]]
+|modes=[[Single-player]]<br />[[multiplayer video game|Multiplayer]] (on some systems)
+|ratings=[[Entertainment Software Rating Board|ESRB]]: E (Everyone)
+|platforms=[[Commodore Amiga]], [[#Ports|various]]
+|media=Two 3.5" [[floppy disk]]s, various
+|requirements=
+|input=[[Mouse (computing)|Mouse]], [[Keyboard (computing)|Keyboard]], [[D-pad]], [[Analog stick]], other various
+}}
+{{otheruses3|Lemming (disambiguation)}}
+'''''Lemmings''''' is a [[Puzzle video game|puzzle]] [[Personal computer game|computer game]], developed by [[Rockstar North|DMA Design]] (now ''Rockstar North'') and published by [[Psygnosis]] in {{vgy|1991}}, originally for the [[Commodore Amiga]]. ''Lemmings'' was one of the most popular computer games of its time and several games magazines praised the game, giving it some of their highest review scores at the time. The popularity of the game led to development of numerous ports to other systems, including most recently ports to the [[PlayStation Portable]], [[PlayStation 2]], and [[PlayStation 3]] in {{vgy|2006}} and {{vgy|2007}}, and the creation of several sequels.
+
+The behavior of the creatures in ''Lemmings'' is based on the behavior of real [[lemming]]s, who by [[urban legend]] are believed to go on migrations ''[[en masse]]'' that eventually lead to disaster. In order to save at least the required number of lemmings, the player must determine how to assign a limited number of eight different skills to specific lemmings that allow the selected lemming to alter the landscape, to affect the behavior of other lemmings, or to clear obstacles in order to create a safe passage for the rest of the lemmings, sometimes even by means of sacrifice.
+
+==Gameplay==
+[[Image:Amiga Lemmings.png|thumb|left|Lemmings cross a bridge and tunnel through a rock formation in the [[Amiga]] version]]
+''Lemmings'' is divided into a number of levels, grouped into four difficulty levels. Each level comprises both [[destructible environment|destructible landscape elements]] such as rocks, indestructible sections such as steel plates, and include numerous obstacles including chasms, high walls, large drops, pools of water or lava, and traps that trigger when a lemming is close. Each level also includes one or more entrance points and one or more exits. The goal is to guide a certain percentage of the green-hair, blue-shirted lemmings from the entrance to the exit by clearing or creating a safe passage through the landscape for the lemmings to use.<ref name="manual"/><ref name="eurogamer review"/> Unless assigned a special task, each lemming will walk in one direction ignoring any other lemming in its way (save for Blockers), falling off any edges and turning around if they hit an obstacle they cannot pass. They die if they fall from a great height, fall into water or lava or off the map, or get caught in a trap; they also die after being assigned the bomber skill.<ref name="nytimes">{{cite web | url = http://www.nytimes.com/2006/06/29/technology/29game.html?pagewanted=1&_r=1&ei=5070&en=9b11a61802a7c4f8&ex=1152244800&emc=eta1 | title =Addictive as Chips, but Less Fattening | publisher = [[New York Times]] | date = [[2006-06-29]] | accessdate = 2008-03-28 | first = Charles | last = Herold}}</ref>
+
+To successfully complete the level, the player must assign certain lemmings specific skills. The quantity of skill assignments of each type is generally limited, requiring the player to best use the skills to solve each level.<ref name="eurogamer review"/> There are eight skills that can be assigned. Two skills stay with the lemming regardless of how they are reassigned: "Climbers" will climb any vertical surface they hit, and "Floaters" can safely fall off from heights without injury. "Bashers", "Miners", and "Diggers" cause the assigned lemming to dig across, diagonally downward, or directly downward, respectively, through destructible material until they emerge into open air, hit indestructible material, or are reassigned. "Builders" create a rising stairway of up to 12 steps, with audible cues when they are nearly done with their task to allow the player to reassign them if a longer stairway is needed. "Blockers" will reverse the direction of all lemmings that hit them, and cannot be reassigned unless first the ground under their feet is removed. (They can be exploded, though.) "Bombers" will continue whatever they were doing prior to assignment, but after 5 seconds (indicated by a countdown timer above their head) they will stop and explode, taking a small chunk out of any destructible environment around them.<ref name="manual">{{cite book | year=1993 | editor=Atari | title=Lemmings Instruction Manual (Atari Lynx) (C398105-080 Rev. A) | pages=5–7 | publisher=Atari | language=English}}</ref>  While the player is able to pause the game to inspect the level and status of the lemmings, skills can only be assigned in real-time.  
+
+The lemmings are initially released at a rate predetermined by the level (from 1 to 99), but the player can increase this to a faster rate. The player also has the option to "nuke" all the remaining lemmings on the screen, converting them all to Bombers, either to quickly forfeit in order to retry a level or to remove any Blockers that remain after the rest have been rescued.<ref name="manual"/>
+
+The four difficulty groups&mdash;"Fun", "Tricky", "Taxing" and "Mayhem"&mdash;are used to organize the levels to reflect their overall difficulty.<ref name="gamespot psp review"/> This rating reflects several factors, including the number of obstacles the player has to surpass, the limitation on the number of types of skills available to assign, the minimum rate of lemming release, and the percentage of lemmings that must be saved. <ref name="eurogamer review"/>
+
+===Two-player mode===
+[[Image:SNES Lemmings2Player.png|thumb|In two-player mode, each player can only control lemmings of their own color but attempt to guide any lemming to their own goal]]
+The original ''Lemmings'' also has 20 two-player levels. This took advantage of the Amiga and Atari's ability to handle two mice simultaneously.<ref name="history"/> Each player is presented with their own view of the same map (on a vertically-split screen), can only give orders to their own lemmings (green or blue), and had their own base. The goal is to get more lemmings (regardless of color) into one's own base than the other player. Gameplay cycles through the 20 levels until neither player gets any lemmings home.<ref name="manual"/>  The [[Atari ST]] also has a 2-player mode, one player using the keyboard or the joystick, and the other using the mouse.
+
+Two-player levels are also present in the [[Sega Mega Drive]] and [[Super Nintendo Entertainment System|Super NES]] versions, along with some levels unique to those versions and produced by Sunsoft, their developer; some of these levels were also found in ''[[Oh No! More Lemmings]]'' with other designs.
+
+The multiplayer aspect of Lemmings has been incorporated into the variant ''[[CLONES|Clones]]'' which can support up to 16 networked players at once.
+
+==Development==
+[[Mike Dailly]], the first employee of DMA Design and one of the programmers for ''Lemmings'', has provided a detailed history of the development of ''Lemmings'' entitled "The Lemmings Story".<ref name="history">{{cite web |url=http://www.javalemmings.com/DMA/Lem_1.htm |first=Mike |last=Dailly |title=The Complete History of Lemmings |year=2006|accessdate= 2008-02-28 }}</ref> [[David Jones (game developer)|Dave Jones]], founder of DMA Design and more recently, developer of ''[[Grand Theft Auto]]'' and ''[[Crackdown]]'', also has commented on the development and success of ''Lemmings''.<ref name="jones recount">{{cite web | url = http://www.gamasutra.com/php-bin/news_index.php?story=12190 | title = Playing Catch Up: GTA/Lemmings' Dave Jones | date = [[2006-12-21]] | accessdate = 2008-03-04 | publisher = Gamasutra | first = Alistair | last = Wallis }}</ref>
+
+[[Image:Lemming animation.gif|left|thumb|140px|The original ''Lemmings'' walk-cycle animations from Mike Dailly (left) and Gary Timmons' improved version on the right.  The animation was done using an 8x8 pixel space, with Timmons' version showing a less stiff walk cycle.]] 
+Originally, the concept of the gameplay results as a quick demonstration of being able to create an animated character in a 8x8 pixel box as part of development for ''[[Walker (computer game)|Walker]]'', a sequel to ''[[Blood Money (computer game)|Blood Money]]''.<ref name="history"/><ref name="jones recount"/> Dailly was able to quickly produce an animated graphic showing his creations moving endlessly, with additional graphical improvements made by Gary Timmons other members of the DMA Design team to help remove the stiffness in the animation. One member, Russell Kay, observed that "There's a game in that!", and later coined the term "lemmings" for these creations, according to Dailly.<ref name="history"/> Allowing the creatures to move across the landscape was based on a [[salamander]] weapon concept for ''Blood Money'' and demonstrated with the animations.<ref name="history"/>
+
+Levels were designed based on a [[Deluxe Paint]] interface, which allowed several of the members to design levels, resulting in "hundreds of levels".<ref name="jones recount"/> There were several internal iterations of the levels, each designer challenging the others. Dailly pointed out that [[David Jones (game developer)|Dave Jones]] "used to try and beat us, and after proudly stabbing a finger at the screen and saying 'There! Beat that!', we{{'}}d calmly point out a totally new way of getting around all his traps, and doing it in a much simpler method. 'Oh...', he{{'}}d mutter, and scramble off to try and fix it."<ref name="history"/> They also sent internally-tested levels to [[Psygnosis]], getting back the results of their testing via fax. While most were solved quickly, Dailly commented that "Every now and again though, the fax would be covered in scribbles with the time and comments crossed out again and again; this is what we were striving for while we were designing the levels, and it gave us all a warm fuzzy feeling inside."<ref name="history"/>
+
+Each of the designers had notable features in their levels: Dailly's level names generally clued the player to what to do (such as "It's Hero Time", suggesting a single lemming was to be assigned all necessary skills to open the pathway to the exit for the other lemmings) and generally required the player to perform several actions at once, Gary Timmons's levels were minimal with popular culture references in the title, and Scott Johnston's levels were generally tightly packed. Dailly was also responsible for the "custom" levels based on other Psygnosis and [[Reflections Interactive]] Amiga games, such as ''[[Shadow of the Beast]]'', Menace, ''[[Awesome (video game)|Awesome]]'', and ''[[Shadow of the Beast#Shadow of the Beast II|Shadow of the Beast II]]''.<ref name="history"/>
+
+These "Crossover" levels also used music from those games, though in ports these levels have been removed or altered to remove such references. After they developed most of the hard levels, they then created several simple levels either by copying the existing ones or created new layouts; as Dailly states, "This I believe is where many games fall down today, they do not spend the time making a good learning curve."<ref name="history"/>
+
+Music was created by Brian Johnson, Scott Johnson's younger brother, and Scott's mother was the first voice of the lemmings. Timmons is credited with the official drawings of the lemmings, as necessitated by the need of Psygnosis for box cover artwork.<ref name="history"/>
+
+The two-player option was inspired by then-present games ''[[Populous]]'' and ''[[Stunt Car Racer]]''. They initially wanted to use a [[null modem|null-modem]] connection between two machines to allow competitive play, but ended up using the ability of the Amiga to have two mouse pointer devices usable at the same time and thus created the split-screen mode.<ref name="history"/>
+
+==Ports==
+{{see also|Comparison of Lemmings ports}}
+
+The popularity of the game on the Amiga led to its rapid [[porting]] to many other platforms, and is considered to be one of the most widely-ported video games of all time.<ref>{{cite web | url = http://games.consumerelectronicsnet.com/articles/viewarticle.jsp?id=46303 | title = Lemmings PSP Review | publisher = Consumer Electronics Net.com | first = Don | last = Lee | date = [[2006-06-15]] | accessdate = 2008-02-28}}</ref><ref name="jones recount"/>
+
+Known commercial ports of the original game include: [[3DO Interactive Multiplayer|3DO]]; [[Acorn Archimedes]]; [[Amstrad CPC]]; [[Apple, Inc.|Apple]] [[Apple IIgs|II<small>GS</small>]] and [[Apple Macintosh|Macintosh]]; [[Arcade game|Arcade]] (prototype only); [[Atari]] [[Atari Lynx|Lynx]] and [[Atari ST|ST]]; [[Commodore International|Commodore]] [[Commodore 64|64]], [[Amiga CD32]], and [[CDTV]] systems; [[MS-DOS]]; [[Hewlett-Packard]] [[HP-48]] series; [[Mobile phone]]; [[Nintendo]]'s  [[Nintendo Entertainment System|NES]], [[Super Nintendo Entertainment System|SNES]], [[Game Boy]], and [[Game Boy Color]]; [[OS/2]] (demo only); [[Palm Pilot|Palm]]; [[Philips]] [[CD-i]]; [[SAM Coupé]]; [[Sega]] [[Sega Game Gear|Game Gear]], [[Sega Master System|Master System]] and [[Sega Mega Drive|Genesis]]; [[ZX Spectrum|Sinclair Spectrum]]; several [[Texas Instruments]] [[calculators]]; [[UIQ]]; [[Pocket PC]] and [[Microsoft Windows|Windows]].
+
+While all ports share the same basic characteristics of the game, there are a number of significant differences, generally related to hardware and control restrictions. This may include how skills are assigned, the number of difficulty levels and individual levels within each port, and exclusion of certain words and levels due to their connotation or legal standing,
+
+[[Image:Pingus.jpg|thumb|''[[Pingus (video game)|Pingus]]'' is a [[GNU]]-based variant of ''Lemmings'', with the player in control of [[penguins]] instead of lemmings.]]
+General game concepts have been included in variants, such as ''[[Pingus (video game)|Pingus]]'' for [[GNU]]-based systems where the player is required to safely guide [[penguin]]s across landscapes using a similar array of tools.<ref>{{cite web | url = http://archives.cnn.com/2000/TECH/computing/12/20/linux.games.idg/index.html | title= Top 10 Linux games for the holidays | publisher = Linux World | first = Lee | last = Anderson | date = [[2000-12-20]] | accessdate = 2008-03-03}}</ref>  Another variant, ''[[CLONES|Clones]]'', adds internet multiplayer and new game modes to the core gameplay.
+
+In early 2006, Sony released a [[enhanced remake|remake]] of ''Lemmings'' for the [[PlayStation Portable]] (PSP) handheld console, developed by [[Team17]]. It features all 120 levels from the original game, 36 brand new levels as well as [[expansion pack|DataPack]] support (similar to the Extra Track system featured in ''[[Wipeout Pure]]''), and a "UserLevel" Editor. Every level in the game is a pre-rendered 3D landscape, although their gameplay is still 2D and remains faithful to the original game. UserLevels can be constructed from pre-rendered objects, in a similar manner to unofficial [[level editor]]s such as ''[[LemEdit]]'' for DOS ''Lemmings'' and ''[[LemmEd]]'' for Amiga ''[[Lemmings 2: The Tribes]]''. UserLevels can be distributed by [[Uploading and downloading|uploading]] them to a PlayStation-specific Lemmings [[virtual community|online community]]. The soundtrack also marks the final video game score created by longtime composer [[Tim Follin]] after he announced his retirement from the industry in mid-2005.<ref>{{cite web | url = http://www.gamasutra.com/php-bin/column_index.php?story=6640 | title = Playing Catch-Up: Tim Follin | publisher = Gamasutra | date = 2005-09-26 | accessdate = 2007-09-26 | first = Frank | last = Cifaldi }}</ref> ''Lemmings'' for the PSP was warmly received, with a 76/100 average rating at [[Metacritic]];<ref>{{cite web | url =http://www.metacritic.com/games/platforms/psp/lemmings?q=lemmings | title = Lemmings (psp: 2006) | publisher = Metacritic | accessdate = 2008-02-28}}</ref> the primary complaint about the game was the otherwise bare port of the game to yet another system, as commented in the [[Eurogamer]] review, "But we've all done Lemmings at one time or other, there's nothing new about this."<ref name="eurogamer review">{{cite web | url = http://www.eurogamer.net/article.php?article_id=63139 | title = Lemmings | publisher = Eurogamer | first = Kristan | last = Reed | date = [[2006-03-07]] | accessdate = 2008-02-28}}</ref>
+
+Later, in {{vgy|2007}}, Team17 produced a similar remake of ''Lemmings'' for the Sony [[PlayStation 3]] for download through the [[PlayStation Network]]. The game has the similar graphical improvements as the PSP title, as well as on-line scoreboards and additional levels developed for high-definition display, but lacks the ability to create and share levels as the PSP version offers.<ref>{{cite web | url = http://www.gamespot.com/ps3/puzzle/lemmings/review.html?om_act=convert&om_clk=tabs&tag=tabs;reviews | title = Lemmings for PlayStation 3 Review | publisher = GameSpot | date = 2007-01-19 | accessdate =2007-09-25 | first = Kevin | last = Van Ord }}</ref> The inability to create levels or play competitively online resulted in the game receiving mediocre reviews, with an average Metacritic score of 59/100.<ref>{{cite web | url = http://www.metacritic.com/games/platforms/ps3/lemmings?q=lemmings | title = Lemmings (ps3: 2007) | publisher = Metacritic | accessdate = 2008-02-28}}</ref>
+
+The game was also ported for play on the [[PlayStation 2]] with use of the [[EyeToy]] in October {{vgy|2006}} by [[Rusty Nutz]]. The basic change in the concept is that the player must stretch and use his/her limbs in the recorded picture to aid the lemmings.<ref>{{cite web |url=http://ps2.ign.com/articles/708/708402p1.html |title=E3 2006: Lemmings |work=IGN E<sup>3</sup> Expo Coverage |publisher=[[IGN]] |author="Nix" |date=2006-05-12}}</ref> This version was also panned by critics, being nothing more than a straight port of the PSP game with the added difficulty of getting the motions correct for the EyeToy, and only received an average Metacritic score of 67/100.<ref>{{cite web | url = http://www.metacritic.com/games/platforms/ps2/lemmings?q=lemmings | title = Lemmings (ps2: 2007) | publisher = Metacritic | accessdate = 2008-02-28}}</ref>
+
+In April 2009 UK game studio [http://www.npunk.com Nanopunk] will release a port of Lemmings on the iPhone and iPod Touch via the Apple App Store and iTunes. Based on open source code and new graphics by a professional illustrator, the game will stay true to the original gameplay but on a touch screen device. <ref>Lemmings on the Apple iPhone mobile device http://www.npunk.com/iphone/</ref>
+
+==Reception==
+The original sales for ''Lemmings'' on the Amiga topped 55,000 copies on the first day of sales; in comparison, ''Menace'' sold 20,000 copies and ''Blood Money'' sold 40,000 copies cumulatively. With all the ports included, it has been estimated that over 15 million copies of ''Lemmings'' have been sold since 1991.<ref>{{cite web | url = http://www.javalemmings.com/DMA/DMA4_1.htm | title = The Complete History of DMA Design | first = Mike | last = Dailly | publisher = Mike Dailly | date = 2006 | accessdate =2007-09-20}}</ref>
+
+Several gaming magazines of the time of its first releases gave ''Lemmings'' very high scores, and only the level of graphics and sound received some small amount of criticism.<ref>{{cite| title =  Lemmings | publisher = ACE (games magazine) |date=April 1991|author =Douglas, Jim}}</ref> David Sears of ''Compute!'' in his review of ''Lemmings'' for the PC, stated that "Perhaps Psygnosis has tapped into the human instinct for survival in formulating this perfect blend of puzzle, strategy, and action."<ref>{{cite news | last = Sears | first = David | title = Lemmings | work = Compute! | pages = 106 | date = October 1991 | url = http://www.atarimagazines.com/compute/issue134/106_Lemmings.php | accessdate = 2008-02-28 }}</ref> ''[[Amiga Computing]]'' stated that "Lemmings is absolutely brilliant. Psygnosis have managed to produce a game that is not only totally original, but also features the kind of addicting gameplay that will keep you coming back for more time and time again."<ref>{{cite news | last = Holborne | first = Jason | title = Lemmings | work = Amiga Computing | pages = 52-53 |date=May 1991}}</ref> A review from the Australian Commodore and Amiga Review (ACAR) magazine stated that "Above all, the concept is simple, and the game is a lot of fun."<ref>{{cite news | last = Cambell | first = Phil | title = Lemmings | work = ACAR | pages = 76 |date=April 1991}}</ref>
+
+''Lemmings'' is considered to be a gaming classic. In their review for the PSP port, [[GameSpot]] identified that "Lemmings is a game-design classic that is as compelling now in its newest iteration on the PlayStation Portable as it was 15 years ago."<ref name="gamespot psp review">{{cite web | url = http://www.gamespot.com/psp/puzzle/lemmings/review.html?om_act=convert&om_clk=gssummary&tag=summary;review | title = Lemmings for PSP Review | publisher = GameSpot | accessdate = 2007-09-24 | date = 2006-06-01 | first= Guy | last = Cocker }}</ref> In {{vgy|1996}}, ''[[Computer Gaming World]]'' listed ''Lemmings'' as the 12th best game of all time out of 150 games.<ref>{{cite web | url =http://www.cdaccess.com/html/pc/150best.htm | title = 150 Best Games of All Time | publisher = CDAccess | accessdate = 2008-02-28}}</ref> ''[[Edge (magazine)|EDGE]]'' magazine listed ''Lemmings'' as the 82nd top game of all time in a July, {{vgy|2007}} list.<ref>{{cite web | url = http://www.next-gen.biz/index.php?option=com_content&task=view&id=6231&Itemid=2 | title = Edge's Top 100 Games of All time | date = 2007-07-02 | accessdate = 2007-09-23 | publisher = Next Gen Business}}</ref>
+
+''Lemmings'' has also been called a predecessor of the modern [[real-time strategy|real-time strategy (RTS)]] video game genre. An ''[[Amiga Power]]'' article claims that ''Lemmings'' "was the first major game to introduce the 'indirect-control' concept", an element that is now common in many RTS games.<ref>{{cite news | title = Buyers Guide | work = Amiga Power | pages = 111-112 |date=December 1991}}</ref> As noted more recently by [[1UP]], "The biggest difference is that instead of trying to outmaneuver another player's army, you're trying to outwit the level designers' cruel design sensibilities."<ref name="1up retro">{{cite web | url = http://www.1up.com/do/feature?cId=3147750 | title = Retronauts Vol. 1: Lemmings | date = 2006-02-04 | accessdate = 2007-09-25 | publisher = 1UP | first = Jeremy | last = Parish }}</ref> ''Lemmings''{{'}} introduction of RTS elements has been noted by author [[Terry Pratchett]]; in his novel ''[[Interesting Times]]'', an [[Terracotta Army|army]] of [[golem]]s is controlled in a fashion reminiscent of the ''Lemmings'' user interface. When readers asked if this was deliberate, Pratchett responded, "What? ''Lemmings''? Merely because the red army can fight, dig, march and climb and is controlled by little icons? can{{'}}t imagine how anyone thought that...Not only did I wipe ''Lemmings'' from my hard disc, I overwrote it so's I couldn{{'}}t get it back."<ref name="Pratchett">{{cite web | url = http://www.lspace.org/books/apf/interesting-times.html | title = Annotated Pratchett File v 9.0 - Interesting Times | date = 2005-07-01 | accessdate = 2007-10-10 | publisher = LSpace | first = Leo | last = Breebaart}}</ref>
+
+==Sequels==
+''Lemmings'' has inspired a number of sequels, some which have modified the core gameplay but still involve the use of lemming skills to rescue lemmings. ''[[Xmas Lemmings]]'' and ''[[Oh No! More Lemmings]]'' contain the same gameplay as ''Lemmings'' but provide a different set of levels to the player. ''[[Lemmings 2: The Tribes]]'' introduces several new types of skills that can be assigned to the lemmings in addition to new levels. Similarly ''[[All New World of Lemmings]]'' (''The Lemmings Chronicles'' in North America) alters some of the core mechanics of gameplay by reducing the number of key skills and adding other mechanics more typical of a two-dimensional [[platform game|platformer]]. ''[[3D Lemmings]]'' brought the game into the third dimension with skills to take advantage of the additional dimension. ''[[Lemmings Revolution]]'' returned to the original's 2D gameplay and core skillset and mechanics, but featured pseudo-3D graphics, and some of the platformer mechanics originally introduced by ''The Lemmings Chronicles''.
+
+==Spinoffs==
+Two spinoffs were made with drastically different general gameplay. ''[[Lemmings Paintball]]'' is an [[isometric projection|isometric]] [[action video game|action game]] where the player takes part in a lemmings [[paintball]] match. ''[[The Adventures of Lomax]]'' is a side-scrolling [[platform game|platformer]] where the player controls one lemming named Lomax to save other lemmings in a similar manner to how [[Sonic the Hedgehog (character)|Sonic the Hedgehog]] rescues his friends who were captured by [[Doctor Eggman|Dr. Robotnik]].
+
+Other simliar games have since been released such as [[Kamicrazy]] on the iPhone platform, it should be noted this is not an official version of Lemmings, and is instead a game based on a simliar game play concept. It has received a lot of association with Kamicrazy in reviews, based on its graphical style and core concept.
+
+==Songs==
+At the time of ''Lemmings'' creation, there was a growing awareness of music copyright. Therefore, most of the level themes are arrangements of [[Classical music|classical]] and [[Traditional music|traditional]] (i.e. [[public domain]]) tunes to avoid copyright problems.<ref name="history"/> Songs in the game included:
+*"[[In the Hall of the Mountain King]]" from ''[[Peer Gynt]]'' by [[Edvard Grieg]]
+*"[[Orpheus in the Underworld#Act II.2C Scene 2|The Galop from Orpheus in the Underworld]]" (the music often used for the [[can-can]])
+*"Rondo alla Turca" (from [[Mozart]]'s [[Piano Sonata No. 11 (Mozart)|Piano Sonata No. 11]])
+*"Dance of the Reed Flutes" from [[Tchaikovsky]]'s [[Nutcracker Suite]]
+*"[[Danse des petits cygnes|Dance of the Little Swans]]" from [[Tchaikovsky]]'s [[Swan Lake]]
+*"Twang" - A song that uses melodies from traditional song "[[Ten Green Bottles]]", [[Chopin]]'s funeral march and [[Wagner]]'s "[[Bridal Chorus|Here Comes the Bride]]".
+*"[[London Bridge is Falling Down]]"
+*The English folk tune "[[O Little Town of Bethlehem#History|Forest Green]]" which has been adapted into the hymn "[[All Beautiful the March of Days]]" and the carol "[[O Little Town of Bethlehem]]", mixed with the melody from the movie ''[[The Good, the Bad and the Ugly]]''
+*"[[She'll Be Coming 'Round the Mountain]]"
+*"[[(How Much Is) That Doggie in the Window?]]"
+*Exclusive to the [[Sega Master System]] and [[Game Gear]] versions are adaptations of:
+**"[[Scotland the Brave]]" (first encountered in Fun 15)
+**"[[My Old Man (Said Follow the Van)]]" (ditto, Fun 17)
+A total of 21 songs featured in the game, including one for each of the four "custom" levels based on other Psygnosis games, though these were removed in other ports.
+
+==See also==
+* ''[[Pingus (video game)|Pingus]]''
+* ''[[CLONES]]''
+* ''[[Kamicrazy]]''
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{moby game|id=/lemmings|name=''Lemmings''}}
+* [http://tle.vaarties.nl/ The Lemmings Encyclopedia] &mdash; Information and screenshot solutions for many ''Lemmings'' games
+* [http://www.lemmingsuniverse.net/ Lemmings Universe] &mdash; ''Lemmings'' information, pictures, news, and walkthroughs
+* [http://everylemming.blogspot.com/ Lemmings Ports] &mdash; Informational blog on most ''Lemmings'' game ports
+
+{{Lemmings series}}
+
+[[Category:1991 video games]]
+[[Category:3DO games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari Lynx games]]
+[[Category:Atari ST games]]
+[[Category:CD32 games]]
+[[Category:CD-i games]]
+[[Category:Cancelled arcade games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Game Boy games]]
+[[Category:Game Boy Color games]]
+[[Category:Game Gear games]]
+[[Category:Lemmings games]]
+[[Category:Mac OS games]]
+[[Category:Mobile phone games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:OS/2 games]]
+[[Category:PlayStation 2 games]]
+[[Category:PlayStation Network games]]
+[[Category:PlayStation games]]
+[[Category:PlayStation Portable games]]
+[[Category:SAM Coupé games]]
+[[Category:Satellaview games]]
+[[Category:Sega Master System games]]
+[[Category:Sega Mega Drive games]]
+[[Category:Sharp X68000 games]]
+[[Category:Sunsoft games]]
+[[Category:Super NES games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with expansion packs]]
+[[Category:Windows games]]
+[[Category:ZX Spectrum games]]
+
+[[ca:Lemmings]]
+[[da:Lemmings]]
+[[de:Lemmings]]
+[[es:Lemmings]]
+[[fr:Lemmings (jeu vidéo)]]
+[[ko:레밍즈]]
+[[it:Lemmings]]
+[[he:נמלולים (סדרת משחקים)]]
+[[nl:Lemmings (computerspel)]]
+[[ja:レミングス]]
+[[pl:Lemmings]]
+[[pt:Lemmings]]
+[[ru:Lemmings]]
+[[fi:Lemmings]]
+[[sv:Lemmings]]
+[[zh:Lemmings (游戏系列)]]

@@ -1,0 +1,17 @@
+{{Spoken article
+|title=Calypso (moon)
+|time=1:42
+|user_name=Mangst
+|date=2010-01-15
+|oldid=303706418
+|accent=American English
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Calypso_%28moon%29.ogg}}
+* 2010-01-15 21:11 [[:en:User:Mangst|Mangst]] 0×0× (1011301 bytes) ''<nowiki>{{Spoken article |title=Calypso (moon) |time=1:42 |user_name=Mangst |date=2010-01-15 |oldid=303706418 |accent=American English }} == Licensing: == {{GFDL-with-disc</nowiki>''
+
+[[Category:Calypso (moon)]]

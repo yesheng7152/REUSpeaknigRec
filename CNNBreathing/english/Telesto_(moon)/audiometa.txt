@@ -1,0 +1,19 @@
+
+{{BotMoveToCommons|en.wikipedia|year=2012|month=February|day=9}}
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|FSII|CommonsHelperLabs}}
+|Date={{original upload date|2010-01-15}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Telesto_%28moon%29.ogg}}
+* 2010-01-15 21:06 [[:en:User:Mangst|Mangst]] 0×0× (710890 bytes) ''<nowiki>{{Spoken article entry |title=Telesto (moon) |time=1:11 |user_name=Mangst |date=2010-01-15 |link_to_recorded_version=http://en.wikipedia.org/w/index.php?title=Telesto_%28moon%29&oldid=303709199 |accent=American English }} == Licensing: == {{GFDL-with-disc</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Spoken article
+|title=Lemmings (video game)
+|time=22:52
+|user_name=PodPedia
+|date=2009-05-31
+|accent=British English (Received Pronunciation)
+|sex=m
+|wiki_lang=en
+|oldid=292898075
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|EN-Lemmings%28VideoGame%29.ogg}}
+* 2009-05-31 22:31 [[:en:User:PodPedia|PodPedia]] 0×0× (13220323 bytes) ''<nowiki>{{Spoken article |title= Lemmings (video game) |time= 22:52 |user_name= PodPedia |date= 2009-05-31 |oldid=292898075 |accent= British English (Received Pron</nowiki>''
+
+[[Category:Lemmings (video game)]]
+[[Category:Spoken Wikipedia - English]]
+[[Category:Spoken Wikipedia articles about video games]]

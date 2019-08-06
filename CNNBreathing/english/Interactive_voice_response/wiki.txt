@@ -1,0 +1,173 @@
+{{Redirect|IVR}}
+
+'''Interactive voice response''' ('''IVR''') is a technology that allows a computer to interact with humans through the use of voice and [[dual-tone multi-frequency signaling|DTMF]] keypad inputs.
+
+In telecommunications, IVR allows customers to interact with a company’s database via a telephone keypad or by speech recognition, after which they can service their own inquiries by following the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.  IVR applications can be used to control almost any function where the interface can be broken down into a series of simple interactions. IVR systems deployed in the network are sized to handle large call volumes.
+
+IVR technology is also being introduced into automobile systems for hands-free operation. Current deployment in automobiles revolves around satellite navigation, audio and mobile phone systems.
+
+It has become common in industries that have recently entered the telecommunications industry to refer to an [[automated attendant]] as an IVR.  The terms, however, are distinct and mean different things to traditional telecommunications professionals, whereas emerging telephony and VoIP professionals often use the term ''IVR'' as a catch-all to signify any kind of telephony menu, even a basic automated attendant.{{citation needed|date=December 2010}}  The term '''voice response unit''' ('''VRU'''), is sometimes used as well.<ref>http://books.google.com/books?id=Nmbexusn9q4C&pg=PA203&dq=vru+ivr&cd=9#v=onepage&q=vru%20ivr&f=false</ref>{{Clarify|date=June 2011|reason=This is not a proper reference citation. Use [[Template:Cite web]] or similar to provide source details.}}
+
+== History ==
+Research in speech technology predated the advent of digital computers. It began with a speech synthesis project at Bell Labs in 1936 that resulted in a device called "[[the Voder]]" which was demonstrated at the 1939 World's Fair. A link between speech and mathematics resulted in a breakthrough, in the early 1970s. [[Leonard E. Baum]], and [[Lloyd R. Welch]], invented an approach to recognition based on a statistical concept called the [[Hidden Markov Model]]. The [[Baum–Welch algorithm]] is used to find the unknown parameters of a hidden Markov model.
+
+In 1961, [[Bell System]] developed a new tone dialing methodology. Bell unveiled the first telephone that could dial area codes using DTMF technology at the Seattle World Fair in 1962. DTMF telephones enabled the use of in-band signaling, i.e., they transmit audible tones in the same 300&nbsp;Hz to 3.4 kHz range occupied by the human voice. The blueprint for IVR was born.
+
+Despite the increase in deployment of IVR technology in the 1970s to automate tasks in call centers, the technology was still complex and expensive. Early speech recognition systems were DSP technology based, and were limited to small vocabularies. However, by the 1980s a number of new competitors entered the market{{Who|date=December 2010}} and uptake of IVR technology started to increase. As speech recognition software developed the technology changed from [[Digital signal processor|DSP]] to a [[Client-server|client/server]] architecture.
+
+As call centers began to migrate to multimedia in the late 1990s, companies started to invest in [[Computer Telephony Integration]] (CTI) with IVR systems. IVR became vital for call centers deploying universal queuing and routing solutions and acted as an agent which collected customer data to enable intelligent routing decisions.
+
+In the subsequent decade, speech recognition started to become more common and cheaper to deploy. This was due to increased [[Central processing unit|CPU]] power and the migration of speech applications from proprietary code to the [[VoiceXML|VXML]] standard.
+
+== Typical uses ==
+IVR systems are typically used to service high call volumes, reduce cost and improve the customer experience. Examples of typical IVR applications are [[telephone banking]], [[televoting]], and [[credit card]] services. Companies also use IVR services to extend their business hours to [[24/7]] operation.
+
+The use of IVR and voice automation enables a company to improve its customer service and lower its costs, due to the fact that callers' queries can be resolved without the need for queueing and incurring the cost of a live agent who, in turn, can be directed to deal with more demanding areas of the service. If the caller does not find the information they need, or requires further assistance, the call can then be transferred to an agent. This makes for a more efficient system in which agents have more time to deal with complex interactions: for example, customer retention, up selling, cross selling and issue resolution. This way, the customer is more likely to be satisfied with a personalized service and the interaction is likely to be more fulfilling and rewarding for the agent, as opposed to dealing with basic inquiries that require yes/no responses, such as obtaining customer details.
+
+Call centers use IVR systems to identify and segment callers. The ability to identify customers allows services to be tailored according to the customer profile. The caller can be given the option to wait in the queue, choose an automated service, or request a callback (at a suitable time and telephone number). The system may obtain [[caller line identification]] (CLI) data from the network to help identify or authenticate the caller. This is currently available for about 80% of inbound calls.{{Citation needed|date=November 2010}} Additional caller authentication data could include account number, personal information, password and biometrics (such as voice print). 
+
+When an IVR system answers multiple phone numbers the use of [[DNIS]] ensures that the correct application and language is executed.  A single large IVR system can handle calls for thousands of applications, each with its own phone numbers and script.
+
+IVR also enables customer prioritization. In a system wherein individual customers may have a different status the service will automatically prioritize the individual's call and move customers to the front of a specific queue.  Prioritization could also be based on the [[DNIS]] and call reason.
+
+Smaller companies and start-ups can also use an IVR system to make their business appear larger than it is. For example, a  caller never needs to know that their Sales and Support calls are routed to the same person. 
+
+In addition to interacting with customer information systems and databases, IVRs will also log call detail information into its own database for auditing, performance report, and future IVR system enhancements.
+
+[[Computer_telephony_integration|CTI]] allows a contact center or organization to gather information about the caller as a means of directing their inquiry to the appropriate agent. CTI can transfer relevant information about the individual customer and the IVR dialog from the IVR to the agent desktop using a [[Screen pop|screen-pop]], making for a more effective and efficient service.
+
+IVR may be used by survey organizations for asking more sensitive questions where the investigators are concerned that a respondent might feel less comfortable providing these answers to a human interlocutor (such as questions about drug use or sexual behavior).  In some cases an IVR system can be used in the same survey in conjunction with a human interviewer.  For example, during the survey the interviewer might inform the respondent that for the next series of questions they will be sent to an IVR system to continue or complete the interview.
+
+=== Voice-Activated Dialling ===
+Voice-Activated Dialling (VAD) IVR systems are used to automate routine enquiries to switchboard or [[PABX]] (Private Automatic Branch eXchange) operators, and are used in many hospitals and large businesses to reduce the caller waiting time. An additional function is the ability to allow external callers to page staff and transfer the inbound call to the paged person.
+
+=== Entertainment and information ===
+Some of the largest installed IVR platforms are used for televoting on television game shows, such as ''[[Pop Idol]]'' and ''[[Big Brother (TV series)|Big Brother]]'', which can generate enormous call spikes.  Often, the network provider will have to deploy ''[[call gapping]]'' in the [[PSTN]] to prevent network overload.
+
+=== Anonymous access ===
+IVR systems allow callers to obtain data relatively anonymously.  Hospitals and clinics have used IVR systems to allow callers to receive anonymous access to test results.  This is information that could easily be handled by a person but the IVR system is used to preserve privacy and avoid potential embarrassment of sensitive information or test results.  Users are given a passcode to access their results.
+
+=== Clinical trials ===
+IVR systems are used by pharmaceutical companies and [[contract research organization]]s to conduct [[clinical trial]]s and manage the large volumes of data generated.  The caller will respond to questions in their preferred language and their responses will be logged into a database and possibly recorded at the same time to confirm authenticity.  Applications include patient randomization and drug supply management. They are also used in recording patient diaries and questionnaires.<ref name="Lam2009">{{cite journal |author=Lam MY, Lee H, Bright R, Korzenik JR, Sands BE  |title=Validation of interactive voice response system administration of the Short Inflammatory Bowel Disease Questionnaire |journal=Inflamm.Bowel.Dis |volume=15 |issue=4 |pages=599–607 |year=2009 |pmid=19023897}}</ref>
+
+=== Outbound calling ===
+IVR systems can be used for outbound calls, as IVR systems are more intelligent than many [[predictive dialer]] systems, and can use Call Progress Detection to recognize different line conditions as follows:
+* Answer (the IVR can tell the customer who is calling and ask them to wait for an agent)
+* Answered by voice mail or answering machine (in these circumstances the IVR system can leave a message)
+* Fax tone (the IVR can leave a TIFF image fax message)
+* Divert messages (the IVR will abandon the call)
+* No answer
+
+=== Other uses ===
+Other common IVR services include:
+
+* Mobile &mdash; Pay-As-You-Go account funding; registration; mobile purchases, such as ring tones and logos
+* Banking &mdash; balance, payments, transfers, transaction history
+* Retail & Entertainment &mdash; orders, bookings, credit & debit card payments
+* Utilities &mdash; meter readings
+* Travel &mdash; ticket booking, flight information, check-in
+* Weather forecasts, water, road and ice conditions
+
+== Technologies used ==
+[[DTMF]] decoding and [[speech recognition]] are used to interpret the caller's response to voice prompts. DTMF tones are entered via the [[telephone keypad]].
+
+Two main varieties of speech recognition are used in IVR: that based upon predefined [[grammar]]s (used in "directed" dialogues), and that based on statistically trained language models (used in "[[natural language]]" dialogues). Directed dialogues prompt the caller with specific questions or options. Natural language dialogues employ open questions (e.g. "How can I help you?"), are more conversational, and can interpret free-form responses.
+
+Other technologies include using [[Speech synthesis|Text-To-Speech]] (TTS) to speak complex and dynamic information, such as e-mails, news reports or weather information. TTS is computer generated synthesized speech that is no longer the robotic voice traditionally associated with computers. Real voices create the speech in fragments that are spliced together (concatenated) and smoothed before being played to the caller.
+
+An IVR can be deployed in several different ways:
+
+# Equipment installed on the customer premises
+# Equipment installed in the PSTN (Public Switched Telephone Network)
+# [[Application service provider]] (ASP) / Hosted IVR
+
+IVR can be used to provide a more sophisticated [[voice mail]] experience to the caller.  For example, the IVR could ask if the caller wishes to hear, edit, forward or remove a message.
+
+An [[automatic call distributor]] (ACD) is often the first point of contact when calling many larger businesses.  An ACD uses digital storage devices to play greetings or announcements, but typically routes a caller without prompting for input. An IVR can play announcements and request an input from the caller. This information can be used to profile the caller and route the call to an agent with a particular skill set. (A skill set is a function applied to a group of call-center agents with a particular skill.)
+
+Interactive voice response can be used to front-end a [[call center]] operation by identifying the needs of the caller.  Information can be obtained from the caller such as an account number.  Answers to simple questions such as account balances or pre-recorded information can be provided without operator intervention.  Account numbers from the IVR are often compared to [[caller ID]] data for security reasons and additional IVR responses are required if the caller ID does not match the account record.
+
+IVR call flows are created in a variety of ways.  A traditional IVR depended upon proprietary programming or scripting languages, whereas modern IVR applications are generated in a similar way to [[World Wide Web|Web]] pages, using standards such as [[VoiceXML]],<ref name="VXML">{{cite web | url = http://www.w3.org/TR/voicexml20 | title = Voice Extensible Markup Language (VoiceXML) Version 2.0 | publisher = W3C}}</ref> [[CCXML]],<ref name="CCXML">{{cite web | url = http://www.w3.org/TR/ccxml | title = Voice Browser Call Control: CCXML Version 1.0 | publisher = W3C }}</ref>  [[SRGS]]<ref name="SRGS">{{cite web | url = http://www.w3.org/TR/speech-grammar | title = Speech Recognition Grammar Specification Version 1.0 | publisher = W3C}}</ref> and [[SSML]].<ref name="SSML">{{cite web | url = http://www.w3.org/TR/speech-synthesis | title = Speech Synthesis Markup Language (SSML) Version 1.0 | publisher = W3C}}</ref> The ability to use XML-driven applications allows a [[Web server]] to act as the [[application server]], freeing the IVR developer to focus on the call flow.  It was widely believed{{Who|date=December 2010}} that developers would no longer require specialized programming skills; however, this has been proven{{Citation needed|date=December 2010}} to be misguided as IVR applications need to understand the human reaction to the application dialog.
+
+Higher level IVR development tools are available to further simplify the application development process. A call flow diagram can be drawn with a GUI tool and the presentation layer (typically VoiceXML) can be automatically generated. In addition, these tools normally provide extension mechanisms for software integration, such as an HTTP interface to a Web site and a [[Java (programming language)|Java]] interface for connecting to a database.
+
+In [[telecommunications]], an '''audio response unit''' (ARU) is a device that provides synthesized voice responses to DTMF keypresses by processing calls based on (a) the call-originator input, (b) information received from a database, and (c) information in the incoming call, such as the time of day.
+
+ARUs increase the number of information calls handled and to provide consistent quality in information retrieval.
+
+== Outsourcing vs. Contact Center automation ==
+Contact centers can be expensive to run, and are often seen {{Citation needed|date=March 2009}} as cost centers; however, the ability to up-sell services and products to customers can offset operational expenditure, and effectively reduce the average cost per call handled.
+
+Methods of reducing contact center running costs include [[outsourcing]] and automation.  Outsourcing to other countries can reduce operational expenditure by as much as 30%{{Citation needed|date=November 2010}}, however, differences in culture and language can prove problematic for customers, whose dissatisfaction can lead to customer complaints and loss of business. Also, it is more difficult to up-sell to customers from foreign contact centers.
+
+Automation in a contact center can also reduce operational expenditure by around 30%{{Citation needed|date=November 2010}} though the introduction of technologies such as customer profiling, CTI, and IVR using speech recognition. The use of automation in the contact center promotes efficiency, allowing contact centers to be located in the country from which the call is originated. Customer satisfaction can be monitored by the use of customer survey applications. The information from survey applications can be used to improve customer service.
+
+== IP ==
+The increased usage of [[Internet Protocol|IP]] in telecommunications has affected how IVR is used.
+
+=== Video ===
+The introduction of [[Session initiation protocol|Session Initiation Protocol]] (SIP) means that point-to-point communications are no longer restricted to voice calls but can now be extended to multimedia technologies such as [[video]]. IVR manufacturers have extended their systems into IVVR (Interactive Voice and Video Response), especially for the mobile phone networks. The use of video gives IVR systems the ability to implement [[multimodal interaction]] with the caller.
+
+The introduction of [[full-duplex]] video IVR in future will allow systems the ability to read emotions and facial expressions. It may also be used to identify the caller, using technology such as [[Iris scan]] or other [[biometric]] means. Recordings of the caller may be stored to monitor certain transactions, and can be used to reduce identity fraud.
+
+=== Unified Communications in the SIP Contact Center ===
+With the introduction of SIP contact centers, traditional barriers to automation are breaking down. Call control in a SIP contact center can be implemented by [[CCXML]] scripting, which is an adjunct to the [[VXML]] language used to generate modern IVR dialogues. As calls are queued in the SIP contact center, the IVR system can provide treatment or automation, wait for a fixed period, or play music. Inbound calls to a SIP contact center must be queued or terminated against a SIP end point; SIP IVR systems can be used to replace agents directly by the use of applications deployed using BBUA (Back to Back User Agents).
+
+=== Interactive Messaging Response (IMR) ===
+As communications have migrated to multimedia so has automation. The introduction of [[Instant Messaging]] (IM) in contact centers is starting to take off. Agents can handle up to 6 different IM conversations at the same time and so agent productivity is increasing.{{citation needed|date=December 2010}} IVR technology is being used to automate IM conversations using existing [[Natural Language Processing]] software. This is different from email handling as email automated response is typically based on key word spotting.{{citation needed|date=December 2010}} IM conversations are different to email as IM is conversational. The use of text messaging abbreviations and smilies requires different grammars to those currently used for speech recognition. IM is also starting to replace text messaging on multimedia mobile handsets and is expected to become more widely used.{{citation needed|date=December 2010}}
+
+=== Hosted vs. on-premise IVR ===
+With the introduction of [[Web services]] into the contact center, host integration has been simplified, allowing IVR applications to be hosted remotely from the contact center. This has meant hosted IVR applications using speech are now available to smaller contact centers across the globe and has led to an expansion of ASP (Application Service Providers).
+
+IVR applications can also be hosted in the public network, without contact center integration. Services include public announcement messages and message services for small business. It is also possible to deploy two-prong IVR services where the initial IVR application is used to route the call to the appropriate contact center. This can be used to balance loading across multiple contact centers or provide business continuity in the event of a system outage.
+
+=== Criticism ===
+IVR is sometimes criticized as being unhelpful and difficult to use due to poor design and lack of appreciation of the caller's needs.<ref name="IVR">{{cite web | url = http://www.ccma.org.uk/ArticleDisplay.aspx?ID=61 | title = The Seven Deadly Sins of IVR  | publisher = Call Centre Management Association | accessdate = 2007-12-12}}</ref>  Some callers object to providing voice response to an automated system and prefer speaking with a human respondent.
+
+Companies have also been criticized for using IVR to reduce operational costs but not offering similar services using agents. Such methods tend to frustrate customers who feel that their right to speak to an agent is being restricted. Examples of services criticized in this way include debt recovery and giveaways (concert tickets, satellite/cable receivers, etc.).{{Citation needed|date=December 2010}}
+<p>
+Companies using IVR exclusively, without offering a live agent as an alternative may be violating certain civil rights for callers with speech or hearing impairments.
+
+== See also ==
+*[[Automatic call distributor]]
+*[[Dual-tone multi-frequency]] (DTMF)
+*[[Voiceportal]]
+*[[Automated attendant]]
+*[[Call Whisper]]
+*[[Speech synthesis]]
+*[[Automatic number identification]]
+*[[DNIS]]
+*[[Speech recognition]]
+*[[Natural language]]
+*[[Dialog system]]
+*[[Electronic Patient Reported Outcomes (ePRO)]]
+*[[The Voder]]
+*[[Vocoder]]
+
+==References==
+{{Reflist}}
+
+==External links==
+<!-- ATTENTION! Please do not add links without discussion and consensus on the talk page. Undiscussed links will be removed. As an alternative, add a Web site link to DMOZ, through which it will then be linked from this article via the template below. -->
+{{Spoken Wikipedia|Interactive_voice_response.ogg|2010-09-27}}
+
+*{{dmoz|Computers/Speech_Technology/Telephony/|Speech Technology / Telephony}}
+
+{{DEFAULTSORT:Interactive Voice Response}}
+[[Category:Telephone services]]
+[[Category:User interface techniques]]
+
+[[de:Sprachdialogsystem]]
+[[es:Interactive Voice Response]]
+[[fr:Serveur vocal interactif]]
+[[it:Interactive Voice Response]]
+[[he:מענה קולי]]
+[[ka:IVR]]
+[[nl:Interactive voice response]]
+[[ja:自動音声応答装置]]
+[[pl:Interactive Voice Response]]
+[[pt:URA]]
+[[ru:IVR]]
+[[sr:Говорни аутомат]]
+[[uk:Інтерактивна голосова відповідь]]
+[[zh:互動式語音應答]]

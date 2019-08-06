@@ -1,0 +1,21 @@
+{{BotMoveToCommons|en.wikipedia|year=2009|month=April|day=18}}
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|Sfan00_IMG|CommonsHelper}}
+|Date={{original upload date|2009-01-22}}
+|Author={{user at project|Tonyle|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Tonyle|migration=relicense}}
+{{Spoken article entry|wiki_lang=en}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Durian.ogg}}
+* 2009-01-22 07:18 [[:en:User:Tonyle|Tonyle]] 0×0× (29603754 bytes) ''<nowiki>Fixed misread quantity</nowiki>''
+* 2009-01-22 06:21 [[:en:User:Tonyle|Tonyle]] 0×0× (29109452 bytes) ''<nowiki>Fixed missing word in introduction, plus deleted extra takes left in by mistake</nowiki>''
+* 2009-01-22 05:13 [[:en:User:Tonyle|Tonyle]] 0×0× (29319588 bytes) ''<nowiki>{{Spoken article entry |title=Durian |time=38:19 |user_name=Tonyle |date=2009-01-22 |link_to_recorded_version=http://en.wikipedia.org/w/index.php?oldid=265633225 |accent=U.S. Michigan and California English }} {{GFDL-with-disclaimers}</nowiki>''
+
+[[Category:Durian]]

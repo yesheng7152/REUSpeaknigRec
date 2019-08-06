@@ -1,0 +1,134 @@
+<root><template><title>Use mdy dates</title><part><name>date</name><equals>=</equals><value>March 2013</value></part></template>
+This article concerns systems of '''transportation in Laos'''. [[Laos]] is a country in Asia, which possesses a number of modern transportation systems, including several highways and a number of airports. As a landlocked country, Laos possesses no ports or harbours on the sea, and the difficulty of navigation on the [[Mekong]] means that this is also not a significant transport route.
+
+<h level="2" i="1">== Geography and transport limits ==</h>
+<template lineStart="1"><title>See</title><part><name index="1"/><value>Geography of Laos</value></part></template>
+
+[[Image:Laos Topography.png|thumb|350px|A topographic map of Laos.]]
+Because of its mountainous topography and lack of development, Laos has few reliable transportation routes. This inaccessibility has historically limited the ability of any government to maintain a presence in areas distant from the national or provincial capitals and has limited interchange and communication among villages and ethnic groups. 
+
+The [[Mekong]] and [[Nam Ou]] are the only natural channels suitable for large-draft boat transportation, and from December through May low water limits the size of the draft that may be used over many routes. Laotians in lowland villages located on the banks of smaller rivers have traditionally traveled in pirogues for fishing, trading, and visiting up and down the river for limited distances. 
+
+Otherwise, travel is by ox-cart over level terrain or by foot. The steep mountains and lack of roads have caused upland ethnic groups to rely entirely on pack baskets and horse packing for transportation.
+
+The road system is not extensive. A rudimentary network begun under French colonial rule and continued from the 1950s has provided an important means of increased intervillage communication, movement of market goods, and a focus for new settlements. In mid-1994, travel in most areas was difficult and expensive, and most Laotians traveled only limited distances, if at all. As a result of ongoing improvements in the road system started during the early 1990s, it is expected that in the future villagers will more easily be able to seek medical care, send children to schools at district centers, and work outside the village.
+
+<h level="2" i="2">== Railways ==</h>
+<template lineStart="1"><title>Infobox rail network
+</title><part><name>name            </name><equals>=</equals><value> Rail transport in Laos
+</value></part><part><name>color           </name><equals>=</equals><value> 
+</value></part><part><name>logo            </name><equals>=</equals><value>  
+</value></part><part><name>image           </name><equals>=</equals><value> Thanaleng Train Station Vientiane.jpg
+</value></part><part><name>caption         </name><equals>=</equals><value> [[Thanaleng Railway Station|Thanaleng Station]] near Vientiane, Laos's only railway station
+</value></part><part><name>nationalrailway </name><equals>=</equals><value> [[State Railway of Thailand]]
+</value></part><part><name>infrastructure  </name><equals>=</equals><value> 
+</value></part><part><name>majoroperators  </name><equals>=</equals><value> 
+</value></part><part><name>ridership       </name><equals>=</equals><value> ?
+</value></part><part><name>passkm          </name><equals>=</equals><value> 
+</value></part><part><name>freight         </name><equals>=</equals><value>  
+</value></part><part><name>length          </name><equals>=</equals><value> <template><title>convert</title><part><name index="1"/><value>3.5</value></part><part><name index="2"/><value>km</value></part><part><name index="3"/><value>mi</value></part></template>
+</value></part><part><name>doublelength    </name><equals>=</equals><value> 
+</value></part><part><name>ellength        </name><equals>=</equals><value> <template><title>convert</title><part><name index="1"/><value>0</value></part><part><name index="2"/><value>km</value></part><part><name index="3"/><value>mi</value></part><part><name>abbr</name><equals>=</equals><value>on</value></part></template>
+</value></part><part><name>freightlength   </name><equals>=</equals><value> 
+</value></part><part><name>hslength        </name><equals>=</equals><value> <template><title>convert</title><part><name index="1"/><value>0</value></part><part><name index="2"/><value>km</value></part><part><name index="3"/><value>mi</value></part><part><name>abbr</name><equals>=</equals><value>on</value></part></template>
+</value></part><part><name>ogauge          </name><equals>=</equals><value>
+</value></part><part><name>ogaugelength    </name><equals>=</equals><value> 
+</value></part><part><name>gauge           </name><equals>=</equals><value> <template><title>RailGauge</title><part><name index="1"/><value>1000mm</value></part></template>
+</value></part><part><name>hsgauge         </name><equals>=</equals><value> 
+</value></part><part><name>gauge1          </name><equals>=</equals><value> 
+</value></part><part><name>gauge1length    </name><equals>=</equals><value> 
+</value></part><part><name>gauge2          </name><equals>=</equals><value> 
+</value></part><part><name>gauge2length    </name><equals>=</equals><value> 
+</value></part><part><name>gauge3          </name><equals>=</equals><value> 
+</value></part><part><name>gauge3length    </name><equals>=</equals><value> 
+</value></part><part><name>gauge4          </name><equals>=</equals><value> 
+</value></part><part><name>gauge4length    </name><equals>=</equals><value> 
+</value></part><part><name>el              </name><equals>=</equals><value> 
+</value></part><part><name>el1             </name><equals>=</equals><value> 
+</value></part><part><name>el1length       </name><equals>=</equals><value> 
+</value></part><part><name>el2             </name><equals>=</equals><value> 
+</value></part><part><name>el2length       </name><equals>=</equals><value> 
+</value></part><part><name>el3             </name><equals>=</equals><value>  
+</value></part><part><name>el3length       </name><equals>=</equals><value>  
+</value></part><part><name>notunnels       </name><equals>=</equals><value> 0
+</value></part><part><name>tunnellength    </name><equals>=</equals><value> 
+</value></part><part><name>longesttunnel   </name><equals>=</equals><value> 
+</value></part><part><name>nobridges       </name><equals>=</equals><value> 
+</value></part><part><name>longestbridge   </name><equals>=</equals><value> 
+</value></part><part><name>nostations      </name><equals>=</equals><value> 1
+</value></part><part><name>highelevation   </name><equals>=</equals><value> on [[Thai–Lao Friendship Bridge]]
+</value></part><part><name>highelat        </name><equals>=</equals><value> 
+</value></part><part><name>lowelevation    </name><equals>=</equals><value> 
+</value></part><part><name>lowelat         </name><equals>=</equals><value> 
+</value></part><part><name>map             </name><equals>=</equals><value> 
+</value></part><part><name index="1"/><value/></part></template>
+Rail transport does not play a significant part in Laos's transport sector, since the country largely lacks the required infrastructure. A short [[portage railway]], the [[Don Det – Don Khon narrow gauge railway]], was built by the French while Laos was a part of [[French Indochina]]. The railway crossed over the islands of [[Don Det and Don Khon]], enabling vessels, freight and passengers to travel along the Mekong River. The railway was abandoned and fell into disrepair, although some of the infrastructure is still in place.<ext><name>ref</name><attr/><inner>[http://internationalsteam.co.uk/trains/laos01.htm The only railway (ever) in Laos] The International Steam Pages</inner><close>&lt;/ref&gt;</close></ext> 
+
+In the late 1920s, work began on the [[Thakhek – Tan Ap railway]], that would have run between [[Thakhek]], [[Khammouane Province]] and [[Tân Ấp Railway Station]], [[Quảng Bình Province]], Vietnam through the [[Mụ Giạ Pass]]. However, the scheme was eventually aborted in the 1930s.
+
+<h level="3" i="3">===Link to Thailand===</h>
+In January 2007 work began on a 3.5&amp;nbsp;km extension of the metre-gauge [[State Railway of Thailand]] network across the [[Thai–Lao Friendship Bridge]] to [[Thanaleng Railway Station]], a new passenger and freight terminal in Dongphosy village, 20&amp;nbsp;km east of [[Vientiane]].<ext><name>ref</name><attr> name=linklaunched</attr><inner>{{cite news | title=Laos link launched | url=http://www.railwaygazette.com/news/single-view/view/10/laos-link-launched.html | work=[[Railway Gazette International]] | date = 2007-03-01 }}</inner><close>&lt;/ref&gt;</close></ext> Test trains began running on July 4, 2008,<ext><name>ref</name><attr/><inner>{{cite news | title=Testing takes train into Laos | url=http://www.railwaygazette.com/news/single-view/view/10/testing-takes-train-into-laos.html | work =[[Railway Gazette International]] | date = 2008-07-07 }}</inner><close>&lt;/ref&gt;</close></ext> and Princess [[Maha Chakri Sirindhorn]] of [[Thailand]] formally inaugurated the line on March 5, 2009.<ext><name>ref</name><attr/><inner>{{cite news | title=Inaugural train begins Laos royal visit | url=http://www.railwaygazette.com/news/single-view/view/10/inaugural-train-begins-laos-royal-visit.html | work=[[Railway Gazette International]] | date = 2009-03-05}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;guardian-09&quot;</attr><inner>{{cite news|url=http://www.guardian.co.uk/travel/2009/feb/26/first-train-laos-thailand-rail|title=First train to Laos|author=Andrew Spooner|newspaper=The Guardian|date=2009-02-27|accessdate=2011-03-13}}</inner><close>&lt;/ref&gt;</close></ext> As of November 2010, Lao officials plan to convert the station into a rail cargo terminal for [[freight trains]], allowing cargo to be transported from Bangkok into Laos at a lower cost than would be possible with road transport.<ext><name>ref</name><attr> name=&quot;trweekly-nov10&quot;</attr><inner>{{cite news|url=http://www.ttrweekly.com/site/2010/11/laos-rethinks-rail-project/|title= Laos rethinks rail project|date=2010-11-09|accessdate=2011-03-13|work=TTR Weekly|author=Rapeepat Mantanarat}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="4">===Link to Vietnam===</h>
+In 2007, the Laotian Ministry of Transportation entered into discussion with Vietnam to discuss the possibility of opening a new railway line from [[Thakhek]] in Laos through the [[Mụ Giạ Pass]] to [[Tân Ấp Railway Station]] in Vietnam's [[Quảng Bình Province]], on the [[North–South Railway (Vietnam)|North–South Railway]]. The proposed line would continue to the coast at [[Vung Ang]], a port in [[Hà Tĩnh Province]], which would provide landlocked Laos with access to the [[South China Sea]]. According to plans established by ASEAN, the line may also be extended via Thakhek all the way to the Laotian capital [[Vientiane]]. Both Laos and Thailand have expressed interest in the project as a shorter export gateway to the Pacific Ocean.<ext><name>ref</name><attr> name=&quot;aseansec-skrl&quot;</attr><inner>{{cite web|url=http://www.aseansec.org/Fact%20Sheet/AEC/2007-AEC-010.pdf|title=Fact Sheet: The Singapore–Kunming Rail Link Project|publisher=ASEAN|date=2007-09-26|accessdate=2011-01-05}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;jdi-mar10&quot;</attr><inner>{{cite web|title=The Study on the Development Plan of Thakek-Vung Ang Gateway between Lao PDR and Vietnam|publisher=Engineering and Consulting Firms Association, Japan Development Institute (JDI)|date=March 2010|url=http://www.ecfa.or.jp/japanese/act-pf_jka/H22/vietnam_vung_ang_jdi.pdf|format=PDF}}</inner><close>&lt;/ref&gt;</close></ext>
+
+By 2012, the Thakhek project was not in the news anymore; but a project for another, somewhat more southern, line to Vietnam, now from [[Savannakhet]], was announced instead. An agreement for the construction of this 220-kilometre-long, $5 billion line, was signed on Nov 5, 2012 with the Malaysian company called Giant Consolidated Limited. The work is supposed to begin in 2013 and be completed in 4 years.<ext><name>ref</name><attr> name=bkp20121116</attr></ext><ext><name>ref</name><attr/><inner>[http://www.bangkokpost.com/breakingnews/321260/laos-to-build-railway-to-vietnam Laos to build railway to Vietnam\, 2012-11-14]</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="5">===Link to China===</h>
+Laos has a long history of negotiating with China regarding the possibility of a join railway project.<ext><name>ref</name><attr> name=wsj20121024</attr><inner>[http://online.wsj.com/article/SB10001424052970203897404578076193521305574.html Laos Says China to Finance Rail Link], ''The Wall Street Journal'', 2012-10-24</inner><close>&lt;/ref&gt;</close></ext>
+
+In October 2010, plans were announced for a 530&amp;nbsp;km [[standard gauge]]<ext><name>ref</name><attr> name=bkp20121116</attr><inner>[http://www.bangkokpost.com/breakingnews/321609/laos-china-railways-ready-to-roll Laos-China railways ready to roll], 2012-11-16</inner><close>&lt;/ref&gt;</close></ext> railway linking Vientiane to [[Xishuangbanna]], in [[Yunnan]] province in China.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.railwaysafrica.com/blog/2010/10/new-china-laos-link/|accessdate=2010-11-09|title=NEW CHINA-LAOS LINK | publisher = Railways Africa}}</inner><close>&lt;/ref&gt;</close></ext> Construction was expected to begin in 2011, for completion in 2014.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.railwaysafrica.com/blog/2010/12/laos-link-with-china/|accessdate=2010-12-12|title=LAOS LINK WITH CHINA |publisher =  Railways Africa|date=2010-12-12}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|url=http://www.railwaygazette.com/nc/news/single-view/view/chinas-horizons-extend-southwards.html|accessdate=2011-01-06|title=Railway Gazette: China's horizons extend southwards|date=2011-01-06}}</inner><close>&lt;/ref&gt;</close></ext> There were plans to extend this railway south from Vientiane to [[Bangkok]].<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.railwaygazette.com/nc/news/single-view/view/cross-border-construction-soon.html|accessdate=2011-02-27|title=Railway Gazette: Cross-border construction soon}}</inner><close>&lt;/ref&gt;</close></ext> However, in April 2011 it was reported that construction of the railway has been postponed indefinitely, while the Chinese minister of Transport and Railways has been arrested on corruption charges.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.rfa.org/english/news/laos/railway-04262011171130.html/|accessdate=2011-06-30|title=High Speed Railway Delay| publisher = Radio Free Asia}}</inner><close>&lt;/ref&gt;</close></ext>
+
+In October 2012, it was announced again that an agreement with China about the construction of a railway from Vientiane to the Chinese border is to be signed &quot;within days&quot;. The project cost is quoted at $7 bln, and the construction will be done by Chinese companies. The ground-breaking ceremony was planned for November 2012, and the completion of the project was expected by 2017.<ext><name>ref</name><attr> name=wsj20121024</attr></ext> In November 2012, the Laotian press was reporting that the money for the construction of the railway would be borrowed from the EXEM Bank of China; the construction would be started in 2013, and complete in 2018.<ext><name>ref</name><attr> name=bkp20121116</attr></ext> 
+
+The rail link will go through Yunnan province, linking together [[Kunming]], China with [[Vientiane]], Laos via [[Bangkok]], Thailand to [[Dawei]], [[Myanmar]].<ext><name>ref</name><attr/><inner>{{cite news|title=China-Laos railway to commence|url=http://investvine.com/china-southeast-asia-railway-to-commence/|accessdate=Jan 10, 2013|date=Jan 9, 2013|publisher=Investvine.com}}</inner><close>&lt;/ref&gt;</close></ext> On February 23, 2013, part of the new railway line started operations. It spans from Yuxi, south of Kunming, capital of China’s southern Yunnan province, to Mengzi on the route to the Vietnamese border, and is mainly intended for freight transport with a maximum speed of 120&amp;nbsp;km/h. The new line replaces the 100-year-old, 854 kilometer Kunming-Haiphone line, which had a speed of just 30&amp;nbsp;km/h.<ext><name>ref</name><attr> name=ref2013022404</attr><inner>
+    {{Cite news
+    | title = China-ASEAN rail network advances
+    | publisher = Investvine.com
+    | date = 2013-02-24
+    | url= http://investvine.com/china-asean-rail-network-advances/
+    | accessdate =2013-02-24}}
+</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="6">==Highways==</h>
+In Laos, there are 21,716&amp;nbsp;km of highway, of which 9,673.5&amp;nbsp;km are paved, leaving 12,042.5&amp;nbsp;km unpaved. Driving in Laos is [[right- and left-hand traffic|on the right]].
+
+Laos has constructed a new highway connecting [[Savannakhet]] to the Vietnamese border at [[Lao Bao]], with funding coming from the Japanese government [http://www.langara.bc.ca/pacrim/laos.html].  This has greatly facilitated travelling across Laos.  This highway can now be traversed in a few hours, while in 2002 the trip took over 9 hours along a very bumpy (and scenic) route.
+
+Laos is connected across the Mekong to Thailand by [[First Thai-Lao Friendship Bridge|First]] and [[Second Thai-Lao Friendship Bridge]]s. Vientiane is linked to Udon Thani using the First Friendship Bridge.  The [[Third Thai-Lao Friendship Bridge]] began construction in March 2009 linking Nakhon Phanom province in northeastern Thailand and Khammouan province in Laos. It was completed on November 11, 2011.
+
+Laos opened a highway connection to [[Kunming]] in April 2008.  The [[Fourth Thai-Lao Friendship Bridge]] is under construction and is hoped to be completed by December 2012 linking Kunming to [[Bokeo Province|Bokeo]], Laos and [[Chiang Rai]]. It will reduce the travel time to 5 hours. This is a cooperation between Thailand, China and Laos.
+
+<h level="2" i="7">==Water transport==</h>
+About 4,587&amp;nbsp;km of navigable water routes exist in Laos, primarily the [[Mekong]] and its tributaries. There is an additional 2,897&amp;nbsp;km, which is sectionally navigable by craft drawing less than 0.5 m.
+
+In terms of sea travel, Laos has a merchant marine consisting of 1 [[cargo ship]] of <template><title>GRT</title><part><name index="1"/><value>2,370</value></part><part><name>disp</name><equals>=</equals><value>long</value></part></template>.
+
+<h level="2" i="8">==Pipelines==</h>
+Laos has 136&amp;nbsp;km of pipeline for transport of petroleum products.
+
+<h level="2" i="9">==Airports==</h>
+[[File:VientianeAirportTerminal2.jpg|thumb|250px|The interior of [[Wattay Airport]] in Vientiane.]]
+Laos possesses 52 airports, of which 9 have paved [[runway]]s, and 43 do not.  Of the airports with paved runways, only [[Wattay International Airport]] has runway length over 2,438m which is necessary to accommodate jumbo jets. Of the remainder, four have runways 1,524 to 2,437 m length, and a further four of lengths between 914 and 1,523 m.  
+
+Of the airports without paved runways, 1 has runways of length above 1,524m, 17 have runway lengths between 914 and 1,523 m, leaving 25 with length below 914m.
+
+<h level="2" i="10">==See also==</h>
+*[[Laos]]
+*[[Lao Airlines]]
+*[[Vientiane#Transportation|Vientiane]]
+
+<h level="2" i="11">== External links ==</h>
+* [http://www.un.org/Depts/Cartographic/map/profile/laos.pdf UN Map of Laos]
+* [http://railwaynews.blogspot.com/search/label/Laos News site regarding rail in Laos]
+* [http://www.bueker.net/trainspotting/map.php?file=maps/vietnam--laos--cambodia/vietnam--laos--cambodia.gif Map of railways in Laos, Cambodia, and Vietnam] – does not show Thailand or China
+
+<h level="2" i="12">==References==</h>
+<ext><name>References</name><attr> </attr></ext>
+
+<template lineStart="1"><title>Laos topics</title></template>
+<template lineStart="1"><title>Asia topic</title><part><name index="1"/><value>Transport in</value></part></template>
+<template lineStart="1"><title>Asia topic</title><part><name index="1"/><value>Rail transport in</value></part></template>
+<template lineStart="1"><title>CIA World Factbook</title></template>
+
+[[Category:Transport in Laos| ]]</root>

@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Sokolnicheskaya Line" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Sokolnicheskaya_Line" /><prop key="DC.date.read" value="2015-01-03 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Sokolnicheskaya_Line" /><prop key="DC.source.wikiID" value="2184379" /><prop key="DC.source.revision" value="776892519" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Sokolnicheskaya Line&amp;oldid=640811585" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/5/53/En-Sokolnicheckaya_Line-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Sokolnicheckaya_Line-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2015-01-03 15:48:18" group="audio1" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:51:52.417+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Sokolnicheskaya_Line/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Sokolnicheskaya_Line)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T19:25:06.157+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Sokolnicheskaya_Line/aligned.swc, transcript=articles/Sokolnicheskaya_Line/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Sokolnicheskaya_Line/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Sokolnicheskaya LineFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Sokolnicheskaya LineFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Sokolnicheskaya"><n pronunciation="Sokolnicheskaya" start="2920" end="3690" /></t><t text="LineFrom"><n pronunciation="LineFrom" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="5040" end="5750" /></t><t text="," /><t text="the"><n pronunciation="the" start="5750" end="5860" /></t><t text="free"><n pronunciation="free" start="5860" end="6120" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="6120" end="7140" /></t><t text="at"><n pronunciation="at" start="7560" end="7950" /></t><t text="e"><n pronunciation="e" /></t><t text="n"><n pronunciation="n" /></t><t text="dot"><n pronunciation="dot" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="dot"><n pronunciation="dot" /></t><t text="org"><n pronunciation="org" /></t><t text="." /></s></extra>
+
+ <ignored><s><t>1<n pronunciation="one" /></t>  <t>Sokolnicheskaya<n pronunciation="Sokolnicheskaya" /></t> <t>Line<n pronunciation="Line" /></t></s>
+
+
+
+
+
+<s><t>Overview<n pronunciation="Overview" /></t></s>
+
+
+<s><t>Type<n pronunciation="Type" /></t>
+<t>Rapid<n pronunciation="Rapid" /></t> <t>transit<n pronunciation="transit" /></t></s>
+
+
+<s><t>System<n pronunciation="System" /></t>
+<t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t></s>
+
+
+<s><t>Locale<n pronunciation="Locale" /></t>
+<t>Moscow<n pronunciation="Moscow" /></t></s>
+
+
+<s><t>Termini<n pronunciation="Termini" /></t>
+<t>Troparyovo<n pronunciation="Troparyovo" /></t> <t>(</t><t>southwest<n pronunciation="southwest" /></t><t>)</t>
+<t>Bulvar<n pronunciation="Bulvar" /></t> <t>Rokossovskogo<n pronunciation="Rokossovskogo" /></t> <t>(</t><t>northeast<n pronunciation="northeast" /></t><t>)</t></s>
+
+
+<s><t>Stations<n pronunciation="Stations" /></t>
+<t>20<n pronunciation="20" /></t><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s>
+
+
+<s><t>Operation<n pronunciation="Operation" /></t></s>
+
+
+<s><t>Opened<n pronunciation="Opened" /></t>
+<t>15<n pronunciation="fifteen" /></t> <t>May<n pronunciation="May" /></t> <t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s>
+
+
+<s><t>Operator<n pronunciation="Operator" /></t><t>(</t><t>s<n pronunciation="s" /></t><t>)</t>
+<t>Moskovsky<n pronunciation="Moskovsky" /></t> <t>Metropoliten<n pronunciation="Metropoliten" /></t></s>
+
+
+<s><t>Character<n pronunciation="Character" /></t>
+<t>At-grade<n pronunciation="At" /><n pronunciation="grade" /></t><t>,</t> <t>underground<n pronunciation="underground" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>elevated<n pronunciation="elevated" /></t></s>
+
+
+<s><t>Rolling<n pronunciation="Rolling" /></t> <t>stock<n pronunciation="stock" /></t>
+<t>81-717.5M/714.5M<n pronunciation="eight" /><n pronunciation="one" /><n pronunciation="717" /><n pronunciation="." /><n pronunciation="five" /><n pronunciation="M" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="seven" /><n pronunciation="hundred" /><n pronunciation="fourteen" /><n pronunciation="." /><n pronunciation="five" /><n pronunciation="M" /></t><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s>
+
+
+<s><t>Technical<n pronunciation="Technical" /></t></s>
+
+
+<s><t>Line<n pronunciation="Line" /></t> <t>length<n pronunciation="length" /></t>
+<t>28.2<n pronunciation="twenty" /><n pronunciation="eight" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>kilometres<n pronunciation="kilometres" /></t> <t>(</t><t>17.5<n pronunciation="seventeen" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t><t>[</t><t>1<n pronunciation="1" /></t><t>]</t></s>
+
+
+<s><t>Track<n pronunciation="Track" /></t> <t>gauge<n pronunciation="gauge" /></t>
+<t>1,520<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="five" /><n pronunciation="hundred" /><n pronunciation="twenty" /></t> <t>mm<n pronunciation="m" /><n pronunciation="m" /></t> <t>(</t><t>4<n pronunciation="four" /></t> <t>ft<n pronunciation="f" /><n pronunciation="t" /></t> <t>11<n pronunciation="eleven" /></t> <t>27⁄32<n pronunciation="27⁄32" /></t> <t>in<n pronunciation="in" /></t><t>)</t></s>
+
+
+<s><t>Electrification<n pronunciation="Electrification" /></t>
+<t>Third<n pronunciation="Third" /></t> <t>rail<n pronunciation="rail" /></t></s>
+
+
+
+
+
+
+<s><t>Route<n pronunciation="Route" /></t> <t>map<n pronunciation="map" /></t></s>
+
+
+
+
+
+
+
+<s><t>Legend<n pronunciation="Legend" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Bulvar<n pronunciation="Bulvar" /></t> <t>Rokossovskogo<n pronunciation="Rokossovskogo" /></t>
+ <t>14<n pronunciation="14" /></t>  <t>(</t><t>OSI<n pronunciation="OSI" /></t><t>)</t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Cherkizovo<n pronunciation="Cherkizovo" /></t> <t>yard<n pronunciation="yard" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Cherkizovskaya<n pronunciation="Cherkizovskaya" /></t>
+ <t>14<n pronunciation="14" /></t>  <t>(</t><t>OSI<n pronunciation="OSI" /></t><t>)</t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Preobrazhenskaya<n pronunciation="Preobrazhenskaya" /></t> <t>Ploshchad<n pronunciation="Ploshchad" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Preobrazhensky<n pronunciation="Preobrazhensky" /></t> <t>Bridge<n pronunciation="Bridge" /></t>
+ <t>Yauza<n pronunciation="Yauza" /></t> <t>River<n pronunciation="River" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Sokolniki<n pronunciation="Sokolniki" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Krasnoselskaya<n pronunciation="Krasnoselskaya" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Severnoye<n pronunciation="Severnoye" /></t> <t>yard<n pronunciation="yard" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Komsomolskaya<n pronunciation="Komsomolskaya" /></t>
+  <t>5<n pronunciation="5" /></t></s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Krasnye<n pronunciation="Krasnye" /></t> <t>Vorota<n pronunciation="Vorota" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Chistye<n pronunciation="Chistye" /></t> <t>Prudy<n pronunciation="Prudy" /></t>
+ <t>6<n pronunciation="six" /></t>   <t>10<n pronunciation="ten" /></t></s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Lubyanka<n pronunciation="Lubyanka" /></t>
+ <t>7<n pronunciation="seven" /></t></s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Okhotny<n pronunciation="Okhotny" /></t> <t>Ryad<n pronunciation="Ryad" /></t>
+ <t>2<n pronunciation="two" /></t>  <t>(</t> <t>3<n pronunciation="three" /></t> <t>)</t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Biblioteka<n pronunciation="Biblioteka" /></t> <t>Imeni<n pronunciation="Imeni" /></t> <t>Lenina<n pronunciation="Lenina" /></t>
+ <t>3<n pronunciation="3" /></t>   <t>4<n pronunciation="four" /></t>   <t>9<n pronunciation="nine" /></t></s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Kropotkinskaya<n pronunciation="Kropotkinskaya" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t>
+ <t>5<n pronunciation="five" /></t></s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Frunzenskaya<n pronunciation="Frunzenskaya" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Sportivnaya<n pronunciation="Sportivnaya" /></t>
+ <t>14<n pronunciation="fourteen" /></t>  <t>(</t><t>OSI<n pronunciation="OSI" /></t><t>)</t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Luzhniki<n pronunciation="Luzhniki" /></t> <t>Metro<n pronunciation="Metro" /></t> <t>Bridge<n pronunciation="Bridge" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Vorobyovy<n pronunciation="Vorobyovy" /></t> <t>Gory<n pronunciation="Gory" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Moskva<n pronunciation="Moskva" /></t> <t>River<n pronunciation="River" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Universitet<n pronunciation="Universitet" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Prospekt<n pronunciation="Prospekt" /></t> <t>Vernadskogo<n pronunciation="Vernadskogo" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Yugo-Zapadnaya<n pronunciation="Yugo" /><n pronunciation="Zapadnaya" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Troparyovo<n pronunciation="Troparyovo" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Rumyantsevo<n pronunciation="Rumyantsevo" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Salaryevo<n pronunciation="Salaryevo" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Salaryevo<n pronunciation="Salaryevo" /></t> <t>yard<n pronunciation="yard" /></t></s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<s><t>This<n pronunciation="This" /></t> <t>diagram<n pronunciation="diagram" /></t><t>:</t></s>
+
+<p><s><t>view<n pronunciation="view" /></t>
+<t>talk<n pronunciation="talk" /></t>
+<t>edit<n pronunciation="edit" /></t></s></p>
+
+
+
+
+
+
+
+
+
+</ignored>
+
+<p><s><t>Sokolnicheskaya<n pronunciation="Sokolnicheskaya" /></t> <t>Line<n pronunciation="Line" /></t> <t>(</t><t>Russian<n pronunciation="Russian" /></t><t>:</t> <t>Соко́льническая<n pronunciation="Соко́льническая" /></t> <t>ли́ния<n pronunciation="ли́ния" /></t><t>,</t> <t>IPA<n pronunciation="IPA" /></t><t>:</t> <t>[</t><t>səˈkolʲnʲit͡ɕɪskɐjə<n pronunciation="səˈkolʲnʲit͡ɕɪskɐjə" /></t> <t>ˈlʲinʲɪjə<n pronunciation="ˈlʲinʲɪjə" /></t><t>]</t><t>)</t> <t>(</t><t>Line<n pronunciation="Line" /></t> <t>1<n pronunciation="1" /></t><t>)</t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>line<n pronunciation="line" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t><t>.</t></s> <s><t>It<n pronunciation="It" /></t> <t>opened<n pronunciation="opened" /></t> <t>in<n pronunciation="in" /></t> <t>1935<n pronunciation="1935" /></t> <t>and<n pronunciation="and" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>oldest<n pronunciation="oldest" /></t> <t>in<n pronunciation="in" /></t> <t>the<n pronunciation="the" /></t> <t>system<n pronunciation="system" /></t><t>.</t></s> <s><t>Currently<n pronunciation="Currently" /></t> <t>the<n pronunciation="the" /></t> <t>line<n pronunciation="line" start="22890" end="23210" /></t> <t>has<n pronunciation="has" start="23210" end="23400" /></t> <t>20<n pronunciation="twenty" start="23400" end="23700" /></t> <t>stations<n pronunciation="stations" start="23700" end="24370" /></t> <t>and<n pronunciation="and" start="24370" end="24560" /></t> <t>a<n pronunciation="a" start="24560" end="24620" /></t> <t>length<n pronunciation="length" start="24620" end="25050" /></t> <t>of<n pronunciation="of" start="25210" end="25410" /></t> <t>28.2<n pronunciation="twenty" start="25410" end="25800" /><n pronunciation="eight" start="25800" end="26190" /><n pronunciation="point" start="26190" end="26460" /><n pronunciation="two" /></t> <t>kilometres<n pronunciation="kilometres" start="26640" end="27410" /></t> <t>(</t><t>17.5<n pronunciation="seventeen" start="28990" end="29580" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>mi<n pronunciation="mi" /></t><t>)</t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>History<n pronunciation="History" /></t></s>
+
+<p><s><t>1.1<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="one" /></t> <t>Recent<n pronunciation="Recent" /></t> <t>developments<n pronunciation="developments" /></t> <t>and<n pronunciation="and" /></t> <t>future<n pronunciation="future" /></t> <t>plans<n pronunciation="plans" /></t>
+<t>1.2<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>Timeline<n pronunciation="Timeline" /></t>
+<t>1.3<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="three" /></t> <t>Name<n pronunciation="Name" /></t> <t>changes<n pronunciation="changes" /></t></s></p>
+
+
+<s><t>2<n pronunciation="two" /></t> <t>Transfers<n pronunciation="Transfers" /></t>
+<t>3<n pronunciation="three" /></t> <t>Rolling<n pronunciation="Rolling" /></t> <t>stock<n pronunciation="stock" /></t>
+<t>4<n pronunciation="four" /></t> <t>References<n pronunciation="References" /></t>
+<t>5<n pronunciation="five" /></t> <t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t></s></p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>History<n pronunciation="History" start="30580" end="31190"><ph start="30580" end="30670" type="h"></ph><ph start="30670" end="30720" type="I"></ph><ph start="30720" end="30950" type="s"></ph><ph start="30950" end="30980" type="t"></ph><ph start="30980" end="31080" type="r"></ph><ph start="31080" end="31150" type="i:"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>As<n pronunciation="As" start="33170" end="33360"><ph start="33190" end="33300" type="V"></ph></n></t> <t>the<n pronunciation="the" start="33360" end="33500"><ph start="33300" end="33420" type="D"></ph><ph start="33420" end="33450" type="V"></ph></n></t> <t>line<n pronunciation="line" start="33500" end="33940"><ph start="33450" end="33560" type="l"></ph><ph start="33560" end="33820" type="aI"></ph><ph start="33820" end="33900" type="n"></ph></n></t> <t>was<n pronunciation="was" start="33990" end="34210"><ph start="34020" end="34110" type="w"></ph><ph start="34110" end="34140" type="A:"></ph><ph start="34140" end="34220" type="z"></ph></n></t> <t>the<n pronunciation="the" start="34210" end="34320"><ph start="34220" end="34260" type="D"></ph><ph start="34260" end="34290" type="V"></ph></n></t> <t>first<n pronunciation="first" start="34320" end="34580"><ph start="34290" end="34420" type="f"></ph><ph start="34420" end="34530" type="3`"></ph><ph start="34530" end="34630" type="s"></ph></n></t> <t>formal<n pronunciation="formal"><ph start="34630" end="34750" type="f"></ph><ph start="34750" end="34860" type="O:"></ph><ph start="34860" end="34900" type="r"></ph><ph start="34900" end="34930" type="m"></ph><ph start="34930" end="34960" type="V"></ph><ph start="34960" end="34990" type="l"></ph></n></t> <t>one<n pronunciation="one" start="34920" end="35200"><ph start="34990" end="35080" type="w"></ph><ph start="35080" end="35150" type="V"></ph><ph start="35150" end="35200" type="n"></ph></n></t> <t>in<n pronunciation="in" start="35200" end="35290"><ph start="35200" end="35260" type="I"></ph><ph start="35260" end="35320" type="n"></ph></n></t> <t>the<n pronunciation="the" start="35320" end="35400"><ph start="35320" end="35360" type="D"></ph><ph start="35360" end="35400" type="V"></ph></n></t> <t>system<n pronunciation="system" start="35400" end="35940"><ph start="35400" end="35540" type="s"></ph><ph start="35540" end="35590" type="I"></ph><ph start="35590" end="35690" type="s"></ph><ph start="35690" end="35770" type="t"></ph><ph start="35770" end="35840" type="V"></ph><ph start="35840" end="35920" type="m"></ph></n></t><t>,</t> <t>its<n pronunciation="its" start="36010" end="36190"><ph start="36020" end="36080" type="I"></ph><ph start="36080" end="36110" type="t"></ph><ph start="36110" end="36195" type="s"></ph></n></t> <t>history<n pronunciation="history" start="36190" end="36660"><ph start="36195" end="36240" type="h"></ph><ph start="36240" end="36310" type="I"></ph><ph start="36310" end="36440" type="s"></ph><ph start="36440" end="36550" type="t"></ph><ph start="36550" end="36590" type="r"></ph><ph start="36590" end="36660" type="i:"></ph></n></t> <t>of<n pronunciation="of" start="36660" end="36810"><ph start="36660" end="36750" type="V"></ph><ph start="36750" end="36840" type="v"></ph></n></t> <t>development<n pronunciation="development" start="36810" end="37440"><ph start="36840" end="36870" type="d"></ph><ph start="36870" end="36900" type="I"></ph><ph start="36900" end="36960" type="v"></ph><ph start="36960" end="36990" type="E"></ph><ph start="36990" end="37020" type="l"></ph><ph start="37020" end="37150" type="V"></ph><ph start="37150" end="37240" type="p"></ph><ph start="37240" end="37270" type="m"></ph><ph start="37270" end="37310" type="V"></ph><ph start="37310" end="37360" type="n"></ph><ph start="37360" end="37425" type="t"></ph></n></t> <t>coincides<n pronunciation="coincides" start="37440" end="38160"><ph start="37425" end="37560" type="k"></ph><ph start="37560" end="37600" type="@U"></ph><ph start="37600" end="37660" type="V"></ph><ph start="37660" end="37720" type="n"></ph><ph start="37720" end="37880" type="s"></ph><ph start="37880" end="38070" type="aI"></ph><ph start="38070" end="38100" type="d"></ph><ph start="38100" end="38185" type="z"></ph></n></t> <t>with<n pronunciation="with" start="38160" end="38280"><ph start="38185" end="38220" type="w"></ph><ph start="38220" end="38250" type="I"></ph><ph start="38250" end="38280" type="T"></ph></n></t> <t>the<n pronunciation="the"><ph start="38280" end="38310" type="D"></ph><ph start="38310" end="38340" type="V"></ph></n></t> <t>history<n pronunciation="history" start="38280" end="38760"><ph start="38340" end="38430" type="h"></ph><ph start="38430" end="38460" type="I"></ph><ph start="38460" end="38580" type="s"></ph><ph start="38580" end="38680" type="t"></ph><ph start="38680" end="38710" type="r"></ph><ph start="38710" end="38780" type="i:"></ph></n></t> <t>of<n pronunciation="of" start="38760" end="38900"><ph start="38780" end="38830" type="V"></ph><ph start="38830" end="38870" type="v"></ph></n></t> <t>the<n pronunciation="the" start="38900" end="38990"><ph start="38870" end="38940" type="D"></ph><ph start="38940" end="38970" type="V"></ph></n></t> <t>Moscow<n pronunciation="Moscow" start="38990" end="39370"><ph start="38970" end="39050" type="m"></ph><ph start="39050" end="39130" type="A:"></ph><ph start="39130" end="39240" type="s"></ph><ph start="39240" end="39320" type="k"></ph><ph start="39320" end="39370" type="@U"></ph></n></t> <t>Metro's<n pronunciation="Metro's" start="39370" end="39870"><ph start="39370" end="39450" type="m"></ph><ph start="39450" end="39520" type="E"></ph><ph start="39520" end="39690" type="t"></ph><ph start="39690" end="39720" type="r"></ph><ph start="39720" end="39770" type="@U"></ph><ph start="39770" end="39870" type="z"></ph></n></t> <t>first<n pronunciation="first"><ph start="39870" end="39940" type="f"></ph><ph start="39940" end="40020" type="3`"></ph><ph start="40020" end="40070" type="s"></ph></n></t> <t>stage<n pronunciation="stage" start="40060" end="40420"><ph start="40070" end="40120" type="s"></ph><ph start="40120" end="40200" type="t"></ph><ph start="40200" end="40340" type="eI"></ph><ph start="40340" end="40420" type="dZ"></ph></n></t> <t>altogether<n pronunciation="altogether" start="40420" end="41010"><ph start="40420" end="40450" type="{"></ph><ph start="40450" end="40520" type="l"></ph><ph start="40520" end="40600" type="t"></ph><ph start="40600" end="40630" type="V"></ph><ph start="40630" end="40730" type="g"></ph><ph start="40730" end="40850" type="E"></ph><ph start="40850" end="40890" type="D"></ph><ph start="40890" end="40990" type="3`"></ph></n></t><t>.</t></s> <s><t>In<n pronunciation="In" start="41550" end="41720"><ph start="41280" end="41310" type="I"></ph><ph start="41310" end="41340" type="n"></ph></n></t> <t>short<n pronunciation="short" start="41720" end="42120"><ph start="41690" end="41870" type="S"></ph><ph start="41870" end="42080" type="O:"></ph><ph start="42080" end="42110" type="r"></ph><ph start="42110" end="42160" type="t"></ph></n></t> <t>it<n pronunciation="it"><ph start="42160" end="42210" type="I"></ph><ph start="42210" end="42290" type="t"></ph></n></t> <t>was<n pronunciation="was"><ph start="42290" end="42320" type="w"></ph><ph start="42320" end="42370" type="A:"></ph><ph start="42370" end="42420" type="z"></ph></n></t> <t>to<n pronunciation="to"><ph start="42420" end="42490" type="t"></ph><ph start="42490" end="42530" type="u"></ph></n></t> <t>cut<n pronunciation="cut" start="42550" end="42870"><ph start="42580" end="42670" type="k"></ph><ph start="42670" end="42770" type="V"></ph><ph start="42770" end="42860" type="t"></ph></n></t> <t>Moscow<n pronunciation="Moscow" start="42900" end="43440"><ph start="42930" end="42960" type="m"></ph><ph start="42960" end="43050" type="A:"></ph><ph start="43050" end="43150" type="s"></ph><ph start="43150" end="43250" type="k"></ph><ph start="43250" end="43400" type="@U"></ph></n></t> <t>on<n pronunciation="on" start="43440" end="43560"><ph start="43450" end="43520" type="O:"></ph><ph start="43520" end="43570" type="n"></ph></n></t> <t>a<n pronunciation="a" start="43560" end="43640"><ph start="43570" end="43620" type="V"></ph></n></t> <t>northeast-southwest<n pronunciation="northeast" start="43640" end="44250"><ph start="43620" end="43700" type="n"></ph><ph start="43700" end="43810" type="O:"></ph><ph start="43810" end="43840" type="r"></ph><ph start="43840" end="44010" type="T"></ph><ph start="44010" end="44160" type="i:"></ph><ph start="44160" end="44290" type="s"></ph></n><n pronunciation="southwest" start="44250" end="44880"><ph start="44290" end="44330" type="s"></ph><ph start="44330" end="44470" type="aU"></ph><ph start="44470" end="44590" type="T"></ph><ph start="44590" end="44640" type="w"></ph><ph start="44640" end="44730" type="E"></ph><ph start="44730" end="44790" type="s"></ph><ph start="44790" end="44850" type="t"></ph></n></t> <t>axis<n pronunciation="axis" start="44880" end="45500"><ph start="44910" end="45020" type="{"></ph><ph start="45020" end="45110" type="k"></ph><ph start="45110" end="45260" type="s"></ph><ph start="45260" end="45370" type="I"></ph><ph start="45370" end="45500" type="s"></ph></n></t> <t>beginning<n pronunciation="beginning" start="45750" end="46220"><ph start="45810" end="45860" type="b"></ph><ph start="45860" end="45900" type="I"></ph><ph start="45900" end="45970" type="g"></ph><ph start="45970" end="46020" type="I"></ph><ph start="46020" end="46070" type="n"></ph><ph start="46070" end="46150" type="I"></ph><ph start="46150" end="46210" type="N"></ph></n></t> <t>at<n pronunciation="at"><ph start="46210" end="46280" type="{"></ph><ph start="46280" end="46310" type="t"></ph></n></t> <t>the<n pronunciation="the" start="46310" end="46390"><ph start="46310" end="46350" type="D"></ph><ph start="46350" end="46380" type="V"></ph></n></t> <t>Sokolniki<n pronunciation="Sokolniki" start="46390" end="46890"><ph start="46380" end="46530" type="s"></ph><ph start="46530" end="46570" type="A:"></ph><ph start="46570" end="46620" type="k"></ph><ph start="46620" end="46650" type="V"></ph><ph start="46650" end="46700" type="l"></ph><ph start="46700" end="46730" type="n"></ph><ph start="46730" end="46780" type="I"></ph><ph start="46780" end="46840" type="k"></ph><ph start="46840" end="46880" type="i:"></ph></n></t> <t>Park<n pronunciation="Park" start="46890" end="47340"><ph start="46950" end="47020" type="p"></ph><ph start="47020" end="47200" type="A:"></ph><ph start="47200" end="47230" type="r"></ph><ph start="47230" end="47310" type="k"></ph></n></t> <t>and<n pronunciation="and" start="47340" end="47520"><ph start="47370" end="47420" type="{"></ph><ph start="47420" end="47460" type="n"></ph><ph start="47460" end="47530" type="d"></ph></n></t> <t>continuing<n pronunciation="continuing" start="47520" end="48120"><ph start="47530" end="47600" type="k"></ph><ph start="47600" end="47630" type="V"></ph><ph start="47630" end="47660" type="n"></ph><ph start="47660" end="47810" type="t"></ph><ph start="47810" end="47840" type="I"></ph><ph start="47840" end="47900" type="n"></ph><ph start="47900" end="47930" type="j"></ph><ph start="47930" end="47960" type="u"></ph><ph start="47960" end="48040" type="I"></ph><ph start="48040" end="48090" type="N"></ph></n></t> <t>through<n pronunciation="through" start="48120" end="48390"><ph start="48090" end="48260" type="T"></ph><ph start="48260" end="48290" type="r"></ph><ph start="48290" end="48340" type="u"></ph></n></t> <t>the<n pronunciation="the" start="48390" end="48480"><ph start="48340" end="48430" type="D"></ph><ph start="48430" end="48470" type="V"></ph></n></t> <t>Three<n pronunciation="Three"><ph start="48470" end="48670" type="T"></ph><ph start="48670" end="48700" type="r"></ph><ph start="48700" end="48840" type="i:"></ph></n></t> <t>railway<n pronunciation="railway" start="48840" end="49210"><ph start="48840" end="48890" type="r"></ph><ph start="48890" end="48980" type="eI"></ph><ph start="48980" end="49110" type="l"></ph><ph start="49110" end="49160" type="w"></ph><ph start="49160" end="49210" type="eI"></ph></n></t> <t>terminals<n pronunciation="terminals" start="49210" end="49930"><ph start="49210" end="49350" type="t"></ph><ph start="49350" end="49450" type="3`"></ph><ph start="49450" end="49530" type="m"></ph><ph start="49530" end="49560" type="V"></ph><ph start="49560" end="49610" type="n"></ph><ph start="49610" end="49720" type="V"></ph><ph start="49720" end="49790" type="l"></ph><ph start="49790" end="49900" type="z"></ph></n></t> <t>and<n pronunciation="and" start="50170" end="50470"><ph start="50310" end="50390" type="{"></ph><ph start="50390" end="50450" type="n"></ph><ph start="50450" end="50480" type="d"></ph></n></t> <t>then<n pronunciation="then" start="50470" end="50670"><ph start="50480" end="50510" type="D"></ph><ph start="50510" end="50600" type="E"></ph><ph start="50600" end="50650" type="n"></ph></n></t> <t>past<n pronunciation="past" start="50670" end="50990"><ph start="50720" end="50790" type="p"></ph><ph start="50790" end="50930" type="{"></ph><ph start="50930" end="50960" type="s"></ph></n></t> <t>the<n pronunciation="the"><ph start="50960" end="51000" type="D"></ph><ph start="51000" end="51040" type="V"></ph></n></t> <t>city<n pronunciation="city" start="51050" end="51320"><ph start="51040" end="51140" type="s"></ph><ph start="51140" end="51200" type="I"></ph><ph start="51200" end="51270" type="t"></ph><ph start="51270" end="51320" type="i:"></ph></n></t> <t>centre's<n pronunciation="centre's" start="51320" end="51700"><ph start="51320" end="51420" type="s"></ph><ph start="51420" end="51450" type="E"></ph><ph start="51450" end="51480" type="n"></ph><ph start="51480" end="51510" type="t"></ph><ph start="51510" end="51560" type="3`"></ph><ph start="51560" end="51720" type="z"></ph></n></t> <t>main<n pronunciation="main" start="51700" end="51930"><ph start="51720" end="51760" type="m"></ph><ph start="51760" end="51870" type="eI"></ph><ph start="51870" end="51900" type="n"></ph></n></t> <t>traffic<n pronunciation="traffic" start="51930" end="52340"><ph start="51900" end="52060" type="t"></ph><ph start="52060" end="52090" type="r"></ph><ph start="52090" end="52150" type="{"></ph><ph start="52150" end="52250" type="f"></ph><ph start="52250" end="52300" type="I"></ph></n></t> <t>junctions<n pronunciation="junctions" start="52340" end="52950"><ph start="52300" end="52410" type="dZ"></ph><ph start="52410" end="52500" type="V"></ph><ph start="52500" end="52550" type="N"></ph><ph start="52550" end="52600" type="k"></ph><ph start="52600" end="52720" type="S"></ph><ph start="52720" end="52750" type="V"></ph><ph start="52750" end="52820" type="n"></ph><ph start="52820" end="52930" type="z"></ph></n></t><t>:</t> <t>Red<n pronunciation="Red" start="53330" end="53550"><ph start="53380" end="53410" type="r"></ph><ph start="53410" end="53480" type="E"></ph><ph start="53480" end="53550" type="d"></ph></n></t> <t>gate<n pronunciation="gate" start="53550" end="53780"><ph start="53550" end="53620" type="g"></ph><ph start="53620" end="53730" type="eI"></ph><ph start="53730" end="53770" type="t"></ph></n></t> <t>junction<n pronunciation="junction" start="53780" end="54340"><ph start="53770" end="53830" type="dZ"></ph><ph start="53830" end="53920" type="V"></ph><ph start="53920" end="53990" type="N"></ph><ph start="53990" end="54020" type="k"></ph><ph start="54020" end="54180" type="S"></ph><ph start="54180" end="54220" type="V"></ph><ph start="54220" end="54310" type="n"></ph></n></t><t>,</t> <t>Kirovskaya<n pronunciation="Kirovskaya" start="54650" end="55300"><ph start="54720" end="54810" type="k"></ph><ph start="54810" end="54850" type="I"></ph><ph start="54850" end="54880" type="r"></ph><ph start="54880" end="54920" type="A:"></ph><ph start="54920" end="54950" type="v"></ph><ph start="54950" end="55070" type="s"></ph><ph start="55070" end="55150" type="k"></ph><ph start="55150" end="55190" type="aI"></ph><ph start="55190" end="55270" type="V"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="55300" end="55420"><ph start="55270" end="55370" type="D"></ph><ph start="55370" end="55400" type="V"></ph></n></t> <t>Lubyanka<n pronunciation="Lubyanka" start="55420" end="56030"><ph start="55400" end="55520" type="l"></ph><ph start="55520" end="55550" type="u"></ph><ph start="55550" end="55580" type="b"></ph><ph start="55580" end="55620" type="i:"></ph><ph start="55620" end="55720" type="{"></ph><ph start="55720" end="55840" type="N"></ph><ph start="55840" end="55890" type="k"></ph><ph start="55890" end="56030" type="V"></ph></n></t> <t>and<n pronunciation="and" start="56030" end="56220"><ph start="56030" end="56140" type="{"></ph><ph start="56140" end="56210" type="n"></ph><ph start="56210" end="56240" type="d"></ph></n></t> <t>the<n pronunciation="the" start="56220" end="56310"><ph start="56240" end="56270" type="D"></ph><ph start="56270" end="56300" type="V"></ph></n></t> <t>Manege<n pronunciation="Manege" start="56310" end="56670"><ph start="56300" end="56380" type="m"></ph><ph start="56380" end="56630" type="eI"></ph><ph start="56630" end="56660" type="n"></ph><ph start="56660" end="56700" type="dZ"></ph></n></t> <t>Squares<n pronunciation="Squares" start="56670" end="57360"><ph start="56700" end="56840" type="s"></ph><ph start="56840" end="56920" type="k"></ph><ph start="56920" end="57000" type="w"></ph><ph start="57000" end="57170" type="E"></ph><ph start="57170" end="57200" type="r"></ph><ph start="57200" end="57370" type="z"></ph></n></t><t>.</t></s> <s><t>From<n pronunciation="From" start="58070" end="58370"><ph start="57820" end="58250" type="f"></ph><ph start="58250" end="58280" type="r"></ph><ph start="58280" end="58310" type="V"></ph><ph start="58310" end="58360" type="m"></ph></n></t> <t>there<n pronunciation="there" start="58380" end="58790"><ph start="58360" end="58430" type="D"></ph><ph start="58430" end="58680" type="E"></ph><ph start="58680" end="58730" type="r"></ph></n></t><t>,</t> <t>a<n pronunciation="a" start="58890" end="59010"><ph start="58950" end="59000" type="V"></ph></n></t> <t>separate<n pronunciation="separate" start="59010" end="59410"><ph start="59000" end="59100" type="s"></ph><ph start="59100" end="59160" type="E"></ph><ph start="59160" end="59270" type="p"></ph><ph start="59270" end="59350" type="3`"></ph><ph start="59350" end="59380" type="I"></ph><ph start="59380" end="59410" type="t"></ph></n></t> <t>branch<n pronunciation="branch" start="59410" end="59870"><ph start="59410" end="59460" type="b"></ph><ph start="59460" end="59540" type="r"></ph><ph start="59540" end="59690" type="{"></ph><ph start="59690" end="59750" type="n"></ph><ph start="59750" end="59780" type="T"></ph><ph start="59780" end="59870" type="S"></ph></n></t> <t>carried<n pronunciation="carried" start="59870" end="60200"><ph start="59870" end="59970" type="k"></ph><ph start="59970" end="60020" type="E"></ph><ph start="60020" end="60070" type="r"></ph><ph start="60070" end="60120" type="i:"></ph><ph start="60120" end="60170" type="d"></ph></n></t> <t>off<n pronunciation="off" start="60200" end="60320"><ph start="60170" end="60250" type="O:"></ph><ph start="60250" end="60310" type="f"></ph></n></t> <t>into<n pronunciation="into" start="60320" end="60490"><ph start="60310" end="60360" type="I"></ph><ph start="60360" end="60390" type="n"></ph><ph start="60390" end="60530" type="t"></ph><ph start="60530" end="60650" type="u"></ph></n></t> <t>the<n pronunciation="the" start="60490" end="60640"><ph start="60650" end="60680" type="D"></ph><ph start="60680" end="60710" type="V"></ph></n></t> <t>Arbat<n pronunciation="Arbat"><ph start="60710" end="60800" type="A:"></ph><ph start="60800" end="60830" type="r"></ph><ph start="60830" end="60920" type="b"></ph><ph start="60920" end="60970" type="{"></ph><ph start="60970" end="61000" type="t"></ph></n></t> <t>Street<n pronunciation="Street" start="61010" end="61510"><ph start="61000" end="61110" type="s"></ph><ph start="61110" end="61260" type="t"></ph><ph start="61260" end="61290" type="r"></ph><ph start="61290" end="61400" type="i:"></ph><ph start="61400" end="61520" type="t"></ph></n></t> <t>and<n pronunciation="and" start="61510" end="61680"><ph start="61520" end="61590" type="{"></ph><ph start="61590" end="61640" type="n"></ph></n></t> <t>later<n pronunciation="later" start="61680" end="62100"><ph start="61640" end="61750" type="l"></ph><ph start="61750" end="61870" type="eI"></ph><ph start="61870" end="61990" type="t"></ph><ph start="61990" end="62080" type="3`"></ph></n></t> <t>Kiyevsky<n pronunciation="Kiyevsky" start="62430" end="62900"><ph start="62470" end="62520" type="k"></ph><ph start="62520" end="62590" type="i:"></ph><ph start="62590" end="62630" type="E"></ph><ph start="62630" end="62660" type="v"></ph><ph start="62660" end="62750" type="s"></ph><ph start="62750" end="62820" type="k"></ph><ph start="62820" end="62900" type="i:"></ph></n></t> <t>railway<n pronunciation="railway" start="62900" end="63320"><ph start="62900" end="62960" type="r"></ph><ph start="62960" end="63060" type="eI"></ph><ph start="63060" end="63170" type="l"></ph><ph start="63170" end="63250" type="w"></ph><ph start="63250" end="63330" type="eI"></ph></n></t> <t>station<n pronunciation="station" start="63320" end="63900"><ph start="63330" end="63390" type="s"></ph><ph start="63390" end="63490" type="t"></ph><ph start="63490" end="63630" type="eI"></ph><ph start="63630" end="63780" type="S"></ph><ph start="63780" end="63810" type="V"></ph><ph start="63810" end="63860" type="n"></ph></n></t><t>,</t> <t>before<n pronunciation="before" start="64190" end="64630"><ph start="64230" end="64260" type="b"></ph><ph start="64260" end="64310" type="I"></ph><ph start="64310" end="64450" type="f"></ph><ph start="64450" end="64560" type="O:"></ph><ph start="64560" end="64590" type="r"></ph></n></t> <t>it<n pronunciation="it"><ph start="64590" end="64620" type="I"></ph><ph start="64620" end="64660" type="t"></ph></n></t> <t>became<n pronunciation="became" start="64760" end="65010"><ph start="64660" end="64710" type="b"></ph><ph start="64710" end="64750" type="i:"></ph><ph start="64750" end="64850" type="k"></ph><ph start="64850" end="64970" type="eI"></ph><ph start="64970" end="65030" type="m"></ph></n></t> <t>in<n pronunciation="in" start="65010" end="65140"><ph start="65030" end="65080" type="I"></ph><ph start="65080" end="65140" type="n"></ph></n></t> <t>1938<n pronunciation="nineteen" start="65140" end="65520"><ph start="65140" end="65190" type="n"></ph><ph start="65190" end="65330" type="aI"></ph><ph start="65330" end="65360" type="n"></ph><ph start="65360" end="65440" type="t"></ph><ph start="65440" end="65480" type="i:"></ph><ph start="65480" end="65520" type="n"></ph></n><n pronunciation="thirty" start="65520" end="65920"><ph start="65590" end="65640" type="T"></ph><ph start="65640" end="65720" type="3`"></ph><ph start="65720" end="65820" type="t"></ph><ph start="65820" end="65930" type="i:"></ph></n><n pronunciation="eight" start="65920" end="66250"><ph start="65930" end="66110" type="eI"></ph><ph start="66110" end="66170" type="t"></ph></n></t> <t>the<n pronunciation="the"><ph start="66170" end="66200" type="D"></ph><ph start="66200" end="66230" type="V"></ph></n></t> <t>distinct<n pronunciation="distinct" start="66250" end="66920"><ph start="66230" end="66330" type="d"></ph><ph start="66330" end="66390" type="I"></ph><ph start="66390" end="66470" type="s"></ph><ph start="66470" end="66550" type="t"></ph><ph start="66550" end="66680" type="I"></ph><ph start="66680" end="66750" type="N"></ph><ph start="66750" end="66780" type="k"></ph><ph start="66780" end="66870" type="t"></ph></n></t> <t>Arbatsko-Pokrovskaya<n pronunciation="Arbatsko" start="67260" end="67760"><ph start="67290" end="67370" type="A:"></ph><ph start="67370" end="67400" type="r"></ph><ph start="67400" end="67490" type="b"></ph><ph start="67490" end="67570" type="A:"></ph><ph start="67570" end="67600" type="t"></ph><ph start="67600" end="67670" type="s"></ph><ph start="67670" end="67720" type="k"></ph><ph start="67720" end="67760" type="@U"></ph></n><n pronunciation="Pokrovskaya" start="67760" end="68420"><ph start="67760" end="67850" type="p"></ph><ph start="67850" end="67890" type="A:"></ph><ph start="67890" end="68020" type="k"></ph><ph start="68020" end="68060" type="r"></ph><ph start="68060" end="68120" type="O:"></ph><ph start="68120" end="68150" type="v"></ph><ph start="68150" end="68240" type="s"></ph><ph start="68240" end="68330" type="k"></ph><ph start="68330" end="68370" type="aI"></ph><ph start="68370" end="68430" type="V"></ph></n></t> <t>Line<n pronunciation="Line" start="68420" end="68790"><ph start="68430" end="68510" type="l"></ph><ph start="68510" end="68700" type="aI"></ph><ph start="68700" end="68740" type="n"></ph></n></t> <t>and<n pronunciation="and" start="68950" end="69150"><ph start="69030" end="69100" type="{"></ph><ph start="69100" end="69130" type="n"></ph></n></t><t>,</t> <t>later<n pronunciation="later" start="69150" end="69540"><ph start="69130" end="69260" type="l"></ph><ph start="69260" end="69350" type="eI"></ph><ph start="69350" end="69450" type="t"></ph><ph start="69450" end="69490" type="3`"></ph></n></t><t>,</t> <t>in<n pronunciation="in"><ph start="69490" end="69520" type="I"></ph><ph start="69520" end="69550" type="n"></ph></n></t> <t>1958<n pronunciation="nineteen" start="69540" end="69880"><ph start="69550" end="69600" type="n"></ph><ph start="69600" end="69730" type="aI"></ph><ph start="69730" end="69760" type="n"></ph><ph start="69760" end="69790" type="t"></ph><ph start="69790" end="69830" type="i:"></ph><ph start="69830" end="69885" type="n"></ph></n><n pronunciation="fifty" start="69880" end="70210"><ph start="69885" end="69920" type="f"></ph><ph start="69920" end="70010" type="I"></ph><ph start="70010" end="70040" type="f"></ph><ph start="70040" end="70110" type="t"></ph><ph start="70110" end="70215" type="i:"></ph></n><n pronunciation="eight" start="70210" end="70500"><ph start="70215" end="70370" type="eI"></ph><ph start="70370" end="70460" type="t"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="70630" end="70720"><ph start="70640" end="70670" type="D"></ph><ph start="70670" end="70700" type="V"></ph></n></t> <t>Filyovskaya<n pronunciation="Filyovskaya" start="70720" end="71290"><ph start="70700" end="70800" type="f"></ph><ph start="70800" end="70840" type="I"></ph><ph start="70840" end="70920" type="l"></ph><ph start="70920" end="70950" type="j"></ph><ph start="70950" end="71000" type="O:"></ph><ph start="71000" end="71030" type="v"></ph><ph start="71030" end="71150" type="s"></ph><ph start="71150" end="71230" type="k"></ph><ph start="71230" end="71280" type="aI"></ph><ph start="71280" end="71310" type="V"></ph></n></t> <t>Line<n pronunciation="Line" start="71290" end="71620"><ph start="71310" end="71460" type="l"></ph><ph start="71460" end="71550" type="aI"></ph><ph start="71550" end="71600" type="n"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>remaining<n pronunciation="remaining" start="72460" end="72900" /></t> <t>part<n pronunciation="part" start="72900" end="73390" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" start="73460" end="73570" /></t> <t>Frunzenskaya<n pronunciation="Frunzenskaya" start="73570" end="74120" /></t> <t>Branch<n pronunciation="Branch" start="74120" end="74680" /></t> <t>went<n pronunciation="went" start="74680" end="74970" /></t> <t>along<n pronunciation="along" start="74970" end="75300" /></t> <t>the<n pronunciation="the" start="75300" end="75420" /></t> <t>Kremlin's<n pronunciation="Kremlin's" start="75420" end="76020" /></t> <t>western<n pronunciation="western" /></t> <t>wall<n pronunciation="wall" start="76400" end="76940" /></t> <t>past<n pronunciation="past" start="77220" end="77680" /></t> <t>the<n pronunciation="the" start="77680" end="77840" /></t> <t>Russian<n pronunciation="Russian" start="77840" end="78170" /></t> <t>State<n pronunciation="State" start="78170" end="78540" /></t> <t>Library<n pronunciation="Library" start="78540" end="79130" /></t> <t>to<n pronunciation="to" start="79480" end="79580" /></t> <t>the<n pronunciation="the" start="79580" end="79680" /></t> <t>future<n pronunciation="future" start="79680" end="79990" /></t> <t>site<n pronunciation="site" start="79990" end="80340" /></t> <t>of<n pronunciation="of" start="80340" end="80430" /></t> <t>the<n pronunciation="the" start="80430" end="80530" /></t> <t>Palace<n pronunciation="Palace" start="80530" end="80900" /></t> <t>of<n pronunciation="of" start="80900" end="81010" /></t> <t>the<n pronunciation="the" start="81010" end="81080" /></t> <t>Soviets<n pronunciation="Soviets" start="81080" end="81840" /></t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" start="82310" end="82400" /></t> <t>bank<n pronunciation="bank" start="82400" end="82940" /></t> <t>of<n pronunciation="of" start="83320" end="83520" /></t> <t>the<n pronunciation="the" start="83520" end="83600" /></t> <t>Moskva<n pronunciation="Moskva" start="83600" end="84080" /></t> <t>River<n pronunciation="River" start="84080" end="84450" /></t> <t>and<n pronunciation="and" start="84480" end="84690" /></t> <t>terminated<n pronunciation="terminated" start="84690" end="85400" /></t> <t>near<n pronunciation="near" start="85430" end="85620" /></t> <t>the<n pronunciation="the" start="85620" end="85750" /></t> <t>Gorky<n pronunciation="Gorky" start="85750" end="86100" /></t> <t>Park<n pronunciation="Park" start="86100" end="86540" /></t><t>.</t></s></p>
+<p><s><t>Although<n pronunciation="Although" start="87810" end="88390"><ph start="87840" end="87880" type="{"></ph><ph start="87880" end="88030" type="l"></ph><ph start="88030" end="88100" type="T"></ph><ph start="88100" end="88360" type="aU"></ph></n></t> <t>Moscow<n pronunciation="Moscow" start="88410" end="88850"><ph start="88460" end="88490" type="m"></ph><ph start="88490" end="88620" type="A:"></ph><ph start="88620" end="88730" type="s"></ph><ph start="88730" end="88800" type="k"></ph><ph start="88800" end="88850" type="@U"></ph></n></t> <t>Metro<n pronunciation="Metro" start="88850" end="89320"><ph start="88850" end="88940" type="m"></ph><ph start="88940" end="89050" type="E"></ph><ph start="89050" end="89240" type="t"></ph><ph start="89240" end="89270" type="r"></ph><ph start="89270" end="89310" type="@U"></ph></n></t> <t>prides<n pronunciation="prides" start="89320" end="89780"><ph start="89390" end="89520" type="p"></ph><ph start="89520" end="89550" type="r"></ph><ph start="89550" end="89690" type="aI"></ph><ph start="89690" end="89740" type="d"></ph><ph start="89740" end="89780" type="z"></ph></n></t> <t>itself<n pronunciation="itself" start="89780" end="90280"><ph start="89780" end="89810" type="I"></ph><ph start="89810" end="89840" type="t"></ph><ph start="89840" end="89990" type="s"></ph><ph start="89990" end="90090" type="E"></ph><ph start="90090" end="90190" type="l"></ph><ph start="90190" end="90290" type="f"></ph></n></t> <t>on<n pronunciation="on" start="90280" end="90560"><ph start="90420" end="90510" type="O:"></ph><ph start="90510" end="90650" type="n"></ph></n></t> <t>the<n pronunciation="the" start="90560" end="90670"><ph start="90720" end="90750" type="D"></ph><ph start="90750" end="90880" type="V"></ph></n></t> <t>best<n pronunciation="best" start="90670" end="91250"><ph start="90880" end="90910" type="b"></ph><ph start="90910" end="90950" type="I"></ph><ph start="90950" end="91190" type="s"></ph><ph start="91190" end="91240" type="t"></ph></n></t> <t>Stalinist<n pronunciation="Stalinist" start="91250" end="91930"><ph start="91240" end="91370" type="s"></ph><ph start="91370" end="91400" type="t"></ph><ph start="91400" end="91440" type="{"></ph><ph start="91440" end="91590" type="l"></ph><ph start="91590" end="91620" type="I"></ph><ph start="91620" end="91680" type="n"></ph><ph start="91680" end="91770" type="I"></ph><ph start="91770" end="91890" type="s"></ph><ph start="91890" end="91940" type="t"></ph></n></t> <t>architecture<n pronunciation="architecture" start="91930" end="92690"><ph start="91940" end="92000" type="A:"></ph><ph start="92000" end="92050" type="r"></ph><ph start="92050" end="92150" type="k"></ph><ph start="92150" end="92180" type="V"></ph><ph start="92180" end="92330" type="t"></ph><ph start="92330" end="92430" type="E"></ph><ph start="92430" end="92460" type="k"></ph><ph start="92460" end="92490" type="T"></ph><ph start="92490" end="92620" type="S"></ph><ph start="92620" end="92690" type="3`"></ph></n></t> <t>and<n pronunciation="and" start="92690" end="93040"><ph start="92690" end="92870" type="{"></ph><ph start="92870" end="92910" type="n"></ph><ph start="92910" end="92940" type="d"></ph></n></t> <t>the<n pronunciation="the"><ph start="92940" end="92980" type="D"></ph><ph start="92980" end="93020" type="V"></ph></n></t> <t>earlier<n pronunciation="earlier" start="93030" end="93520"><ph start="93070" end="93130" type="3`"></ph><ph start="93130" end="93320" type="l"></ph><ph start="93320" end="93410" type="i:"></ph><ph start="93410" end="93450" type="3`"></ph></n></t> <t>Art<n pronunciation="Art"><ph start="93500" end="93620" type="A:"></ph><ph start="93620" end="93650" type="r"></ph><ph start="93650" end="93740" type="t"></ph></n></t> <t>Deco<n pronunciation="Deco" start="93640" end="94040"><ph start="93740" end="93770" type="d"></ph><ph start="93770" end="93860" type="E"></ph><ph start="93860" end="93960" type="k"></ph><ph start="93960" end="94030" type="@U"></ph></n></t> <t>attempts<n pronunciation="attempts" start="94070" end="94830"><ph start="94110" end="94160" type="V"></ph><ph start="94160" end="94290" type="t"></ph><ph start="94290" end="94420" type="E"></ph><ph start="94420" end="94480" type="m"></ph><ph start="94480" end="94550" type="t"></ph><ph start="94550" end="94760" type="s"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="95140" end="95270"><ph start="95190" end="95230" type="D"></ph><ph start="95230" end="95260" type="V"></ph></n></t> <t>stations<n pronunciation="stations" start="95270" end="96130"><ph start="95260" end="95360" type="s"></ph><ph start="95360" end="95440" type="t"></ph><ph start="95440" end="95580" type="eI"></ph><ph start="95580" end="95730" type="S"></ph><ph start="95730" end="95780" type="V"></ph><ph start="95780" end="95860" type="n"></ph><ph start="95860" end="95990" type="z"></ph></n></t> <t>of<n pronunciation="of" start="96130" end="96300"><ph start="96170" end="96250" type="V"></ph><ph start="96250" end="96340" type="v"></ph></n></t> <t>the<n pronunciation="the" start="96300" end="96480"><ph start="96340" end="96400" type="D"></ph><ph start="96400" end="96450" type="V"></ph></n></t> <t>first<n pronunciation="first" start="96480" end="96810"><ph start="96450" end="96600" type="f"></ph><ph start="96600" end="96710" type="3`"></ph><ph start="96710" end="96790" type="s"></ph></n></t> <t>stage<n pronunciation="stage" start="96810" end="97350"><ph start="96790" end="96850" type="s"></ph><ph start="96850" end="96940" type="t"></ph><ph start="96940" end="97180" type="eI"></ph><ph start="97180" end="97320" type="dZ"></ph></n></t> <t>are<n pronunciation="are" start="97420" end="97690"><ph start="97470" end="97520" type="A:"></ph><ph start="97520" end="97550" type="r"></ph></n></t> <t>very<n pronunciation="very"><ph start="97550" end="97620" type="v"></ph><ph start="97620" end="97700" type="3`"></ph><ph start="97700" end="97770" type="i:"></ph></n></t> <t>far<n pronunciation="far" start="97790" end="98040"><ph start="97770" end="97920" type="f"></ph><ph start="97920" end="97980" type="A:"></ph><ph start="97980" end="98010" type="r"></ph></n></t> <t>from<n pronunciation="from" start="98040" end="98270"><ph start="98010" end="98140" type="f"></ph><ph start="98140" end="98170" type="r"></ph><ph start="98170" end="98200" type="V"></ph><ph start="98200" end="98230" type="m"></ph></n></t> <t>those<n pronunciation="those" start="98270" end="98680"><ph start="98230" end="98300" type="T"></ph><ph start="98300" end="98540" type="@U"></ph><ph start="98540" end="98680" type="z"></ph></n></t><t>.</t></s> <s><t>Instead<n pronunciation="Instead" start="99200" end="99960" /></t> <t>they<n pronunciation="they" start="100040" end="100180" /></t> <t>have<n pronunciation="have" start="100180" end="100580" /></t> <t>a<n pronunciation="a" /></t> <t>very<n pronunciation="very" start="100740" end="100940" /></t> <t>classical<n pronunciation="classical" start="100940" end="101450" /></t> <t>taste<n pronunciation="taste" start="101450" end="101840" /></t> <t>to<n pronunciation="to" start="101840" end="101960" /></t> <t>them<n pronunciation="them" start="101960" end="102250" /></t><t>,</t> <t>which<n pronunciation="which" start="102450" end="102760" /></t> <t>blends<n pronunciation="blends" start="102760" end="103240" /></t> <t>nicely<n pronunciation="nicely" start="103240" end="103830" /></t> <t>with<n pronunciation="with" start="103830" end="104060" /></t> <t>the<n pronunciation="the" /></t> <t>neo-classical<n pronunciation="neo" /><n pronunciation="classical" start="104510" end="104540" /></t> <t>atmosphere<n pronunciation="atmosphere" start="104540" end="105030" /></t> <t>of<n pronunciation="of" start="105770" end="105800" /></t> <t>the<n pronunciation="the" start="105800" end="105950" /></t> <t>mid-1930s<n pronunciation="mid" start="105950" end="106090" /><n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="thirties" start="106320" end="106560" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="107440" end="108020" /></t> <t>is<n pronunciation="is" start="108020" end="108130" /></t> <t>also<n pronunciation="also" start="108130" end="108250" /></t> <t>true<n pronunciation="true" start="108250" end="108580" /></t> <t>that<n pronunciation="that" start="108580" end="108910" /></t> <t>the<n pronunciation="the" start="108910" end="109140" /></t> <t>overall<n pronunciation="overall" start="109140" end="109320" /></t> <t>construction<n pronunciation="construction" start="109320" end="109700" /></t> <t>of<n pronunciation="of" start="109700" end="110390" /></t> <t>these<n pronunciation="these" start="110390" end="110520" /></t> <t>early<n pronunciation="early" start="110520" end="110870" /></t> <t>stations<n pronunciation="stations" start="111130" end="111810" /></t> <t>allowed<n pronunciation="allowed" start="112090" end="112490" /></t> <t>the<n pronunciation="the" start="112490" end="112590" /></t> <t>palaces<n pronunciation="palaces" start="112590" end="113340" /></t> <t>of<n pronunciation="of" start="113380" end="113550" /></t> <t>the<n pronunciation="the" start="113550" end="113660" /></t> <t>1940s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="forties" /></t> <t>and<n pronunciation="and" /></t> <t>1950s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="fifties" start="114790" end="114980" /></t> <t>to<n pronunciation="to" start="115620" end="115910" /></t> <t>evolve<n pronunciation="evolve" start="115910" end="116150" /></t> <t>from<n pronunciation="from" start="116150" end="116550" /></t> <t>them<n pronunciation="them" start="116550" end="116830" /></t><t>.</t></s> <s><t>Most<n pronunciation="Most" start="117190" end="117600"><ph start="116920" end="116950" type="m"></ph><ph start="116950" end="116990" type="@U"></ph><ph start="116990" end="117020" type="s"></ph></n></t> <t>of<n pronunciation="of" start="117600" end="117940"><ph start="117670" end="117840" type="V"></ph><ph start="117840" end="117910" type="v"></ph></n></t> <t>these<n pronunciation="these" start="117940" end="118060"><ph start="117910" end="117970" type="D"></ph><ph start="117970" end="118010" type="i:"></ph><ph start="118010" end="118080" type="?"></ph><ph start="118080" end="118170" type="I"></ph><ph start="118170" end="118200" type="z"></ph></n></t> <t>stations<n pronunciation="stations" start="118060" end="118210"><ph start="118200" end="118260" type="s"></ph><ph start="118260" end="118340" type="t"></ph><ph start="118340" end="118500" type="eI"></ph><ph start="118500" end="118620" type="S"></ph><ph start="118620" end="118650" type="V"></ph><ph start="118650" end="118690" type="n"></ph><ph start="118690" end="118760" type="z"></ph></n></t> <t>are<n pronunciation="are" start="118260" end="118340"><ph start="118810" end="118840" type="A:"></ph><ph start="118840" end="118870" type="r"></ph></n></t> <t>now<n pronunciation="now" start="118850" end="119110"><ph start="118870" end="118920" type="n"></ph><ph start="118920" end="119060" type="aU"></ph></n></t> <t>officially<n pronunciation="officially" start="119110" end="119870"><ph start="119140" end="119180" type="V"></ph><ph start="119180" end="119320" type="f"></ph><ph start="119320" end="119400" type="I"></ph><ph start="119400" end="119550" type="S"></ph><ph start="119550" end="119600" type="V"></ph><ph start="119600" end="119750" type="l"></ph><ph start="119750" end="119810" type="i:"></ph></n></t> <t>listed<n pronunciation="listed" start="119900" end="120350"><ph start="119940" end="120020" type="l"></ph><ph start="120020" end="120090" type="I"></ph><ph start="120090" end="120170" type="s"></ph><ph start="120170" end="120200" type="t"></ph><ph start="120200" end="120270" type="I"></ph><ph start="120270" end="120320" type="d"></ph></n></t> <t>as<n pronunciation="as" start="120410" end="120590"><ph start="120370" end="120500" type="V"></ph><ph start="120500" end="120560" type="s"></ph></n></t> <t>architectural<n pronunciation="architectural" start="120590" end="121300"><ph start="120630" end="120680" type="A:"></ph><ph start="120680" end="120710" type="r"></ph><ph start="120710" end="120800" type="k"></ph><ph start="120800" end="120830" type="V"></ph><ph start="120830" end="120950" type="t"></ph><ph start="120950" end="121030" type="E"></ph><ph start="121030" end="121060" type="k"></ph><ph start="121060" end="121090" type="T"></ph><ph start="121090" end="121180" type="S"></ph><ph start="121180" end="121230" type="3`"></ph><ph start="121230" end="121260" type="V"></ph><ph start="121260" end="121290" type="l"></ph></n></t> <t>heritage<n pronunciation="heritage" start="121300" end="121970"><ph start="121290" end="121430" type="h"></ph><ph start="121430" end="121510" type="E"></ph><ph start="121510" end="121550" type="r"></ph><ph start="121550" end="121600" type="I"></ph><ph start="121600" end="121720" type="t"></ph><ph start="121720" end="121770" type="I"></ph><ph start="121770" end="121950" type="dZ"></ph></n></t><t>.</t></s><s><t>[</t><t>citation<n pronunciation="citation" /></t> <t>needed<n pronunciation="needed" /></t><t>]</t></s></p>
+<p><s><t>Further<n pronunciation="Further" start="122930" end="123620" /></t> <t>development<n pronunciation="development" start="123620" end="124340" /></t> <t>was<n pronunciation="was" start="124340" end="124490" /></t> <t>seen<n pronunciation="seen" start="124490" end="124910" /></t> <t>in<n pronunciation="in" start="125060" end="125200" /></t> <t>the<n pronunciation="the" start="125200" end="125300" /></t> <t>latter<n pronunciation="latter" start="125300" end="125600" /></t> <t>half<n pronunciation="half" start="125600" end="126020" /></t> <t>of<n pronunciation="of" start="126020" end="126190" /></t> <t>the<n pronunciation="the" /></t> <t>1950s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="fifties" start="126680" end="127290" /></t> <t>during<n pronunciation="during" start="127290" end="127640" /></t> <t>the<n pronunciation="the" start="127640" end="127730" /></t> <t>construction<n pronunciation="construction" start="127730" end="128390" /></t> <t>of<n pronunciation="of" start="128390" end="128500" /></t> <t>the<n pronunciation="the" start="128500" end="128610" /></t> <t>Frunzensky<n pronunciation="Frunzensky" start="128610" end="129170" /></t> <t>radius<n pronunciation="radius" start="129170" end="129760" /></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>line<n pronunciation="line" start="130540" end="131030" /></t> <t>extended<n pronunciation="extended" start="131170" end="131820" /></t> <t>into<n pronunciation="into" start="132050" end="132350" /></t> <t>the<n pronunciation="the" /></t> <t>Khamovniki<n pronunciation="Khamovniki" start="132560" end="133180" /></t> <t>District<n pronunciation="District" start="133180" end="133630" /></t> <t>in<n pronunciation="in" start="133630" end="133720" /></t> <t>1957<n pronunciation="nineteen" start="133720" end="134080" /><n pronunciation="fifty" /><n pronunciation="seven" start="134410" end="134760" /></t> <t>coming<n pronunciation="coming" start="135430" end="135760" /></t> <t>up<n pronunciation="up" start="135760" end="136010" /></t> <t>to<n pronunciation="to" start="136010" end="136190" /></t> <t>Luzhniki<n pronunciation="Luzhniki" start="136190" end="136670" /></t> <t>Stadium<n pronunciation="Stadium" start="136670" end="137320" /></t> <t>and<n pronunciation="and" start="137360" end="137570" /></t> <t>then<n pronunciation="then" start="137570" end="137860" /></t> <t>in<n pronunciation="in" start="137860" end="138010" /></t> <t>1959<n pronunciation="nineteen" start="138010" end="138350" /><n pronunciation="fifty" /><n pronunciation="nine" start="138690" end="139130" /></t> <t>reached<n pronunciation="reached" start="139430" end="140070" /></t> <t>the<n pronunciation="the" start="140070" end="140200" /></t> <t>Moscow<n pronunciation="Moscow" start="140200" end="140560" /></t> <t>State<n pronunciation="State" start="140560" end="140910" /></t> <t>University<n pronunciation="University" start="140910" end="141540" /></t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" /></t> <t>Sparrow<n pronunciation="Sparrow" start="141910" end="142200" /></t> <t>Hills<n pronunciation="Hills" start="142200" end="142780" /></t><t>.</t></s> <s><t>This<n pronunciation="This" start="143600" end="143840"><ph start="143590" end="143650" type="D"></ph><ph start="143650" end="143710" type="I"></ph><ph start="143710" end="143850" type="s"></ph></n></t> <t>required<n pronunciation="required" start="143840" end="144400"><ph start="143850" end="143890" type="r"></ph><ph start="143890" end="143930" type="i:"></ph><ph start="143930" end="144080" type="k"></ph><ph start="144080" end="144130" type="w"></ph><ph start="144130" end="144300" type="aI"></ph><ph start="144300" end="144340" type="3`"></ph><ph start="144340" end="144420" type="d"></ph></n></t> <t>crossing<n pronunciation="crossing" start="144400" end="144810"><ph start="144420" end="144540" type="k"></ph><ph start="144540" end="144570" type="r"></ph><ph start="144570" end="144630" type="O:"></ph><ph start="144630" end="144730" type="s"></ph><ph start="144730" end="144760" type="I"></ph><ph start="144760" end="144820" type="N"></ph></n></t> <t>the<n pronunciation="the" start="144810" end="144920"><ph start="144820" end="144870" type="D"></ph><ph start="144870" end="144910" type="V"></ph></n></t> <t>Moskva<n pronunciation="Moskva" start="144920" end="145300"><ph start="144910" end="144980" type="m"></ph><ph start="144980" end="145040" type="A:"></ph><ph start="145040" end="145150" type="s"></ph><ph start="145150" end="145180" type="k"></ph><ph start="145180" end="145250" type="v"></ph><ph start="145250" end="145360" type="V"></ph></n></t> <t>river<n pronunciation="river" start="145420" end="145690"><ph start="145360" end="145520" type="r"></ph><ph start="145520" end="145570" type="I"></ph><ph start="145570" end="145650" type="v"></ph><ph start="145650" end="145690" type="3`"></ph></n></t> <t>on<n pronunciation="on" start="145850" end="146020"><ph start="145690" end="145830" type="O:"></ph><ph start="145830" end="145875" type="n"></ph></n></t> <t>a<n pronunciation="a" start="146020" end="146080"><ph start="145875" end="146060" type="V"></ph></n></t> <t>combined<n pronunciation="combined" start="146080" end="146690"><ph start="146060" end="146170" type="k"></ph><ph start="146170" end="146210" type="V"></ph><ph start="146210" end="146280" type="m"></ph><ph start="146280" end="146340" type="b"></ph><ph start="146340" end="146570" type="aI"></ph><ph start="146570" end="146620" type="n"></ph><ph start="146620" end="146695" type="d"></ph></n></t> <t>auto<n pronunciation="auto"><ph start="146695" end="146830" type="?"></ph><ph start="146830" end="146980" type="O:"></ph><ph start="146980" end="147100" type="t"></ph><ph start="147100" end="147180" type="@U"></ph></n></t> <t>and<n pronunciation="and" start="147160" end="147350"><ph start="147180" end="147270" type="{"></ph><ph start="147270" end="147350" type="n"></ph></n></t> <t>Metro<n pronunciation="Metro" start="147350" end="147700"><ph start="147350" end="147400" type="m"></ph><ph start="147400" end="147490" type="E"></ph><ph start="147490" end="147630" type="t"></ph><ph start="147630" end="147660" type="r"></ph><ph start="147660" end="147700" type="@U"></ph></n></t> <t>bridge<n pronunciation="bridge" start="147700" end="148150"><ph start="147700" end="147810" type="b"></ph><ph start="147810" end="147870" type="r"></ph><ph start="147870" end="148020" type="I"></ph><ph start="148020" end="148140" type="dZ"></ph></n></t> <t>including<n pronunciation="including" start="148370" end="148850"><ph start="148410" end="148470" type="I"></ph><ph start="148470" end="148500" type="n"></ph><ph start="148500" end="148570" type="k"></ph><ph start="148570" end="148650" type="l"></ph><ph start="148650" end="148690" type="u"></ph><ph start="148690" end="148740" type="d"></ph><ph start="148740" end="148790" type="I"></ph><ph start="148790" end="148850" type="N"></ph></n></t> <t>a<n pronunciation="a" start="148850" end="148920"><ph start="148850" end="148920" type="V"></ph></n></t> <t>station<n pronunciation="station" start="148920" end="149470"><ph start="148920" end="149020" type="s"></ph><ph start="149020" end="149110" type="t"></ph><ph start="149110" end="149230" type="eI"></ph><ph start="149230" end="149370" type="S"></ph><ph start="149370" end="149410" type="V"></ph><ph start="149410" end="149470" type="n"></ph></n></t> <t>on<n pronunciation="on" start="149470" end="149640"><ph start="149470" end="149590" type="Q"></ph><ph start="149590" end="149640" type="n"></ph></n></t> <t>it<n pronunciation="it" start="149640" end="149870"><ph start="149640" end="149750" type="I"></ph><ph start="149750" end="149930" type="t"></ph></n></t><t>.</t></s> <s><t>However<n pronunciation="However" start="150620" end="151090"><ph start="150350" end="150830" type="h"></ph><ph start="150830" end="150920" type="aU"></ph><ph start="150920" end="150970" type="E"></ph><ph start="150970" end="151060" type="v"></ph><ph start="151060" end="151160" type="3`"></ph></n></t> <t>due<n pronunciation="due" start="151170" end="151400"><ph start="151160" end="151320" type="d"></ph><ph start="151320" end="151410" type="u"></ph></n></t> <t>to<n pronunciation="to" start="151400" end="151610"><ph start="151410" end="151530" type="t"></ph><ph start="151530" end="151600" type="u"></ph></n></t> <t>the<n pronunciation="the" start="151610" end="151730"><ph start="151600" end="151690" type="D"></ph><ph start="151690" end="151730" type="V"></ph></n></t> <t>necessity<n pronunciation="necessity" start="151730" end="152660"><ph start="151730" end="151780" type="n"></ph><ph start="151780" end="151860" type="V"></ph><ph start="151860" end="151990" type="s"></ph><ph start="151990" end="152080" type="E"></ph><ph start="152080" end="152180" type="s"></ph><ph start="152180" end="152240" type="V"></ph><ph start="152240" end="152400" type="t"></ph><ph start="152400" end="152570" type="i:"></ph></n></t> <t>of<n pronunciation="of" start="152660" end="152870"><ph start="152570" end="152720" type="?"></ph><ph start="152720" end="152750" type="V"></ph><ph start="152750" end="152880" type="v"></ph></n></t> <t>reconstruction<n pronunciation="reconstruction" start="152870" end="153790"><ph start="152880" end="152910" type="r"></ph><ph start="152910" end="152950" type="i:"></ph><ph start="152950" end="153030" type="k"></ph><ph start="153030" end="153070" type="V"></ph><ph start="153070" end="153100" type="n"></ph><ph start="153100" end="153220" type="s"></ph><ph start="153220" end="153310" type="t"></ph><ph start="153310" end="153340" type="r"></ph><ph start="153340" end="153390" type="V"></ph><ph start="153390" end="153460" type="k"></ph><ph start="153460" end="153610" type="S"></ph><ph start="153610" end="153650" type="V"></ph><ph start="153650" end="153770" type="n"></ph></n></t> <t>in<n pronunciation="in" start="153790" end="153970"><ph start="153850" end="153910" type="I"></ph><ph start="153910" end="153980" type="n"></ph></n></t> <t>1984<n pronunciation="nineteen" start="153970" end="154360"><ph start="153980" end="154010" type="n"></ph><ph start="154010" end="154140" type="aI"></ph><ph start="154140" end="154170" type="n"></ph><ph start="154170" end="154260" type="t"></ph><ph start="154260" end="154310" type="i:"></ph><ph start="154310" end="154360" type="n"></ph></n><n pronunciation="eighty" start="154360" end="154600"><ph start="154360" end="154460" type="eI"></ph><ph start="154460" end="154530" type="t"></ph><ph start="154530" end="154590" type="i:"></ph></n><n pronunciation="four" start="154600" end="155000"><ph start="154590" end="154750" type="f"></ph><ph start="154750" end="154940" type="O:"></ph><ph start="154940" end="154970" type="r"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="155280" end="155400"><ph start="155330" end="155360" type="D"></ph><ph start="155360" end="155390" type="V"></ph></n></t> <t>station<n pronunciation="station" start="155400" end="155880"><ph start="155390" end="155460" type="s"></ph><ph start="155460" end="155550" type="t"></ph><ph start="155550" end="155670" type="eI"></ph><ph start="155670" end="155800" type="S"></ph><ph start="155800" end="155830" type="V"></ph><ph start="155830" end="155860" type="n"></ph></n></t> <t>was<n pronunciation="was" start="155880" end="156020"><ph start="155860" end="155900" type="w"></ph><ph start="155900" end="155960" type="A:"></ph><ph start="155960" end="156060" type="z"></ph></n></t> <t>closed<n pronunciation="closed" start="156020" end="156650"><ph start="156060" end="156160" type="k"></ph><ph start="156160" end="156190" type="l"></ph><ph start="156190" end="156460" type="@U"></ph><ph start="156460" end="156650" type="z"></ph></n></t><t>,</t> <t>and<n pronunciation="and" start="156870" end="157110"><ph start="156940" end="157020" type="{"></ph><ph start="157020" end="157110" type="n"></ph></n></t> <t>not<n pronunciation="not" start="157110" end="157290"><ph start="157110" end="157150" type="n"></ph><ph start="157150" end="157250" type="A:"></ph><ph start="157250" end="157410" type="t"></ph></n></t> <t>reopened<n pronunciation="reopened" start="157370" end="158080"><ph start="157410" end="157440" type="r"></ph><ph start="157440" end="157520" type="i:"></ph><ph start="157520" end="157730" type="@U"></ph><ph start="157730" end="157830" type="p"></ph><ph start="157830" end="157880" type="V"></ph><ph start="157880" end="157970" type="n"></ph><ph start="157970" end="158020" type="d"></ph></n></t> <t>until<n pronunciation="until" start="158080" end="158420"><ph start="158020" end="158130" type="?"></ph><ph start="158130" end="158180" type="V"></ph><ph start="158180" end="158230" type="n"></ph><ph start="158230" end="158290" type="t"></ph><ph start="158290" end="158350" type="I"></ph><ph start="158350" end="158430" type="l"></ph></n></t> <t>2002<n pronunciation="two" start="158420" end="158550"><ph start="158430" end="158500" type="t"></ph><ph start="158500" end="158530" type="u"></ph></n><n pronunciation="thousand" start="158550" end="159080"><ph start="158530" end="158640" type="T"></ph><ph start="158640" end="158810" type="aU"></ph><ph start="158810" end="158880" type="z"></ph><ph start="158880" end="158910" type="V"></ph><ph start="158910" end="159060" type="n"></ph></n><n pronunciation="two" start="159080" end="159440"><ph start="159130" end="159220" type="t"></ph><ph start="159220" end="159410" type="u"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>Frunzensky<n pronunciation="Frunzensky" start="160840" end="161440" /></t> <t>radius<n pronunciation="radius" start="161440" end="161940" /></t> <t>was<n pronunciation="was" start="161940" end="162100" /></t> <t>completed<n pronunciation="completed" start="162100" end="162820" /></t> <t>in<n pronunciation="in" /></t> <t>1964<n pronunciation="nineteen" /><n pronunciation="sixty" start="163260" end="163640" /><n pronunciation="four" start="163640" end="164070" /></t> <t>upon<n pronunciation="upon" start="164610" end="165040" /></t> <t>the<n pronunciation="the" /></t> <t>last<n pronunciation="last" start="165040" end="165350" /></t> <t>extension<n pronunciation="extension" start="165350" end="165950" /></t> <t>into<n pronunciation="into" start="165950" end="166190" /></t> <t>the<n pronunciation="the" start="166190" end="166310" /></t> <t>new<n pronunciation="new" start="166310" end="166510" /></t> <t>bedroom<n pronunciation="bedroom" start="166510" end="166860" /></t> <t>communities<n pronunciation="communities" start="166860" end="167690" /></t> <t>along<n pronunciation="along" /></t> <t>the<n pronunciation="the" /></t> <t>Vernadsky<n pronunciation="Vernadsky" /></t> <t>Avenue<n pronunciation="Avenue" /></t> <t>of<n pronunciation="of" /></t> <t>southwestern<n pronunciation="southwestern" /></t> <t>Moscow<n pronunciation="Moscow" /></t><t>.</t></s></p>
+<p><s><t>At<n pronunciation="At" /></t> <t>the<n pronunciation="the" /></t> <t>opposite<n pronunciation="opposite" /></t> <t>end<n pronunciation="end" /></t><t>,</t> <t>there<n pronunciation="there" /></t> <t>were<n pronunciation="were" /></t> <t>two<n pronunciation="two" /></t> <t>extensions<n pronunciation="extensions" /></t><t>:</t> <t>one<n pronunciation="one" /></t> <t>in<n pronunciation="in" /></t> <t>1965<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="five" /></t> <t>across<n pronunciation="across" /></t> <t>the<n pronunciation="the" /></t> <t>Yauza<n pronunciation="Yauza" /></t> <t>River<n pronunciation="River" /></t> <t>(</t><t>also<n pronunciation="also" /></t> <t>via<n pronunciation="via" /></t> <t>an<n pronunciation="an" /></t> <t>open<n pronunciation="open" /></t> <t>bridge<n pronunciation="bridge" start="179340" end="179750" /></t><t>)</t> <t>to<n pronunciation="to" start="180040" end="180190" /></t> <t>Preobrazhenskaya<n pronunciation="Preobrazhenskaya" start="180190" end="181040" /></t> <t>Square<n pronunciation="Square" start="181040" end="181560" /></t><t>,</t> <t>and<n pronunciation="and" start="181980" end="182290" /></t> <t>another<n pronunciation="another" start="182370" end="182950" /></t> <t>in<n pronunciation="in" start="182980" end="183150" /></t> <t>1990<n pronunciation="1990" start="183760" end="183900" /></t> <t>into<n pronunciation="into" start="184240" end="184500" /></t> <t>the<n pronunciation="the" start="184500" end="184620" /></t> <t>Bogorodskoye<n pronunciation="Bogorodskoye" start="184620" end="185270" /></t> <t>district<n pronunciation="district" start="185270" end="185900" /></t><t>.</t></s></p>
+<section level="3"><sectiontitle><t>Recent<n pronunciation="Recent" start="186740" end="187030"><ph start="186920" end="186950" type="r"></ph><ph start="186950" end="187000" type="i:"></ph><ph start="187000" end="187680" type="?"></ph><ph start="187680" end="187790" type="I"></ph><ph start="187790" end="187920" type="s"></ph><ph start="187920" end="188160" type="V"></ph><ph start="188160" end="188210" type="n"></ph></n></t> <t>developments<n pronunciation="developments" start="189160" end="189850"><ph start="188860" end="188890" type="d"></ph><ph start="188890" end="188990" type="I"></ph><ph start="188990" end="189080" type="v"></ph><ph start="189080" end="189200" type="E"></ph><ph start="189200" end="189310" type="l"></ph><ph start="189310" end="189470" type="V"></ph><ph start="189470" end="189540" type="p"></ph><ph start="189540" end="189570" type="m"></ph><ph start="189570" end="189650" type="V"></ph><ph start="189650" end="189680" type="n"></ph><ph start="189680" end="189710" type="t"></ph><ph start="189710" end="189810" type="s"></ph></n></t> <t>and<n pronunciation="and" start="189850" end="190070"><ph start="189880" end="189970" type="{"></ph><ph start="189970" end="190010" type="n"></ph><ph start="190010" end="190060" type="d"></ph></n></t> <t>future<n pronunciation="future" start="190070" end="190440"><ph start="190060" end="190180" type="f"></ph><ph start="190180" end="190230" type="j"></ph><ph start="190230" end="190280" type="u"></ph><ph start="190280" end="190310" type="T"></ph><ph start="190310" end="190400" type="S"></ph><ph start="190400" end="190440" type="3`"></ph></n></t> <t>plans<n pronunciation="plans" start="190440" end="191080"><ph start="190530" end="190610" type="p"></ph><ph start="190610" end="190640" type="l"></ph><ph start="190640" end="190810" type="{"></ph><ph start="190810" end="190900" type="n"></ph><ph start="190900" end="191070" type="z"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Presently<n pronunciation="Presently" start="191210" end="193100"><ph start="192430" end="192570" type="p"></ph><ph start="192570" end="192600" type="r"></ph><ph start="192600" end="192690" type="E"></ph><ph start="192690" end="192750" type="z"></ph><ph start="192750" end="192810" type="V"></ph><ph start="192810" end="192860" type="n"></ph><ph start="192860" end="192980" type="t"></ph><ph start="192980" end="193010" type="l"></ph><ph start="193010" end="193100" type="i:"></ph></n></t> <t>the<n pronunciation="the" start="193100" end="193240"><ph start="193100" end="193190" type="D"></ph><ph start="193190" end="193220" type="V"></ph></n></t> <t>line<n pronunciation="line" start="193240" end="193570"><ph start="193220" end="193320" type="l"></ph><ph start="193320" end="193540" type="aI"></ph><ph start="193540" end="193580" type="n"></ph></n></t> <t>has<n pronunciation="has" start="193570" end="193810"><ph start="193580" end="193680" type="h"></ph><ph start="193680" end="193750" type="{"></ph><ph start="193750" end="193830" type="z"></ph></n></t> <t>the<n pronunciation="the" start="193810" end="193960"><ph start="193830" end="193880" type="D"></ph><ph start="193880" end="193910" type="V"></ph></n></t> <t>oldest<n pronunciation="oldest" start="193960" end="194320"><ph start="193910" end="194020" type="?"></ph><ph start="194020" end="194060" type="@U"></ph><ph start="194060" end="194160" type="l"></ph><ph start="194160" end="194190" type="d"></ph><ph start="194190" end="194250" type="V"></ph><ph start="194250" end="194310" type="s"></ph></n></t> <t>structures<n pronunciation="structures" start="194320" end="194910"><ph start="194310" end="194390" type="s"></ph><ph start="194390" end="194480" type="t"></ph><ph start="194480" end="194510" type="r"></ph><ph start="194510" end="194550" type="V"></ph><ph start="194550" end="194600" type="k"></ph><ph start="194600" end="194640" type="T"></ph><ph start="194640" end="194750" type="S"></ph><ph start="194750" end="194820" type="3`"></ph><ph start="194820" end="194920" type="z"></ph></n></t> <t>in<n pronunciation="in" start="194910" end="195030"><ph start="194920" end="194960" type="I"></ph><ph start="194960" end="195020" type="n"></ph></n></t> <t>operation<n pronunciation="operation" start="195030" end="195840"><ph start="195020" end="195070" type="A:"></ph><ph start="195070" end="195230" type="p"></ph><ph start="195230" end="195310" type="3`"></ph><ph start="195310" end="195460" type="eI"></ph><ph start="195460" end="195630" type="S"></ph><ph start="195630" end="195690" type="V"></ph><ph start="195690" end="195800" type="n"></ph></n></t><t>,</t> <t>and<n pronunciation="and" start="195900" end="196100"><ph start="195930" end="195990" type="{"></ph><ph start="195990" end="196110" type="n"></ph></n></t> <t>thus<n pronunciation="thus" start="196100" end="196400"><ph start="196110" end="196150" type="D"></ph><ph start="196150" end="196260" type="V"></ph><ph start="196260" end="196350" type="s"></ph></n></t> <t>several<n pronunciation="several"><ph start="196350" end="196400" type="s"></ph><ph start="196400" end="196490" type="E"></ph><ph start="196490" end="196520" type="v"></ph><ph start="196520" end="196590" type="3`"></ph><ph start="196590" end="196620" type="V"></ph><ph start="196620" end="196650" type="l"></ph></n></t> <t>renovations<n pronunciation="renovations" start="196630" end="197380"><ph start="196650" end="196680" type="r"></ph><ph start="196680" end="196740" type="E"></ph><ph start="196740" end="196810" type="n"></ph><ph start="196810" end="196850" type="V"></ph><ph start="196850" end="196940" type="v"></ph><ph start="196940" end="197080" type="eI"></ph><ph start="197080" end="197200" type="S"></ph><ph start="197200" end="197250" type="V"></ph><ph start="197250" end="197280" type="n"></ph><ph start="197280" end="197340" type="z"></ph></n></t> <t>have<n pronunciation="have"><ph start="197340" end="197430" type="h"></ph><ph start="197430" end="197490" type="eI"></ph><ph start="197490" end="197530" type="v"></ph></n></t> <t>been<n pronunciation="been"><ph start="197530" end="197570" type="b"></ph><ph start="197570" end="197610" type="I"></ph><ph start="197610" end="197650" type="n"></ph></n></t> <t>carried<n pronunciation="carried" start="197620" end="198100"><ph start="197740" end="197850" type="k"></ph><ph start="197850" end="197880" type="E"></ph><ph start="197880" end="197940" type="r"></ph><ph start="197940" end="198020" type="i:"></ph><ph start="198020" end="198080" type="d"></ph></n></t> <t>out<n pronunciation="out" start="198100" end="198310"><ph start="198080" end="198240" type="aU"></ph><ph start="198240" end="198320" type="t"></ph></n></t> <t>systematically<n pronunciation="systematically" start="198310" end="199200"><ph start="198320" end="198370" type="s"></ph><ph start="198370" end="198400" type="I"></ph><ph start="198400" end="198490" type="s"></ph><ph start="198490" end="198550" type="t"></ph><ph start="198550" end="198580" type="V"></ph><ph start="198580" end="198650" type="m"></ph><ph start="198650" end="198750" type="{"></ph><ph start="198750" end="198910" type="t"></ph><ph start="198910" end="198940" type="I"></ph><ph start="198940" end="199000" type="k"></ph><ph start="199000" end="199120" type="l"></ph><ph start="199120" end="199170" type="i:"></ph></n></t><t>.</t></s> <s><t>Recent<n pronunciation="Recent" start="199910" end="200300" /></t> <t>changes<n pronunciation="changes" start="200300" end="200830" /></t> <t>include<n pronunciation="include" start="200830" end="201280" /></t> <t>a<n pronunciation="a" /></t> <t>second<n pronunciation="second" start="201450" end="201840" /></t> <t>entrance<n pronunciation="entrance" /></t> <t>to<n pronunciation="to" start="202230" end="202350" /></t> <t>Kropotkinskaya<n pronunciation="Kropotkinskaya" start="202350" end="203210" /></t> <t>in<n pronunciation="in" start="203210" end="203360" /></t> <t>1998<n pronunciation="nineteen" start="203360" end="203780" /><n pronunciation="ninety" /><n pronunciation="eight" start="204110" end="204540" /></t><t>,</t> <t>major<n pronunciation="major" start="204920" end="205320" /></t> <t>lighting<n pronunciation="lighting" start="205320" end="205700" /></t> <t>enhancements<n pronunciation="enhancements" start="205700" end="206360" /></t> <t>to<n pronunciation="to" start="206360" end="206530" /></t> <t>Okhotny<n pronunciation="Okhotny" start="206530" end="206920" /></t> <t>Ryad<n pronunciation="Ryad" /></t> <t>and<n pronunciation="and" start="207360" end="207730" /></t> <t>Kropotkinskaya<n pronunciation="Kropotkinskaya" start="207910" end="208790" /></t><t>.</t></s></p>
+<p><s><t>Extensions<n pronunciation="Extensions" start="209810" end="210600"><ph start="209850" end="209890" type="I"></ph><ph start="209890" end="209950" type="k"></ph><ph start="209950" end="209990" type="s"></ph><ph start="209990" end="210090" type="t"></ph><ph start="210090" end="210200" type="E"></ph><ph start="210200" end="210260" type="n"></ph><ph start="210260" end="210370" type="S"></ph><ph start="210370" end="210420" type="V"></ph><ph start="210420" end="210470" type="n"></ph><ph start="210470" end="210600" type="z"></ph></n></t> <t>are<n pronunciation="are"><ph start="210600" end="210660" type="A:"></ph><ph start="210660" end="210690" type="r"></ph></n></t> <t>planned<n pronunciation="planned" start="210770" end="210800"><ph start="210800" end="210850" type="p"></ph><ph start="210850" end="210900" type="l"></ph><ph start="210900" end="211100" type="{"></ph><ph start="211100" end="211140" type="n"></ph><ph start="211140" end="211270" type="d"></ph></n></t> <t>at<n pronunciation="at" start="210800" end="211240"><ph start="211270" end="211390" type="{"></ph><ph start="211390" end="211450" type="t"></ph></n></t> <t>both<n pronunciation="both" start="211240" end="211440"><ph start="211450" end="211490" type="b"></ph><ph start="211490" end="211640" type="@U"></ph><ph start="211640" end="211730" type="T"></ph></n></t> <t>ends<n pronunciation="ends" start="211440" end="211770"><ph start="211810" end="211970" type="E"></ph><ph start="211970" end="212000" type="n"></ph><ph start="212000" end="212110" type="z"></ph></n></t> <t>of<n pronunciation="of" start="211770" end="212100"><ph start="212110" end="212170" type="V"></ph><ph start="212170" end="212260" type="v"></ph></n></t> <t>the<n pronunciation="the" start="212100" end="212240"><ph start="212260" end="212290" type="D"></ph><ph start="212290" end="212320" type="V"></ph></n></t> <t>line<n pronunciation="line" start="212240" end="212340"><ph start="212320" end="212410" type="l"></ph><ph start="212410" end="212570" type="aI"></ph><ph start="212570" end="212600" type="n"></ph></n></t><t>.</t></s> <s><t>In<n pronunciation="In" start="212890" end="213370"><ph start="212620" end="212690" type="I"></ph><ph start="212690" end="212750" type="n"></ph></n></t> <t>the<n pronunciation="the" start="213520" end="213610"><ph start="213440" end="213570" type="D"></ph><ph start="213570" end="213600" type="V"></ph></n></t> <t>south<n pronunciation="south" start="213610" end="214180"><ph start="213600" end="213730" type="s"></ph><ph start="213730" end="213980" type="aU"></ph><ph start="213980" end="214060" type="T"></ph></n></t><t>,</t> <t>works<n pronunciation="works" start="214330" end="214970"><ph start="214520" end="214720" type="w"></ph><ph start="214720" end="214770" type="3`"></ph><ph start="214770" end="214800" type="k"></ph><ph start="214800" end="214940" type="s"></ph></n></t> <t>on<n pronunciation="on" start="214970" end="215120"><ph start="214940" end="215020" type="?"></ph><ph start="215020" end="215090" type="O:"></ph><ph start="215090" end="215120" type="n"></ph></n></t> <t>three<n pronunciation="three" start="215120" end="215360"><ph start="215120" end="215280" type="T"></ph><ph start="215280" end="215310" type="r"></ph><ph start="215310" end="215370" type="i:"></ph></n></t> <t>stations<n pronunciation="stations" start="215360" end="215880"><ph start="215370" end="215450" type="s"></ph><ph start="215450" end="215530" type="t"></ph><ph start="215530" end="215650" type="eI"></ph><ph start="215650" end="215770" type="S"></ph><ph start="215770" end="215800" type="V"></ph><ph start="215800" end="215830" type="n"></ph><ph start="215830" end="215890" type="z"></ph></n></t> <t>began<n pronunciation="began" start="215880" end="216230"><ph start="215890" end="215920" type="b"></ph><ph start="215920" end="215980" type="I"></ph><ph start="215980" end="216080" type="g"></ph><ph start="216080" end="216170" type="{"></ph><ph start="216170" end="216220" type="n"></ph></n></t> <t>in<n pronunciation="in" start="216230" end="216380"><ph start="216220" end="216290" type="I"></ph><ph start="216290" end="216380" type="n"></ph></n></t> <t>early<n pronunciation="early" start="216410" end="216750"><ph start="216380" end="216470" type="?"></ph><ph start="216470" end="216510" type="3`"></ph><ph start="216510" end="216670" type="l"></ph><ph start="216670" end="216730" type="i:"></ph></n></t> <t>2012<n pronunciation="twenty" start="216820" end="216850"><ph start="216860" end="217050" type="t"></ph><ph start="217050" end="217080" type="w"></ph><ph start="217080" end="217200" type="E"></ph><ph start="217200" end="217230" type="n"></ph><ph start="217230" end="217290" type="t"></ph><ph start="217290" end="217330" type="i:"></ph></n><n pronunciation="twelve" start="217420" end="217820"><ph start="217450" end="217520" type="t"></ph><ph start="217520" end="217560" type="w"></ph><ph start="217560" end="217680" type="V"></ph><ph start="217680" end="217780" type="l"></ph><ph start="217780" end="217810" type="v"></ph></n></t><t>,</t> <t>with<n pronunciation="with"><ph start="218220" end="218250" type="w"></ph><ph start="218250" end="218280" type="I"></ph><ph start="218280" end="218330" type="T"></ph></n></t> <t>Troparyovo<n pronunciation="Troparyovo" start="217970" end="219160"><ph start="218330" end="218470" type="t"></ph><ph start="218470" end="218500" type="r"></ph><ph start="218500" end="218540" type="@U"></ph><ph start="218540" end="218640" type="p"></ph><ph start="218640" end="218670" type="A:"></ph><ph start="218670" end="218820" type="r"></ph><ph start="218820" end="218850" type="j"></ph><ph start="218850" end="218910" type="@U"></ph><ph start="218910" end="218980" type="v"></ph><ph start="218980" end="219120" type="@U"></ph></n></t> <t>opening<n pronunciation="opening" start="219540" end="220050"><ph start="219570" end="219600" type="?"></ph><ph start="219600" end="219730" type="@U"></ph><ph start="219730" end="219800" type="p"></ph><ph start="219800" end="219830" type="V"></ph><ph start="219830" end="219880" type="n"></ph><ph start="219880" end="219960" type="i:"></ph><ph start="219960" end="220045" type="n"></ph></n></t> <t>in<n pronunciation="in" start="220050" end="220150"><ph start="220045" end="220090" type="I"></ph><ph start="220090" end="220160" type="n"></ph></n></t> <t>December<n pronunciation="December" start="220150" end="220580"><ph start="220160" end="220190" type="d"></ph><ph start="220190" end="220220" type="I"></ph><ph start="220220" end="220360" type="s"></ph><ph start="220360" end="220440" type="E"></ph><ph start="220440" end="220510" type="m"></ph><ph start="220510" end="220540" type="b"></ph><ph start="220540" end="220580" type="3`"></ph></n></t> <t>2014<n pronunciation="twenty" start="220600" end="220630"><ph start="220580" end="220820" type="t"></ph><ph start="220820" end="220850" type="w"></ph><ph start="220850" end="220970" type="E"></ph><ph start="220970" end="221000" type="n"></ph><ph start="221000" end="221050" type="t"></ph><ph start="221050" end="221090" type="i:"></ph></n><n pronunciation="fourteen" start="221110" end="221720"><ph start="221090" end="221220" type="f"></ph><ph start="221220" end="221270" type="O:"></ph><ph start="221270" end="221300" type="r"></ph><ph start="221300" end="221440" type="t"></ph><ph start="221440" end="221610" type="i:"></ph><ph start="221610" end="221640" type="n"></ph></n></t><t>.</t></s> <s><t>Rumyantsevo<n pronunciation="Rumyantsevo" start="222580" end="223420" /></t> <t>and<n pronunciation="and" start="223520" end="223740" /></t> <t>Salaryevo<n pronunciation="Salaryevo" start="223740" end="224540" /></t> <t>are<n pronunciation="are" /></t> <t>scheduled<n pronunciation="scheduled" start="224640" end="225170" /></t> <t>to<n pronunciation="to" start="225170" end="225340" /></t> <t>be<n pronunciation="be" /></t> <t>opened<n pronunciation="opened" start="225340" end="225790" /></t> <t>in<n pronunciation="in" start="225790" end="225920" /></t> <t>the<n pronunciation="the" start="225920" end="226070" /></t> <t>first<n pronunciation="first" start="226070" end="226640" /></t> <t>half<n pronunciation="half" start="227060" end="227100" /></t> <t>of<n pronunciation="of" start="227100" end="227270" /></t> <t>2015<n pronunciation="twenty" /><n pronunciation="fifteen" start="227590" end="228130" /></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored></p>
+<p><s><t>Extensions<n pronunciation="Extensions" start="230590" end="231370" /></t> <t>in<n pronunciation="in" start="231370" end="231530" /></t> <t>the<n pronunciation="the" start="231530" end="231640" /></t> <t>north<n pronunciation="north" start="231640" end="232100" /></t> <t>are<n pronunciation="are" /></t> <t>hampered<n pronunciation="hampered" start="232370" end="233090" /></t> <t>by<n pronunciation="by" start="233090" end="233240" /></t> <t>the<n pronunciation="the" start="233240" end="233350" /></t> <t>position<n pronunciation="position" start="233350" end="233880" /></t> <t>of<n pronunciation="of" start="233880" end="234030" /></t> <t>Cherkizovskaya<n pronunciation="Cherkizovskaya" start="234030" end="234790" /></t> <t>and<n pronunciation="and" start="234790" end="234950" /></t> <t>Bulvar<n pronunciation="Bulvar" start="234950" end="235370" /></t> <t>Rokossovskogo<n pronunciation="Rokossovskogo" start="235390" end="236100" /></t> <t>which<n pronunciation="which" start="236470" end="236690" /></t> <t>were<n pronunciation="were" start="236690" end="236860" /></t> <t>built<n pronunciation="built" start="236860" end="237210" /></t> <t>so<n pronunciation="so" start="237210" end="237490" /></t> <t>as<n pronunciation="as" start="237490" end="237630" /></t> <t>to<n pronunciation="to" start="237630" end="237750" /></t> <t>become<n pronunciation="become" start="237750" end="238120" /></t> <t>a<n pronunciation="a" start="238120" end="238200" /></t> <t>part<n pronunciation="part" start="238200" end="238700" /></t> <t>of<n pronunciation="of" start="238700" end="238830" /></t> <t>the<n pronunciation="the" start="238830" end="238930" /></t> <t>projected<n pronunciation="projected" start="238930" end="239460" /></t> <t>second<n pronunciation="second" start="239460" end="239870" /></t> <t>ring<n pronunciation="ring" start="239870" end="240070" /></t> <t>line<n pronunciation="line" start="240070" end="240510" /></t> <t>that<n pronunciation="that" start="240860" end="241040" /></t> <t>has<n pronunciation="has" start="241040" end="241240" /></t> <t>been<n pronunciation="been" start="241240" end="241420" /></t> <t>in<n pronunciation="in" start="241420" end="241560" /></t> <t>planning<n pronunciation="planning" start="241560" end="242130" /></t> <t>since<n pronunciation="since" /></t> <t>the<n pronunciation="the" /></t> <t>1960s<n pronunciation="one" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="sixties" start="243300" end="244050" /></t><t>.</t></s> <s><t>Cherkizovskaya's<n pronunciation="Cherkizovskaya's" start="244360" end="245470" /></t> <t>tunnels<n pronunciation="tunnels" start="245470" end="246040" /></t> <t>have<n pronunciation="have" /></t> <t>provisions<n pronunciation="provisions" start="246340" end="247210" /></t> <t>for<n pronunciation="for" start="247500" end="247990" /></t> <t>a<n pronunciation="a" start="248040" end="248130" /></t> <t>second<n pronunciation="second" start="248130" end="248560" /></t> <t>perpendicular<n pronunciation="perpendicular" start="248560" end="249260" /></t> <t>station<n pronunciation="station" start="249260" end="249880" /></t><t>,</t> <t>that<n pronunciation="that" start="250310" end="250630" /></t> <t>would<n pronunciation="would" start="250630" end="250830" /></t> <t>allow<n pronunciation="allow" start="250830" end="251160" /></t> <t>the<n pronunciation="the" start="251260" end="251350" /></t> <t>line<n pronunciation="line" start="251350" end="251640" /></t> <t>to<n pronunciation="to" start="251640" end="251760" /></t> <t>continue<n pronunciation="continue" start="251760" end="252230" /></t> <t>eastwards<n pronunciation="eastwards" start="252300" end="253190" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" start="253260" end="253350" /></t> <t>district<n pronunciation="district" start="253350" end="253720" /></t> <t>of<n pronunciation="of" /></t> <t>Golyanovo<n pronunciation="Golyanovo" start="253860" end="254480" /></t> <t>and<n pronunciation="and" start="254850" end="255290" /></t> <t>meet<n pronunciation="meet" start="255290" end="255690" /></t> <t>the<n pronunciation="the" start="255940" end="256160" /></t> <t>Arbatsko-Pokrovskaya<n pronunciation="Arbatsko" start="256160" end="256640" /><n pronunciation="Pokrovskaya" start="256640" end="257220" /></t> <t>Line<n pronunciation="Line" /></t> <t>at<n pronunciation="at" /></t> <t>Shchyolkovskaya<n pronunciation="Shchyolkovskaya" /></t><t>.</t></s> <s><t>Such<n pronunciation="Such" /></t> <t>an<n pronunciation="an" /></t> <t>extension<n pronunciation="extension" start="259320" end="259850" /></t><t>,</t> <t>however<n pronunciation="however" start="259850" end="260340" /></t><t>,</t> <t>is<n pronunciation="is" start="260440" end="260670" /></t> <t>not<n pronunciation="not" start="260670" end="260890" /></t> <t>scheduled<n pronunciation="scheduled" start="260890" end="261650" /></t> <t>in<n pronunciation="in" start="261650" end="261800" /></t> <t>the<n pronunciation="the" start="261800" end="261910" /></t> <t>current<n pronunciation="current" start="261910" end="262400" /></t> <t>official<n pronunciation="official" start="262400" end="262870" /></t> <t>development<n pronunciation="development" start="262870" end="263510" /></t> <t>program<n pronunciation="program" start="263510" end="264020" /></t><t>.</t></s></p>
+</sectioncontent></section><section level="3"><sectiontitle><t>Timeline<n pronunciation="Timeline" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<ignored><s><t>Segment<n pronunciation="Segment" /></t>
+<t>Date<n pronunciation="Date" /></t> <t>opened<n pronunciation="opened" /></t>
+<t>Length<n pronunciation="Length" /></t></s>
+
+
+<s><t>Sokolniki<n pronunciation="Sokolniki" /></t> <t>–<n pronunciation="–" /></t> <t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t>
+<t>15<n pronunciation="fifteen" /></t> <t>May<n pronunciation="May" /></t> <t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t>
+<t>8.4<n pronunciation="eight" /><n pronunciation="point" /><n pronunciation="four" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t> <t>–<n pronunciation="–" /></t> <t>Sportivnaya<n pronunciation="Sportivnaya" /></t>
+<t>1<n pronunciation="one" /></t> <t>May<n pronunciation="May" /></t> <t>1957<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="seven" /></t>
+<t>2.5<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Sportivnaya<n pronunciation="Sportivnaya" /></t> <t>–<n pronunciation="–" /></t> <t>Universitet<n pronunciation="Universitet" /></t>
+<t>1<n pronunciation="one" /></t> <t>December<n pronunciation="December" /></t> <t>1959<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="nine" /></t>
+<t>4.5<n pronunciation="four" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Universitet<n pronunciation="Universitet" /></t> <t>–<n pronunciation="–" /></t> <t>Yugo-Zapadnaya<n pronunciation="Yugo" /><n pronunciation="Zapadnaya" /></t>
+<t>30<n pronunciation="thirty" /></t> <t>December<n pronunciation="December" /></t> <t>1963<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="three" /></t>
+<t>4.5<n pronunciation="four" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Sokolniki<n pronunciation="Sokolniki" /></t> <t>–<n pronunciation="–" /></t> <t>Preobrazhenskaya<n pronunciation="Preobrazhenskaya" /></t> <t>Ploshchad<n pronunciation="Ploshchad" /></t>
+<t>31<n pronunciation="thirty" /><n pronunciation="one" /></t> <t>December<n pronunciation="December" /></t> <t>1965<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="five" /></t>
+<t>2.5<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="five" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Preobrazhenskaya<n pronunciation="Preobrazhenskaya" /></t> <t>Ploshchad<n pronunciation="Ploshchad" /></t> <t>–<n pronunciation="–" /></t> <t>Bulvar<n pronunciation="Bulvar" /></t> <t>Rokossovskogo<n pronunciation="Rokossovskogo" /></t>
+<t>3<n pronunciation="three" /></t> <t>August<n pronunciation="August" /></t> <t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t>
+<t>3.8<n pronunciation="three" /><n pronunciation="point" /><n pronunciation="eight" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Vorobyovy<n pronunciation="Vorobyovy" /></t> <t>Gory<n pronunciation="Gory" /></t> <t>(</t><t>after<n pronunciation="after" /></t> <t>reconstruction<n pronunciation="reconstruction" /></t><t>)</t>
+<t>14<n pronunciation="14" /></t> <t>December<n pronunciation="December" /></t> <t>2002<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="two" /></t>
+<t>N/A<n pronunciation="N" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="_a" /></t></s>
+
+
+<s><t>Yugo-Zapadnaya<n pronunciation="Yugo" /><n pronunciation="Zapadnaya" /></t> <t>–<n pronunciation="–" /></t> <t>Troparyovo<n pronunciation="Troparyovo" /></t>
+<t>8<n pronunciation="eight" /></t> <t>December<n pronunciation="December" /></t> <t>2014<n pronunciation="twenty" /><n pronunciation="fourteen" /></t>
+<t>2.1<n pronunciation="two" /><n pronunciation="point" /><n pronunciation="one" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Total<n pronunciation="Total" /></t>
+<t>20<n pronunciation="twenty" /></t> <t>Stations<n pronunciation="Stations" /></t>
+<t>28.2<n pronunciation="twenty" /><n pronunciation="eight" /><n pronunciation="point" /><n pronunciation="two" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t></s></ignored>
+</sectioncontent></section>
+
+<section level="3"><sectiontitle><t>Name<n pronunciation="Name" /></t> <t>changes<n pronunciation="changes" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<ignored><s><t>Station<n pronunciation="Station" /></t>
+<t>Previous<n pronunciation="Previous" /></t> <t>name<n pronunciation="name" /></t><t>(</t><t>s<n pronunciation="s" /></t><t>)</t>
+<t>Years<n pronunciation="Years" /></t></s>
+
+
+<s><t>Krasnye<n pronunciation="Krasnye" /></t> <t>Vorota<n pronunciation="Vorota" /></t>
+<t>Krasniye<n pronunciation="Krasniye" /></t> <t>Vorota<n pronunciation="Vorota" /></t>
+<t>1935<n pronunciation="1935" /></t><t>–<n pronunciation="–" /></t><t>1962<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="two" /></t></s>
+
+
+<s><t>Lermontovskaya<n pronunciation="Lermontovskaya" /></t>
+<t>1962<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="two" /></t><t>–<n pronunciation="–" /></t><t>1986<n pronunciation="nineteen" /><n pronunciation="eighty" /><n pronunciation="six" /></t></s>
+
+
+<s><t>Chistye<n pronunciation="Chistye" /></t> <t>Prudy<n pronunciation="Prudy" /></t>
+<t>Kirovskaya<n pronunciation="Kirovskaya" /></t>
+<t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t></s>
+
+
+<s><t>Lubyanka<n pronunciation="Lubyanka" /></t>
+<t>Dzerzhinskaya<n pronunciation="Dzerzhinskaya" /></t>
+<t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t></s>
+
+
+<s><t>Okhotny<n pronunciation="Okhotny" /></t> <t>Ryad<n pronunciation="Ryad" /></t>
+<t>Okhotny<n pronunciation="Okhotny" /></t> <t>Ryad<n pronunciation="Ryad" /></t>
+<t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1955<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="five" /></t></s>
+
+
+<s><t>Imeni<n pronunciation="Imeni" /></t> <t>L.M.<n pronunciation="L" /><n pronunciation="M" /></t> <t>Kaganovicha<n pronunciation="Kaganovicha" /></t>
+<t>1955<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1957<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="seven" /></t></s>
+
+
+<s><t>Okhotny<n pronunciation="Okhotny" /></t> <t>Ryad<n pronunciation="Ryad" /></t>
+<t>1957<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="seven" /></t><t>–<n pronunciation="–" /></t><t>1965<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="five" /></t></s>
+
+
+<s><t>Prospekt<n pronunciation="Prospekt" /></t> <t>Marksa<n pronunciation="Marksa" /></t>
+<t>1965<n pronunciation="nineteen" /><n pronunciation="sixty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t></s>
+
+
+<s><t>Kropotkinskaya<n pronunciation="Kropotkinskaya" /></t>
+<t>Dvorets<n pronunciation="Dvorets" /></t> <t>Sovetov<n pronunciation="Sovetov" /></t>
+<t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1957<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="seven" /></t></s>
+
+
+<s><t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t>
+<t>Tsentralny<n pronunciation="Tsentralny" /></t> <t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t> <t>i<n pronunciation="i" /></t> <t>Otdykha<n pronunciation="Otdykha" /></t> <t>Imeni<n pronunciation="Imeni" /></t> <t>Gorkogo<n pronunciation="Gorkogo" /></t>
+<t>1935<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1980<n pronunciation="nineteen" /><n pronunciation="eighty" /></t></s>
+
+
+<s><t>Vorobyovy<n pronunciation="Vorobyovy" /></t> <t>Gory<n pronunciation="Gory" /></t>
+<t>Leninskie<n pronunciation="Leninskie" /></t> <t>Gory<n pronunciation="Gory" /></t>
+<t>1957<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="seven" /></t><t>–<n pronunciation="–" /></t><t>2002<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="two" /></t></s>
+
+
+<s><t>Bulvar<n pronunciation="Bulvar" /></t> <t>Rokossovskogo<n pronunciation="Rokossovskogo" /></t>
+<t>Ulitsa<n pronunciation="Ulitsa" /></t> <t>Podbelskogo<n pronunciation="Podbelskogo" /></t>
+<t>1990<n pronunciation="nineteen" /><n pronunciation="ninety" /></t><t>–<n pronunciation="–" /></t><t>2014<n pronunciation="twenty" /><n pronunciation="fourteen" /></t></s></ignored>
+</sectioncontent></section></sectioncontent></section>
+
+<section level="2"><sectiontitle><t>Transfers<n pronunciation="Transfers" start="266740" end="267440"><ph start="266600" end="266890" type="t"></ph><ph start="266890" end="266920" type="r"></ph><ph start="266920" end="266950" type="{"></ph><ph start="266950" end="267000" type="n"></ph><ph start="267000" end="267060" type="s"></ph><ph start="267060" end="267160" type="f"></ph><ph start="267160" end="267330" type="3`"></ph><ph start="267330" end="267360" type="z"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<ignored><s><t>Transfer<n pronunciation="Transfer" /></t> <t>to<n pronunciation="to" /></t>
+<t>At<n pronunciation="At" /></t></s>
+
+
+ <s><t>2<n pronunciation="two" /></t>  <t>Zamoskvoretskaya<n pronunciation="Zamoskvoretskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Okhotny<n pronunciation="Okhotny" /></t> <t>Ryad<n pronunciation="Ryad" /></t></s>
+
+
+ <s><t>3<n pronunciation="three" /></t>  <t>Arbatsko-Pokrovskaya<n pronunciation="Arbatsko" /><n pronunciation="Pokrovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Biblioteka<n pronunciation="Biblioteka" /></t> <t>Imeni<n pronunciation="Imeni" /></t> <t>Lenina<n pronunciation="Lenina" /></t></s>
+
+
+ <s><t>4<n pronunciation="four" /></t>  <t>Filyovskaya<n pronunciation="Filyovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Biblioteka<n pronunciation="Biblioteka" /></t> <t>Imeni<n pronunciation="Imeni" /></t> <t>Lenina<n pronunciation="Lenina" /></t></s>
+
+
+ <s><t>5<n pronunciation="five" /></t>  <t>Koltsevaya<n pronunciation="Koltsevaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Komsomolskaya<n pronunciation="Komsomolskaya" /></t><t>,</t> <t>Park<n pronunciation="Park" /></t> <t>Kultury<n pronunciation="Kultury" /></t></s>
+
+
+ <s><t>6<n pronunciation="six" /></t>  <t>Kaluzhsko-Rizhskaya<n pronunciation="Kaluzhsko" /><n pronunciation="Rizhskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Chistye<n pronunciation="Chistye" /></t> <t>Prudy<n pronunciation="Prudy" /></t></s>
+
+
+ <s><t>7<n pronunciation="seven" /></t>  <t>Tagansko-Krasnopresnenskaya<n pronunciation="Tagansko" /><n pronunciation="Krasnopresnenskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Lubyanka<n pronunciation="Lubyanka" /></t></s>
+
+
+ <s><t>9<n pronunciation="nine" /></t>  <t>Serpukhovsko-Timiryazevskaya<n pronunciation="Serpukhovsko" /><n pronunciation="Timiryazevskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Biblioteka<n pronunciation="Biblioteka" /></t> <t>Imeni<n pronunciation="Imeni" /></t> <t>Lenina<n pronunciation="Lenina" /></t></s>
+
+
+ <s><t>10<n pronunciation="ten" /></t>  <t>Lyublinsko-Dmitrovskaya<n pronunciation="Lyublinsko" /><n pronunciation="Dmitrovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+<t>Chistye<n pronunciation="Chistye" /></t> <t>Prudy<n pronunciation="Prudy" /></t></s></ignored>
+</sectioncontent></section>
+
+<section level="2"><sectiontitle><t>Rolling<n pronunciation="Rolling" start="268090" end="268470"><ph start="268110" end="268250" type="r"></ph><ph start="268250" end="268290" type="@U"></ph><ph start="268290" end="268390" type="l"></ph><ph start="268390" end="268420" type="I"></ph><ph start="268420" end="268480" type="N"></ph></n></t> <t>stock<n pronunciation="stock" start="268470" end="268960"><ph start="268480" end="268620" type="s"></ph><ph start="268620" end="268650" type="t"></ph><ph start="268650" end="268830" type="A:"></ph><ph start="268830" end="268920" type="k"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Two<n pronunciation="Two" start="271570" end="271800" /></t> <t>depots<n pronunciation="depots" start="271800" end="272490" /></t> <t>are<n pronunciation="are" /></t> <t>assigned<n pronunciation="assigned" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>line<n pronunciation="line" /></t><t>,</t> <t>the<n pronunciation="the" /></t> <t>#1<n pronunciation="hashtag" /><n pronunciation="1" /></t> <t>Severnoye<n pronunciation="Severnoye" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>#13<n pronunciation="hashtag" /><n pronunciation="13" /></t> <t>Cherkizovo<n pronunciation="Cherkizovo" /></t><t>.</t></s> <s><t>Starting<n pronunciation="Starting" /></t> <t>in<n pronunciation="in" start="278890" end="279170" /></t> <t>1997<n pronunciation="nineteen" start="279170" end="279560" /><n pronunciation="ninety" start="279560" end="279840" /><n pronunciation="seven" start="279840" end="280380" /></t> <t>both<n pronunciation="both" start="280380" end="280690" /></t> <t>depots<n pronunciation="depots" start="280690" end="281270" /></t> <t>have<n pronunciation="have" start="281350" end="281380" /></t> <t>been<n pronunciation="been" start="281740" end="281900" /></t> <t>upgrading<n pronunciation="upgrading" start="281900" end="282450" /></t> <t>to<n pronunciation="to" start="282450" end="282610" /></t> <t>the<n pronunciation="the" start="282610" end="282690" /></t> <t>new<n pronunciation="new" start="282690" end="283190" /></t> <t>81-717.5M/714.5M<n pronunciation="eight" start="283960" end="284360" /><n pronunciation="one" start="284360" end="284830" /><n pronunciation="seven" start="284830" end="285260" /><n pronunciation="hundred" /><n pronunciation="seventeen" /><n pronunciation="." /><n pronunciation="five" /><n pronunciation="M" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="seven" /><n pronunciation="hundred" /><n pronunciation="fourteen" /><n pronunciation="." /><n pronunciation="five" /><n pronunciation="M" /></t> <t>trains<n pronunciation="trains" start="289500" end="290070" /></t> <t>(</t><t>all<n pronunciation="all" start="290070" end="290200" /></t> <t>factory<n pronunciation="factory" start="290200" end="290610" /></t> <t>fresh<n pronunciation="fresh" start="290610" end="291100" /></t><t>)</t><t>.</t></s> <s><t>Currently<n pronunciation="Currently" start="292630" end="293370" /></t> <t>all<n pronunciation="all" start="293550" end="293800" /></t> <t>carriages<n pronunciation="carriages" start="293800" end="294450" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>old<n pronunciation="old" /></t> <t>EF<n pronunciation="EF" /></t><t>,</t> <t>EF1<n pronunciation="EF" /><n pronunciation="one" /></t><t>,</t> <t>Em-508<n pronunciation="Em" /><n pronunciation="five" /><n pronunciation="zero" /><n pronunciation="eight" /></t> <t>and<n pronunciation="and" /></t> <t>Em-509<n pronunciation="Em" /><n pronunciation="five" /><n pronunciation="zero" /><n pronunciation="nine" /></t> <t>have<n pronunciation="have" /></t> <t>been<n pronunciation="been" /></t> <t>retired<n pronunciation="retired" /></t><t>.</t></s></p>
+</sectioncontent></section><ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>d<n pronunciation="d" /></t> <t>e<n pronunciation="e" /></t> <t>Сокольническая<n pronunciation="Сокольническая" /></t> <t>линия<n pronunciation="линия" /></t><t>.</t></s> <s><t>Moskovsky<n pronunciation="Moskovsky" /></t> <t>Metropoliten<n pronunciation="Metropoliten" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>Russian<n pronunciation="Russian" /></t><t>)</t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>12<n pronunciation="12" /></t> <t>January<n pronunciation="January" /></t> <t>2012<n pronunciation="twenty" /><n pronunciation="twelve" /></t><t>.</t></s> 
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Перспективы<n pronunciation="Перспективы" /></t> <t>развития<n pronunciation="развития" /></t><t>"</t><t>.</t></s> <s><t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>2014-11-20<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="four" /><n pronunciation="one" /><n pronunciation="one" /><n pronunciation="two" /><n pronunciation="zero" /></t><t>.</t></s></sectioncontent></section></ignored> 
+
+
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+<sectioncontent><s><t>Listen<n pronunciation="Listen" /></t> <t>to<n pronunciation="to" /></t> <t>this<n pronunciation="this" /></t> <t>article<n pronunciation="article" /></t> <t>(</t><t>info/dl<n pronunciation="info" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="d" /><n pronunciation="l" /></t><t>)</t></s>
+
+
+
+
+
+
+
+
+
+
+
+<p></p><s><t>This<n pronunciation="This" /></t> <t>audio<n pronunciation="audio" /></t> <t>file<n pronunciation="file" /></t> <t>was<n pronunciation="was" /></t> <t>created<n pronunciation="created" /></t> <t>from<n pronunciation="from" /></t> <t>a<n pronunciation="a" /></t> <t>revision<n pronunciation="revision" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>"</t><t>Sokolnicheskaya<n pronunciation="Sokolnicheskaya" /></t> <t>Line<n pronunciation="Line" /></t><t>"</t> <t>article<n pronunciation="article" /></t> <t>dated<n pronunciation="dated" /></t> <t>2015-01-03<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="five" /><n pronunciation="zero" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="three" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>does<n pronunciation="does" /></t> <t>not<n pronunciation="not" /></t> <t>reflect<n pronunciation="reflect" /></t> <t>subsequent<n pronunciation="subsequent" /></t> <t>edits<n pronunciation="edits" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>article<n pronunciation="article" /></t><t>.</t></s> <s><t>(</t><t>Audio<n pronunciation="Audio" /></t> <t>help<n pronunciation="help" /></t><t>)</t>
+<t>More<n pronunciation="More" /></t> <t>spoken<n pronunciation="spoken" /></t> <t>articles<n pronunciation="articles" /></t></s>
+
+
+
+
+<s><t>Wikimedia<n pronunciation="Wikimedia" /></t> <t>Commons<n pronunciation="Commons" /></t> <t>has<n pronunciation="has" /></t> <t>media<n pronunciation="media" /></t> <t>related<n pronunciation="related" /></t> <t>to<n pronunciation="to" /></t> <t>Sokolnicheskaya<n pronunciation="Sokolnicheskaya" /></t> <t>Line<n pronunciation="Line" /></t><t>.</t></s>
+
+
+
+<p><s><t>Winchester<n pronunciation="Winchester" /></t><t>,</t> <t>Clarence<n pronunciation="Clarence" /></t><t>,</t> <t>ed<n pronunciation="ed" /></t><t>.</t></s> <s><t>(</t><t>1936<n pronunciation="nineteen" /><n pronunciation="thirty" /><n pronunciation="six" /></t><t>)</t><t>,</t> <t>"</t><t>Moscow's<n pronunciation="Moscow's" /></t> <t>underground<n pronunciation="underground" /></t><t>"</t><t>,</t> <t>Railway<n pronunciation="Railway" /></t> <t>Wonders<n pronunciation="Wonders" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>World<n pronunciation="World" /></t><t>,</t> <t>pp.<n pronunciation="pp." /></t> <t>894<n pronunciation="894" /></t><t>–<n pronunciation="–" /></t><t>899<n pronunciation="eight" /><n pronunciation="hundred" /><n pronunciation="ninety" /><n pronunciation="nine" /></t>  <t>illustrated<n pronunciation="illustrated" /></t> <t>contemporary<n pronunciation="contemporary" /></t> <t>description<n pronunciation="description" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Moscow<n pronunciation="Moscow" /></t> <t>underground<n pronunciation="underground" /></t></s></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+ <s><t>Lines<n pronunciation="Lines" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t></s>
+
+
+
+
+
+
+
+ <p><s><t>1<n pronunciation="one" /></t>  <t>Sokolnicheskaya<n pronunciation="Sokolnicheskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>2<n pronunciation="two" /></t>  <t>Zamoskvoretskaya<n pronunciation="Zamoskvoretskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>3<n pronunciation="three" /></t>  <t>Arbatsko-Pokrovskaya<n pronunciation="Arbatsko" /><n pronunciation="Pokrovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>4<n pronunciation="four" /></t>  <t>Filyovskaya<n pronunciation="Filyovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>5<n pronunciation="five" /></t>  <t>Koltsevaya<n pronunciation="Koltsevaya" /></t> <t>(</t><t>Circle<n pronunciation="Circle" /></t><t>)</t>
+ <t>6<n pronunciation="6" /></t>  <t>Kaluzhsko-Rizhskaya<n pronunciation="Kaluzhsko" /><n pronunciation="Rizhskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>7<n pronunciation="seven" /></t>  <t>Tagansko-Krasnopresnenskaya<n pronunciation="Tagansko" /><n pronunciation="Krasnopresnenskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>8<n pronunciation="eight" /></t> <t>/<n pronunciation="forward" /><n pronunciation="slash" /></t> <t>8A<n pronunciation="eight" /><n pronunciation="A" /></t>  <t>Kalininsko-Solntsevskaya<n pronunciation="Kalininsko" /><n pronunciation="Solntsevskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>9<n pronunciation="nine" /></t>  <t>Serpukhovsko-Timiryazevskaya<n pronunciation="Serpukhovsko" /><n pronunciation="Timiryazevskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>10<n pronunciation="ten" /></t>  <t>Lyublinsko-Dmitrovskaya<n pronunciation="Lyublinsko" /><n pronunciation="Dmitrovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>11A<n pronunciation="one" /><n pronunciation="one" /><n pronunciation="A" /></t>  <t>Kakhovskaya<n pronunciation="Kakhovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>12<n pronunciation="twelve" /></t>  <t>Butovskaya<n pronunciation="Butovskaya" /></t> <t>Line<n pronunciation="Line" /></t>
+ <t>13<n pronunciation="thirteen" /></t>  <t>Moscow<n pronunciation="Moscow" /></t> <t>Monorail<n pronunciation="Monorail" /></t>
+ <t>14<n pronunciation="fourteen" /></t>  <t>Moscow<n pronunciation="Moscow" /></t> <t>Central<n pronunciation="Central" /></t> <t>Circle<n pronunciation="Circle" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Lines<n pronunciation="Lines" /></t> <t>under<n pronunciation="under" /></t> <t>construction<n pronunciation="construction" /></t> <t>or<n pronunciation="or" /></t> <t>proposed<n pronunciation="proposed" /></t></s>
+
+
+
+
+
+
+ <p><s><t>11<n pronunciation="eleven" /></t>  <t>Third<n pronunciation="Third" /></t> <t>Interchange<n pronunciation="Interchange" /></t> <t>Contour<n pronunciation="Contour" /></t>
+<t>Kozhukhovskaya<n pronunciation="Kozhukhovskaya" /></t>
+<t>Kommunarka<n pronunciation="Kommunarka" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t> <t>stations<n pronunciation="stations" /></t>
+<t>Expansion<n pronunciation="Expansion" /></t> <t>timeline<n pronunciation="timeline" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Moscow<n pronunciation="Moscow" /></t> <t>Metro<n pronunciation="Metro" /></t>
+<t>Metro-2<n pronunciation="Metro" /><n pronunciation="two" /></t></s></p>
+
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

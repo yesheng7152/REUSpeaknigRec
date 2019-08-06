@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Spoken article
+|title=Deluxe Distribution
+|time=4:56
+|user_name=LlamaX0r
+|date=2010-03-19
+|accent=Mid Coast
+|sex=m
+|wiki_lang=en
+|oldid=347359804
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Spoken Wikipedia articles about sport]]

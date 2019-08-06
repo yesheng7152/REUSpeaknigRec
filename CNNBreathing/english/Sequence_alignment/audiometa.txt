@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Sequence alignment
+|time=38:31
+|user_name=Mangst
+|date=2012-06-05
+|oldid=496199396
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Sequence alignment]]

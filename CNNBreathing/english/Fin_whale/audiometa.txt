@@ -1,0 +1,27 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:Alexkillby|Alexkillby]] made this recording based on Wikipedia.
+|Date={{original upload date|2008-01-02}}
+|Author={{original uploader|Alexkillby|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Alexkillby|migration=relicense}}
+{{Spoken article
+|title= Fin Whale
+|time= 22:45
+|user_name= Alexkillby
+|date= 2008-01-01
+|oldid=181407583
+|accent= Canadian, Southern Ontario
+|wiki_lang=en
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|En-finwhale.ogg}}
+* 2008-01-02 02:55 [[:en:User:Alexkillby|Alexkillby]] 0×0× (14081933 bytes) ''<nowiki>{{Spoken article |title= Fin Whale |time= 22:45 |user_name= Alexkillby |date= 01/01/08 |oldid=181407583 |accent= Canadian, Southern Ontario }} {{GFDL-with-disclaimers}}</nowiki>''
+
+[[Category:Balaenoptera physalus (illustrations)]]
+[[Category:Spoken Wikipedia - English]]

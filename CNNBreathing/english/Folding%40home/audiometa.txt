@@ -1,0 +1,11 @@
+{{English spoken article
+|title=Folding@home
+|user_name_link=[[User:Tonystewart14]]
+|date=2014-10-07
+|accent=American English
+|sex=M
+|oldid=628540751
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}

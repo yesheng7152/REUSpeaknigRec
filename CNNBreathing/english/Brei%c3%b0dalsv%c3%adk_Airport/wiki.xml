@@ -1,0 +1,89 @@
+<root><template><title>Infobox airport
+</title><part><name> name         </name><equals>=</equals><value> Breiðdalsvík Airport
+</value></part><part><name> nativename   </name><equals>=</equals><value> 
+</value></part><part><name> nativename-a </name><equals>=</equals><value>
+</value></part><part><name> nativename-r </name><equals>=</equals><value>
+</value></part><part><name> image        </name><equals>=</equals><value>
+</value></part><part><name> image-width  </name><equals>=</equals><value> <comment>&lt;!-- if less than 200 --&gt;</comment>
+</value></part><part><name> caption      </name><equals>=</equals><value>
+</value></part><part><name> image2       </name><equals>=</equals><value>
+</value></part><part><name> image2-width </name><equals>=</equals><value> <comment>&lt;!-- if less than 200 --&gt;</comment>
+</value></part><part><name> caption2     </name><equals>=</equals><value>
+</value></part><part><name> IATA         </name><equals>=</equals><value> BXV
+</value></part><part><name> ICAO         </name><equals>=</equals><value> BIBV
+</value></part><part><name> FAA          </name><equals>=</equals><value>
+</value></part><part><name> TC           </name><equals>=</equals><value>
+</value></part><part><name> LID          </name><equals>=</equals><value>
+</value></part><part><name> GPS          </name><equals>=</equals><value>
+</value></part><part><name> WMO          </name><equals>=</equals><value>
+</value></part><part><name> type         </name><equals>=</equals><value> Public
+
+</value></part><part><name> owner-oper   </name><equals>=</equals><value>
+</value></part><part><name> owner        </name><equals>=</equals><value>
+</value></part><part><name> operator     </name><equals>=</equals><value>
+</value></part><part><name> city-served  </name><equals>=</equals><value> [[Breiðdalsvík]]
+
+</value></part><part><name> location     </name><equals>=</equals><value>
+</value></part><part><name> hub          </name><equals>=</equals><value>
+</value></part><part><name> built        </name><equals>=</equals><value> <comment>&lt;!-- military airports --&gt;</comment>
+</value></part><part><name> used         </name><equals>=</equals><value> <comment>&lt;!-- military airports --&gt;</comment>
+</value></part><part><name> commander    </name><equals>=</equals><value> <comment>&lt;!-- military airports --&gt;</comment>
+</value></part><part><name> occupants    </name><equals>=</equals><value> <comment>&lt;!-- military airports --&gt;</comment>
+</value></part><part><name> metric-elev  </name><equals>=</equals><value>
+</value></part><part><name> elevation-f  </name><equals>=</equals><value> 8 
+</value></part><part><name> elevation-m  </name><equals>=</equals><value> 
+</value></part><part><name> coordinates  </name><equals>=</equals><value>
+</value></part><part><name> latd </name><equals>=</equals><value> 64 </value></part><part><name> latm </name><equals>=</equals><value> 47 </value></part><part><name> lats </name><equals>=</equals><value> 20 </value></part><part><name> latNS </name><equals>=</equals><value> N
+</value></part><part><name> longd</name><equals>=</equals><value> 14 </value></part><part><name> longm</name><equals>=</equals><value> 02 </value></part><part><name> longs</name><equals>=</equals><value> 30 </value></part><part><name> longEW</name><equals>=</equals><value> W
+</value></part><part><name> coordinates_type       </name><equals>=</equals><value>
+</value></part><part><name> coordinates_region     </name><equals>=</equals><value>
+</value></part><part><name> coordinates_notitle    </name><equals>=</equals><value>
+</value></part><part><name> website                </name><equals>=</equals><value>
+</value></part><part><name> image_map              </name><equals>=</equals><value>
+</value></part><part><name> image_mapsize          </name><equals>=</equals><value>
+</value></part><part><name> image_map_alt          </name><equals>=</equals><value>
+</value></part><part><name> image_map_caption      </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map            </name><equals>=</equals><value> Iceland
+</value></part><part><name> pushpin_label_position </name><equals>=</equals><value>
+</value></part><part><name> pushpin_label          </name><equals>=</equals><value> '''BXV'''
+</value></part><part><name> pushpin_map_alt        </name><equals>=</equals><value>
+</value></part><part><name> pushpin_mapsize        </name><equals>=</equals><value>
+</value></part><part><name> pushpin_image          </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map_caption    </name><equals>=</equals><value> Location of the airport in Iceland
+</value></part><part><name> r1-number    </name><equals>=</equals><value> 12/30
+</value></part><part><name> r1-length-f  </name><equals>=</equals><value> 3075
+</value></part><part><name> r1-length-m  </name><equals>=</equals><value> 938
+</value></part><part><name> r1-surface   </name><equals>=</equals><value> Grass
+</value></part><part><name> metric-rwy   </name><equals>=</equals><value>
+</value></part><part><name> h1-number    </name><equals>=</equals><value>
+</value></part><part><name> h1-length-f  </name><equals>=</equals><value>
+</value></part><part><name> h1-length-m  </name><equals>=</equals><value>
+</value></part><part><name> h1-surface   </name><equals>=</equals><value> <comment>&lt;!-- up to h12 --&gt;</comment>
+</value></part><part><name> stat1-header </name><equals>=</equals><value>
+</value></part><part><name> stat1-data   </name><equals>=</equals><value> <comment>&lt;!-- up to stat4 --&gt;</comment>
+</value></part><part><name> stat-year    </name><equals>=</equals><value>
+</value></part><part><name> footnotes    </name><equals>=</equals><value> Source: Google Maps<ext><name>ref</name><attr/><inner>[http://maps.google.com/?ll=64.788424,-14.044819&amp;spn=0.035062,0.062141&amp;t=h&amp;z=14 Google Maps - Breiðdalsvík]</inner><close>&lt;/ref&gt;</close></ext></value></part></template>
+
+'''Breiðdalsvík Airport''' <template><title>airport codes </title><part><name index="1"/><value>BXV</value></part><part><name index="2"/><value>BIBV</value></part><part><name index="3"/><value/></part></template> is an airport serving [[Breiðdalsvík]], [[Iceland]].
+
+<h level="2" i="1">==See also==</h>
+*[[Transport in Iceland]]
+*<template><title>portal-inline</title><part><name index="1"/><value>Iceland</value></part></template>
+*<template><title>portal-inline</title><part><name index="1"/><value>Aviation</value></part></template>
+
+<h level="2" i="2">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+* [http://ourairports.com/countries/IS/airports.html OurAirports - Iceland]
+* [http://www.gcmap.com/airport/BXV  Great Circle Mapper - Breiðdalsvík]
+* [http://www.fallingrain.com/icao/BIBV.html Breiðdalsvík Airport]
+* Google Earth
+
+<h level="2" i="3">==External links==</h>
+
+<comment>&lt;!--{{Airports in Iceland}}--&gt;
+</comment>
+<template lineStart="1"><title>DEFAULTSORT:Breiddalsvik Airport</title></template>
+[[Category:Airports in Iceland]]
+
+
+<template lineStart="1"><title>Europe-airport-stub</title></template></root>

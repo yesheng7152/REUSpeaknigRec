@@ -1,0 +1,39 @@
+
+{{English spoken article
+|title= Flanging
+|time= 8:30
+|user_name= tgies
+|user_name_link= [[w:en:User:Tgies|Tgies]]
+|date= 2007-09-14
+|oldid=157777370
+|accent= [[w:en:General American]]
+}}
+
+{{GFDL-en|migration=relicense}} <!-- This is the license tag.  Please leave the license selector blank. -->
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 06:46, 14 September 2007 || [[w:en:User:Tgies]] || 8m30s || 4.94 MB || <nowiki>{{Spoken article entry |title= Flanging |time= 8:30 |user_name= tgies |date= 2007-09-14 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Flanging&amp;oldid=157777370 |accent= <a href="/wiki/General_American" title="General American">General American</a> }}  {{GFDL-en}} &lt;!-- This is </nowiki>
+|----
+06:29, 14 September 2007 || [[w:en:User:Tgies]] || 8m30s || 6.24 MB || <nowiki>{{Spoken article entry |title= Flanging |time= 8:30 |user_name= tgies |date= 2007-09-14 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Flanging&amp;oldid=157777370 |accent= <a href="/wiki/General_American" title="General American">General American</a> }}  {{GFDL-en}} &lt;!-- This is </nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Flanging.ogg&redirect=no&oldid=157798082 || 10:40, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Flanging.ogg&redirect=no&oldid=157798082 || 06:46, 14 September 2007 || [[w:en:User:Tgies]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Flanging.ogg&redirect=no&oldid=157798043 || 06:46, 14 September 2007 || [[w:en:User:Tgies]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Flanging.ogg&redirect=no&oldid=157797134 || 06:38, 14 September 2007 || [[w:en:User:Tgies]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Flanging.ogg&redirect=no&oldid=157796224 || 06:29, 14 September 2007 || [[w:en:User:Tgies]] || <nowiki>({{Spoken article entry |title= Flanging |time= 8:30 |user_name= tgies |date= 2007-09-14 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Flanging&amp;oldid=157777370 |accent= <a href="/wiki/General_American" title="General American">General American</a> }}  {{GFDL-en}} &lt;!-- This is)</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Flanging (audio effects)]]
+[[Category:Flangers]]

@@ -1,0 +1,31 @@
+{{Information
+|Description={{en|Spoken Wikipedia recording in progress (currently Introduction only)}}
+|Source={{transferred from|en.wikipedia|Sfan00_IMG|CommonsHelper}}
+|Date={{original upload date|2009-01-19}}
+|Author={{original uploader|Tonyle|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Spoken article entry
+|title=:en:Greek mythology
+|user_name=Tonyle
+|user_name_link=[[:en:Tonyle]]
+|date=2009-01-19
+|accent=
+|sex=
+|first_part=
+|next_part=
+|wiki_lang=en
+|full_link=
+|link_to_recorded_version=
+}}
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-Greek mythology-article.oga}}
+* 2009-01-19 22:54 [[:en:User:Tonyle|Tonyle]] 0×0× (43026011 bytes) ''<nowiki>Complete narration of written article</nowiki>''
+* 2008-12-13 21:25 [[:en:User:Tonyle|Tonyle]] 0×0× (1564366 bytes) ''<nowiki>{{Information |Description=Spoken Wikipedia recording in progress (currently Introduction only) |Source=Recorded by myself from the original Wikipedia article |Date=2008-12-13 |Author=~~~ }}</nowiki>''
+
+[[Category:Greek mythology]]

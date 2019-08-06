@@ -1,0 +1,42 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = 
+|Date           = {{original upload date|2010-02-06}}
+|Source         = {{own}} 
+|Author         = 
+|Permission     = 
+|Other_versions = 
+}}
+
+{{Spoken article
+|title=Kiviuq (moon)
+|time=1:17
+|user_name=Mangst
+|date=2010-02-06
+|oldid=310958718
+|accent=American English
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=not-eligible}}
+
+== {{Original upload log}} ==
+
+{{transferred from|en.wikipedia||[[:en:WP:FTCG|FtCG]]}} {{original description page|en.wikipedia|Kiviuq_(moon).ogg}}
+
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 16:28, 6 February 2010 || 775888 bytes || {{uv|Mangst|w:en:}} || ''<nowiki>({{Spoken article
+|title=Kiviuq (moon)
+|time=1:17
+|user_name=Mangst
+|date=2010-02-06
+|oldid=310958718
+|accent=American English
+}}
+== Licensing: ==
+{{GFDL}})</nowiki>''
+|}
+
+{{Uncategorized|year=2015|month=February|day=16}}

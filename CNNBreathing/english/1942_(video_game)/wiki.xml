@@ -1,0 +1,82 @@
+<root><template><title>unreferenced</title><part><name>date</name><equals>=</equals><value>June 2008</value></part></template>
+
+<template lineStart="1"><title>Infobox VG
+</title><part><name>title</name><equals>=</equals><value>1942
+</value></part><part><name>image</name><equals>=</equals><value>[[Image:1942 flyer.png|256px]]
+</value></part><part><name>caption</name><equals>=</equals><value>''1942'' arcade flyer
+</value></part><part><name>developer </name><equals>=</equals><value> [[Capcom]]
+</value></part><part><name>publisher </name><equals>=</equals><value> [[Capcom]]
+</value></part><part><name>distributor</name><equals>=</equals><value>
+</value></part><part><name>designer</name><equals>=</equals><value>[[Yoshiki Okamoto]]
+</value></part><part><name>released</name><equals>=</equals><value>December <template><title>vgy</title><part><name index="1"/><value>1984</value></part></template> (arcade)
+</value></part><part><name>genre </name><equals>=</equals><value>Vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]]
+</value></part><part><name>modes </name><equals>=</equals><value>[[Single player]], 2 player [[Cooperative gameplay|Co-op]]
+</value></part><part><name>ratings</name><equals>=</equals><value>
+</value></part><part><name>platforms</name><equals>=</equals><value> [[Arcade game|Arcade]]
+</value></part><part><name>media </name><equals>=</equals><value>
+</value></part><part><name>input</name><equals>=</equals><value> 8-way [[Joystick]], 2 [[Button (control)|Buttons]]
+</value></part><part><name>cabinet </name><equals>=</equals><value> Upright
+</value></part><part><name>arcade system </name><equals>=</equals><value>
+</value></part><part><name>cpu </name><equals>=</equals><value>[[Zilog]] [[Z80]] (@ 4 MHz)
+</value></part><part><name>sound </name><equals>=</equals><value> [[Zilog]] [[Z80]] (@ 3 MHz)&lt;br /&gt;2x AY8910 (@ 1.5 MHz)  
+</value></part><part><name>display </name><equals>=</equals><value> [[Raster graphics|Raster]], 224 x 256 pixels (Vertical), 256 colors
+</value></part></template>
+'''''1942''''' is a vertically scrolling [[shoot 'em up]]  made by [[Capcom]] that was released for the [[Video arcade|arcade]] in <template><title>vgy</title><part><name index="1"/><value>1984</value></part></template>. It was the first game in the 19XX series, followed by ''[[1943: The Battle of Midway]]''.
+
+''1942'' is set in the [[Pacific War|Pacific theater of World War II]]. Despite the game being created by a Japanese company and staff, the goal is to reach [[Tokyo]] and destroy the entire Japanese air fleet (this way the game is historically correct). The player pilots a plane dubbed the &quot;Super Ace&quot;, but its appearance is clearly that of a [[P-38 Lightning|Lockheed P-38 Lightning]]). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a ''Roll'' or &quot;loop-the-loop.&quot;
+
+The game was later ported to the [[Nintendo Entertainment System|NES]] (developed by [[Micronics]]), [[MSX]], [[NEC PC-8801]], [[Windows Mobile]] Professional, and [[Game Boy Color]].
+It was ported by the European games publisher [[Elite Systems]] to the [[Amstrad CPC]], [[ZX Spectrum]] and [[Commodore 64]].
+The game was included as part of ''[[Capcom Classics Collection]]'' for the [[Xbox]] and [[PlayStation 2]] in 2005.
+
+Martin Bedard of Saint-Lazare, Quebec, Canada holds the record for this game with 13,360,960 points on November 19, 2006. 
+
+<h level="2" i="1">==Music==</h>
+The music of the Commodore 64 version is based on the main verse of Ron Goodwin's [[633 Squadron]] movie score.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>February 2009</value></part></template>
+
+<h level="2" i="2">== Legacy ==</h>
+''1942'' was one of Capcom's first breakaway hits, eclipsing in popularity the company's preceding three titles: (''[[Vulgus]]'', ''[[SonSon (video game)|Sonson]]'', and ''[[Pirate Ship Higemaru]]'').  While not as popular as some of Capcom's series that would debut later in the 1980s (''[[Street Fighter]]'' and ''[[Mega Man]]'' in particular), ''1942'' would become one of Capcom's hallmark games throughout the arcade era.
+
+Although not the first game to receive a sequel (with ''Pirate Ship Higemaru'' receiving a Japan-only console semi-sequel, ''[[Higemaru Makaijima]]'', in April 1987), ''1942'' was the first Capcom title to spawn a successful series of sequels, with five titles in the 19XX line released from 1987 to 2000.  Additionally, many of Capcom's other vertical shooters featured very similar gameplay to the series such as ''[[Varth: Operation Thunderstorm]]''.
+
+''1942's'' longevity has shown through in many re-releases since its introduction, principally in ''Capcom Generations 1'' for the Playstation and Saturn consoles. It was recently featured in the [[Capcom Classics Collection]] for the [[PlayStation 2]] and [[Xbox]], as well as [[Capcom Classics Collection: Reloaded]] for the [[PlayStation Portable]].
+
+<h level="2" i="3">== 1942: Joint Strike ==</h>
+<template lineStart="1"><title>main</title><part><name index="1"/><value>1942: Joint Strike</value></part></template>
+''[[1942: Joint Strike]]'', is available for [[Xbox Live Arcade]] and the [[Playstation Network]]. The Xbox Live Arcade version was released on July 23 2008 while the PlayStation Network version was released on July 24 2008.
+
+<h level="2" i="4">==External links==</h>
+*[http://www.arcade-history.com/index.php?page=detail&amp;id=6 ''1942''] at ''Arcade-History''
+*<template><title>StrategyWiki</title><part><name index="1"/><value>1942</value></part></template>
+*<template><title>GameFAQs</title><part><name>type</name><equals>=</equals><value>/console/nes</value></part><part><name>num</name><equals>=</equals><value>587058</value></part><part><name>name</name><equals>=</equals><value>''1942''</value></part></template>
+*<template><title>moby game</title><part><name>id</name><equals>=</equals><value>/1942 </value></part><part><name>name</name><equals>=</equals><value>''1942''</value></part></template>
+*<template><title>WoS game</title><part><name>id</name><equals>=</equals><value>0009297</value></part><part><name>name</name><equals>=</equals><value>1942</value></part></template>
+*<template><title>KLOV game</title><part><name>id</name><equals>=</equals><value>6766</value></part><part><name>name</name><equals>=</equals><value>1942</value></part></template>
+
+<template lineStart="1"><title>194X series</title></template>
+
+[[Category:1984 video games]]
+[[Category:Arcade games]]
+[[Category:Amstrad CPC games]]
+[[Category:Capcom games]]
+[[Category:Commodore 64 games]]
+[[Category:FM-7 games]]
+[[Category:Game Boy Color games]]
+[[Category:Mobile phone games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayChoice-10 games]]
+[[Category:Sharp X1 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Scrolling shooters]]
+[[Category:World War II video games]]
+[[Category:Windows Mobile Professional games]]
+
+[[de:1942 (Computerspiel)]]
+[[fr:1942 (jeu vidéo)]]
+[[it:1942 (videogioco)]]
+[[ja:1942 (ゲーム)]]
+[[ru:1942 (игра)]]
+[[sv:1942 (spel)]]
+[[zh:1942]]</root>

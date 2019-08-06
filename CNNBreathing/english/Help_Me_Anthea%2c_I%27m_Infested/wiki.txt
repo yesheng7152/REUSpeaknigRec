@@ -1,0 +1,64 @@
+{{Infobox television
+| show_name            = Help Me Anthea, I'm Infested
+| image                = <!-- include ALT text per [[WP:ALT]] guideline -->
+| genre                = 
+| format               = 
+| creator              = 
+| developer            = 
+| writer               = 
+| director             = 
+| creative_director    = 
+| presenter            = [[Anthea Turner]], Mark Coltman
+| voices               = 
+| narrated             = 
+| theme_music_composer = 
+| opentheme            = 
+| endtheme             = 
+| composer             = 
+| country              = United Kingdom
+| language             = English
+| num_seasons          = 1
+| num_episodes         = 3
+| list_episodes        = 
+| executive_producer   = 
+| producer             = 
+| editor               = 
+| location             = 
+| cinematography       = 
+| camera               = 
+| runtime              = 30 minutes
+| company              = RDF Television
+| distributor          = 
+| channel              = [[BBC Three]]
+| picture_format       = 
+| audio_format         = 
+| first_run            = 
+| first_aired          = 26 September 2007
+| last_aired           = 10 October 2007
+| related              = 
+| website              = 
+| website_title        = 
+| production_website   = 
+}}
+
+'''''Help Me Anthea, I'm Infested''''' is a 2007 factual entertainment television show produced by RDF Television<ref name="rdf">[http://www.rdftelevision.com/categories.aspx?type=factual%20entertainment&programmeid=184&cid=2 Help Me Anthea, I'm Infested!], RDF Television website</ref> for [[BBC Three]], presented by [[Anthea Turner]] and Mark Coltman, a professional pest control expert. The presenters visit people whose houses have pest control problems, give them advice and help them to exterminate vermin.
+
+Originally slated for six episodes,<ref name="rdf" /> the BBC cut the series short after the third episode was broadcast.<ref name="iplayer">[http://www.bbc.co.uk/programmes/b0081295/episodes/guide Help Me Anthea, I'm Infested] Episode Guide, bbc.co.uk</ref> According to an interview with Anthea Turner, only the first three episodes were planned to be on bug infestations, although she did not specify what later episodes would cover.<ref>{{cite news|last=Moss|first=Caz|title=Exclusive Anthea Turner Interview|url=http://www.femalefirst.co.uk/entertainment/Anthea+Turner-39749.html|accessdate=9 November 2011|newspaper=Female First|date=29 August 2007}}</ref> 
+
+Critical reactions were very negative: James Watson at the'' [[Daily Telegraph]]'' described it as being both boring and exhibiting "grinding, excruciating pointlessness",<ref>{{cite news|last=Watson|first=James|title=Last night on television: Benidorm Unpacked (ITV1) - Help Me Anthea, I'm Infested! (BBC3)|url=http://www.telegraph.co.uk/culture/tvandradio/3668188/Last-night-on-television-Benidorm-Unpacked-ITV1-Help-Me-Anthea-Im-Infested-BBC3.html|accessdate=9 November 2011|newspaper=Daily Telegraph|date=27 September 2007}}</ref> while ''[[The Guardian]]'''s Nancy Banks-Smith described it as "frightful".<ref>{{cite news|last=Banks-Smith|first=Nancy|title=Last night's TV|url=http://www.guardian.co.uk/media/2007/sep/27/comment.tvandradioarts|accessdate=9 November 2011|newspaper=The Guardian|date=27 September 2007}}</ref> [[Charlie Brooker]] thought Turner came across as "a hard, judgemental piece of work who spends most of her time haranguing the human inhabitants for living in filth", and the resulting programme feels like "a strange psychodrama in which the punters are caught between unfeeling vermin on one side, and an unfeeling former ''[[Blue Peter]]'' presenter on the other".<ref>{{cite news|last=Brooker|first=Charlie|title=Charlie Brooker's screen burn|url=http://www.guardian.co.uk/media/2007/sep/29/comment.tvandradioarts|accessdate=9 November 2011|newspaper=The Guardian|date=29 September 2007}}</ref>  [[Jeremy Paxman]] used it as an example of the perceived low quality and lack of public value of BBC Three programmes in an interview with the BBC chairman, Sir [[Michael Lyons (BBC chairman)|Michael Lyons]], on ''[[Newsnight]]'' along with ''My Man Boobs and Me'', ''My Dog Is As Fat As Me'', ''[[Freaky Eaters]]'' and ''Fat Men Can't Hunt''.<ref>{{cite web|last=McMeekin|first=James|title=Top five classic Paxman moments|url=http://www.totalpolitics.com/blog/45518/top-five-classic-paxman-moments.thtml|publisher=Total Politics|accessdate=9 November 2011}}</ref> The novelist [[P.D. James]] listed it as one of the BBC's "most embarrassing programmes".<ref>{{cite news|last=James|first=P.D.|title=Some of the BBC's most embarrassing programmes|url=http://www.telegraph.co.uk/culture/tvandradio/6916051/Some-of-the-BBCs-most-embarrassing-programmes.html|accessdate=9 November 2011|newspaper=Daily Telegraph|date=31 December 2009}}</ref>
+
+[[Rentokil Initial]] list the show as one of a small number of [[pest control]]-related television shows.<ref>{{cite web|title=Pest control TV programmes|url=http://www.rentokil.com/blog/pest-control-tv-programmes/|publisher=Rentokil Pest Control blog|accessdate=9 November 2011}}</ref>
+
+==See also==
+*''[[Billy the Exterminator]]''
+
+== References ==
+{{Portal|BBC}}
+{{Reflist}}
+
+[[Category:BBC television programmes]]
+[[Category:2000s British television series]]
+[[Category:2007 British television programme debuts]]
+[[Category:2007 British television programme endings]]
+[[Category:Non-fiction television series]]
+[[Category:Pest control]]

@@ -1,0 +1,110 @@
+<root><comment>&lt;!--Scroll down to edit the contents of this page.  Additional parameters for this template are available at [[Template:Infobox Planet]].--&gt;</comment><template><title>Infobox Planet
+</title><part><name> name </name><equals>=</equals><value> Prometheus
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:Prometheus 12-26-09b.jpg|260px|]]
+</value></part><part><name> caption </name><equals>=</equals><value> Prometheus image from ''[[Cassini–Huygens|Cassini]]'' (December 26, 2009)
+</value></part><part><name> bgcolour </name><equals>=</equals><value> #a0ffa0
+</value></part><part><name> discovery </name><equals>=</equals><value> yes
+</value></part><part><name> discoverer </name><equals>=</equals><value> [[Stewart A. Collins|Collins]], [[Voyager 1]]
+</value></part><part><name> discovered </name><equals>=</equals><value> October, 1980
+</value></part><part><name> orbit_ref </name><equals>=</equals><value> <ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr><inner>{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132 | issue=2 | pages= 692–710 | url=http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> epoch </name><equals>=</equals><value> 31 December 2003 ([[Julian day|JD]] 2453005.5)
+</value></part><part><name> semimajor </name><equals>=</equals><value> 139,380 ± 10 [[kilometer|km]]
+</value></part><part><name> eccentricity </name><equals>=</equals><value> 0.0022
+</value></part><part><name> period </name><equals>=</equals><value> 0.612990038 d
+</value></part><part><name> inclination </name><equals>=</equals><value> 0.008 ± 0.004° to Saturn's equator
+</value></part><part><name> satellite_of </name><equals>=</equals><value> [[Saturn]]
+</value></part><part><name> physical_characteristics </name><equals>=</equals><value> yes
+</value></part><part><name> dimensions </name><equals>=</equals><value> 119&amp;times;87&amp;times;61 km <ext><name>ref</name><attr> name=&quot;Porco2006&quot;</attr><inner>{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites''| journal= Bulletin of the American Astronomical Society| year= 2006| volume= 37| pages= 768| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> mean_radius </name><equals>=</equals><value> 43.1 ± 2.0 km <ext><name>ref</name><attr> name=&quot;Porco2006&quot; </attr></ext>
+</value></part><part><name> surface_area </name><equals>=</equals><value> ~23,000 [[square kilometer|km&lt;sup&gt;2&lt;/sup&gt;]]
+</value></part><part><name> volume </name><equals>=</equals><value> ~340,000 [[cubic kilometer|km&lt;sup&gt;3&lt;/sup&gt;]]
+</value></part><part><name> mass </name><equals>=</equals><value> 1.566 ± 0.019 <template><title>e</title><part><name index="1"/><value>17</value></part></template> [[kilogram|kg]] <ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr></ext>
+</value></part><part><name> density </name><equals>=</equals><value> 0.47 ± 0.07 g/cm&lt;sup&gt;3&lt;/sup&gt;
+</value></part><part><name> surface_grav </name><equals>=</equals><value> ~0.003 [[Acceleration|m/s&lt;sup&gt;2&lt;/sup&gt;]]
+</value></part><part><name> escape_velocity </name><equals>=</equals><value> ~0.019 km/s
+</value></part><part><name> rotation </name><equals>=</equals><value> [[synchronous rotation|synchronous]]
+</value></part><part><name> axial_tilt </name><equals>=</equals><value> zero
+</value></part><part><name> albedo </name><equals>=</equals><value> 0.6
+</value></part><part><name> single_temperature </name><equals>=</equals><value> ~74 K
+</value></part></template>
+'''Prometheus''' (<template><title>pron-en</title><part><name index="1"/><value>prɵˈmiːθiəs</value></part></template>, <template><title>USdict</title><part><name index="1"/><value>prō·mē′·thē·əs</value></part></template>; or as in Greek ''Προμηθέας)'' is an [[inner satellite]] of [[Saturn]]. It was discovered in 1980 (some time before October 25) from photos taken by the ''[[Voyager 1]]'' probe, and was provisionally designated '''<template><title>nowrap</title><part><name index="1"/><value>S/1980 S 27</value></part></template>'''.<ext><name>ref</name><attr> name=&quot;iauc3532&quot;</attr><inner>[http://cfa-www.harvard.edu/iauc/03500/03532.html IAUC 3532: ''Satellites of Saturn''] 1980 October 31 (discovery)</inner><close>&lt;/ref&gt;</close></ext>
+
+In late 1985 it was officially named after [[Prometheus]], a [[Titan (mythology)|Titan]] in [[Greek mythology]].<ext><name>ref</name><attr> name=&quot;iauc4157&quot;</attr><inner>[http://cfa-www.harvard.edu/iauc/04100/04157.html IAUC 4157: ''Satellites of Saturn and Pluto''] 1986 January 3 (naming the moon)</inner><close>&lt;/ref&gt;</close></ext> It is also designated '''<template><title>nowrap</title><part><name index="1"/><value>Saturn XVI</value></part></template>'''.<ext><name>ref</name><attr> name=&quot;Gazetteer&quot;</attr><inner>{{cite web
+  | title = Planet and Satellite Names and Discoverers
+  | work = Gazetteer of Planetary Nomenclature
+  | publisher = USGS Astrogeology
+  | date = July 21, 2006
+  | url = http://planetarynames.wr.usgs.gov/append7.html
+  | accessdate = 2006-08-07 }}</inner><close>&lt;/ref&gt;</close></ext>
+
+This small moon is extremely elongated, measuring about 119 by 87 by 61&amp;nbsp;km. It has several ridges and valleys and a number of [[impact crater]]s of about 20&amp;nbsp;km diameter are visible, but it is less cratered than nearby [[Pandora (moon)|Pandora]], [[Epimetheus (moon)|Epimetheus]] and [[Janus (moon)|Janus]]. From its very low density and relatively high [[albedo]], it seems likely that Prometheus is a very porous icy body. There is a lot of uncertainty in these values, however, and so this remains to be confirmed.<template><title>Fact</title><part><name>date</name><equals>=</equals><value>February 2007</value></part></template>
+
+Prometheus acts as a [[shepherd satellite]] for the inner edge of Saturn's [[F Ring]]. Recent images from the [[Cassini–Huygens|Cassini probe]] show that the Promethean gravitational field creates kinks and knots in the F Ring as the moon 'steals' material from it. The orbit of Prometheus appears to be chaotic, as a consequence of a [[orbital resonance #Types of resonance|mean motion resonance]] with Pandora. The most appreciable changes in their orbits occur approximately every 6.2 years,<ext><name>ref</name><attr> name=&quot;Spitale2006&quot;</attr></ext> when the [[periapsis]] of Pandora lines up with the [[apoapsis]] of Prometheus and the moons approach to within about 1400&amp;nbsp;km. Prometheus is itself a significant perturber of [[Atlas (moon)|Atlas]].
+
+There is also an [[asteroid]] called [[1809 Prometheus]].
+
+<h level="2" i="1">==Media gallery==</h>
+
+<template lineStart="1"><title>Gallery
+</title><part><name>title</name><equals>=</equals><value>
+</value></part><part><name>lines</name><equals>=</equals><value>3
+</value></part><part><name>width</name><equals>=</equals><value>200
+</value></part><part><name index="1"/><value>File:Prometheus's effect on the F Ring.jpg</value></part><part><name index="2"/><value>Prometheus pulling material from the F Ring
+</value></part><part><name index="3"/><value>File:Prometheus tugging on F Ring PIA09909.jpg</value></part><part><name index="4"/><value>Prometheus tugging kinks into the F Ring
+</value></part><part><name index="5"/><value>File:Prometheus moon.jpg</value></part><part><name index="6"/><value>''[[Voyager 2|Voyager 2]]'' (August 25, 1981) image
+</value></part><part><name index="7"/><value>File:Prometheus 12-26-09a.jpg</value></part><part><name index="8"/><value>''Cassini'' image reveals a surface covered with a blanket of fine material.
+</value></part></template>
+
+<template lineStart="1"><title>Gallery
+</title><part><name>title</name><equals>=</equals><value>
+</value></part><part><name>lines</name><equals>=</equals><value>2
+</value></part><part><name>width</name><equals>=</equals><value>400
+</value></part><part><name index="1"/><value>File:Prometheus collides with F ring PIA08397 ff025.ogv</value></part><part><name index="2"/><value>Prometheus collides with the F ring, pulls a streamer, and leaves behind a dark channel. 12 seconds 107kbps
+</value></part><part><name index="3"/><value>File:Prometheus F ring from PIA08262 fr25 twice.ogv</value></part><part><name index="4"/><value>Movie of Prometheus and the F Ring looped once. 5 seconds 48 kbps
+</value></part></template>
+
+<h level="2" i="2">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<h level="2" i="3">==External links==</h>
+<template lineStart="1"><title>commonscat-inline</title><part><name>bullet</name><equals>=</equals><value>none</value></part></template>
+*<template><title>cite web </title><part><name>title</name><equals>=</equals><value>Cassini-Huygens: Multimedia-Videos / Soft Collision </value></part><part><name>publisher</name><equals>=</equals><value>NASA </value></part><part><name>url</name><equals>=</equals><value>http://saturn.jpl.nasa.gov/multimedia/videos/video-details.cfm?videoID=163 </value></part><part><name>archiveurl</name><equals>=</equals><value>http://web.archive.org/web/20071029205038/http://saturn.jpl.nasa.gov/multimedia/videos/video-details.cfm?videoID=163 </value></part><part><name>archivedate</name><equals>=</equals><value>29 October 2007 </value></part><part><name>quote</name><equals>=</equals><value>Prometheus slowly collides with the diffuse inner edge of Saturn's F ring ... pulls a streamer of material from the ring and leaves behind a dark channel.</value></part></template>
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Prometheus Prometheus Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://www.planetary.org/explore/topics/saturn/prometheus.html The Planetary Society: Prometheus]
+
+<template lineStart="1"><title>Moons of Saturn</title></template>
+
+<template lineStart="1"><title>DEFAULTSORT:Prometheus (Moon)</title></template>
+[[Category:Moons of Saturn]]
+
+[[br:Prometheus (loarenn)]]
+[[bg:Прометей (спътник)]]
+[[ca:Prometeu (satèl·lit)]]
+[[cs:Prometheus (měsíc)]]
+[[cy:Promethëws (lloeren)]]
+[[da:Prometheus (måne)]]
+[[de:Prometheus (Mond)]]
+[[el:Προμηθέας (δορυφόρος)]]
+[[es:Prometeo (satélite)]]
+[[fr:Prométhée (lune)]]
+[[hr:Prometej (mjesec)]]
+[[id:Prometheus (bulan)]]
+[[it:Prometeo (astronomia)]]
+[[lt:Prometėjas (palydovas)]]
+[[mk:Прометеј (месечина)]]
+[[ms:Prometheus (bulan)]]
+[[nl:Prometheus (maan)]]
+[[ja:プロメテウス (衛星)]]
+[[nn:Saturnmånen Prometheus]]
+[[pl:Prometeusz (księżyc)]]
+[[pt:Prometeu (satélite)]]
+[[ro:Prometeu (satelit)]]
+[[ru:Прометей (спутник)]]
+[[simple:Prometheus (moon)]]
+[[sk:Prometheus (mesiac)]]
+[[sl:Prometej (luna)]]
+[[sr:Prometej (satelit)]]
+[[fi:Prometheus (kuu)]]
+[[sv:Prometheus (måne)]]
+[[uk:Прометей (супутник)]]
+[[zh:土卫十六]]</root>

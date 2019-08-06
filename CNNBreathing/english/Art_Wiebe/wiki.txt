@@ -1,0 +1,24 @@
+'''Walter Arthur Ronald Wiebe''' (b. September 28, 1912 in [[Rosthern, Saskatchewan]] - d. June 6, 1971 in [[Edmonton]], [[Alberta]]) was a professional [[ice hockey]] player who played 414 games in the [[National Hockey League]]. He won the [[Stanley Cup]] in [[1937–38 NHL season|1938]]. He played his entire career with the [[Chicago Blackhawks|Chicago Black Hawks]].
+
+== External links ==
+*{{hockeydb|5718}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Wiebe, Art
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Canadian ice hockey defenceman
+| DATE OF BIRTH     = September 28, 1912
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = June 6, 1971
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wiebe, Art}}
+[[Category:1912 births]]
+[[Category:1971 deaths]]
+[[Category:Canadian ice hockey defencemen]]
+[[Category:Chicago Blackhawks players]]
+[[Category:Ice hockey people from Saskatchewan]]
+[[Category:People from Rosthern, Saskatchewan]]
+[[Category:Stanley Cup champions]]
+
+{{Canada-icehockey-defenceman-1910s-stub}}

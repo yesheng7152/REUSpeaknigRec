@@ -1,0 +1,104 @@
+<root><template><title>Infobox settlement
+</title><part><name>name                     </name><equals>=</equals><value> Ivy
+</value></part><part><name>official_name            </name><equals>=</equals><value> 
+</value></part><part><name>settlement_type          </name><equals>=</equals><value> [[Census-designated place]] (CDP)
+</value></part><part><name>nickname                 </name><equals>=</equals><value> 
+</value></part><part><name>motto                    </name><equals>=</equals><value>
+
+<comment>&lt;!-- Images --&gt;
+</comment></value></part><part><name>image_skyline            </name><equals>=</equals><value> 
+</value></part><part><name>imagesize                </name><equals>=</equals><value> 
+</value></part><part><name>image_caption            </name><equals>=</equals><value> 
+</value></part><part><name>image_flag               </name><equals>=</equals><value> 
+</value></part><part><name>image_seal               </name><equals>=</equals><value>
+
+<comment>&lt;!-- Maps --&gt;
+</comment></value></part><part><name>pushpin_map              </name><equals>=</equals><value> Virginia
+</value></part><part><name>pushpin_label_position   </name><equals>=</equals><value> <comment>&lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;</comment>
+</value></part><part><name>pushpin_map_caption      </name><equals>=</equals><value> Location within the Commonwealth of Virginia
+</value></part><part><name>pushpin_mapsize          </name><equals>=</equals><value>
+</value></part><part><name>image_map                </name><equals>=</equals><value> 
+</value></part><part><name>map_caption              </name><equals>=</equals><value> Location within Albemarle county
+</value></part><part><name>image_map1               </name><equals>=</equals><value> 
+</value></part><part><name>mapsize1                 </name><equals>=</equals><value> 
+</value></part><part><name>map_caption1             </name><equals>=</equals><value>
+
+<comment>&lt;!-- Location --&gt;
+</comment></value></part><part><name>subdivision_type         </name><equals>=</equals><value> [[List of countries|Country]]
+</value></part><part><name>subdivision_name         </name><equals>=</equals><value> [[United States]]
+</value></part><part><name>subdivision_type1        </name><equals>=</equals><value> [[Political divisions of the United States|State]]
+</value></part><part><name>subdivision_name1        </name><equals>=</equals><value> [[Virginia]]
+</value></part><part><name>subdivision_type2        </name><equals>=</equals><value> [[List of counties in Virginia|County]]
+</value></part><part><name>subdivision_name2        </name><equals>=</equals><value> [[Albemarle County, Virginia|Albemarle]]
+
+</value></part><part><name>government_footnotes     </name><equals>=</equals><value> 
+</value></part><part><name>government_type          </name><equals>=</equals><value> 
+</value></part><part><name>leader_title             </name><equals>=</equals><value>
+</value></part><part><name>leader_name              </name><equals>=</equals><value>
+</value></part><part><name>leader_title1            </name><equals>=</equals><value> 
+</value></part><part><name>leader_name1             </name><equals>=</equals><value> 
+</value></part><part><name>established_title        </name><equals>=</equals><value> 
+</value></part><part><name>established_date         </name><equals>=</equals><value>
+
+<comment>&lt;!-- Area --&gt;
+</comment></value></part><part><name>unit_pref                </name><equals>=</equals><value> Imperial
+</value></part><part><name>area_footnotes           </name><equals>=</equals><value> 
+</value></part><part><name>area_magnitude           </name><equals>=</equals><value> 
+</value></part><part><name>area_total_km2           </name><equals>=</equals><value> 
+</value></part><part><name>area_land_km2            </name><equals>=</equals><value> 
+</value></part><part><name>area_water_km2           </name><equals>=</equals><value>
+
+<comment>&lt;!-- Population --&gt;
+</comment></value></part><part><name>population_as_of         </name><equals>=</equals><value> [[United States Census, 2010|2010]]
+</value></part><part><name>population_footnotes     </name><equals>=</equals><value> 
+</value></part><part><name>population_total         </name><equals>=</equals><value> 905
+</value></part><part><name>population_density_km2   </name><equals>=</equals><value> auto
+
+<comment>&lt;!-- General information --&gt;
+</comment></value></part><part><name>timezone                 </name><equals>=</equals><value> [[Eastern Time Zone|Eastern (EST)]]
+</value></part><part><name>utc_offset               </name><equals>=</equals><value> -5
+</value></part><part><name>timezone_DST             </name><equals>=</equals><value> EDT
+</value></part><part><name>utc_offset_DST           </name><equals>=</equals><value> -4
+</value></part><part><name>elevation_footnotes      </name><equals>=</equals><value> 
+</value></part><part><name>elevation_ft             </name><equals>=</equals><value> 522
+</value></part><part><name>coordinates_display </name><equals>=</equals><value> inline,title
+</value></part><part><name>coordinates_type </name><equals>=</equals><value> region:US_type:city
+</value></part><part><name>latd </name><equals>=</equals><value> 38</value></part><part><name>latm </name><equals>=</equals><value> 03 </value></part><part><name>lats </name><equals>=</equals><value> 23</value></part><part><name>latNS </name><equals>=</equals><value> N
+</value></part><part><name>longd </name><equals>=</equals><value> 78</value></part><part><name>longm </name><equals>=</equals><value> 35</value></part><part><name>longs </name><equals>=</equals><value> 48</value></part><part><name>longEW </name><equals>=</equals><value> W
+
+<comment>&lt;!-- Area/postal codes &amp; others --&gt;
+</comment></value></part><part><name>postal_code_type         </name><equals>=</equals><value> [[ZIP code]]s 22945
+</value></part><part><name>postal_code              </name><equals>=</equals><value> 
+</value></part><part><name>area_code                </name><equals>=</equals><value> 434
+</value></part><part><name>blank_name               </name><equals>=</equals><value> [[Federal Information Processing Standard|FIPS code]]
+</value></part><part><name>blank_info               </name><equals>=</equals><value>
+</value></part><part><name>blank1_name              </name><equals>=</equals><value> [[Geographic Names Information System|GNIS]] feature ID
+</value></part><part><name>blank1_info              </name><equals>=</equals><value> 1493130<ext><name>ref</name><attr/><inner>{{cite gnis|1493130|Ivy}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name>website                  </name><equals>=</equals><value> 
+</value></part><part><name>footnotes                </name><equals>=</equals><value> 
+</value></part></template>
+'''Ivy''' is a [[census-designated place]] (CDP) in [[Albemarle County, Virginia|Albemarle County]], [[Virginia]], [[United States]]. The population as of the [[United States Census, 2010|2010 Census]] was 905.<ext><name>ref</name><attr/><inner>[http://mcdc.missouri.edu/webrepts/pl94trends/Virginia_stplace2.html Virginia Trend Report 2: State and Complete Places (Sub-state 2010 Census Data).] Missouri Census Data Center. Accessed 2011-06-08.</inner><close>&lt;/ref&gt;</close></ext>
+It is a small [[Unincorporated area|unincorporated community]] located on [[U.S. Route 250]], just west of [[Charlottesville]].
+
+[[D. S. Tavern]], [[Home Tract]], [[Spring Hill (Ivy, Virginia)|Spring Hill]], and [[Woodstock Hall Tavern]] are listed on the [[National Register of Historic Places]].<ext><name>ref</name><attr> name=&quot;nris&quot;</attr><inner>{{NRISref|version=2010a}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==History==</h>
+Ivy Creek flows through this area of western Albemarle County. It was cited in deeds for land in the Ivy area as early as the 1750s. The village at the present location of Ivy was known as Woodville (for the locally prominent Wood family) between 1826 and 1851. After the arrival of the railroad in 1851, the rail stop at this location was known as Woodville Depot. By 1859, the name had changed to Ivy Depot, probably after Ivy Creek. The village's name was shortened to Ivy in the 1950s.<ext><name>ref</name><attr/><inner>[http://albemarle.org/upload/images/Forms_Center/Departments/Community_Development/Forms/Historic_Preservation/AB-066_AH_Village_Survey_1995_D&amp;M_report_final.pdf &quot;Historic Architectural Survey of Albemarle County Villages&quot;]</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="2">==Climate==</h>
+Climate is characterized by relatively high temperatures and evenly distributed precipitation throughout the year.  The [[Köppen Climate Classification]] subtype for this climate is &quot;[[Humid subtropical climate|Cfa]]&quot; (Humid Subtropical Climate).<ext><name>ref</name><attr/><inner>[http://www.weatherbase.com/weather/weather-summary.php3?s=395144&amp;cityname=Ivy%2C+Virginia%2C+United+States+of+America&amp;units= Climate Summary for Ivy, Virginia]</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="3">==Notable people==</h>
+*[[Meriwether Lewis]] is a notable native of Ivy.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.hmdb.org/marker.asp?marker=1795|title=Birthplace of Meriwether Lewis Marker|publisher=The Historical Marker Database|accessdate=2011-01-07}}</inner><close>&lt;/ref&gt;</close></ext>
+*Ivy is also home to former Representative [[Tom Perriello]]<ext><name>ref</name><attr/><inner>{{cite web|url=http://www2.newsadvance.com/news/2008/aug/17/about_tom_perriello-ar-217542/|title=About Tom Perriello|publisher=Lynchburg News &amp; Advance|accessdate=2011-02-05}}</inner><close>&lt;/ref&gt;</close></ext>
+*[[Joe Hicks (baseball)|Joe Hicks]], former [[Major League Baseball]] player.
+
+<h level="2" i="4">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<template lineStart="1"><title>Albemarle County, Virginia</title></template>
+
+[[Category:Census-designated places in Albemarle County, Virginia]]
+[[Category:Census-designated places in Virginia]]
+
+<template lineStart="1"><title>AlbemarleVA-geo-stub</title></template></root>

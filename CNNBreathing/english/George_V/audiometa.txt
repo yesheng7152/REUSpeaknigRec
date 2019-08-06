@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken Version of George V Wikipedia Article}}
+|date=2014-07-13 11:57:13
+|source={{own}}
+|author=[[User:Matthew David González|Matthew David González]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+{{Check categories|year=2015|month=June|day=30}}
+[[Category:George V of the United Kingdom]]

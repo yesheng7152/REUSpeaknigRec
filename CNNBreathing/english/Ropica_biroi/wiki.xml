@@ -1,0 +1,24 @@
+<root><template><title>italic title</title></template>
+<template lineStart="1"><title>Taxobox
+</title><part><name> regnum </name><equals>=</equals><value> [[Animal]]ia
+</value></part><part><name> phylum </name><equals>=</equals><value> [[Arthropod]]a
+</value></part><part><name> classis </name><equals>=</equals><value> [[Insect]]a
+</value></part><part><name> ordo </name><equals>=</equals><value> [[Beetle|Coleoptera]]
+</value></part><part><name> subordo </name><equals>=</equals><value> [[Polyphaga]]
+</value></part><part><name> familia </name><equals>=</equals><value> [[Cerambycidae]]
+</value></part><part><name> genus </name><equals>=</equals><value> '''''[[Ropica (genus)|Ropica]]'''''
+</value></part><part><name> species </name><equals>=</equals><value> '''''R. biroi'''''
+</value></part><part><name> binomial </name><equals>=</equals><value> ''Ropica biroi''
+</value></part><part><name> binomial_authority </name><equals>=</equals><value> Breuning, 1953
+</value></part><part><name> synonyms </name><equals>=</equals><value> 
+</value></part></template>
+'''''Ropica biroi''''' is a species of [[beetle]] in the family [[Cerambycidae]]. It was described by [[Stephan von Breuning (entomologist)|Breuning]] in 1953.<ext><name>ref</name><attr/><inner>[http://www.biolib.cz/en/taxon/id487209/ BioLib.cz - ''Ropica biroi''].  Retrieved on 8 September 2014.</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+[[Category:Ropica]]
+[[Category:Beetles described in 1953]]
+
+
+<template lineStart="1"><title>Ropica-stub</title></template></root>

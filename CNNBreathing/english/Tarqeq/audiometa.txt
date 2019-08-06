@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=Tarqeq (moon)
+|time=1:12
+|user_name=Mangst
+|date=2010-02-06
+|oldid=342338927
+|accent=American English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-02-06}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Tarqeq_%28moon%29.ogg}}
+* 2010-02-06 19:58 [[:en:User:Mangst|Mangst]] 0×0× (738530 bytes) ''<nowiki>{{Spoken article |title=Tarqeq (moon) |time=1:12 |user_name=Mangst |date=2010-02-06 |oldid=342338927 |accent=American English }} == Licensing: == {{GFDL}}</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

@@ -1,0 +1,25 @@
+{{Information
+|Description={{en|1=[[:en:Andalusian horse]]}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2011-12-12}}
+|Author={{original uploader|Mikewhitcombe|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+{{Spoken article
+|title= Andalusian horse
+|time= 9:00
+|user_name= [[User:Mikewhitcombe|mrw]] ([[User talk:Mikewhitcombe|talk]]) 22:13, 12 December 2011 (UTC)
+|date= 2010-12-12
+|oldid=465521810
+|accent= [[British English]]
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Andalusian_Horse_part_1.ogg}}
+* 2011-12-12 22:13 [[:en:User:Mikewhitcombe|Mikewhitcombe]] 0×0× (5857523 bytes) ''<nowiki>{{Spoken article |title= Andalusian Horse |time= 9:00 |user_name= ~~~~ |date= 2010-12-12 |oldid=465521810 |accent= [[British English]] }} == Licensin</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Read of Wikipedia pimple article}}
+|Source={{own}}
+|Author=[[User:Lexlexlex|Lexlexlex]] Alex Kasperavicius
+|Date=2010-04-26
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+
+
+[[Category:Dermatology]]
+[[Category:Spoken Wikipedia - English]]

@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Ray_Kurzweil
+|time=35:50
+|user_name=Mangst
+|date=2011-11-25
+|oldid=461185452
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

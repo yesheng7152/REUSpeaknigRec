@@ -1,0 +1,28 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:MasterDirk|MasterDirk]] made this recording based on Wikipedia
+|Date={{original upload date|2008-01-16}}
+|Author={{user at project|MasterDirk|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|MasterDirk|migration=relicense}}
+{{Spoken article
+|title= Mercury_(planet)
+|time= 40:36
+|user_name_link= [[User:MasterDirk|Tomas Ekeli]]
+|date= 2008-01-16
+|oldid=184589382
+|accent= Non-native English speaker, Norwegian
+|reviewed=yes
+|wiki_lang=en
+}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-Mercury%28Planet%29.ogg}}
+* 2008-01-16 04:52 [[:en:User:MasterDirk|MasterDirk]] 0×0× (19879496 bytes) ''<nowiki>{{Information |Description=Mercury (planet) |Source=self-made |Date=2008-01-16 |Location=Bergen, Norway |Author=Tomas Ekeli |Permission=GNU open documentation license |other_versions= }}</nowiki>''
+
+[[Category:Mercury (planet)]]
+[[Category:Spoken Wikipedia articles about planets]]

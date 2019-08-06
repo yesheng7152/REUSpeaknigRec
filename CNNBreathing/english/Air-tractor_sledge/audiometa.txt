@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Air-tractor sledge
+|time= 15:17
+|user_name= Jsharpminor
+|date= 2011-08-11
+|oldid=444129324
+|accent= General American
+}}
+{{Information 
+|description    = {{en|1= En-Air-tractor sledge}} 
+|date           = {{Original upload date|2011-08-11}} 
+|source         = {{transferred from|en.wikipedia|SreeBot}} 
+|author         = [[:en:User:Jsharpminor|Jsharpminor]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-Air-tractor_sledge.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2011-08-11 03:54 (UTC) | [[:en:User:Jsharpminor|Jsharpminor]] | 9526643 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title=Air-tractor sledge |time= 15:17 |user_name= Jsharpminor |date= 2011-08-11 |oldid=444129324 |accent= General American }} == Licensing: == {</nowiki></small>
+
+[[Category:Air-tractor sledge]]

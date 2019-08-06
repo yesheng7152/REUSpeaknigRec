@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken Wikipedia - audio script of Insects (section Introduction only) from [https://en.wikipedia.org/w/index.php?title=Insect&direction=prev&oldid=394091881 this version], recrded on 30 Oct 2010.}}
+|date=2010-10-30
+|source={{own}}
+|author=[[User:AshLin|AshLin]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Unreviewed spoken articles - English]]

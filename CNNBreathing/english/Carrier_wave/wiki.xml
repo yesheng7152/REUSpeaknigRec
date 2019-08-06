@@ -1,0 +1,29 @@
+<root>In [[telecommunications]], a '''carrier wave''', '''carrier signal''', or just '''carrier''', is a [[waveform]] (usually [[sinusoidal]]) that is [[Modulation|modulated]] (modified) with an  [[signal (electrical engineering)|input signal]] for the purpose of conveying information.<ext><name>ref</name><attr/><inner>{{citeweb|title=Carrier wave with no modulation transports no information.|url=http://www.utexas.edu/research/cemd/nim/Agif/CarrWave.html|publisher=''[[University Of Texas]]''|accessdate=2008-05-30}}</inner><close>&lt;/ref&gt;</close></ext> This carrier wave is usually a much higher [[frequency]] than the input signal.  The purpose of the carrier is usually either to transmit the information through space as an [[electromagnetic wave]] (as in radio communication), or to allow several carriers at different frequencies to share a common physical transmission medium by [[frequency division multiplexing]] (as, for example, a [[cable television]] system). The term is also used for an unmodulated [[Emission (electromagnetic radiation)|emission]] in the absence of any modulating signal.<ext><name>ref</name><attr/><inner>[[Federal Standard 1037C]] and [[MIL-STD-188]]</inner><close>&lt;/ref&gt;</close></ext>
+  
+[[Frequency modulation]] (FM) and [[amplitude modulation]] (AM) are common modes of modulating the carrier.  In the case of [[single-sideband modulation]] (SSB), the carrier is suppressed (and in some forms of SSB, eliminated). The carrier must be reintroduced at the receiver by a [[beat frequency oscillator]] (BFO). The frequency of a radio or television station is actually the carrier wave's [[center frequency]].
+
+<h level="2" i="1">== Carrierless modulation systems == </h>
+Newer forms of radio communication (such as [[spread spectrum]] and [[ultra-wideband]]) do not use a conventional sinusoidal carrier wave, nor does [[Orthogonal frequency-division multiplexing|OFDM]] (which is used in [[Digital subscriber line|DSL]] and in the European standard for [[High-definition television|HDTV]]).
+* [[Orthogonal frequency-division multiplexing|OFDM]] may be thought of as an array of symmetrical carrier waves. The rules governing carrier-wave propagation affect OFDM differently from [[8VSB]].
+* Some forms of [[spread spectrum]] transmission (and most forms of [[ultra-wideband]]) are mathematically defined as being devoid of carrier waves. Transmitter implementations typically produce residual carriers which may (or may not) be detectable or transmitted.
+
+<h level="2" i="2">== Carrier leakage ==</h>
+Carrier leakage is interference caused by cross-talk or a DC offset. It is present as an unmodulated sine wave within the signal's bandwidth, whose amplitude is independent of the signal's amplitude. See [[frequency mixer]]s, to read further about carrier leakage or local oscillator feedthrough.
+
+<h level="2" i="3">== See also ==</h>
+* [[Carrier recovery]]
+* [[Carrier system]]
+* [[Carrier tone]]
+* [[Frequency-division multiplexing]]
+* [[Sideband]]
+
+<h level="2" i="4">==References==</h>
+<comment>&lt;!---See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the &lt;ref(erences/)&gt; tags--&gt;
+</comment><template lineStart="1"><title>reflist</title></template>
+
+
+<template lineStart="1"><title>Authority control</title></template>
+[[Category:Communication circuits]]
+[[Category:Waveforms]]
+
+<template lineStart="1"><title>Telecommunications</title></template></root>

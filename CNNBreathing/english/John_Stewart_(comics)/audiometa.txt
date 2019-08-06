@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=John Stewart Green Lantern, read by Matt Sanchez
+|Source={{Own}}
+|Date=4-16-08
+|Author= [[User:Bluemarine|Bluemarine]]
+|Permission={{Self|GFDL|Cc-by-sa-3.0-migrated}}
+|other_versions=
+}}
+
+{{self|GFDL|cc-by-3.0}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[Category:Files by User:Bluemarine]]
+[[Category:Green Lantern and his cast]]

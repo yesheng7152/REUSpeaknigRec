@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken version of the English language Wikipedia article on John Y. Brown (politician, born 1835)}}
+|date=2014-06-25 18:16:41
+|source={{own}}
+|author=[[User:Matthew David González|Matthew David González]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+{{Check categories|year=2015|month=May|day=3}}
+[[Category:John Y. Brown (1835–1904)]]

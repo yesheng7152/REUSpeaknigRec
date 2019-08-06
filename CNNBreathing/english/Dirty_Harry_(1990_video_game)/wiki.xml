@@ -1,0 +1,45 @@
+<root><template><title>Infobox video game
+</title><part><name> title </name><equals>=</equals><value> Dirty Harry
+</value></part><part><name> image </name><equals>=</equals><value> [[Image:Dirty Harry - The War Against Drugs Coverart.png|frameless|Dirty Harry]]
+</value></part><part><name> caption </name><equals>=</equals><value> Cover art of ''Dirty Harry''
+</value></part><part><name> developer </name><equals>=</equals><value> [[Gray Matter Inc.]]
+</value></part><part><name> publisher </name><equals>=</equals><value> [[Mindscape]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext>
+</value></part><part><name> designer </name><equals>=</equals><value> [[Chris Gray (video game developer)|Chris Gray]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext> &lt;br&gt; [[Ed Zolnieryk]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext>
+</value></part><part><name> composer </name><equals>=</equals><value> [[Steven Samler]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext> &lt;br&gt; [[Elliot Delman]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext>
+</value></part><part><name> released </name><equals>=</equals><value> <template><title>vgrelease</title><part><name>NA</name><equals>=</equals><value>December 1990<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr><inner>{{cite web | url = http://www.gamefaqs.com/console/nes/data/587230.html| title = Release information | publisher = [[GameFAQs]]| date = | accessdate = 2008-10-29}}</inner><close>&lt;/ref&gt;</close></ext></value></part></template>
+</value></part><part><name> genre </name><equals>=</equals><value> [[Action game|Action]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext>
+</value></part><part><name> modes </name><equals>=</equals><value> [[Single-player video game|Single player]]
+</value></part><part><name> platforms </name><equals>=</equals><value> [[Nintendo Entertainment System|NES]]<ext><name>ref</name><attr> name=&quot;gfdhtwad&quot;</attr></ext>
+</value></part></template>
+
+'''''Dirty Harry''''' is a [[1990 in video gaming|1990]] [[video game]] based on the ''[[Dirty Harry]]'' film franchise starring [[Clint Eastwood]]. Though the game is sometimes incorrectly referred to as &quot;Dirty Harry: The War Against Drugs&quot;, nowhere on the box or in the game does it state that subtitle.
+
+<h level="2" i="1">==Story==</h>
+[[Harry Callahan (character)|Harry Callahan]] is a [[San Francisco]] [[police detective]] who rarely follows police protocol. A powerful [[drug lord]] known as The Anaconda has created a burgeoning drug-smuggling operation by recruiting all of San Francisco's drug gangs. Harry must crack the case and take down the kingpin himself on [[Alcatraz]].<ext><name>ref</name><attr/><inner>http://www.the-dirtiest.com/manual.htm</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="2">==Gameplay==</h>
+The game is a [[Side-scrolling video game|side-scroller]] in which players must guide Dirty Harry throughout San Francisco. He wears a blue suit, although it can be exchanged for a white suit. He wields his signature [[.44 magnum]], and players have to ability to draw the weapon without actually firing it. Most notable, in reference to real-life handguns, the .44 also exhibits a [[recoil]] effect when fired. Other weapons consist of [[LAW Rocket|LAWs]] rockets, [[harpoon gun]]s, and explosive remote-controlled cars. When injured, Harry's health can be restored by eating [[chili dog]]s.
+
+<h level="2" i="3">==Music==</h>
+The music in ''Dirty Harry'' was composed by Steven Samler and Elliot Delman. The music was composed using [[Digital Performer]] for the [[Macintosh]]. Not only were the composers given credit in the game and the instruction manual, but also the back of the game's box, which is the only NES game that had that.
+
+<h level="2" i="4">==Film references==</h>
+It however incorporates several references to the film series.<ext><name>ref</name><attr/><inner>{{cite web | url = http://www.neoseeker.com/Games/Products/NES/dirty_harry/| title = Basic game summary | publisher = Neoseeker| date = | accessdate = 2008-11-03}}</inner><close>&lt;/ref&gt;</close></ext> The game uses digitized speech to deliver both of Harry's famous lines: [[Go ahead, make my day|Make my day]], and I know what you're thinking... The showdown occurs on Alcatraz island.<ext><name>ref</name><attr/><inner>{{cite web | url = http://www.the-dirtiest.com/nes.htm| title = Advanced game summary | publisher = The Dirtiest| date = | accessdate = 2008-11-03}}</inner><close>&lt;/ref&gt;</close></ext> Also, the password for infinite lives (CLYDE) is a reference to Clyde the Orangutan from ''[[Every Which Way but Loose (film)|Every Which Way but Loose]]'', and the password for level 2 is Misty, a reference to ''[[Play Misty for Me]]'', both non-Dirty Harry films starring Clint Eastwood.
+
+<h level="2" i="5">==See also==</h>
+*[[Dirty Harry (2007 video game)]]
+
+<h level="2" i="6">==References==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<template lineStart="1"><title>Dirty Harry movies</title></template>
+
+[[Category:1990 video games]]
+[[Category:Dirty Harry video games]]
+[[Category:Video games about the illegal drug trade]]
+[[Category:Nintendo Entertainment System-only games]]
+[[Category:North America-exclusive video games]]
+[[Category:Organized crime video games]]
+[[Category:Video games based on films]]
+[[Category:Video games set in San Francisco, California]]
+[[Category:Detective video games]]</root>

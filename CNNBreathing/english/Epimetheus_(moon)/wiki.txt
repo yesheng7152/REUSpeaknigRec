@@ -1,0 +1,113 @@
+{{Dablink|There is also an [[asteroid]] called [[1810 Epimetheus]].}}
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name = Epimetheus
+| image = [[Image:PIA09813 Epimetheus S. polar region.jpg|300px]]
+| caption = As imaged by ''[[Cassini–Huygens|Cassini]]'' on December 3, 2007
+| bgcolour = #a0ffa0
+| discovery = yes
+| discoverer = [[Richard Walker (astronomer)|Richard Walker]]
+| discovered = December 18, 1966
+| orbit_ref =<ref name="Spitale2006">{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132 | issue=2 | pages= 692–710 | url=http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206 }}</ref>
+| epoch = 31 December 2003 ([[Julian day|JD]] 2453005.5)
+| semimajor = 151&nbsp;410 ± 10 km 
+| eccentricity = 0.0098
+| period = 0.694&nbsp;333&nbsp;517 d
+| inclination = 0.351 ± 0.004° to Saturn's equator
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 135 &times; 108 &times; 105 km<ref name="Porco2006">{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites''| journal= Bulletin of the American Astronomical Society| year= 2006| volume= 37| pages= 768| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf}}</ref>
+| mean_radius = 56.7 ± 3.1 km<ref name="Porco2006" />
+| surface_area = ~40&nbsp;000 km²
+| volume = ~760&nbsp;000 km³
+| mass = 5.304 ± 0.013 &times;10<sup>17</sup> kg<ref name="Spitale2006"/>
+| density = 0.69 ± 0.11 g/cm³
+| surface_grav = ~0.0078 [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity = ~0.032 km/s
+| rotation = [[Synchronous rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 0.73 ± 0.03 ([[geometric albedo|geometric]])<ref name=Verbiscer>[[Anne Verbiscer|Verbiscer, A.]]; [[Richard French|French, R.]]; [[Mark Showalter|Showalter, M.]]; and [[Paul Helfenstein|Helfenstein, P.]]; [http://www.sciencemag.org/cgi/content/abstract/315/5813/815 ''Enceladus: Cosmic Graffiti Artist Caught in the Act''], Science, Vol. 315, No. 5813 (February 9, 2007), p. 815 (supporting online material, table S1)</ref>
+| single_temperature = ~78 [[kelvin|K]]
+}}
+'''Epimetheus''' ({{pron-en|ˌɛpɨˈmiːθiəs}}, {{IPA-en|ˌɛpɨˈmiːθjuːs|}},<ref>In US dictionary transcription, {{USdict|ĕp′·<s>ı</s>·mē′·thē·əs, ĕp′·<s>ı</s>·mē′·thūs}}.</ref> or as Greek ''Επιμηθεύς)'' is an [[inner satellite]] of [[Saturn]].  It is also known as '''Saturn&nbsp;XI'''. It is named after the mythological [[Epimetheus (mythology)|Epimetheus]], brother of [[Prometheus]].
+
+==Discovery==
+[[Image:Epimetheus.jpg|thumb|left|Epimetheus]]
+Epimetheus occupies essentially the same orbit as the moon [[Janus (moon)|Janus]]. Astronomers assumed that there was only one body in that orbit, and accordingly had difficulty determining their orbital characteristics. Observations were photographic and spaced widely apart in time, so that while the presence of two objects was not obvious, the observations were difficult to reconcile with a reasonable orbit.
+
+[[Audouin Dollfus]] observed a moon on December 15, 1966,<ref>[http://cfa-www.harvard.edu/iauc/01900/01987.html IAUC 1987: ''Probable New Satellite of Saturn''] January 3, 1967 (discovery)</ref> which he proposed to be named "Janus".<ref name="IAUC1995">[http://cfa-www.harvard.edu/iauc/01900/01995.html IAUC 1995: ''Saturn X (Janus)''] February 1, 1967 (naming Janus)</ref> On December 18, [[Richard Walker (astronomer)|Richard Walker]] made a similar observation which is now credited as the discovery of Epimetheus.<ref>[http://cfa-www.harvard.edu/iauc/01900/01991.html IAUC 1991: ''Possible New Satellite of Saturn''] January 6, 1967</ref> However, at the time, it was believed that there was only one moon, unofficially known as "Janus", in the given orbit.
+
+Twelve years later, in October 1978, [[Stephen M. Larson]] and [[John W. Fountain]] realised that the 1966 observations were best explained by two distinct objects (Janus and Epimetheus) sharing very similar orbits.<ref>[[John W. Fountain|Fountain, J. W.]]; and [[Stephen M. Larson|Larson, S. M.]]; 
+[http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1978Icar...36...92F&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=45eb6e10af21569 ''Saturn's ring and nearby faint satellites''], Icarus, Vol. 36 (October 1978), pp. 92–106</ref> This was confirmed in 1980 by ''[[Voyager 1]]''{{Citation needed|date=April 2007}}, and so Larson and Fountain officially share the discovery of Epimetheus with Walker.
+
+Epimetheus received its name in 1983.<ref>Transactions of the International Astronomical Union, Vol. XVIIIA, 1982 (confirms Janus, names Epimetheus, Telesto, Calypso) <small>(mentioned in [http://cfa-www.harvard.edu/iauc/03800/03872.html IAUC 3872: ''Satellites of Jupiter and Saturn''] 1983 September 30)</small></ref> The name Janus was approved by the [[International Astronomical Union|IAU]] at the same time, although the name had been used informally since Dollfus proposed it shortly after the 1966 discovery.
+
+==Orbital relationship between Epimetheus and Janus==
+[[Image:PIA08170 Epimetheus and Janus.jpg|thumb|left|250px|Epimetheus (lower left) and [[Janus (moon)|Janus]] seen on March 20, 2006, two months after swapping orbits. The close proximity between the two moons is an illusion; they are actually being seen on opposite sides of their common orbit.]]
+[[Image:Epimetheus-Janus Orbit.png|thumb|right|300px|The [[horseshoe orbit]]s of Janus and Epimetheus can be easily seen in this [[Rotating reference frame|rotating frame]] depiction.]]
+Epimetheus and [[Janus (moon)|Janus]] are ''[[Co-orbital moon|co-orbital]]:'' Janus's [[semimajor axis|mean orbital radius]] from Saturn is currently only 50&nbsp;km less than that of Epimetheus, a distance smaller than either moon's diameter.  In accordance with [[Kepler's laws of planetary motion]], the closer [[orbit]] is completed  more quickly, but only by about 30 seconds. Each day the inner moon is an additional ¼° farther around Saturn than the outer moon. As the inner moon catches up to the outer moon, their mutual gravitational attraction boosts the inner moon's momentum and saps the outer moon's momentum. With this added momentum, the inner moon's distance from Saturn and [[orbital period]] are increased, and the outer moon's are decreased. The timing and magnitude of the [[Gravity assist|momentum exchange]] is such that the moons "trade" orbits, never approaching closer than about 10,000&nbsp;km. The exchange takes place about once every four years; the last close approach occurred on January 21, 2006,<ref>NASA JPL, [http://saturn.jpl.nasa.gov/photos/imagedetails/index.cfm?imageID=2103 ''Cassini-Huygens Multimedia: The Dancing Moons''], May 3, 2006</ref> the next will be in 2010. At that time, Janus's orbital radius will increase by ~20&nbsp;km, while Epimetheus's decreases by ~80&nbsp;km; Janus's orbit is less affected because it is 4 times more massive than Epimetheus. As far as it is currently known, this arrangement is unique in the [[solar system]].
+
+The orbital relationship between Janus and Epimetheus can be understood in terms of the [[Three-body problem|circular restricted three-body problem]], as a case in which the two moons (the third body being Saturn) are similar in size to each other. Other examples of the three-body problem include the [[Lagrangian point]]s, [[Trojan asteroids]] and [[Trojan moons]], the [[horseshoe orbit|"horseshoe" orbit]] of [[3753 Cruithne|Cruithne]] with respect to Earth, and potentially dozens of other objects in similar orbits.<ref>Lloyd, R.; [http://www.space.com/scienceastronomy/solarsystem/second_moon_991029.html ''More Moons Around Earth? Its Not So Loony''], Space.com, October 29, 1999</ref>
+
+==Physical characteristics==
+[[Image:Epimetheus moon.jpg|thumb|left|Epimetheus crossed by the shadow of the [[F Ring]], as imaged by ''[[Voyager 1]]'' (NASA)]]
+There are several Epimethean craters larger than 30&nbsp;km in diameter, as well as both large and small ridges and grooves. The extensive cratering indicates that Epimetheus must be quite old. Janus and Epimetheus may have formed from a disruption of a single parent to form co-orbital satellites, but if this is the case the disruption must have happened early in the history of the satellite system. From its very low density and relatively high [[albedo]], it seems likely that Epimetheus is a very porous icy body. There is a lot of uncertainty in these values, however, and so this remains to be confirmed.
+
+The south pole shows what might be the remains of a large impact crater covering most of this face of the moon, and which could be responsible for the somewhat flattened shape of the southern part of Epimetheus.
+
+There appear to be two terrain types: darker, smoother areas, and brighter, slightly more yellowish, fractured terrain. One interpretation is that the darker material evidently moves down slopes, and probably has a lower ice content than the brighter material, which appears more like "bedrock." Nonetheless, materials in both terrains are likely to be rich in water ice.<ref>[http://photojournal.jpl.nasa.gov/catalog/PIA09813 Catalog Page for PIA09813<!-- Bot generated title -->]</ref>
+
+==Ring==
+A faint dust ring is present around the region occupied by the orbits of Epimetheus and Janus, as revealed by images taken in forward-scattered light by the [[Cassini–Huygens|Cassini spacecraft]] in 2006. The ring has a radial extent of about 5000&nbsp;km.<ref name="Cassini_eclipse1">NASA Planetary Photojournal [http://photojournal.jpl.nasa.gov/catalog/PIA08328 ''PIA08328: Moon-Made Rings'']</ref> Its source are particles blasted off the moons' surfaces by meteoroid impacts, which then form a diffuse ring around their orbital paths.<ref name="Cassini_eclipse2">Cassini-Huygens press release [http://saturn.jpl.nasa.gov/news/newsreleases/newsrelease20061011-3/ ''NASA Finds Saturn's Moons May Be Creating New Rings''], October 11, 2006</ref>
+
+==See also==
+*[[List of geological features on Saturn's smaller moons]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Epimetheus Epimetheus Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://www.planetary.org/explore/topics/saturn/epimetheus.html The Planetary Society: Epimetheus]
+*[http://ssdbook.maths.qmw.ac.uk/ 'Solar System Dynamics' by Murray and Dermott] The standard text on the subject, describes the orbits in detail.
+*[http://ssdbook.maths.qmw.ac.uk/animations/Coorbital.mov Quicktime illustration of co-orbital motion] from Murray and Dermott {{Dead link|date=December 2009}}
+* [http://saturn.jpl.nasa.gov/multimedia/images/image-details.cfm?imageID=2103 Cassini image] of Janus and Epimetheus near the time of their orbital swap.
+
+{{Moons of Saturn}}
+
+{{DEFAULTSORT:Epimetheus (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[als:Epimetheus (Mond)]]
+[[br:Epimetheus (loarenn)]]
+[[bg:Епиметей (спътник)]]
+[[ca:Epimeteu (satèl·lit)]]
+[[cs:Epimetheus (měsíc)]]
+[[co:Epimeteu]]
+[[cy:Epimethëws (lloeren)]]
+[[da:Epimetheus (måne)]]
+[[de:Epimetheus (Mond)]]
+[[el:Επιμηθέας (δορυφόρος)]]
+[[es:Epimeteo (satélite)]]
+[[fr:Épiméthée (lune)]]
+[[hr:Epimetej (mjesec)]]
+[[it:Epimeteo (astronomia)]]
+[[lt:Epimetėjas (palydovas)]]
+[[nl:Epimetheus (maan)]]
+[[ja:エピメテウス (衛星)]]
+[[nn:Saturnmånen Epimetheus]]
+[[pl:Epimeteusz (księżyc)]]
+[[pt:Epimeteu (satélite)]]
+[[ro:Epimeteu (satelit)]]
+[[ru:Эпиметей (спутник)]]
+[[simple:Epimetheus (moon)]]
+[[sk:Epimetheus (mesiac)]]
+[[sl:Epimetej (luna)]]
+[[fi:Epimetheus (kuu)]]
+[[sv:Epimetheus (måne)]]
+[[tl:Epimeteo (buwan)]]
+[[uk:Епіметей (супутник)]]
+[[zh:土卫十一]]

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Second Malaysia Plan
+|user_name_link=[[User:Borisblue]]
+|date=2014-04-03
+|accent=Malaysian English
+|sex=M
+|oldid=602040356
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} 
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+
+[[Category:Malaysia]]

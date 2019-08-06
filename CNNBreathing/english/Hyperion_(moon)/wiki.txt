@@ -1,0 +1,213 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->{{Infobox Planet
+| name       = Hyperion
+| alt_names  = Saturn VII
+| adjectives = Hyperionian
+| image      = [[Image:Hyperion true.jpg|270px|Hyperion in approximately natural color; acquired by Cassini spacecraft]]
+| bgcolour   = #a0ffa0
+| discovery  = yes
+| discoverer = [[William Cranch Bond|William Bond]], [[George Phillips Bond|George Bond]], [[William Lassell|William Lassell]]
+| discovered = 16 September 1848
+| semimajor  = {{val|1481009|u=km}}<ref>Computed from period, using the [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html IAU-MPC NSES] µ value</ref>
+| eccentricity = {{val|0.1230061}}<ref>[http://home.gwi.net/~pluto/mpecs/ss07.htm#elements Pluto Project pseudo-MPEC for Saturn VII]</ref>
+| period       = {{val|21.276|u=d}}
+| inclination  = 0.43° (to Saturn's equator)<ref>[http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Sat_Hyperion&Display=Facts&System=Metric NASA's Solar System Exploration: Saturn: Moons: Hyperion: Facts & Figures]</ref><ref>[http://www.mira.org/fts0/planets/100/text/txt002x.htm MIRA's Field Trips to the Stars Internet Education Program: Saturn]</ref><!-- The sse.jpl.nasa.gov pages all say "to the ecliptic" when they mean "to Saturn's equator"; a lot of the quoted masses are also very, very wrong (cut and paste problems, it seems) -->
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions   = {{nowrap|328 km &times; 260 km &times; 214 km}}<ref name=Thomas1995>{{cite journal|last=Thomas|first=P.C|coauthors=Black, G. J.; Nicholson, P. D.|title=Hyperion: Rotation, Shape, and Geology from Voyager Images |journal=Icarus|year=1995|volume=117|issue=1|pages=128–148|url=http://adsabs.harvard.edu/abs/1995Icar..117..128T|doi=10.1006/icar.1995.1147}}</ref><br>([[geometric mean]] 263&nbsp;km)
+| mean_radius  = {{val|135.00|4.00|u=km}}<ref name=jplssd>
+{{cite web
+  |date=13 July 2006
+  |publisher=[[JPL]] (Solar System Dynamics)
+  |title=Planetary Satellite Physical Parameters
+  |url=http://ssd.jpl.nasa.gov/?sat_phys_par
+  |accessdate=2008-12-07
+}}</ref>
+| mass = {{val|0.5584|0.0068|e=19|ul=kg}}<ref name="Jacobson 2006">
+{{cite journal
+  |author=R.A. Jacobson ''et al''.
+  |year=2006
+  |title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data
+  |journal=[[Astronomical Journal]]
+  |volume=132 |issue= |pages=2520–2526
+  |doi=10.1086/508812
+}}</ref>
+| density = {{val|0.5667|0.1025|u=g/cm3}}<ref name="Jacobson 2006"/>
+| surface_grav = 0.017–{{val|0.021|ul=m/s2}} depending on location<ref name="Thomas 2007">{{cite journal
+  |author=P.C. Thomas ''et al''.
+  |year=2007
+  |title=Hyperion's Sponge-like Appearance
+  |journal=[[Nature (journal)|Nature]]
+  |volume=448 |issue= |pages=50–56
+  |doi=10.1038/nature05779
+}}</ref>
+| escape_velocity = 45–{{val|99|u=m/s}} depending on location <ref name="Thomas 2007"/>.
+| rotation = [[Chaos theory|chaotic]]
+| axial_tilt = variable
+| albedo = 0.3<ref name=fact>
+{{cite web
+  |author=D.R. Williams
+  |date=18 September 2006
+  |title=Saturnian Satellite Fact Sheet
+  |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html
+  |publisher=[[NASA]]
+  |accessdate=2007-11-04
+}}</ref>
+| magnitude = 14.1<ref name=magnitude>
+{{cite web
+  |title=Classic Satellites of the Solar System
+  |url=http://www.oarval.org/ClasSaten.htm
+  |publisher=[[Observatorio ARVAL]]
+  |accessdate=2009-08-10
+}}</ref>
+}}
+
+'''Hyperion''' ({{pron-en|haɪˈpɪəriən}},<ref>In US dictionary transcription, {{USdict|hī·pēr′·ē·ən}}.</ref> or as in Greek ''Ὑπερίων''), also known as '''Saturn&nbsp;VII''', is a [[natural satellite|moon]] of [[Saturn]] discovered by [[William Cranch Bond]], [[George Phillips Bond]] and [[William Lassell]] in 1848. It is distinguished by its irregular shape, its chaotic rotation, and its unexplained sponge-like appearance.
+
+==Name==
+The moon is named after [[Hyperion (mythology)|Hyperion]], a [[Titan (mythology)|Titan]] in [[Greek mythology]].  It is also designated '''Saturn&nbsp;VII'''. The adjectival form of the name is ''Hyperionian''.
+
+Hyperion's discovery came shortly after [[John Herschel]] had suggested names for the seven previously-known satellites of Saturn in his 1847 publication ''Results of Astronomical Observations made at the Cape of Good Hope''.<ref>
+{{cite journal
+ |author=W. Lassell
+ |date=1848
+ |title=
+ |url=http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=8 |issue=3 |pages=42–43
+ |doi=
+ |bibcode=
+}}</ref> [[William Lassell]], who saw Hyperion two days after [[William Cranch Bond|William Bond]], had already endorsed Herschel's naming scheme and suggested the name Hyperion in accordance with it.<ref>
+{{cite journal
+ |author=W. Lassell
+ |year=1848<!--- ADS says 1847, but the contents make it abundantly clear this volume was published in 1848; see for example the observations of Flora reported in the lower half of page 197, dated May 1848 --->
+ |url=http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000195.000.html
+ |title=Discovery of a New Satellite of Saturn
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=8 |issue=9 |pages=195–197
+ |doi=
+ |bibcode=
+}}</ref> He also beat Bond to publication.<ref>
+{{cite journal
+ |author=W.C. Bond
+ |year=1848
+ |title=Discovery of a new satellite of Saturn
+ |url=http://adsabs.harvard.edu//full/seri/MNRAS/0009//0000001.000.html
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=9 |issue=1 |pages=1–2
+ |doi=
+ |bibcode=
+}}</ref>
+
+==Physical characteristics==
+===Shape===
+Hyperion is one of the largest highly irregular (non-spherical) bodies in the [[solar system]] (second to [[Proteus (moon)|Proteus]]). The largest [[Impact crater|crater]] on Hyperion is approximately {{val|121.57|u=km}} in diameter and {{val|10.2|u=km}} deep. A possible explanation for the irregular morphology is that Hyperion is a fragment of a larger body that was broken by a large impact in the distant past.<ref name="Matthews1992">
+{{cite journal
+ |author=R.A.J. Matthews
+ |year=1992
+ |title=The Darkening of Iapetus and the Origin of Hyperion
+ |journal=[[Quarterly Journal of the Royal Astronomical Society]]
+ |volume=33 |pages=253–258
+ |doi=
+ |bibcode=1992QJRAS..33..253M
+}}</ref>
+[[Image:Hyperion in natural colours.jpg|195px|thumb|left|True color image of Hyperion, taken by the [[Cassini spacecraft|''Cassini'' spacecraft]].]]
+
+===Composition===
+Like most of [[Saturn's natural satellites|Saturn's moons]], Hyperion's low [[density]] indicates that it is composed largely of water ice with only a small amount of rock. It is thought that Hyperion may be similar to a loosely accreted pile of rubble in its physical composition. However, unlike most of Saturn's moons, Hyperion has a low [[albedo]] (0.2–0.3), indicating that it is covered by at least a thin layer of dark material.  This may be material from [[Phoebe (moon)|Phoebe]] (which is much darker) that got past [[Iapetus (moon)|Iapetus]]. Hyperion is [[red]]der than Phoebe and closely matches the color of the dark material on Iapetus.
+
+Hyperion has a [[porosity]] of about 0.46.<ref name="Thomas 2007"/>
+
+===Surface features===
+{{See also|List of geological features on Hyperion}}
+''[[Voyager 2]]'' passed through the Saturn system but photographed Hyperion only from a distance. It discerned individual craters and an enormous ridge but was not able to make out the texture of the moon's surface. Early images from the ''[[Cassini-Huygens|Cassini]]'' orbiter suggested an unusual appearance, but it was not until ''Cassini'''s sole targeted flyby of Hyperion on 25 September 2005 that the moon's oddness was revealed in full.
+
+Hyperion's surface is covered with deep, sharp-edged [[impact crater|crater]]s that give it the appearance of a giant sponge. Dark material fills the bottom of each crater. The reddish substance contains long chains of [[carbon]] and [[hydrogen]] and appears very similar to material found on other Saturnian satellites, most notably [[Iapetus (moon)|Iapetus]].
+
+The latest analyses of data obtained by [[NASA]]'s [[Cassini spacecraft|''Cassini'' spacecraft]] during its flybys of Hyperion in 2005 and 2006 show that about 40 percent of the moon is empty space.  It was suggested in July 2007 that this [[porosity]] allows craters to remain nearly unchanged over the eons. The new analyses also confirmed that Hyperion is composed mostly of water ice with very little rock. "We find that water ice is the main constituent of the surface, but it's dirty water ice," said [[Dale Cruikshank]], a researcher at the NASA [[Ames Research Center]].<ref>
+{{cite web
+ |author=
+ |year=
+ |title=Key to Giant Space Sponge Revealed
+ |url=http://www.space.com/scienceastronomy/070704_sponge_moon.html
+ |work=[[Space.com]]
+ |accessdate=October 26, 2007
+}}</ref>
+
+==Rotation==
+
+[[Image:Hyperion false color.jpg|190px|right|thumb|Hyperion with image processing to bring out details. Taken by the [[Cassini-Huygens|''Cassini'']] space probe.]]
+
+The [[Voyager 2]] images and subsequent ground based [[Photometry (astronomy)|photometry]] indicate that Hyperion's rotation is [[Chaos theory|chaotic]], that is, its axis of rotation wobbles so much that its orientation in space is unpredictable. Hyperion is the only known moon in the solar system that rotates chaotically, but simulations suggest that other irregular satellites may have done so in the past.
+
+It is unique among the large moons in that it is very irregularly shaped, has a fairly eccentric orbit, and is near another large moon, [[Titan (moon)|Titan]]. These factors combine to restrict the set of conditions under which a stable rotation is possible. The 3:4 [[orbital resonance]] between Titan and Hyperion may also make a chaotic rotation more likely. The odd rotation probably accounts for the relative uniformity of Hyperion's surface, in contrast to many of [[Saturn's natural satellites|Saturn's other moons]] which have contrastive trailing and leading hemispheres.<ref>
+{{cite journal
+ |author=J. Wisdom, S.J. Peale, F. Mignard
+ |year=1984
+ |title=The chaotic rotation of Hyperion
+ |journal=[[Icarus (journal)|Icarus]]
+ |volume=58 |issue= |pages=137–152
+ |bibcode=1984Icar...58..137W
+ |doi=10.1016/0019-1035(84)90032-0
+}}</ref>
+
+==Exploration==
+Hyperion has been imaged several times from moderate distances by the [[Cassini–Huygens|Cassini orbiter]]. There was one close targeted fly-by, at a distance of 500&nbsp;km on 26 September 2005; there are no plans for any others. 
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://saturn.jpl.nasa.gov/science/moons/moonDetails.cfm?pageID=6 Cassini mission Hyperion page]
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Hyperion Hyperion Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/our_solar_system/saturn/hyperion.html The Planetary Society: Hyperion]
+* [http://www.nasa.gov/multimedia/imagegallery/image_feature_749.html NASA: Saturn's Hyperion, A Moon With Odd Craters]
+
+<br/>
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Hyperion (Moon)}}
+[[Category:Moons of Saturn]]
+[[Category:Discoveries by William Cranch Bond]]
+
+[[als:Hyperion (Mond)]]
+[[ar:هايبريون]]
+[[ast:Hiperión (satélite)]]
+[[bg:Хиперион (спътник)]]
+[[ca:Hiperió (satèl·lit)]]
+[[cs:Hyperion (měsíc)]]
+[[co:Iperione]]
+[[cy:Hyperion (lloeren)]]
+[[da:Hyperion (måne)]]
+[[de:Hyperion (Mond)]]
+[[el:Υπερίων (δορυφόρος)]]
+[[es:Hiperión (satélite)]]
+[[fa:هیپرون (ماه)]]
+[[fr:Hypérion (lune)]]
+[[ko:히페리온 (위성)]]
+[[hr:Hiperion (mjesec)]]
+[[id:Hyperion (bulan)]]
+[[it:Iperione (astronomia)]]
+[[la:Hyperion (satelles)]]
+[[lv:Hiperions (pavadonis)]]
+[[lt:Hiperionas (palydovas)]]
+[[hu:Hyperion (hold)]]
+[[ms:Hyperion (bulan)]]
+[[nl:Hyperion (maan)]]
+[[ja:ヒペリオン (衛星)]]
+[[no:Hyperion (måne)]]
+[[nn:Saturnmånen Hyperion]]
+[[pl:Hyperion (księżyc)]]
+[[pt:Hipérion (lua)]]
+[[ro:Hyperion (satelit)]]
+[[ru:Гиперион (спутник)]]
+[[scn:Iperiuni]]
+[[simple:Hyperion (moon)]]
+[[sk:Hyperion (mesiac)]]
+[[sl:Hiperion (luna)]]
+[[fi:Hyperion (kuu)]]
+[[sv:Hyperion (måne)]]
+[[uk:Гіперіон (супутник)]]
+[[zh:土卫七]]

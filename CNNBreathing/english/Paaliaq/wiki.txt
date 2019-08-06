@@ -1,0 +1,59 @@
+{{Irregular satellite|
+|ref_discovery=<ref name="Discoverers_JPL">Discovery Circumstances [http://ssd.jpl.nasa.gov/?sat_discovery (JPL)]</ref>
+|name=Paaliaq - Saturn XX
+|discoverer=[[Brett J. Gladman]] et al.
+|discovery_date=in 2000
+|epoch=2000 Feb. 26.00
+|ref_orb_elems=<ref name="JPL_mean_elems">Mean orbital parameters [http://ssd.jpl.nasa.gov/?sat_elem from NASA JPL]</ref>
+|semimajor=15.200
+|eccentricity=0.3631	
+|inclination=45.083
+|period=686.9 d<br/>(1.88 [[Julian year|yr]])
+|diameter=22 km<ref name="Sheppard">[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]</ref> 
+|albedo=0.04 <ref name="Sheppard"/> ''assumed''
+|color=''red''<br/><small>B-V=0.86 R-V=0.40<ref name="Grav2006">[[Tommy Grav|Grav, T.]]; and [[James Bauer|Bauer, J.]]; [http://arxiv.org/abs/astro-ph/0611590 ''A deeper look at the colors of Saturnian irregular satellites'']</ref></small>
+|spectral_type=[[D-type asteroid|D]]<ref name="Grav2006"/>
+}}
+'''Paaliaq''' ({{pronEng|ˈpɑːliɑːk}} ''<small>PAH</small>-lee-ahk)'' is a [[prograde]] [[irregular satellite|irregular]] [[natural satellite|satellite]] of [[Saturn]]. It was discovered by [[Brett J. Gladman]], [[John J. Kavelaars]], [[Jean-Marc Petit]], [[Hans Scholl (astronomer)|Hans Scholl]], [[Matthew J. Holman]], [[Brian G. Marsden]],
+[[Philip D. Nicholson]] and [[Joseph A. Burns]] in early October 2000<ref>[http://cfa-www.harvard.edu/iauc/07500/07512.html IAUC 7512: ''S/2000 S 1 and S/2000 S 2''] October 25, 2000 (discovery)</ref><ref>[http://cfa-www.harvard.edu/mpec/K00/K00Y15.html MPEC 2000-Y15: ''S/2000 S 1, S/2000 S 2, S/2000 S 7, S/2000 S 8, S/2000 S 9''] December 19, 2000 (discovery and ephemeris)</ref>, and given the temporary designation '''S/2000&nbsp;S&nbsp;2'''. It was named in August 2003 after a fictional shaman in the book ''The Curse of the Shaman,'' written by Michael Kusugak, who supplied Kavelaars with the names of giants from [[Inuit mythology]] that were used for other Saturnian moons. 
+
+Paaliaq is thought to be about 22 kilometres in diameter, and orbits Saturn at an average distance of 15.2 Gm in 687 days. It is a member of the [[Saturn's Inuit group of satellites|Inuit group]] of irregular satellites. It also has a proximity with 9 other moons reaching up to ten miles from each.
+
+Together with [[Kiviuq (moon)|Kiviuq]] and [[Siarnaq (moon)|Siarnaq]], Paaliaq displays ''light-red'' colours and similar [[infrared]] spectrum, further supporting the thesis of a possible common origin of the Inuit group in the break-up of a larger body<ref name="Grav2006"/><ref name="Gladman2001">Gladman, B. J.; Nicholson, P. D.; Burns, J. A.; Kavelaars, J. J.; Marsden, B. G.; Holman, M. J.; Grav, T.; [[Carl W. Hergenrother|Hergenrother, C. W.]]; [[Jean-Marc Petit|Petit, J.-M.]]; [[Robert A. Jacobson|Jacobson, R. A.]]; and [[William J. Gray|Gray, W. J.]]; [http://www.nature.com/nature/journal/v412/n6843/abs/412163a0.html ''Discovery of 12 satellites of Saturn exhibiting orbital clustering''], Nature, '''412''' (July 12, 2001), pp. 163–166</ref>.
+
+== References ==
+{{reflist}}
+*Ephemeris [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html IAU-MPC NSES]
+
+== External links ==
+*[http://www.ifa.hawaii.edu/~jewitt/irregulars.html David Jewitt pages]
+*[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]
+
+<br/>
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Paaliaq (Moon)}}
+[[Category:Moons of Saturn]]
+[[Category:Irregular satellites]]
+
+[[bg:Палиак (спътник)]]
+[[da:Paaliaq (måne)]]
+[[de:Paaliaq (Mond)]]
+[[el:Παάλιακ (δορυφόρος)]]
+[[es:Paaliaq (satélite)]]
+[[fr:Paaliaq]]
+[[hr:Paaliaq (mjesec)]]
+[[it:Paaliaq]]
+[[lt:Paliakas (palydovas)]]
+[[nl:Paaliaq (maan)]]
+[[ja:パーリアク (衛星)]]
+[[nn:Saturnmånen Paaliaq]]
+[[pl:Paaliaq (księżyc)]]
+[[ru:Палиак (спутник)]]
+[[simple:Paaliaq (moon)]]
+[[sk:Paaliaq (mesiac)]]
+[[sl:Paliak (luna)]]
+[[fi:Paaliaq (kuu)]]
+[[sv:Paaliaq]]
+[[uk:Паліак (супутник)]]
+[[zh:土卫二十]]

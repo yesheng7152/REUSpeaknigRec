@@ -1,0 +1,141 @@
+{{distinguish2|the [[asteroid]] named [[17 Thetis]]}}
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name               = Tethys
+| alt_names = Saturn III
+| adjectives = Tethyan
+| image              = [[Image:PIA07738 Tethys mosaic contrast-enhanced.jpg|300px]]
+| caption            = ''[[Cassini–Huygens|Cassini]]'' view of Tethys showing the giant [[rift]] [[Ithaca Chasma]].
+| bgcolour           = #a0ffa0
+| discovery          = yes
+| discoverer         = [[Giovanni Domenico Cassini|G. D. Cassini]]
+| discovered         = March 21, 1684
+| semimajor          = 294&nbsp;619 [[Kilometer|km]] <!--Computed using http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html µ value-->
+| eccentricity       = 0.000&nbsp;1<ref name=JPL>{{cite web
+  |date=2007-06-28
+  |title=Planetary Satellite Mean Orbital Parameters
+  |publisher=JPL/NASA
+  |author=Jacobson, R.A. (2006) SAT252
+  |url=http://ssd.jpl.nasa.gov/?sat_elem#saturn
+  |accessdate=2008-02-08}}</ref><ref name="NASACelestia">[http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc NASA Celestia]</ref>
+| period             = 1.887&nbsp;802 [[day|d]]<ref name="NASACelestia"/>
+| inclination        = 1.12° (to Saturn's equator)
+| satellite_of       = [[Saturn]]
+| physical_characteristics = yes
+| dimensions         = 1080.8 &times; 1062.2 &times; 1055 km<ref name="Thomas 2006">{{cite journal| last=Thomas| first=P. C.| authorlink=Peter C. Thomas| coauthors=[[Joseph Veverka|Veverka, J.]]; [[Paul Helfenstein|Helfenstein, P.]]; [[Carolyn Porco|Porco, C.]]; [[Joseph A. Burns|Burns, J.]]; [[Tilmann Denk|Denk, T.]]; [[Elizabeth P. Turtle|Turtle, E. P.]]; [[Robert A. Jacobson|Jacobson, R. A.]]| title=Shapes of the Saturnian Icy Satellites| journal=37th Annual Lunar and Planetary Science Conference| month=March 13-17| year=2006| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/1639.pdf|format=PDF}}</ref>
+| mean_radius        = 533.00 ± 0.70 km (0.083 Earths)<ref name="Jacobson 2006">{{cite journal| last=Jacobson| first=R. A.| coauthors=[[Peter G. Antreasian|Antreasian, P. G.]]; [[John J. Bordi|Bordi, J. J.]]; [[Kevin E. Criddle|Criddle, K. E.]]; et al.| title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data| journal=The Astronomical Journal| month=December| year=2006| volume=132| pages=2520–2526| doi=10.1086/508812}}</ref>
+| mass               = (6.174&nbsp;49 ± 0.001&nbsp;32){{e|20}} [[Kilogram|kg]]<ref name="Jacobson 2006"/><ref name="Jacobson 2005">{{cite journal |author=Jacobson, R. A.; ''et al.'' |title=''The GM values of Mimas and Tethys and the libration of Methone'' |journal=Astronomical Journal |year=2005 |volume=132 |pages=711 |doi= 10.1086/505209 |url= http://www.journals.uchicago.edu/doi/pdf/10.1086/505209}}</ref> <br/>(1.03{{e|-4}} Earths)
+| density            = 0.973&nbsp;5 ± 0.003&nbsp;8 [[Gram|g]]/[[Cubic centimeter|cm³]] <ref name="Jacobson 2006"/>
+| surface_grav       = 0.145 [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity    = 0.393 km/s
+| rotation           = [[Synchronous rotation|synchronous]]
+| axial_tilt         = zero
+| albedo             = 1.229 ± 0.005 ([[geometric albedo|geometric]])<ref name=Verbiscer>[[Anne Verbiscer|Verbiscer, A.]]; [[Richard French|French, R.]]; [[Mark Showalter|Showalter, M.]]; and Helfenstein, P.; [http://www.sciencemag.org/cgi/content/abstract/315/5813/815 ''Enceladus: Cosmic Graffiti Artist Caught in the Act''], Science, Vol. 315, No. 5813 (February 9, 2007), p. 815 (supporting online material, table S1)</ref>
+| magnitude          = 10.2 <ref name=magnitude>{{cite web|title=Classic Satellites of the Solar System|url=http://www.oarval.org/ClasSaten.htm|publisher=Observatorio ARVAL|accessdate=2007-09-28}}</ref>
+| single_temperature = 86 [[Kelvin|K]]
+}}
+'''Tethys''' ({{pron-en|ˈtiːθɨs}}, {{IPA|/ˈtɛθɨs/}},<ref>In US dictionary transcription, {{USdict|tē′·th<s>ı</s>s, tĕth′·<s>ı</s>s}}.</ref> or as Greek ''Τηθύς)'' is a [[natural satellite|moon]] of [[Saturn]] that was discovered by [[Giovanni Domenico Cassini]] in 1684.<ref>[http://links.jstor.org/sici?sici=0260-7085%281686%2F1692%2916%3C79%3AAEOTJD%3E2.0.CO%3B2-J ''An Extract of the'' Journal Des Scavans. ''of'' April 22 st. N. 1686. ''Giving an account of two new'' Satellites ''of'' Saturn, ''discovered lately by Mr.'' Cassini ''at the Royal Observatory at'' Paris.], Philosophical Transactions 16 (1686-1692) pp. 79-85<!--- This journal became the Philosophical Transactions of the Royal Society of London in 1775. Are there any earlier publications? Two years seems a long time... ---></ref>
+
+==Name==
+Tethys is named after the titan [[Tethys (mythology)|Tethys]] of [[Greek mythology]]. It is also designated '''Saturn&nbsp;III''' or '''S III Tethys'''.
+
+Cassini named the four moons he discovered in 1671–1684 (Tethys, [[Dione (moon)|Dione]], [[Rhea (moon)|Rhea]] and [[Iapetus (moon)|Iapetus]]) ''[[Sidera Lodoicea]]'' ("the stars of Louis") to honour king [[Louis XIV of France|Louis XIV]]. Cassini found Tethys using a large [[aerial telescope]] he set up on the grounds of the [[Paris Observatory]]<ref>[http://books.google.com/books?id=GnrAVhVZ3wMC&pg=PA279&lpg=PA279&dq=Cassini+aerial+telescope&source=bl&ots=4oujueW9U6&sig=rn9kx6bFMEcDmX3YPLgTqsapDhA&hl=en&ei=aOMBSoK5JN7gtge5_OWJBw&sa=X&oi=book_result&ct=result&resnum=9#PPA279,M1 Fred William Price - ''The planet observer's handbook'' - page 279]</ref>. By the end of the seventeenth century, astronomers fell into the habit of referring to them and [[Titan (moon)|Titan]] as ''Saturn&nbsp;I'' through ''Saturn&nbsp;V'' (Tethys, Dione, Rhea, Titan, Iapetus). Once [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]] were discovered in 1789, the numbering scheme was extended to ''Saturn&nbsp;VII'' by bumping the older five moons up two slots. The discovery of [[Hyperion (moon)|Hyperion]] in 1848 changed the numbers one last time, bumping Iapetus up to ''Saturn&nbsp;VIII''. Henceforth, the numbering scheme would remain fixed.
+
+The names of all seven satellites of Saturn then known come from [[John Herschel]] (son of [[William Herschel]], discoverer of Mimas and Enceladus) in his 1847 publication ''Results of Astronomical Observations made at the Cape of Good Hope'' <ref>As reported by [[William Lassell]], [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html Monthly Notices of the Royal Astronomical Society, Vol. 8, No. 3, pp. 42–43] (January 14, 1848)</ref>, wherein he suggested the names of the [[Titan (mythology)|Titans]], sisters and brothers of [[Cronus|Kronos]] (the Greek analogue of Saturn), be used.
+
+The correct adjectival form of the moon's name is ''Tethyan'', although other forms are also used.
+
+==Physical characteristics==
+[[Image:Tethys map June 2008 PIA08416.jpg|thumb|left|300px|A composite image of Tethys' surface. (6MB)]]
+Tethys is an icy body similar in nature to [[Dione (moon)|Dione]] and [[Rhea (moon)|Rhea]]. The density of Tethys is 0.97 g/cm³, indicating that it is composed almost entirely of water-ice. The Tethyan surface is heavily [[Impact crater|crater]]ed and contains numerous cracks caused by faults in the ice.  Its surface is one of the most reflective (at visual wavelengths) in the solar system, with a visual albedo of 1.229.<ref name=Verbiscer/>  This very high albedo is the result of the sandblasting of particles from Saturn's E-ring, a faint ring composed of small, water-ice particles generated by Enceladus' south polar geysers.
+
+There are two different types of terrain found on Tethys, one composed of densely cratered regions and the other consisting of a dark colored and lightly cratered belt that extends across the moon. The light cratering of this second region indicates that Tethys was once internally active, causing parts of the older terrain to be resurfaced. The exact cause of the darkness of the belt is unknown but a possible interpretation comes from recent ''[[Galileo spacecraft|Galileo]]'' orbiter images of Jupiter's moons [[Ganymede (moon)|Ganymede]] and [[Callisto (moon)|Callisto]], both of which exhibit light polar caps that are made from bright ice deposits on pole-facing slopes of craters. From a distance the caps appear brighter due to the thousands of [[Optical resolution|unresolved]] ice patches in small craters present there. The Tethyan surface may have been formed in a similar manner, consisting of hazy polar caps of unresolved bright ice patches with a darker zone in between. 
+
+[[Image:Tethys near true.jpg|thumb|left|300px|[[Odysseus (crater)|Odysseus]] is the huge, shallow crater on top, near the terminator]]
+The western hemisphere of Tethys is dominated by a huge impact crater called [[Odysseus (crater)|Odysseus]], whose 400&nbsp;km diameter is nearly 2/5 of that of Tethys itself. The crater is now quite flat (or more precisely, it conforms to Tethys' spherical shape), like the craters on Callisto, without the high ring mountains and central peaks commonly seen on the [[Moon]] and [[Mercury (planet)|Mercury]]. This is most likely due to the slumping of the weak Tethyan icy crust over geologic time.
+
+The second major feature seen on Tethys is a huge valley called [[Ithaca Chasma]], 100&nbsp;km wide and 3 to 5&nbsp;km deep. It runs 2000&nbsp;km long, approximately 3/4 of the way around Tethys' circumference. It is thought that Ithaca Chasma formed as Tethys' internal liquid water solidified, causing the moon to expand and cracking the surface to accommodate the extra volume within. The subsurface ocean may have resulted from a 2:3 [[orbital resonance]] between Dione and Tethys early in the solar system's history that led to [[orbital eccentricity]] and [[Tidal acceleration #Tidal heating|tidal heating]] of Tethys' interior. The ocean would have frozen after the moons escaped from the resonance.<ref>{{cite conference
+  | first = E. M. A.
+  | last = Chen
+  | authorlink = 
+  | coauthors = Nimmo, F.
+  | title = Thermal and Orbital Evolution of Tethys as Constrained by Surface Observations
+  | booktitle = Lunar and Planetary Science XXXIX (2008)
+  | pages = 
+  | publisher = 
+  | date = March 2008
+  | location = 
+  | url = http://www.lpi.usra.edu/meetings/lpsc2008/pdf/1968.pdf
+  | doi = 
+  | id = 
+  | accessdate = 2008-03-14|format=PDF}}</ref> Earlier craters that formed before Tethys solidified were probably all erased by geological activity before then. There is another theory about the formation of Ithaca Chasma: when the impact that caused the great crater Odysseus occurred, the shockwave traveled through Tethys and fractured the icy, brittle surface on the other side. The Tethyan surface temperature is -187°C.
+
+{{Seealso|List of geological features on Tethys|List of quadrangles on Tethys}}
+
+==Trojan moons==
+The co-orbital moons [[Telesto (moon)|Telesto]] and [[Calypso (moon)|Calypso]] are located within Tethys' [[Lagrangian point]]s {{L4}} and {{L5}}, 60 degrees ahead and behind Tethys in its orbit respectively.
+
+==Flybys==
+The ''[[Cassini-Huygens|Cassini]]'' orbiter performed a close targeted flyby of Tethys on September 23, 2005 at the distance 1500&nbsp;km. Although Cassini will continue to observe Tethys at moderate distances during its extended mission, there are no plans for further close fly-bys.
+
+==Tethys in fiction==
+{{see|Saturn's moons in fiction}}
+
+==See also==
+* [[Polar bulge]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Tethys Tethys Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.solarviews.com/cap/sat/vtethys1.htm Rotating Tethys map (Voyager)]
+* [http://www.planetary.org/explore/topics/saturn/tethys.html The Planetary Society: Tethys]
+*Movie of [http://sos.noaa.gov/videos/Tethys.mov Tethys] at National Oceanic and Atmospheric Administration
+
+{{Moons of Saturn|state=uncollapsed}}
+{{Solar System moons (compact)}}
+
+{{DEFAULTSORT:Tethys (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[af:Tethys]]
+[[bg:Тетида (спътник)]]
+[[ca:Tetis (satèl·lit)]]
+[[cs:Tethys (měsíc)]]
+[[cy:Tethys (lloeren)]]
+[[da:Tethys (måne)]]
+[[de:Tethys (Mond)]]
+[[el:Τηθύς (δορυφόρος)]]
+[[es:Tetis (satélite)]]
+[[eo:Tetiso (luno)]]
+[[fa:تتیس (ماه)]]
+[[fr:Téthys (lune)]]
+[[ga:Tethys]]
+[[gv:Tethys]]
+[[ko:테티스 (위성)]]
+[[hr:Tetija (mjesec)]]
+[[id:Tethys]]
+[[it:Teti (astronomia)]]
+[[la:Tethys (satelles)]]
+[[lt:Tetija (palydovas)]]
+[[hu:Tethys (hold)]]
+[[ms:Tethys (bulan)]]
+[[nl:Tethys (maan)]]
+[[ja:テティス (衛星)]]
+[[nn:Saturnmånen Tethys]]
+[[pl:Tetyda (księżyc)]]
+[[pt:Tétis (satélite)]]
+[[ru:Тефия (спутник)]]
+[[simple:Tethys (moon)]]
+[[sk:Tethys (mesiac)]]
+[[sl:Tetija (luna)]]
+[[fi:Tethys (kuu)]]
+[[sv:Tethys (måne)]]
+[[uk:Тефія (супутник)]]
+[[vi:Tethys (vệ tinh)]]
+[[zh-classical:土衛三]]
+[[zh:土卫三]]

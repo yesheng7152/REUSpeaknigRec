@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=Gaucher's Disease 
+|time=00:13:12
+|user_name=leotohill 
+|date=2008-11-16 
+|oldid=251471488
+|accent=American
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-11-16}}
+|Author={{original uploader|Leotohill|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|WP_reading_Gauchers_disease.ogg}}
+* 2008-11-16 01:16 [[:en:User:Leotohill|Leotohill]] 0×0× (7459183 bytes) ''<nowiki>{{Spoken article |title=Gaucher's Disease |time=00:13:12 |user_name=Leo Tohill |date=November 16, 2008 |link_to_recorded_version= |accent=American }} {{GFDL-with-disclaimers}} <!-- This is the license tag. Please leave the license selector bla</nowiki>''
+
+[[Category:Audio files requiring categorisation]]

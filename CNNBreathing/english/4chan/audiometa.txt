@@ -1,0 +1,14 @@
+{{Spoken article
+|title= 4chan
+|time= 38:05
+|user_name= GorillaWarfare
+|date= 2010-10-10
+|oldid=388403672
+|wiki_lang=en
+|accent=American
+|sex=Female
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:4chan]]

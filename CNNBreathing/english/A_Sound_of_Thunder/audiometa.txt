@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia}}
+|Date={{Original upload date|2012-06-07}}
+|Author={{original uploader|Two2thehead|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+{{Spoken article |title=A Sound of Thunder |time=00:14:21 |user_name=Two2thehead |date=2012-06-07 |oldid=496376711 |sex=male}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|20120607+wiki+ASoundOfThunder.ogg}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2012-06-07 12:16 || 0×0× (3678055 bytes) || [[:en:User:Two2thehead|Two2thehead]] || ''<nowiki> {{Spoken article |title= A Sound of Thunder |time= 00:14:21 |user_name= Two2thehead |date= 2012-06-07 |oldid=496376711 |accent= }} == Licensing: == {{cc-by-s...</nowiki>''
+|}
+
+[[Category:Unreviewed spoken articles - English]]

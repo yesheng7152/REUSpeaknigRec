@@ -1,0 +1,359 @@
+{{Infobox yttrium}}
+{{pp-move-indef}}
+ 
+'''Yttrium''' ({{IPAc-en|icon|ˈ|ɪ|t|r|i|əm}} {{respell|IT|ree-əm}}) is a [[chemical element]] with symbol '''Y''' and [[atomic number]] 39. It is a silvery-metallic [[transition metal]] chemically similar to the [[lanthanide]]s and it has often been classified as a "[[rare earth element]]".<ref name="IUPAC" /> Yttrium is almost always found combined with the lanthanides in [[rare earth mineral]]s and is never found in nature as a free element. Its only stable [[isotope]], <sup>89</sup>Y, is also its only naturally occurring isotope.
+
+In 1787, [[Carl Axel Arrhenius]] found a new mineral near [[Ytterby]] in Sweden and named it ''[[gadolinite|ytterbite]]'', after the village. [[Johan Gadolin]] discovered yttrium's oxide in Arrhenius' sample in 1789,<ref name="Krogt" /> and [[Anders Gustaf Ekeberg]] named the new oxide ''[[yttria]]''. Elemental yttrium was first isolated in 1828 by [[Friedrich Wöhler]].<ref name="CRC2008" />
+
+The most important use of yttrium is in making [[phosphor]]s, such as the red ones used in television [[cathode ray tube]] displays and in [[LED]]s.<ref name="Cotton" /> Other uses include the production of [[electrode]]s, [[electrolyte]]s, [[electronic filters]], [[laser]]s and [[superconductor]]s; various medical applications; and as [[Trace element|traces]] in various materials to enhance their properties. Yttrium has no known biological role, and exposure to yttrium compounds can cause lung disease in humans.<ref name="osha" />
+
+==Characteristics==
+===Properties===
+Yttrium is a soft, silver-metallic, lustrous and highly crystalline [[transition metal]] in [[group 3 element|group 3]]. As expected by [[periodic trend]]s, it is less [[electronegativity|electronegative]] than its predecessor in the group, [[scandium]], more electronegative than its successor in the group, [[lanthanum]], and less electronegative than the next member of [[period 5 element|period 5]], [[zirconium]].<ref name ="Greenwood1997p946" /><ref name="Hammond">{{cite book|url = http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elements.pdf|title = The Elements|chapter=Yttrium|author = Hammond, C. R.|accessdate = 2008-08-26|publisher = [[Fermi National Accelerator Laboratory]]|pages = 4–33|format=pdf|archiveurl = http://web.archive.org/web/20080626181434/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elements.pdf |archivedate = June 26, 2008|deadurl=yes|isbn = 0049100815}}</ref> Yttrium is the first [[d-block]] element in the fifth period.
+
+The pure element is relatively stable in air in bulk form, due to [[passivation]] resulting from the formation of a protective oxide ({{chem|Y|2|O|3}}) film on its surface. This film can reach a thickness of 10&nbsp;[[micrometre|µm]] when yttrium is heated to 750&nbsp;°[[Celsius|C]] in [[water vapor]].<ref name="ECE817" /> When finely divided, however, yttrium is very unstable in air; shavings or [[swarf|turnings]] of the metal can ignite in air at temperatures exceeding 400&nbsp;°C.<ref name="CRC2008" /> [[Yttrium nitride]] (YN) is formed when the metal is heated to 1000&nbsp;°C in [[nitrogen]].<ref name="ECE817" />
+
+===Similarity to the lanthanides===
+{{details|Rare earth element}}
+The similarities of yttrium to the [[lanthanide]]s are so strong that the element has historically been grouped with them as a [[rare earth element]],<ref name="IUPAC">{{cite book|author = IUPAC contributors|title = Nomenclature of Inorganic Chemistry: IUPAC Recommendations 2005|editor = Edited by N G Connelly and T Damhus (with R M Hartshorn and A T Hutton)|pages = 51|year = 2005
+|isbn = 0-85404-438-8|url = http://www.iupac.org/publications/books/rbook/Red_Book_2005.pdf |format=PDF| accessdate = 2007-12-17|publisher = RSC Publishing}}</ref> and is always found in nature together with them in [[rare earth mineral]]s.<ref name="Emsley498">[[#Emsley2001|Emsley 2001]], p. 498</ref>
+
+Chemically, yttrium resembles these elements more closely than its neighbor in the periodic table, [[scandium]],<ref name="ECE810">[[#Daane1968|Daane 1968]], p. 810</ref> and if its physical properties were plotted against [[atomic number]] then it would have an apparent number of 64.5 to 67.5, placing it between the lanthanides [[gadolinium]] and [[erbium]].<ref name="ECE815">[[#Daane1968|Daane 1968]], p. 815</ref>
+
+It often also falls in the same range for reaction order,<ref name="ECE817" /> resembling [[terbium]] and [[dysprosium]] in its chemical reactivity.<ref name="Cotton" /> Yttrium is so close in size to the so-called 'Yttrium group' of heavy lanthanide ions that in solution, it behaves as if it were one of them.<ref name="ECE817" /><ref name="Greenwood1997p945">{{harvnb|Greenwood|1997|p=945}}</ref> Even though the lanthanides are one row farther down the periodic table than yttrium, the similarity in atomic radius may be attributed to the [[lanthanide contraction]].<ref name="Greenwood1997p1234">{{harvnb|Greenwood|1997|p=1234}}</ref>
+
+One of the few notable differences between the chemistry of yttrium and that of the lanthanides is that yttrium is almost exclusively [[valency (chemistry)|trivalent]], whereas about half of the lanthanides can have valences other than three.<ref name="ECE817">[[#Daane1968|Daane 1968]], p. 817</ref>
+
+===Compounds and reactions===
+{{category see also|Yttrium compounds}}
+As a trivalent transition metal, yttrium forms various [[inorganic chemistry|inorganic compounds]], generally in the oxidation state of +3, by giving up all three of its [[valence electron]]s.<ref name="Greenwood1997p948">{{harvnb|Greenwood|1997|p=948}}</ref> A good example is [[yttrium(III) oxide]] ({{chem|Y|2|O|3}}), also known as yttria, a six-[[coordinate covalent bond|coordinate]] white solid.<ref name="Greenwood1997p947">{{harvnb|Greenwood|1997|p=947}}</ref>
+
+Yttrium forms a water-insoluble [[fluoride]], [[hydroxide]], and [[oxalate]], but its [[bromide]], [[chloride]], [[iodide]], [[nitrate]] and [[sulfate]] are all [[solubility|soluble]] in water.<ref name="ECE817" /> The Y<sup>3+</sup> [[ion]] is colorless in solution because of the absence of electrons in the d and f [[electron shell]]s.<ref name="ECE817" />
+
+[[Water]] readily reacts with yttrium and its compounds to form {{chem|Y|2|O|3}}.<ref name="Emsley498" /> Concentrated [[nitric acid|nitric]] and [[hydrofluoric acid]]s do not rapidly attack yttrium, but other strong acids do.<ref name="ECE817" />
+
+With [[halogen]]s, yttrium forms [[halide|trihalides]] such as [[yttrium(III) fluoride]] ({{chem|YF|3}}), [[yttrium(III) chloride]] ({{chem|YCl|3}}), and [[yttrium(III) bromide]] ({{chem|YBr|3}}) at temperatures above roughly 200&nbsp;°C.<ref name="osha" /> Similarly, [[carbon]], [[phosphorus]], [[selenium]], [[silicon]] and [[sulfur]] all form [[binary compound]]s with yttrium at elevated temperatures.<ref name="ECE817" />
+
+[[Organoyttrium chemistry]] is the study of compounds containing carbon–yttrium bonds. A few of these are known to have yttrium in the oxidation state 0.<ref name="Cloke1993">{{cite journal
+|journal = Chem. Soc. Rev.|year = 1993|volume = 22|pages = 17–24|first = F. Geoffrey N.|last = Cloke|title = Zero Oxidation State Compounds of Scandium, Yttrium, and the Lanthanides|doi = 10.1039/CS9932200017}}</ref><ref name="Schumann">{{cite journal|journal = Encyclopedia of Inorganic Chemistry|title = Scandium, Yttrium & The Lanthanides: Organometallic Chemistry|first = Herbert|last = Schumann|coauthors = Fedushkin, Igor L.|doi = 10.1002/0470862106.ia212|year = 2006}}</ref> (The +2 state has been observed in chloride melts,<ref name="Mikheev1992">{{cite journal|title = The anomalous stabilisation of the oxidation state 2+ of lanthanides and actinides
+|first = Mikheev|last = Nikolai B.|journal = Russian Chemical Reviews|volume = 61|issue = 10|year = 1992|doi = 10.1070/RC1992v061n10ABEH001011|pages = 990–998|last2 = Auerman|first2 = L N|last3 = Rumer|first3 = Igor A|last4 = Kamenskaya|first4 = Alla N|last5 = Kazakevich|first5 = M Z}}</ref> and +1 in oxide clusters in the gas phase.<ref name="Kang2005">{{cite journal|doi = 10.5012/bkcs.2005.26.2.345|url = http://newjournal.kcsnet.or.kr/main/j_search/j_download.htm?code=B050237|title = Formation of Yttrium Oxide Clusters Using Pulsed Laser Vaporization|journal = Bull. Korean Chem. Soc.
+|year = 2005|volume = 26|issue = 2|pages=345–348|first = Weekyung|last = Kang|coauthor = E. R. Bernstein}}</ref>) Some [[trimerization]] reactions were observed by using organoyttrium compounds as catalysts.<ref name="Schumann" /> These compounds use {{chem|YCl|3}} as a starting material, which in turn is obtained from {{chem|Y|2|O|3}} and concentrated [[hydrochloric acid]] and [[ammonium chloride]].<ref>{{Cite book|last = Turner, Jr.|first = Francis M.|coauthors = Berolzheimer, Daniel D.; Cutter, William P.; Helfrich, John|year = 1920|title = The Condensed Chemical Dictionary|location = New York|publisher = Chemical Catalog Company|pages = 492|url = http://books.google.com/?id=y8y0XE0nsYEC&pg=PA492&dq=%22Yttrium+chloride%22|accessdate = 2008-08-12}}</ref><ref>{{Cite book|last = Spencer|first = James F.|year = 1919|title = The Metals of the Rare Earths
+|location = New York|publisher = Longmans, Green, and Co|pages = 135|url = http://books.google.com/?id=W2zxN_FLQm8C&pg=PA135&dq=%22Yttrium+chloride%22
+|accessdate =2008-08-12}}</ref>
+
+[[Hapticity]] is how a group of contiguous atoms of a [[ligand]] are coordinated to a central atom; it is indicated by the Greek character ''eta'', η. Yttrium complexes were the first examples of complexes where [[carborane|carboranyl]] ligands were bound to a d<sup>0</sup>-metal center through a η<sup>7</sup>-hapticity.<ref name="Schumann" /> Vaporization of the [[graphite intercalation compound]]s graphite–Y or graphite–{{chem|Y|2|O|3}} leads to the formation of [[endohedral fullerene]]s such as Y@C<sub>82</sub>.<ref name="Cotton" /> [[Electron spin resonance]] studies indicated the formation of Y<sup>3+</sup> and (C<sub>82</sub>)<sup>3−</sup> ion pairs.<ref name="Cotton" /> The [[carbide]]s Y<sub>3</sub>C, Y<sub>2</sub>C, and YC<sub>2</sub> can each hydrolyze to form [[hydrocarbon]]s.<ref name="ECE817" />
+
+===Nucleosynthesis and isotopes===
+{{main|Isotopes of yttrium}}
+Yttrium in the [[Solar System]] was created through [[stellar nucleosynthesis]], mostly by the [[s-process]] (≈72%), but also by the [[r-process]] (≈28%).<ref name="Pack">{{cite journal|journal = Geochimica et Cosmochimica Acta|volume = 71|issue = 18|year = 2007|doi = 10.1016/j.gca.2007.07.010|title = Geo- and cosmochemistry of the twin elements yttrium and holmium|first = Andreas|last = Pack|coauthor = Sara S. Russell, J. Michael G. Shelley and Mark van Zuilen|pages = 4592–4608|bibcode=2007GeCoA..71.4592P}}</ref> The r-process consists of rapid [[neutron capture]] of lighter elements during [[supernova]] explosions. The s-process is a slow [[neutron]] capture of lighter elements inside pulsating [[red giant]] stars.<ref name="Greenwood1997p12-13">{{harvnb|Greenwood|1997|pp=12–13}}</ref>
+
+[[File:Mira 1997.jpg|thumb|alt=Grainy irregular shaped yellow spot with red rim on a black background|[[Mira]] is an example of the type of red giant star where most of the yttrium in the solar system was created.]]
+Yttrium isotopes are among the most common products of the [[nuclear fission]] of uranium occurring in nuclear explosions and nuclear reactors. In terms of [[nuclear waste]] management, the most important isotopes of yttrium are <sup>91</sup>Y and <sup>90</sup>Y, with half-lives of 58.51&nbsp;days and 64&nbsp;hours, respectively.<ref name="NNDC" /> The first is formed directly from fission, while the latter, despite its short half-life, exists in [[secular equilibrium]] with its long-lived parent isotope, [[strontium-90]] (<sup>90</sup>Sr) with a half-life of 29&nbsp;years.<ref name="CRC2008" />
+
+All group three elements have an odd [[atomic number]], and therefore they have few stable [[isotope]]s.<ref name ="Greenwood1997p946">{{harvnb|Greenwood|1997|p=946}}</ref> [[Scandium]] has one [[stable isotope]], and yttrium itself has only one stable isotope, <sup>89</sup>Y, which is also its only naturally occurring one. However, the [[rare earth elements|lanthanide rare earths]] contain elements of even atomic number and many stable isotopes. Yttrium-89 is thought to be more abundant than it otherwise would be, due in part to the s-process which allows enough time for isotopes created by other processes to decay by [[beta decay|electron emission]] (neutron → proton).<ref name="Greenwood1997p12-13" /><ref group=note>Essentially, a [[neutron]] becomes a [[proton]] while an [[electron]] and [[antineutrino]] are emitted.</ref> Such a slow process tends to favor isotopes with [[atomic mass number]]s (A = protons + neutrons) around 90, 138 and 208, which have unusually stable [[atomic nucleus|atomic nuclei]] with 50, 82, and 126 neutrons, respectively.<ref name="Greenwood1997p12-13" /><ref group=note>
+See: [[magic number (physics)|magic number]]. This stability is thought to result from their very low [[neutron cross-section|neutron-capture cross-section]]. {{harv|Greenwood|1997|pp=12–13}}. Electron emission of isotopes with those mass numbers is simply less prevalent due to this stability, resulting in them having a higher abundance.</ref><ref name="CRC2008">{{Cite book|author = CRC contributors|editor = Lide, David R.|chapter = Yttrium
+|year = 2007–2008|title = CRC Handbook of Chemistry and Physics|volume = 4
+|page = 41|location = New York|publisher = [[CRC Press]]|isbn = 978-0-8493-0488-0}}</ref> <sup>89</sup>Y has a mass number close to 90 and has 50 neutrons in its nucleus.
+
+At least 32 synthetic isotopes of yttrium have been observed, and these range in [[atomic mass number]] from 76 to 108.<ref name="NNDC">{{cite web|url = http://www.nndc.bnl.gov/chart/|author = NNDC contributors
+|editor = Alejandro A. Sonzogni (Database Manager)|title = Chart of Nuclides
+|publisher = National Nuclear Data Center, [[Brookhaven National Laboratory]]
+|accessdate = 2008-09-13|year = 2008|location = Upton, New York}}</ref> The least stable of these is <sup>106</sup>Y with a [[half-life]] of >150&nbsp;[[SI prefix|ns]] (<sup>76</sup>Y has a half-life of >200&nbsp;ns) and the most stable is <sup>88</sup>Y with a half-life of 106.626&nbsp;days.<ref name="NNDC" /> Besides the isotopes <sup>91</sup>Y, <sup>87</sup>Y, and <sup>90</sup>Y, with half lives of 58.51&nbsp;days, 79.8&nbsp;hours, and 64&nbsp;hours, respectively, all the other isotopes have half lives of less than a day and most of those have half-lives of less than an hour.<ref name="NNDC" />
+
+Yttrium isotopes with mass numbers at or below 88 decay primarily by [[positron emission]] (proton → neutron) to form [[strontium]] ([[atomic number|Z]] = 38) isotopes.<ref name="NNDC" /> Yttrium isotopes with mass numbers at or above 90 decay primarily by electron emission (neutron → proton) to form [[zirconium]] (Z = 40) isotopes.<ref name="NNDC" /> Isotopes with mass numbers at or above 97 are also known to have minor decay paths of β− delayed [[neutron emission]].<ref name="nubase">{{cite journal|last = Audi|first = Georges|title = The NUBASE Evaluation of Nuclear and Decay Properties|journal = Nuclear Physics A|volume = 729|pages = 3–128|publisher = Atomic Mass Data Center|year = 2003|doi=10.1016/j.nuclphysa.2003.11.001|bibcode=2003NuPhA.729....3A}}</ref>
+
+Yttrium has at least 20 [[metastable isomer|metastable or excited isomers]] ranging in mass number from 78 to 102.<ref name="NNDC" /><ref group=note>Metastable isomers have higher-than-normal energy states than the corresponding non-excited nucleus and these states last until a [[gamma ray]] or [[conversion electron]] is emitted from the isomer. They are designated by an 'm' being placed next to the isotope's mass number.</ref> Multiple excitation states have been observed for <sup>80</sup>Y and <sup>97</sup>Y.<ref name="NNDC" /> While most of yttrium's isomers are expected to be less stable than their [[ground state]], <sup>78m</sup>Y, <sup>84m</sup>Y, <sup>85m</sup>Y, <sup>96m</sup>Y, <sup>98m1</sup>Y, <sup>100m</sup>Y, and <sup>102m</sup>Y have longer half-lives than their ground states, as these isomers decay by beta decay rather than [[isomeric transition]].<ref name="nubase" />
+
+==History==
+In 1787, army lieutenant and part-time chemist [[Carl Axel Arrhenius]] found a heavy black rock in an old quarry near the Swedish village of [[Ytterby]] (now part of the [[Stockholm Archipelago]]).<ref name="Krogt" /> Thinking that it was an unknown mineral containing the newly discovered element [[tungsten]],<ref name="Emsley496">[[#Emsley2001|Emsley 2001]], p. 496</ref> he named it ''ytterbite''<ref group=note>''Ytterbite'' was named after the village it was discovered near, plus the -ite ending to indicate it was a mineral.</ref> and sent samples to various chemists for further analysis.<ref name="Krogt">[[#Krogt|Van der Krogt 2005]]</ref>
+
+[[File:Johan Gadolin.jpg|thumb|150px|left|alt= Black and white bust painting of a young man with neckerchief in a coat. The hair is only faintly painted and looks grey.|[[Johan Gadolin]] discovered yttrium oxide.]]
+[[Johan Gadolin]] at the [[University of Åbo]] identified a new oxide or "[[Earth (chemistry)|earth]]" in Arrhenius' sample in 1789, and published his completed analysis in 1794.<ref>[[#Gadolin1794|Gadolin 1794]]</ref><ref group=note>[[#Stwertka1998|Stwertka 1998]], p. 115 says that the identification occurred in 1789 but is silent on when the announcement was made. [[#Krogt|Van der Krogt 2005]] cites the original publication, with the year [[#Gadolin1794|1794, by Gadolin]].</ref> [[Anders Gustaf Ekeberg]] confirmed this in 1797 and named the new oxide ''yttria''.<ref name="Greenwood1997p944">{{harvnb|Greenwood|1997|p=944}}</ref> In the decades after [[Antoine Lavoisier]] developed the first modern definition of [[chemical element]]s, it was believed that earths could be reduced to their elements, meaning that the discovery of a new earth was equivalent to the discovery of the element within, which in this case would have been ''yttrium''.<ref group="note">Earths were given an -a ending and new elements are normally given an -ium ending</ref>
+
+In 1843, [[Carl Gustaf Mosander]] found that samples of yttria contained three oxides: white [[yttrium oxide]] (yttria), yellow [[terbium(III,IV) oxide|terbium oxide]] (confusingly, this was called 'erbia' at the time) and rose-colored [[erbium oxide]] (called 'terbia' at the time).<ref>{{cite journal|journal=Annalen der Physik und Chemie|volume=60
+|year=1843|pages=297–315|title=Ueber die das Cerium begleitenden neuen Metalle Lathanium und Didymium, so wie über die mit der Yttererde vorkommen-den neuen Metalle Erbium und Terbium
+|author = Mosander, Carl Gustaf|authorlink = Carl Gustaf Mosander
+|issue = 2|language= German|doi = 10.1002/andp.18431361008}}</ref> A fourth oxide, [[ytterbium oxide]], was isolated in 1878 by [[Jean Charles Galissard de Marignac]].<ref>{{cite news|author = ''Britannica'' contributors|encyclopedia = Encyclopaedia Britannica
+|year = 2005|publisher = Encyclopædia Britannica, Inc}}, "ytterbium"</ref> New elements would later be isolated from each of those oxides, and each element was named, in some fashion, after Ytterby, the village near the quarry in which they were found (see [[ytterbium]], [[terbium]], and [[erbium]]).<ref name="Stwertka115" /> In the following decades, seven other new metals were discovered in "Gadolin's yttria".<ref name="Krogt" /> Since yttria was a mineral after all and not an oxide, [[Martin Heinrich Klaproth]] renamed it [[gadolinite]] in honor of Gadolin.<ref name="Krogt" />
+
+Yttrium metal was first isolated in 1828 when [[Friedrich Wöhler]] heated anhydrous [[yttrium(III) chloride]] with [[potassium]]:<ref>{{cite book|last = Heiserman|first = David L.|title = Exploring Chemical Elements and their Compounds|location = New York|publisher = TAB Books|isbn = 0-8306-3018-X|chapter = Element 39: Yttrium|pages = 150–152|year = 1992}}</ref><ref>{{cite journal|journal = Annalen der Physik|volume = 89|issue = 8|pages = 577–582|title = Ueber das Beryllium und Yttrium|first = Friedrich|last = Wöhler|authorlink = Friedrich Wöhler|doi = 10.1002/andp.18280890805|year = 1828}}</ref>
+
+:YCl<sub>3</sub> + 3 K → 3 KCl + Y
+
+Until the early 1920s, the chemical symbol '''Yt''' was used for the element, after which '''Y''' came into common use.<ref>{{cite journal|journal = Pure Appl. Chem.|volume = 70|issue = 1|pages = 237–257
+|year = 1998|first = Tyler B.|last = Coplen|coauthors = Peiser, H. S.|title = History of the Recommended Atomic-Weight Values from 1882 to 1997: A Comparison of Differences from Current Values to the Estimated Uncertainties of Earlier Values (Technical Report)|publisher = IUPAC's Inorganic Chemistry Division Commission on Atomic Weights and Isotopic Abundances|doi = 10.1351/pac199870010237}}</ref>
+
+In 1987, [[yttrium barium copper oxide]] was found to achieve [[high-temperature superconductivity]].<ref name="Wu" /> It was only the second material known to exhibit this property,<ref name="Wu">{{cite journal|author = Wu, M. K. ''et al.''|title = Superconductivity at 93 K in a New Mixed-Phase Y-Ba-Cu-O Compound System at Ambient Pressure
+|journal = [[Physical Review Letters]]|year = 1987|volume = 58|issue = 9|pages = 908–910|doi = 10.1103/PhysRevLett.58.908|pmid=10035069|bibcode=1987PhRvL..58..908W}}</ref> and it was the first known material to achieve [[superconductivity]] above the (economically important) boiling point of nitrogen.<ref group="note">[[critical temperature#superconductivity|T<sub>c</sub>]] for [[YBCO]] is 93 K and the boiling point of nitrogen is 77 K.</ref>
+
+==Occurrence==
+[[File:Xenotímio1.jpeg|thumb|200px|alt= Three column shaped brown crystals on a white background|[[Xenotime]] crystals contain yttrium.]]
+
+===Abundance===
+Yttrium is found in most [[rare earth mineral]]s,<ref name="Hammond" /> as well as some [[uranium]] ores, but is never found in nature as a free element.<ref>{{cite web|author = Lenntech contributors|url = http://www.lenntech.com/periodic-chart-elements/y-en.htm|accessdate = 2008-08-26|title = yttrium|publisher = Lenntech}}</ref> About 31&nbsp;[[Parts-per notation|ppm]] of the Earth's crust is yttrium,<ref name="Cotton">{{cite journal|title=Scandium, Yttrium & the Lanthanides: Inorganic & Coordination Chemistry|first=Simon A. |last=Cotton| doi= 10.1002/0470862106.ia211 |date= 2006-03-15}}</ref> making it the 28th most abundant element there, and 400 times more common than [[silver]].<ref name="Emsley497" /> Yttrium is found in soil in concentrations between 10 and 150&nbsp;ppm (dry weight average of 23&nbsp;ppm) and in sea water at 9&nbsp;[[Parts-per notation|ppt]].<ref name="Emsley497" /> Lunar rock samples collected during the [[United States|American]] [[Apollo Project]] have a relatively high content of yttrium.<ref name="Stwertka115">[[#Stwertka1998|Stwertka 1998]], p. 115</ref>
+
+Yttrium has no known biological role, though it is found in most, if not all, organisms and tends to concentrate in the liver, kidney, spleen, lungs, and bones of humans.<ref>{{cite journal|journal = Journal of Biological Chemistry|year = 1952
+|volume = 195|pages = 837–841|url = http://www.jbc.org/cgi/reprint/195/2/837.pdf|format=PDF| title = The Skeletal Deposition of Yttrium|first = N. S.|last = MacDonald|coauthors = Nusbaum, R. E. and Alexander, G. V.|pmid = 14946195|issue = 2}}</ref> There is normally as little as 0.5&nbsp;milligrams found within the entire human body; human [[breast milk]] contains 4&nbsp;ppm.<ref name="Emsley495" /> Yttrium can be found in edible plants in concentrations between 20&nbsp;ppm and 100&nbsp;ppm (fresh weight), with [[cabbage]] having the largest amount.<ref name="Emsley495" /> With up to 700&nbsp;ppm, the seeds of woody plants have the highest known concentrations.<ref name="Emsley495" />
+
+===Production===
+The chemical similarity of yttrium with the lanthanides leads it to being enriched by the same processes and ends up in ores containing lanthanides, forming [[rare earth mineral]]s. A slight separation is recognized between the light (LREE) and the heavy rare earth elements (HREE) but this separation is never complete. Yttrium is concentrated in the HREE group even though it has a lower [[atomic mass]].<ref name="Morteani">{{cite journal|journal = European Journal of Mineralogy |year = 1991|volume = 3|issue = 4|pages = 641–650|url = http://eurjmin.geoscienceworld.org/cgi/content/abstract/3/4/641|title = The rare earths; their minerals, production and technical use|first = Giulio|last = Morteani}}</ref><ref name="Kanazawaa">{{cite journal|journal = Journal of Alloys and Compounds|year = 2006|volume = 408–412|pages = 1339–1343|doi = 10.1016/j.jallcom.2005.04.033|title = Rare earth minerals and resources in the world|first = Yasuo|last = Kanazawa|coauthors = Kamitani, Masaharu }}</ref>
+
+[[File:Yttrium 1.jpg|thumb|right|200px|alt = Roughly cube shaped piece of dirty grey metal with a uneven superficial structure. |A piece of yttrium. Yttrium is difficult to separate from other rare earth elements.]]
+There are four main sources for REEs:<ref name="Naumov">{{cite journal|journal = Russian Journal of Non-Ferrous Metals|year = 2008
+|volume = 49|issue = 1|pages = 14–22|title = Review of the World Market of Rare-Earth Metals
+|first = A. V.|last = Naumov|doi=10.1007/s11981-008-1004-6|doi_brokendate = 2010-03-20}}</ref><!--The brokern doi is in the printed article and on the web page so the problem is within doi and springer-->
+*Carbonate and fluoride containing ores such as the LREE [[bastnäsite]] (<nowiki>[</nowiki>(Ce, La, etc.)(CO<sub>3</sub>)F<nowiki>]</nowiki>) contain an average of 0.1%<ref name="CRC2008" /><ref name="Morteani" /> of yttrium compared to the 99.9% for the 16 other REEs.<ref name="Morteani" /> The main source for bastnäsite from the 1960s to the 1990s was the [[Mountain Pass rare earth mine]] in California, making the United States the largest producer of REEs during that period.<ref name="Morteani" /><ref name="Naumov" />
+*[[Monazite]] (<nowiki>[</nowiki>([[cerium|Ce]], [[lanthanum|La]], etc.)[[phosphate|PO<sub>4</sub>]]<nowiki>]</nowiki>), which is mostly phosphate, is a [[placer deposit]] of sand that is created by the transportation and gravitational separation of eroded granite. Monazite as a LREE ore contains 2%<ref name="Morteani" /> (or 3%)<ref name="Stwertka116">[[#Stwertka1998|Stwertka 1998]], p. 116</ref> of yttrium. The largest deposits were found in India and Brazil in the early 19th century, making these two countries the largest producers of yttrium in the first half of that century.<ref name="Morteani" /><ref name="Naumov" />
+*[[Xenotime]], a REE phosphate, is the main HREE ore containing up to 60% of yttrium as [[yttrium phosphate]] (YPO<sub>4</sub>).<ref name="Morteani" /> The largest mine for this mineral is the [[Bayan Obo]] deposit in China, making China the largest exporter for HREE since the closure of the Mountain Pass mine in the 1990s.<ref name="Morteani" /><ref name="Naumov" />
+*Ion absorption clays or Lognan clays are the weathering products of granite and contain only 1% of REEs.<ref name="Morteani" /> The final ore concentrate can contain up to 8% of yttrium. Ion absorption clays are mostly mined in southern China.<ref name="Morteani" /><ref name="Naumov" /><ref>{{cite journal|journal = Chinese Journal of Geochemistry|year = 1996|volume = 15|issue = 4|pages = 344–352|doi = 10.1007/BF02867008|title = The behaviour of rare-earth elements (REE) during weathering of granites in southern Guangxi, China|first = Zuoping|last = Zheng|coauthors = Lin Chuanxian}}</ref> Yttrium is also found in [[samarskite]] and [[fergusonite]].<ref name="Emsley497">[[#Emsley2001|Emsley 2001]], p. 497</ref>
+
+It is difficult to separate yttrium from other rare earths. One method to obtain pure yttrium from the mixed oxide ores is to dissolve the oxide in [[sulfuric acid]] and fractionate it by [[ion exchange]] [[chromatography]]. With the addition of [[oxalic acid]], the yttrium oxalate precipitates. The oxalate is converted into the oxide by heating under oxygen. By reacting the resulting yttrium oxide with [[hydrogen fluoride]], [[yttrium fluoride]] is obtained.<ref name="Holleman" />
+
+Annual world production of yttrium oxide had reached 600&nbsp;[[tonne]]s by 2001, with reserves estimated at 9&nbsp;million&nbsp;tonnes.<ref name="Emsley497" /> Only a few tonnes of yttrium metal are produced each year by reducing [[Yttrium(III) fluoride|yttrium fluoride]] to a metal sponge with [[calcium]] [[magnesium]] alloy. The temperature of an [[arc furnace]] of above 1,600&nbsp;°C is sufficient to melt the yttrium.<ref name="Emsley497" /><ref name="Holleman">{{cite book|publisher = Walter de Gruyter|year = 1985|edition = 91–100|pages = 1056–1057|isbn = 3-11-007511-3|title = Lehrbuch der Anorganischen Chemie|first = Arnold F.
+|last = Holleman|coauthors = Wiberg, Egon and Wiberg, Nils}}</ref>
+
+==Applications==
+===Consumer===
+[[File:Aperture Grille.jpg|thumb|alt=Forty columns of oval dots, 30 dots high. First red than green than blue. The columns of red starts with only four dots in red from the bottom becoming more with every column to the right||Yttrium is one of the elements used to make the red color in [[CRT television]]s.]]
+[[Yttrium(III) oxide|Yttria ({{chem|Y|2|O|3}})]] can serve as host lattice for [[Doping (semiconductor)|doping]] with [[Europium|Eu<sup>3+</sup>]] cations as well as [[reactant]] to gain doped [[yttrium orthovanadate]] Y[[Vanadate|VO<sub>4</sub>]]:Eu<sup>3+</sup> or yttrium oxide sulfide {{chem|Y|2|O|2|S}}:Eu<sup>3+</sup> [[phosphor]]s that give the red color in [[color television]] picture tubes,<ref name="CRC2008" /><ref name="Cotton" /><ref group=note>[[#Emsley2001|Emsley 2001]], p. 497 says that "[[Yttrium oxysulfide]], doped with europium (III), is used as the standard red component in colour televisions".</ref> though the red color itself is actually emitted from the europium while the yttrium collects energy from the [[electron gun]] and passes it to the phosphor.<ref name="ECE818">[[#Daane1968|Daane 1968]], p. 818</ref> Yttrium compounds can serve as host lattices for doping with different [[lanthanide]] cations. Besides Eu<sup>3+</sup> also [[terbium|Tb<sup>3+</sup>]] can be used as a doping agent leading to green [[luminescence]]. Yttria is also used as a [[sintering]] additive in the production of porous [[silicon nitride]]<ref>{{Ref patent |country=US |number=5935888 |status=patent |title= Porous silicon nitride with rodlike grains oriented |gdate=1999-08-10 |assign1=Agency Ind Science Techn (JP)| assign2=Fine Ceramics Research Ass (JP)}}</ref> and as a common starting material for both [[material science]] and for producing other compounds of yttrium.
+
+Yttrium compounds are used as a [[catalyst]] for [[ethylene]] [[polymerization]].<ref name="CRC2008" /> As a metal, it is used on the electrodes of some high-performance [[spark plugs]].<ref>{{cite journal|last = Carley|first = Larry|url = http://www.babcox.com/editorial/cm/cm120032.htm
+|title = Spark Plugs: What's Next After Platinum?|year = 2000|month = December
+|journal = Counterman|publisher = Babcox|accessdate = 2008-09-07 |archiveurl = http://web.archive.org/web/20080501064053/http://www.babcox.com/editorial/cm/cm120032.htm <!-- Bot retrieved archive --> |archivedate = 2008-05-01}}</ref> Yttrium is also used in the manufacturing of [[gas mantle]]s for [[propane]] [[lantern]]s as a replacement for [[thorium]], which is [[radioactive]].<ref>{{Ref patent|country=US| number=4533317|status=patent| gdate=1985-08-06| title = Yttrium oxide mantles for fuel-burning lanterns|invent1=Addison, Gilbert J. |assign1= The Coleman Company, Inc.}}</ref>
+
+Developing uses include yttrium-stabilized zirconia in particular as a solid electrolyte and as an oxygen sensor in automobile exhaust systems.<ref name="Cotton" />
+
+===Garnets===
+[[File:Yag-rod.jpg|thumb|Nd:YAG laser rod 0.5 cm in diameter.]]
+Yttrium is used in the production of a large variety of [[garnet#Synthetic garnets|synthetic garnets]],<ref>{{cite journal|url = http://www.minsocam.org/ammin/AM36/AM36_133.pdf|title = The role of yttrium and other minor elements in the garnet group|last = Jaffe|first = H.W.|journal = American Mineralogist|year = 1951|accessdate = 2008-08-26|pages = 133–155|format=pdf}}</ref> and yttria is used to make [[yttrium iron garnet]]s ({{chem|Y|3|Fe|5|O|12}} or YIG), which are very effective [[microwave]] [[electronic filter|filters]].<ref name="CRC2008" /> Yttrium, [[iron]], [[aluminium]], and [[gadolinium]] garnets (e.g. Y<sub>3</sub>(Fe,Al)<sub>5</sub>O<sub>12</sub> and Y<sub>3</sub>(Fe,Ga)<sub>5</sub>O<sub>12</sub>) have important [[magnetism|magnetic]] properties.<ref name="CRC2008" /> YIG is also very efficient as an acoustic energy transmitter and transducer.<ref>{{cite journal|doi= 10.1016/j.jallcom.2006.05.023|title = Preparation and characterization of yttrium iron garnet (YIG) nanocrystalline powders by auto-combustion of nitrate-citrate gel
+|year= 2007|last= Vajargah|first = S. Hosseini|journal= Journal of Alloys and Compounds
+|volume= 430|issue =1–2|pages= 339–343|last2= Madaahhosseini|first2= H|last3= Nemati|first3= Z}}</ref> [[Yttrium aluminium garnet]] ({{chem|Y|3|Al|5|O|12}} or YAG) has a [[Mohs scale of mineral hardness|hardness]] of 8.5 and is also used as a [[gemstone]] in jewelry (simulated [[diamond]]).<ref name="CRC2008" /> [[Cerium]]-doped yttrium aluminium garnet (YAG:Ce) crystals are used as phosphors to make white [[LED]]s.<ref>{{Ref patent |country=US |number=6409938 |status=patent |title=Aluminum fluoride flux synthesis method for producing cerium doped YAG|gdate=2002-06-25 |invent1=Comanzo Holly Ann|assign1=General Electrics}}</ref><ref>{{cite book|author =GIA contributors|publisher = [[Gemological Institute of America]]
+|title = GIA Gem Reference Guide|year = 1995|isbn = 0-87311-019-6}}</ref><ref>{{cite conference|last = Kiss|first = Z. J.|coauthors = Pressley, R. J.|title = Crystalline solid lasers|booktitle = Proceedings of the [[IEEE]]|pages = 1236–1248|volume = 54|issue = 10|publisher = IEEE|date = October 1966|url = http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1447042|accessdate = 2008-08-16|id = issn: 0018-9219}}</ref>
+
+YAG, yttria, [[yttrium lithium fluoride]] ({{chem|LiYF|4}}), and [[yttrium orthovanadate]] ({{chem|YVO|4}}) are used in combination with [[dopant]]s such as [[neodymium]], [[erbium]], [[ytterbium]] in near-[[infrared]] [[laser]]s.<ref name="cw">{{cite journal|first = J.|last = Kong|coauthors = Tang, D. Y.; Zhao, B.; Lu, J.; Ueda, K.; Yagi, H. and Yanagitani, T.|title = 9.2-W diode-pumped Yb:Y<sub>2</sub>O<sub>3</sub> ceramic laser|journal = [[Applied Physics Letters]]|volume = 86|year = 2005|doi = 10.1063/1.1914958|pages = 116|issue = 16|bibcode=2005ApPhL..86p1116K}}</ref><ref>{{cite journal|first = M.|last = Tokurakawa|coauthors = Takaichi, K.; Shirakawa, A.; Ueda, K.; Yagi, H.; Yanagitani, T. and Kaminskii, A. A.|title = Diode-pumped 188 fs mode-locked Yb<sup>3+</sup>:Y<sub>2</sub>O<sub>3</sub> ceramic laser|journal = [[Applied Physics Letters]]|volume = 90|pages = 071101| year = 2007|doi=10.1063/1.2476385|issue = 7|bibcode=2007ApPhL..90g1101T}}</ref> YAG lasers have the ability to operate at high power and are used for drilling into and cutting metal.<ref name="Stwertka116" /> The single crystals of doped YAG are normally produced by the [[Czochralski process]].<ref>{{cite journal|journal = Journal of the Serbian Chemical Society |year = 2002|volume = 67|issue = 4|pages = 91–300|doi = 10.2298/JSC0204291G|title = The growth of Nd: YAG single crystals|author = Golubović, Aleksandar V.; Nikolić, Slobodanka N.; Gajić, Radoš; Đurić, Stevan; Valčić, Andreja}}</ref>
+
+===Material enhancer===
+Small amounts of yttrium (0.1 to 0.2%) have been used to reduce the grain sizes of [[chromium]], [[molybdenum]], [[titanium]], and [[zirconium]].<ref>{{cite journal|author = PIDC contributors|title = Rare Earth metals & compounds|url = http://www.pidc.com/products_imaterials_oth.html|accessdate =2008-08-26|publisher = Pacific Industrial Development Corporation}}</ref> It is also used to increase the [[strength of materials|strength]] of aluminium and [[magnesium]] alloys.<ref name="CRC2008" /> The addition of yttrium to alloys generally improves workability, adds resistance to high-temperature recrystallization and significantly enhances resistance to high-temperature [[oxidation]] (see graphite nodule discussion below).<ref name="ECE818" />
+
+Yttrium can be used to [[Deoxidizer|deoxidize]] [[vanadium]] and other [[non-ferrous metal]]s.<ref name="CRC2008" /> [[Yttria]] is used to stabilize the [[cubic zirconia|cubic form of zirconia]] for use in jewelry.<ref>{{cite web|url = http://www.emporia.edu/earthsci/amber/go340/students/berg/cz.html|title = Cubic Zirconia|accessdate = 2008-08-26|first = Jessica|last = Berg|publisher=[[Emporia State University]]}}</ref>
+
+Yttrium has been studied for possible use as a nodulizer in the making of [[nodular cast iron]] which has increased [[ductility]] (the [[graphite]] forms compact nodules instead of flakes to form nodular cast iron).<ref name="CRC2008" /> Yttrium oxide can also be used in [[ceramic]] and [[glass]] formulas, since it has a high [[melting point]] and imparts [[shock (mechanics)|shock]] resistance and low [[thermal expansion]] characteristics.<ref name="CRC2008" /> It is therefore used in [[camera lens]]es.<ref name="Emsley497" />
+
+===Medical===
+The radioactive isotope yttrium-90 is used in drugs such as [[Yttrium Y 90-DOTA-tyr3-octreotide]] and [[Yttrium Y 90 ibritumomab tiuxetan]] for the treatment of various [[cancer]]s, including [[lymphoma]], [[leukemia]], ovarian, colorectal, pancreatic, and bone cancers.<ref name="Emsley495">[[#Emsley2001|Emsley 2001]], p. 495</ref> It works by adhering to [[monoclonal antibody|monoclonal antibodies]], which in turn bind to cancer cells and kill them via intense [[beta particle|β-radiation]] from the yttrium-90 (see [[Monoclonal antibody therapy]]).<ref>{{cite journal|journal = Cancer Research|volume =64|pages = 6200–6206|year =2004|title = A Single Treatment of Yttrium-90-labeled CHX-A''–C6.5 Diabody Inhibits the Growth of Established Human Tumor Xenografts in Immunodeficient Mice|author = Adams, Gregory P. ''et al.''|doi = 10.1158/0008-5472.CAN-03-2382|pmid = 15342405|issue = 17}}
+</ref>
+
+Needles made of yttrium-90, which can cut more precisely than scalpels, have been used to sever pain-transmitting [[nerve]]s in the [[spinal cord]],<ref name="Emsley496" /> and yttrium-90 is also used to carry out radionuclide [[synovectomy]] in the treatment of inflamed joints, especially knees, in sufferers of conditions such as [[rheumatoid arthritis]].<ref>{{cite journal|first = M.|last = Fischer|coauthors = Modder, G.|title = Radionuclide therapy of inflammatory joint diseases|journal = Nuclear Medicine Communications|volume = 23
+|issue = 9|pages = 829–831|year = 2002|doi = 10.1097/00006231-200209000-00003|pmid = 12195084}}</ref>
+
+A neodymium-doped yttrium-aluminium-garnet laser has been used in an experimental, robot-assisted radical [[prostatectomy]] in canines in an attempt to reduce collateral nerve and tissue damage,<ref>{{cite journal|title = Laser robotically assisted nerve-sparing radical prostatectomy: a pilot study of technical feasibility in the canine model|journal = BJU International|volume = 102
+|issue = 5|page= 598|publisher = Glickman Urological Institute| location = Cleveland|year = 2008|pmid = 18694410
+|doi = 10.1111/j.1464-410X.2008.07708.x|last1 = Gianduzzo|first1 = Troy|last2 = Colombo|first2 = Jose R.|last3 = Haber|first3 = Georges-Pascal|last4 = Hafron|first4 = Jason|last5 = Magi-Galluzzi|first5 = Cristina|last6 = Aron|first6 = Monish|last7 = Gill|first7 = Inderbir S.|last8 = Kaouk|first8 = Jihad H.|unused_data = Gianduzzo, Troy ''et al.''}}</ref> whilst the erbium-doped ones are starting to be used in cosmetic skin resurfacing.<ref name="Cotton" />
+
+===Superconductors===
+[[File:YBCO-modified.jpg|thumb|left|alt=Dark grey pills on a watchglass. One cubic piece of the same material on top of the pills.|[[YBCO]] superconductor]]
+Yttrium was used in the [[yttrium barium copper oxide]] (YBa<sub>2</sub>Cu<sub>3</sub>O<sub>7</sub>, aka 'YBCO' or '1-2-3') [[superconductor]] developed at the [[University of Alabama]] and the [[University of Houston]] in 1987.<ref name="Wu" /> This superconductor operated at 93&nbsp;K, notable because this is above [[liquid nitrogen]]'s boiling point (77.1&nbsp;K).<ref name="Wu" /> As the price of liquid nitrogen is lower than that of [[liquid helium]], which has to be used for the metallic superconductors, the operating costs would decrease.
+
+The actual superconducting material is often written as YBa<SUB>2</SUB>Cu<SUB>3</SUB>O<SUB>7–''d''</SUB>, where ''d'' must be less than 0.7 if the material is to be superconducting. The reason for this is still not clear, but it is known that the vacancies occur only in certain places in the crystal, the copper oxide planes and chains, giving rise to a peculiar oxidation state of the copper atoms, which somehow leads to the superconducting behavior.
+
+The theory of low temperature superconductivity has been well understood since the so-called BCS theory was put forward in 1957. It is based on a peculiarity of the interaction between 2 electrons in a crystal lattice. However, BCS theory does not explain high temperature superconductivity, and its precise mechanism is still a mystery. What is known is that the composition of the copper-oxide materials has to be precisely controlled if superconductivity is to occur.<ref>{{cite web|url=http://www.ch.ic.ac.uk/rzepa/mim/century/html/ybco_text.htm |publisher=Imperial College|accessdate=2009-12-20|title=Yttrium Barium Copper Oxide – YBCO}}</ref> 
+
+The created material was a black and green, multi-crystal, multi-phase mineral. Researchers are studying a class of materials known as [[perovskite]]s that are alternative mixtures of these elements, hoping to eventually develop a practical [[high-temperature superconductor]].<ref name="Stwertka116" />
+{{Clear}}
+
+==Precautions==
+Water soluble compounds of yttrium are considered mildly toxic, while its insoluble compounds are non-toxic.<ref name="Emsley495" /> In experiments on animals, yttrium and its compounds caused lung and liver damage, though toxicity varies with different yttrium compounds. In rats, inhalation of yttrium citrate caused [[pulmonary edema]] and [[dyspnea]], while inhalation of [[yttrium chloride]] caused liver edema, [[pleural effusion]]s, and pulmonary hyperemia.<ref name="osha">{{cite web|author = OSHA contributors|url = http://www.osha.gov/SLTC/healthguidelines/yttriumandcompounds/recognition.html|title = Occupational Safety and Health Guideline for Yttrium and Compounds|accessdate = 2008-08-03|publisher = United States Occupational Safety and Health Administration|date = 2007-01-11}} (public domain text)</ref>
+
+Exposure to yttrium compounds in humans may cause lung disease.<ref name="osha" /> Workers exposed to airborne yttrium europium vanadate dust experienced mild eye, skin, and upper respiratory tract irritation—though this may have been caused by the [[vanadium]] content rather than the yttrium.<ref name="osha" /> Acute exposure to yttrium compounds can cause shortness of breath, coughing, chest pain, and [[cyanosis]].<ref name="osha" /> [[National Institute for Occupational Safety and Health|NIOSH]] recommends a [[Permissible exposure limit|time-weighted average]] limit of 1&nbsp;mg/m<sup>3</sup> and an [[IDLH]] of 500&nbsp;mg/m<sup>3</sup>.<ref>{{cite web|author = NIOSH contributors|url = http://www.cdc.gov/niosh/npg/npgd0673.html|title = Yttrium|work = NIOSH Pocket Guide to Chemical Hazards|month = September|year = 2005
+|publisher = [[National Institute for Occupational Safety and Health]]|accessdate = 2008-08-03}}</ref> Yttrium dust is flammable.<ref name="osha" />
+
+==See also==
+{{Subject bar
+|portal=Chemistry
+|book1=Yttrium
+|book2=Period 5 elements
+|book3=Group 3 elements
+|book4=Chemical elements (sorted&nbsp;alphabetically)
+|book5=Chemical elements (sorted by number)
+|commons=y
+|wikt=y
+|wikt-search=yttrium
+}}
+
+==Notes==
+<references group="note" />
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+*<!-- Da --><cite id=Daane1968>{{cite book
+|last = Daane
+|first = A. H.
+|title = The Encyclopedia of the Chemical Elements
+|publisher = Reinhold Book Corporation
+|location = New York
+|year = 1968
+|editor = Hampel, Clifford A.
+|chapter = Yttrium
+|pages = 810–821
+|lccn = 68-29938}}
+*<!-- Em --><cite id=Emsley2001>{{cite book
+|title = Nature's Building Blocks: An A-Z Guide to the Elements
+|last = Emsley
+|first=John
+|publisher = [[Oxford University Press]]
+|year = 2001
+|location = Oxford, England, UK
+|isbn = 0-19-850340-7
+|chapter = Yttrium
+|pages=495–498
+}}</cite>
+*<!-- Ga --><cite id=Gadolin1794>{{cite journal
+|first= Johan
+|last = Gadolin
+|authorlink = Johan Gadolin
+|title = Undersökning af en svart tung Stenart ifrån Ytterby Stenbrott i Roslagen
+|journal = Kongl. Vetenskaps Academiens Nya Handlingar
+|volume = 15
+|year= 1794
+|pages= 137–155
+}}</cite>
+*<!-- Gr -->{{cite book
+|last = Greenwood
+|first = N. N.
+|coauthors = Earnshaw, A.
+|title = Chemistry of the Elements
+|edition = 2nd
+|publisher = Butterworth-Heinemann
+|location = Oxford
+|year = 1997
+|isbn = 0-7506-3365-4
+|ref = CITEREFGreenwood1997
+}}
+*<!-- Sw --><cite id=Stwertka1998>{{cite book
+|title = Guide to the Elements
+|edition = Revised
+|first = Albert
+|last = Stwertka
+|publisher = Oxford University Press
+|year = 1998
+|chapter = Yttrium
+|pages = 115–116
+|isbn = 0-19-508083-1
+}}</cite>
+*<!-- Va --><cite id=Krogt>{{cite web
+|last = van der Krogt
+|first = Peter
+|title = 39 Yttrium
+|url = http://elements.vanderkrogt.net/element.php?sym=Y
+|date = 2005-05-05
+|accessdate = 2008-08-06
+|work = Elementymology & Elements Multidict
+}}</cite>
+
+==Further reading==
+*{{Ref patent |country=US |number=5734166 |status=patent |title=Low-energy neutron detector based upon lithium lanthanide borate scintillators| gdate=1998-03-31 |invent1=Czirr John B. |assign1=Mission Support Inc}}</cite>
+*{{cite web|url = http://www.epa.gov/rpdweb00/radionuclides/strontium.html#healtheffects
+|title = Strontium: Health Effects of Strontium-90|accessdate = 2008-08-26
+|author = EPA contributors|publisher = US Environmental Protection Agency|date = 2008-07-31}}
+
+{{compact periodic table}}
+{{Chemical elements named after places}} 
+
+{{Yttrium compounds}}
+
+{{featured article}}
+
+[[Category:Chemical elements]]
+[[Category:Transition metals]]
+[[Category:Yttrium]]
+[[Category:Deoxidizers]]
+
+{{Link GA|ja}}
+[[af:Yttrium]]
+[[ar:إتريوم]]
+[[az:İttrium]]
+[[bn:ইট্রিয়াম]]
+[[be:Ітрый]]
+[[bs:Itrijum]]
+[[bg:Итрий]]
+[[ca:Itri]]
+[[cv:Иттри]]
+[[cs:Yttrium]]
+[[co:Ittriu]]
+[[cy:Ytriwm]]
+[[da:Yttrium]]
+[[de:Yttrium]]
+[[et:Ütrium]]
+[[el:Ύτριο]]
+[[es:Itrio]]
+[[eo:Itrio]]
+[[eu:Itrio]]
+[[fa:ایتریم]]
+[[hif:Yttrium]]
+[[fr:Yttrium]]
+[[fur:Itri]]
+[[ga:Itriam]]
+[[gv:Yttrium]]
+[[gl:Itrio]]
+[[hak:Yet]]
+[[xal:Иттриум]]
+[[ko:이트륨]]
+[[hy:Իտրիում]]
+[[hi:इत्रियम]]
+[[hr:Itrij]]
+[[io:Yitrio]]
+[[id:Itrium]]
+[[is:Yttrín]]
+[[it:Ittrio]]
+[[he:איטריום]]
+[[jv:Itrium]]
+[[kn:ಇಟ್ರಿಯಮ್]]
+[[sw:Ytri]]
+[[kv:Иттрий]]
+[[ku:Îtriyûm]]
+[[la:Yttrium]]
+[[lv:Itrijs]]
+[[lb:Yttrium]]
+[[lt:Itris]]
+[[lij:Ittrio]]
+[[jbo:jinmrtitri]]
+[[hu:Ittrium]]
+[[ml:യിട്രിയം]]
+[[mr:इट्रियम]]
+[[ms:Itrium]]
+[[mrj:Иттрий]]
+[[nl:Yttrium]]
+[[ja:イットリウム]]
+[[no:Yttrium]]
+[[nn:Yttrium]]
+[[oc:Itri]]
+[[uz:Ittriy]]
+[[pnb:ایتریم]]
+[[pl:Itr]]
+[[pt:Ítrio]]
+[[ro:Ytriu]]
+[[qu:Itriyu]]
+[[ru:Иттрий]]
+[[stq:Yttrium]]
+[[sq:Itriumi]]
+[[scn:Ittriu]]
+[[simple:Yttrium]]
+[[sk:Ytrium]]
+[[sl:Itrij]]
+[[sr:Итријум]]
+[[sh:Itrijum]]
+[[fi:Yttrium]]
+[[sv:Yttrium]]
+[[ta:யிற்றியம்]]
+[[th:อิตเทรียม]]
+[[tr:İtriyum]]
+[[uk:Ітрій]]
+[[ug:ئىتترىي]]
+[[vi:Yttri]]
+[[war:Itryo]]
+[[yi:איטריום]]
+[[yo:Yttrium]]
+[[zh-yue:釔]]
+[[zh:钇]]

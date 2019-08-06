@@ -1,0 +1,324 @@
+{{about||the specific belief system|Humanism (life stance)|the Renaissance liberal arts movement|Renaissance humanism}}
+
+:''Humanistic redirects here. For the album, see [[Humanistic (album)]].''
+{{Humanism}}
+'''Humanism''' is a broad category of [[ethics|ethical philosophies]] that affirm the dignity and worth of all people, based on the ability to determine right and wrong by appealing to universal human qualities, particularly [[rationalism|rationality]].<ref> {{cite book
+|title=Compact Oxford English Dictionary
+|publisher=Oxford University Press
+|date=2007
+|quote=humanism ''n.'' 1 a rationalistic system of thought attaching prime importance to human rather than divine or supernatural matters. 2 a Renaissance cultural movement which turned away from medieval scholastic-ism and revived interest in ancient Greek and Roman thought.
+|publicationyear = 2007}}This article handles sense 1. See history section and main article [[Renaissance Humanism]] for sense 2.</ref><ref>
+{{cite book
+|title=Collins Concise Dictionary
+|publisher=HarperCollins
+|date=1999
+|quote=The rejection of religion in favour of a belief in the advancement of humanity by its own efforts. |publicationyear = 1990}}.</ref> It is a component of a variety of more specific [[philosophy|philosophical]] systems and is incorporated into several religious schools of thought. Humanism can be considered the process by which truth and morality is sought through human investigation. In focusing on the capacity for self-determination, humanism rejects the validity of transcendental justifications, such as a dependence on [[faith|belief without reason]], the [[supernatural]], or texts of allegedly divine origin. Humanists endorse [[Moral universalism|universal morality]] based on the commonality of the [[human condition]], suggesting that solutions to human social and cultural problems cannot be [[Parochialism|parochial]].<ref>
+{{cite web
+|title=Definitions of humanism (subsection)
+|publisher=Institute for Humanist Studies
+|url=http://humaniststudies.org/humphil.html
+|accessmonthday = [[16 Jan]]
+|accessyear=2007}}</ref>
+
+==Aspects==
+=== Religion ===
+Humanism clearly rejects deference to supernatural beliefs in resolving human affairs but not necessarily the beliefs themselves; indeed some strains of Humanism are compatible with some religions. It is generally compatible with [[atheism]] and [[agnosticism]] but doesn't require either of these. The word "[[ignosticism|ignostic]]" (American) or "indifferentist" (British, including OED) are sometimes applied to Humanism, on the grounds that Humanism is an ethical process, not a dogma about the existence or otherwise of gods; Humanists simply have no need to be concerned with such questions. Agnosticism or atheism on their own do not necessarily entail Humanism; many different and sometimes incompatible philosophies happen to be atheistic in nature. There is no one [[ideology]] or set of behaviors to which all atheists adhere, and not all are humanistic.<ref>
+{{cite book
+|last=Baggini
+|first=Julian
+|authorlink=Julian Baggini
+|title=Atheism: A Very Short Introduction
+|pages=3&ndash;4
+|quote=The atheist's rejection of belief in God is usually accompanied by a broader rejection of any [[supernatural]] or [[transcendence (religion)|transcendental]] reality. For example, an atheist does not usually believe in the existence of immortal [[soul]]s, [[afterlife|life after death]], [[ghost]]s, or supernatural powers. Although strictly speaking an atheist could believe in any of these things and still remain an atheist... the arguments and ideas that sustain atheism tend naturally to rule out other beliefs in the supernatural or transcendental.
+|publisher=Oxford: Oxford University Press
+|year=2003
+|id=ISBN 0-19-280424-3}}</ref><ref>
+{{cite book
+|last=Winston
+|first=Robert (Ed.)
+|title=Human
+|pages=299
+|quote=Neither atheism nor agnosticism is a full belief system, because they have no fundamental philosophy or lifestyle requirements. These forms of thought are simply the absence of belief in, or denial of, the existence of deities.
+|publisher=New York: DK Publishing, Inc
+|year=2004
+|id=ISBN 0-7566-1901-7}}</ref>
+ 
+As Humanism encompasses intellectual currents running through a wide variety of philosophical and religious thought, several strains of Humanism allow it to fulfill, supplement or supplant the role of religions, and in particular, to be embraced as a complete [[life stance]]. For more on this, see [[Humanism (life stance)]]. In a number of countries, for the purpose of laws that give rights to "religions", the secular life stance has become legally recognized as equivalent to a "religion" for this purpose.<ref>Note: The topic of this article has a small initial character as Wikipedia guidelines prescribe for the name of a philosophy. The ''life stance'' named Humanism is capitalized as prescribed for the name of a religion. The International Humanist and Ethical Union, coordinating organized Humanist bodies worldwide, has recommended use of the capital H by its affiliates</ref> In the United States, the Supreme Court recognized that Humanism is equivalent to a religion in the limited sense of authorizing Humanists to conduct ceremonies commonly carried out by officers of religious bodies. The relevant passage is in a footnote to [[Torcaso v. Watkins]] (1961). It is often alleged by fundamentalist critics of Humanism that the Supreme Court "declared Humanism to be a religion," however the Court's statement, a mere footnote at most, clearly does not in fact do so; it simply asserts an equivalency of Humanists' right to act in ways usual to a religion, such as ceremonial recognition of life's landmarks. 
+
+[[Renaissance humanism]], and its emphasis on returning to the sources, contributed to the Protestant reformation by helping to gain what Protestants believe was a more accurate translation of Biblical texts.
+
+=== Knowledge ===
+According to Humanism, it is up to humans to find the truth, as opposed to seeking it through [[revelation]], [[mysticism]], [[tradition]], or anything else that is incompatible with the application of logic to the observable evidence. In demanding that humans avoid blindly accepting unsupported beliefs, it supports [[scientific skepticism]] and the [[scientific method]], rejecting [[authoritarianism]] and [[Philosophical skepticism|extreme skepticism]], and rendering [[faith]] an unacceptable basis for action. Likewise, Humanism asserts that knowledge of right and wrong is based on the best understanding of one's individual and joint interests, rather than stemming from a transcendental truth or an arbitrarily local source.<ref>
+{{cite book
+|last=Lamont
+|first=Corliss 
+|authorlink=Corliss Lamont
+|title=The Philosophy of Humanism, Eighth Edition
+|pages=252-253
+|quote=Conscience, the sense of right and wrong and the insistent call of one's better, more idealistic, more social-minded self, is a social product.  Feelings of right and wrong that at first have their locus within the family gradually develop into a pattern for the tribe or city, then spread to the larger unit of the nation, and finally from the nation to humanity as a whole.  Humanism sees no need for resorting to supernatural explanations or sanctions at any point in the ethical process. 
+|publisher=Humanist Press: Amherst, New York
+|year=1997 
+|id=ISBN 0-931779-07-3}}</ref>
+
+=== Speciesism ===
+Some have interpreted Humanism to be a form of [[speciesism]], regarding humans as being more important than other species. The philosopher [[Peter Singer]], himself a Humanist, stated that "despite many individual exceptions, Humanists have, on the whole, been unable to free themselves from one of the most central... Christian dogmas: the prejudice of speciesism".<ref name="singer">{{cite web |url=http://www.utilitarian.net/singer/by/200410--.htm |title=Taking Humanism Beyond Speciesism, by Peter Singer |author=[[Peter Singer]] |accessdate=2007-01-11}}</ref> He called on Humanists to "take a stand against... ruthless exploitation of other sentient beings", and took issue with statements in the [[Humanist Manifesto II]], which he felt gave "precedence to the interests of members of our own species."<ref name="singer" /> He also noted, however, that the same Manifesto stated that humans have "no God-given or inherent right to subdue other animals", and acknowledged that "the organizations that have done the most for animals have been independent of religion."<ref name="singer" />
+
+=== Optimism ===
+Humanism features an optimistic attitude about the capacity of people, but it does not involve believing that human nature is purely good or that all people can live up to the Humanist ideals without help. If anything, there is the recognition that living up to one's potential is hard work and requires the assistance of others. The ultimate goal is [[eudaimonia|human flourishing]]; making life better for all humans, and as the most conscious species, also promoting concern for the welfare of other sentient beings. The focus is on doing good and living well in the here and now, and leaving the world better for those who come after.
+
+== History ==
+Contemporary humanism can be traced back through the [[Renaissance]] and back to the [[Islamic Golden Age]] to its ancient Greek roots. Humanism can also be traced back to the time of [[Gautama Buddha]] (563-483 [[BCE]]) and [[Confucius]] (551–479 BCE) and the [[Warring States Period]], though the term "humanism" is more widely associated with Western philosophers. {{Fact|date=January 2008}}
+
+<!-- This would be a great place for a historically-minded reader to add a detailed timeline. Any volunteers? -->
+The term "humanism" was coined in 1808, based on the 15th century Italian term ''umanista'', which was used to designate a teacher or student of classic literature. The evolution of the meaning of the word ''humanism'' is fully explored in [[Nicolas Walter]]'s ''Humanism{{ndash}} What's in the Word''.<ref>[[Nicolas Walter|Walter, Nicolas]], 1997 ''Humanism{{ndash}} What's in the Word'', [[Rationalist Press Association]], London, ISBN 0-301-97001-7.</ref>
+
+===Greek humanism===
+{{main|Greek philosophy}}
+
+Sixth century BCE pantheists [[Thales of Miletus]] and [[Xenophanes of Colophon]] prepared the way for later Greek humanist thought. Thales is credited with creating the maxim "Know thyself", and Xenophanes refused to recognize the gods of his time and reserved the divine for the principle of unity in the universe. Later [[Anaxagoras]], often described as the "first [[freethinker]]", contributed to the development of science as a method of understanding the universe. These Ionian Greeks were the first thinkers to recognize that nature is available to be studied separately from any alleged supernatural realm. [[Pericles]], a pupil of Anaxagoras, influenced the development of democracy, freedom of thought, and the exposure of superstitions. Although little of their work survives, [[Protagoras]] and [[Democritus]] both espoused agnosticism and a spiritual morality not based on the supernatural. The historian [[Thucydides]] is noted for his scientific and rational approach to history.<ref>{{cite book
+|last=Potter
+|first=Charles
+|authorlink=Charles Francis Potter
+|title=Humanism A new Religion
+|pages=64–69
+|publisher=Simon and Schuster
+|date=1930}}
+</ref>
+
+=== Islamic humanism ===
+
+Many [[Early Islamic philosophy|medieval Muslim thinkers]] pursued [[humanistic]], [[Rationalism|rational]] and scientific [[discourse]]s in their search for [[knowledge]], meaning and [[values]]. A wide range of Islamic writings on love [[poetry]], [[history]] and [[philosophical theology]] show that medieval Islamic thought was open to the humanistic ideas of [[individualism]], occasional [[secularism]], [[skepticism]] and [[liberalism]].<ref>Lenn Evan Goodman (2003), ''Islamic Humanism'', p. 155, [[Oxford University Press]], ISBN 0195135806.</ref> Certain aspects of [[Renaissance humanism]] has its roots in the [[Islamic Golden Age|medieval Islamic world]], including the "art of ''[[Dictation (exercise)|dictation]]'', called in [[Latin]], ''[[ars dictaminis]]'',"
+and "the humanist attitude toward [[classical language]]."<ref name=Makdisi>{{citation|last=Makdisi|first=George|title=Scholasticism and Humanism in Classical Islam and the Christian West|journal=Journal of the American Oriental Society|volume=109|issue=2|date=April-June 1989|pages=175-182}}</ref>
+
+=== Renaissance humanism ===
+{{main|Renaissance humanism}}
+
+Renaissance humanism was a movement that affected the cultural, political, social, and literary landscape of [[Europe]]. Beginning in Florence in the last decades of the 14th century, Renaissance humanism revived the study of Latin and Greek, with the resultant revival of the study of science, philosophy, art and poetry of classical antiquity.(see Burckhard ''The Civilisation of the Renaissance in Italy'') The revival was based on interpretations of Roman and Greek texts, whose emphasis upon art and the senses marked a great change from the contemplation on the Biblical values of humility, introspection, and meekness. Beauty was held to represent a deep inner virtue and value, and an essential element in the path towards God. {{Fact|date=November 2007}}
+
+Humanism's divergence from orthodox Christianity can be identified with the condemnation of [[Pelagianism]] by Jerome and Augustine. Like the Humanists, [[Pelagius]] perceived humans as possessing inherent capacity for developing the qualities that the church perceived as necessitating the gift of grace from God. Pelagius rejected the doctrine of original sin. The Humanists likewise recognize humans as born not with a burden of inherited sin due to their ancestry but with potential for both good and evil which will develop in this life as their characters are formed. The Humanists therefore reject [[Calvinism|Calvinistic]] [[predestination]], and understandably therefore arouse the hostility of [[Protestant]] [[Fundamentalism|fundamentalists]].{{Fact|date=November 2007}}
+
+Renaissance humanists believed that the [[liberal arts]] (music, art, grammar, rhetoric, oratory, history, poetry, using classical texts, and the studies of all of the above) should be practiced by all levels of wealth. They also approved of self, human worth and individual dignity.{{Fact|date=January 2008}}
+
+Noteworthy humanist scholars from this period include the Dutch theologian [[Desiderius Erasmus|Erasmus]], the English author (and [[Roman Catholic]] [[saint]]) [[Thomas More]], the French writer [[François Rabelais]], the Italian poet [[Francesco Petrarch]] and the Italian scholar [[Giovanni Pico della Mirandola]].{{Fact|date=January 2008}}
+
+=== Modern era ===
+One of the earliest forerunners of contemporary chartered humanist organizations was the Humanistic Religious Association formed in 1853 in London. This early group was democratically organized, with male and female members participating in the election of the leadership and promoted knowledge of the sciences, philosophy, and the arts.{{Fact|date=January 2008}}
+
+In February 1877, the word "Humanism" was publicly used, apparently for the first time in America, to apply to Felix Adler, pejoratively. Adler, however, did not embrace the term, and instead coined the name "Ethical Culture" for his new movement{{ndash}} a movement which still exists in the now Humanist-affiliated [http://www.nysec.org New York Society for Ethical Culture].{{Fact|date=January 2008}}
+
+Active in the early 1920s, [[F.C.S. Schiller]] considered his work to be tied to the Humanist movement. Schiller himself was influenced by the [[pragmatism]] of [[William James]]. In 1929 [[Charles Francis Potter]] founded the First Humanist Society of New York whose advisory board included [[Julian Huxley]], [[John Dewey]], [[Albert Einstein]] and [[Thomas Mann]]. Potter was a minister from the [[Unitarianism|Unitarian]] tradition and in 1930 he and his wife, Clara Cook Potter, published ''[[Humanism: A New Religion]]''. Throughout the 1930s Potter was a well-known advocate of women’s rights, access to birth control, "civil divorce laws", and an end to capital punishment.<ref>{{cite web |last=Stringer-Hye |first=Richard |title=Charles Francis Potter |work=Dictionary of Unitarian and Universalist Biography |publisher=Unitarian Universalist Historical Society |url=http://www25.uua.org/uuhs/duub/articles/charlesfrancispotter.html |accessdate=2008-05-01}}</ref>
+
+[[Raymond B. Bragg]], the associate editor of ''The New Humanist'', sought to consolidate the input of L. M. Birkhead, Charles Francis Potter, and several members of the Western Unitarian Conference. Bragg asked [[Roy Wood Sellars]] to draft a document based on this information which resulted in the publication of the ''[[Humanist Manifesto]]'' in 1933. The Manifesto and Potter's book became the cornerstones of modern humanism. Both of these sources envision humanism as a religion.{{Fact|date=January 2008}}
+
+In 1941 the [[American Humanist Association]] was organized. Noted members of The AHA included [[Isaac Asimov]], who was the president before his death, and writer [[Kurt Vonnegut]], who followed as honorary president until his death in 2007. [[Robert Buckman]] was the head of the association in Canada, and is now an honorary president.{{Fact|date=January 2008}}
+
+After World War II, three prominent humanists became the first directors of major divisions of the [[United Nations]]: [[Julian Huxley]] of [[UNESCO]], [[Brock Chisholm]] of the [[World Health Organization]], and [[John Boyd-Orr]] of the [[Food and Agricultural Organization]].<ref>[http://www.americanhumanist.org/publications/morain/chapter-8.html American Humanist Association]</ref>
+
+== Modern humanist philosophies ==
+There are many people who consider themselves humanists, and much variety in the exact type of humanism to which they subscribe. There is some disagreement over terminology and definitions, with some people using narrower or broader interpretations. Not all people who call themselves humanists hold beliefs that are genuinely humanistic, and not all people who do hold humanistic beliefs apply the label of humanism to themselves.{{Fact|date=January 2008}}
+
+All of this aside, Humanism can be divided into secular and religious types, although some Humanists, including the [[International Humanist and Ethical Union]] (IHEU), reject the addition of any adjective at all to "Humanist," and instead intended the word to have universal application.<ref>{{cite web |url=http://www.iheu.org/node/180 |title=Humanism is Eight Letters, No More |accessdate=2008-07-05 |publisher=[[International Humanist and Ethical Union]]}}</ref>
+
+=== Humanism (life stance) ===
+{{main|Humanism (life stance)}}
+Humanism (capital 'H', no adjective such as "secular")<ref>{{cite web |url=http://www.thehumanist.org/humanist/articles/DoerrND02.htm |title=Humanism Unmodified |accessdate=2008-07-05 |author=Doerr, Edd |date=November/December 2002 |work= |publisher=The Humanist}}</ref> is a comprehensive [[life stance]] that upholds human [[reason]], [[ethics]], and [[justice]], and rejects [[supernaturalism]], [[pseudoscience]], and [[superstition]].
+
+The International Humanist and Ethical Union (IHEU) is the world union of more than one hundred Humanist, rationalist, secular, ethical culture, and freethought organizations in more than 40 countries. The Happy Human is the official symbol of the IHEU as well as being regarded as a universally recognised symbol for those that call themselves Humanists (as opposed to "humanists"). In 2002 the IHEU General Assembly unanimously adopted the [[Amsterdam Declaration 2002]] which represents the official defining statement of World Humanism.<ref>{{cite web |url=http://www.iheu.org/amsterdamdeclaration |title=Amsterdam Declaration 2002 |accessdate=2008-07-05 |author= |date= |work= |publisher=International Humanist and Ethical Union }}</ref>
+
+All member organisations of the [[International Humanist and Ethical Union]] are required by IHEU bylaw 5.1<ref>{{cite web |url=http://www.iheu.org/bylaws |title=IHEU's Bylaws |accessdate=2008-07-05 |publisher=International Humanist and Ethical Union}}</ref> to accept the IHEU Minimum Statement on Humanism:
+<blockquote>
+Humanism is a [[democratic]] and [[ethical]] life stance, which affirms that human beings have the right and responsibility to give meaning and shape to their own lives. It stands for the building of a more [[humane]] society through an ethic based on human and other natural values in the spirit of reason and free inquiry through human capabilities. It is not [[theism|theistic]], and it does not accept [[supernatural]] views of reality.</blockquote>
+
+=== Secular humanism ===
+{{weasel}}
+{{main|Secular humanism}}
+[[Secular humanism]] is the branch of humanism that rejects theistic religious belief and adherence to belief in the existence of a supernatural world.
+
+When people speak of Humanism in general, they are sometimes referring to secular humanism as a default meaning.{{Fact|date=April 2008}}  Some secular humanists take this even further by denying that less anti-religious humanists qualify as genuine humanists. Others feel that the ethical side of humanism transcends the issue of religion, because being a good person is more important than rejecting supernatural beliefs. The Humanist Manifestos, which represent consensus statements of Humanists, present Humanism as an ethical process and a religion through which we can move above and beyond both the divisive particulars of older religious stances and the negation of these. {{Fact|date=January 2008}}
+
+The secular humanist movement, by that name, hardly existed prior to 1980. In 1979, [[Paul Kurtz]] lost his position as editor of ''The Humanist''. Departing the American Humanist Association, he then launched his own publication, ''[[Free Inquiry]]'', and founded the Council for Secular Humanism independently of the American Humanist Association yet pursuing essentially similar goals.
+
+=== Religious humanism ===
+{{main|Religious humanism}}
+Religious humanism is the branch of humanism that considers itself religious (based on a functional definition of religion), or embraces some form of theism or deism, without necessarily being allied with organized religion. Religious humanism is frequently associated with philosophers, academics and scholars in the liberal arts. It holds appeal for a number of [[Unitarian Universalism|Unitarian Universalists]], [[Quakers]], [[Lutherans]] and [[Anglicans]]. Subscribers to a religion who do not hold supernatural assertions as a necessary source for their moral values may be religious humanists. The central position of human beings in humanist philosophy goes with a [[humane]] morality; the latter alone does not constitute Humanism. A [[humanitarian]] who derives morality from religious grounds does not make a religious Humanist.{{Fact|date=January 2008}}
+
+A number of religious humanists feel that secular humanism is too coldly logical and rejects the full emotional experience that makes humans human. From this comes the notion that secular humanism is inadequate in meeting the human need for a socially fulfilling philosophy of life. Disagreements over things of this nature have resulted in friction between secular and religious humanists, despite their commonalities.{{Fact|date=January 2008}}
+
+Religious Humanism was studied and developed by the late Rev. Paul Beattie during his tenure as editor of ''Religious Humanism'', a periodical which became Unitarian rather than Humanist after his death and continues as such today.{{Fact|date=January 2008}}
+
+A Jewish form of religious Humanism was developed by the late Rabbi Sherwin Wine, who, in the fall of 1963 along with eight families in the northern suburbs of Detroit formed The Birmingham Temple.  As the philosophy of "Jewish Humanism" took hold many other communities formed additional "temples" throughout the United States.  Rabbi Wine was instrumental in training other Rabbis and lay people as leaders in those communities. Soon thereafter he founded the Society for Humanistic Judaism, now a worldwide movement with 40,000 adherents.{{Fact|date=January 2008}}
+
+== Other forms of humanism ==
+Humanism is also sometimes used to describe "humanities" scholars, (particularly scholars of the Greco-Roman classics). As mentioned above, it is sometimes used to mean humanitarianism. There is also a school of [[humanistic psychology]], and an educational method.{{Fact|date=January 2008}}
+
+=== Educational humanism ===
+Humanism, as a current in [[education]], began to dominate U.S. school systems in the 17th century. It held that the studies that develop human intellect are those that make humans "most truly human". The practical basis for this was [[faculty psychology]], or the belief in distinct intellectual faculties, such as the analytical, the mathematical, the linguistic, etc. Strengthening one faculty was believed to benefit other faculties as well (transfer of training). A key player in the late 19th-century educational humanism was U.S. Commissioner of Education W.T. Harris, whose "Five Windows of the Soul" ([[mathematics]], [[geography]], [[history]], [[grammar]], and [[literature]]/[[art]]) were believed especially appropriate for "development of the faculties". Educational humanists believe that "the best studies, for the best kids" are "the best studies" for all kids. {{Fact|date=July 2008}}While humanism as an educational current was widely supplanted in the United States by the innovations of the early 20th century, it still holds out in some [[preparatory school]]s and some [[high school]] disciplines (especially in [[literature]]).{{Fact|date=January 2008}}
+
+== See also ==
+* [[Humanism in Germany]]
+* [[List of basic humanism topics]]
+* [[List of humanists]]
+* [[Natural rights]]
+* [[Secular humanism]]
+* [[:Category:Humanists]]
+
+===Manifestos and statements setting out Humanist viewpoints ===
+* [[Humanist Manifesto]]
+* [[Amsterdam Declaration 2002]]
+* [[A Secular Humanist Declaration]]
+
+=== Forms of humanism ===
+:''See the humanism philosophy box at top on the right.''
+
+=== Related philosophies ===
+* [[Agnosticism]]
+* [[Atheism]]
+* [[Deism]]
+* [[Existentialism]]
+* [[Eudaimonism]]
+* [[Extropianism]]
+* [[Infinitism]]
+* [[Marxist humanism]]
+* [[Objectivity (philosophy)|Objectivity]]
+* [[Pragmatism]]
+* [[rationalist movement|Rationalism]]
+* [[Transhumanism]]
+
+=== Organizations ===
+* [http://www.altrue.net/site/humanist/ Association for Humanist Sociology]
+* [[American Humanist Association]]
+* [[Arnold P. Gold Foundation]], for the advancement of humanism in medicine
+* [[British Humanist Association]]
+* [[Council for Secular Humanism]]
+* [[Ethical Culture]]
+* [[European Humanist Federation]]
+* [[Humanist Association of Ireland]]
+* [[Humanisterna]], the Swedish Humanist Association
+* [[Human-Etisk Forbund]], the Norwegian Humanist Association
+* [[Humanist International]]
+* [[Humanist Movement]]
+* [[Humanist Society of Scotland]]
+* [[Institute for Humanist Studies]]
+* [[International Humanist and Ethical Union]] (IHEU)
+* [[North East Humanists]], the largest regional Humanist group in the United Kingdom
+* [[Rationalist International]]
+* [[Sidmennt]], the Icelandic Ethical Humanist Association
+* [[Society for Humanistic Judaism]]
+* Het Humanistisch Verbond, the Dutch Humanist Association
+For more organizations see [[:Category:Humanist associations]]''
+
+=== Other ===
+* [[Antihumanism]]
+* [[Humanistic psychology]]
+* [[Misanthropy]]
+* [[Religious freedom]]{{ndash}} freedom of religion ''and'' belief
+* [[Social psychology]]
+* [[Speciesism]]
+* [[Ten Commandment Alternatives]] - Secular and humanist alternatives to the Ten Commandments
+
+== References ==
+=== Notes ===
+{{reflist|2}}
+
+=== Bibliography ===
+*Petrosyan, M. 1972 ''Humanism: Its Philosophical, Ethical, and Sociological Aspects'', Progress Publishers, Moscow.
+*Barry, P. 2002 Beginning Theory: an introduction to literary and cultural theory, 2nd edn, Manchester University Press, Manchester, U.K., p. 36
+*Everything2, 2002 Liberal Humanism, http://everything2.com/index.pl?node_id=1321605
+*Liberal Humanism (Modernism) and Postmodernism 2001, http://herbergeronline.asu.edu/the220/notes/postmodern.html
+*Moon, B. 2001 Literary terms: a practical glossary, 2nd edn, Chalkface Press, Cotteslow, W.A., Australia, p.62
+*PhilWeb: Theoretical Resources Off– and On–line. "Liberal Humanism." http://www.phillwebb.net/History/TwentiethCentury/AngloAmerican/LiberalHumanism.htm
+
+== External links ==
+{{wiktionary}}
+{{commonscat}}
+=== Manifestos and statements setting out humanist viewpoints===
+* [http://www.americanhumanist.org/about/manifesto1.html Humanist Manifesto I] (1933)
+* [http://www.americanhumanist.org/about/manifesto2.html Humanist Manifesto II] (1973)
+* [http://www.secularhumanism.org/index.php?section=main&page=declaration A Secular Humanist Declaration] (1980)
+* [http://www.iheu.org/amsterdamdeclaration Amsterdam Declaration] (2002)
+* [http://www.americanhumanist.org/3/HumandItsAspirations.php Humanist Manifesto III] (2003)
+
+=== Introductions to humanism ===
+* [http://www.jcn.com/humanism.html ''What Is Humanism?''] from the [[American Humanist Association]]
+* Morain, Lloyd and Mary: Humanism as the Next Step, from the [[American Humanist Association]]
+* Huxley, Julian: The Humanist Frame
+* [http://MHEC.humanists.net/HUMNISM.HTM Humanism: Why, What, and What For, In 882 Words]
+* [http://plato.stanford.edu/entries/humanism-civic/ Stanford Encyclopedia of Philosophy entry on Civic Humanism]
+* [http://www.newadvent.org/cathen/07538b.htm Catholic Encyclopedia article on Renaissance Humanism]
+* [http://www.dmoz.org/Society/Religion_and_Spirituality/Humanism/ Humanism at the Open Directory Project]
+
+=== Web articles ===
+* [http://www.newhumanist.org.uk/ ''New Humanist''] British magazine from the Rationalist Press Association (RPA)
+* [http://www.TheSystemHasYou.com/ Nanovirus{{ndash}} A humanist perspective on politics, technology and culture]
+* [http://www.modernhumanist.com/ ''Modern Humanist''] An Online Journal for Modern Humanism, Humanist Philosophy & Life
+
+=== Web books ===
+* [http://www.corliss-lamont.org/philos8.htm ''The Philosophy of Humanism''] by [[Corliss Lamont]]
+* [http://myweb.dal.ca/kernohan/godless ''A Guide for the Godless: The Secular Path to Meaning''] by Andrew Kernohan
+* [http://books.google.com/books?id=86cDAAAAMAAJ&rview=1 ''The New Humanism''] by Edward Howard Griggs
+* [[b:Thinking And Moral Problems|Thinking and Moral Problems]], [[b:Religions And Their Source|Religions and Their Source]], [[b:Purpose|Purpose]], and [[b:Developing A Universal Religion|Developing a Universal Religion]], four Parts of a Wikibook.
+
+
+{{Philosophy topics}}
+
+{{Age of Enlightenment}}
+
+[[Category:Art movements]]
+[[Category:Epistemology]]
+[[Category:Renaissance]]
+[[Category:Humanism| ]]
+[[Category:Freethought]]
+
+[[als:Humanismus]]
+[[ar:إنسانية]]
+[[an:Umanismo]]
+[[bn:মানবতাবাদ]]
+[[bg:Хуманизъм]]
+[[ca:Humanisme]]
+[[cs:Humanismus]]
+[[cy:Dyneiddiaeth]]
+[[da:Humanisme]]
+[[de:Humanismus]]
+[[et:Humanism]]
+[[es:Humanismo]]
+[[eo:Humanismo]]
+[[eu:Pentsamendu humanista]]
+[[fa:اومانیسم]]
+[[fr:Humanisme]]
+[[fur:Umanisim]]
+[[gl:Humanismo]]
+[[ko:인문주의]]
+[[id:Humanisme]]
+[[ia:Humanismo]]
+[[it:Umanesimo]]
+[[he:הומניזם]]
+[[jv:Humanisme]]
+[[kk:Адамгершілік]]
+[[la:Humanismus]]
+[[lv:Humānisms]]
+[[lt:Humanizmas]]
+[[hu:Humanizmus]]
+[[mk:Хуманизам]]
+[[nl:Humanisme]]
+[[ja:ヒューマニズム]]
+[[no:Humanisme]]
+[[oc:Umanisme]]
+[[uz:Gumanizm]]
+[[pl:Humanizm]]
+[[pt:Humanismo]]
+[[ro:Umanism]]
+[[ru:Гуманизм]]
+[[sco:Humanism]]
+[[sq:Humanizmi]]
+[[simple:Humanism]]
+[[sk:Humanizmus (ľudomilnosť)]]
+[[sl:Humanizem]]
+[[sr:Хуманизам]]
+[[fi:Humanismi]]
+[[sv:Humanism]]
+[[ta:மனிதநேயம்]]
+[[th:ลัทธิมนุษยนิยม]]
+[[vi:Chủ nghĩa nhân đạo]]
+[[tr:Hümanizm]]
+[[uk:Гуманізм]]
+[[zh:人文主义]]

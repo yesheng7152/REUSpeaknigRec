@@ -1,0 +1,80 @@
+<root>'''Flanging'''  is a time-based [[audio effect]] that occurs when two identical signals are mixed together, but with one signal time-delayed by a small and gradually changing amount, usually smaller than 20 ms (milliseconds). This produces a swept '[[comb filter]]' effect: peaks and notches are produced in the resultant frequency spectrum, related to each other in a linear harmonic series.  Varying the time delay causes these to sweep up and down the frequency spectrum.
+
+Part of the output signal is usually fed back to the input (a 're-circulating delay line'), producing a resonance effect which further enhances the intensity of the peaks and troughs. The phase of the fed-back signal is sometimes inverted, producing another variation on the flanging sound.
+
+A ''flanger'' is a device dedicated to creating this sound effect. 
+
+<template lineStart="1"><title>listen
+</title><part><name>filename</name><equals>=</equals><value>Flanging effect.ogg
+</value></part><part><name>title</name><equals>=</equals><value>Example of flanging
+</value></part><part><name>description</name><equals>=</equals><value>A short sample followed by two flanging versions.
+</value></part></template>
+
+<h level="2" i="1">== Comparison with phasing ==</h>
+
+[[Image:Flanging_vs_Phasing_effect.png|200px|thumb|right|[[Spectrogram]]s of Phasing and Flanging effects]]
+
+Flanging is one specific type of [[Phaser (effect)|phasing]]. In phasing, the signal is passed through one or more [[all-pass filter]]s which have non-linear [[phase response]], and then added back to the original signal.  This results in [[Destructive interference#Constructive and destructive interference|constructive and destructive interference]] that varies with frequency, giving a series of peaks and troughs in the frequency response of the system.  In general, the position of these peaks and troughs do not occur in a [[Harmonic series (music)|harmonic series]].
+
+In contrast, flanging relies on adding the signal to a uniform time-delayed copy of itself, which results in an output signal with peaks and troughs which ''are'' in a harmonic series.  Extending the comb analogy, flanging uses a comb filter with regularly-spaced teeth, whereas phasing uses a comb filter with irregularly-spaced teeth.
+
+In both phasing and flanging, the characteristics (phase response and time delay, respectively) are generally varied in time, leading to an audible sweeping effect.
+
+To the ear, flanging and phasing sound similar, yet they are recognizable as distinct colorations.
+
+Commonly, flanging is referred to as having a &quot;jet plane&quot;-like characteristic that is most obvious when applied to a [[white noise]] or similar [[noise]] signal.
+
+If the frequency response of this effect is plotted on a graph, the trace resembles a comb, and so is called a comb filter.  Once the operator takes his/her finger off, that player will speed up until its [[tachometer]] is back in phase with the master, and as this happens, the flanging effect will be repeated, with the harmonics swooping gradually higher until both signals pass momentarily through the silent perfect sync point again.  It is often aesthetically better not to let the two tapes reach this point, but to start the reel-slowing again just before they get back into sync.
+
+<h level="2" i="2">== Origin ==</h>
+
+The name ''flanging'' comes from the original method of creation.  Originally, a signal would be recorded to two [[tape recorder|tape machines]] simultaneously.  The playback-head output from these two recorders was then mixed together onto a 3rd recorder.  In this form, minute differences in the motor speeds of each machine would result in a phasing effect when the signals were combined.  The &quot;flange&quot; effect originated when an engineer would literally put a finger on the [[flange]], or rim of one of the tape reels so that machine was slowed down, slipping out of sync by tiny degrees.  A listener would hear a &quot;drainpipe&quot; swooping effect as shifting sum-and-difference harmonics were created. When the operator removed his/her finger the tape sped up again, making the effect move back in the other direction.
+
+Older recording hardware could suffer from flanging as an undesired side effect when recording very long tracks.  As the weight of the tape built up on one reel, the pressure on the [[Capstan (tape recorder)|capstan]]s could cause flanging during mixdown or dubbing.  This was one of the problems faced by studio engineers in the sixties and seventies when recording large concept pieces, as explained by [[Ian Anderson (musician)|Ian Anderson]] of [[Jethro Tull (band)|Jethro Tull]] when recounting the studio challenges of recording ''[[Thick as a Brick]]''.
+
+The development of the classic &quot;flanging&quot; effect is usually attributed to [[George Chkiantz]], an engineer employed at [[Olympic Studios]] in [[Barnes]], [[London]]. One of the first instances of the sound being used on a commercial pop recording was [[The Small Faces]]' 1967 single &quot;[[Itchycoo Park]]&quot;, recorded at Olympic and engineered by Chkiantz's colleague [[Glyn Johns]]. 
+
+However there are competing claims for the first recorded use of the technique. One is that the technique was pioneered by the [[BBC Radiophonic Workshop]], who published their experiments on radio shows such as the [[Goon Show]] in freely available journals. (&quot;Flange&quot; was one of many words used out of context on the show to confuse/amuse the audience). 
+
+American music industry veterans David S. Gold and Stan Ross, founders of the renowned [[Gold Star Studios]] in Hollywood, claim that they made the first commercial recording to feature the technique — the single &quot;The Big Hurt&quot; by [[Miss Toni Fisher]] which was recorded at Gold Star in late 1959 and which became a national US hit in early 1960, rising to #3 in the Billboard chart.
+
+<template lineStart="1"><title>listen
+</title><part><name>filename</name><equals>=</equals><value>Itchycoo park.ogg
+</value></part><part><name>title</name><equals>=</equals><value>''Itchycoo Park'' - The Small Faces
+</value></part><part><name>description</name><equals>=</equals><value>listen to the tape flanging effect on the 1967 single.
+</value></part></template>
+
+In 1969, the record producer for [[The Litter]], Warren Kendrick, devised a method to precisely control the flanging effect by placing two 15 IPS stereo [[Ampex]] tape recorders side-by-side. The take-up reel of recorder A and supply reel of recorder B were disabled, as were channel 2 of recorder A, channel 1 of recorder B and the erase head of recorder B. The tape was fed, left to right, across BOTH recorders and the identical signal was recorded on both channels of the tape; the signals were displaced by about 18 inches from each other. During the recording, a [[screwdriver]] was wedged between the tape recorders to make the tape run &quot;uphill&quot; and &quot;downhill&quot;. The same configuration was employed during the playback/mixdown to a third recorder. The screwdriver was moved back and forth to cause the two signals to diverge, then converge.
+
+[[John Lennon]] of [[The Beatles]] used the term &quot;flanging&quot; to refer to [[automatic double tracking]], a technique developed at [[Abbey Road Studios]] by [[recording engineer]] Ken Townsend, in answer to producer [[George Martin]]'s joking assertion that the ADT effect employed a &quot;double-bifurcated sploshing flange&quot;. This usage of the term is coincidental. Flanging (or artificial double tracking as it was known at EMI) was first used on The Beatles song &quot;[[Tomorrow Never Knows]]&quot;, written and sung by [[John Lennon]] in April 1966.<ext><name>ref</name><attr> name=&quot;CompleteBeatlesp70&quot;</attr><inner>Lewisohn - ‘Complete Beatles Recording Sessions’. p70.</inner><close>&lt;/ref&gt;</close></ext> The first use of flanging effect in stereo is credited to producer [[Eddie Kramer]] who used the effect in the coda of [[Jimi Hendrix]]'s song &quot;[[Bold as Love]]&quot; (1967). Kramer admitted in an 1990s interview that he read [[BBC Radiophonic Workshop]] technical journals for ideas and [[circuit diagram]]s.
+
+In the [[1970s]], advances in [[solid state (electronics)|solid state]] electronics made the flanging effect possible using [[integrated circuit]] technology. Solid state flanging devices fall into two categories: analog and digital. The flanging effect in most newer digital flangers relies on [[digital signal processing|DSP]] technology. Flanging can also be accomplished using computer software. Even today, though, many studio practitioners prefer the sound of analog tape flanging, finding the serendipitous nature of human intervention more interesting than the clinical perfection created by purely electronic means. Tape flanging requires bulky hardware and takes quite a knack to get right, but some consider the results to be well worth the time and effort.
+
+Note that the original tape-flanging effect sounds a little different from the later electronic and software re-creations. This is because, not only is the signal time-delayed, but the response characteristics at different frequencies of the magnetic tape and tape heads inevitably introduced some phase shifts into the signals as well. Thus, whilst the peaks and troughs of the comb filter are more-or-less in a linear harmonic series, there is a significant amount of non-linear behaviour too, causing the timbre of tape-flanging to sound more like a combination of what came to be known as flanging and phasing.
+<h level="2" i="3">== Notes ==</h>
+&lt;div class=&quot;references-small&quot; style=&quot;-moz-column-count:2; column-count:2;&quot;&gt;<ext><name>references</name><attr/></ext>&lt;/div&gt;
+
+<h level="2" i="4">== See also ==</h>
+* [[List of recordings with a prominent flanging effect]]
+* [[Comb filter]]
+
+<h level="2" i="5">== External links ==</h>
+* http://www.harmony-central.com/Effects/Articles/Flanging/
+* [http://www.shredaholic.com/mxrflanger.html MXR Flanger] - information on building a Flanger effect box for the electric guitar
+
+[[Category:Audio effects]]
+[[Category:Effects units]]
+[[Category:Audio engineering]]
+[[Category:Sound recording]]
+
+[[da:Flanger]]
+[[de:Flanger]]
+[[es:Flanger]]
+[[fr:Flanger]]
+[[it:Flanger]]
+[[nl:Flanger]]
+[[ja:フランジャー (音響機器)]]
+[[pl:Flanger]]
+[[pt:Flanging]]
+[[fi:Flanger]]
+[[sv:Flanger]]</root>

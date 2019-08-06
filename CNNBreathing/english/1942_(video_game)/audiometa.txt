@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=I read the article on the game 1942 down a microphone.}}
+|Source={{own}}
+|Author=[[User:Frogbrains|Frogbrains]]
+|Date=2010-05-25
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+[[Category:Audio files requiring categorisation]]

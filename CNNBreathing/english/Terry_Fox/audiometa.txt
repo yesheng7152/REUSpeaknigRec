@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Spoken article entry
+|title= Terry Fox
+|time= 37:50
+|user_name= Liverpudlian100
+|date= 2013-01-29
+|link_to_recorded_version= http://en.wikipedia.org/wiki/Terry_Fox
+|accent= British English
+}}
+== {{int:license-header}} ==
+{{Self|1=cc-by-sa-3.0|author={{User at project|Liverpudlian100|w|en}}}}
+
+== {{Original upload log}} ==
+{{Original description page|en.wikipedia|Terry+Fox.ogg}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2013-02-05 09:08:12 || 0 × 0 || [[w:User:AKA MBG|AKA MBG]] || ''<nowiki>Audio level was normalized (0:15-2:00 and 30:28-end).</nowiki>''
+|-
+| 2013-01-30 07:34:07 || 0 × 0 || [[w:User:Liverpudlian100|Liverpudlian100]] || ''<nowiki>{{Spoken article entry |title= Terry Fox |time= 37:50 |user_name= Liverpudlian100 |date= 2013-01-29 |link_to_recorded_version= http://en.wikipedia.org/wiki/Terry_Fox |accent= British English }} == Licensing: == {{cc-by-sa-3.0}} <!-- This is the license...</nowiki>''
+|-
+|}
+
+{{Uncategorized|year=2017|month=February|day=13}}

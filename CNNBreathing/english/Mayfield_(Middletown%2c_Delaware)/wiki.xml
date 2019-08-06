@@ -1,0 +1,39 @@
+<root><template><title>Infobox NRHP
+  </title><part><name> name </name><equals>=</equals><value> Mayfield
+  </value></part><part><name> nrhp_type </name><equals>=</equals><value> 
+  </value></part><part><name> image </name><equals>=</equals><value> MAYFIELD, MIDDLETOWN, NEW CASTLE COUNTY, DE.jpg
+  </value></part><part><name> caption </name><equals>=</equals><value> 
+  </value></part><part><name> location </name><equals>=</equals><value>1603 Levels Rd., near [[Middletown, Delaware]]
+  </value></part><part><name> lat_degrees </name><equals>=</equals><value> 39
+  </value></part><part><name> lat_minutes </name><equals>=</equals><value> 24
+  </value></part><part><name> lat_seconds </name><equals>=</equals><value> 1
+  </value></part><part><name> lat_direction </name><equals>=</equals><value> N
+  </value></part><part><name> long_degrees </name><equals>=</equals><value> 75
+  </value></part><part><name> long_minutes </name><equals>=</equals><value> 45
+  </value></part><part><name> long_seconds </name><equals>=</equals><value> 21
+  </value></part><part><name> long_direction </name><equals>=</equals><value> W
+  </value></part><part><name> coord_display </name><equals>=</equals><value> inline,title
+  </value></part><part><name> locmapin </name><equals>=</equals><value> Delaware
+  </value></part><part><name> built </name><equals>=</equals><value> c. <template><title>Start date</title><part><name index="1"/><value>1839</value></part></template>
+  </value></part><part><name> architect OR builder </name><equals>=</equals><value> 
+  </value></part><part><name> architecture </name><equals>=</equals><value> Vernacular Greek Revival    
+  </value></part><part><name> added </name><equals>=</equals><value> August 1, 1997
+  </value></part><part><name> area </name><equals>=</equals><value> <template><title>convert</title><part><name index="1"/><value>5.2</value></part><part><name index="2"/><value>acre</value></part></template>
+  </value></part><part><name> governing_body </name><equals>=</equals><value> Private 
+  </value></part><part><name> refnum </name><equals>=</equals><value> 97000836<ext><name>ref</name><attr> name=&quot;nris&quot;</attr><inner>{{NRISref|version=2010a}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part></template>
+'''Mayfield''', also known as the William Wilson House, is a historic home located near [[Middletown, Delaware|Middletown]], [[New Castle County, Delaware]].  It was built about 1839, and is a 2 1/2-story, five bay, center hall plan brick dwelling with a two-story, rear service wing.  The house is in a vernacular [[Greek Revival architecture|Greek Revival]] style. It measures approximately 45 feet wide and 25 feet deep.  It features a steeply pitched gable roof with dormers and tetrastyle, Greek-Revival style porch on brick footings.<ext><name>ref</name><attr> name=nrhpdoc</attr><inner>{{cite web|url=http://pdfhost.focus.nps.gov/docs/NRHP/Text/97000836.pdf |title=National Register of Historic Places Inventory/Nomination: Mayfield |author=Susan Brizzolara|date=April 1997 |publisher=National Park Service}} and [http://pdfhost.focus.nps.gov/docs/NRHP/Photos/97000836.pdf accompanying 11 photos]</inner><close>&lt;/ref&gt;</close></ext>
+
+It was listed on the [[National Register of Historic Places]] in 1997.<ext><name>ref</name><attr> name = nris</attr></ext> 
+
+<h level="2" i="1">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<template lineStart="1"><title>National Register of Historic Places in Delaware</title></template>
+
+[[Category:Houses on the National Register of Historic Places in Delaware]]
+[[Category:Greek Revival houses in Delaware]]
+[[Category:Houses completed in 1839]] 
+[[Category:Houses in New Castle County, Delaware]]
+
+<template lineStart="1"><title>Delaware-NRHP-stub</title></template></root>

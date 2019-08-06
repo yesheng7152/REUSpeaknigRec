@@ -1,0 +1,66 @@
+
+{{English spoken article
+|file_name=Evolution.ogg
+|title=Evolution
+|time=34:28
+|file_size=16.5 MB
+|user_name=Demi
+|date=[http://en.wikipedia.org/w/index.php?title=Evolution&oldid=12493886 2005-04-18] ([http://en.wikipedia.org/w/index.php?title=Evolution&diff=0&oldid=12525237 diff])
+|oldid=12493886
+|accent=[[w:en:Regional accents of English speakers#United States|U.S.]], California
+|sex=Male
+}}
+
+{{GFDL|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 22:25, 23 June 2007 || [[w:en:User:SCEhardt]] || 34m27s || 16.53 MB || <nowiki>Reverted to earlier revision</nowiki>
+|----
+22:25, 23 June 2007 || [[w:en:User:SCEhardt]] || 34m27s || 16.02 MB || <nowiki>Reverted to earlier revision</nowiki>
+|----
+00:04, 20 April 2005 || [[w:en:User:Demi]] || 34m27s || 16.53 MB || <nowiki>Yet another version with levelled and normalized audio, maybe.</nowiki>
+|----
+08:54, 19 April 2005 || [[w:en:User:Demi]] || 34m27s || 16.02 MB || <nowiki>New version amplified due to listener feedback.</nowiki>
+|----
+23:10, 18 April 2005 || [[w:en:User:Demi]] || 34m27s || 15.31 MB || <nowiki>New version recorded by <a href="/wiki/User:Demi" title="User:Demi">me</a></nowiki>
+|----
+09:46, 18 April 2005 || [[w:en:User:Demi]] || 34m28s || 15.34 MB || <nowiki>Spoken version of <a href="/wiki/Evolution" title="Evolution">Evolution</a> read by <a href="/wiki/User:Demi" title="User:Demi">me</a>. {{GFDL}}</nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=140191150 || 07:26, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=140191150 || 22:26, 23 June 2007 || [[w:en:User:SCEhardt]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=140150825 || 18:36, 23 June 2007 || [[w:en:User:Axl]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=140150253 || 18:32, 23 June 2007 || [[w:en:User:Axl]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=140150083 || 18:31, 23 June 2007 || [[w:en:User:Axl]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=130850272 || 19:20, 14 May 2007 || [[w:en:User:Axl]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=123379270 || 22:56, 16 April 2007 || [[w:en:User:67.84.31.143]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=23019794 || 05:03, 11 September 2005 || [[w:en:User:The Computer Mutt]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=17409503 || 17:50, 22 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=12670025 || 17:47, 22 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=12669930 || 23:29, 21 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=12636266 || 23:15, 18 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=12496450 || 09:48, 18 April 2005 || [[w:en:User:Demi]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Evolution.ogg&redirect=no&oldid=12471549 || 09:46, 18 April 2005 || [[w:en:User:Demi]] || <nowiki>(Spoken version of <a href="/wiki/Evolution" title="Evolution">Evolution</a> read by <a href="/wiki/User:Demi" title="User:Demi">me</a>. {{GFDL}})</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Spoken Wikipedia articles about biology]]

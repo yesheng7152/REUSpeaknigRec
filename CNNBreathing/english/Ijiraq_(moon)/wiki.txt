@@ -1,0 +1,83 @@
+{{Infobox
+|name=Irregular satellite
+|title=Ijiraq - Saturn XXII
+|headerstyle=background:#c0c0c0;
+|labelstyle=background:inherit;
+|header1= Discovery <ref name="Discoverers_JPL">Discovery Circumstances [http://ssd.jpl.nasa.gov/?sat_discovery (JPL)]</ref>
+|label2= Discovered by 
+|data2 = [[John J. Kavelaars|J. J. Kavelaars]]<br/>[[Brett J. Gladman|B. J. Gladman]]
+|label3= Discovered 
+|data3 = in 2000
+|header4 = Mean [[Orbit]]al elements <ref name="JPL_mean_elems">Mean orbital parameters [http://ssd.jpl.nasa.gov/?sat_elem from JPL]</ref>
+|data5= [[Epoch (astronomy)|Epoch]] 2000 Feb. 26.00
+|label6= [[Semi-major axis]]
+|data6 = 11.124 [[gigametre|Gm]]
+|label7= [[Eccentricity (orbit)|Eccentricity]]
+|data7 = 0.3163
+|label8= [[Inclination]]
+|data8 = 46.444° <sup>*</sup>
+|label9= [[Orbital period]]
+|data9 = 451.4 d <br/>(1.24 [[Julian year|yr]])
+|header10= Physical characteristics
+|label11= Mean [[diameter]]
+|data11 = 12 km<ref name="Sheppard">[http://www.ifa.hawaii.edu/~sheppard/satellites/satsatdata.html Scott Sheppard pages]</ref> <sup>**</sup>
+|label12= [[Sidereal day|Rotation period]]
+|data12 = ?
+|label13= [[Albedo]]
+|data13 = 0.04<ref name="Sheppard"/> ''assumed''
+|label14= [[color index|Color]]
+|data14 = ''red''<br/><small>B-V=1.05 R-V=0.58<ref name="Grav2006">[[Tommy Grav|Grav, T.]]; and [[James Bauer|Bauer, J.]]; [http://arxiv.org/abs/astro-ph/0611590 ''A deeper look at the colors of Saturnian irregular satellites'']</ref></small>
+|label15= [[Asteroid spectral types|Spectral type]]
+|data15 = <small>(redder than [[D-type asteroid|D]])</small><ref name="Grav2006"/>
+|below= <sup>*</sup><small>''to the [[ecliptic]]''</small></small>
+<sup>**</sup><small>''based on the albedo''</small>
+}}
+'''Ijiraq''' ({{pron-en|ˈiː.ɨrɑːk}} ''<small>EE</small>-yə-rahk,'' or {{IPA-en|ˈiːdʒɨrɑːk|}} ''<small>EE</small>-jə-rahk)'' is a [[prograde]] [[irregular satellite|irregular]] [[natural satellite|satellite]] of [[Saturn]]. It was discovered by the team of 
+[[Brett Gladman]], [[John J. Kavelaars]],  ''et al.'' in 2000, and given the temporary designation '''{{nowrap|S/2000 S 6}}'''.<ref>[http://cfa-www.harvard.edu/iauc/07500/07521.html IAUC 7521: ''S/2000 S 5, S/2000 S 6''] November 18, 2000 (discovery)</ref><ref>[http://cfa-www.harvard.edu/mpec/K00/K00Y14.html MPEC 2000-Y14: ''S/2000 S 3, S/2000 S 4, S/2000 S 5, S/2000 S 6, S/2000 S 10''] December 19, 2000 (discovery and ephemeris)</ref> It was named in 2003 after the [[Ijiraq (mythology)|Ijiraq]], a creature of [[Inuit mythology]]<ref>[http://cfa-www.harvard.edu/iauc/08100/08177.html IAUC 8177: ''Satellites of Jupiter, Saturn, Uranus''] August 8, 2003 (naming the moon)</ref>.
+
+== Orbit ==
+[[Image:TheIrregulars SATURN PRO GROUPS.svg|thumb|left|300px|Irregular prograde groups of satellites of Saturn: [[Saturn's Inuit group of satellites|Inuit]] (blue) and [[Saturn's Gallic group of satellites|Gallic]] (red)]]
+Ijiraq orbits Saturn at an average distance of 11.1 Gm in 451 days on an orbit very similar to [[Kiviuq (moon)|Kiviuq]]'s. The diagram illustrates its orbit in relation to other prograde irregular satellites of Saturn. The eccentricity of the orbits is represented by the yellow segments extending from the [[apsis|pericentre]] to the [[apsis|apocentre]].
+
+Ijiraq is believed to be in [[Kozai resonance]] i.e. its orbit is cyclically reducing the inclination while increasing the eccentricity and vice versa. The orbit’s [[argument of pericenter]] oscillates around 90° with an amplitude of 60°.<ref name="Nesvorny2003">[[David Nesvorný|Nesvorný, D.]]; [[Jose L. A. Alvarellos|Alvarellos, Jose L. A.]]; [[Luke Dones|Dones, L.]]; and [[Harold F. Levison|Levison, H. F.]]; [http://www.journals.uchicago.edu/AJ/journal/issues/v126n1/202528/202528.web.pdf ''Orbital and Collisional Evolution of the Irregular Satellites''], The Astronomical Journal, '''126''' (2003), pp. 398–429</ref><!--- p. 425 --->
+
+<br clear="left"/>
+== Physical characteristics ==
+While Ijiraq is a member of the [[Saturn's Inuit group of satellites|Inuit group]] of irregular satellites,<ref name="Gladman2001">Gladman, B. J.; [[Philip D. Nicholson|Nicholson, P. D.]]; [[Joseph A. Burns|Burns, J. A.]]; Kavelaars, J. J.; [[Brian G. Marsden|Marsden, B. G.]]; [[Matthew J. Holman|Holman, M. J.]]; Grav, T.; [[Carl W. Hergenrother|Hergenrother, C. W.]]; [[Jean-Marc Petit|Petit, J.-M.]]; [[Robert A. Jacobson|Jacobson, R. A.]]; and [[William J. Gray|Gray, W. J.]]; [http://www.nature.com/nature/journal/v412/n6843/abs/412163a0.html ''Discovery of 12 satellites of Saturn exhibiting orbital clustering''], Nature, '''412''' (July 12, 2001), pp. 163–166</ref> recent observations revealed that Ijiraq is distinctively redder than [[Paaliaq (moon)|Paaliaq]], [[Siarnaq (moon)|Siarnaq]] and Kiviuq. Its [[spectral slope]] (a measure of body [[reflectance]] in function of the [[wavelength]]) is twice as steep as for other members (20% per 100&nbsp;nm), typical for red [[Trans-Neptunian Object]]s like [[90377 Sedna|Sedna]] but unknown for [[irregular satellite]]s. In addition, unlike the other three, Ijiraq's spectrum lacks the weak absorption near 0.7 μm, attributed to a possible water hydration.<ref name="Grav2006"/>
+
+== Name ==
+Kavelaars, an astronomer at [[McMaster University]], suggested this name to help astronomical nomenclature to get out of its [[Greco-Roman]]o-[[Renaissance]] rut. He spent several months trying to find names that were both multi-cultural and [[Canada|Canadian]], consulting [[Amerindian]] scholars without finding a name that seemed appropriate. In March 2001, he was reading an Inuit tale to his children and had a revelation. The ijiraq plays at [[Hide and seek|hide-and-seek]], which is what these small moons of Saturn do: they are hard to find, and cold like the Canadian arctic (the team of discoverers includes Canadians, [[Norway|Norwegians]] and [[Iceland]]ers&mdash;[[Nordic countries|Nordic]]ity is their common trait). Kavelaars contacted the author of the tale, [[Michael Kusugak]], to get his assent, and the latter also suggested the names for [[Kiviuq (moon)|Kiviuq]] and [[90377 Sedna]].
+
+== References ==
+{{reflist}}
+#<li value="10"> Ephemeris [http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html from IAU-MPC NSES]
+
+==External links==
+*[http://www.ifa.hawaii.edu/~jewitt/irregulars.html David Jewitt pages]
+
+<br/>
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Ijiraq (Moon)}}
+[[Category:Moons of Saturn]]
+[[Category:Irregular satellites]]
+
+[[bg:Ижирак (спътник)]]
+[[da:Ijiraq (måne)]]
+[[de:Ijiraq (Mond)]]
+[[el:Ίτζιρακ (δορυφόρος)]]
+[[es:Ijiraq (satélite)]]
+[[fr:Ijiraq]]
+[[hr:Ijiraq (mjesec)]]
+[[it:Ijiraq (astronomia)]]
+[[nl:Ijiraq (maan)]]
+[[ja:イジラク (衛星)]]
+[[pl:Ijiraq (księżyc)]]
+[[ru:Иджирак (спутник)]]
+[[simple:Ijiraq (moon)]]
+[[sk:Ijiraq (mesiac)]]
+[[sl:Ižirak (luna)]]
+[[fi:Ijiraq (kuu)]]
+[[sv:Ijiraq]]
+[[uk:Іджирак (супутник)]]
+[[zh:土卫二十二]]

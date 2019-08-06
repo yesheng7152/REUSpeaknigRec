@@ -1,0 +1,17 @@
+{{English spoken article
+|title=Joint Chiefs of Staff
+|user_name_link=[[User:YBatalvi|Yasir Batalvi]]
+|date=2015-09-06
+|accent={{w|General American}} [GenAm{AmEng}]
+|sex= Male
+|link_to_recorded_version=https://commons.wikimedia.org/wiki/File:En-Joint_Chiefs_of_Staff-article.ogg
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Spoken Wikipedia - English]]

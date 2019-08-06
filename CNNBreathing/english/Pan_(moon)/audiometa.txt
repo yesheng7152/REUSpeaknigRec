@@ -1,0 +1,43 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = 
+|Date           = {{original upload date|2010-01-17}}
+|Source         = {{own}} 
+|Author         = 
+|Permission     = 
+|Other_versions = 
+}}
+
+{{Spoken article
+|title=Pan (moon)
+|time=3:26
+|user_name=Mangst
+|date=2010-01-16
+|oldid=334791165
+|accent=American English
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+
+{{transferred from|en.wikipedia||[[:en:WP:FTCG|FtCG]]}} {{original description page|en.wikipedia|Pan_(moon).ogg}}
+
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 01:30, 17 January 2010 || 2030784 bytes || {{uv|Mangst|w:en:}} || ''<nowiki>({{Spoken article
+|title=Pan (moon)
+|time=3:26
+|user_name=Mangst
+|date=2010-01-16
+|oldid=334791165
+|accent=American English
+}}
+== Licensing: ==
+{{GFDL-with-disclaimers})</nowiki>''
+|}
+
+{{Check categories|year=2015|month=May|day=1}}
+[[Category:Pan (moon)]]

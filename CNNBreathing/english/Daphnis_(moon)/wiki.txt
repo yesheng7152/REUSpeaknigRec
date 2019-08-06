@@ -1,0 +1,80 @@
+{{Infobox Planet
+| name = Daphnis
+| image = [[Image:PIA06237.jpg|250px]]
+| caption = Daphnis appears as a small dot that <br/>causes ripples on the edges of the Keeler Gap<br/>in this image from the Cassini probe.
+| bgcolour = #a0ffa0
+| discovery = yes
+| discoverer = [http://ciclops.org/team/iss_team.php Cassini Imaging Science Team]
+| discovered = May 6, 2005
+| orbit_ref =<ref name="Jacobson2008">{{cite journal | author= Jacobson, R. A.; ''et al.''| title= ''Revised orbits of Saturn's small inner satellites''| journal=[[Astronomical Journal]]| year= 2008| volume= 135| pages= 261–263| url=http://www.iop.org/EJ/article/1538-3881/135/1/261/aj_135_1_261.html | doi=10.1088/0004-6256/135/1/261}}</ref>
+| epoch = 
+| mean_orbit_radius = 136,505.5±0.1 km
+| eccentricity = 0.0000331 ± 0.0000062
+| period = 0.5940798 days (14.257915 hours)
+| inclination = 0.0036° ± 0.0013°
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 9 × 9 × 6 km<ref name="Porco2007">{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Saturn's Small Inner Satellites: Clues to Their Origins''| journal=[[Science (journal)|Science]]| year= 2007| volume= 318| pages= 1602–1607| url=http://adsabs.harvard.edu/abs/2007Sci...318.1602P | doi= 10.1126/science.1143977}}</ref>
+| mean_radius = 3.9 ± 0.8 km<ref name="Porco2007" />
+| mass = 8.4 ± 1.2 {{e|13}} [[kilogram|kg]]<ref name="Porco2007"/>
+| density = 0.34 ± 0.21 g/cm³<ref name="Porco2007"/>
+| surface_grav = unknown
+| rotation = [[synchronous rotation|synchronous]]
+| axial_tilt = unknown
+| albedo = ≈ 0.5
+| single_temperature = ~78 K
+| adjectives = Daphnidian
+}}
+
+'''Daphnis''' ({{pronEng|ˈdæfnɨs}} {{respell|DAF|nis}}, or as Greek ''Δαφνίς)'' is an [[inner satellite]] of [[Saturn]]. It is also known as '''{{nowrap|Saturn XXXV}}'''; its provisional designation was '''{{nowrap|S/2005 S 1}}'''.<ref name="IAUC8524">[http://cfa-www.harvard.edu/iauc/08500/08524.html C.C. Porco, et al., IAUC 8524: ''S/2005 S 1''] May 6, 2005 (discovery)</ref><ref>Martinez, C.; and Dyches, P.; [http://www.nasa.gov/mission_pages/cassini/media/cassini-051005.html Cassini-Huygens: ''Cassini Finds New Saturn Moon That Makes Waves''] May 10, 2005</ref> Daphnis is about 8 kilometres in diameter, and orbits the planet in the [[Keeler Gap]] within the [[Rings_of_saturn#A_Ring|A ring]]. 
+
+== Naming ==
+It was named in 2006 after [[Daphnis]], a shepherd, pipes player, and pastoral poet in [[Greek mythology|Greek]] [[mythology]].<ref>[http://www.greatbritainonline.co.uk/IAUC-8730.pdf  IAUC 8730: ''Saturn XXXV (Daphnis)''] (naming the moon)</ref> He was the son of [[Hermes]], brother of [[Pan (mythology)|Pan]], and descendant of the [[Titan (mythology)|Titans]].  Both [[Pan (moon)|Pan]] and Daphnis, the only two known [[shepherd moon]]s orbiting within Saturn's main rings, are named for mythological figures associated with shepherds. 
+[[File:Daphnis edge wave shadows.jpg|thumb|left|When Saturn is close to its [[equinox]], shadows cast onto the rings show the vertical relief of waves that Daphnis causes.]]
+
+== Discovery ==
+It was discovered by the [http://ciclops.org/team/iss_team.php Cassini Imaging Science Team] on May 6, 2005.<ref name="IAUC8524"/> The [[discovery images]] were taken by the ''[[Cassini-Huygens|Cassini]]'' [[unmanned space mission|probe]] over 16 min on May 1, 2005 from a time-lapse sequence of 0.180 second narrow-angle-camera exposures of the outer edge of the A ring. It was subsequently found in 32 low-phase images taken of the [[Rings_of_saturn#F_Ring|F ring]] on April 13, 2005 (spanning 18 min) and again in two high-resolution (3.54&nbsp;km/[[pixel]]) low-phase images taken on May 2, 2005 when its 7&nbsp;km disk was resolved. It had previously been inferred from gravitational ripples observed on the outer edge of the [[Keeler gap]]. This moon seems to make waves inside the ring.
+
+== Orbit ==
+
+The [[inclination]] and [[eccentricity (orbit)|eccentricity]] of Daphnis's orbit are very small, but distinguishable from zero. Daphnis' eccentricity causes its distance from Saturn to vary by ~9&nbsp;km, and its inclination causes it to move up and down by ~17&nbsp;km.  The [[Keeler Gap]], within which Daphnis orbits, is about 42&nbsp;km wide. 
+{{clear-left}}
+==References==
+{{reflist}}
+
+==External links==
+* [http://ciclops.org/view.php?id=1071 CICLOPS imaging: includes a movie of the moon's ripple effect]
+* <cite>{{citation |author=Rody P.S. Oldenhuis |coauthors=Jochgem C.T. Gunnemann |date=2005-12-21 |title=Estimating the density of Saturn's Moon Daphnis via its shepherding effect on Nearby Rings |journal=Earth and Planetary Observation letters |volume=1 |url=http://oldenhuis.info/Reports%20and%20Articles/Daphnis/daphnis.PDF |accessdate=2009-04-26}}<cite> shows mathematical treatment and simulation of Daphnis' gravitational wake
+
+{{Moons of Saturn}}
+
+{{DEFAULTSORT:Daphnis (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[als:Daphnis (Mond)]]
+[[br:Daphnis (loarenn)]]
+[[bg:Дафнис (спътник)]]
+[[ca:S/2005 S 1]]
+[[cs:Daphnis (měsíc)]]
+[[da:Dafnis (måne)]]
+[[de:Daphnis (Mond)]]
+[[el:Δαφνίς (δορυφόρος)]]
+[[es:Dafne (satélite)]]
+[[fr:Daphnis (lune)]]
+[[ko:다프니스 (위성)]]
+[[hr:Dafna (mjesec)]]
+[[it:Dafni (astronomia)]]
+[[lt:Dafnis (palydovas)]]
+[[mk:Дафнис (месечина)]]
+[[nl:Daphnis (maan)]]
+[[ja:ダフニス (衛星)]]
+[[pl:Daphnis (księżyc)]]
+[[pt:Dafne (lua)]]
+[[ro:Dafnis (satelit)]]
+[[ru:Дафнис (спутник)]]
+[[simple:Daphnis (moon)]]
+[[sk:Daphnis (mesiac)]]
+[[sl:Dafnis (luna)]]
+[[sv:Daphnis]]
+[[uk:Дафніс (супутник)]]
+[[zh:土卫三十五]]

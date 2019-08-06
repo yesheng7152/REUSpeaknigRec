@@ -1,0 +1,319 @@
+{{use dmy dates}}
+{{pp-semi-blp|small=yes}}{{pp-move-indef}}
+{{Infobox musical artist
+|Name                 = Avril Lavigne
+|Img                  = Avril Lavigne MuchMusic edit.jpg
+|Img_capt             = Lavigne at the [[2007 MuchMusic Video Awards]].
+|Background           = solo_singer
+|Birth_name           = Avril Ramona Lavigne
+|Born                 = {{birth date and age|df=yes|1984|9|27}}
+|Origin               = [[Belleville, Ontario]], Canada
+|Instrument           = Vocals, [[electric guitar]], [[acoustic guitar]], piano, drums
+|Genre                = <!--GENRES IN INFOBOX HAVE BEEN CHOSEN BY CONSENSUS ON TALK PAGE. ANY CHANGES WILL BE REVERTED--> [[Pop rock]]<ref name=rollingstoneletgo/> <br/> [[Pop punk]]<ref name=musicmight/><ref name=allmusicbestdamnthing>{{cite web|url=http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:gpfuxzy5ldhe|title=The Best Damn Thing Review|last=Erlewine|first=Stephen Thomas|publisher=Allmusic|accessdate=10 February 2010}}</ref>
+|Occupation           = Singer, songwriter, [[rhythm guitarist]], actress, model, fashion designer
+|Years_active         = 2002–present
+|Label                = [[Arista Records|Arista]] <small>(2002–05)</small><br />[[RCA Records|RCA]] <small>(2006–present)</small>
+|Associated_acts      = [[Evan Taubenfeld]], [[Deryck Whibley]]
+|URL                  = [http://www.avrillavigne.com/ www.avrillavigne.com]
+| Notable_instruments = [[Squier Telecaster|Squier Signature Telecaster model]]
+}}
+
+'''Avril Ramona Lavigne''' ({{pronEng|ˈævrɨl ləˈviːn}}; born 27 September 1984) is a Canadian singer-songwriter, fashion designer, and occasional actress. Lavigne broke into the recording industry with her debut album, ''[[Let Go (Avril Lavigne album)|Let Go]]'', released in 2002, when she was 17 years old; as of 2009, over 16 million copies have been sold worldwide, more than 6 million of which were sold in the United States. Her breakthrough single, "[[Complicated (Avril Lavigne song)|Complicated]]", peaked in many top ten positions around the world, as did ''Let Go''. Lavigne’s second album, ''[[Under My Skin (Avril Lavigne album)|Under My Skin]]'', was released in 2004 and was her first album to peak at #1 on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Billboard 200|200]]. ''[[The Best Damn Thing]]'', Lavigne’s third album, was released in 2007; this album gave Lavigne her third #1 album in the [[UK Albums Chart]] and featured her first U.S. ''Billboard'' [[Billboard Hot 100|Hot 100]] single, "[[Girlfriend (Avril Lavigne song)|Girlfriend]]". Lavigne has scored a total of five #1 singles worldwide, including "Complicated", "[[Sk8er Boi]]", "[[I'm With You]]", "[[My Happy Ending]]" and "Girlfriend". She is currently working on her fourth studio album, expected to be released in 2010.
+
+Lavigne has sold more than 30 million copies of her albums worldwide<ref name=Kohls>{{cite web |url=http://www.kohlscorporation.com/PressRoom/PDFs/2008/AbbeyDawnAnnouncementRelease.pdf |title=Kohl’s Partners with Rocker Avril Lavigne for New Juniors’ Lifestyle Brand to Launch July 2008|publisher=Kohlscorporation.com|accessdate=30 March 2009}}</ref><ref name=YouTube>{{cite web |url=http://www.youtube.com/watch?v=RvFbOagAecY|title=Avril Lavigne - Hot Live Canadian Idol|accessdate=1 May 2010}}</ref> and is currently one of the top-selling artists releasing albums in the United States, with over 10 million copies certified by the [[Recording Industry Association of America]].<ref>{{cite web|url=http://riaa.com/goldandplatinumdata.php?resultpage=3&table=tblTopArt&action= |title=Top Selling Artists|publisher=Recording Industry Association of America|accessdate=13 March 2009}}</ref> ''Billboard'' named Lavigne the #10 pop artist of the 2000s as well as the 28th overall best act of the decade based on album sales, chart success, and cultural relativity in the USA.<ref>{{cite web | publisher=Billboard | title=Billboard Artist Of The Decade | url=http://www.billboard.com/#/charts-decade-end/artists-of-the-decade?year=2009&begin=21&order=position | accessdate=12 November 2009}}</ref><ref>{{cite web | publisher=''Billboard'' | title=Billboard Best Of The 2000s | url=http://www.billboard.com/#/charts-decade-end/pop-songs-artists?year=2009 | accessdate=12 November 2009}}</ref> 
+
+Lavigne has acted in several films, including the 2007 film "[[The Flock (film)|The Flock]]", and had a voice-acting role in the 2006 film "[[Over the Hedge (film)|Over the Hedge]]". In August 2006, ''[[Canadian Business]]'' magazine ranked her the seventh top Canadian actor dominating in Hollywood in their second-annual ranking Celebrity Power List. She is ranked second with the most web hits, and sixth in TV mentions.<ref>{{cite web|url=http://www.canadianbusiness.com/after_hours/lifestyle_activities/article.jsp?content=20060814_79827_79827&page=3|title=Power players: Canada's top actors|last=Mlynek|first=Alex|coauthors=Pulfer, Rachel|date=14 August 2006|work=Canadian Business|accessdate=27 June 2007}}</ref>
+
+In July 2006, Lavigne married her boyfriend of two years, [[Deryck Whibley]]. The marriage lasted a little over three years, and in October 2009, Lavigne filed for divorce. Whibley and Lavigne continued to work together after the divorce, with Whibley producing on her upcoming fourth album, as well as Lavigne's single, "[[Alice (Avril Lavigne song)|Alice]]", written for [[Tim Burton]]'s film ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]''.
+
+==Early years==
+Avril Ramona Lavigne was born in [[Belleville, Ontario]], Canada, the daughter of Judith-Rosanne "Judy" (née Loshaw) and Jean-Claude Lavigne. Her father, who is of [[French Canadian]] descent,<ref>Ritchot, Dominique (14 November 2009). [http://gen-familleritchot.blogspot.com/2009/11/ascendance-de-la-chanteuse-canadienne.html Ascendance de la chanteuse canadienne Avril Lavigne {{fr icon}}]. Retrieved 27 December 2009.</ref> named her Avril after the French word for the month of April.<ref name=unofficialbiog>{{cite book|last=Thorley|first=Joe|title=Avril Lavigne: the unofficial book|publisher=Virgin|location=London|year=2003|isbn=1852270497|accessdate=28 March 2010}}</ref> She has an older brother, Matthew, and a younger sister, Michelle.<ref>{{cite web |last=Kappes|first=Serena|coauthors=Caryn Midler |url=http://www.people.com/people/gallery/0,,714142_5,00.html|title=Inside Her Life: The Middle Child|date=30 June 2005|work=People|accessdate=25 May 2008}}</ref> A daughter of a working-class family,<ref>{{cite news|url=http://www.independent.co.uk/arts-entertainment/music/features/avril-lavigne-the-punk-who-became-a-princess-445523.html|title= Avril Lavigne: The punk who became a princess|date=22 April 2007|publisher=independent.co.uk|accessdate=27 June 2008 | location=London | first=Simon | last=Gage}}</ref> Lavigne, at the age of two, began singing church songs along with her mother. The family moved to [[Napanee, Ontario]], when Lavigne was five years old.
+
+In 1998, Lavigne won a competition to sing with fellow Canadian singer [[Shania Twain]] on her first major concert tour. She appeared alongside Twain at her concert in [[Ottawa]], appearing on stage to sing "[[What Made You Say That]]". She was discovered by her first professional manager, Cliff Fabri, while singing [[country music|country]] covers at a [[Chapters]] bookstore in [[Kingston, Ontario]].<ref name=unofficialbiog/> During a performance with the Lennox Community Theatre, Lavigne was spotted by local folk singer Steve Medd; he invited her to contribute vocals on his song, "Touch the Sky", for his 1999 album, ''Quinte Spirit''. She later sang on "Temple of Life" and "Two Rivers" for his follow-up 2000 album, ''My Window to You''.<ref name=unofficialbiog/>
+
+==Music career==
+In November 2000,<ref>{{cite news|url=http://www.mtv.com/bands/l/lavigne_avril/news_feature_071202/index.jhtml|title=Avril Lavigne: The Real Deal|last=Pak|first=SuChin|coauthors=D'Angelo, Joe|publisher=MTV|accessdate=14 March 2009}}</ref>{{fv|date=May 2010}} Ken Krongard, an [[A&R]] representative, invited [[L. A. Reid|Antonio "L.A." Reid]], the head of [[Arista Records]], to hear Lavigne sing for 15 minutes at producer [[Peter Zizzo]]'s Manhattan studio. Lavigne so impressed Reid, he immediately signed her to Arista with a deal worth $1.25 million for two albums and an extra $900,000 for a publishing advance.<ref name=unofficialbiog/><ref name=WillmanAnti>{{cite news|url=http://www.ew.com/ew/article/0,,384096,00.html|title=Avril Lavigne The Anti-Britney|last=Willman|first=Chris|date=1 November 2002|work=Entertainment Weekly|accessdate=14 March 2009}}</ref> Signed as a singer, Lavigne was pitched with songs written by others. She dismissed them, however, and insisted on writing music herself. For a year, Lavigne and Arista had conflicts in musical direction. She collaborated with the music production team [[The Matrix (record production team)|The Matrix]], and the ensuing album became  ''Let Go''.<ref name=rollingstoneeliscu>{{cite web|url=http://www.rollingstone.com/news/coverstory/avril_lavigne_five_feet_one/page|title=Little Miss Can't Be Wrong|last=Eliscu|first=Jenny|date=20 March 2003|publisher=Rolling Stone|accessdate=16 March 2009}}{{dead link|date=May 2010}}</ref>
+
+Because her songs have evolved, covering a variety of styles of music, Lavigne is not easily defined by only a few genres.  Her music has been described as rock,<ref name=spun>{{cite web|url=http://www.spun.com/music/product-detail.jsp?id=2735376|title=Avril Lavigne: Let Go Review|last=Saraceno|first=Christina|publisher=Spun.com|accessdate=10 February 2010}}</ref> [[pop rock]],<ref name=rollingstoneletgo>{{cite web|url=http://www.rollingstone.com/reviews/album/122538/review/5940710?utm_source=Rhapsody&utm_medium=CDreview|archiveurl=http://web.archive.org/web/20080617095515/http://www.rollingstone.com/reviews/album/122538/review/5940710?utm_source=Rhapsody&utm_medium=CDreview|archivedate=17 June 2008 |title=Avril Lavigne – Let Go Review|last=Bashill|first=Pat|date=2 July 2002|publisher=Rolling Stone|accessdate=10 February 2010}}</ref><ref name=musicmight/> [[alternative rock]],<ref name=musicmight>{{cite web|url=http://www.musicmight.com/artist/canada/ontario/belleville/avril+lavigne|title=Avril Lavigne Biography|publisher=MusicMight|accessdate=10 February 2010}}</ref><ref name=spun/><ref name=canadianencyclopedia/> pop,<ref name=spun/> [[pop punk]],<ref name=musicmight/><ref name=allmusicbestdamnthing/> [[alternative pop]],<ref name=spun/> [[post-grunge]],<ref name=musicmight/><ref name=canadianencyclopedia>{{cite web|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=U1SEC881506|title=Rock ‘n’ roll and rock music, Anglo-Canadian|publisher=The Canadian Encyclopedia|accessdate=10 February 2010}}</ref> [[teen pop]],<ref name=spun/> and [[powerpop]].<ref name=pleut>{{cite web|url=http://pleut.com/a163446-power-pop-songstress-avril-lavigne-featured.cfm|title=Power Pop Songstress Avril Lavigne Featured Artist of the Month on the Music Choice Multi-Platform Network|work=Billboard Publicity Wire|publisher=Pleut.com|accessdate=22 February 2010}}</ref> Lavigne's influences include [[Courtney Love]],<ref name="influences interview">{{cite web|url=http://www.musicomh.com/music/features/avril-lavigne.htm musicOMH.com: Interview: Avril Lavigne|title=Music OMH interview|accessdate=28 March 2010}}</ref> [[Goo Goo Dolls]],<ref name="influences cd"/> [[Blink-182]]<ref name="influences cd"/> and [[Janis Joplin]].<ref name="influences interview"/><ref name="influences cd">{{cite web|url=http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:jifqxzyhldhe Allmusic.com – Influences: Avril Lavigne|title=Influences: Avril Lavigne|accessdate=28 March 2010}}</ref> 
+
+===''Let Go''===
+{{Main|Let Go (Avril Lavigne album)}}
+
+Lavigne released her debut album, ''Let Go'', on 4 June 2002 in the United States, where it reached #2 on the ''Billboard'' 200. It peaked at #1 on the Australian, Canadian and United Kingdom charts. This made Lavigne, at 17 years old, the youngest female soloist to have a #1 album in the United Kingdom until that time.<ref>{{cite web|last=Lamb|first=Bill|title=Avril Lavigne|url=http://top40.about.com/od/artistsls/p/avrillavigne.htm|publisher=About.com|accessdate=14 May 2010}}</ref> By the end of 2002, the album was certified four-times [[Music recording sales certification|platinum]] by the [[RIAA]], making her the bestselling female artist of 2002 and ''Let Go'' the top-selling debut of the year.<ref>{{cite news|url=http://www.riaa.com/newsitem.php?news_year_filter=2002&resultpage=&id=141D0EF5-0C3A-81FD-8643-A2492219DE41|title=E = 2K2|date=20 December 2002|publisher=Recording Industry Association of America|accessdate=12 March 2009}}</ref> By May 2003, ''Let Go'' had accumulated over 1,000,000 sales in Canada, receiving a diamond certification from the [[Canadian Recording Industry Association]].<ref>{{cite web|url=http://www.cria.ca/gold/0503_g.php|title=Avril Lavigne presented with Diamond|month=May|year=2003|publisher=Canadian Recording Industry Association|accessdate=14 March 2009}}</ref> As of 2009, the album has sold over 16 million units worldwide,<ref>{{cite web|url=http://www.transworldnews.com/NewsStory.aspx?id=45518&cat=16|title=Avril Lavigne Ends North American Run of Shows with Two Dates In Washington Beginning 9 May|date=5 April 2008|publisher=transworldnews.com|accessdate=29 May 2008}}</ref> and the RIAA has certified the album six-times platinum, denoting shipments of over six million units in the US.<ref>{{cite web|url=http://www.riaa.com/goldandplatinumdata.php?resultpage=1&table=SEARCH_RESULTS&artist=Avril%20Lavigne&startMonth=1&endMonth=1&startYear=1958&endYear=2009&sort=Artist&perPage=25|title=Gold and Platinum|publisher=Recording Industry Association of America|accessdate=13 March 2009}}</ref>
+
+Lavigne's debut single and the album's [[lead single]], "Complicated", peaked at #1 in Australia and #2 in the United States. "Complicated" was one of the bestselling Canadian singles of 2002. "Complicated" was also featured on the teen television show, ''[[Dawson's Creek]]''. Subsequent singles, "Sk8er Boi" and "I'm With You" reached the top ten in the United States.<ref>{{cite web|url=http://www.billboard.com/bbcom/retrieve_chart_history.do?model.vnuArtistId=485926&model.vnuAlbumId=902639|archiveurl=http://web.archive.org/web/20080430083533/http://www.billboard.com/bbcom/retrieve_chart_history.do?model.vnuArtistId=485926&model.vnuAlbumId=902639|archivedate=30 April 2008|title=Artist Chart History – Avril Lavigne|work=Billboard|publisher=Nielsen Business Media, Inc|accessdate=29 March 2009}}</ref> Thanks to the success of her first three singles, Lavigne was the second artist in history to have three #1 songs from a debut album on the ''Billboard'' [[Mainstream Top 40]].<ref>{{cite web|url=http://www.reuters.com/article/idUSTRE56D0HQ20090714|title=Avril Lavigne third Mainstream Top 40|publisher=Reuters|accessdate=13 July 2009}}</ref>
+Lavigne was named [[MTV Video Music Award for Best New Artist|Best New Artist]] at the 2002 [[MTV Video Music Awards]]; she won four [[Juno Awards]] in 2003 out of six nominations, received a [[World Music Award]] for "World's Bestselling Canadian Singer", and was nominated for eight [[Grammy Awards]], including [[Grammy Award for Best New Artist|Best New Artist]] and [[Grammy Award for Song of the Year|Song of the Year]] for "Complicated" (2003) and "I'm With You"{{not in source}} (2004).<ref>{{cite news|url=http://www.billboard.com/news/avril-nabs-four-juno-awards-1858950.story#/news/avril-nabs-four-juno-awards-1858950.story|title=Avril Nabs Four Juno Awards|last=LeBlanc|first=Larry|date=7 April 2003|work=Billboard|publisher=Nielsen Business Media, Inc|accessdate=6 April 2010}}</ref><ref>{{cite news|url=http://www.hollywood.com/news/2003_Grammy_Award_Nominees_Announced/1703700|title=Let the Music Play: 2003 Grammy Nominees Announced|last=Cadorette|first=Guylaine|date=3 January 2003|publisher=Hollywood.com|accessdate=29 March 2009}}</ref>
+
+In 2002, Lavigne made a cameo appearance in the music video to "[[Hundred Million]]" by the [[pop punk]] band [[Treble Charger]].<ref>{{youtube|hUG8BQkr2e8|"Hundred Million" music video|title="Hundred Million" music video|accessdate=28 March 2010}}</ref> In March 2003, Lavigne posed for the cover of ''Rolling Stone'' magazine<ref>{{cite news|url=http://www.rollingstone.com/photos/gallery/5399657/2003_rolling_stone_covers/photo/5/large/|archiveurl=http://web.archive.org/web/20071223045852/http://www.rollingstone.com/photos/gallery/5399657/2003_rolling_stone_covers/photo/5/large/|archivedate=23 December 2007|title=Avril lavigne Rolling Stone Cover|last=Cadorette|first=Guylaine|date=3 March 2003|publisher=Rolling Stone|accessdate=20 August 2009}}</ref> and, later in May,<ref>{{cite web |url=http://www.imdb.com/title/tt0365460/releaseinfo |title=MTV Icon: Metallica (2003) (TV) |publisher=IMDb.com |accessdate=13 January 2010}}</ref> performed "[[Fuel]]" during MTV's Icon tribute to [[Metallica]].<ref>{{cite web|url=http://www.mtv.com/onair/icon/metallica/|title=About the Show: mtvICON: Metallica|publisher=MTV|accessdate=11 May 2010}}</ref> During her first headlining tour, the ''[[Avril Lavigne tours#Try To Shut Me Up Tour|Try To Shut Me Up Tour]]'', Lavigne covered [[Green Day]]'s "[[Basket Case (song)|Basket Case]]".<ref>{{cite news|url=http://www.youtube.com/watch?v=b9oDxgWxn-4|title=Avril lavigne – basket case|last=Cadorette|first=Guylaine|date=3 January 2003|publisher=youtube.com|accessdate=20 August 2009}}</ref>
+
+"[[Complicated (Avril Lavigne song)|Complicated]]" ranked on the ''Hot 100 singles of the decade'' list at #83.<ref>{{cite web | publisher=''Billboard'' | title=Billboard Hot 100 songs of the decade | url=http://www.billboard.com/#/charts-decade-end/hot-100-songs?year=2009&begin=81&order=position| accessdate=12 November 2009}}</ref>
+
+===''Under My Skin''===
+{{Main|Under My Skin (Avril Lavigne album)}}
+[[Image:AvrilVancouver.jpg|thumb|left|Lavigne in [[Vancouver, Canada]] during the  "Live and By Surprise" mall tour]]
+Lavigne co-wrote "[[Breakaway (Kelly Clarkson song)|Breakaway]]" with Matthew Gerard, which was recorded by [[Kelly Clarkson]] for the soundtrack to the 2004 film ''[[The Princess Diaries 2: Royal Engagement]]''.<ref>{{cite news|url=http://www.mtv.com/news/articles/1489852/20040730/story.jhtml|title=Avril Lavigne Helps Kelly Clarkson Become A Pop 'Princess'|last=Moss|first=Corey|date=30 July 2004|publisher=MTV|accessdate=29 March 2009}}</ref> "Breakaway" would later be included on Clarkson's [[Breakaway (Kelly Clarkson album)|second album]], and released as the album's lead single. Lavigne covered the [[Goo Goo Dolls]]' song "[[Iris (song)|Iris]]", performed with the band's lead singer [[John Rzeznik]] at [[Fashion Rocks]],<ref>{{cite news|url=http://www.cbsnews.com/stories/2004/09/09/entertainment/main642204.shtml|title=Beyonce Makes Fashionable Splash|last=Holguin|first=Jaime|date=9 September 2004|publisher=CBS News|accessdate=31 March 2009}}</ref><ref>{{cite web|url=http://www.youtube.com/watch?v=8LrDnWc4UNI|title=Avril Lavigne "Iris" Fashion Rocks|work=Youtube|accessdate=7 October 2004}}</ref> and posed for the cover of ''[[Maxim (magazine)|Maxim]]'' in October 2004.<ref>{{cite web|url=http://www.magazine-agent.com/maxim/covers?c=1&cov=COVER0010039.JPG&pg=3|title=Avril Lavigne 2004 Maxim Cover|publisher=''Maxim''|accessdate=1 October 2004}}</ref> She also recorded the theme song for ''[[The SpongeBob SquarePants Movie]]''.<ref>{{cite news|url=http://www.mtv.com/news/articles/1493449/20041104/lavigne_avril.jhtml|title=Avril Lavigne Gives Squishy SpongeBob Song A Harder Edge|last=D'Angelo|first=Joe|date=4 November 2004|publisher=MTV|accessdate=30 March 2009}}</ref>
+
+Lavigne's second studio album, ''Under My Skin'', was released on 25 May 2004, debuting at #1 in several countries, including Australia, Mexico, Canada, Japan, the UK, and the U.S.<ref>{{cite news|url=http://new.music.yahoo.com/george-michael/news/avril-skins-usher--12176883|title=Avril "Skins" Usher|publisher=Yahoo! Music|first=David |last=Jenison|date=2 June 2004|accessdate=28 March 2010}}</ref> The album has sold more than 10 million copies. Lavigne wrote most of the album's tracks with Canadian singer-songwriter [[Chantal Kreviazuk]], whose husband, [[Our Lady Peace]] front man [[Raine Maida]], co-produced the album along with [[Butch Walker]] and [[Don Gilmore]]. Lavigne went on the "Live and By Surprise" twenty-one city mall tour in the U.S. and Canada to promote the album, accompanied by her guitarist, [[Evan Taubenfeld]]. Each performance consisted of a short live acoustic set of songs from the new album. At the end of 2004, Lavigne embarked into her first world tour the "[[Avril Lavigne tours#Bonez Tour|Bonez Tour]]", which visited almost every continent around the world and lasted for the entire 2005 year.
+
+"[[Don't Tell Me (Avril Lavigne song)|Don't Tell Me]]" the first single off the album went to #1 in Argentina and Mexico, top five in the UK and Canada, and top ten in Australia and Brazil. "My Happy Ending", the album's lead single, went to #1 in Mexico and top five in the UK and Australia. In the U.S., it reached the top ten of the ''Billboard'' Hot 100 and went to #1 in the Mainstream Top 40, making it her fourth-biggest hit there. The third single, "[[Nobody's Home (Avril Lavigne song)|Nobody's Home]]", did not make the top 40 in the U.S., reaching #1 only in Mexico and Argentina. The fourth single from the album, "[[He Wasn't]]", reached top 40 positions in the UK and Australia, and was not released in the U.S.<ref>{{cite web|url=http://jam.canoe.ca/Music/Pop_Encyclopedia/L/Lavigne_Avril.html|title=Avril Lavigne Biography|work=The Canadian Pop Encyclopedia|accessdate=1 January 2008}}</ref>
+
+Lavigne won two World Music Awards in 2004 for "World's Best Pop/Rock Artist" and "World's Bestselling Canadian Artist". She received five Juno Award nominations in 2005, and picked up three, including "Artist of the Year". She won the award for "Favorite Female Singer" at the eighteenth annual [[Nickelodeon Kids' Choice Awards]],<ref>{{cite news|url=http://www.mtv.com/news/articles/1499525/20050404/usher.jhtml|title=Usher, Hilary Duff, SpongeBob Take Home Orange Blimps From Kids' Choice Awards|last=Moss|first=Corey|date=4 April 2005|publisher=MTV|accessdate=30 March 2009}}</ref> and was nominated in every MTV Award show shown around the world.
+
+In 6 March 2006, Lavigne represented Canada at the [[2006 Winter Olympics closing ceremony|closing ceremony of the 2006 Winter Olympics]] in [[Turin]], Italy, performing her song "Who Knows" during the eight minute [[2010 Winter Olympics|Vancouver 2010]] portion.<ref>{{cite news|url=http://www.sportsaustralia.com/articles/feb06/artid5017.html|title=Winter Olympics end with glittering closing ceremony|last=Carbonaro|first=Ben|date=27 February 2006|publisher=Sports Australia|accessdate=31 March 2009}}</ref>
+
+===''The Best Damn Thing''===
+{{Main|The Best Damn Thing}}
+
+While Lavigne was in the studio for her third studio album, [[Fox Entertainment Group]] approached her to write a song for the soundtrack to the 2006 fantasy-adventure film ''[[Eragon (film)|Eragon]]''. She wrote and recorded two "ballad-type" songs, but only one, "[[Keep Holding On]]", ended up being used for the film. Lavigne admitted that writing the song was challenging, making sure it flowed along with the film. She emphasized that "Keep Holding On" was not indicative of what the next album would be.<ref>{{cite web|url=http://www.avrillavigne.com/index.jsp?news_id=3390|archiveurl=http://web.archive.org/web/20061207084833/http://www.avrillavigne.com/index.jsp?news_id=3390|archivedate=7 December 2006|title=Hey guys|date=8 November 2006|publisher=Archive.org|accessdate=30 March 2009}}</ref> The song, which later appeared on the album, debuted on radio on 20 November 2006, and was later released for digital download on 28 November.<ref>{{cite web|url=http://web.archive.org/web/20061207084847/www.avrillavigne.com/index.jsp?news_id=3442|title="Keep Holding On" now playing at radio!|date=20 November 2006|publisher=Archive.org|accessdate=30 March 2009}}</ref><ref>{{cite web|url=http://web.archive.org/web/20061208163718/www.avrillavigne.com/index.jsp?news_id=3480|title="Keep Holding On" now on iTunes|date=28 November 2006|publisher=Archive.org|accessdate=30 March 2009}}</ref>
+[[File:Avril Lavigne in Hongkong Press.JPG|thumb|Lavigne promoting ''The Best Damn Thing'' in Hong Kong, 2007]]
+Lavigne's third album, ''The Best Damn Thing'', was released on 17 April 2007, which Lavigne immediately promoted with a small tour. Its lead single, "[[Girlfriend (Avril Lavigne song)|Girlfriend]]", topped the ''Billboard'' Hot 100 the week ''The Best Damn Thing'' debuted at #1 on the ''Billboard'' 200 chart. "Girlfriend" was Lavigne's first single to reach this #1 position.<ref>{{cite news|url=http://www.billboard.com/news/lavigne-sweeps-charts-as-girlfriend-tops-1003576950.story#/news/lavigne-sweeps-charts-as-girlfriend-tops-1003576950.story|title=Lavigne Sweeps Charts As 'Girlfriend' Tops Hot 100|last=Cohen|first=Jonathan|date=26 April 2007|work=Billboard|publisher=Nielsen Business Media, Inc|accessdate=6 April 2010}}</ref> The single was a worldwide hit; it also peaked at #1 in Australia, Canada, Japan, and Italy and reached #2 in the UK and France. "Girlfriend" was recorded in Spanish, French, Italian, Portuguese, German, Japanese, and Mandarin. The [[IFPI|International Federation of the Phonographic Industry]] ranked "Girlfriend" as the most-downloaded track worldwide in 2007, selling 7.3 million copies, including the versions recorded in eight different languages.<ref>{{cite news|url=http://www.mtv.com/news/articles/1556972/20070412/lavigne_avril.jhtml|title=Avril Goes Multilingual For 'Girlfriend,' But Does It Get Lost In Translation?|last=Vineyard|first=Jennifer|date=13 April 2007|publisher=MTV|accessdate=30 March 2009}}</ref><ref name=Kohls/> In December 2007, Lavigne, with annual earnings of $12 million, was ranked number eight in the Forbes "Top 20 Earners Under 25".<ref>{{cite news|url=http://www.forbes.com/2007/12/01/celebrity-hollywood-media-cz_lg_1204kidstars.html|title=20 Under 25: The Top-Earning Young Superstars|date=4 December 2007|publisher=Forbes|accessdate=30 March 2009}}</ref>
+"[[When You're Gone (Avril Lavigne song)|When You're Gone]]", the second single, went to #3 in the UK, the top five in Australia and Italy, the top ten in Canada, and was very close to reaching the top twenty in the U.S. "[[Hot (Avril Lavigne song)|Hot]]" was the third single and has been Lavigne's least successful single in the U.S., charting only at #95. In Canada, "Hot" made the top ten, and in Australia, the top 20. ''The Best Damn Thing'' has sold 6 million copies worldwide.
+
+During this era,{{clarify}} Lavigne won nearly every award she was nominated for, including two [[World Music Awards]] for "World's Bestselling Canadian Artist" and "World's Best Pop/Rock Female Artist". She took her first two [[MTV Europe Music Awards]], received one [[Teen Choice Awards]] for "Summer Single", and was nominated for five Juno awards. 
+
+In March 2008, Lavigne undertook a world tour named "[[Avril Lavigne tours#The Best Damn Tour|The Best Damn Tour]]" to support the album. In mid-August, Malaysia's Islamic opposition party, the [[Pan-Malaysian Islamic Party]], attempted to ban Lavigne's show in [[Kuala Lumpur]], judging her stage moves "too sexy". Her concert on 29 August was considered as promoting wrong values ahead of Malaysia's independence day on 31 August.<ref>{{cite news|url=http://www.mtv.com/news/articles/1592957/20080818/lavigne_avril.jhtml|title=Avril Lavigne Faces Possible Ban In Malaysia For Being 'Too Sexy'|last=Kaufman|first=Gil|date=18 August 2008|publisher=MTV|accessdate=30 March 2009}}</ref> On 21 August 2008, MTV reported that the concert had been approved by the Malaysian government.<ref>{{cite news|url=http://www.mtv.com/news/articles/1593264/20080821/lavigne_avril.jhtml|title=Avril Lavigne's Malaysia Concert Is Back On, Singer Says – 'Too Sexy' Or Not|last=Kaufman|first=Gil|date=21 August 2008|publisher=MTV|accessdate=30 March 2009}}</ref>
+
+"Girlfriend" ranked on the ''Hot 100 Singles of the Decade'' list at #94.<ref>{{cite web | publisher=''Billboard'' | title=Billboard Hot 100 songs of the decade | url=http://www.billboard.com/#/charts-decade-end/hot-100-songs?year=2009&begin=91&order=position| accessdate=12 November 2009}}</ref>
+
+===Fourth studio album===
+Only a month after completing ''The Best Damn Tour'', Lavigne began recording in her home studio in November 2008 with "Black Star".<ref name=musicmix/> To help promote her first fragrance, Black Star, Lavigne needed a short theme that would be used for the [[TV spots]]. "Black Star" was composed in a [[Malaysia|Malaysian]] hotel during her tour. The [[jingle]] was eventually expanded into a full song, which ''Rolling Stone'' described as "an ethereal lullaby that turns epic with tinkling [[Coldplay]]-like pianos and soaring strings."<ref name=rollingstoneblackstar/>
+{{Rquote|right|I always had material, but some people that I worked with didn’t really care, because they wanted to write the stuff.|Avril Lavigne|''Entertainment Weekly''<ref name=musicmix/>}}
+Recording began with minimal instruments, usually starting with Lavigne singing only to acoustic guitar, with additional instruments added later. Lavigne described the process: "It’s stripped down. I love performing that way, so I really felt like it was time to make a record like that. To just make it all about the vocal and the performance, and the vibe, and the emotion." By July 2009, nine tracks had been recorded,<ref name=musicmix/> including the songs "Fine", "Everybody Hurts" and "Darlin". Several of the tracks were written in Lavigne's youth. "Darlin" was the second song Lavigne wrote as a 15-year-old while living in Napanee, Ontario. Lavigne described the album as being about "life". She stated, "It's so easy for me to do a boy-bashing pop song, but to sit down and write honestly about something that's really close to me, something I've been through, it's a totally different thing."
+
+The album is expected to be a return to Lavigne's older musical style and may be largely [[acoustic music|acoustic]],<ref name=guardian/> which would suit her desire to support the album in smaller venues. Lavigne said, "[For] this record, I just really, really wanted to sing. [...] I just wanna have silence around me, and have these acoustic songs and really deliver."
+
+The album's and lead single's release dates have been pushed back several times. The album was originally scheduled for release on 17 November 2009.<ref name=musicmix/> Later, in January 2010, Lavigne stated that the album cover had been photographed and the first single would be released in April, followed by the album in June.<ref name=seacrestinterview26/> In May, Lavigne admitted that she considered the album too serious and "mellow" and would return to the studio to balance the album out. "With an album, I don't want to rush it out. [...] I have a very serious record, so I think I need to put a couple upbeat, fun songs on it."<ref name=seacrestinterview6may/>
+
+In January, while simultaneously writing and recording for her new album, Lavigne was working with [[Disney]] on ''Alice in Wonderland''-themed clothing designs, inspired by [[Tim Burton]]'s feature film, ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]''. She asked the executives if she could write a song for the film. The result was the song "[[Alice (Avril Lavigne song)|Alice]]",<ref name=seacrestinterview26/> which was played over the end credits<ref name=pacifican/> and included on the soundtrack, ''[[Almost Alice]]''.<ref name=earthtimes/>
+
+On 28 February, Lavigne gave a performance at the concert portion of the [[2010 Winter Olympics closing ceremony]], performing "My Happy Ending" and "Girlfriend".<ref name=merinews/>
+
+==Other work==
+[[File:Avrilgfdl.JPG|thumb|right|Lavigne at the Los Angeles premiere of ''[[Over the Hedge]]'' on 30 April 2006.]]
+===Film career===
+Lavigne appeared in a 2002 episode of ''[[Sabrina, the Teenage Witch (TV series)|Sabrina, the Teenage Witch]]'', performing "[[Sk8er Boi]]" with her band. She had a cameo in the 2004 film ''[[Going the Distance (2004 film)|Going the Distance]]'', again playing herself. 
+
+Lavigne's feature film debut was in the 2006 [[animated film]] ''[[Over the Hedge (film)|Over the Hedge]]'', which is based on the [[Over the Hedge|comic strip of the same name]]. She voiced the character Heather, a [[Virginia Opossum]]. In the same year, Lavigne had a role in the film ''[[Fast Food Nation (film)|Fast Food Nation]]'', based on the book ''[[Fast Food Nation|Fast Food Nation: The Dark Side of the All-American Meal]]''. She starred in the 2007 [[Richard Gere]] film, ''[[The Flock (film)|The Flock]]'',<ref>{{cite news|url=http://www.mtv.com/movies/news/articles/1516717/story.jhtml|title=Avril Lands A Role In Richard Gere Crime Drama 'The Flock'|first=Gil|last=Kaufman|date=30 November 2005|publisher=MTV News|accessdate=28 March 2010}}</ref> as the girlfriend of a crime suspect. 
+
+===Entrepreneurship===
+In July 2008, Lavigne launched the clothing line [[Abbey Dawn]], featuring a back-to-school collection.<ref name=Kohls/> It is produced by [[Kohl's]], which is the brand's exclusive US retailer.<ref name="WarechOK!">{{cite news|url=http://www.okmagazine.com/2008/07/ok-interview-avril-lavigne-8095/|title=OK! Interview: Avril Lavigne|last=Warech|first=Jon|date=30 July 2008|publisher=OK! Magazine|accessdate=28 August 2008}}</ref><ref name=VenaAbbey>{{cite news|url=http://www.mtv.com/news/articles/1593374/20080822/lavigne_avril.jhtml|title=Avril Lavigne Launches Abbey Dawn Clothing Line: 'It's Absolutely My Wardrobe'|last=Vena|first=Jocelyn|date=25 August 2008|publisher=MTV|accessdate=30 March 2009}}</ref> Named after Lavigne's childhood nickname, Abbey Dawn is designed by Lavigne herself and concepts emanate from her.<ref name="WarechOK!"/><ref name=VenaAbbey/> Kohl's describe Abbey Dawn as a "juniors lifestyle brand",<ref name=Kohls/> which includes apparel and jewellery with skull and zebra patterns similar to the artwork featured on ''The Best Damn Thing'' album.<ref>{{cite news|url=http://www.usmagazine.com/avril_lavigne_new_clothing_line_is_rock_glam|archiveurl=http://web.archive.org/web/20080405062838/http://www.usmagazine.com/avril_lavigne_new_clothing_line_is_rock_glam|archivedate=5 April 2008|title=Avril Lavigne: Clothing Line is "Rock Glam"|date=5 March 2008|publisher=US Weekly|accessdate=28 August 2008}}</ref> Lavigne wore some of the clothes and jewellery from her line at various concerts before its official launch. The designs were also featured on the internet game [[Stardoll]], where figures can be dressed up as Avril Lavigne.<ref>{{cite web|url=http://www.npr.org/templates/story/story.php?storyId=14250186|title=Word of Mouse: Creating a Musical Buzz Online|date=10 September 2007|publisher=npr.org|accessdate=28 August 2008}}</ref> On 14 September 2009, Lavigne took her latest collection for her clothing line to be a part of the [[New York Fashion Week]], one of the most prestigious fashion shows around the world.<ref name=newyorkabbey>{{cite web|url=http://www.cosmogirl.com/blog/abbey-dawn-fashion-show|title=New York Fashion Week Spring 2010: Abbey Dawn|last=Moody|first=Colleen|date=15 September 2009|publisher=Cosmo Girl|accessdate=27 March 2010}}</ref>
+
+Lavigne released her first fragrance called [[Black Star (fragrance)|Black Star]], created by [[Procter & Gamble]] Prestige Products. The fragrance was announced via Lavigne's official website on 7 March 2009. Black Star, which contains notes of pink hibiscus, black plum and dark chocolate, was released in summer 2009 in Europe, and later in America and Canada.<ref name=basenotes>{{cite web|url=http://www.basenotes.net/industry_news/20090318avril-lavigne.html|title=Avril Lavigne in London to promote new fragrance, Black Star|last=Osborne|first=Grant|date=18 March 2009|publisher=Basenotes.net|accessdate=20 March 2009}}</ref> When asked what the name meant, Lavigne replied, "I wanted [the bottle] to be a star, and my colors are pink and black, and Black Star resembles being different, and standing out in the crowd, and reaching for the stars; the whole message is just about following your dreams and it's okay to be unique and be who you are."<ref name=seacrestinterview6may/>
+
+Lavigne announced in March 2010 that her second fragrance will be called "Forbidden Rose" and will be an extension of Black Star's "follow your dreams" personal message. Lavigne stated the advertising campaign is a Gothic-garden theme.<ref name=perfumeblog>{{cite web|url=http://www.blog.perfumetr.com/forbidden-rose-new-fragrance-by-avril-lavigne/|title=Forbidden Rose new fragrance by Avril Lavigne|publisher=Perfume Blog|accessdate=27 March 2010}}</ref>
+
+By the end of 2008 Lavigne signed contract with [[Canon (company)|Canon]] Canada and appear as image of the brand on campaigns and publicity commercials promoting the latest line of cameras as well a full range of products.<ref name="Avril Lavigne Clicks with Canon Canada">{{cite web|url=http://www.celebritybrands.net/lifestyle/avril-lavigne-clicks-with-canon-canada/|title=Avril Lavigne Canon|date=21 October 2008|publisher=celebritybrands.net|accessdate=27 December 2009}}</ref><ref name="Avril Lavigne Canon Canada">{{cite web|url=http://www.shootlikeastar.ca/#/videos|title=Avril Lavigne Canon|date=21 October 2008|publisher=shootlikeastar.ca|accessdate=27 December 2009}}</ref> One year later in 2009 she exteded her partnership with Canon to now be part of Asia's campaign beginning with a new commercial.<ref name="Avril Lavigne Clicks with Canon Singapore">{{cite web|url=http://www.canon.com.sg/|title=Canon Singapore|date=21 October 2009|publisher=canon.com|accessdate=27 December 2009}}</ref><ref name="Avril Lavigne Singapore Commercial">{{cite web|url=http://www.youtube.com/watch?v=RK8RoGpLoA0|title=Avril Lavigne Singapore Commercial|date=21 October 2009|publisher=youtube.com|accessdate=27 December 2009}}</ref>
+
+===Philanthropy===
+Lavigne has been involved in a number of charitable activities, such as [[Make Some Noise, Amnesty International]], Erase MS, AmericanCPR.org, Camp Will-a-Way, Music Clearing Minefields, [[U.S. Campaign for Burma]], [[Make-a-Wish Foundation]] and [[War Child (charity)|War Child]]. She has also appeared in [[Aldo (shoes)|ALDO]] ads with YouthAIDS to raise money to educate people worldwide about HIV/AIDS. Lavigne took part of the Unite Against Aids concert presented by ALDO in support of Unicef on 28 November at the Bell Centre in Montreal, Quebec Canada.<ref>{{cite web|url=http://www.uniteagainstaidsconcert.ca/|title=Unite Against Aids Concert|publisher=uniteagainstaidsconcert.ca|accessdate=6 March 2009}}</ref>
+
+Lavigne has been featured in a comic series ''[[Avril Lavigne's Make 5 Wishes]]''. She stars as herself, a pop star who is idolized by the protagonist of the story.<ref>{{cite web |url=http://www.randomhouse.com/delrey/manga/m5w.html |title=Avril Lavigne's Make 5 Wishes |publisher=RandomHouse.com |accessdate=24 January 2010}}</ref>
+
+Lavigne worked with [[Reverb (non-profit)|Reverb]], a non-profit environmental organization, for her 2005 east coast tour.<ref>{{cite web|url=http://www.reverbrock.org/site/projects.htm|archiveurl=http://web.archive.org/web/20080109023616/http://www.reverbrock.org/site/projects.htm|archivedate=9 January 2008|title=Reverb Projects|accessdate=10 January 2008}}</ref> She covered "[[Knockin' on Heaven's Door]]" for [[War Child (charity)|War Child]]'s ''Peace Songs'' compilation. Lavigne recorded a cover of the [[John Lennon]] song "[[Imagine (song)|Imagine]]" as her contribution to the compilation album ''[[Instant Karma: The Amnesty International Campaign to Save Darfur]]''. Released on 12 June 2007, the album was produced to benefit [[Amnesty International]]'s campaign to alleviate the [[Darfur conflict|crisis in Darfur]].<ref>{{cite news|url=http://news.amnesty.org.au/news/comments/make_some_noise_to_save_darfur/|title=Make some noise to save Darfur|date=25 June 2007|publisher=Amnesty International|accessdate=30 March 2009}}</ref>
+
+Before closing the decade on 5 December 2009 Lavigne return on stage after more than a year performing in Mexico City her two biggest hits of the 2000s ''"Complicated"'' and ''"Girlfriend"'' in an acoustic version among [[Evan Taubenfeld]] and Jim (band member) during the biggest charity event of [[Latin America]] "[[Teletón (Mexico)|Teleton]]".<ref>{{cite news|url=http://www.youtube.com/watch?v=WdIpU6Hwk9Y|title=Avril Lavigne Teleton|date=5 December 2009|publisher=Youtube|accessdate=27 December 2009}}</ref>
+
+In 2010, Lavigne was one of [[Young Artists for Haiti|several artists]] who contributed their voice to a cover of the song "[[Wavin' Flag]]" by singer [[K'naan]] as a benefit single to raise money for several charity organizations related to the [[2010 Haiti earthquake]].<ref name=muchmusic>{{cite web|url=http://blog.muchmusic.com/canadian-all-star-benefit-single-for-haiti-update/ |title=Canadian All-Star Benefit Single for Haiti: Update |date=19 February 2010 |publisher=Much Music.com |accessdate=25 February 2010}}</ref>
+
+==Personal life==
+[[Image:Deryck Whibley pointing to audience.jpg|200px|thumb|right|Lavigne's ex husband, Deryck Whibley]]
+===Marriage to Deryck Whibley===
+Lavigne married [[Deryck Whibley]] of [[punk rock|punk]] band [[Sum 41]] in a Catholic ceremony attended by about 110 guests on 15 July 2006, at a private estate in [[Montecito, California]].<ref>{{cite news|title=Avril Lavigne Weds|work=SFgate.com |url=http://www.sfgate.com/cgi-bin/blogs/dailydish/detail?blogid=7&entry_id=7160|accessdate=28 March 2010}}</ref> They began dating in February 2004 and on 27 June 2005, they became engaged. Whibley proposed to Lavigne by surprising her with a trip to [[Venice]], a gondola ride, and then a romantic picnic.<ref name=askmen>{{cite news|title=Avril Lavigne engaged|url=http://www.askmen.com/celebs/entertainment-news/avril-lavigne/avril-lavigne-engaged.html|publisher=AskMen|date=28 June 2005|accessdate=28 March 2010}}</ref>  Lavigne has stated that she considered having a gothic wedding but instead gave in to her childhood dreams of a traditional ceremony.<ref name=gothwedding>{{cite web|url=http://www.monstersandcritics.com/people/news/article_1281886.php/Avril_Lavigne_s_goth_wedding|title=Avril Lavigne's goth wedding|publisher=www.monstersandcritics.com|date=23 March 2007|accessdate=6 April 2010}}</ref> Lavigne has stated that she is "the best thing that's ever happened" to Whibley and has suggested that she helped him stay off drugs.<ref name=gothwedding/>
+
+It was announced on 17 September 2009, that Lavigne and Whibley had split up and that divorce papers would soon follow.<ref>{{cite web|url=http://www.people.com/people/article/0,,20305433,00.html|title=Avril Lavigne and Deryck Whibley Separate|last=Mazur|first=Kevin|date=17 September 2009|publisher=People|accessdate=6 April 2010}}</ref> On 9 October 2009, Lavigne filed for divorce.<ref>{{cite web|url=http://www.okmagazine.com/2009/10/avril-lavigne-files-for-divorce/|title=Avril Lavigne Files Divorce|last=Metcalfe|first=Luisa|date=15 October 2009|publisher=OK! Magazine|accessdate=6 April 2010}}</ref>
+
+===Personal style and public image===
+[[Image:Avril Lavigne Geneva June 09 2005.jpg|thumb|left|Lavigne's tattoo on her right wrist]]
+When Lavigne first gained publicity, she was known for her [[tomboy]]ish style, in particular her usual neck-tie and tank-top combination.<ref name=tieandtanktop>{{cite web|url=http://www.canadians.ca/more/profiles/l/l_avril_lavigne.htm|title=Avril Lavigne on canadians.ca|publisher=canadians.ca|accessdate=6 April 2010}}</ref> Lavigne eventually started to take on a darker, more [[goth]]ic style as she began her second album, ''Under My Skin''.<ref name=paraorkut>{{cite web|url=http://images.paraorkut.com/img/pics/images/a/avril_lavigne-4993.jpg|title=Avril Lavigne poster|publisher=paraorkut.com|accessdate=6 April 2010}}</ref> During ''The Best Damn Thing'' era, Lavigne dyed her hair blonde with a pink streak and generally became more feminine. Some fans felt she had become too upbeat and lost her original style.<ref name=skeetthrower>{{cite web|url=http://skeetthrower.blogspot.com/2006/12/what-hell-happened-to-avril-lavigne.html|title=What the Hell Happened to Avril Lavigne?|work=Skeet Thrower|accessdate=6 April 2010}}</ref> Lavigne stated, regarding her changing style, "I don't really regret anything. You know, the ties and the wifebeaters and all...It had its time and place. And now I'm all grown up, and I've moved on".<ref name=imnotobsessed>{{cite web|url=http://www.imnotobsessed.com/2006/10/18/avril-lavigne-talks-about-her-fashion-transformation|title=Avril Lavigne Talks About Her Fashion Transformation|date=18 October 2006|publisher=www.imnotobsessed.com|accessdate=6 April 2010}}</ref>
+
+Early in her career, Lavigne was dubbed by her fans as the "anti-Britney", referring to [[Britney Spears]], due to her less-commercial and "real" image. Lavigne responded by saying "I don't like that term – 'the anti-Britney.' It's stupid [and] I don't believe in that."<ref name=antibritney>{{cite web|url=http://www.ew.com/ew/article/0,,383860,00.html|title=The Anti-Britney?|last=Willman|first=Chris|publisher=www.ew.com|date=28 October 2002|accessdate=6 April 2010}}</ref>
+
+Lavigne has a star tattooed on the inside of her left wrist that matches the style of the one used for her first album artwork. It was created at the same time as friend and musical associate [[Ben Moody]]'s identical tattoo.<ref>{{cite web|url=http://www.mtv.com/bands/l/lavigne_avril/news_feature_032204/index4.jhtml Avril Lavigne: No Looking Back|title=Q&A: Avril in Action|last=Scaggs|first=Austin|accessdate=28 March 2010}}</ref> In late 2004, she had a small pink heart-shaped tattoo featuring the letter 'D' applied to her right wrist, which represents her now separated husband Deryck Whibley.<ref name=ferguson2007>{{Cite episode |title=Ioan Gruffudd/Avril Lavigne |url=http://www.imdb.com/title/tt1052783/ |series=The Late Late Show with Craig Ferguson |serieslink=The Late Late Show with Craig Ferguson |credits=Lavigne, Avril (herself, performer); Craig Ferguson (host) |network=NBC |station= |city= |airdate=18 June 2007 |began= |ended= |season=4 |seriesno=89 |number= |minutes= |transcript= |transcripturl= |quote=}}</ref> In April 2010, Lavigne added another tattoo on her wrist, that of a lightning bolt and the number 30, and her current boyfriend, [[Brody Jenner]], received a matching lightning bolt tattoo under his ear.<ref name=dose>{{cite web |url=http://www.dose.ca/Avril+Lavigne+Brody+Jenner+Make+Official+With+Matching+Tattoos/2850746/story.html |title=Avril Lavigne and Brody Jenner Make it Official -- With Matching Tattoos|last=Furtado|first=Miranda|date=12 April 2010|publisher=Dose.ca|accessdate=26 April 2010}}</ref>
+
+In a 2004 interview, Lavigne stated that her favourite party song is "[[Hey Ya]]", by [[Outkast]]. She likes listening to [[Third Eye Blind]], [[Oasis (band)|Oasis]], [[Marilyn Manson]], [[System of a Down]] and [[Blink-182]], and especially loves the track "[[I Miss You (Blink-182 song)|I Miss You]]". Asked what she would put on a [[mix tape]] to a boy she liked, she answered: "''[[Iris (song)|Iris]]'', by [[Goo Goo Dolls]]. I'd put a few [[Coldplay]] and Oasis songs. [[Radiohead]] – ''[[The Bends]]'' is one of my favorite albums".<ref>{{cite news|url=http://www.rollingstone.com/artists/avrillavigne/articles/story/6085406/qa_avril_in_action|archiveurl=http://web.archive.org/web/20080618092213/http://www.rollingstone.com/artists/avrillavigne/articles/story/6085406/qa_avril_in_action|archivedate=18 June 2008|title=Q&A: Avril in Action|publisher=Rolling Stone|date=3 June 2004|accessdate=28 March 2010}}</ref>
+
+Lavigne has been featured in a [[comic]] series ''[[Avril Lavigne's Make 5 Wishes]]''. She stars as herself, a rock star who is idolized by the protagonist of the story.<ref>{{cite web|url=http://www.make5wishes.com/|title=Make 5 Wishes|publisher=Make5wishes.com|accessdate=29 March 2009}}</ref>
+
+==Backing band==
+{{col-begin}}
+{{col-2}}
+;<big>Current members</big>
+* Al Berry – bass guitar, backing vocals (2007–present)
+* Rodney Howard –  drums, percussion, backing vocals (2007–present)
+* [[Steve Ferlazzo]] – [[electronic keyboard]], backing vocals (2007–present)
+* [[Jim McGorman]] – rhythm guitar, backing vocals (2007–present)
+* Steve Fekete – lead guitar, backing vocals (2008–present)
+* Sofia Toufa – backing vocals, dancer (2007–present)
+* Lindsay Bluafarb – backing vocals, dancer (2007–present)
+{{col-2}}
+
+;<big>Past members</big>
+* [[Mark Spicoluk]] – bass guitar, backing vocals (April–September 2002)
+* [[Jesse Colburn]] – rhythm guitar (2002–January 2004)
+* [[Evan Taubenfeld]] – lead guitar, backing vocals (2002–September 2004)
+* [[Craig Wood (guitarist)|Craig Wood]] – rhythm guitar, backing vocals, vocals (2004–January 2007)
+* [[Matt Brann]] – drums, percussion, vocals on (2002–February 2007)
+* [[Charlie Moniz]] – bass guitar (2002–February 2007)
+* [[Devin Bronson]] – lead guitar, backing vocals (2004–08)
+{{col-end}}
+
+==Discography==
+{{Main|Avril Lavigne discography}}
+{{col-begin}}
+{{col-2}}
+;<big>Studio albums</big>
+* ''[[Let Go (Avril Lavigne album)|Let Go]]'' (2002)
+* ''[[Under My Skin (Avril Lavigne album)|Under My Skin]]'' (2004)
+* ''[[The Best Damn Thing]]'' (2007)
+
+{{col-2}}
+;<big>Video albums</big>
+* ''[[My World (DVD)|My World]] '' (2003)
+* ''[[Live at Budokan: Bonez Tour|Live at Budokan]]'' (2005)
+* ''[[The Best Damn Tour – Live in Toronto|Live in Toronto]]'' (2008)
+{{col-end}}
+
+==Filmography==
+{|class="wikitable"
+|-
+! Year !! Title!! Role !! Notes
+|-
+| 2004 || ''[[Going the Distance (2004 film)|Going the Distance]]''|| Herself || Cameo; performed "Losing Grip"
+|-
+| rowspan=2|2006 || ''[[Fast Food Nation (film)|Fast Food Nation]]'' || Alice || College activist
+|-
+| ''[[Over the Hedge (2006 film)|Over the Hedge]]'' || Heather || Voice
+|-
+| 2007 || ''[[The Flock (film)|The Flock]]'' || Beatrice Bell || Suspect's Girlfriend
+|}
+
+==References==
+{{reflist|refs=
+<ref name=rollingstoneblackstar>{{cite journal |last=Diehl |first=Matt |date= 3 September 2009 |title=Avril Lavigne Mellows Out, Gets Serious |journal=Rolling Stone |volume= |series= |issue=#1086 |page=24 |publisher=Rolling Stone LLC |accessdate=14 May 2010}}</ref>
+<ref name=musicmix>{{cite web |url=http://music-mix.ew.com/2009/07/24/avril-lavigne-in-the-studio-exclusive/ |title=Avril Lavigne in the studio: An EW exclusive! |author=Pastorek, Whitney |date=24 July 2009 |publisher=Music Mix |accessdate=30 January 2010}}</ref>
+<ref name=guardian>{{cite news|url=http://www.guardian.co.uk/music/2009/jul/29/avril-lavigne-acoustic-new-album|title=Avril Lavigne goes acoustic on new album|last=Michaels|first=Sean|date=29 July 2009|publisher=guardian.co.uk|accessdate=2 August 2009 | location=London}}</ref>
+<ref name=earthtimes>{{cite web |url=http://www.earthtimes.org/articles/show/buena-vista-records-presents-almost-alice-featuring-other-voices-from-wonderland,1117270.shtml |title=Buena Vista Records Presents Almost Alice Featuring Other Voices from Wonderland |author=Walt Disney Records (Press Release) |date=12 January 2010 |publisher=EarthTimes |accessdate=15 January 2010}}</ref>
+<ref name=seacrestinterview6may>{{cite interview |last=Lavigne |first=Avril |interviewer=[[Ryan Seacrest]] |title=Interview with Avril Lavigne |program=[[On Air with Ryan Seacrest (radio)|On Air with Ryan Seacrest]] |callsign=[[KIIS]] |city=Los Angeles, California |url=http://www.kiisfm.com/mediaplayer/?station=RYAN-IP&action=ondemand&feed_name=onair.xml&item=19156876 |date=6 May 2010 |accessdate=14 May 2010}}</ref>
+<ref name=merinews>{{cite web|last=K|first=Stephen|title=Avril Lavigne, others at closing ceremony, watch video|url=http://www.merinews.com/article/avril-lavigne-others-at-closing-ceremony-watch-video/15799788.shtml|publisher=Merinews|accessdate=14 May 2010|date=2 March 2010}}</ref>
+<ref name=seacrestinterview26>{{cite interview |last=Lavigne |first=Avril |interviewer=[[Ryan Seacrest]] |title=Interview with Avril Lavigne |program=[[On Air with Ryan Seacrest (radio)|On Air with Ryan Seacrest]] |callsign=[[KIIS]] |city=Los Angeles, California |url=http://www.kiisfm.com/cc-common/mediaplayer/player.html?redir=yes&mps=onair.php&mid=http://a1135.g.akamai.net/f/1135/18227/1h/cchannel.download.akamai.com/18227/podcast/LOSANGELES-CA/KIIS-FM/avrillavigne012610.mp3?CPROG=PCAST?CCOMRRMID&CPROG=RICHMEDIA&MARKET=LOSANGELES-CA&NG_FORMAT=chrrhythmic&NG_ID=kiis102fm&OR_NEWSFORMAT=&OWNER=&SERVER_NAME=www.kiisfm.com&SITE_ID=842&STATION_ID=KIIS-FM&TRACK= |date=26 January 2010 |accessdate=26 January 2010}}</ref>
+<ref name=pacifican>{{cite web|url=http://www.thepacifican.com/new/index.php?option=com_content&task=view&id=2628&Itemid=100016|title=Movie Review: Alice in Wonderland|last=Wood|first=Courtney|date=17 March 2010|publisher=The Pacifican|accessdate=9 April 2010}}</ref>
+
+<!--You may add references above this line; see WP:LDR for more information-->
+}}
+
+==External links==
+{{commons|Avril Lavigne}}
+{{wikiquote}}
+{{Portal|Music of Canada|Maple Leaf (from roundel).png}}
+* [http://www.avrillavigne.com/ Official site]
+*{{imdb|1245099|Avril Lavigne}}
+{{Start box}} {{s-ach}}
+{{Succession box|before=[[Christina Aguilera]]| title=[[Rolling Stone|Rolling Stone for Teenager of the Year]]| years=2002| after=[[Hilary Duff]]}}
+{{End box}}
+{{Avril Lavigne}}
+
+{{Persondata
+|NAME=Lavigne, Avril
+|ALTERNATIVE NAMES=Avril Ramona Lavigne
+|SHORT DESCRIPTION=Canadian singer
+|DATE OF BIRTH=27 September 1984
+|PLACE OF BIRTH=Belleville, Ontario, Canada
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Lavigne, Avril}}
+[[Category:1984 births]]
+[[Category:1990s singers]]
+[[Category:2000s singers]]
+[[Category:2010s singers]]
+[[Category:Living people]]
+[[Category:Avril Lavigne| ]]
+[[Category:Anglophone Canadians of French-Canadian descent]]
+[[Category:Juno Award winners]]
+[[Category:Arista Records artists]]
+[[Category:Canadian expatriate musicians in the United States]]
+[[Category:Canadian female guitarists]]
+[[Category:Canadian female singers]]
+[[Category:Canadian child singers]]
+[[Category:Canadian film actors]]
+[[Category:Canadian rock guitarists]]
+[[Category:Canadian rock singers]]
+[[Category:Canadian singer-songwriters]]
+[[Category:Canadian television actors]]
+[[Category:Canadian voice actors]]
+[[Category:English-language singers]]
+[[Category:Ivor Novello Award winners]]
+[[Category:Female post-grunge singers]]
+[[Category:Female rock singers]]
+[[Category:Franco-Ontarian people]]
+[[Category:MTV Europe Music Awards winners]]
+[[Category:Musicians from Ontario]]
+[[Category:People from Belleville, Ontario]]
+[[Category:People from Lennox and Addington County, Ontario]]
+[[Category:Pop punk singers]]
+[[Category:RCA Records artists]]
+[[Category:Rhythm guitarists]]
+[[Category:World Music Awards winners]]
+[[Category:MTV Video Music Awards winners]]
+
+{{Link FA|ar}}
+{{Link FA|ro}}
+[[af:Avril Lavigne]]
+[[ar:آفريل لافين]]
+[[an:Avril Lavigne]]
+[[az:Avril Lavin]]
+[[bs:Avril Lavigne]]
+[[bg:Аврил Лавин]]
+[[ca:Avril Lavigne]]
+[[cs:Avril Lavigne]]
+[[cy:Avril Lavigne]]
+[[da:Avril Lavigne]]
+[[de:Avril Lavigne]]
+[[et:Avril Lavigne]]
+[[el:Αβρίλ Λαβίν]]
+[[es:Avril Lavigne]]
+[[eo:Avril Lavigne]]
+[[eu:Avril Lavigne]]
+[[fa:اوریل لوین]]
+[[fr:Avril Lavigne]]
+[[gl:Avril Lavigne]]
+[[ko:에이브릴 라빈]]
+[[hr:Avril Lavigne]]
+[[io:Avril Lavigne]]
+[[id:Avril Lavigne]]
+[[is:Avril Lavigne]]
+[[it:Avril Lavigne]]
+[[he:אבריל לאבין]]
+[[jv:Avril Lavigne]]
+[[ka:ავრილ ლავინი]]
+[[csb:Avril Lavigne]]
+[[la:Aprilis Lavigne]]
+[[lv:Avrila Lavinja]]
+[[lt:Avril Lavigne]]
+[[li:Avril Lavigne]]
+[[hu:Avril Lavigne]]
+[[mk:Аврил Лавињ]]
+[[mt:Avril Lavigne]]
+[[ms:Avril Lavigne]]
+[[nl:Avril Lavigne]]
+[[ja:アヴリル・ラヴィーン]]
+[[no:Avril Lavigne]]
+[[uz:Avril Lavigne]]
+[[pl:Avril Lavigne]]
+[[pt:Avril Lavigne]]
+[[ro:Avril Lavigne]]
+[[ru:Лавин, Аврил]]
+[[sq:Avril Lavigne]]
+[[simple:Avril Lavigne]]
+[[sk:Avril Lavigne]]
+[[sl:Avril Lavigne]]
+[[sr:Аврил Лавињ]]
+[[sh:Avril Lavigne]]
+[[fi:Avril Lavigne]]
+[[sv:Avril Lavigne]]
+[[tl:Avril Lavigne]]
+[[th:แอวริล ลาวีญ]]
+[[tr:Avril Lavigne]]
+[[uk:Авріл Лавінь]]
+[[vi:Avril Lavigne]]
+[[zh:艾薇兒·拉維尼]]

@@ -1,0 +1,31 @@
+{{BotMoveToCommons|en.wikipedia|year=2012|month=January|day=2}}
+
+== {{int:filedesc}} ==
+{{Spoken article
+|title= Undercover Cops
+|time= 10:36
+|user_name= Acather96
+|date= 2010-12-30
+|oldid=405007744
+|accent= [[British English]]
+|reviewed=yes
+}}
+{{Information 
+|description    = {{en|1= Undercover Cops }} 
+|date           = {{Original upload date|2010-12-30}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Acather96|Acather96]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Undercover_Cops.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-12-30 17:16 (UTC) | [[:en:User:Acather96|Acather96]] | 6523253 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title= Undercover Cops |time= 10:36 |user_name= Acather96 |date= 2010-12-30 |oldid=405007744 |accent= [[British English]] }} == Lice</nowiki></small>
+
+[[Category:Audio files requiring categorisation]]

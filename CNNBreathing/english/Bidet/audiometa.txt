@@ -1,0 +1,19 @@
+{{Information
+|Description={{en|Music used in this recording is from [[:File:Bartok - Romanian Folk Dances.ogg|Wikimedia Commons]] and is used under CC-BY-SA 2.0}}
+|Source={{transferred from|en.wikipedia|Sreejithk2000|CommonsHelper}}
+|Date={{original upload date|2010-04-18}}
+|Author={{original uploader|Pjf|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+{{Spoken article entry}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Bidet.ogg}}
+* 2010-04-21 18:19 [[:en:User:Pjf|Pjf]] 0×0× (9600346 bytes) ''<nowiki>Added music to intro and outro. Music is from http://commons.wikimedia.org/wiki/File:Bartok_-_Romanian_Folk_Dances.ogg and used under CC-BY-SA 2.0</nowiki>''
+* 2010-04-18 11:17 [[:en:User:Pjf|Pjf]] 0×0× (9172686 bytes) ''<nowiki>{{Spoken article entry |title=Bidet |time=9:14 |user_name=Pjf |date=2010-04-18 |link_to_recorded_version=http://en.wikipedia.org/w/index.php?title=Bidet&oldid=356754213 |accent=Australian }} == Licensing: == {{cc-by-sa-3.0}}</nowiki>''
+
+[[Category:Bidets]]

@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Lolcat
+|time=7:39
+|user_name=Gigs
+|date=2008-04-04
+|oldid=203271404 
+|accent=American
+}}Sex- male
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Gigs|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Lolcat.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2008-04-04 13:37 (UTC) | [[:en:User:Gigs|Gigs]] | 4904532 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title=Lolcat |time=7:39 |user_name=Gigs |date=2008-04-04 |oldid=203271404  |accent=American }}  {{GFDL-with-disclaimers}}</nowiki></small>
+
+[[Category:Lolcats]]

@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Pope Evaristus" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Pope_Evaristus" /><prop key="DC.date.read" value="2014-07-01 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Pope_Evaristus" /><prop key="DC.source.wikiID" value="46047" /><prop key="DC.source.revision" value="790704465" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Pope Evaristus&amp;oldid=606036165" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/c/ce/En-Pope_Evaristus-article.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aEn-Pope_Evaristus-article.ogg" group="audio1" /><link key="DC.source.audio.date" value="2014-07-01 16:38:45" group="audio1" /><prop key="reader.name" value="[[User:Matthew David González|Matthew David González]]" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:48:57.516+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Pope_Evaristus/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Pope_Evaristus)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T18:10:43.291+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Pope_Evaristus/aligned.swc, transcript=articles/Pope_Evaristus/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Pope_Evaristus/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Pope EvaristusFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Pope EvaristusFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Pope"><n pronunciation="Pope" start="880" end="1300"><ph start="900" end="970" type="p"></ph><ph start="970" end="1180" type="@U"></ph><ph start="1180" end="1250" type="p"></ph></n></t><t text="EvaristusFrom"><n pronunciation="EvaristusFrom" start="1360" end="1960"><ph start="1250" end="1300" type="@"></ph><ph start="1300" end="1380" type="v"></ph><ph start="1380" end="1500" type="E"></ph><ph start="1500" end="1650" type="r"></ph><ph start="1650" end="1710" type="I"></ph><ph start="1710" end="1810" type="s"></ph><ph start="1810" end="1850" type="T"></ph><ph start="1850" end="1890" type="S"></ph><ph start="1890" end="1970" type="V"></ph><ph start="1970" end="2360" type="s"></ph><ph start="2360" end="2690" type="f"></ph><ph start="2690" end="2760" type="r"></ph><ph start="2760" end="2790" type="V"></ph><ph start="2790" end="2820" type="m"></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="2800" end="3610"><ph start="2820" end="2870" type="w"></ph><ph start="2870" end="2900" type="I"></ph><ph start="2900" end="2980" type="k"></ph><ph start="2980" end="3060" type="i:"></ph><ph start="3060" end="3140" type="p"></ph><ph start="3140" end="3230" type="i:"></ph><ph start="3230" end="3260" type="d"></ph><ph start="3260" end="3430" type="i:"></ph><ph start="3430" end="3460" type="V"></ph></n></t><t text="," /><t text="the"><n pronunciation="the" start="3870" end="3980"><ph start="3910" end="3940" type="D"></ph><ph start="3940" end="3970" type="V"></ph></n></t><t text="free"><n pronunciation="free" start="3980" end="4240"><ph start="3970" end="4100" type="f"></ph><ph start="4100" end="4160" type="r"></ph><ph start="4160" end="4270" type="i:"></ph></n></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="4240" end="5170"><ph start="4270" end="4300" type="I"></ph><ph start="4300" end="4360" type="n"></ph><ph start="4360" end="4450" type="s"></ph><ph start="4450" end="4530" type="aI"></ph><ph start="4530" end="4590" type="k"></ph><ph start="4590" end="4620" type="l"></ph><ph start="4620" end="4670" type="@U"></ph><ph start="4670" end="4770" type="p"></ph><ph start="4770" end="4860" type="i:"></ph><ph start="4860" end="4890" type="d"></ph><ph start="4890" end="5010" type="i:"></ph><ph start="5010" end="5040" type="V"></ph></n></t><t text="at"><n pronunciation="at" start="5680" end="5820"><ph start="5730" end="5990" type="I"></ph><ph start="5990" end="6280" type="?"></ph></n></t><t text="e"><n pronunciation="e" start="6630" end="6790"><ph start="6500" end="6690" type="?"></ph><ph start="6690" end="6860" type="i:"></ph></n></t><t text="n"><n pronunciation="n" start="6850" end="7230"><ph start="6860" end="6970" type="E"></ph><ph start="6970" end="7130" type="n"></ph></n></t><t text="dot"><n pronunciation="dot" start="7470" end="7660"><ph start="7510" end="7540" type="d"></ph><ph start="7540" end="7600" type="A:"></ph><ph start="7600" end="7630" type="t"></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="7660" end="8430"><ph start="7630" end="7740" type="w"></ph><ph start="7740" end="7790" type="I"></ph><ph start="7790" end="7850" type="k"></ph><ph start="7850" end="7950" type="i:"></ph><ph start="7950" end="8030" type="p"></ph><ph start="8030" end="8100" type="i:"></ph><ph start="8100" end="8140" type="d"></ph><ph start="8140" end="8270" type="i:"></ph><ph start="8270" end="8360" type="V"></ph></n></t><t text="dot"><n pronunciation="dot" start="8600" end="8830"><ph start="8640" end="8680" type="d"></ph><ph start="8680" end="8800" type="A:"></ph><ph start="8800" end="8830" type="t"></ph></n></t><t text="org"><n pronunciation="org" start="8830" end="9310"><ph start="8830" end="8900" type="?"></ph><ph start="8900" end="9040" type="O:"></ph><ph start="9040" end="9140" type="r"></ph><ph start="9140" end="9170" type="g"></ph></n></t><t text="." /></s></extra>
+
+<ignored><s><t>Pope<n pronunciation="Pope" /></t> <t>Saint<n pronunciation="Saint" /></t>
+<t>Evaristus<n pronunciation="Evaristus" /></t></s>
+
+
+
+
+
+<s><t>Papacy<n pronunciation="Papacy" /></t> <t>began<n pronunciation="began" /></t>
+<t>c.<n pronunciation="c" /><n pronunciation="." /></t> <t>99<n pronunciation="ninety" /><n pronunciation="nine" /></t></s>
+
+
+<s><t>Papacy<n pronunciation="Papacy" /></t> <t>ended<n pronunciation="ended" /></t>
+<t>c.<n pronunciation="c" /><n pronunciation="." /></t> <t>107<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="seven" /></t></s>
+
+
+<s><t>Predecessor<n pronunciation="Predecessor" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>I<n pronunciation="I" /></t></s>
+
+
+<s><t>Successor<n pronunciation="Successor" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>I<n pronunciation="I" /></t></s>
+
+
+<s><t>Personal<n pronunciation="Personal" /></t> <t>details<n pronunciation="details" /></t></s>
+
+
+<s><t>Birth<n pronunciation="Birth" /></t> <t>name<n pronunciation="name" /></t>
+<t>Evaristus<n pronunciation="Evaristus" /></t> <t>or<n pronunciation="or" /></t> <t>Aristus<n pronunciation="Aristus" /></t></s>
+
+
+<s><t>Born<n pronunciation="Born" /></t>
+<t>1st<n pronunciation="first" /></t> <t>century<n pronunciation="century" /></t> <t>AD<n pronunciation="AD" /></t>
+<t>Bethlehem<n pronunciation="Bethlehem" /></t><t>,</t> <t>Judaea<n pronunciation="Judaea" /></t></s>
+
+
+<s><t>Died<n pronunciation="Died" /></t>
+<t>c.<n pronunciation="c" /><n pronunciation="." /></t> <t>107<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="seven" /></t>
+<t>Rome<n pronunciation="Rome" /></t><t>,</t> <t>Roman<n pronunciation="Roman" /></t> <t>Empire<n pronunciation="Empire" /></t></s>
+
+
+<s><t>Sainthood<n pronunciation="Sainthood" /></t></s>
+
+
+<s><t>Feast<n pronunciation="Feast" /></t> <t>day<n pronunciation="day" /></t>
+<t>26<n pronunciation="twenty" /><n pronunciation="six" /></t> <t>October<n pronunciation="October" /></t></s></ignored>
+
+
+<p><s><t>Pope<n pronunciation="Pope" start="10000" end="10390" /></t> <t>Evaristus<n pronunciation="Evaristus" start="10390" end="11250" /></t> <t>(</t><t>died<n pronunciation="died" start="11320" end="11960" /></t> <t>c.<n pronunciation="c" /><n pronunciation="." /></t> <t>107<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="seven" start="12680" end="13200" /></t><t>)</t> <t>is<n pronunciation="is" start="13690" end="13840" /></t> <t>accounted<n pronunciation="accounted" start="13840" end="14590" /></t> <t>the<n pronunciation="the" /></t> <t>fifth<n pronunciation="fifth" start="14600" end="14950" /></t> <t>Bishop<n pronunciation="Bishop" start="14950" end="15360" /></t> <t>of<n pronunciation="of" start="15360" end="15570" /></t> <t>Rome<n pronunciation="Rome" start="15570" end="16020" /></t><t>,</t> <t>holding<n pronunciation="holding" start="16420" end="16790" /></t> <t>office<n pronunciation="office" start="16790" end="17280" /></t> <t>from<n pronunciation="from" start="17280" end="17480" /></t> <t>c.<n pronunciation="c" /><n pronunciation="." start="17700" end="17740" /></t> <t>99<n pronunciation="99" /></t> <t>to<n pronunciation="to" start="18710" end="18930" /></t> <t>his<n pronunciation="his" start="18930" end="19060" /></t> <t>death<n pronunciation="death" start="19060" end="19230" /></t> <t>c.<n pronunciation="c" start="19670" end="19800" /><n pronunciation="." start="20030" end="20380" /></t> <t>107<n pronunciation="one" start="20380" end="20460" /><n pronunciation="hundred" /><n pronunciation="seven" start="20680" end="21260" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored> <s><t>He<n pronunciation="He" start="21660" end="22060"><ph start="21680" end="22000" type="h"></ph><ph start="22000" end="22060" type="i:"></ph></n></t> <t>was<n pronunciation="was" start="22060" end="22240"><ph start="22060" end="22090" type="w"></ph><ph start="22090" end="22130" type="A:"></ph><ph start="22130" end="22210" type="z"></ph></n></t> <t>also<n pronunciation="also" start="22240" end="22570"><ph start="22210" end="22290" type="?"></ph><ph start="22290" end="22350" type="O:"></ph><ph start="22350" end="22420" type="l"></ph><ph start="22420" end="22520" type="s"></ph><ph start="22520" end="22580" type="@U"></ph></n></t> <t>known<n pronunciation="known" start="22570" end="23080"><ph start="22580" end="22710" type="n"></ph><ph start="22710" end="22920" type="@U"></ph><ph start="22920" end="23070" type="n"></ph></n></t> <t>as<n pronunciation="as" start="23100" end="23300"><ph start="23160" end="23250" type="V"></ph><ph start="23250" end="23300" type="s"></ph></n></t> <t>Aristus<n pronunciation="Aristus" start="23300" end="24050"><ph start="23300" end="23380" type="3`"></ph><ph start="23380" end="23530" type="I"></ph><ph start="23530" end="23610" type="s"></ph><ph start="23610" end="23700" type="t"></ph><ph start="23700" end="23780" type="V"></ph><ph start="23780" end="23980" type="s"></ph></n></t><t>.</t></s></p>
+<p><s><t>Little<n pronunciation="Little" start="24770" end="25140"><ph start="24800" end="24890" type="l"></ph><ph start="24890" end="24950" type="I"></ph><ph start="24950" end="24980" type="t"></ph><ph start="24980" end="25010" type="V"></ph><ph start="25010" end="25165" type="l"></ph></n></t> <t>is<n pronunciation="is" start="25140" end="25320"><ph start="25165" end="25240" type="I"></ph><ph start="25240" end="25340" type="z"></ph></n></t> <t>known<n pronunciation="known" start="25320" end="25760"><ph start="25340" end="25430" type="n"></ph><ph start="25430" end="25660" type="@U"></ph><ph start="25660" end="25780" type="n"></ph></n></t> <t>about<n pronunciation="about" start="25760" end="26050"><ph start="25780" end="25850" type="V"></ph><ph start="25850" end="25900" type="b"></ph><ph start="25900" end="26000" type="aU"></ph><ph start="26000" end="26060" type="t"></ph></n></t> <t>St.<n pronunciation="saint" start="26050" end="26390"><ph start="26060" end="26190" type="s"></ph><ph start="26190" end="26300" type="eI"></ph><ph start="26300" end="26400" type="n"></ph></n></t> <t>Evaristus<n pronunciation="Evaristus" start="26390" end="27290"><ph start="26400" end="26490" type="E"></ph><ph start="26490" end="26520" type="v"></ph><ph start="26520" end="26670" type="3`"></ph><ph start="26670" end="26740" type="I"></ph><ph start="26740" end="26830" type="s"></ph><ph start="26830" end="26900" type="t"></ph><ph start="26900" end="26990" type="V"></ph><ph start="26990" end="27220" type="s"></ph></n></t><t>.</t></s> <s><t>According<n pronunciation="According" start="27800" end="28400"><ph start="27880" end="28000" type="V"></ph><ph start="28000" end="28110" type="k"></ph><ph start="28110" end="28160" type="O:"></ph><ph start="28160" end="28200" type="r"></ph><ph start="28200" end="28230" type="d"></ph><ph start="28230" end="28260" type="I"></ph><ph start="28260" end="28400" type="N"></ph></n></t> <t>to<n pronunciation="to" start="28400" end="28520"><ph start="28400" end="28480" type="t"></ph><ph start="28480" end="28530" type="u"></ph></n></t> <t>the<n pronunciation="the" start="28520" end="28640"><ph start="28530" end="28560" type="D"></ph><ph start="28560" end="28610" type="V"></ph></n></t> <t>Liber<n pronunciation="Liber" start="28640" end="28990"><ph start="28610" end="28710" type="l"></ph><ph start="28710" end="28800" type="I"></ph><ph start="28800" end="28860" type="b"></ph><ph start="28860" end="28980" type="3`"></ph></n></t> <t>Pontificalis<n pronunciation="Pontificalis" start="28990" end="29980"><ph start="29040" end="29090" type="p"></ph><ph start="29090" end="29150" type="A:"></ph><ph start="29150" end="29180" type="n"></ph><ph start="29180" end="29220" type="t"></ph><ph start="29220" end="29280" type="I"></ph><ph start="29280" end="29350" type="f"></ph><ph start="29350" end="29390" type="V"></ph><ph start="29390" end="29530" type="k"></ph><ph start="29530" end="29560" type="{"></ph><ph start="29560" end="29720" type="l"></ph><ph start="29720" end="29780" type="V"></ph><ph start="29780" end="29990" type="s"></ph></n></t><t>,</t> <t>he<n pronunciation="he"><ph start="30330" end="30390" type="h"></ph><ph start="30390" end="30450" type="i:"></ph></n></t> <t>came<n pronunciation="came" start="29970" end="30770"><ph start="30450" end="30560" type="k"></ph><ph start="30560" end="30680" type="eI"></ph><ph start="30680" end="30770" type="m"></ph></n></t> <t>from<n pronunciation="from" start="30770" end="30950"><ph start="30770" end="30850" type="f"></ph><ph start="30850" end="30880" type="r"></ph><ph start="30880" end="30910" type="V"></ph><ph start="30910" end="30950" type="m"></ph></n></t> <t>a<n pronunciation="a" start="30950" end="31030"><ph start="30950" end="31010" type="V"></ph></n></t> <t>family<n pronunciation="family" start="31030" end="31470"><ph start="31010" end="31120" type="f"></ph><ph start="31120" end="31260" type="{"></ph><ph start="31260" end="31350" type="m"></ph><ph start="31350" end="31400" type="l"></ph><ph start="31400" end="31500" type="i:"></ph></n></t> <t>of<n pronunciation="of" start="31470" end="31650"><ph start="31500" end="31610" type="V"></ph><ph start="31610" end="31640" type="v"></ph></n></t> <t>Hellenic<n pronunciation="Hellenic" start="31650" end="32070"><ph start="31640" end="31710" type="h-"></ph><ph start="31710" end="31740" type="V"></ph><ph start="31740" end="31840" type="l"></ph><ph start="31840" end="31910" type="E"></ph><ph start="31910" end="31950" type="n"></ph><ph start="31950" end="32030" type="I"></ph><ph start="32030" end="32075" type="k"></ph></n></t> <t>Jewish<n pronunciation="Jewish" start="32070" end="32440"><ph start="32075" end="32200" type="dZ"></ph><ph start="32200" end="32290" type="u"></ph><ph start="32290" end="32350" type="I"></ph><ph start="32350" end="32440" type="S"></ph></n></t> <t>origin<n pronunciation="origin" start="32440" end="33050"><ph start="32440" end="32570" type="?"></ph><ph start="32570" end="32680" type="3`"></ph><ph start="32680" end="32730" type="I"></ph><ph start="32730" end="32820" type="dZ"></ph><ph start="32820" end="32870" type="V"></ph><ph start="32870" end="32990" type="n"></ph></n></t> <t>living<n pronunciation="living" start="33330" end="33670"><ph start="33370" end="33420" type="l"></ph><ph start="33420" end="33480" type="I"></ph><ph start="33480" end="33540" type="v"></ph><ph start="33540" end="33570" type="I"></ph><ph start="33570" end="33700" type="N"></ph></n></t> <t>in<n pronunciation="in" start="33670" end="33810"><ph start="33700" end="33740" type="I"></ph><ph start="33740" end="33820" type="n"></ph></n></t> <t>Bethlehem<n pronunciation="Bethlehem" start="33810" end="34510"><ph start="33820" end="33870" type="b"></ph><ph start="33870" end="33970" type="E"></ph><ph start="33970" end="34080" type="T"></ph><ph start="34080" end="34150" type="l"></ph><ph start="34150" end="34180" type="I"></ph><ph start="34180" end="34240" type="h"></ph><ph start="34240" end="34290" type="E"></ph><ph start="34290" end="34460" type="m"></ph></n></t><t>.</t></s> <s><t>He<n pronunciation="He" start="35060" end="35350"><ph start="34980" end="35290" type="h"></ph><ph start="35290" end="35350" type="i:"></ph></n></t> <t>was<n pronunciation="was" start="35350" end="35500"><ph start="35350" end="35400" type="w"></ph><ph start="35400" end="35430" type="A:"></ph><ph start="35430" end="35520" type="z"></ph></n></t> <t>elected<n pronunciation="elected" start="35500" end="36000"><ph start="35520" end="35560" type="@"></ph><ph start="35560" end="35650" type="l"></ph><ph start="35650" end="35730" type="E"></ph><ph start="35730" end="35870" type="t"></ph><ph start="35870" end="35920" type="V"></ph><ph start="35920" end="35990" type="d"></ph></n></t> <t>during<n pronunciation="during" start="36000" end="36290"><ph start="35990" end="36050" type="d"></ph><ph start="36050" end="36160" type="3`"></ph><ph start="36160" end="36200" type="I"></ph><ph start="36200" end="36260" type="N"></ph></n></t> <t>the<n pronunciation="the"><ph start="36260" end="36290" type="D"></ph><ph start="36290" end="36410" type="V"></ph></n></t> <t>reign<n pronunciation="reign" start="36370" end="36800"><ph start="36410" end="36490" type="r"></ph><ph start="36490" end="36670" type="eI"></ph><ph start="36670" end="36810" type="n"></ph></n></t> <t>of<n pronunciation="of" start="36830" end="36980"><ph start="36870" end="36950" type="V"></ph><ph start="36950" end="36980" type="v"></ph></n></t> <t>the<n pronunciation="the" start="36980" end="37110"><ph start="36980" end="37030" type="D"></ph><ph start="37030" end="37060" type="V"></ph></n></t> <t>Roman<n pronunciation="Roman" start="37110" end="37450"><ph start="37060" end="37220" type="r"></ph><ph start="37220" end="37300" type="@U"></ph><ph start="37300" end="37350" type="m"></ph><ph start="37350" end="37390" type="V"></ph><ph start="37390" end="37450" type="n"></ph></n></t> <t>Emperor<n pronunciation="Emperor" start="37450" end="37910"><ph start="37520" end="37600" type="E"></ph><ph start="37600" end="37690" type="m"></ph><ph start="37690" end="37750" type="p"></ph><ph start="37750" end="37850" type="3`"></ph><ph start="37850" end="37930" type="3`"></ph></n></t> <t>Domitian<n pronunciation="Domitian" start="37910" end="38660"><ph start="37930" end="38010" type="d"></ph><ph start="38010" end="38060" type="@U"></ph><ph start="38060" end="38130" type="m"></ph><ph start="38130" end="38230" type="I"></ph><ph start="38230" end="38390" type="S"></ph><ph start="38390" end="38470" type="V"></ph><ph start="38470" end="38600" type="n"></ph></n></t><t>,</t> <t>the<n pronunciation="the" start="39240" end="39350"><ph start="39210" end="39320" type="D"></ph><ph start="39320" end="39350" type="V"></ph></n></t> <t>time<n pronunciation="time" start="39350" end="39730"><ph start="39350" end="39480" type="t"></ph><ph start="39480" end="39650" type="aI"></ph><ph start="39650" end="39750" type="m"></ph></n></t> <t>of<n pronunciation="of" start="39730" end="39860"><ph start="39750" end="39830" type="V"></ph><ph start="39830" end="39860" type="v"></ph></n></t> <t>the<n pronunciation="the" start="39860" end="39930"><ph start="39860" end="39890" type="D"></ph><ph start="39890" end="39920" type="V"></ph></n></t> <t>second<n pronunciation="second" start="39930" end="40350"><ph start="39920" end="40070" type="s"></ph><ph start="40070" end="40150" type="E"></ph><ph start="40150" end="40240" type="k"></ph><ph start="40240" end="40270" type="V"></ph><ph start="40270" end="40340" type="n"></ph></n></t> <t>general<n pronunciation="general" start="40350" end="40720"><ph start="40340" end="40460" type="dZ"></ph><ph start="40460" end="40540" type="E"></ph><ph start="40540" end="40580" type="n"></ph><ph start="40580" end="40620" type="3`"></ph><ph start="40620" end="40650" type="V"></ph><ph start="40650" end="40720" type="l"></ph></n></t> <t>persecution<n pronunciation="persecution" start="40720" end="41590"><ph start="40720" end="40820" type="p"></ph><ph start="40820" end="40900" type="3`"></ph><ph start="40900" end="40990" type="s"></ph><ph start="40990" end="41020" type="V"></ph><ph start="41020" end="41170" type="k"></ph><ph start="41170" end="41220" type="j"></ph><ph start="41220" end="41280" type="u"></ph><ph start="41280" end="41390" type="S"></ph><ph start="41390" end="41430" type="V"></ph><ph start="41430" end="41540" type="n"></ph></n></t><t>,</t> <t>and<n pronunciation="and" start="42190" end="42370"><ph start="42240" end="42290" type="{"></ph><ph start="42290" end="42370" type="n"></ph></n></t> <t>succeeded<n pronunciation="succeeded" start="42370" end="43020"><ph start="42370" end="42450" type="s"></ph><ph start="42450" end="42480" type="V"></ph><ph start="42480" end="42540" type="k"></ph><ph start="42540" end="42670" type="s"></ph><ph start="42670" end="42780" type="i:"></ph><ph start="42780" end="42820" type="4"></ph><ph start="42820" end="42900" type="I"></ph><ph start="42900" end="43070" type="d"></ph></n></t> <t>St.<n pronunciation="saint" start="43050" end="43350"><ph start="43070" end="43190" type="s"></ph><ph start="43190" end="43280" type="eI"></ph><ph start="43280" end="43370" type="n"></ph></n></t> <t>Clement<n pronunciation="Clement" start="43350" end="43910"><ph start="43370" end="43460" type="k"></ph><ph start="43460" end="43510" type="l"></ph><ph start="43510" end="43590" type="E"></ph><ph start="43590" end="43630" type="m"></ph><ph start="43630" end="43700" type="V"></ph><ph start="43700" end="43790" type="n"></ph><ph start="43790" end="43860" type="t"></ph></n></t> <t>in<n pronunciation="in" start="44040" end="44200"><ph start="44080" end="44150" type="I"></ph><ph start="44150" end="44200" type="n"></ph></n></t> <t>the<n pronunciation="the" start="44200" end="44280"><ph start="44200" end="44230" type="D"></ph><ph start="44230" end="44280" type="V"></ph></n></t> <t>See<n pronunciation="See"><ph start="44280" end="44440" type="s"></ph><ph start="44440" end="44580" type="i:"></ph></n></t> <t>of<n pronunciation="of" start="44570" end="44730"><ph start="44580" end="44610" type="V"></ph><ph start="44610" end="44720" type="v"></ph></n></t> <t>Rome<n pronunciation="Rome" start="44730" end="45150"><ph start="44720" end="44790" type="r"></ph><ph start="44790" end="44950" type="@U"></ph><ph start="44950" end="45130" type="m"></ph></n></t><t>.</t></s></p>
+<p><s><t>Eusebius<n pronunciation="Eusebius" start="45910" end="46830"><ph start="45950" end="46020" type="j"></ph><ph start="46020" end="46050" type="u"></ph><ph start="46050" end="46200" type="s"></ph><ph start="46200" end="46290" type="i:"></ph><ph start="46290" end="46350" type="b"></ph><ph start="46350" end="46460" type="i:"></ph><ph start="46460" end="46570" type="I"></ph><ph start="46570" end="46770" type="s"></ph></n></t><t>,</t> <t>in<n pronunciation="in" start="47050" end="47240"><ph start="47100" end="47190" type="I"></ph><ph start="47190" end="47240" type="n"></ph></n></t> <t>his<n pronunciation="his" start="47240" end="47570"><ph start="47240" end="47330" type="h-"></ph><ph start="47330" end="47490" type="I"></ph><ph start="47490" end="47580" type="z"></ph></n></t> <t>Ecclesiastical<n pronunciation="Ecclesiastical" start="47570" end="48560"><ph start="47580" end="47650" type="?"></ph><ph start="47650" end="47700" type="E"></ph><ph start="47700" end="47820" type="k"></ph><ph start="47820" end="47850" type="l"></ph><ph start="47850" end="47930" type="i:"></ph><ph start="47930" end="48000" type="z"></ph><ph start="48000" end="48100" type="i:"></ph><ph start="48100" end="48250" type="{"></ph><ph start="48250" end="48300" type="s"></ph><ph start="48300" end="48370" type="t"></ph><ph start="48370" end="48410" type="I"></ph><ph start="48410" end="48470" type="k"></ph><ph start="48470" end="48500" type="V"></ph><ph start="48500" end="48560" type="l"></ph></n></t> <t>History<n pronunciation="History" start="48560" end="49070"><ph start="48560" end="48650" type="h"></ph><ph start="48650" end="48700" type="I"></ph><ph start="48700" end="48820" type="s"></ph><ph start="48820" end="48900" type="t"></ph><ph start="48900" end="48960" type="r"></ph><ph start="48960" end="49110" type="i:"></ph></n></t> <t>IV<n pronunciation="IV" start="49540" end="49760"><ph start="49110" end="49190" type="I"></ph><ph start="49190" end="49340" type="v"></ph></n></t><t>,</t> <t>I<n pronunciation="I"><ph start="49340" end="49480" type="?"></ph><ph start="49480" end="49580" type="aI"></ph></n></t><t>,</t> <t>stated<n pronunciation="stated" start="50350" end="50800"><ph start="50400" end="50470" type="s"></ph><ph start="50470" end="50550" type="t"></ph><ph start="50550" end="50650" type="eI"></ph><ph start="50650" end="50690" type="t"></ph><ph start="50690" end="50760" type="I"></ph><ph start="50760" end="50800" type="d"></ph></n></t> <t>that<n pronunciation="that" start="50800" end="50950"><ph start="50800" end="50840" type="D"></ph><ph start="50840" end="50890" type="{"></ph><ph start="50890" end="50920" type="t"></ph></n></t> <t>Evaristus<n pronunciation="Evaristus" start="50950" end="51620"><ph start="50920" end="50970" type="?"></ph><ph start="50970" end="51070" type="E"></ph><ph start="51070" end="51110" type="v"></ph><ph start="51110" end="51250" type="3`"></ph><ph start="51250" end="51300" type="I"></ph><ph start="51300" end="51380" type="s"></ph><ph start="51380" end="51440" type="t"></ph><ph start="51440" end="51490" type="V"></ph><ph start="51490" end="51600" type="s"></ph></n></t> <t>died<n pronunciation="died" start="51620" end="52130"><ph start="51650" end="51680" type="d"></ph><ph start="51680" end="52020" type="aI"></ph><ph start="52020" end="52080" type="d"></ph></n></t> <t>in<n pronunciation="in" start="52340" end="52490"><ph start="52380" end="52440" type="I"></ph><ph start="52440" end="52500" type="n"></ph></n></t> <t>the<n pronunciation="the" start="52490" end="52580"><ph start="52500" end="52530" type="D"></ph><ph start="52530" end="52570" type="V"></ph></n></t> <t>12th<n pronunciation="twelfth" start="52580" end="53000"><ph start="52570" end="52720" type="t"></ph><ph start="52720" end="52770" type="w"></ph><ph start="52770" end="52800" type="E"></ph><ph start="52800" end="52920" type="l"></ph><ph start="52920" end="52980" type="f"></ph><ph start="52980" end="53050" type="T"></ph></n></t> <t>year<n pronunciation="year" start="53150" end="53460"><ph start="53050" end="53270" type="j"></ph><ph start="53270" end="53340" type="I"></ph><ph start="53340" end="53460" type="r"></ph></n></t> <t>of<n pronunciation="of" start="53460" end="53590"><ph start="53460" end="53540" type="V"></ph><ph start="53540" end="53580" type="v"></ph></n></t> <t>the<n pronunciation="the" start="53590" end="53720"><ph start="53580" end="53630" type="D"></ph><ph start="53630" end="53660" type="V"></ph></n></t> <t>reign<n pronunciation="reign" start="53720" end="54200"><ph start="53660" end="53860" type="r"></ph><ph start="53860" end="53990" type="eI"></ph><ph start="53990" end="54160" type="n"></ph></n></t> <t>of<n pronunciation="of" start="54340" end="54520"><ph start="54420" end="54480" type="V"></ph><ph start="54480" end="54510" type="v"></ph></n></t> <t>the<n pronunciation="the" start="54520" end="54630"><ph start="54510" end="54560" type="D"></ph><ph start="54560" end="54590" type="V"></ph></n></t> <t>Roman<n pronunciation="Roman" start="54630" end="54930"><ph start="54590" end="54740" type="r"></ph><ph start="54740" end="54800" type="@U"></ph><ph start="54800" end="54850" type="m"></ph><ph start="54850" end="54880" type="V"></ph><ph start="54880" end="54970" type="n"></ph></n></t> <t>Emperor<n pronunciation="Emperor" start="54930" end="55310"><ph start="54970" end="55060" type="E"></ph><ph start="55060" end="55140" type="m"></ph><ph start="55140" end="55180" type="p"></ph><ph start="55180" end="55250" type="3`"></ph><ph start="55250" end="55350" type="3`"></ph></n></t> <t>Trajan<n pronunciation="Trajan" start="55310" end="55980"><ph start="55350" end="55460" type="t"></ph><ph start="55460" end="55560" type="r"></ph><ph start="55560" end="55660" type="eI"></ph><ph start="55660" end="55720" type="dZ"></ph><ph start="55720" end="55780" type="V"></ph><ph start="55780" end="55910" type="n"></ph></n></t><t>,</t> <t>after<n pronunciation="after" start="56090" end="56790"><ph start="56550" end="56640" type="{"></ph><ph start="56640" end="56670" type="f"></ph><ph start="56670" end="56720" type="t"></ph><ph start="56720" end="56800" type="3`"></ph></n></t> <t>holding<n pronunciation="holding" start="56790" end="57180"><ph start="56800" end="56890" type="h"></ph><ph start="56890" end="56950" type="@U"></ph><ph start="56950" end="57010" type="l"></ph><ph start="57010" end="57040" type="d"></ph><ph start="57040" end="57080" type="I"></ph><ph start="57080" end="57270" type="N"></ph></n></t> <t>the<n pronunciation="the"><ph start="57270" end="57300" type="D"></ph><ph start="57300" end="57330" type="V"></ph></n></t> <t>office<n pronunciation="office" start="57260" end="57660"><ph start="57330" end="57430" type="O:"></ph><ph start="57430" end="57510" type="f"></ph><ph start="57510" end="57560" type="V"></ph><ph start="57560" end="57670" type="s"></ph></n></t> <t>of<n pronunciation="of" start="57660" end="57730"><ph start="57670" end="57700" type="V"></ph><ph start="57700" end="57730" type="v"></ph></n></t> <t>bishop<n pronunciation="bishop" start="57780" end="58090"><ph start="57810" end="57840" type="b"></ph><ph start="57840" end="57920" type="I"></ph><ph start="57920" end="58050" type="S"></ph><ph start="58050" end="58110" type="V"></ph><ph start="58110" end="58170" type="p"></ph></n></t> <t>of<n pronunciation="of" start="58170" end="58300"><ph start="58170" end="58270" type="V"></ph><ph start="58270" end="58310" type="v"></ph></n></t> <t>the<n pronunciation="the" start="58300" end="58440"><ph start="58310" end="58340" type="D"></ph><ph start="58340" end="58370" type="V"></ph></n></t> <t>Romans<n pronunciation="Romans" start="58440" end="59010"><ph start="58370" end="58510" type="r"></ph><ph start="58510" end="58610" type="@U"></ph><ph start="58610" end="58700" type="m"></ph><ph start="58700" end="58730" type="V"></ph><ph start="58730" end="58870" type="n"></ph><ph start="58870" end="59010" type="z"></ph></n></t> <t>for<n pronunciation="for" start="59190" end="59440"><ph start="59250" end="59340" type="f"></ph><ph start="59340" end="59460" type="3`"></ph></n></t> <t>eight<n pronunciation="eight" start="59440" end="59700"><ph start="59460" end="59650" type="eI"></ph><ph start="59650" end="59690" type="t"></ph></n></t> <t>years<n pronunciation="years" start="59700" end="60310"><ph start="59690" end="59840" type="j"></ph><ph start="59840" end="59900" type="I"></ph><ph start="59900" end="60030" type="r"></ph><ph start="60030" end="60250" type="z"></ph></n></t><t>.</t></s> <s><t>He<n pronunciation="He" start="60420" end="60980"><ph start="60590" end="60900" type="h"></ph><ph start="60900" end="60990" type="i:"></ph></n></t> <t>is<n pronunciation="is" start="60980" end="61080"><ph start="60990" end="61050" type="I"></ph><ph start="61050" end="61090" type="z"></ph></n></t> <t>said<n pronunciation="said" start="61080" end="61410"><ph start="61090" end="61190" type="s"></ph><ph start="61190" end="61320" type="eI"></ph><ph start="61320" end="61410" type="d"></ph></n></t> <t>by<n pronunciation="by"><ph start="61410" end="61450" type="b"></ph><ph start="61450" end="61530" type="aI"></ph></n></t> <t>the<n pronunciation="the" start="61520" end="61640"><ph start="61530" end="61570" type="D"></ph><ph start="61570" end="61650" type="V"></ph></n></t> <t>Liber<n pronunciation="Liber" start="61640" end="61890"><ph start="61650" end="61740" type="l"></ph><ph start="61740" end="61820" type="I"></ph><ph start="61820" end="61850" type="b"></ph><ph start="61850" end="62000" type="3`"></ph></n></t> <t>Pontificalis<n pronunciation="Pontificalis" start="61960" end="62970"><ph start="62000" end="62040" type="p"></ph><ph start="62040" end="62120" type="A:"></ph><ph start="62120" end="62150" type="n"></ph><ph start="62150" end="62210" type="t"></ph><ph start="62210" end="62270" type="I"></ph><ph start="62270" end="62310" type="f"></ph><ph start="62310" end="62350" type="V"></ph><ph start="62350" end="62490" type="k"></ph><ph start="62490" end="62520" type="{"></ph><ph start="62520" end="62700" type="l"></ph><ph start="62700" end="62750" type="V"></ph><ph start="62750" end="62910" type="s"></ph></n></t> <t>to<n pronunciation="to" start="63290" end="63400"><ph start="63140" end="63170" type="t"></ph><ph start="63170" end="63200" type="u"></ph></n></t> <t>have<n pronunciation="have"><ph start="63280" end="63390" type="h"></ph><ph start="63390" end="63450" type="eI"></ph><ph start="63450" end="63510" type="v"></ph></n></t> <t>divided<n pronunciation="divided" start="63510" end="64050"><ph start="63510" end="63560" type="d"></ph><ph start="63560" end="63620" type="I"></ph><ph start="63620" end="63670" type="v"></ph><ph start="63670" end="63840" type="aI"></ph><ph start="63840" end="63880" type="4"></ph><ph start="63880" end="63940" type="I"></ph><ph start="63940" end="63970" type="d"></ph></n></t> <t>Rome<n pronunciation="Rome" start="64050" end="64440"><ph start="63970" end="64130" type="r"></ph><ph start="64130" end="64280" type="@U"></ph><ph start="64280" end="64420" type="m"></ph></n></t> <t>into<n pronunciation="into"><ph start="64720" end="64780" type="I"></ph><ph start="64780" end="64820" type="n"></ph><ph start="64820" end="64850" type="t"></ph><ph start="64850" end="64890" type="u"></ph></n></t> <t>several<n pronunciation="several" start="64970" end="65270"><ph start="64890" end="65020" type="s"></ph><ph start="65020" end="65120" type="E"></ph><ph start="65120" end="65170" type="v"></ph><ph start="65170" end="65210" type="3`"></ph><ph start="65210" end="65250" type="V"></ph><ph start="65250" end="65320" type="l"></ph></n></t> <t>"</t><t>titles<n pronunciation="titles" start="65270" end="65940"><ph start="65320" end="65440" type="t"></ph><ph start="65440" end="65560" type="aI"></ph><ph start="65560" end="65590" type="t"></ph><ph start="65590" end="65620" type="V"></ph><ph start="65620" end="65770" type="l"></ph><ph start="65770" end="65890" type="z"></ph></n></t><t>,</t><t>"</t> <t>or<n pronunciation="or" start="65940" end="66060"><ph start="65890" end="65980" type="?"></ph><ph start="65980" end="66060" type="O:"></ph><ph start="66060" end="66090" type="r"></ph></n></t> <t>parishes<n pronunciation="parishes" start="66060" end="66870"><ph start="66090" end="66190" type="p"></ph><ph start="66190" end="66250" type="E"></ph><ph start="66250" end="66350" type="r"></ph><ph start="66350" end="66380" type="I"></ph><ph start="66380" end="66510" type="S"></ph><ph start="66510" end="66650" type="I"></ph><ph start="66650" end="66820" type="z"></ph></n></t><t>,</t> <t>assigning<n pronunciation="assigning" start="67220" end="67820"><ph start="67260" end="67340" type="V"></ph><ph start="67340" end="67470" type="s"></ph><ph start="67470" end="67620" type="aI"></ph><ph start="67620" end="67680" type="n"></ph><ph start="67680" end="67740" type="I"></ph><ph start="67740" end="67860" type="N"></ph></n></t> <t>a<n pronunciation="a"><ph start="67860" end="67930" type="V"></ph></n></t> <t>priest<n pronunciation="priest" start="67960" end="68550"><ph start="67930" end="68080" type="p"></ph><ph start="68080" end="68120" type="r"></ph><ph start="68120" end="68230" type="i:"></ph><ph start="68230" end="68320" type="s"></ph><ph start="68320" end="68390" type="t"></ph></n></t> <t>to<n pronunciation="to"><ph start="68390" end="68540" type="t"></ph><ph start="68540" end="68635" type="u"></ph></n></t> <t>each<n pronunciation="each" start="68550" end="69110"><ph start="68635" end="68830" type="i:"></ph><ph start="68830" end="68860" type="T"></ph><ph start="68860" end="69060" type="S"></ph></n></t><t>,</t> <t>and<n pronunciation="and"><ph start="69670" end="69710" type="{"></ph><ph start="69710" end="69750" type="n"></ph></n></t> <t>appointed<n pronunciation="appointed" start="69230" end="70290"><ph start="69750" end="69820" type="V"></ph><ph start="69820" end="69940" type="p"></ph><ph start="69940" end="70040" type="OI"></ph><ph start="70040" end="70110" type="n"></ph><ph start="70110" end="70180" type="I"></ph><ph start="70180" end="70340" type="d"></ph></n></t> <t>seven<n pronunciation="seven" start="70320" end="70790"><ph start="70340" end="70480" type="s"></ph><ph start="70480" end="70570" type="E"></ph><ph start="70570" end="70630" type="v"></ph><ph start="70630" end="70660" type="V"></ph><ph start="70660" end="70770" type="n"></ph></n></t> <t>deacons<n pronunciation="deacons" start="70790" end="71320"><ph start="70770" end="70860" type="d"></ph><ph start="70860" end="70970" type="i:"></ph><ph start="70970" end="71050" type="k"></ph><ph start="71050" end="71090" type="V"></ph><ph start="71090" end="71230" type="n"></ph><ph start="71230" end="71375" type="z"></ph></n></t> <t>for<n pronunciation="for" start="71320" end="71520"><ph start="71375" end="71470" type="f"></ph><ph start="71470" end="71530" type="3`"></ph></n></t> <t>the<n pronunciation="the" start="71520" end="71640"><ph start="71530" end="71570" type="D"></ph><ph start="71570" end="71620" type="V"></ph></n></t> <t>city<n pronunciation="city" start="71640" end="72160"><ph start="71620" end="71770" type="s"></ph><ph start="71770" end="71840" type="I"></ph><ph start="71840" end="71890" type="4"></ph><ph start="71890" end="72020" type="i:"></ph></n></t><t>.</t></s></p>
+<p><s><t>He<n pronunciation="He" start="73090" end="73250" /></t> <t>is<n pronunciation="is" start="73250" end="73380" /></t> <t>usually<n pronunciation="usually" start="73380" end="73810" /></t> <t>accorded<n pronunciation="accorded" start="73810" end="74410" /></t> <t>the<n pronunciation="the" start="74440" end="74570" /></t> <t>title<n pronunciation="title" start="74570" end="74930" /></t> <t>of<n pronunciation="of" start="74930" end="75040" /></t> <t>martyr<n pronunciation="martyr" start="75040" end="75530" /></t><t>;</t> <t>however<n pronunciation="however" start="75930" end="76540" /></t><t>,</t> <t>there<n pronunciation="there" start="76570" end="76800" /></t> <t>is<n pronunciation="is" start="76800" end="76920" /></t> <t>no<n pronunciation="no" start="76920" end="77090" /></t> <t>confirmation<n pronunciation="confirmation" start="77090" end="77860" /></t> <t>of<n pronunciation="of" start="77860" end="78020" /></t> <t>this<n pronunciation="this" start="78020" end="78470" /></t> <t>in<n pronunciation="in" /></t> <t>the<n pronunciation="the" /></t> <t>case<n pronunciation="case" start="78830" end="79220" /></t> <t>of<n pronunciation="of" start="79220" end="79390" /></t> <t>Pope<n pronunciation="Pope" start="79390" end="79690" /></t> <t>Evaristus<n pronunciation="Evaristus" start="79690" end="80600" /></t><t>,</t> <t>who<n pronunciation="who" start="81020" end="81180" /></t> <t>is<n pronunciation="is" start="81180" end="81320" /></t> <t>listed<n pronunciation="listed" start="81320" end="81800" /></t> <t>without<n pronunciation="without" start="81800" end="82190" /></t> <t>that<n pronunciation="that" start="82190" end="82410" /></t> <t>title<n pronunciation="title" start="82410" end="82900" /></t> <t>in<n pronunciation="in" start="83150" end="83330" /></t> <t>the<n pronunciation="the" /></t> <t>Roman<n pronunciation="Roman" start="83420" end="83830" /></t> <t>Martyrology<n pronunciation="Martyrology" start="83830" end="84760" /></t><t>,</t> <t>with<n pronunciation="with" start="85140" end="85350" /></t> <t>a<n pronunciation="a" /></t> <t>feast<n pronunciation="feast" start="85350" end="85760" /></t> <t>day<n pronunciation="day" start="85760" end="86100" /></t> <t>on<n pronunciation="on" start="86130" end="86320" /></t> <t>26<n pronunciation="twenty" start="86820" end="87110" /><n pronunciation="six" start="87110" end="87540" /></t> <t>October<n pronunciation="October" /></t><t>.</t></s><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored> <s><t>It<n pronunciation="It" /></t> <t>is<n pronunciation="is" start="88450" end="88700" /></t> <t>probable<n pronunciation="probable" start="88700" end="89430" /></t> <t>that<n pronunciation="that" start="89580" end="89730" /></t> <t>St.<n pronunciation="saint" start="89730" end="90070" /></t> <t>Evaristus<n pronunciation="Evaristus" start="90070" end="90870" /></t> <t>was<n pronunciation="was" start="90950" end="91160" /></t> <t>buried<n pronunciation="buried" start="91160" end="91610" /></t> <t>near<n pronunciation="near" /></t> <t>St.<n pronunciation="saint" /></t> <t>Peter's<n pronunciation="Peter's" start="92190" end="92610" /></t> <t>tomb<n pronunciation="tomb" start="92610" end="92960" /></t> <t>in<n pronunciation="in" start="92960" end="93090" /></t> <t>the<n pronunciation="the" start="93090" end="93170" /></t> <t>Vatican<n pronunciation="Vatican" start="93170" end="93920" /></t><t>.</t></s><ignored><s><t>[</t><t>4<n pronunciation="four" /></t><t>]</t></s></ignored> <s><t>It<n pronunciation="It" start="94540" end="94650"><ph start="94560" end="94630" type="I"></ph><ph start="94630" end="94660" type="t"></ph></n></t> <t>is<n pronunciation="is" start="94650" end="94810"><ph start="94660" end="94710" type="I"></ph><ph start="94710" end="94810" type="z"></ph></n></t> <t>also<n pronunciation="also" start="94810" end="95130"><ph start="94810" end="94910" type="O:"></ph><ph start="94910" end="94970" type="l"></ph><ph start="94970" end="95080" type="s"></ph><ph start="95080" end="95140" type="@U"></ph></n></t> <t>probable<n pronunciation="probable" start="95130" end="95800"><ph start="95140" end="95250" type="p"></ph><ph start="95250" end="95350" type="r"></ph><ph start="95350" end="95390" type="A:"></ph><ph start="95390" end="95440" type="b"></ph><ph start="95440" end="95510" type="V"></ph><ph start="95510" end="95590" type="b"></ph><ph start="95590" end="95620" type="V"></ph><ph start="95620" end="95760" type="l"></ph></n></t> <t>that<n pronunciation="that"><ph start="96030" end="96060" type="D"></ph><ph start="96060" end="96110" type="{"></ph><ph start="96110" end="96170" type="t"></ph></n></t> <t>St.<n pronunciation="saint" start="96180" end="96440"><ph start="96170" end="96290" type="s"></ph><ph start="96290" end="96370" type="eI"></ph><ph start="96370" end="96420" type="n"></ph></n></t> <t>John<n pronunciation="John" start="96440" end="96790"><ph start="96420" end="96550" type="dZ"></ph><ph start="96550" end="96740" type="A:"></ph><ph start="96740" end="96810" type="n"></ph></n></t> <t>the<n pronunciation="the" start="96790" end="97000"><ph start="96810" end="96840" type="D"></ph><ph start="96840" end="96900" type="V"></ph></n></t> <t>apostle<n pronunciation="apostle" start="97000" end="97670"><ph start="96900" end="97010" type="?"></ph><ph start="97010" end="97070" type="V"></ph><ph start="97070" end="97200" type="p"></ph><ph start="97200" end="97310" type="O:"></ph><ph start="97310" end="97440" type="s"></ph><ph start="97440" end="97470" type="V"></ph><ph start="97470" end="97610" type="l"></ph></n></t> <t>died<n pronunciation="died" start="97810" end="98480"><ph start="97940" end="98020" type="d"></ph><ph start="98020" end="98350" type="aI"></ph><ph start="98350" end="98430" type="d"></ph></n></t> <t>during<n pronunciation="during" start="98690" end="98980"><ph start="98730" end="98760" type="d"></ph><ph start="98760" end="98820" type="3`"></ph><ph start="98820" end="98850" type="I"></ph><ph start="98850" end="98930" type="N"></ph></n></t> <t>the<n pronunciation="the"><ph start="98930" end="98960" type="D"></ph><ph start="98960" end="98990" type="V"></ph></n></t> <t>beginning<n pronunciation="beginning" start="98980" end="99530"><ph start="98990" end="99020" type="b"></ph><ph start="99020" end="99060" type="I"></ph><ph start="99060" end="99190" type="g"></ph><ph start="99190" end="99250" type="I"></ph><ph start="99250" end="99320" type="n"></ph><ph start="99320" end="99370" type="I"></ph><ph start="99370" end="99470" type="N"></ph></n></t> <t>of<n pronunciation="of" start="99610" end="99790"><ph start="99670" end="99720" type="V"></ph><ph start="99720" end="99780" type="v"></ph></n></t> <t>Evaristus<n pronunciation="Evaristus" start="99790" end="100340"><ph start="99780" end="99870" type="E"></ph><ph start="99870" end="99900" type="v"></ph><ph start="99900" end="100050" type="3`"></ph><ph start="100050" end="100100" type="I"></ph><ph start="100100" end="100210" type="s"></ph><ph start="100210" end="100340" type="t"></ph><ph start="100340" end="100500" type="I"></ph><ph start="100500" end="100590" type="s"></ph></n></t><t>'</t> <t>reign<n pronunciation="reign" start="100830" end="101340"><ph start="100890" end="101040" type="r"></ph><ph start="101040" end="101140" type="eI"></ph><ph start="101140" end="101270" type="n"></ph></n></t><t>.</t></s></p>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t>  <t>Herbermann<n pronunciation="Herbermann" /></t><t>,</t> <t>Charles<n pronunciation="Charles" /></t><t>,</t> <t>ed<n pronunciation="ed" /></t><t>.</t></s> <s><t>(</t><t>1913<n pronunciation="nineteen" /><n pronunciation="thirteen" /></t><t>)</t><t>.</t></s> <s><t>"</t><t>Pope<n pronunciation="Pope" /></t> <t>St.<n pronunciation="saint" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t><t>"</t><t>.</t></s> <s><t>Catholic<n pronunciation="Catholic" /></t> <t>Encyclopedia<n pronunciation="Encyclopedia" /></t><t>.</t></s> <s><t>New<n pronunciation="New" /></t> <t>York<n pronunciation="York" /></t><t>:</t> <t>Robert<n pronunciation="Robert" /></t> <t>Appleton<n pronunciation="Appleton" /></t> <t>Company<n pronunciation="Company" /></t><t>.</t></s> 
+<s><t>^<n pronunciation="^" /></t> <t>According<n pronunciation="According" /></t> <t>to<n pronunciation="to" /></t> <t>Annuario<n pronunciation="Annuario" /></t> <t>Pontificio<n pronunciation="Pontificio" /></t><t>,</t> <t>he<n pronunciation="he" /></t> <t>died<n pronunciation="died" /></t> <t>in<n pronunciation="in" /></t> <t>108<n pronunciation="108" /></t><t>.</t></s>
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Martyrologium<n pronunciation="Martyrologium" /></t> <t>Romanum<n pronunciation="Romanum" /></t><t>"</t> <t>(</t><t>Libreria<n pronunciation="Libreria" /></t> <t>Editrice<n pronunciation="Editrice" /></t> <t>Vaticana<n pronunciation="Vaticana" /></t> <t>2001<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="one" /></t> <t>ISBN<n pronunciation="ISBN" /></t> <t>88-209-7210-7<n pronunciation="eight" /><n pronunciation="eight" /><n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="nine" /><n pronunciation="seven" /><n pronunciation="two" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="seven" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Online<n pronunciation="Online" /></t> <t>–<n pronunciation="–" /></t> <t>Saints<n pronunciation="Saints" /></t> <t>&amp;<n pronunciation="and" /></t> <t>Angels<n pronunciation="Angels" /></t><t>:</t> <t>"</t><t>St.<n pronunciation="saint" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t><t>"</t></s></sectioncontent></section></ignored>
+
+
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>Wikimedia<n pronunciation="Wikimedia" /></t> <t>Commons<n pronunciation="Commons" /></t> <t>has<n pronunciation="has" /></t> <t>media<n pronunciation="media" /></t> <t>related<n pronunciation="related" /></t> <t>to<n pronunciation="to" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t> <t>I.<n pronunciation="I" /><n pronunciation="." /></t></s>
+
+
+
+<p><s><t>Writings<n pronunciation="Writings" /></t> <t>attributed<n pronunciation="attributed" /></t> <t>to<n pronunciation="to" /></t> <t>Pope<n pronunciation="Pope" /></t> <t>St<n pronunciation="saint" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t>
+<t>Patron<n pronunciation="Patron" /></t> <t>Saints<n pronunciation="Saints" /></t> <t>Index<n pronunciation="Index" /></t><t>:</t> <t>Pope<n pronunciation="Pope" /></t> <t>Saint<n pronunciation="Saint" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Online<n pronunciation="Online" /></t> <t>–<n pronunciation="–" /></t> <t>Saints<n pronunciation="Saints" /></t> <t>&amp;<n pronunciation="and" /></t> <t>Angels<n pronunciation="Angels" /></t><t>:</t> <t>St.<n pronunciation="saint" /></t> <t>Evaristus<n pronunciation="Evaristus" /></t>
+ <t>Chisholm<n pronunciation="Chisholm" /></t><t>,</t> <t>Hugh<n pronunciation="Hugh" /></t><t>,</t> <t>ed<n pronunciation="ed" /></t><t>.</t></s> <s><t>(</t><t>1911<n pronunciation="nineteen" /><n pronunciation="eleven" /></t><t>)</t><t>.</t></s> <s><t>"</t><t>Evaristus<n pronunciation="Evaristus" /></t><t>"</t><t>.</t></s> <s><t>Encyclopædia<n pronunciation="Encyclopadia" /></t> <t>Britannica<n pronunciation="Britannica" /></t> <t>(</t><t>11th<n pronunciation="eleventh" /></t> <t>ed<n pronunciation="ed" /></t><t>.</t><t>)</t><t>.</t></s> <s><t>Cambridge<n pronunciation="Cambridge" /></t> <t>University<n pronunciation="University" /></t> <t>Press<n pronunciation="Press" /></t><t>.</t></s></p> 
+
+
+
+<s><t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t> <t>titles<n pronunciation="titles" /></t></s>
+
+
+<s><t>Preceded<n pronunciation="Preceded" /></t> <t>by<n pronunciation="by" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>I<n pronunciation="I" /></t>
+<t>Bishop<n pronunciation="Bishop" /></t> <t>of<n pronunciation="of" /></t> <t>Rome<n pronunciation="Rome" /></t>
+<t>Pope<n pronunciation="Pope" /></t>
+<t>98<n pronunciation="ninety" /><n pronunciation="eight" /></t><t>–<n pronunciation="–" /></t><t>105<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="five" /></t>
+<t>Succeeded<n pronunciation="Succeeded" /></t> <t>by<n pronunciation="by" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>I<n pronunciation="I" /></t></s>
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Popes<n pronunciation="Popes" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t></s>
+
+
+
+
+
+
+<p><s><t>List<n pronunciation="List" /></t> <t>of<n pronunciation="of" /></t> <t>popes<n pronunciation="popes" /></t></s>
+
+<p><s><t>canonised<n pronunciation="canonised" /></t></s></p>
+
+
+<s><t>Tombs<n pronunciation="Tombs" /></t></s>
+
+<p><s><t>extant<n pronunciation="extant" /></t>
+<t>non-extant<n pronunciation="non" /><n pronunciation="extant" /></t></s></p>
+
+
+<s><t>Antipope<n pronunciation="Antipope" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>emeritus<n pronunciation="emeritus" /></t></s>
+
+<p><s><t>Papal<n pronunciation="Papal" /></t> <t>resignation<n pronunciation="resignation" /></t></s></p>
+
+
+<s><t>Pope-elect<n pronunciation="Pope" /><n pronunciation="elect" /></t></s></p>
+
+
+
+
+
+<s><t>1st<n pronunciation="first" /></t><t>–<n pronunciation="–" /></t><t>4th<n pronunciation="fourth" /></t> <t>centuries<n pronunciation="centuries" /></t>
+<t>During<n pronunciation="During" /></t> <t>the<n pronunciation="the" /></t> <t>Roman<n pronunciation="Roman" /></t> <t>Empire<n pronunciation="Empire" /></t> <t>(</t><t>until<n pronunciation="until" /></t> <t>493<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="ninety" /><n pronunciation="three" /></t><t>)</t>
+<t>including<n pronunciation="including" /></t> <t>under<n pronunciation="under" /></t> <t>Constantine<n pronunciation="Constantine" /></t> <t>(</t><t>312<n pronunciation="312" /></t><t>–<n pronunciation="–" /></t><t>337<n pronunciation="three" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="seven" /></t><t>)</t></s>
+
+
+
+<p><s><t>Peter<n pronunciation="Peter" /></t>
+<t>Linus<n pronunciation="Linus" /></t>
+<t>Anacletus<n pronunciation="Anacletus" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>I<n pronunciation="I" /></t>
+<t>Evaristus<n pronunciation="Evaristus" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>I<n pronunciation="I" /></t>
+<t>Sixtus<n pronunciation="Sixtus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Telesphorus<n pronunciation="Telesphorus" /></t>
+<t>Hyginus<n pronunciation="Hyginus" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>I<n pronunciation="I" /></t>
+<t>Anicetus<n pronunciation="Anicetus" /></t>
+<t>Soter<n pronunciation="Soter" /></t>
+<t>Eleuterus<n pronunciation="Eleuterus" /></t>
+<t>Victor<n pronunciation="Victor" /></t> <t>I<n pronunciation="I" /></t>
+<t>Zephyrinus<n pronunciation="Zephyrinus" /></t>
+<t>Callixtus<n pronunciation="Callixtus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>I<n pronunciation="I" /></t>
+<t>Pontian<n pronunciation="Pontian" /></t>
+<t>Anterus<n pronunciation="Anterus" /></t>
+<t>Fabian<n pronunciation="Fabian" /></t>
+<t>Cornelius<n pronunciation="Cornelius" /></t>
+<t>Lucius<n pronunciation="Lucius" /></t> <t>I<n pronunciation="I" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>I<n pronunciation="I" /></t>
+<t>Sixtus<n pronunciation="Sixtus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Dionysius<n pronunciation="Dionysius" /></t>
+<t>Felix<n pronunciation="Felix" /></t> <t>I<n pronunciation="I" /></t>
+<t>Eutychian<n pronunciation="Eutychian" /></t>
+<t>Caius<n pronunciation="Caius" /></t>
+<t>Marcellinus<n pronunciation="Marcellinus" /></t>
+<t>Marcellus<n pronunciation="Marcellus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Eusebius<n pronunciation="Eusebius" /></t>
+<t>Miltiades<n pronunciation="Miltiades" /></t>
+<t>Sylvester<n pronunciation="Sylvester" /></t> <t>I<n pronunciation="I" /></t>
+<t>Mark<n pronunciation="Mark" /></t>
+<t>Julius<n pronunciation="Julius" /></t> <t>I<n pronunciation="I" /></t>
+<t>Liberius<n pronunciation="Liberius" /></t>
+<t>Damasus<n pronunciation="Damasus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Siricius<n pronunciation="Siricius" /></t>
+<t>Anastasius<n pronunciation="Anastasius" /></t> <t>I<n pronunciation="I" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>5th<n pronunciation="fifth" /></t><t>–<n pronunciation="–" /></t><t>8th<n pronunciation="eighth" /></t> <t>centuries<n pronunciation="centuries" /></t>
+<t>Ostrogothic<n pronunciation="Ostrogothic" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>493<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="ninety" /><n pronunciation="three" /></t><t>–<n pronunciation="–" /></t><t>537<n pronunciation="five" /><n pronunciation="hundred" /><n pronunciation="thirty" /><n pronunciation="seven" /></t><t>)</t>
+<t>Byzantine<n pronunciation="Byzantine" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>537<n pronunciation="537" /></t><t>–<n pronunciation="–" /></t><t>752<n pronunciation="seven" /><n pronunciation="hundred" /><n pronunciation="fifty" /><n pronunciation="two" /></t><t>)</t>
+<t>Frankish<n pronunciation="Frankish" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>756<n pronunciation="756" /></t><t>–<n pronunciation="–" /></t><t>857<n pronunciation="eight" /><n pronunciation="hundred" /><n pronunciation="fifty" /><n pronunciation="seven" /></t><t>)</t></s>
+
+
+
+<p><s><t>Innocent<n pronunciation="Innocent" /></t> <t>I<n pronunciation="I" /></t>
+<t>Zosimus<n pronunciation="Zosimus" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>I<n pronunciation="I" /></t>
+<t>Celestine<n pronunciation="Celestine" /></t> <t>I<n pronunciation="I" /></t>
+<t>Sixtus<n pronunciation="Sixtus" /></t> <t>III<n pronunciation="III" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>I<n pronunciation="I" /></t>
+<t>Hilarius<n pronunciation="Hilarius" /></t>
+<t>Simplicius<n pronunciation="Simplicius" /></t>
+<t>Felix<n pronunciation="Felix" /></t> <t>III<n pronunciation="III" /></t>
+<t>Gelasius<n pronunciation="Gelasius" /></t> <t>I<n pronunciation="I" /></t>
+<t>Anastasius<n pronunciation="Anastasius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Symmachus<n pronunciation="Symmachus" /></t>
+<t>Hormisdas<n pronunciation="Hormisdas" /></t>
+<t>John<n pronunciation="John" /></t> <t>I<n pronunciation="I" /></t>
+<t>Felix<n pronunciation="Felix" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>II<n pronunciation="II" /></t>
+<t>Agapetus<n pronunciation="Agapetus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Silverius<n pronunciation="Silverius" /></t>
+<t>Vigilius<n pronunciation="Vigilius" /></t>
+<t>Pelagius<n pronunciation="Pelagius" /></t> <t>I<n pronunciation="I" /></t>
+<t>John<n pronunciation="John" /></t> <t>III<n pronunciation="III" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>I<n pronunciation="I" /></t>
+<t>Pelagius<n pronunciation="Pelagius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>I<n pronunciation="I" /></t>
+<t>Sabinian<n pronunciation="Sabinian" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>III<n pronunciation="III" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Adeodatus<n pronunciation="Adeodatus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>V<n pronunciation="V" /></t>
+<t>Honorius<n pronunciation="Honorius" /></t> <t>I<n pronunciation="I" /></t>
+<t>Severinus<n pronunciation="Severinus" /></t>
+<t>John<n pronunciation="John" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Theodore<n pronunciation="Theodore" /></t> <t>I<n pronunciation="I" /></t>
+<t>Martin<n pronunciation="Martin" /></t> <t>I<n pronunciation="I" /></t>
+<t>Eugene<n pronunciation="Eugene" /></t> <t>I<n pronunciation="I" /></t>
+<t>Vitalian<n pronunciation="Vitalian" /></t>
+<t>Adeodatus<n pronunciation="Adeodatus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Donus<n pronunciation="Donus" /></t>
+<t>Agatho<n pronunciation="Agatho" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>II<n pronunciation="II" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>V<n pronunciation="V" /></t>
+<t>Conon<n pronunciation="Conon" /></t>
+<t>Sergius<n pronunciation="Sergius" /></t> <t>I<n pronunciation="I" /></t>
+<t>John<n pronunciation="John" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>John<n pronunciation="John" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Sisinnius<n pronunciation="Sisinnius" /></t>
+<t>Constantine<n pronunciation="Constantine" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>II<n pronunciation="II" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>III<n pronunciation="III" /></t>
+<t>Zachary<n pronunciation="Zachary" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>II<n pronunciation="II" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>I<n pronunciation="I" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>III<n pronunciation="III" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>I<n pronunciation="I" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>III<n pronunciation="III" /></t></s></p>
+
+
+
+
+
+<s><t>9th<n pronunciation="ninth" /></t><t>–<n pronunciation="–" /></t><t>12th<n pronunciation="twelfth" /></t> <t>centuries<n pronunciation="centuries" /></t>
+<t>Papal<n pronunciation="Papal" /></t> <t>selection<n pronunciation="selection" /></t> <t>before<n pronunciation="before" /></t> <t>1059<n pronunciation="ten" /><n pronunciation="fifty" /><n pronunciation="nine" /></t>
+<t>Saeculum<n pronunciation="Saeculum" /></t> <t>obscurum<n pronunciation="obscurum" /></t> <t>(</t><t>904<n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="four" /></t><t>–<n pronunciation="–" /></t><t>964<n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="sixty" /><n pronunciation="four" /></t><t>)</t>
+<t>Crescentii<n pronunciation="Crescentii" /></t> <t>era<n pronunciation="era" /></t> <t>(</t><t>974<n pronunciation="974" /></t><t>–<n pronunciation="–" /></t><t>1012<n pronunciation="ten" /><n pronunciation="twelve" /></t><t>)</t>
+<t>Tusculan<n pronunciation="Tusculan" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1012<n pronunciation="1012" /></t><t>–<n pronunciation="–" /></t><t>1044/1048<n pronunciation="ten" /><n pronunciation="forty" /><n pronunciation="four" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="ten" /><n pronunciation="forty" /><n pronunciation="eight" /></t><t>)</t>
+<t>Imperial<n pronunciation="Imperial" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1048<n pronunciation="1048" /></t><t>–<n pronunciation="–" /></t><t>1257<n pronunciation="twelve" /><n pronunciation="fifty" /><n pronunciation="seven" /></t><t>)</t></s>
+
+
+
+<p><s><t>Stephen<n pronunciation="Stephen" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Paschal<n pronunciation="Paschal" /></t> <t>I<n pronunciation="I" /></t>
+<t>Eugene<n pronunciation="Eugene" /></t> <t>II<n pronunciation="II" /></t>
+<t>Valentine<n pronunciation="Valentine" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Sergius<n pronunciation="Sergius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>III<n pronunciation="III" /></t>
+<t>Nicholas<n pronunciation="Nicholas" /></t> <t>I<n pronunciation="I" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Marinus<n pronunciation="Marinus" /></t> <t>I<n pronunciation="I" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>III<n pronunciation="III" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>V<n pronunciation="V" /></t>
+<t>Formosus<n pronunciation="Formosus" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Romanus<n pronunciation="Romanus" /></t>
+<t>Theodore<n pronunciation="Theodore" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>V<n pronunciation="V" /></t>
+<t>Sergius<n pronunciation="Sergius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Anastasius<n pronunciation="Anastasius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Lando<n pronunciation="Lando" /></t>
+<t>John<n pronunciation="John" /></t> <t>X<n pronunciation="X" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Marinus<n pronunciation="Marinus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Agapetus<n pronunciation="Agapetus" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>V<n pronunciation="V" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XIV<n pronunciation="XIV" /></t>
+<t>John<n pronunciation="John" /></t> <t>XV<n pronunciation="X" /><n pronunciation="V" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>V<n pronunciation="V" /></t>
+<t>Sylvester<n pronunciation="Sylvester" /></t> <t>II<n pronunciation="II" /></t>
+<t>John<n pronunciation="John" /></t> <t>XVII<n pronunciation="XVII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XVIII<n pronunciation="XVIII" /></t>
+<t>Sergius<n pronunciation="Sergius" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XIX<n pronunciation="XIX" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Sylvester<n pronunciation="Sylvester" /></t> <t>III<n pronunciation="III" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>II<n pronunciation="II" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Damasus<n pronunciation="Damasus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Victor<n pronunciation="Victor" /></t> <t>II<n pronunciation="II" /></t>
+<t>Stephen<n pronunciation="Stephen" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Nicholas<n pronunciation="Nicholas" /></t> <t>II<n pronunciation="II" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>II<n pronunciation="II" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Victor<n pronunciation="Victor" /></t> <t>III<n pronunciation="III" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>II<n pronunciation="II" /></t>
+<t>Paschal<n pronunciation="Paschal" /></t> <t>II<n pronunciation="II" /></t>
+<t>Gelasius<n pronunciation="Gelasius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Callixtus<n pronunciation="Callixtus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Honorius<n pronunciation="Honorius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>II<n pronunciation="II" /></t>
+<t>Celestine<n pronunciation="Celestine" /></t> <t>II<n pronunciation="II" /></t>
+<t>Lucius<n pronunciation="Lucius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Eugene<n pronunciation="Eugene" /></t> <t>III<n pronunciation="III" /></t>
+<t>Anastasius<n pronunciation="Anastasius" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>III<n pronunciation="III" /></t>
+<t>Lucius<n pronunciation="Lucius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>III<n pronunciation="III" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>III<n pronunciation="III" /></t>
+<t>Celestine<n pronunciation="Celestine" /></t> <t>III<n pronunciation="III" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>III<n pronunciation="III" /></t></s></p>
+
+
+
+
+
+<s><t>13th<n pronunciation="thirteenth" /></t><t>–<n pronunciation="–" /></t><t>16th<n pronunciation="sixteenth" /></t> <t>centuries<n pronunciation="centuries" /></t>
+<t>Viterbo<n pronunciation="Viterbo" /></t> <t>(</t><t>1257<n pronunciation="twelve" /><n pronunciation="fifty" /><n pronunciation="seven" /></t><t>–<n pronunciation="–" /></t><t>1281<n pronunciation="twelve" /><n pronunciation="eighty" /><n pronunciation="one" /></t><t>)</t>
+<t>Orvieto<n pronunciation="Orvieto" /></t> <t>(</t><t>1262<n pronunciation="1262" /></t><t>–<n pronunciation="–" /></t><t>1297<n pronunciation="twelve" /><n pronunciation="ninety" /><n pronunciation="seven" /></t><t>)</t>
+<t>Perugia<n pronunciation="Perugia" /></t> <t>(</t><t>1228<n pronunciation="1228" /></t><t>–<n pronunciation="–" /></t><t>1304<n pronunciation="thirteen" /><n pronunciation="oh" /><n pronunciation="four" /></t><t>)</t>
+<t>Avignon<n pronunciation="Avignon" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1309<n pronunciation="1309" /></t><t>–<n pronunciation="–" /></t><t>1378<n pronunciation="thirteen" /><n pronunciation="seventy" /><n pronunciation="eight" /></t><t>)</t>
+<t>Western<n pronunciation="Western" /></t> <t>Schism<n pronunciation="Schism" /></t> <t>(</t><t>1378<n pronunciation="1378" /></t><t>–<n pronunciation="–" /></t><t>1417<n pronunciation="fourteen" /><n pronunciation="seventeen" /></t><t>)</t>
+<t>Renaissance<n pronunciation="Renaissance" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1417<n pronunciation="1417" /></t><t>–<n pronunciation="–" /></t><t>1534<n pronunciation="fifteen" /><n pronunciation="thirty" /><n pronunciation="four" /></t><t>)</t>
+<t>Reformation<n pronunciation="Reformation" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1534<n pronunciation="1534" /></t><t>–<n pronunciation="–" /></t><t>1585<n pronunciation="fifteen" /><n pronunciation="eighty" /><n pronunciation="five" /></t><t>)</t>
+<t>Baroque<n pronunciation="Baroque" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1585<n pronunciation="1585" /></t><t>–<n pronunciation="–" /></t><t>1689<n pronunciation="sixteen" /><n pronunciation="eighty" /><n pronunciation="nine" /></t><t>)</t></s>
+
+
+
+<p><s><t>Honorius<n pronunciation="Honorius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Celestine<n pronunciation="Celestine" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>X<n pronunciation="X" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>V<n pronunciation="V" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>V<n pronunciation="V" /></t>
+<t>John<n pronunciation="John" /></t> <t>XXI<n pronunciation="XXI" /></t>
+<t>Nicholas<n pronunciation="Nicholas" /></t> <t>III<n pronunciation="III" /></t>
+<t>Martin<n pronunciation="Martin" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Honorius<n pronunciation="Honorius" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Nicholas<n pronunciation="Nicholas" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Celestine<n pronunciation="Celestine" /></t> <t>V<n pronunciation="V" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>V<n pronunciation="V" /></t>
+<t>John<n pronunciation="John" /></t> <t>XXII<n pronunciation="XXII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>V<n pronunciation="V" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Boniface<n pronunciation="Boniface" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Martin<n pronunciation="Martin" /></t> <t>V<n pronunciation="V" /></t>
+<t>Eugene<n pronunciation="Eugene" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Nicholas<n pronunciation="Nicholas" /></t> <t>V<n pronunciation="V" /></t>
+<t>Callixtus<n pronunciation="Callixtus" /></t> <t>III<n pronunciation="III" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>II<n pronunciation="II" /></t>
+<t>Sixtus<n pronunciation="Sixtus" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Julius<n pronunciation="Julius" /></t> <t>II<n pronunciation="II" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>X<n pronunciation="X" /></t>
+<t>Adrian<n pronunciation="Adrian" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>III<n pronunciation="III" /></t>
+<t>Julius<n pronunciation="Julius" /></t> <t>III<n pronunciation="III" /></t>
+<t>Marcellus<n pronunciation="Marcellus" /></t> <t>II<n pronunciation="II" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>IV<n pronunciation="IV" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>V<n pronunciation="V" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Sixtus<n pronunciation="Sixtus" /></t> <t>V<n pronunciation="V" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XIV<n pronunciation="XIV" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>VIII<n pronunciation="VIII" /></t></s></p>
+
+
+
+
+
+<s><t>17th<n pronunciation="seventeenth" /></t><t>–<n pronunciation="–" /></t><t>20th<n pronunciation="twentieth" /></t> <t>centuries<n pronunciation="centuries" /></t>
+<t>Revolutionary<n pronunciation="Revolutionary" /></t> <t>Papacy<n pronunciation="Papacy" /></t> <t>(</t><t>1775<n pronunciation="seventeen" /><n pronunciation="seventy" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>1848<n pronunciation="eighteen" /><n pronunciation="forty" /><n pronunciation="eight" /></t><t>)</t>
+<t>Roman<n pronunciation="Roman" /></t> <t>Question<n pronunciation="Question" /></t> <t>(</t><t>1870<n pronunciation="1870" /></t><t>–<n pronunciation="–" /></t><t>1929<n pronunciation="nineteen" /><n pronunciation="twenty" /><n pronunciation="nine" /></t><t>)</t>
+<t>Vatican<n pronunciation="Vatican" /></t> <t>City<n pronunciation="City" /></t> <t>(</t><t>1929<n pronunciation="1929" /></t><t>–<n pronunciation="–" /></t><t>present<n pronunciation="present" /></t><t>)</t>
+<t>World<n pronunciation="World" /></t> <t>War<n pronunciation="War" /></t> <t>II<n pronunciation="II" /></t> <t>(</t><t>1939<n pronunciation="1939" /></t><t>–<n pronunciation="–" /></t><t>1945<n pronunciation="nineteen" /><n pronunciation="forty" /><n pronunciation="five" /></t><t>)</t>
+<t>Cold<n pronunciation="Cold" /></t> <t>War<n pronunciation="War" /></t> <t>(</t><t>1945<n pronunciation="1945" /></t><t>–<n pronunciation="–" /></t><t>1991<n pronunciation="nineteen" /><n pronunciation="ninety" /><n pronunciation="one" /></t><t>)</t></s>
+
+
+
+<p><s><t>Leo<n pronunciation="Leo" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>V<n pronunciation="V" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XV<n pronunciation="X" /><n pronunciation="V" /></t>
+<t>Urban<n pronunciation="Urban" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>X<n pronunciation="X" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>X<n pronunciation="X" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Alexander<n pronunciation="Alexander" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Innocent<n pronunciation="Innocent" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>XIV<n pronunciation="XIV" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Clement<n pronunciation="Clement" /></t> <t>XIV<n pronunciation="XIV" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>XVI<n pronunciation="XVI" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>X<n pronunciation="X" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>XV<n pronunciation="X" /><n pronunciation="V" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Pius<n pronunciation="Pius" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>John<n pronunciation="John" /></t> <t>XXIII<n pronunciation="XXIII" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>John<n pronunciation="John" /></t> <t>Paul<n pronunciation="Paul" /></t> <t>I<n pronunciation="I" /></t>
+<t>John<n pronunciation="John" /></t> <t>Paul<n pronunciation="Paul" /></t> <t>II<n pronunciation="II" /></t></s></p>
+
+
+
+
+
+<s><t>21st<n pronunciation="twenty" /><n pronunciation="first" /></t> <t>century<n pronunciation="century" /></t></s>
+
+
+
+<p><s><t>Benedict<n pronunciation="Benedict" /></t> <t>XVI<n pronunciation="XVI" /></t>
+<t>Francis<n pronunciation="Francis" /></t></s></p>
+
+
+
+
+
+
+
+
+ <p><s><t>Book<n pronunciation="Book" /></t>
+ <t>Category<n pronunciation="Category" /></t>
+ <t>Pope<n pronunciation="Pope" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Catholicism<n pronunciation="Catholicism" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t></s>
+
+
+
+<s><t>History<n pronunciation="History" /></t>
+<t>(</t><t>Timeline<n pronunciation="Timeline" /></t><t>)</t></s>
+
+
+
+<p><s><t>Jesus<n pronunciation="Jesus" /></t>
+<t>Holy<n pronunciation="Holy" /></t> <t>Family<n pronunciation="Family" /></t></s>
+
+<p><s><t>Mary<n pronunciation="Mary" /></t>
+<t>Joseph<n pronunciation="Joseph" /></t></s></p>
+
+
+<s><t>Apostles<n pronunciation="Apostles" /></t>
+<t>Early<n pronunciation="Early" /></t> <t>Christianity<n pronunciation="Christianity" /></t>
+<t>History<n pronunciation="History" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>papacy<n pronunciation="papacy" /></t>
+<t>Ecumenical<n pronunciation="Ecumenical" /></t> <t>Councils<n pronunciation="Councils" /></t>
+<t>Missions<n pronunciation="Missions" /></t>
+<t>Great<n pronunciation="Great" /></t> <t>Schism<n pronunciation="Schism" /></t> <t>of<n pronunciation="of" /></t> <t>East<n pronunciation="East" /></t>
+<t>Crusades<n pronunciation="Crusades" /></t>
+<t>Great<n pronunciation="Great" /></t> <t>Schism<n pronunciation="Schism" /></t> <t>of<n pronunciation="of" /></t> <t>West<n pronunciation="West" /></t>
+<t>Protestant<n pronunciation="Protestant" /></t> <t>Reformation<n pronunciation="Reformation" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Trent<n pronunciation="Trent" /></t>
+<t>Counter-Reformation<n pronunciation="Counter" /><n pronunciation="Reformation" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t> <t>by<n pronunciation="by" /></t> <t>country<n pronunciation="country" /></t>
+<t>Vatican<n pronunciation="Vatican" /></t> <t>City<n pronunciation="City" /></t></s>
+
+<p><s><t>index<n pronunciation="index" /></t></s></p>
+
+</p>
+
+
+
+
+<s><t>Vatican<n pronunciation="Vatican" /></t> <t>II<n pronunciation="II" /></t></s>
+
+
+
+<p><s><t>Definition<n pronunciation="Definition" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Church<n pronunciation="Church" /></t>
+<t>Dei<n pronunciation="Dei" /></t> <t>verbum<n pronunciation="verbum" /></t>
+<t>Gaudium<n pronunciation="Gaudium" /></t> <t>et<n pronunciation="et" /></t> <t>spes<n pronunciation="spes" /></t>
+<t>Lumen<n pronunciation="Lumen" /></t> <t>gentium<n pronunciation="gentium" /></t>
+<t>Nostra<n pronunciation="Nostra" /></t> <t>aetate<n pronunciation="aetate" /></t>
+<t>Sacrosanctum<n pronunciation="Sacrosanctum" /></t> <t>Concilium<n pronunciation="Concilium" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<s><t>Hierarchy<n pronunciation="Hierarchy" /></t>
+<t>(</t><t>Precedence<n pronunciation="Precedence" /></t><t>)</t></s>
+
+
+
+
+<s><t>Pope<n pronunciation="Pope" /></t> <t>(</t><t>List<n pronunciation="List" /></t><t>)</t></s>
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Francis<n pronunciation="Francis" /></t> <t>(</t><t>2013<n pronunciation="twenty" /><n pronunciation="thirteen" /></t><t>–<n pronunciation="–" /></t><t>)</t></s>
+
+<p><s><t>conclave<n pronunciation="conclave" /></t>
+<t>inauguration<n pronunciation="inauguration" /></t>
+<t>theology<n pronunciation="theology" /></t>
+<t>canonizations<n pronunciation="canonizations" /></t>
+<t>visits<n pronunciation="visits" /></t></s></p>
+
+
+<s><t>Pope<n pronunciation="Pope" /></t> <t>Emeritus<n pronunciation="Emeritus" /></t> <t>Benedict<n pronunciation="Benedict" /></t> <t>XVI<n pronunciation="XVI" /></t> <t>(</t><t>2005<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="five" /></t><t>–<n pronunciation="–" /></t><t>2013<n pronunciation="twenty" /><n pronunciation="thirteen" /></t><t>)</t></s></p>
+
+
+
+
+
+
+
+<p><s><t>Roman<n pronunciation="Roman" /></t> <t>Curia<n pronunciation="Curia" /></t>
+<t>College<n pronunciation="College" /></t> <t>of<n pronunciation="of" /></t> <t>Cardinals<n pronunciation="Cardinals" /></t></s>
+
+<p><s><t>Cardinal<n pronunciation="Cardinal" /></t></s></p>
+
+
+<s><t>Patriarch<n pronunciation="Patriarch" /></t>
+<t>Major<n pronunciation="Major" /></t> <t>archbishop<n pronunciation="archbishop" /></t>
+<t>Primate<n pronunciation="Primate" /></t>
+<t>Metropolitan<n pronunciation="Metropolitan" /></t>
+<t>Archbishop<n pronunciation="Archbishop" /></t>
+<t>Diocesan<n pronunciation="Diocesan" /></t> <t>bishop<n pronunciation="bishop" /></t>
+<t>Coadjutor<n pronunciation="Coadjutor" /></t> <t>bishop<n pronunciation="bishop" /></t>
+<t>Auxiliary<n pronunciation="Auxiliary" /></t> <t>bishop<n pronunciation="bishop" /></t>
+<t>Titular<n pronunciation="Titular" /></t> <t>bishop<n pronunciation="bishop" /></t>
+<t>Bishop<n pronunciation="Bishop" /></t> <t>emeritus<n pronunciation="emeritus" /></t>
+<t>Priest<n pronunciation="Priest" /></t>
+<t>Abbot<n pronunciation="Abbot" /></t>
+<t>Abbess<n pronunciation="Abbess" /></t>
+<t>Brother<n pronunciation="Brother" /></t>
+<t>Monk<n pronunciation="Monk" /></t>
+<t>Hermit<n pronunciation="Hermit" /></t>
+<t>Friar<n pronunciation="Friar" /></t>
+<t>Nun<n pronunciation="Nun" /></t>
+<t>Master<n pronunciation="Master" /></t> <t>of<n pronunciation="of" /></t> <t>novices<n pronunciation="novices" /></t>
+<t>Novice<n pronunciation="Novice" /></t>
+<t>Oblate<n pronunciation="Oblate" /></t>
+<t>Postulant<n pronunciation="Postulant" /></t>
+<t>Provincial<n pronunciation="Provincial" /></t> <t>superior<n pronunciation="superior" /></t>
+<t>Prior<n pronunciation="Prior" /></t>
+<t>Superior<n pronunciation="Superior" /></t> <t>general<n pronunciation="general" /></t>
+<t>Laity<n pronunciation="Laity" /></t></s></p>
+
+
+
+
+
+<s><t>Theology<n pronunciation="Theology" /></t></s>
+
+
+
+<p><s><t>Body<n pronunciation="Body" /></t> <t>and<n pronunciation="and" /></t> <t>soul<n pronunciation="soul" /></t>
+<t>Catechism<n pronunciation="Catechism" /></t>
+<t>Divine<n pronunciation="Divine" /></t> <t>grace<n pronunciation="grace" /></t>
+<t>Dogma<n pronunciation="Dogma" /></t>
+<t>Ecclesiology<n pronunciation="Ecclesiology" /></t></s>
+
+<p><s><t>Four<n pronunciation="Four" /></t> <t>Marks<n pronunciation="Marks" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Church<n pronunciation="Church" /></t></s></p>
+
+
+<s><t>Original<n pronunciation="Original" /></t> <t>sin<n pronunciation="sin" /></t>
+<t>Saint<n pronunciation="Saint" /></t></s>
+
+<p><s><t>List<n pronunciation="List" /></t></s></p>
+
+
+<s><t>Salvation<n pronunciation="Salvation" /></t>
+<t>Sermon<n pronunciation="Sermon" /></t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" /></t> <t>Mount<n pronunciation="Mount" /></t>
+<t>Ten<n pronunciation="Ten" /></t> <t>Commandments<n pronunciation="Commandments" /></t>
+<t>Trinity<n pronunciation="Trinity" /></t>
+<t>Worship<n pronunciation="Worship" /></t></s></p>
+
+
+
+
+<s><t>Mariology<n pronunciation="Mariology" /></t></s>
+
+
+
+<p><s><t>Assumption<n pronunciation="Assumption" /></t>
+<t>History<n pronunciation="History" /></t>
+<t>Immaculate<n pronunciation="Immaculate" /></t> <t>Conception<n pronunciation="Conception" /></t>
+<t>Mariology<n pronunciation="Mariology" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>popes<n pronunciation="popes" /></t>
+<t>Mariology<n pronunciation="Mariology" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>saints<n pronunciation="saints" /></t>
+<t>Mother<n pronunciation="Mother" /></t> <t>of<n pronunciation="of" /></t> <t>God<n pronunciation="God" /></t>
+<t>Perpetual<n pronunciation="Perpetual" /></t> <t>virginity<n pronunciation="virginity" /></t>
+<t>Veneration<n pronunciation="Veneration" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Philosophy<n pronunciation="Philosophy" /></t></s>
+
+
+
+<p><s><t>Natural<n pronunciation="Natural" /></t> <t>law<n pronunciation="law" /></t>
+<t>Moral<n pronunciation="Moral" /></t> <t>theology<n pronunciation="theology" /></t>
+<t>Personalism<n pronunciation="Personalism" /></t>
+<t>Social<n pronunciation="Social" /></t> <t>teaching<n pronunciation="teaching" /></t>
+<t>Philosophers<n pronunciation="Philosophers" /></t></s></p>
+
+
+
+
+
+<s><t>Sacraments<n pronunciation="Sacraments" /></t></s>
+
+
+
+<p><s><t>Baptism<n pronunciation="Baptism" /></t>
+<t>Confirmation<n pronunciation="Confirmation" /></t>
+<t>Eucharist<n pronunciation="Eucharist" /></t>
+<t>Penance<n pronunciation="Penance" /></t>
+<t>Anointing<n pronunciation="Anointing" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Sick<n pronunciation="Sick" /></t></s>
+
+<p><s><t>Last<n pronunciation="Last" /></t> <t>rites<n pronunciation="rites" /></t></s></p>
+
+
+<s><t>Holy<n pronunciation="Holy" /></t> <t>orders<n pronunciation="orders" /></t>
+<t>Matrimony<n pronunciation="Matrimony" /></t></s></p>
+
+
+
+
+
+<s><t>Saints<n pronunciation="Saints" /></t></s>
+
+
+
+<p><s><t>Mary<n pronunciation="Mary" /></t>
+<t>Apostles<n pronunciation="Apostles" /></t>
+<t>Archangels<n pronunciation="Archangels" /></t>
+<t>Confessors<n pronunciation="Confessors" /></t>
+<t>Disciples<n pronunciation="Disciples" /></t>
+<t>Doctors<n pronunciation="Doctors" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Church<n pronunciation="Church" /></t>
+<t>Evangelists<n pronunciation="Evangelists" /></t>
+<t>Church<n pronunciation="Church" /></t> <t>Fathers<n pronunciation="Fathers" /></t>
+<t>Martyrs<n pronunciation="Martyrs" /></t>
+<t>Patriarchs<n pronunciation="Patriarchs" /></t>
+<t>Prophets<n pronunciation="Prophets" /></t>
+<t>Virgins<n pronunciation="Virgins" /></t></s></p>
+
+
+
+
+
+<s><t>Doctors<n pronunciation="Doctors" /></t>
+<t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t>
+<t>Church<n pronunciation="Church" /></t></s>
+
+
+
+
+
+
+
+<p><s><t>Gregory<n pronunciation="Gregory" /></t> <t>the<n pronunciation="the" /></t> <t>Great<n pronunciation="Great" /></t>
+<t>Ambrose<n pronunciation="Ambrose" /></t>
+<t>Augustine<n pronunciation="Augustine" /></t> <t>of<n pronunciation="of" /></t> <t>Hippo<n pronunciation="Hippo" /></t>
+<t>Jerome<n pronunciation="Jerome" /></t>
+<t>John<n pronunciation="John" /></t> <t>Chrysostom<n pronunciation="Chrysostom" /></t>
+<t>Basil<n pronunciation="Basil" /></t> <t>of<n pronunciation="of" /></t> <t>Caesarea<n pronunciation="Caesarea" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>of<n pronunciation="of" /></t> <t>Nazianzus<n pronunciation="Nazianzus" /></t>
+<t>Athanasius<n pronunciation="Athanasius" /></t> <t>of<n pronunciation="of" /></t> <t>Alexandria<n pronunciation="Alexandria" /></t>
+<t>Cyril<n pronunciation="Cyril" /></t> <t>of<n pronunciation="of" /></t> <t>Alexandria<n pronunciation="Alexandria" /></t>
+<t>Cyril<n pronunciation="Cyril" /></t> <t>of<n pronunciation="of" /></t> <t>Jerusalem<n pronunciation="Jerusalem" /></t>
+<t>John<n pronunciation="John" /></t> <t>of<n pronunciation="of" /></t> <t>Damascus<n pronunciation="Damascus" /></t>
+<t>Bede<n pronunciation="Bede" /></t> <t>the<n pronunciation="the" /></t> <t>Venerable<n pronunciation="Venerable" /></t>
+<t>Ephrem<n pronunciation="Ephrem" /></t> <t>the<n pronunciation="the" /></t> <t>Syrian<n pronunciation="Syrian" /></t>
+<t>Thomas<n pronunciation="Thomas" /></t> <t>Aquinas<n pronunciation="Aquinas" /></t>
+<t>Bonaventure<n pronunciation="Bonaventure" /></t>
+<t>Anselm<n pronunciation="Anselm" /></t> <t>of<n pronunciation="of" /></t> <t>Canterbury<n pronunciation="Canterbury" /></t>
+<t>Isidore<n pronunciation="Isidore" /></t> <t>of<n pronunciation="of" /></t> <t>Seville<n pronunciation="Seville" /></t>
+<t>Peter<n pronunciation="Peter" /></t> <t>Chrysologus<n pronunciation="Chrysologus" /></t>
+<t>Leo<n pronunciation="Leo" /></t> <t>the<n pronunciation="the" /></t> <t>Great<n pronunciation="Great" /></t>
+<t>Peter<n pronunciation="Peter" /></t> <t>Damian<n pronunciation="Damian" /></t>
+<t>Bernard<n pronunciation="Bernard" /></t> <t>of<n pronunciation="of" /></t> <t>Clairvaux<n pronunciation="Clairvaux" /></t>
+<t>Hilary<n pronunciation="Hilary" /></t> <t>of<n pronunciation="of" /></t> <t>Poitiers<n pronunciation="Poitiers" /></t>
+<t>Alphonsus<n pronunciation="Alphonsus" /></t> <t>Liguori<n pronunciation="Liguori" /></t>
+<t>Francis<n pronunciation="Francis" /></t> <t>de<n pronunciation="de" /></t> <t>Sales<n pronunciation="Sales" /></t>
+<t>Peter<n pronunciation="Peter" /></t> <t>Canisius<n pronunciation="Canisius" /></t>
+<t>John<n pronunciation="John" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Cross<n pronunciation="Cross" /></t>
+<t>Robert<n pronunciation="Robert" /></t> <t>Bellarmine<n pronunciation="Bellarmine" /></t>
+<t>Albertus<n pronunciation="Albertus" /></t> <t>Magnus<n pronunciation="Magnus" /></t>
+<t>Anthony<n pronunciation="Anthony" /></t> <t>of<n pronunciation="of" /></t> <t>Padua<n pronunciation="Padua" /></t>
+<t>Lawrence<n pronunciation="Lawrence" /></t> <t>of<n pronunciation="of" /></t> <t>Brindisi<n pronunciation="Brindisi" /></t>
+<t>Teresa<n pronunciation="Teresa" /></t> <t>of<n pronunciation="of" /></t> <t>Ávila<n pronunciation="Avila" /></t>
+<t>Catherine<n pronunciation="Catherine" /></t> <t>of<n pronunciation="of" /></t> <t>Siena<n pronunciation="Siena" /></t>
+<t>Thérèse<n pronunciation="Therese" /></t> <t>of<n pronunciation="of" /></t> <t>Lisieux<n pronunciation="Lisieux" /></t>
+<t>John<n pronunciation="John" /></t> <t>of<n pronunciation="of" /></t> <t>Ávila<n pronunciation="Avila" /></t>
+<t>Hildegard<n pronunciation="Hildegard" /></t> <t>of<n pronunciation="of" /></t> <t>Bingen<n pronunciation="Bingen" /></t>
+<t>Gregory<n pronunciation="Gregory" /></t> <t>of<n pronunciation="of" /></t> <t>Narek<n pronunciation="Narek" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Orders<n pronunciation="Orders" /></t><t>,</t>
+<t>institutes<n pronunciation="institutes" /></t><t>,</t>
+<t>and<n pronunciation="and" /></t> <t>societies<n pronunciation="societies" /></t></s>
+
+
+
+<p><s><t>Assumptionists<n pronunciation="Assumptionists" /></t>
+<t>Annonciades<n pronunciation="Annonciades" /></t>
+<t>Augustinians<n pronunciation="Augustinians" /></t>
+<t>Basilians<n pronunciation="Basilians" /></t>
+<t>Benedictines<n pronunciation="Benedictines" /></t>
+<t>Bethlehemites<n pronunciation="Bethlehemites" /></t>
+<t>Blue<n pronunciation="Blue" /></t> <t>nuns<n pronunciation="nuns" /></t>
+<t>Camaldoleses<n pronunciation="Camaldoleses" /></t>
+<t>Camillians<n pronunciation="Camillians" /></t>
+<t>Carmelites<n pronunciation="Carmelites" /></t>
+<t>Carthusians<n pronunciation="Carthusians" /></t>
+<t>Cistercians<n pronunciation="Cistercians" /></t>
+<t>Clarisses<n pronunciation="Clarisses" /></t>
+<t>Conceptionists<n pronunciation="Conceptionists" /></t>
+<t>Crosiers<n pronunciation="Crosiers" /></t>
+<t>Dominicans<n pronunciation="Dominicans" /></t>
+<t>Franciscans<n pronunciation="Franciscans" /></t>
+<t>Good<n pronunciation="Good" /></t> <t>Shepherd<n pronunciation="Shepherd" /></t> <t>Sisters<n pronunciation="Sisters" /></t>
+<t>Hieronymites<n pronunciation="Hieronymites" /></t>
+<t>Jesuits<n pronunciation="Jesuits" /></t>
+<t>Mercedarians<n pronunciation="Mercedarians" /></t>
+<t>Minims<n pronunciation="Minims" /></t>
+<t>Olivetans<n pronunciation="Olivetans" /></t>
+<t>Oratorians<n pronunciation="Oratorians" /></t>
+<t>Piarists<n pronunciation="Piarists" /></t>
+<t>Premonstratensians<n pronunciation="Premonstratensians" /></t>
+<t>Redemptorists<n pronunciation="Redemptorists" /></t>
+<t>Servites<n pronunciation="Servites" /></t>
+<t>Theatines<n pronunciation="Theatines" /></t>
+<t>Trappists<n pronunciation="Trappists" /></t>
+<t>Trinitarians<n pronunciation="Trinitarians" /></t>
+<t>Visitandines<n pronunciation="Visitandines" /></t></s></p>
+
+
+
+
+
+<s><t>Associations<n pronunciation="Associations" /></t>
+<t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>faithful<n pronunciation="faithful" /></t></s>
+
+
+
+<p><s><t>International<n pronunciation="International" /></t> <t>Federation<n pronunciation="Federation" /></t> <t>of<n pronunciation="of" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Parochial<n pronunciation="Parochial" /></t> <t>Youth<n pronunciation="Youth" /></t> <t>Movements<n pronunciation="Movements" /></t>
+<t>International<n pronunciation="International" /></t> <t>Federation<n pronunciation="Federation" /></t> <t>of<n pronunciation="of" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Universities<n pronunciation="Universities" /></t>
+<t>International<n pronunciation="International" /></t> <t>Kolping<n pronunciation="Kolping" /></t> <t>Society<n pronunciation="Society" /></t>
+<t>Schoenstatt<n pronunciation="Schoenstatt" /></t> <t>Apostolic<n pronunciation="Apostolic" /></t> <t>Movement<n pronunciation="Movement" /></t>
+<t>International<n pronunciation="International" /></t> <t>Union<n pronunciation="Union" /></t> <t>of<n pronunciation="of" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Esperantists<n pronunciation="Esperantists" /></t>
+<t>Community<n pronunciation="Community" /></t> <t>of<n pronunciation="of" /></t> <t>Sant'Egidio<n pronunciation="SantEgidio" /></t></s></p>
+
+
+
+
+
+<s><t>Charities<n pronunciation="Charities" /></t></s>
+
+
+
+<p><s><t>Aid<n pronunciation="Aid" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>Church<n pronunciation="Church" /></t> <t>in<n pronunciation="in" /></t> <t>Need<n pronunciation="Need" /></t>
+<t>Caritas<n pronunciation="Caritas" /></t> <t>Internationalis<n pronunciation="Internationalis" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Home<n pronunciation="Home" /></t> <t>Missions<n pronunciation="Missions" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Relief<n pronunciation="Relief" /></t> <t>Services<n pronunciation="Services" /></t>
+<t>CIDSE<n pronunciation="CIDSE" /></t></s></p>
+
+
+
+
+
+<s><t>Particular<n pronunciation="Particular" /></t>
+<t>churches<n pronunciation="churches" /></t></s>
+
+
+
+<p><s><t>Latin<n pronunciation="Latin" /></t> <t>Church<n pronunciation="Church" /></t>
+<t>Eastern<n pronunciation="Eastern" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Churches<n pronunciation="Churches" /></t><t>:</t> <t>Albanian<n pronunciation="Albanian" /></t>
+<t>Armenian<n pronunciation="Armenian" /></t>
+<t>Belarusian<n pronunciation="Belarusian" /></t>
+<t>Bulgarian<n pronunciation="Bulgarian" /></t>
+<t>Chaldean<n pronunciation="Chaldean" /></t>
+<t>Coptic<n pronunciation="Coptic" /></t>
+<t>Croatian<n pronunciation="Croatian" /></t> <t>and<n pronunciation="and" /></t> <t>Serbian<n pronunciation="Serbian" /></t>
+<t>Eritrean<n pronunciation="Eritrean" /></t>
+<t>Ethiopian<n pronunciation="Ethiopian" /></t>
+<t>Georgian<n pronunciation="Georgian" /></t>
+<t>Greek<n pronunciation="Greek" /></t>
+<t>Hungarian<n pronunciation="Hungarian" /></t>
+<t>Italo-Albanian<n pronunciation="Italo" /><n pronunciation="Albanian" /></t>
+<t>Macedonian<n pronunciation="Macedonian" /></t>
+<t>Maronite<n pronunciation="Maronite" /></t>
+<t>Melkite<n pronunciation="Melkite" /></t>
+<t>Romanian<n pronunciation="Romanian" /></t>
+<t>Russian<n pronunciation="Russian" /></t>
+<t>Ruthenian<n pronunciation="Ruthenian" /></t>
+<t>Slovak<n pronunciation="Slovak" /></t>
+<t>Syriac<n pronunciation="Syriac" /></t>
+<t>Syro-Malabar<n pronunciation="Syro" /><n pronunciation="Malabar" /></t>
+<t>Syro-Malankara<n pronunciation="Syro" /><n pronunciation="Malankara" /></t>
+<t>Ukrainian<n pronunciation="Ukrainian" /></t></s></p>
+
+
+
+
+<s><t>Liturgical<n pronunciation="Liturgical" /></t> <t>rites<n pronunciation="rites" /></t></s>
+
+
+
+<p><s><t>Alexandrian<n pronunciation="Alexandrian" /></t>
+<t>Antiochian<n pronunciation="Antiochian" /></t>
+<t>Armenian<n pronunciation="Armenian" /></t>
+<t>Byzantine<n pronunciation="Byzantine" /></t>
+<t>East<n pronunciation="East" /></t> <t>Syrian<n pronunciation="Syrian" /></t>
+<t>Latin<n pronunciation="Latin" /></t></s>
+
+<p><s><t>Anglican<n pronunciation="Anglican" /></t> <t>Use<n pronunciation="Use" /></t>
+<t>Ambrosian<n pronunciation="Ambrosian" /></t>
+<t>Mozarabic<n pronunciation="Mozarabic" /></t>
+<t>Roman<n pronunciation="Roman" /></t></s></p>
+
+
+<s><t>West<n pronunciation="West" /></t> <t>Syrian<n pronunciation="Syrian" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>Index<n pronunciation="Index" /></t>
+<t>Outline<n pronunciation="Outline" /></t>
+ <t>Category<n pronunciation="Category" /></t>
+ <t>Media<n pronunciation="Media" /></t>
+ <t>Templates<n pronunciation="Templates" /></t>
+ <t>WikiProject<n pronunciation="WikiProject" /></t>
+ <t>Book<n pronunciation="Book" /></t>
+ <t>Pope<n pronunciation="Pope" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Vatican<n pronunciation="Vatican" /></t> <t>City<n pronunciation="City" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Catholicism<n pronunciation="Catholicism" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>History<n pronunciation="History" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t></s>
+
+
+
+<s><t>General<n pronunciation="General" /></t></s>
+
+
+
+<p><s><t>History<n pronunciation="History" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t></s>
+
+<p><s><t>By<n pronunciation="By" /></t> <t>country<n pronunciation="country" /></t> <t>or<n pronunciation="or" /></t> <t>region<n pronunciation="region" /></t></s></p>
+
+
+<s><t>History<n pronunciation="History" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Papacy<n pronunciation="Papacy" /></t>
+<t>Timeline<n pronunciation="Timeline" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Ecumenical<n pronunciation="Ecumenical" /></t> <t>Councils<n pronunciation="Councils" /></t>
+<t>History<n pronunciation="History" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Roman<n pronunciation="Roman" /></t> <t>Curia<n pronunciation="Curia" /></t>
+<t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t> <t>art<n pronunciation="art" /></t>
+<t>Religious<n pronunciation="Religious" /></t> <t>institutes<n pronunciation="institutes" /></t>
+<t>Christian<n pronunciation="Christian" /></t> <t>monasticism<n pronunciation="monasticism" /></t>
+<t>Papal<n pronunciation="Papal" /></t> <t>States<n pronunciation="States" /></t>
+<t>Role<n pronunciation="Role" /></t> <t>of<n pronunciation="of" /></t> <t>Christianity<n pronunciation="Christianity" /></t> <t>in<n pronunciation="in" /></t> <t>civilization<n pronunciation="civilization" /></t></s></p>
+
+
+
+
+
+<s><t>Church<n pronunciation="Church" /></t> <t>beginnings<n pronunciation="beginnings" /></t><t>,</t>
+<t>Great<n pronunciation="Great" /></t> <t>Church<n pronunciation="Church" /></t></s>
+
+
+
+<p><s><t>Jesus<n pronunciation="Jesus" /></t>
+<t>Apostles<n pronunciation="Apostles" /></t>
+<t>Saint<n pronunciation="Saint" /></t> <t>Peter<n pronunciation="Peter" /></t>
+<t>Paul<n pronunciation="Paul" /></t> <t>the<n pronunciation="the" /></t> <t>Apostle<n pronunciation="Apostle" /></t>
+<t>Saint<n pronunciation="Saint" /></t> <t>Stephen<n pronunciation="Stephen" /></t>
+<t>John<n pronunciation="John" /></t> <t>the<n pronunciation="the" /></t> <t>Apostle<n pronunciation="Apostle" /></t>
+<t>Great<n pronunciation="Great" /></t> <t>Commission<n pronunciation="Commission" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Jerusalem<n pronunciation="Jerusalem" /></t>
+<t>Apostolic<n pronunciation="Apostolic" /></t> <t>Age<n pronunciation="Age" /></t>
+<t>Apostolic<n pronunciation="Apostolic" /></t> <t>Fathers<n pronunciation="Fathers" /></t>
+<t>Ignatius<n pronunciation="Ignatius" /></t> <t>of<n pronunciation="of" /></t> <t>Antioch<n pronunciation="Antioch" /></t>
+<t>Irenaeus<n pronunciation="Irenaeus" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Victor<n pronunciation="Victor" /></t> <t>I<n pronunciation="I" /></t>
+<t>Tertullian<n pronunciation="Tertullian" /></t></s></p>
+
+
+
+
+
+
+<s><t>Constantine<n pronunciation="Constantine" /></t> <t>to<n pronunciation="to" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Gregory<n pronunciation="Gregory" /></t> <t>I<n pronunciation="I" /></t></s>
+
+
+
+
+<p><s><t>Constantine<n pronunciation="Constantine" /></t> <t>the<n pronunciation="the" /></t> <t>Great<n pronunciation="Great" /></t> <t>and<n pronunciation="and" /></t> <t>Christianity<n pronunciation="Christianity" /></t>
+<t>Arianism<n pronunciation="Arianism" /></t>
+<t>Archbasilica<n pronunciation="Archbasilica" /></t> <t>of<n pronunciation="of" /></t> <t>St.<n pronunciation="saint" /></t> <t>John<n pronunciation="John" /></t> <t>Lateran<n pronunciation="Lateran" /></t>
+<t>First<n pronunciation="First" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Nicaea<n pronunciation="Nicaea" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Sylvester<n pronunciation="Sylvester" /></t> <t>I<n pronunciation="I" /></t>
+<t>First<n pronunciation="First" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Constantinople<n pronunciation="Constantinople" /></t>
+<t>Biblical<n pronunciation="Biblical" /></t> <t>canon<n pronunciation="canon" /></t>
+<t>Jerome<n pronunciation="Jerome" /></t>
+<t>Vulgate<n pronunciation="Vulgate" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Ephesus<n pronunciation="Ephesus" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Chalcedon<n pronunciation="Chalcedon" /></t>
+<t>Benedict<n pronunciation="Benedict" /></t> <t>of<n pronunciation="of" /></t> <t>Nursia<n pronunciation="Nursia" /></t>
+<t>Second<n pronunciation="Second" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Constantinople<n pronunciation="Constantinople" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Gregory<n pronunciation="Gregory" /></t> <t>I<n pronunciation="I" /></t>
+<t>Gregorian<n pronunciation="Gregorian" /></t> <t>chant<n pronunciation="chant" /></t></s></p>
+
+
+
+
+
+<s><t>Early<n pronunciation="Early" /></t> <t>Middle<n pronunciation="Middle" /></t> <t>Ages<n pronunciation="Ages" /></t></s>
+
+
+
+<p><s><t>Third<n pronunciation="Third" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Constantinople<n pronunciation="Constantinople" /></t>
+<t>Saint<n pronunciation="Saint" /></t> <t>Boniface<n pronunciation="Boniface" /></t>
+<t>Byzantine<n pronunciation="Byzantine" /></t> <t>Iconoclasm<n pronunciation="Iconoclasm" /></t>
+<t>Second<n pronunciation="Second" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Nicaea<n pronunciation="Nicaea" /></t>
+<t>Charlemagne<n pronunciation="Charlemagne" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Leo<n pronunciation="Leo" /></t> <t>III<n pronunciation="III" /></t>
+<t>Fourth<n pronunciation="Fourth" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Constantinople<n pronunciation="Constantinople" /></t>
+<t>East<n pronunciation="East" /></t><t>–<n pronunciation="–" /></t><t>West<n pronunciation="West" /></t> <t>Schism<n pronunciation="Schism" /></t></s></p>
+
+
+
+
+
+<s><t>High<n pronunciation="High" /></t> <t>Middle<n pronunciation="Middle" /></t> <t>Ages<n pronunciation="Ages" /></t></s>
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Urban<n pronunciation="Urban" /></t> <t>II<n pronunciation="II" /></t>
+<t>Investiture<n pronunciation="Investiture" /></t> <t>Controversy<n pronunciation="Controversy" /></t>
+<t>Crusades<n pronunciation="Crusades" /></t>
+<t>First<n pronunciation="First" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Lateran<n pronunciation="Lateran" /></t>
+<t>Second<n pronunciation="Second" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Lateran<n pronunciation="Lateran" /></t>
+<t>Third<n pronunciation="Third" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Lateran<n pronunciation="Lateran" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Innocent<n pronunciation="Innocent" /></t> <t>III<n pronunciation="III" /></t>
+<t>Latin<n pronunciation="Latin" /></t> <t>Empire<n pronunciation="Empire" /></t>
+<t>Francis<n pronunciation="Francis" /></t> <t>of<n pronunciation="of" /></t> <t>Assisi<n pronunciation="Assisi" /></t>
+<t>Fourth<n pronunciation="Fourth" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Lateran<n pronunciation="Lateran" /></t>
+<t>Inquisition<n pronunciation="Inquisition" /></t>
+<t>First<n pronunciation="First" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Lyon<n pronunciation="Lyon" /></t>
+<t>Second<n pronunciation="Second" /></t> <t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Lyon<n pronunciation="Lyon" /></t>
+<t>Bernard<n pronunciation="Bernard" /></t> <t>of<n pronunciation="of" /></t> <t>Clairvaux<n pronunciation="Clairvaux" /></t>
+<t>Thomas<n pronunciation="Thomas" /></t> <t>Aquinas<n pronunciation="Aquinas" /></t></s></p>
+
+
+
+
+
+<s><t>Late<n pronunciation="Late" /></t> <t>Middle<n pronunciation="Middle" /></t> <t>Ages<n pronunciation="Ages" /></t></s>
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Boniface<n pronunciation="Boniface" /></t> <t>VIII<n pronunciation="VIII" /></t>
+<t>Avignon<n pronunciation="Avignon" /></t> <t>Papacy<n pronunciation="Papacy" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Clement<n pronunciation="Clement" /></t> <t>V<n pronunciation="V" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Vienne<n pronunciation="Vienne" /></t>
+<t>Knights<n pronunciation="Knights" /></t> <t>Templar<n pronunciation="Templar" /></t>
+<t>Catherine<n pronunciation="Catherine" /></t> <t>of<n pronunciation="of" /></t> <t>Siena<n pronunciation="Siena" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Alexander<n pronunciation="Alexander" /></t> <t>VI<n pronunciation="VI" /></t></s></p>
+
+
+
+
+
+
+<s><t>Protestant<n pronunciation="Protestant" /></t> <t>Reformation<n pronunciation="Reformation" /></t>
+<t>Counter-Reformation<n pronunciation="Counter" /><n pronunciation="Reformation" /></t></s>
+
+
+
+
+<p><s><t>Protestant<n pronunciation="Protestant" /></t> <t>Reformation<n pronunciation="Reformation" /></t>
+<t>Counter-Reformation<n pronunciation="Counter" /><n pronunciation="Reformation" /></t>
+<t>Thomas<n pronunciation="Thomas" /></t> <t>More<n pronunciation="More" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Leo<n pronunciation="Leo" /></t> <t>X<n pronunciation="X" /></t>
+<t>Society<n pronunciation="Society" /></t> <t>of<n pronunciation="of" /></t> <t>Jesus<n pronunciation="Jesus" /></t>
+<t>Ignatius<n pronunciation="Ignatius" /></t> <t>of<n pronunciation="of" /></t> <t>Loyola<n pronunciation="Loyola" /></t>
+<t>Francis<n pronunciation="Francis" /></t> <t>Xavier<n pronunciation="Xavier" /></t>
+<t>Dissolution<n pronunciation="Dissolution" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Monasteries<n pronunciation="Monasteries" /></t>
+<t>Council<n pronunciation="Council" /></t> <t>of<n pronunciation="of" /></t> <t>Trent<n pronunciation="Trent" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>V<n pronunciation="V" /></t>
+<t>Tridentine<n pronunciation="Tridentine" /></t> <t>Mass<n pronunciation="Mass" /></t>
+<t>Teresa<n pronunciation="Teresa" /></t> <t>of<n pronunciation="of" /></t> <t>Ávila<n pronunciation="Avila" /></t>
+<t>John<n pronunciation="John" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Cross<n pronunciation="Cross" /></t>
+<t>Philip<n pronunciation="Philip" /></t> <t>Neri<n pronunciation="Neri" /></t>
+<t>Robert<n pronunciation="Robert" /></t> <t>Bellarmine<n pronunciation="Bellarmine" /></t></s></p>
+
+
+
+
+
+
+<s><t>Baroque<n pronunciation="Baroque" /></t> <t>Period<n pronunciation="Period" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t>
+<t>French<n pronunciation="French" /></t> <t>Revolution<n pronunciation="Revolution" /></t></s>
+
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Innocent<n pronunciation="Innocent" /></t> <t>XI<n pronunciation="XI" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Benedict<n pronunciation="Benedict" /></t> <t>XIV<n pronunciation="XIV" /></t>
+<t>Suppression<n pronunciation="Suppression" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Society<n pronunciation="Society" /></t> <t>of<n pronunciation="of" /></t> <t>Jesus<n pronunciation="Jesus" /></t>
+<t>Anti-clericalism<n pronunciation="Anti" /><n pronunciation="clericalism" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Shimabara<n pronunciation="Shimabara" /></t> <t>Rebellion<n pronunciation="Rebellion" /></t>
+<t>Edict<n pronunciation="Edict" /></t> <t>of<n pronunciation="of" /></t> <t>Nantes<n pronunciation="Nantes" /></t>
+<t>Dechristianization<n pronunciation="Dechristianization" /></t> <t>of<n pronunciation="of" /></t> <t>France<n pronunciation="France" /></t> <t>during<n pronunciation="during" /></t> <t>the<n pronunciation="the" /></t> <t>French<n pronunciation="French" /></t> <t>Revolution<n pronunciation="Revolution" /></t></s></p>
+
+
+
+
+
+<s><t>19th<n pronunciation="nineteenth" /></t> <t>century<n pronunciation="century" /></t></s>
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>VII<n pronunciation="VII" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>IX<n pronunciation="IX" /></t>
+<t>Dogma<n pronunciation="Dogma" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Immaculate<n pronunciation="Immaculate" /></t> <t>Conception<n pronunciation="Conception" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Virgin<n pronunciation="Virgin" /></t> <t>Mary<n pronunciation="Mary" /></t>
+<t>Our<n pronunciation="Our" /></t> <t>Lady<n pronunciation="Lady" /></t> <t>of<n pronunciation="of" /></t> <t>La<n pronunciation="La" /></t> <t>Salette<n pronunciation="Salette" /></t>
+<t>Our<n pronunciation="Our" /></t> <t>Lady<n pronunciation="Lady" /></t> <t>of<n pronunciation="of" /></t> <t>Lourdes<n pronunciation="Lourdes" /></t>
+<t>First<n pronunciation="First" /></t> <t>Vatican<n pronunciation="Vatican" /></t> <t>Council<n pronunciation="Council" /></t>
+<t>Papal<n pronunciation="Papal" /></t> <t>infallibility<n pronunciation="infallibility" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Leo<n pronunciation="Leo" /></t> <t>XIII<n pronunciation="XIII" /></t>
+<t>Mary<n pronunciation="Mary" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Divine<n pronunciation="Divine" /></t> <t>Heart<n pronunciation="Heart" /></t>
+<t>Prayer<n pronunciation="Prayer" /></t> <t>of<n pronunciation="of" /></t> <t>Consecration<n pronunciation="Consecration" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>Sacred<n pronunciation="Sacred" /></t> <t>Heart<n pronunciation="Heart" /></t>
+<t>Rerum<n pronunciation="Rerum" /></t> <t>novarum<n pronunciation="novarum" /></t></s></p>
+
+
+
+
+
+<s><t>20th<n pronunciation="twentieth" /></t> <t>century<n pronunciation="century" /></t></s>
+
+
+
+<p><s><t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>X<n pronunciation="X" /></t>
+<t>Our<n pronunciation="Our" /></t> <t>Lady<n pronunciation="Lady" /></t> <t>of<n pronunciation="of" /></t> <t>Fátima<n pronunciation="Fatima" /></t>
+<t>Persecutions<n pronunciation="Persecutions" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t> <t>and<n pronunciation="and" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>XII<n pronunciation="XII" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Pius<n pronunciation="Pius" /></t> <t>XII<n pronunciation="XII" /></t> <t>Consecration<n pronunciation="Consecration" /></t> <t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>Immaculate<n pronunciation="Immaculate" /></t> <t>Heart<n pronunciation="Heart" /></t> <t>of<n pronunciation="of" /></t> <t>Mary<n pronunciation="Mary" /></t>
+<t>Dogma<n pronunciation="Dogma" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Assumption<n pronunciation="Assumption" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>Virgin<n pronunciation="Virgin" /></t> <t>Mary<n pronunciation="Mary" /></t>
+<t>Lateran<n pronunciation="Lateran" /></t> <t>Treaty<n pronunciation="Treaty" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>John<n pronunciation="John" /></t> <t>XXIII<n pronunciation="XXIII" /></t>
+<t>Second<n pronunciation="Second" /></t> <t>Vatican<n pronunciation="Vatican" /></t> <t>Council<n pronunciation="Council" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Paul<n pronunciation="Paul" /></t> <t>VI<n pronunciation="VI" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>John<n pronunciation="John" /></t> <t>Paul<n pronunciation="Paul" /></t> <t>I<n pronunciation="I" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>John<n pronunciation="John" /></t> <t>Paul<n pronunciation="Paul" /></t> <t>II<n pronunciation="II" /></t>
+<t>World<n pronunciation="World" /></t> <t>Youth<n pronunciation="Youth" /></t> <t>Day<n pronunciation="Day" /></t></s>
+
+<p><s><t>1995<n pronunciation="nineteen" /><n pronunciation="ninety" /><n pronunciation="five" /></t>
+<t>2000<n pronunciation="two" /><n pronunciation="thousand" /></t></s></p>
+
+</p>
+
+
+
+
+
+<s><t>21st<n pronunciation="twenty" /><n pronunciation="first" /></t> <t>century<n pronunciation="century" /></t></s>
+
+
+
+<p><s><t>Catholic<n pronunciation="Catholic" /></t> <t>Church<n pronunciation="Church" /></t> <t>sexual<n pronunciation="sexual" /></t> <t>abuse<n pronunciation="abuse" /></t> <t>cases<n pronunciation="cases" /></t>
+<t>Pope<n pronunciation="Pope" /></t> <t>Benedict<n pronunciation="Benedict" /></t> <t>XVI<n pronunciation="XVI" /></t>
+<t>World<n pronunciation="World" /></t> <t>Youth<n pronunciation="Youth" /></t> <t>Day<n pronunciation="Day" /></t></s>
+
+<p><s><t>2002<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="two" /></t>
+<t>2005<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="five" /></t>
+<t>2008<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="eight" /></t>
+<t>2011<n pronunciation="twenty" /><n pronunciation="eleven" /></t>
+<t>2013<n pronunciation="twenty" /><n pronunciation="thirteen" /></t>
+<t>2016<n pronunciation="twenty" /><n pronunciation="sixteen" /></t></s></p>
+
+
+<s><t>Pope<n pronunciation="Pope" /></t> <t>Francis<n pronunciation="Francis" /></t></s></p>
+
+
+
+
+
+
+
+
+ <p><s><t>Pope<n pronunciation="Pope" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Vatican<n pronunciation="Vatican" /></t> <t>City<n pronunciation="City" /></t> <t>portal<n pronunciation="portal" /></t>
+ <t>Catholicism<n pronunciation="Catholicism" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+
+
+
+
+
+
+<s><t>Authority<n pronunciation="Authority" /></t> <t>control<n pronunciation="control" /></t></s>
+
+
+
+<p><s><t>WorldCat<n pronunciation="WorldCat" /></t> <t>Identities<n pronunciation="Identities" /></t>
+<t>VIAF<n pronunciation="VIAF" /></t><t>:</t> <t>57419958<n pronunciation="fifty" /><n pronunciation="seven" /><n pronunciation="million" /><n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="nineteen" /><n pronunciation="thousand" /><n pronunciation="nine" /><n pronunciation="hundred" /><n pronunciation="fifty" /><n pronunciation="eight" /></t>
+<t>LCCN<n pronunciation="L" /><n pronunciation="C" /><n pronunciation="C" /><n pronunciation="N" /></t><t>:</t> <t>nb2007023077<n pronunciation="nb" /><n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="seven" /><n pronunciation="zero" /><n pronunciation="two" /><n pronunciation="three" /><n pronunciation="zero" /><n pronunciation="seven" /><n pronunciation="seven" /></t>
+<t>GND<n pronunciation="G" /><n pronunciation="N" /><n pronunciation="D" /></t><t>:</t> <t>119222450<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="nineteen" /><n pronunciation="million" /><n pronunciation="two" /><n pronunciation="hundred" /><n pronunciation="twenty" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="fifty" /></t></s></p>
+
+
+
+
+
+
+<p><s><t>Template:Persondata<n pronunciation="Template" /><n pronunciation=":" /><n pronunciation="Persondata" /></t></s></p>
+
+
+
+
+</sectioncontent></section></ignored></d></article>

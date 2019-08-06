@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken word recording of Wikipedia article, Caetano Veloso}}
+|date=2013-05-19 20:11:14
+|source={{own}}
+|author=[[User:Alexkillby|Alexkillby]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Wikipedia-SpokenWord]]
+{{Check categories|year=2013|month=November|day=1}}
+[[Category:Caetano_Veloso]]

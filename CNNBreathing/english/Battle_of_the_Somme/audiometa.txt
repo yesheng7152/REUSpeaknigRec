@@ -1,0 +1,19 @@
+{{Spoken article
+|title=Battle of the Somme
+|time=44:47
+|user_name=Mangst
+|date=2009-01-31
+|oldid=267709809
+|accent=American English
+|wiki_lang=en
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Mangst|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Battle_of_the_Somme.ogg}}
+* 2009-02-08 20:59 [[:en:User:Mangst|Mangst]] 0&times;0&times; (26465138 bytes) ''<nowiki>Improved the sound quality of the recording.</nowiki>''
+* 2009-01-31 22:35 [[:en:User:Mangst|Mangst]] 0&times;0&times; (26605943 bytes) ''<nowiki>{{Spoken article |title=Battle of the Somme |time=44:47 |user_name=Mangst |date=2009-01-31 |oldid=267709809 |accent=American English }}  {{GFDL-with-disclaimers}}</nowiki>''
+
+[[Category:Battle of the Somme]]

@@ -1,0 +1,26 @@
+[[File:Aegaeon (2008 S1).jpg|thumb|Three images of the bright arc of the G Ring with Aegaeon embedded within it, taken over the course of ten minutes]]
+'''Aegaeon''' ({{pron-en|iːˈdʒiːən}} {{respell|ee|JEE|ən}}, or as Greek ''Αιγαίων),'' also '''{{nowrap|Saturn LIII}}''' (provisional designation '''{{nowrap|S/2008 S 1}}'''), is a [[natural satellite]] of [[Saturn]]. Its discovery was announced by [[Carolyn Porco]] of the [[Cassini-Huygens|Cassini Imaging Science Team]] on March 3, 2009, from observations taken on August 15, 2008.<ref>[http://ciclops.org/view/5518/S2008_S_1?js=1 IAU Circular No. 9023]</ref>
+
+Aegaeon orbits within the bright segment of Saturn's [[G Ring]], and is likely a major source of the ring.<ref>[http://ciclops.org/view/5474/Petite_Moon?js=1 Petite Moon], CICLOPS, 29 May 2009</ref> Debris knocked off the moon forms a bright arc near the inner edge, which in turn spreads to form the rest of the ring. Aegaeon orbits in a 7:6 [[orbital resonance|resonance]] with [[Mimas (moon)|Mimas]], which causes a ≈ 4-year oscillation of ≈ 4&nbsp;km in its [[semi-major axis]]. Assuming it has the same [[albedo]] as [[Pallene (moon)|Pallene]], it is estimated to be half a kilometer in diameter. It orbits Saturn at an average distance of 167,500&nbsp;km in 0.80812 days, at an [[inclination]] of 0.001° to Saturn's equator, with an [[eccentricity (orbit)|eccentricity]] of 0.0002.
+
+It is named after [[Aegaeon]], one of the [[hecatonchires]].<ref>Jennifer Blue, [http://astrogeology.usgs.gov/HotTopics/index.php?/archives/362-Saturnian-Satellite-Named-Aegaeon.html Saturnian Satellite Named Aegaeon], USGS Astrogeology Hot Topics, 5 May 2009</ref>  
+
+== References ==
+{{reflist}}
+
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Aegaeon (Moon)}}
+
+[[Category:Moons of Saturn]]
+
+[[de:Aegaeon (Mond)]]
+[[el:Αιγαίων (δορυφόρος)]]
+[[es:Aegaeon (satélite)]]
+[[eo:Egeo (luno)]]
+[[fr:Égéon (lune)]]
+[[it:Egeone (astronomia)]]
+[[ja:アイガイオン (衛星)]]
+[[pl:Aegaeon (księżyc)]]
+[[ru:Эгеон (спутник)]]
+[[uk:Егеон (супутник)]]

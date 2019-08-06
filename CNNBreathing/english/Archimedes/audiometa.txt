@@ -1,0 +1,19 @@
+{{Spoken article
+|title=Archimedes
+|time=39:19
+|user_name=Tonyle
+|date=2009-03-31
+|oldid=280958653
+|accent=U.S. Michigan and California
+|wiki_lang=en
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Archimedes.ogg}}
+* 2009-04-01 02:09 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (30647100 bytes) ''<nowiki>{{Spoken article |title=Archimedes  |time=39:19 |user_name=Tonyle |date=2009-03-31 |oldid=280958653 |accent=U.S. Michigan and California }} == Licensing: == {{GFDL-with-di</nowiki>''
+
+[[Category:Archimedes]]
+[[Category:Spoken Wikipedia - English]]

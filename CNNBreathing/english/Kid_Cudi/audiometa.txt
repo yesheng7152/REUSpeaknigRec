@@ -1,0 +1,26 @@
+{{Spoken article
+|title= Kid Cudi
+|user_name= LiamKeaneDotCom
+|user_name_link= http://www.liamkeane.com
+|date= 2011-04-27
+|accent= California English
+|sex= m
+|first_part=
+|next_part=
+|wiki_lang= en
+|full_link=
+|oldid=426090647
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}} 
+{{imbox
+| type = license
+| image = [[Image:Imbox license.svg|60px]]
+| imageright = [[Image:Sound-icon.svg|60px]]
+| text  = '''The reader of this audio file has surrendered and forfeited all copyright claims to this file and requires no attribution.''' As the file is an Adaption, the work remains licensed under the [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA license].
+<br><br>Although the reader has waived all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, the original authors of [http://en.wikipedia.org/w/index.php?title=Kid_Cudi&oldid=426090647 the work this file is based on] have licensed said material under a CC-BY-SA license. The work thus remains available under the terms of the CC-BY-SA license and the original authors must be given [[w:en:Wikipedia:Reusing_Wikipedia_content#Re-use_of_text_under_Creative_Commons_Attribute_Share-Alike|proper attribution]] under its terms.
+<br><br>Crediting the file as "<code><nowiki>From: http://en.wikipedia.org/wiki/Kid_Cudi - License: http://creativecommons.org/licenses/by-sa/3.0/</nowiki></code>" is sufficient attribution.
+}}
+{{Kopimi}}
+
+[[Category:Audio files requiring categorisation]]

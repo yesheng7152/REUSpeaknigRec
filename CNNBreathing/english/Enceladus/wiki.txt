@@ -1,0 +1,411 @@
+<!-- Additional parameters for this template are available at [[Template:Infobox Planet]].-->
+{{Infobox planet
+| name = Enceladus
+| pronounce = {{IPA|/ɛnˈsɛlədəs/}}<ref>In US dictionary transcription, {{USdict|ĕn·sĕl′·ə·dəs}}, or as Greek ''Εγκέλαδος''</ref>
+| alt_names = Saturn II
+| adjectives = Enceladean/Enceladan<ref>Both are used with roughly equal frequency.</ref>
+| image = [[File:PIA08409 North Polar Region of Enceladus.jpg|250px]]
+| caption = Degraded craters, fractures and disrupted terrain in ''Cassini'' mosaic of Enceladus's north polar region
+| bgcolour = #a0ffa0
+| note = yes
+| discovery = yes
+| discoverer = [[William Herschel]]
+| discovered = August 28, 1789<ref name=CosmoVisions>{{cite web|author=© Serge Jodra, 2004. – Reproduction interdite. |url=http://www.cosmovisions.com/SaturneChrono02.htm |title=Imago Mundi – La Découverte des satellites de Saturne (in French) |publisher=Cosmovisions.com |accessdate=2009-03-13}}</ref>
+| semimajor = 237,948 km<!--- Computed using the http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html µ value --->
+| eccentricity = 0.004&nbsp;7<ref name=Porco>{{cite journal
+|last = Porco
+|first = C. C.
+|authorlink = Carolyn Porco
+|coauthors = [http://ciclops.org/team/iss_team.php?js=1 et al.]
+|title = Cassini Observes the Active South Pole of Enceladus
+|journal = Science
+|volume = 311
+|issue = 5766
+|pages = 1393–1401
+|year = 2006|doi = 10.1126/science.1123013
+|pmid = 16527964|bibcode = 2006Sci...311.1393P }}</ref>
+| period = 1.370&nbsp;218 days or 118,386.82 seconds<ref name=solarsys>[http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc NASA Celestia Solar System Definition File]{{dead link|date=August 2011}}. Retrieved March 22, 2006.</ref>
+| inclination = 0.019° (to Saturn's equator)
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 513.2×502.8×496.6 km<ref name=Roatsch2009>{{cite doi|10.1007/978-1-4020-9217-6_24}}</ref>
+| mean_radius = 252.1 ± 0.2 km<ref name=Roatsch2009/> (0.0395 Earths)
+| mass = (1.080&nbsp;22 ± 0.001&nbsp;01){{e|20}} kg<ref name="Jacobson 2006">{{cite journal| last=Jacobson| first=R. A.| coauthors=Antreasian, P. G.; Bordi, J. J.; Criddle, K. E. ''et al.''| title=The Gravity Field of the Saturnian System from Satellite Observations and Spacecraft Tracking Data| journal=The Astronomical Journal| month=December| year=2006| volume=132| issue=6| pages=2520–2526| doi=10.1086/508812| bibcode=2006AJ....132.2520J}}</ref> (1.8×10<sup>−5</sup> Earths)
+| density = 1.609 ± 0.005 [[gram|g]]/cm<sup>3</sup><ref name=Roatsch2009/>
+| surface_grav = {{Gr|0.108|252.1|3}} [[Acceleration|m/s<sup>2</sup>]] (0.011&nbsp;3 [[g-force|g]]) <!--- Calculated from mass figure above using mean equatorial radius --->
+| escape_velocity = {{V2|0.108|252.1|3}} km/s (860.4 km/h)<!--- Calculated from mass figure above --->
+| rotation = [[synchronous rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 1.375 ± 0.008 ([[geometric albedo|geometric]]) or 0.99&nbsp;([[Bond albedo|Bond]])<ref name=Verbiscer>{{cite journal|doi=10.1126/science.1134681|title=Enceladus: Cosmic Graffiti Artist Caught in the Act|year=2007|last1=Verbiscer|first1=A.|last2=French|first2=R.|last3=Showalter|first3=M.|last4=Helfenstein|first4=P.|journal=Science|volume=315|page=815|pmid=17289992|issue=5813|bibcode = 2007Sci...315..815V }} p. 815 (supporting online material, table S1)</ref>
+| magnitude = 11.7<ref name=magnitude>{{cite web|title=Classic Satellites of the Solar System|url=http://www.oarval.org/ClasSaten.htm|publisher=Observatorio ARVAL|accessdate=2007-09-28}}</ref>
+| temperatures = yes
+| temp_name1 = [[Kelvin]]<ref name=Spencer>{{cite journal|doi=10.1126/science.1121661|title=Cassini Encounters Enceladus: Background and the Discovery of a South Polar Hot Spot|year=2006|author=Spencer, J. R. ''et al.''|journal=Science|volume=311|pages=1401–5|pmid=16527965|issue=5766|bibcode = 2006Sci...311.1401S }}</ref>
+| min_temp_1 = 32.9 [[kelvin|K]]
+| mean_temp_1 = 75 K
+| max_temp_1 = 145 K
+| atmosphere = yes
+| surface_pressure = trace, significant spatial
+variability<ref name=Dougherty>{{cite journal|doi=10.1126/science.1120985|title=Identification of a Dynamic Atmosphere at Enceladus with the Cassini Magnetometer|year=2006|author=Dougherty, M. K. ''et al.''|journal=Science|volume=311|pages=1406–9|pmid=16527966|issue=5766|bibcode = 2006Sci...311.1406D }}</ref><ref name=Hansen>{{cite journal|doi=10.1126/science.1121254|title=Enceladus' Water Vapor Plume|year=2006|author=Hansen, C. J. ''et al.''|journal=Science|volume=311|pages=1422–5|pmid=16527971|issue=5766|bibcode = 2006Sci...311.1422H }}</ref>
+| atmosphere_composition = 91% [[Water]] vapour<br />4% [[Nitrogen]]<br />3.2% [[Carbon dioxide]]<br />1.7% [[Methane]]<ref name=Waite>{{cite journal|doi=10.1126/science.1121290|title=Cassini Ion and Neutral Mass Spectrometer: Enceladus Plume Composition and Structure|year=2006|author=Waite, J. H. ''et al.''|journal=Science|volume=311|pages=1419–22|pmid=16527970|issue=5766|bibcode = 2006Sci...311.1419W }}</ref>
+}}
+:''This article is about the moon of Saturn; for the mythological giant, see [[Enceladus (mythology)]].''
+'''Enceladus''' is the sixth-largest of the [[moons of Saturn]].<ref name=Discovery>[http://planetarynames.wr.usgs.gov/append7.html Planetary Body Names and Discoverers]. Retrieved March 22, 2006.</ref> It was discovered in 1789 by [[William Herschel]].<ref name=Herschel_1790>Herschel, W.; ''Account of the Discovery of a Sixth and Seventh Satellite of the Planet Saturn; With Remarks on the Construction of Its Ring, Its Atmosphere, Its Rotation on an Axis, and Its Spheroidical Figure''<!--- Not in NASA ADS --->, Philosophical Transactions of the Royal Society of London, Vol. 80 (1790), pp. 1–20</ref> Until the two ''[[Voyager program|Voyager]]'' spacecraft passed near it in the early 1980s very little was known about this small moon besides the identification of water ice on its surface. The Voyagers showed that the diameter of Enceladus is only {{convert|500|km|sp=us}}, about a tenth of that of [[Saturn (planet)|Saturn]]'s largest moon, [[Titan (moon)|Titan]], and that it reflects almost all of the [[sunlight]] that strikes it. ''Voyager 1'' found that Enceladus orbited in the densest part of Saturn's diffuse [[Rings of Saturn#E Ring|E ring]], indicating a possible association between the two, while ''Voyager 2'' revealed that despite the moon's small size, it had a wide range of terrains ranging from old, heavily [[impact crater|cratered]] surfaces to young, tectonically deformed [[terrain]], with some regions with surface ages as young as 100 [[million]] years old.
+
+In 2005 the ''[[Cassini–Huygens|Cassini]]'' spacecraft performed several close flybys of Enceladus, revealing the moon's surface and environment in greater detail. In particular, the probe discovered a water-rich plume venting from the moon's south [[polar region]]. This discovery, along with the presence of escaping [[internal heat]] and very few (if any) impact craters in the south polar region, shows that Enceladus is geologically active today. Moons in the extensive satellite systems of gas giants often become trapped in [[orbital resonance]]s that lead to forced [[libration]] or [[orbital eccentricity]]; proximity to the planet can then lead to [[tidal heating]] of the satellite's interior, offering a possible explanation for the activity.
+
+Enceladus is one of only three [[Solar system#Outer planets|outer solar system]] bodies (along with [[Jupiter]]'s moon [[Io (moon)|Io]] and [[Neptune]]'s moon [[Triton (moon)|Triton]]) where active eruptions have been observed. Analysis of the outgassing suggests that it originates from a body of sub-surface liquid [[water]], which along with the unique chemistry found in the plume, has fueled speculations that Enceladus may be important in the study of [[astrobiology]].<ref name=Ciclops1881>[http://ciclops.org/view.php?id=1881 ''Cassini Images of Enceladus Suggest Geysers Erupt Liquid Water at the Moon’s South Pole'']. Retrieved March 22, 2006.</ref> The discovery of the plume has added further weight to the argument that material released from Enceladus is the source of the E ring.
+
+In May 2011 NASA scientists at an Encedalus Focus Group Conference reported that Enceladus "is emerging as the most habitable spot beyond Earth in the Solar System for life as we know it".<ref>{{cite journal |last1=Lovett |first1=Richard A. |title=Enceladus named sweetest spot for alien life |url=http://www.nature.com/news/2011/110531/full/news.2011.337.html |date=31 May 2011 |publisher=[[Nature (journal)|Nature]] |accessdate=2011-06-03 |doi=10.1038/news.2011.337}}</ref><ref>{{cite web |last1=Kazan  |first1=Casey  |title=Saturn's Enceladus Moves to Top of "Most-Likely-to-Have-Life" List |url=http://www.dailygalaxy.com/my_weblog/2011/06/saturns-enceladus-moves-to-top-of-most-likely-to-have-life-list.html |date= 2 June 2011 |publisher=The Daily Galaxy |accessdate=2011-06-03}}</ref>
+
+==Name==
+{{see also|List of geological features on Enceladus}}
+[[File:Enceladus Earth Comparison at 29 km per px.png|thumb|250px|Size comparison of [[Earth]] and Enceladus]]
+Enceladus is named after the [[Gigantes|Giant]] [[Enceladus (mythology)|Enceladus]] of [[Greek mythology]]. The name Enceladus — like the names of each of the first seven satellites of Saturn to be discovered — was suggested by William Herschel's son [[John Herschel]] in his 1847 publication ''Results of Astronomical Observations made at the Cape of Good Hope''.<ref name=Lassell>As reported by [[William Lassell]], [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000042.000.html Monthly Notices of the Royal Astronomical Society, Vol. 8, No. 3, pp. 42–43] 1848 January 14)</ref> He chose these names because [[Saturn (mythology)|Saturn]], known in Greek mythology as [[Cronus]], was the leader of the Titans.
+
+Features on Enceladus are named by the [[International Astronomical Union]] (IAU) after characters and places from the ''[[The Book of One Thousand and One Nights|Arabian Nights]]''.<ref name=NameCategories>Blue, J.; (2006) [http://planetarynames.wr.usgs.gov/append6.html ''Categories for Naming Planetary Features'']. Retrieved November 16, 2006.</ref> [[Impact crater]]s are named after characters, while other feature types, such as [[fossa (geology)|fossae]] (long, narrow depressions), [[Dorsum (astrogeology)|dorsa]] (ridges), [[planitia]] ([[plain]]s), and [[Sulcus (geology)|sulci]] (long parallel grooves), are named after places. 57 features have been officially named by the IAU; 22 features were named in 1982 based on the results of the ''Voyager'' flybys, and 35 features were approved in November 2006 based on the results of ''Cassini's'' three flybys in 2005.<ref name=NewNames>Blue, J.; (2006); [http://astrogeology.usgs.gov/HotTopics/index.php?/archives/224-New-Names-for-Enceladus.html ''New Names for Enceladus''], 13 November 2006. Retrieved November 16, 2006.</ref> Examples of approved names include [[Samarkand Sulci]], [[Aladdin (crater)|Aladdin]] crater, [[Daryabar Fossa]], and [[Sarandib Planitia]].
+
+==Exploration==
+[[File:Enceladus from Voyager.jpg|thumb|left|Figure 1: Enceladus as seen by ''Voyager 2'', August 26, 1981]]
+{| class="toccolours" style="float:right; font-size:75%; margin:0 0 1em 1em;" cellpadding="0" cellspacing="0"
+|-
+! style="background:#a0ffa0;" colspan="2"| Planned/previous ''Cassini'' encounters with Enceladus<ref name=PlanetarySocTable>Planetary Society, [http://planetary.org/explore/topics/cassini_huygens/tour.html ''Cassini's Tour of the Saturn System'']. Retrieved March 31, 2006.</ref><ref>[http://saturn.jpl.nasa.gov/mission/saturntourdates/saturntourdates2011/ Cassini Solstice Mission: Saturn Tour Dates: 2011]. Saturn.jpl.nasa.gov. Retrieved on 2011-06-28.</ref>
+|-
+! align=right|Date
+----
+! align=right|Distance (km)
+----
+|-
+| align=right|February 17, 2005
+| align=right|1,264
+|-
+| align=right|March 9, 2005
+| align=right|500
+|-
+| align=right|March 29, 2005
+| align=right|64,000
+|-
+| align=right|May 21, 2005
+| align=right|93,000
+|-
+| align=right|July 14, 2005
+| align=right|175
+|-
+| align=right|October 12, 2005
+| align=right|49,000
+|-
+| align=right|December 24, 2005
+| align=right|94,000
+|-
+| align=right|January 17, 2006
+| align=right|146,000
+|-
+| align=right|September 9, 2006
+| align=right|40,000
+|-
+| align=right|November 9, 2006
+| align=right|95,000
+|-
+| align=right|June 28, 2007
+| align=right|90,000
+|-
+| align=right|September 30, 2007
+| align=right|98,000
+|-
+| align=right|March 12, 2008
+| align=right|52
+|-
+| align=right|June 30, 2008
+| align=right|84,000
+|-
+| align=right|August 11, 2008
+| align=right|54
+|-
+| align=right|October 9, 2008
+| align=right|25
+|-
+| align=right|October 31, 2008
+| align=right|200
+|-
+| align=right|November 8, 2008
+| align=right|52,804
+|-
+| align=right|November 2, 2009
+| align=right|103
+|-
+| align=right|November 21, 2009
+| align=right|1,607
+|-
+| align=right|April 28, 2010
+| align=right|103
+|-
+| align=right|May 18, 2010
+| align=right|201
+|-
+| align=right|August 13, 2010
+| align=right|2554
+|-
+| align=right|November 30, 2010
+| align=right|48
+|-
+| align=right|December 21, 2010
+| align=right|50
+|-
+| align=right|January 30, 2011
+| align=right|60000
+|-
+| align=right|February 20, 2011
+| align=right|68000
+|-
+| align=right|September 13, 2011
+| align=right|42000
+|-
+| align=right|October 1, 2011
+| align=right|99
+|-
+| align=right|October 19, 2011
+| align=right|1231
+|-
+| align=right|November 5, 2011
+| align=right|496
+|-
+| align=right|November 23, 2011
+| align=right|35000
+|-
+| align=right|December 11, 2011
+| align=right|20000
+|}
+Enceladus was discovered by [[William Herschel|Fredrick William Herschel]] on August 28, 1789, during the first use of his new 1.2 m telescope, then the largest in the world.<ref name=Herschel_1795>Herschel, W. (1795) [http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1795RSPT...85..347H&db_key=AST&link_type=ABSTRACT&high=45eb6e10af23195 ''Description of a Forty-feet Reflecting Telescope''], Philosophical Transactions of the Royal Society of London, Vol. 85, pp. 347–409 (reported by M. Arago (1871), [http://laplaza.org/~tom/People/Herschel.htm ''Herschel''], Annual Report of the Board of Regents of the Smithsonian Institution, pp. 198–223)</ref><ref name=Frommert>Frommert, H.; and Kronberg, C.; [http://www.obspm.fr/messier/xtra/Bios/wherschel.html ''William Herschel (1738–1822)'']. Accessed May 29, 2006</ref> Herschel first observed Enceladus in 1787, but in his smaller, 16.5&nbsp;cm telescope, the moon was not recognized.<ref name=Soylent>Soylent Communications, [http://www.nndb.com/people/661/000096373/ ''William Herschel'']. Accessed May 29, 2006</ref> Its faint [[apparent magnitude]] (+11.7<sup>m</sup>) and its proximity to much brighter Saturn and its rings make Enceladus difficult to observe from Earth, requiring a telescope with a mirror of {{nowrap|15–30 cm}} in diameter, depending on atmospherical conditions and [[light pollution]]. Like many Saturnian satellites discovered prior to the [[Space Age]], Enceladus was first observed during a Saturnian equinox, when Earth is within the ring plane; at such times, the reduction in glare from the rings makes the moons easier to observe.
+
+Prior to the [[Voyager program|Voyager missions]] the view of Enceladus improved little from the dot first observed by Herschel. Only its orbital characteristics were known, with estimations of its [[mass]], [[density]] and [[albedo]].
+
+The two [[Voyager program|Voyager]] spacecraft obtained the first close-up images of Enceladus. ''[[Voyager 1]]'' was the first to fly past Enceladus, at a distance of 202,000&nbsp;km on November 12, 1980.<ref name=Voyager>[http://pds-rings.seti.org/voyager/mission/ ''Voyager Mission Description'']. Accessed May 29, 2006</ref> Images acquired from this distance had very poor spatial resolution, but revealed a highly reflective surface devoid of impact craters, indicating a youthful surface.<ref name=Terrile>Terrile, R. J.; and Cook, A. F.; (1981); [http://articles.adsabs.harvard.edu//full/seri/LPICo/0428//0000010.000.html ''Enceladus: Evolution and Possible Relationship to Saturn's E-Ring'']. 12th Annual Lunar and Planetary Science Conference, Abstract 428</ref> ''Voyager 1'' also confirmed that Enceladus was embedded in the densest part of Saturn's diffuse [[Rings of Saturn#E Ring|E-ring]]. Combined with the apparent youthful appearance of the surface, Voyager scientists suggested that the E-ring consisted of particles vented from Enceladus's surface.<ref name=Terrile/>
+[[File:Enceladus geysers.jpg|thumb|Dramatic plumes, both large and small, spray water ice out from many locations along the famed "[[Tiger Stripes (Enceladus)|tiger stripes]]" near the south pole of Saturn's moon Enceladus. From right to left, the four major stripes are Damascus, Baghdad, Cairo and Alexandria sulci.]]
+
+''[[Voyager 2]]'' passed closer to Enceladus (87,010&nbsp;km) on August 26, 1981, allowing much higher resolution images of this satellite.<ref name=Voyager/> These images revealed the youthful nature of much of its [[surface]], as seen in Figure 1.<ref name=Rothery>{{cite book|author=Rothery, David A.|title=Satellites of the Outer Planets: Worlds in their own right|publisher=Oxford University Press|year=1999|isbn=0-19-512555-X}}</ref> They also revealed a surface with different regions with vastly different surface ages, with a heavily cratered mid- to high-northern latitude region, and a lightly cratered region closer to the equator. This geologic diversity contrasts with the ancient, heavily cratered surface of [[Mimas (moon)|Mimas]], another moon of Saturn slightly smaller than Enceladus. The geologically youthful terrains came as a great surprise to the scientific community, because no theory was then able to predict that such a small (and cold, compared to [[Jupiter]]'s highly active moon [[Io (moon)|Io]]) celestial body could bear signs of such activity. However, ''Voyager 2'' failed to determine whether Enceladus was currently active or whether it was the source of the E-ring.
+[[File:False color Cassini image of jets in the southern hemisphere of Enceladus.jpg|thumb|False-color Cassini image of jets in the southern hemisphere of Enceladus]]
+
+The answer to these and other mysteries would have to wait until the arrival of the [[Cassini–Huygens|''Cassini'' spacecraft]] on July 1, 2004, when it went into orbit around Saturn. Given the results from the ''Voyager 2'' images, Enceladus was considered a priority target by the ''Cassini'' mission planners, and several targeted [[Planetary flyby|flyby]]s within 1,500&nbsp;km of the surface were planned as well as numerous, "non-targeted" opportunities within 100,000&nbsp;km of Enceladus. These encounters are listed at right. So far, four close flybys of Enceladus have been performed, yielding significant information concerning Enceladus's surface, as well as the discovery of [[water vapor]] and complex [[hydrocarbon]]s venting from the geologically active South Polar Region. These discoveries have prompted the adjustment of Cassini's flight plan to allow closer flybys of Enceladus, including an encounter in March 2008 which took the probe to within 52&nbsp;km of the moon's surface.<ref name=PlanetarySocTable/> The extended mission for Cassini included seven close flybys of Enceladus between July 2008 and July 2010, including two passes at only 50&nbsp;km in the later half of 2008.<ref name=SpaceDaily02052007>Moomaw, B.; [http://www.spacedaily.com/reports/Tour_de_Saturn_Set_For_Extended_Play_999.html ''Tour de Saturn Set For Extended Play''], Spacedaily.com, February 5, 2007. Retrieved February 5, 2007.</ref>
+
+The discoveries Cassini has made at Enceladus have prompted several studies into follow-up missions. In 2007 NASA performed a concept study for a mission that would orbit Enceladus and would perform a detailed examination of the south polar plumes.<ref name=NASASSE>[http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target&Target=Saturn&MCode=EE Missions to Saturn, Cassini], NASA, Retrieved March 2, 2008.</ref> The concept was not selected for further study.<ref name=PEN122007>[http://planetarynews.org/archive07/pen_v01_n36_071223.txt Planetary exploration newsletter Volume 1, Number 36 (December 23, 2007)], Retrieved March 2, 2008.</ref> The European Space Agency also recently explored plans to send a probe to Enceladus in a mission to be combined with studies of Titan.<ref name=TandEM>[http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=42337 TandEM (Titan and Enceladus Mission) Workshop], February 7, 2008; Retrieved March 2, 2008.</ref>
+
+The [[Titan Saturn System Mission]] (TSSM) is a joint [[NASA]]/[[ESA]] proposal for exploration of [[Saturn]]'s moons, including Enceladus. TSSM was competing against the [[Europa Jupiter System Mission]] (EJSM) proposal for funding. In February 2009 it was announced that ESA/NASA had given the EJSM mission priority ahead of TSSM,<ref>{{cite news|last=Rincon |first=Paul |url=http://news.bbc.co.uk/1/hi/sci/tech/7897585.stm |title=Science & Environment &#124; Jupiter in space agencies' sights |publisher=BBC News |date=2009-02-18 |accessdate=2009-03-13}}</ref> although TSSM will continue to be studied for a later launch date.
+
+==Characteristics==
+===Orbit===
+[[File:Enceladus orbit 2.jpg|thumb|Figure 2: View of Enceladus's orbit (highlighted in red) from above Saturn's north pole]]
+Enceladus is one of the major inner satellites of Saturn. It is the fourteenth satellite when ordered by distance from Saturn, and orbits within the densest part of the [[Rings of Saturn#E Ring|E Ring]], the outermost of [[rings of Saturn|Saturn's rings]], an extremely wide but very diffuse disk of microscopic icy or dusty material, beginning at the orbit of [[Mimas (moon)|Mimas]] and ending somewhere around the orbit of [[Rhea (moon)|Rhea]].
+
+Enceladus orbits Saturn at a distance of 238,000&nbsp;km from the planet's center and 180,000&nbsp;km from its cloudtops, between the orbits of [[Mimas (moon)|Mimas]] and [[Tethys (moon)|Tethys]], requiring 32.9 hours to revolve once (fast enough for its motion to be observed over a single night of observation). Enceladus is currently in a 2:1 mean motion [[orbital resonance]] with [[Dione (moon)|Dione]], completing two orbits of Saturn for every one orbit completed by Dione. This resonance helps maintain Enceladus's orbital eccentricity (0.0047) and provides a heating source for Enceladus's geologic activity.<ref name=Porco/>
+
+Like most of the larger satellites of Saturn, Enceladus rotates synchronously with its orbital period, keeping one face pointed toward Saturn. Unlike the Earth's moon, Enceladus does not appear to [[libration|librate]] about its spin axis (more than 1.5°). However, analysis of the shape of Enceladus suggests that at some point it was in a 1:4 forced secondary spin-orbit libration.<ref name=Porco/> This libration, like the resonance with Dione, could have provided Enceladus with an additional heat source.
+
+====Interaction with E Ring====
+The [[Rings of Saturn#E Ring|E Ring]] is the widest and outermost ring of Saturn. It is an extremely wide but very diffuse disk of microscopic icy or dusty material, beginning at the orbit of [[Mimas (moon)|Mimas]] and ending somewhere around the orbit of [[Rhea (moon)|Rhea]], though some observations suggest that it extends beyond the orbit of Titan, making it 1,000,000&nbsp;km wide. However, numerous mathematical models show that such a ring is unstable, with a lifespan between 10,000 and 1,000,000 years. Therefore, particles composing it must be constantly replenished. Enceladus is orbiting inside this ring, in a place where it is narrowest but present in its highest density. Therefore, several theories suspected Enceladus to be the main source of particles for the E Ring. This hypothesis was supported by Cassini's flyby.
+{|
+|-
+|[[File:Saturn's Rings PIA03550.jpg|thumb|450px|Figure 3: View of Enceladus's orbit from the side, showing Enceladus in relation to Saturn's E ring]] || [[File:E ring with Enceladus.jpg|thumb|250px|Enceladus orbiting within Saturn's E&nbsp;ring]]
+|}
+There are actually two distinct mechanisms feeding the ring with particles.<ref name=Spahn>{{cite journal|last = Spahn
+|first = F.
+|coauthors = ''et al.''
+|title = Cassini Dust Measurements at Enceladus and Implications for the Origin of the E Ring
+|journal = Science
+|volume = 311
+|issue = 5766
+|pages = 1416–1418
+|year = 2006
+|doi = 10.1126/science.1121375
+|pmid = 16527969|bibcode = 2006Sci...311.1416S }}</ref> The first, and probably the most important, source of particles comes from the [[cryovolcano|cryovolcanic]] plume in the South polar region of Enceladus. While a majority of particles fall back to the surface, some of them escape Enceladus's gravity and enter orbit around Saturn, since Enceladus's [[escape velocity]] is only {{nowrap|866 km/h}}. The second mechanism comes from meteoric bombardment of Enceladus, raising dust particles from the surface. This mechanism is not unique to Enceladus, but is valid for all Saturn's moons orbiting inside the E Ring.
+
+===Size and shape===
+[[File:Titan and Enceladus.jpg|thumb|upright|Figure 4: Enceladus (top left) transits Titan, as seen from ''Cassini'' on February 5, 2006. Enceladus was 4.1 million km away, and Titan a further 1.2 million km.]]
+[[File:Enceladus moon to scale-PIA07724.jpg|thumb|upright|Figure 5: [[Jet Propulsion Laboratory|NASA JPL]] to-scale size comparison of Enceladus.]]
+Enceladus is a relatively small satellite, with a mean diameter of {{convert|505|km|sp=us}}, only one-seventh the diameter of Earth's own [[Moon]]. In diameter Enceladus is small enough to fit within the length of the island of [[Great Britain]]. It could also fit comfortably within the states of [[Arizona]] or [[Colorado]], although as a spherical object its surface area is much greater, just over {{convert|800000|km2|sp=us}}, almost the same as [[Mozambique]], or 15% larger than [[Texas]].
+
+Its mass and diameter make Enceladus the sixth most massive and largest satellite of Saturn, after [[Titan (moon)|Titan]] ({{nowrap|5150 km}}), [[Rhea (moon)|Rhea]] ({{nowrap|1530 km}}), [[Iapetus (moon)|Iapetus]] ({{nowrap|1440 km}}), [[Dione (moon)|Dione]] ({{nowrap|1120 km}}) and [[Tethys (moon)|Tethys]] ({{nowrap|1050 km}}). It is also one of the smallest of Saturn's spherical satellites, since all smaller satellites except [[Mimas (moon)|Mimas]] ({{nowrap|390 km}}) have an irregular shape.
+
+Enceladus has a shape of a oblate [[spheroid]]; its dimensions, calculated from pictures taken by Cassini's ISS instrument, are of {{nowrap|513<small>(a)</small>×503<small>(b)</small>×497<small>(c)</small> km}},<ref name=Porco /> with <small>(a)</small> corresponding to the diameter between sub- and anti-Saturnian poles, <small>(b)</small> to the diameter between the leading and trailing poles, and <small>(c)</small> to the distance between the north and south poles. This is the most stable orientation, with the moon's rotation along the short axis, and the long axis aligned radially away from Saturn.
+
+===Surface===
+{|
+|[[File:Enceladus ultra closeup.jpg|thumb|150px|A close-up image of terrain at Enceladus's south pole; individual boulders can be discerned amid the cracks and hills.]] || [[File:Enceladus June 2008 PIA08417.jpg|thumb|405px|A composite image map of Enceladus's surface (2008).]]
+|}
+''[[Voyager 2]]'', in August 1981, was the first spacecraft to observe the surface in detail. Examination of the resulting highest resolution [[mosaic]] reveals at least five different types of terrain, including several regions of cratered terrain, regions of smooth (young) terrain, and lanes of ridged terrain often bordering the smooth areas.<ref name=Rothery/> In addition, extensive linear cracks<ref name="cracks">{{cite news|last=NASA|title=Cracks on Enceladus Open and Close under Saturn's Pull|date=2007-05-16|url =http://www.nasa.gov/mission_pages/cassini/media/enceladus_cracks.html}}</ref> and [[escarpment|scarps]] were observed. Given the relative lack of craters on the smooth plains, these regions are probably less than a few hundred million years old. Accordingly, Enceladus must have been recently active with "[[cryovolcanism|water volcanism]]" or other processes that renew the surface. The fresh, clean ice that dominates its surface gives Enceladus probably the most reflective surface of any body in the solar system with a [[geometric albedo|visual geometric albedo]] of 1.38.<ref name=Verbiscer/> Because it reflects so much sunlight, the mean surface temperature at noon only reaches −198&nbsp;°C (somewhat colder than other Saturnian satellites).<ref name=Spencer/>
+
+Observations during three flybys by ''Cassini'' on February 17, March 9, and July 14 of 2005 revealed Enceladus's surface features in much greater detail than the ''Voyager 2'' observations. For example, the smooth plains observed by ''Voyager 2'' resolved into relatively crater-free regions filled with numerous small [[ridge]]s and scarps. In addition, numerous fractures were found within the older, cratered terrain, suggesting that the surface has been subjected to extensive deformation since the craters were formed.<ref name=Rathbun>Rathbun, J. A.; ''et al.''; (2005); [http://www.agu.org/cgi-bin/SFgate/SFgate?&listenv=table&multiple=1&range=1&directget=1&application=fm05&database=%2Fdata%2Fepubs%2Fwais%2Findexes%2Ffm05%2Ffm05&maxhits=200&=%22P21F-03%22 ''Enceladus's global geology as seen by Cassini ISS''], Eos Trans. AGU, Vol. 82, No. 52 (Fall Meeting Supplement), abstract P32A-03</ref> Finally, several additional regions of young terrain were discovered in areas not well-imaged by either ''Voyager'' spacecraft, such as the bizarre terrain near the south pole.<ref name=Porco/>
+
+====Impact craters====
+[[File:EN003 Degraded Craters on Enceladus.jpg|thumb|Figure 6: Degraded craters on Enceladus, imaged by ''Cassini'', February 17, 2005. [[Hamah Sulci]] can be seen running from left to right along the bottom quarter of the image. Craters from Enceladus's ct<sub>2</sub> and cp cratered units are visible above Hamah Sulci]]
+[[Impact crater]]ing is a common occurrence on many solar system bodies. Much of Enceladus's surface is covered with craters at various densities and levels of degradation. From ''Voyager 2'' observations, three different [[Geologic unit|units]] of cratered topography were identified on the basis of their crater densities, from ct<sub>1</sub> and ct<sub>2</sub>, both containing numerous 10–20&nbsp;km-wide craters though differing in the degree of deformation, to cp consisting of lightly cratered plains.<ref name=Smith>{{cite journal|doi=10.1126/science.215.4532.504|title=A New Look at the Saturn System: The Voyager 2 Images|year=1982|author=Smith, B. A.|journal=Science|volume=215|pages=504–37|pmid=17771273|issue=4532|bibcode = 1982Sci...215..504S }}</ref> This subdivision of cratered terrains on the basis of crater density (and thus surface age) suggests that Enceladus has been resurfaced in multiple stages.
+
+Recent ''Cassini'' observations have provided a much closer look at the ct<sub>2</sub> and cp cratered units. These high-resolution observations, like Figure 6, reveal that many of Enceladus's craters are heavily deformed through viscous relaxation and [[fracture|fracturing]].<ref name=Turtle>Turtle, E. P.; ''et al.''; [http://saturn.jpl.nasa.gov/multimedia/products/pdfs/CHARM_Turtle_050426.pdf ''Enceladus, Curiouser and Curiouser: Observations by Cassini's Imaging Science Subsystem''], Cassini CHARM Teleconference, 28 April 2005</ref> Viscous relaxation allows gravity, over geologic time scales, to deform craters and other topographic features formed in water ice, reducing the amount of topography over time. The rate at which this occurs is dependent on the temperature of the ice: warmer ice is easier to deform than colder, stiffer ice. Viscously relaxed craters tend to have [[dome]]d floors, or are recognized as craters only by a raised, circular rim (seen at center just below the [[terminator (solar)|terminator]] in Figure 6). [[Dunyazad (crater)|Dunyazad]], the large crater seen in Figure 8 just left of top center, is a prime example of a viscously relaxed crater on Enceladus, with a prominent domed floor. In addition, many craters on Enceladus have been heavily modified by tectonic fractures. The 10-km-wide crater right of bottom center in Figure 8 is a prime example: thin fractures, several hundred meters to a kilometer wide, have heavily altered the crater's rim and floor. Nearly all craters on Enceladus thus far imaged by ''Cassini'' in the ct<sub>2</sub> unit show signs of tectonic deformation. These two deformation styles—viscous relaxation and fracturing—demonstrate that, while cratered terrains are the oldest regions on Enceladus because of their high crater retention, nearly all craters on Enceladus are in some stage of degradation.
+
+====Tectonics====
+''Voyager 2'' found several types of tectonic features on Enceladus, including [[trough (geology)|troughs]], scarps, and [[Geology|belts]] of grooves and [[ridge]]s.<ref name=Rothery/> Recent results from ''Cassini'' suggest that [[tectonism]] is the dominant deformation style on Enceladus. One of the more dramatic types of tectonic features found on Enceladus are rifts. These canyons can be up to 200&nbsp;km long, 5–10&nbsp;km wide, and one km deep. Figure 7 shows a typical large fracture on Enceladus cutting across older, tectonically deformed terrain. Another example can be seen running along the bottom of the frame in Figure 8. Such features appear relatively young, as they cut across other tectonic features and have sharp topographic relief with prominent outcrops along the cliff faces.
+{|
+|[[File:EN003 Enceladus Mosaic.jpg|thumb|260px|Figure 7: Enceladus's [[Europa (moon)|Europa]]-like surface near the fracture [[Labtayt Sulci]], imaged by ''Cassini'', 17 February 2005]] || [[File:EN004 Painting on the walls.jpg|thumb|upright|Figure 8: [[False-color]] view of Enceladus's surface, showing several tectonic and crater degradation styles. Taken by ''Cassini'' on 9 March 2005]]
+|}
+Another example of tectonism on Enceladus is grooved terrain, consisting of lanes of curvilinear grooves and ridges. These bands, first discovered by ''Voyager 2'', often separate smooth plains from cratered regions.<ref name=Rothery/> An example of this terrain type can be seen in Figures 6 and 10 (in this case, a feature known as [[Samarkand Sulci]]). Grooved terrains such as Samarkand Sulci are reminiscent of grooved terrain on [[Ganymede (moon)|Ganymede]]. However, unlike those seen on Ganymede, grooved topography on Enceladus is generally much more complex. Rather than parallel sets of grooves, these lanes can often appear as bands of crudely aligned, chevron-shaped features. In other areas, these bands appear to bow upwards with fractures and ridges running the length of the feature. ''Cassini'' observations of Samarkand Sulci have revealed intriguing dark spots (125 and 750 m wide), which appear to run parallel to narrow fractures. Currently, these spots are interpreted as collapse pits within these ridged plain belts.<ref name=Turtle/>
+
+[[File:EN004 Moon with a Past.jpg|thumb|Figure 9: High-resolution mosaic of Enceladus's surface, showing several tectonic and crater degradation styles. Taken by ''Cassini'' on 9 March 2005.]]
+
+In addition to deep fractures and grooved lanes, Enceladus has several other types of tectonic terrain. Figure 9 shows sets of narrow fractures (still several hundred meters wide) that were first discovered by the ''Cassini'' spacecraft. Many of these fractures are found in bands cutting across cratered terrain. These fractures appear to propagate down only a few hundred meters into the crust. Many appear to have been influenced during their formation by the weakened [[regolith]] produced by impact craters, often changing the strike of the propagating fracture.<ref name=Turtle/><ref name=Barnash>Barnash, A. N.; ''et al.''; (2006); [http://www.abstractsonline.com/viewer/viewAbstract.asp?CKey={25BDAB68-CDB8-47D3-A19C-D0FFD5D11E58}&MKey={66F0352A-30DC-4B9F-B0CC-E851495B78DC}&AKey={AAF9AABA-B0FF-4235-8AEC-74F22FC76386}&SKey={C4707917-6E8C-4620-9DC2-2A702863D08D} ''Interactions Between Impact Craters and Tectonic Fractures on Enceladus''], Bulletin of the American Astronomical Society, Vol. 38, No. 3, presentation no. 24.06</ref> Another example of tectonic features on Enceladus are the linear grooves first found by ''Voyager 2'' and seen at a much higher resolution by ''Cassini''. Examples of linear grooves can be found in the lower left of the figure at top and Figure 10 (lower left), running from north to south from top center before turning to the southwest. These linear grooves can be seen cutting across other terrain types, like the groove and ridge belts. Like the deep rifts, they appear to be among the youngest features on Enceladus. However, some linear grooves appear to be softened like the craters nearby, suggesting an older age. Ridges have also been observed on Enceladus, though not nearly to the extent as those seen on [[Europa (moon)|Europa]]. Several examples can be seen in the lower left corner of Figure 7. These ridges are relatively limited in extent and are up to one km tall. One-kilometer high domes have also been observed.<ref name=Turtle/> Given the level of tectonic resurfacing found on Enceladus, it is clear that tectonism has been an important driver of geology on this small moon for much of its history.
+
+====Smooth plains====
+[[File:EN003 Samarkand Sulci.jpg|thumb|upright|Figure 10: Samarkand Sulci on Enceladus. Taken by ''Cassini'' on 17 February 2005. The northwest portion of Sarandib Planitia can be seen at right]]
+
+Two units of smooth plains were also observed by ''Voyager 2''. These plains generally have low relief and have far fewer craters than in the cratered terrains and plains, indicating a relatively young surface age.<ref name=Smith/> In one of the smooth plain regions, [[Sarandib Planitia]], no impact craters were visible down to the limit of resolution. Another region of smooth plains to the southwest of Sarandib, is criss-crossed by several troughs and scarps. ''Cassini'' has since viewed these smooth plains regions, like Sarandib Planitia and [[Diyar Planitia]] at much higher resolution. ''Cassini'' images show smooth plain regions to be filled with low-relief ridges and fractures. These features are currently interpreted as being caused by [[shear stress|shear deformation]].<ref name=Turtle/> The high resolution images of Sarandib Planitia have revealed a number of small impact craters, which allow for an estimate of the surface age, either 170 million years or 3.7 [[1000000000 (number)|billion]] years, depending on assumed impactor population.<ref name=Porco/><ref name=Crater_flux>Without samples to provide absolute age determinations, crater counting is currently the only method for determining surface age on most planetary surfaces. Unfortunately, there is currently disagreement in the scientific community regarding the flux of impactors in the outer solar system. These competing models can significantly alter the age estimate even with the same crater counts. For the sake of completeness, both age estimates from Porco ''et al.'' 2006 are provided.</ref>
+
+The expanded surface coverage provided by ''Cassini'' has allowed for the identification of additional regions of smooth plains, particularly on Enceladus's leading hemisphere (the side of Enceladus that faces the direction of motion as the moon orbits Saturn). Rather than being covered in low relief ridges, this region is covered in numerous criss-crossing sets of troughs and ridges, similar to the deformation seen in the south polar region. This area is on the opposite side of the satellite from Sarandib and Diyar Planitiae, suggesting that the placement of these regions is influenced by Saturn's tides on Enceladus.<ref name="Pappalardo">{{cite journal |last=Nimmo |first=F. |coauthors=Pappalardo, R. T. |year=2006 |title=Diapir-induced reorientation of Saturn's moon Enceladus |journal=Nature |volume=441 |issue=7093 |pages=614–616 |doi=10.1038/nature04821 |pmid=16738654|bibcode = 2006Natur.441..614N }}</ref>
+
+====South polar region====
+{{See also|Tiger Stripes (Enceladus)}}
+[[File:Enceladusstripes cassini.jpg|thumb|upright|Figure 11: [[False-color]] mosaic of Enceladus taken by the [[Cassini–Huygens]] probe on July 14, 2005. It shows the south polar region, as demarcated by the circumpolar set of ridges and troughs in the bottom half of the mosaic]]
+
+Images taken by ''Cassini'' during the flyby on July 14, 2005 revealed a distinctive, tectonically deformed region surrounding Enceladus's south pole. This area, reaching as far north as 60° south latitude, is covered in tectonic fractures and ridges.<ref name=Porco/><ref name=Ciclops1223>[http://ciclops.org/view.php?id=1223 ''Enceladus in False Color'']. Retrieved March 22, 2006.</ref> The area has few sizable impact craters, suggesting that it is the youngest surface on Enceladus and on any of the mid-sized icy satellites; modeling of the cratering rate suggests that some regions of the SPT are possibly as young as 500,000 years, or younger.<ref name=Porco/> Near the center of this terrain are four fractures bounded on either side by ridges, unofficially called "[[Tiger Stripes (Enceladus)|tiger stripes]]". These fractures appear to be the youngest features in this region and are surrounded by mint-green-colored (in false color, UV-green-near IR images), coarse-grained water ice, seen elsewhere on the surface within outcrops and fracture walls.<ref name=Ciclops1223/> Here the "blue" ice is on a flat surface, indicating that the region is young enough not to have been coated by fine-grained water ice from [[Rings of Saturn#E Ring|E ring]]. Results from the visual and infrared spectrometer (VIMS) instrument suggest that the green-colored material surrounding the tiger stripes is chemically distinct from the rest of the surface of Enceladus. VIMS detected crystalline water ice in the stripes, suggesting that they are quite young (likely less than 1000 years old) or the surface ice has been thermally altered in the recent past.<ref name=VIMS_PR>[http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=598 ''Cassini Finds Enceladus Tiger Stripes are Really Cubs''], 30 August 2005. Retrieved May 29, 2006.</ref> VIMS also detected simple organic compounds in the tiger stripes, chemistry not found anywhere else on the satellite thus far.<ref name="Brown">{{cite journal |last=Brown |first=R. H. |coauthors=''et al.'' |year=2006|title=Composition and Physical Properties of Enceladus's Surface |journal=Science |volume=311 |issue=5766 |pages=1425–1428 |doi=10.1126/science.1121031 |pmid=16527972|bibcode = 2006Sci...311.1425B }}</ref>
+
+One of these areas of “blue” ice in the south polar region was observed at very high resolution during the July 14 flyby, revealing an area of extreme tectonic deformation and blocky terrain, with some areas covered in boulders 10–100 m across.<ref name=Ciclops1250>[http://ciclops.org/view.php?id=1250 ''Boulder-Strewn Surface'']. Retrieved March 22, 2006.</ref>
+
+[[File:Enceladus south pole SE15.png|thumb|upright|Composite map of the south polar region (to 65 deg. S. latitude) of Enceladus (2007)]]
+The boundary of the south polar region is marked by a pattern of parallel, Y- and V-shaped ridges and valleys. The shape, orientation, and location of these features indicate that they are caused by changes in the overall shape of Enceladus. {{As of|2006|alt=Currently}}, there are two theories for what could cause such a shift in shape. First, the orbit of Enceladus may have migrated inward (from the article: "the lack of any plausible mechanism for increased flattening"), leading to an increase in Enceladus's rotation rate. Such a shift would have led to a flattening of Enceladus's rotation axis.<ref name=Porco/> Another theory suggests that a rising mass of warm, low density material in Enceladus's interior led to a shift in the position of the current south polar terrain from Enceladus's southern mid-latitudes to its south pole.<ref name=Pappalardo/> Consequently, the ellipsoid shape of Enceladus would have adjusted to match the new orientation. One consequence of the axial flattening theory is that both polar regions should have similar tectonic deformation histories.<ref name=Porco/> However, the north polar region is densely cratered, and has a much older surface age than the south pole.<ref name=Smith/> Thickness variations in Enceladus's [[lithosphere]] is one explanation for this discrepancy. Variations in lithospheric thickness are supported by the correlation between the Y-shaped discontinuities and the V-shaped cusps along the south polar terrain margin and the relative surface age of the adjacent non-south polar terrain regions. The Y-shaped discontinuities, and the north-south trending tension fractures into which they lead, are correlated with younger terrain with presumably thinner lithospheres. The V-shaped cusps are adjacent to older, more heavily cratered terrains.<ref name=Porco/>
+
+===Cryovolcanism===
+[[File:Fountains of Enceladus PIA07758.jpg|thumb|Figure 12: Plumes above the limb of Enceladus feeding the E ring. These appear to emanate from the "tiger stripes" near the south pole. (View from Cassini spacecraft)]]
+[[File:Jet Spots in Tiger Stripes PIA10361.jpg|thumb|Figure 13: Heat map (within white box) of the thermally active field of fractures, measured at wavelengths between 12 and 16 micrometers, superimposed on a visual-light image. One of the four fractures (right) was only partially imaged.]]
+[[File:Successful Flight Through Enceladus Plume.jpg|thumb|''Cassini'' views the backlit south polar plumes of Enceladus from a distance of 190,000 km.]]
+
+Following the ''Voyager'' encounters with Enceladus in the early 1980s, scientists postulated that the moon may be geologically active based on its young, reflective surface and location near the core of the E ring.<ref name=Rothery/> Based on the connection between Enceladus and the E ring, it was thought that Enceladus was the source of material in the E ring, perhaps through venting of water vapor from Enceladus's interior. However, the Voyagers failed to provide conclusive evidence that Enceladus is active today.
+
+Thanks to data from a number of instruments on the Cassini spacecraft in 2005, [[cryovolcanism]], where water and other volatiles are the materials erupted instead of silicate rock, has been discovered on Enceladus. The first Cassini sighting of a plume of icy particles above Enceladus's south pole came from the Imaging Science Subsystem (ISS) images taken in January and February 2005,<ref name=Porco/> though the possibility of the plume being a camera artifact stalled an official announcement. Data from the [[magnetometer]] instrument during the February 17, 2005 encounter provided a hint that the feature might be real when it found evidence for an atmosphere at Enceladus. The magnetometer observed an increase in the power of [[Electrostatic ion cyclotron wave|ion cyclotron waves]] near Enceladus. These waves are produced by the interaction of ionized particles and magnetic fields, and the frequency of the waves can be used to identify the composition, in this case [[ion]]ized [[water vapor]].<ref name=Dougherty/> During the next two encounters, the [[magnetometer]] team determined that gases in Enceladus's atmosphere are concentrated over the south polar region, with atmospheric density away from the pole being much lower.<ref name=Dougherty/> The [[Ultraviolet]] Imaging Spectrograph (UVIS) confirmed this result by observing two [[occultation|stellar occultations]] during the February 17 and July 14 encounters. Unlike the magnetometer, UVIS failed to detect an atmosphere above Enceladus during the February encounter when it looked for evidence for an atmosphere over the equatorial region, but did detect water vapor during an occultation over the south polar region during the July encounter.<ref name=Hansen/>
+
+Fortuitously, Cassini flew through this gas cloud during the July 14 encounter, allowing instruments like the Ion and Neutral [[Mass spectrometry|Mass Spectrometer]] ([[INMS]]) and the cosmic dust analyzer (CDA) to directly sample the plume. INMS measured the composition of the gas cloud, detecting mostly water vapor, as well as minor components like molecular [[nitrogen]], [[methane]], and [[carbon dioxide]].<ref name=Waite/> CDA "detected a large increase in the number of particles near Enceladus," confirming the satellite as the primary source for the E ring.<ref name=Spahn/> Analysis of the CDA and INMS data suggest that the gas cloud ''Cassini'' flew through during the July encounter, and observed from a distance with its magnetometer and UVIS, was actually a water-rich cryovolcanic plume, originating from vents near the south pole.<ref name=JPL619>[http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=619 ''NASA's Cassini Images Reveal Spectacular Evidence of an Active Moon''], 6 December 2005. Retrieved March 22, 2006.</ref>
+
+Visual confirmation of venting came in November 2005, when ISS imaged [[geyser]]-like [[Plume (hydrodynamics)|jets]] of icy particles rising from the moon's south polar region.<ref name=Porco/> (As stated above, the plume was imaged before, in January and February 2005, but additional studies of the camera's response at high phase angles, when the sun is almost behind Enceladus, and comparison with equivalent high phase images taken of other Saturnian satellites, were required before this could be confirmed.<ref name=Ciclops1652>[http://ciclops.org/view.php?id=1652 ''Spray Above Enceladus'']. Retrieved March 22, 2005.</ref>) The images taken in November 2005 showed the plume's fine structure, revealing numerous jets (perhaps issuing from numerous distinct vents) within a larger, faint component extending out nearly 500&nbsp;km from the surface, thus making Enceladus the fourth body in the solar system to have confirmed volcanic activity, along with [[Earth]], Neptune's [[Triton (moon)|Triton]], and Jupiter's [[Io (moon)|Io]].<ref name=JPL619/> Cassini's UVIS later observed gas jets coinciding with the dust jets seen by ISS during a non-targeted encounter with Enceladus in October 2007.
+
+Additional observations were acquired during a flyby on March 12, 2008. Data on this flyby revealed additional chemicals in the plume, including simple and complex hydrocarbons such as [[propane]], [[ethane]], and [[acetylene]].<ref name=PR03262008>[http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=827 ''Cassini Tastes Organic Material at Saturn's Geyser Moon''], 26 March 2008. Retrieved March 26, 2008.</ref> This finding further raises the potential for life beneath the surface of Enceladus.<ref name=MckayPR>[http://www.nasa.gov/mission_pages/cassini/media/enceladus-f20080326.html ''A Perspective on Life on Enceladus: A World of Possibilities''], 26 March 2008. Retrieved September 15, 2011.</ref> The composition of Enceladus's plume as measured by the INMS instrument on Cassini is similar to that seen at most comets.<ref name=PR03262008/>
+
+====Prior to the ammonia discovery====
+[[File:Enceladus Cold Geyser Model.svg|thumb|350px|Figure 14: One possible scheme for Enceladus's cryovolcanism]]
+The combined analysis of imaging, mass spectrometry, and magnetospheric data suggests that the observed south polar plume emanates from pressurized sub-surface chambers, similar to [[geyser]]s on Earth.<ref name=Porco/> Because no [[ammonia]] was found in the vented material by INMS or UVIS, which could act as an anti-freeze, such a heated, pressurized chamber would consist of nearly pure liquid water with a temperature of at least {{convert|270|K|°C|abbr=on}}, as illustrated in Figure 14. Pure water would require more energy to melt, either from tidal or radiogenic sources, than an ammonia-water mixture. Another possible method for generating a plume is [[sublimation (physics)|sublimation]] of warm surface ice. During the July 14, 2005 flyby, the Composite Infrared Spectrometer (CIRS) found a warm region near the South Pole. Temperatures found in this region range from 85–90 K, to small areas with temperatures as high as {{convert|157|K|°C|abbr=on}}, much too warm to be explained by solar heating, indicating that parts of the south polar region are heated from the interior of Enceladus.<ref name=Spencer/> Ice at these temperatures is warm enough to sublimate at a much faster rate than the background surface, thus generating a plume. This hypothesis is attractive since the sub-surface layer heating the surface water ice could be an ammonia-water slurry at temperatures as low as {{convert|170|K|°C|abbr=on}}, and thus not as much energy is required to produce the plume activity. However, the abundance of particles in the south polar plume favors the "cold geyser" model, as opposed to an ice sublimation model.<ref name=Porco/>
+
+Alternatively, Kieffer ''et al.'' (2006) suggest that Enceladus's geysers originate from [[clathrate]] hydrates, where carbon dioxide, methane, and nitrogen are released when exposed to the vacuum of space by the active, tiger stripe fractures.<ref name=Kieffer2006>{{cite journal| first=Susan W.| last= Kieffer| coauthors= Lu, Xinli; Bethke, Craig M.; Spencer, John R.; Marshak, Stephen; and Navrotsky, Alexandra| year=2006| doi=10.1126/science.1133519| title=A Clathrate Reservoir Hypothesis for Enceladus's South Polar Plume| journal=Science| volume=314| issue=5806| pages=1764–1766| pmid=17170301|bibcode = 2006Sci...314.1764K }}</ref> This hypothesis would not require the amount of heat needed to melt water ice as required by the "Cold Geyser" model, and would explain the lack of ammonia.
+
+====Ammonia discovery====
+In July 2009 it was announced that ammonia had been discovered during flybys in July and October 2008.<ref>{{cite web|author=Jpl.Nasa.Gov |url=http://www.jpl.nasa.gov/news/features.cfm?feature=2238 |title=Saturnian Moon Shows Evidence of Ammonia |publisher=Jpl.nasa.gov |date=2009-07-22 |accessdate=2010-03-21}}</ref>
+
+===Internal structure===
+[[File:Enceladus Roll.jpg|thumb|Figure 15: Model of the interior of Enceladus based on recent ''Cassini'' findings. The inner, silicate core is represented in brown, while the outer, water-ice-rich mantle is represented in white. The yellow and red colors in the mantle and core respectively represent a proposed [[diapir]] under the south pole.<ref name=Pappalardo/>]]
+Prior to the [[Cassini–Huygens|''Cassini'']] mission, relatively little was known about the interior of Enceladus. However, results from recent flybys of Enceladus by the ''Cassini'' spacecraft have provided much needed information for models of Enceladus's interior. These include a better determination of the mass and tri-axial ellipsoid shape, high-resolution observations of the surface, and new insights on Enceladus's [[geochemistry]].
+
+Mass estimates from the [[Voyager program]] missions suggested that Enceladus was composed almost entirely of water ice.<ref name=Rothery/> However, based on the effects of Enceladus's [[gravity]] on ''Cassini'', its mass was determined to be much higher than previously thought, yielding a density of 1.61 [[gram|g]]/cm³.<ref name=Porco/> This density is higher than Saturn's other mid-sized icy satellites, indicating that Enceladus contains a greater percentage of [[silicate]]s and [[iron]]. With additional material besides water ice, Enceladus's interior may have experienced comparatively more heating from the [[radioactive decay|decay]] of radioactive elements.
+
+Castillo ''et al.'' 2005 suggested that [[Iapetus (moon)|Iapetus]], and the other icy satellites of Saturn, formed relatively quickly after the formation of the Saturnian sub-nebula, and thus were rich in short-lived radionuclides.<ref name=Castillo1>Castillo, J. C.; ''et al.''; (2005); [http://www.agu.org/cgi-bin/SFgate/SFgate?language=English&verbose=0&listenv=table&application=fm05&convert=&converthl=&refinequery=&formintern=&formextern=&transquery=iapetus%20and%20sc%3dplanetary&_lines=&multiple=0&descriptor=%2fdata%2fepubs%2fwais%2findexes%2ffm05%2ffm05%7c422%7c4691%7c26Al%20in%20the%20Saturnian%20System%20-%20New%20Interior%20Models%20for%20the%20Saturnian%20satellites%7cHTML%7clocalhost:0%7c%2fdata%2fepubs%2fwais%2findexes%2ffm05%2ffm05%7c22458175%2022462866%20%2fdata2%2fepubs%2fwais%2fdata%2ffm05%2ffm05.txt ''{{subst:sup|26}}Al in the Saturnian System – New Interior Models for the Saturnian satellites''], Eos Transactions AGU, Vol. 82, No. 52 (Fall Meeting Supplement), abstract P32A-01</ref> These radionuclides, like [[aluminium#Isotopes|aluminium-26]] and [[Iron#Isotopes|iron-60]], have short half-lives and would produce interior heating relatively quickly. Without the short-lived variety, Enceladus's complement of long-lived radionuclides would not have been enough to prevent rapid freezing of the interior, even with Enceladus's comparatively high rock-mass fraction, given Enceladus's small size.<ref name=Castillo2>Castillo, J. C.; ''et al.''; (2006); [http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2200.pdf ''A New Understanding of the Internal Evolution of Saturnian Icy Satellites from Cassini Observations''], 37th Annual Lunar and Planetary Science Conference, Abstract 2200</ref> Given Enceladus's relatively high rock-mass fraction, the proposed enhancement in <sup>26</sup>Al and <sup>60</sup>Fe would result in a [[Planetary differentiation|differentiated]] body, with an icy mantle and a rocky [[Planetary core|core]].<ref name=Schubert2007>{{cite journal|doi=10.1016/j.icarus.2006.12.012|title=Enceladus: Present internal structure and differentiation by early and long-term radiogenic heating|year=2007|last1=Schubert|first1=G|last2=Anderson|first2=J|last3=Travis|first3=B|last4=Palguta|first4=J|journal=Icarus|volume=188|issue=2|page=345|bibcode=2007Icar..188..345S}}</ref> Subsequent radioactive and [[tide|tidal]] heating would raise the temperature of the core to 1000 K, enough to melt the inner [[mantle (geology)|mantle]]. However, for Enceladus to still be active, part of the core must have melted too, forming [[magma]] chambers that would flex under the strain of Saturn's tides. Tidal heating, such as from the resonance with Dione or from libration, would then have sustained these hot spots in the core until the present, and would power the current geological activity.<ref name=Matson>Matson, D. L.; ''et al.''; (2006); [http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2219.pdf ''Enceladus's Interior and Geysers – Possibility for Hydrothermal Geometry and N{{subst:sub|2}} Production''], 37th Annual Lunar and Planetary Science Conference, abstract 2219</ref>
+
+In addition to its mass and modeled [[geochemistry]], researchers have also examined Enceladus's shape to test whether the satellite is differentiated or not. Porco ''et al.'' 2006 used limb measurements to determine that Enceladus's shape, assuming it is in [[hydrostatic equilibrium]], is consistent with an undifferentiated interior, in contradiction to the geological and geochemical evidence.<ref name=Porco/> However, the current shape also supports the possibility that Enceladus is not in hydrostatic equilibrium, and may have rotated faster at some point in the recent past (with a differentiated interior).<ref name=Schubert2007/>
+
+===Possible water ocean===
+In late 2008, scientists observed water vapor spewing from Enceladus's surface. This could indicate the presence of liquid water, which might also make it possible for Enceladus to support life.<ref>[http://www.space.com/6170-plumes-saturn-moon-water.html Plumes from Saturn's Moon May Contain Water] Seth Borenstein, AP Science Writer, 11/26/08.</ref>
+Candice Hansen,<ref>{{cite web|url=http://science.jpl.nasa.gov/people/Hansen/|title=JPL Science Division Home|publisher=[[NASA]]|accessdate=2008-11-27}}</ref> a scientist with NASA's [[Jet Propulsion Lab]], headed up a research team on the plumes after they were found to be moving at ~2,189 kilometers per hour (1,360 miles per hour). Since that speed is difficult to attain unless liquids are involved, they decided to investigate the compositions of the plumes.<ref>{{cite news|last=The Associated Press|title=Astronomers find hints of water on Saturn moon|url=http://www.news9.com/story/9422981/astronomers-find-hints-of-water-on-saturn-moon?redirected=true|accessdate=15 September 2011|newspaper=News9.com|date=November 27, 2008}}</ref> 
+
+Eventually it was discovered that  in the E-ring about 6% of particles contain 0.5–2% of sodium salts by mass, which is a significant amount. In the parts of the plume close to Enceladus the fraction of "salty" particles increases to 70% by number and >99% by mass. Such particles presumably are frozen spray from the salty underground ocean. On the other hand, the small salt-poor particles form by homogenous nucleation directly from the gas phase. The sources of salty particles are uniformly distributed along the [[Tiger Stripes (Enceladus)|tiger stripes]], whereas sources of "fresh" particles are closely related to the high-speed gas jets. The "salty" particles move slowly and mostly fall back onto the surface, while the fast "fresh" particles escape to the E-ring, explaining its salt-poor composition.<ref name=Postberg2011>{{cite doi|10.1038/nature10175}}</ref>
+
+The "salty" composition of the plume strongly suggests that its source is a subsurface salty ocean or subsurface caverns filled with salty water.<ref>[http://www.space.com/scienceastronomy/090624-enceladus-ocean.html Ocean Hidden Inside Saturn's Moon] Space.com, June 24, 2009.</ref> Alternatives such as the [[clathrate]] sublimation hypothesis can not explain how "salty" particles form.<ref name=Postberg2011/> Additionally, Cassini found traces of organic compounds in some dust grains.<ref name=Postberg2011/>  Enceladus is therefore a candidate for harboring [[extraterrestrial life]].<ref>{{cite news |title=Salt water caverns may be beneath surface of Saturn moon |url=http://www.telegraph.co.uk/science/space/5625932/Salt-water-caverns-may-be-beneath-surface-of-Saturn-moon.html|work=The Telegraph|date=2009-06-24|accessdate=June 25, 2009}}</ref>
+
+The presence of liquid water under the crust means there has to be an internal heat source. Scientists now believe it is a combination of [[radioactive decay]] and [[tidal heating]],<ref>{{cite news|last=Black |first=Richard |url=http://news.bbc.co.uk/2/hi/science/nature/4895358.stm |title=Saturn's moon 'best bet for life' |publisher=BBC News |date=2006-04-10 |accessdate=2010-03-21}}</ref><ref>{{cite web|url=http://www.astrobio.net/pressrelease/2269/a-hot-start-on-enceladus |title=A Hot Start on Enceladus |publisher=Astrobio.net |accessdate=2010-03-21}}</ref> as tidal heating alone is not enough to explain the heat. [[Mimas (moon)|Mimas]], another of Saturn's moons, is closer to the planet and has a much more [[eccentricity (orbit)|eccentric orbit]], meaning it should be exposed to far greater tidal forces than Enceladus, and yet its old and scarred surface implies that it is geologically dead.<ref>{{cite web|url=http://www.spaceinfo.com.au/mimas20081203.html |title=Meet Mimas, Saturn's 'bullseye' moon |publisher=Spaceinfo.com.au |date=2008-11-13 |accessdate=2010-03-21}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+==See also==
+*[[List of geological features on Enceladus]]
+*[[Saturn's moons in fiction#Enceladus|Enceladus in fiction]]
+
+==Notes and references==
+{{reflist|30em}}
+
+==External links==
+{{Spoken Wikipedia|Enceladus_(moon).ogg|2011-04-10}}
+{{Sister project links|Enceladus}}
+*[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Enceladus Enceladus Profile] at [http://solarsystem.nasa.gov/ NASA's Solar System Exploration site]
+*[http://www.solarviews.com/eng/enceladus.htm Calvin Hamilton's Enceladus page]
+*[http://www.nineplanets.org/enceladus.html Enceladus page at ''The <strike>Nine</strike><span style="color:#b00;">8</span> Planets'']
+*[http://www.planetary.org/explore/topics/saturn/enceladus.html The Planetary Society: Enceladus information]
+*[http://saturn.jpl.nasa.gov/science/moons/moonDetails.cfm?pageID=5 Cassini Mission Enceladus Page. Contains catalog of released Cassini Images of Enceladus]
+*[http://saturn.jpl.nasa.gov/multimedia/products/product-presentations.cfm CHARM: Cassini–Huygens Analysis and Results from the Mission page, contains presentations on recent Enceladus results]
+*[http://stereomoons.blogspot.com/2009/09/turn-of-enceladus.html Paul Schenk's 3D images and flyover videos of Enceladus and other outer solar system satellites]
+
+''Images''
+*[http://ciclops.org/search.php?x=20&y=7&search=Enceladus Cassini images of Enceladus]
+*[http://photojournal.jpl.nasa.gov/target/Enceladus Images of Enceladus at JPL's Planetary Photojournal]
+*Movie of [http://sos.noaa.gov/videos/Enceladus.mov Enceladus's rotation] from the National Oceanic and Atmospheric Administration
+*[http://www.ciclops.org/view.php?id=6197 Enceladus] [http://www.ciclops.org/view.php?id=6196 basemaps] (February 2010) from Cassini images
+*[http://www.ciclops.org/view.php?id=6318 Enceladus atlas (May 2010) from Cassini images]
+*[http://planetarynames.wr.usgs.gov/Page/ENCELADUS/target Enceladus nomenclature] and [http://planetarynames.wr.usgs.gov/images/enceladus_comp.pdf Enceladus map with feature names] from the [http://planetarynames.wr.usgs.gov USGS planetary nomenclature page]
+*[http://www.ssc.uwo.ca/geography/spacemap/enceladu.htm Small Bodies Atlas: Enceladus. Phil Stooke's Atlas page for Enceladus containing a catalog of Voyager Enceladus images as well as maps based on Voyager Images]
+{{Moons of Saturn|state=uncollapsed}}
+{{Solar System moons (compact)}}
+{{Extraterrestrial life}}
+{{featured article}}
+{{Voyager program}}
+
+{{DEFAULTSORT:Enceladus (Moon)}}
+[[Category:Moons of Saturn]]
+[[Category:Astronomical objects discovered in 1789]]
+
+{{Link GA|zh}}
+{{Link FA|fr}}
+{{Link FA|vi}}
+
+[[af:Enceladus]]
+[[als:Enceladus (Mond)]]
+[[ar:إنسيلادوس (قمر)]]
+[[zh-min-nan:Enceladus (oē-chheⁿ)]]
+[[bg:Енцелад (спътник)]]
+[[ca:Encèlad (satèl·lit)]]
+[[cs:Enceladus (měsíc)]]
+[[co:Enceladu]]
+[[cy:Enceladws (lloeren)]]
+[[da:Enceladus (måne)]]
+[[de:Enceladus (Mond)]]
+[[et:Enceladus]]
+[[el:Εγκέλαδος (δορυφόρος)]]
+[[es:Encélado (satélite)]]
+[[eo:Encelado (luno)]]
+[[eu:Entzelado (satelitea)]]
+[[fa:انسلادوس]]
+[[fr:Encelade (lune)]]
+[[ga:Enceladus]]
+[[gl:Encelado (lúa)]]
+[[ko:엔셀라두스]]
+[[hi:ऍनसॅलअडस (उपग्रह)]]
+[[hr:Enkelad (mjesec)]]
+[[id:Enceladus]]
+[[it:Encelado (astronomia)]]
+[[he:אנקלדוס]]
+[[la:Enceladus (satelles)]]
+[[lv:Encelāds (pavadonis)]]
+[[lb:Enceladus (Mound)]]
+[[lt:Enceladas (palydovas)]]
+[[hu:Enceladus]]
+[[mr:एन्सेलाडस (शनीचा उपग्रह)]]
+[[ms:Enceladus (bulan)]]
+[[nl:Enceladus (maan)]]
+[[ja:エンケラドゥス (衛星)]]
+[[no:Enceladus (måne)]]
+[[nn:Saturnmånen Enceladus]]
+[[pl:Enceladus (księżyc)]]
+[[pt:Encélado (satélite)]]
+[[ro:Enceladus (satelit)]]
+[[ru:Энцелад (спутник)]]
+[[scn:Enceladu]]
+[[simple:Enceladus (moon)]]
+[[sk:Enceladus (mesiac)]]
+[[sl:Enkelad (luna)]]
+[[srn:Enceladus (mun)]]
+[[sr:Енцелад]]
+[[fi:Enceladus]]
+[[sv:Enceladus]]
+[[tl:Enceladus (buwan)]]
+[[tr:Enceladus (uydu)]]
+[[uk:Енцелад (супутник)]]
+[[vi:Enceladus (vệ tinh)]]
+[[zh-classical:土衛二]]
+[[war:Enceladus (bulan)]]
+[[zh:土卫二]]

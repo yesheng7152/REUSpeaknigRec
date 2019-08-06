@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Spoken article
+|title=Climate change
+|time=18:45
+|user_name_link=[[:w:en:User:The seraphim|The seraphim]]
+|date=2010-03-19
+|accent=British English
+|sex=m
+|wiki_lang=en
+|oldid=349574882
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|En-Climate_change.ogg}}
+* 2010-03-19 01:56 [[:en:User:The seraphim|The seraphim]] 0×0× (10990209 bytes) ''<nowiki>{{Spoken article |title=Climate change |time=18:45 |user_name=the_seraphim  |date=2010-03-19 |oldid=349574882 |accent=British English }} == Licensing: == {{cc-by-sa-3.0}}</nowiki>''
+
+[[Category:Climate change]]
+[[Category:Spoken Wikipedia - English]]

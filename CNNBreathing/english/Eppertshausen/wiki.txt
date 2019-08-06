@@ -1,0 +1,36 @@
+{{Infobox German location
+|image_coa            = Wappen Eppertshausen.png
+|lat_deg           = 49 |lat_min = 57
+|lon_deg           = 08 |lon_min = 51
+|image_plan = Eppertshausen in DA.svg
+|state        = Hessen
+|region  = Darmstadt
+|district         = Darmstadt-Dieburg
+|elevation              = 144
+|area            = 13.11
+|population         = 5870
+|Stand             = 2006-12-31
+|postal_code               = 64859
+|area_code           = 0 60 71
+|licence               = DA
+|Gemeindeschlüssel = 06 4 32 005
+|Straße            = Franz-Gruber-Platz 14
+|website           = [http://www.eppertshausen.de/index1.html www.eppertshausen.de]
+|mayor     = Carsten Helfmann
+|party            = CDU
+}}
+'''Eppertshausen''' is a municipality in southern [[Hesse]] ([[Germany]]) in the district [[Darmstadt-Dieburg]]. The municipality has a total population of 5,805 inhabitants. Currently, the mayor is Carsten Helfmann.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.eppertshausen.de/ Eppertshausen Website] ('''in German''')
+
+{{Towns and municipalities in Darmstadt-Dieburg district}}
+
+{{Authority control}}
+[[Category:Darmstadt-Dieburg]]
+
+
+{{Hesse-geo-stub}}

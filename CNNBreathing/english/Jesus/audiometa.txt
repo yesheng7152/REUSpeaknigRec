@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{English spoken article
+|title=Jesus
+|user_name_link=[[:en:User:Matthewdgonzalez|Matthew David González]]
+|date=2013-10-28
+|accent=American English
+|sex=m
+|oldid=579073210
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Jesus Christ]]

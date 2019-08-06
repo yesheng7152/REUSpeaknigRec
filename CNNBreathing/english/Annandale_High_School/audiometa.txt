@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Wikipedia article on Annandale High School, read by Jules Ismail.}}
+|Source=Wikipedia
+|Author=[[User:Theroachyjay|Theroachyjay]]
+|Date= [http://en.wikipedia.org/w/index.php?title=Annandale_High_School&oldid=336550238 2010-01-08]
+|Permission=
+|other_versions=
+}}
+
+{{Spoken article entry|wiki_lang=en}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:High schools in Virginia]]
+[[Category:Organizations established in 1954]]
+[[Category:Annandale, Virginia]]
+[[Category:Educational institutions established in the 1950s]]
+[[Category:Schools in Virginia]]

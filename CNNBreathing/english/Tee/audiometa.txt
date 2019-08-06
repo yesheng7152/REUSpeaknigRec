@@ -1,0 +1,25 @@
+{{Spoken article
+|title= Tee
+|time= 8:03
+|user_name= laurenpt015
+|date= 2012-08-07
+|oldid=483623114
+|accent= Midwest United States
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}} 
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken article of English Wikipedia Tee}}
+|date=2012-08-07
+|source={{own}}
+|author=[[User:Laurenpt015|Laurenpt015]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Ogg sound files of spoken English]]

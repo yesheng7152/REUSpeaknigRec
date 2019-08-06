@@ -1,0 +1,128 @@
+<root><template><title>Historical information needed</title><part><name>date</name><equals>=</equals><value>February 2009</value></part><part><name index="1"/><value>Was the change legally made or was it a publicity stunt by the American Name Society? Did the subject of the article die? If so, when and where?</value></part></template>
+<template lineStart="1"><title>Infobox person
+</title><part><name> honorific_prefix          </name><equals>=</equals><value> 
+</value></part><part><name> name                      </name><equals>=</equals><value> Hubert Blaine Wolfeschlegelsteinhausenbergerdorff, Sr.
+</value></part><part><name> honorific_suffix          </name><equals>=</equals><value> 
+</value></part><part><name> native_name               </name><equals>=</equals><value> 
+</value></part><part><name> native_name_lang          </name><equals>=</equals><value> 
+</value></part><part><name> image                     </name><equals>=</equals><value> <comment>&lt;!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] --&gt;</comment>
+</value></part><part><name> image_size                </name><equals>=</equals><value> 
+</value></part><part><name> alt                       </name><equals>=</equals><value> 
+</value></part><part><name> caption                   </name><equals>=</equals><value> 
+</value></part><part><name> birth_name                </name><equals>=</equals><value> 
+</value></part><part><name> birth_date                </name><equals>=</equals><value> <comment>&lt;!-- {{Birth date and age|YYYY|MM|DD}} --&gt;</comment>
+</value></part><part><name> birth_place               </name><equals>=</equals><value> 
+</value></part><part><name> disappeared_date          </name><equals>=</equals><value> <comment>&lt;!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;</comment>
+</value></part><part><name> disappeared_place         </name><equals>=</equals><value> 
+</value></part><part><name> disappeared_status        </name><equals>=</equals><value> 
+</value></part><part><name> death_date                </name><equals>=</equals><value> 1985<comment>&lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;</comment>
+</value></part><part><name> death_place               </name><equals>=</equals><value> 
+</value></part><part><name> death_cause               </name><equals>=</equals><value> 
+</value></part><part><name> body_discovered           </name><equals>=</equals><value> 
+</value></part><part><name> resting_place             </name><equals>=</equals><value> 
+</value></part><part><name> resting_place_coordinates </name><equals>=</equals><value> <comment>&lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline}} --&gt;</comment>
+</value></part><part><name> monuments                 </name><equals>=</equals><value> 
+</value></part><part><name> residence                 </name><equals>=</equals><value> 
+</value></part><part><name> nationality               </name><equals>=</equals><value>
+</value></part><part><name> other_names               </name><equals>=</equals><value> 
+</value></part><part><name> ethnicity                 </name><equals>=</equals><value> <comment>&lt;!-- Ethnicity should be supported with a citation from a reliable source --&gt;</comment>
+</value></part><part><name> citizenship               </name><equals>=</equals><value> 
+</value></part><part><name> education                 </name><equals>=</equals><value> 
+</value></part><part><name> alma_mater                </name><equals>=</equals><value> 
+</value></part><part><name> occupation                </name><equals>=</equals><value> 
+</value></part><part><name> years_active              </name><equals>=</equals><value> 
+</value></part><part><name> employer                  </name><equals>=</equals><value> 
+</value></part><part><name> organization              </name><equals>=</equals><value> 
+</value></part><part><name> agent                     </name><equals>=</equals><value> 
+</value></part><part><name> Cause_of_death                </name><equals>=</equals><value> long name
+</value></part><part><name> notable_works             </name><equals>=</equals><value> 
+</value></part><part><name> style                     </name><equals>=</equals><value> 
+</value></part><part><name> influences                </name><equals>=</equals><value> 
+</value></part><part><name> influenced                </name><equals>=</equals><value> 
+</value></part><part><name> home_town                 </name><equals>=</equals><value> 
+</value></part><part><name> salary                    </name><equals>=</equals><value> 
+</value></part><part><name> net_worth                 </name><equals>=</equals><value> <comment>&lt;!-- Net worth should be supported with a citation from a reliable source --&gt;</comment>
+</value></part><part><name> height                    </name><equals>=</equals><value> <comment>&lt;!-- {{height|m=}} --&gt;</comment>
+</value></part><part><name> weight                    </name><equals>=</equals><value> <comment>&lt;!-- {{convert|weight in kg|kg|lb}} --&gt;</comment>
+</value></part><part><name> television                </name><equals>=</equals><value> 
+</value></part><part><name> title                     </name><equals>=</equals><value> 
+</value></part><part><name> term                      </name><equals>=</equals><value> 
+</value></part><part><name> predecessor               </name><equals>=</equals><value> 
+</value></part><part><name> successor                 </name><equals>=</equals><value> 
+</value></part><part><name> party                     </name><equals>=</equals><value> 
+</value></part><part><name> movement                  </name><equals>=</equals><value> 
+</value></part><part><name> opponents                 </name><equals>=</equals><value> 
+</value></part><part><name> boards                    </name><equals>=</equals><value> 
+</value></part><part><name> religion                  </name><equals>=</equals><value> <comment>&lt;!-- Religion should be supported with a citation from a reliable source --&gt;</comment>
+</value></part><part><name> denomination              </name><equals>=</equals><value> <comment>&lt;!-- Denomination should be supported with a citation from a reliable source --&gt;</comment>
+</value></part><part><name> criminal_charge           </name><equals>=</equals><value> <comment>&lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;</comment>
+</value></part><part><name> criminal_penalty          </name><equals>=</equals><value> 
+</value></part><part><name> criminal_status           </name><equals>=</equals><value> 
+</value></part><part><name> spouse                    </name><equals>=</equals><value> 
+</value></part><part><name> partner                   </name><equals>=</equals><value> <comment>&lt;!-- unmarried life partner; use ''Name (1950–present)'' --&gt;</comment>
+</value></part><part><name> children                  </name><equals>=</equals><value> 
+</value></part><part><name> parents                   </name><equals>=</equals><value> 
+</value></part><part><name> relatives                 </name><equals>=</equals><value> 
+</value></part><part><name> callsign                  </name><equals>=</equals><value> 
+</value></part><part><name> awards                    </name><equals>=</equals><value> 
+</value></part><part><name> signature                 </name><equals>=</equals><value> 
+</value></part><part><name> signature_alt             </name><equals>=</equals><value> 
+</value></part><part><name> signature_size            </name><equals>=</equals><value> 
+</value></part><part><name> module                    </name><equals>=</equals><value> 
+</value></part><part><name> module2                   </name><equals>=</equals><value> 
+</value></part><part><name> module3                   </name><equals>=</equals><value> 
+</value></part><part><name> module4                   </name><equals>=</equals><value> 
+</value></part><part><name> module5                   </name><equals>=</equals><value> 
+</value></part><part><name> module6                   </name><equals>=</equals><value> 
+</value></part><part><name> website                   </name><equals>=</equals><value> <comment>&lt;!-- {{URL|Example.com}} --&gt;</comment>
+</value></part><part><name> footnotes                 </name><equals>=</equals><value> 
+</value></part><part><name> box_width                 </name><equals>=</equals><value> 
+</value></part></template>
+'''Hubert Blaine Wolfeschlegelsteinhausenbergerdorff, Sr.''' ('''Wolfe+585, Senior''') is the short name of a [[Philadelphia]]n [[Typesetting|typesetter]], who has held the record for the longest personal name ever used. &quot;585&quot; represents the number of additional letters in his full surname (total 590). His full 746-letter name is '''Adolph Blaine Charles David Earl Frederick Gerald Hubert Irvin John Kenneth Lloyd Martin Nero Oliver Paul Quincy Randolph Sherman Thomas Uncas Victor William Xerxes Yancy Zeus Wolfe­schlegelstein­hausenberger­dorffvoraltern­waren­gewissenhaft­schaferswessen­schafewaren­wohlgepflege­und­sorgfaltigkeit­beschutzen­von­angreifen­durch­ihrraubgierigfeinde­welche­voraltern­zwolftausend­jahres­vorandieerscheinen­wander­ersteer­dem­enschderraumschiff­gebrauchlicht­als­sein­ursprung­von­kraftgestart­sein­lange­fahrt­hinzwischen­sternartigraum­auf­der­suchenach­diestern­welche­gehabt­bewohnbar­planeten­kreise­drehen­sich­und­wohin­der­neurasse­von­verstandigmen­schlichkeit­konnte­fortplanzen­und­sicher­freuen­anlebens­langlich­freude­und­ruhe­mit­nicht­ein­furcht­vor­angreifen­von­anderer­intelligent­geschopfs­von­hinzwischen­sternartigraum, Senior'''.<ext><name>ref</name><attr> name=&quot;g81&quot; </attr></ext><ext><name>ref</name><attr> name=&quot;ada&quot; </attr></ext>
+
+<h level="2" i="1">==Biography==</h>
+<template lineStart="1"><title>Spoken Wikipedia</title><part><name index="1"/><value>Wolfe+585, Senior.ogg</value></part><part><name index="2"/><value>2010-07-27</value></part></template>
+He was born in [[Bergedorf (quarter)|Bergedorf]] (now part of [[Hamburg]]), [[Germany]], and later emigrated to the [[United States]], settling in [[Philadelphia]]. His birthdate has been given as February 29, 1904, but he was also reported to be age 47 in a mid-1964 wire story. He became a typesetter, &quot;logically enough&quot;, according to [[Bennett Cerf]].<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelstein%20hausenberferdorlf&amp;img=\\na0028\6799930\52936290.html|title=Try and Stop Me|author=Cerf, Bennett|date=1959-10-19|accessdate=2008-06-25|work=Delta Democrat-Times|authorlink=Bennett Cerf}}</inner><close>&lt;/ref&gt;</close></ext> He was a member of the [[American Name Society]] for a while.<ext><name>ref</name><attr> name=fdu</attr></ext>
+
+His name first attracted attention when it appeared in the 1938 Philadelphia telephone directory on page 1292, column 3, line 17,<ext><name>ref</name><attr/><inner>{{cite journal|url=http://books.google.com/?id=3cAtAAAAIAAJ&amp;q=wolfeschlegelsteinhausenberger+dorff&amp;dq=wolfeschlegelsteinhausenberger+dorff|journal=The Shingle|pages=140|author=Wiedersheim, William A.|publisher=Philadelphia Bar Association|year=1938|title=Article}}</inner><close>&lt;/ref&gt;</close></ext> and in a court order of judge John Boyle of May 25, 1938: &quot;''Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorf, Jr.,'' [sic] ''etc., vs. [[Yellow Cab]] Co.'', petition for compromise settlement granted&quot;—with speculation that the case was settled because &quot;they couldn't pronounce it&quot;.<ext><name>ref</name><attr/><inner>{{cite journal|url=http://books.google.com/?id=x8wtAAAAIAAJ&amp;dq=wolfeschlegelstein+hausenbergerdorf|journal=The Shingle|pages=150|author=Wiedersheim, William A.|publisher=Philadelphia Bar Association|year=1938|title=Article}}</inner><close>&lt;/ref&gt;</close></ext>
+
+A son, Hubert Blaine Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff, Jr., was born in Philadelphia in 1952, and was able to pronounce his surname by age three.<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelstein%20hausenbergderorff&amp;img=\\na0010\537922\6040090.html|title=Wolfeschlegelsteinhausenbergderorff|date=1955-07-23|accessdate=2008-06-25|work=Gettysburg Times}}</inner><close>&lt;/ref&gt;</close></ext> Family letterhead used the form ''&quot;Hubert Blaine Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff&quot;''.<ext><name>ref</name><attr/><inner>{{cite book|title=All Those Wonderful Names: A Potpourri of People, Places, and Things|page=151|author=Hook, J.N.|year=1991|publisher=[[John Wiley &amp; Sons]]}}</inner><close>&lt;/ref&gt;</close></ext>
+
+When ''[[Philadelphia Inquirer|Inquirer]]'' journalist [[Frank Brookhouser]] omitted the letter &quot;u&quot; in reporting a 1952 Philadelphia voter registration under the 35-letter surname, Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff's prompt correction was carried by ''[[Time (magazine)|Time]]''<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.time.com/time/magazine/article/0,9171,816926,00.html|title=Typo|work=[[Time (magazine)|Time]]|date=1952-09-01|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> and passed on to other outlets.<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegel%20steinhausenbergerdorff&amp;img=\\na0010\416209\4505775.html|title=Target Practice|author=Vaughn, Bill|work=Marion Star|date=1954-01-18|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> Philadelphia's business computers used an abbreviated form on the city's voting registration books; the utility company, however, when told he wouldn't pay his bill unless his name was right, began spelling it properly, on three lines.<ext><name>ref</name><attr> name=aj</attr><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelstein&amp;img=\\na0023\6798952\52042041.html|title=Article|work=[[Albuquerque Journal]]|date=1955-06-03|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> Brookhouser later responded by tributing the correctly spelled Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff as the exemplar Philadelphian named in the first sentence of his ''Our Philadelphia'', comparing him to another local typesetter, [[Benjamin Franklin]].<ext><name>ref</name><attr/><inner>{{cite book|title=Our Philadelphia: A Candid and Colorful Portrait of a Great City|pages=3, 224|author=Brookhouser, Frank|year=1957|url=http://books.google.com/?id=87A9AAAAIAAJ&amp;q=wolfeschlegelsteinhausenberger+dorff&amp;dq=wolfeschlegelsteinhausenberger+dorff|publisher=[[Doubleday (publisher)|Doubleday]]|authorlink=Frank Brookhouser}}</inner><close>&lt;/ref&gt;</close></ext>
+
+The executive secretary-treasurer of the American Name Society also provided a 163-letter spelling which truncates and edits the canonical spelling (in bold), ''&quot;Wolfe&amp;shy;schlegelstein&amp;shy;hausenberger&amp;shy;dorffvoraltern&amp;shy;waren&amp;shy;gewissenhaft&amp;shy;schaferswessen&amp;shy;schaf'''ts'''waren&amp;shy;wohlge'''futtern'''&amp;shy;und&amp;shy;sorgfaltigkeit&amp;shy;beschutzen&amp;shy;vo'''r'''&amp;shy;angreifen&amp;shy;durch&amp;shy;ihrraubgierigf'''ie'''nd'''s'''&quot;'', stating that this was his &quot;full name as given ... at birth on the envelope&quot;.<ext><name>ref</name><attr/><inner>{{cite journal|pages=87–88|journal=Names: A Journal of Onomastics|author=Kramer, Fritz L.|publisher=[[American Name Society]]|year=1960|title=Names Not Brief}}</inner><close>&lt;/ref&gt;</close></ext> The spelling was reproduced verbatim by the ''Maryland and Delaware Genealogist''.<ext><name>ref</name><attr/><inner>{{cite book|url=http://books.google.com/?id=uL1bAAAAMAAJ&amp;q=wolfeschlegelsteinhausen&amp;dq=wolfeschlegelsteinhausen|title=The Maryland and Delaware Genealogist|page=73|author=Clark, Raymond B}}</inner><close>&lt;/ref&gt;</close></ext>
+
+In 1964, an [[Associated Press]] wire story reported that the [[IBM 7074]] computer at the [[John Hancock Mutual Life Insurance Co.]] could process one million policies but refused to handle that of Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff, which was specially processed by hand.<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegel%20steinhausenbergerdorff&amp;img=\\na0016\1665461\10593329.html|title=What Was That Name Again?|work=News|date=1964-06-25|accessdate=2008-06-25|author=[[Associated Press]]}}</inner><close>&lt;/ref&gt;</close></ext> He explained to reporter Norman Goldstein, &quot;When somebody calls my name, I don't have any trouble finding out who they mean .... I don't like being part of the common herd.&quot;<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelstein%20lausenbergerdorff&amp;img=\\na0024\4036145\17713681.html|title=What's in a Name? Please Don't Ask!|author=[[Associated Press]]|work=Manitowoc Herald Times|date=1964-06-25|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> Versions of this story contain the oldest known occurrences of the long name in print.<ext><name>ref</name><attr> name=ada</attr><inner>{{cite web|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelsteinhausenbergerdorff&amp;img=\\na0028\6799753\52594451.html|title=Article|work=[[Ada Evening News]]|date=1964-07-01|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> Some versions catered to [[hexakosioihexekontahexaphobia]] by conveying the rumor that his name contains exactly 666 letters,<ext><name>ref</name><attr/><inner>{{cite news|url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelstein%20hausenbergerdorff&amp;img=\\na0020\2488456\13959547.html|title=What's In A Name? Only 666 Letters|work=The Progress|author=Goldstein, Norman|date=1964-06-25|accessdate=2008-06-25}}</inner><close>&lt;/ref&gt;</close></ext> which has not been supported by any reliable spelling.
+
+He appeared in all editions of the ''[[Guinness Book of World Records]]'' from roughly 1975 to 1985 as having the longest personal name, and was photographed for the book in front of a [[New York City]] marquee displaying his name, once again misspelled.<ext><name>ref</name><attr> name=g81</attr><inner>{{cite book|title=[[Guinness Book of World Records]] 1981|isbn=0-8069-0196-9|publisher=[[Sterling Publishing]]|author=McWhirter, Norris|date=1980-11-01|page=206|authorlink=Norris McWhirter}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite book|title=[[Guinness Book of World Records]] 1985|isbn=0-8069-0264-7|publisher=[[Sterling Publishing]]|author=McWhirter, Norris|year=1984|page=140|authorlink=Norris McWhirter}}</inner><close>&lt;/ref&gt;</close></ext> By 1983, only the 35-letter form of the name appeared in the Guinness Book; in the late 1980s, the category disappeared.<ext><name>ref</name><attr/><inner>{{cite book|title=[[Guinness Book of World Records]] 1990|author=McWhirter, Norris|year=1989|authorlink=Norris McWhirter}}</inner><close>&lt;/ref&gt;</close></ext> Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff was also catalogued by [[logologist]]s [[Dmitri Borgmann]]<ext><name>ref</name><attr/><inner>{{cite book|title=Language on Vacation: An Olio of Orthographical Oddities|page=150|author=Borgmann, Dmitri A.|year=1965|publisher=[[Charles Scribner's Sons]]|authorlink=Dmitri Borgmann}}</inner><close>&lt;/ref&gt;</close></ext> and [[Gyles Brandreth]],<ext><name>ref</name><attr/><inner>{{cite book|title=The Joy of Lex: How to Have Fun with 860,341,500 Words|page=240|author=Brandreth, Gyles Daubeney|year=1980|publisher=[[William Morrow and Company]]|authorlink=Gyles Brandreth}}</inner><close>&lt;/ref&gt;</close></ext> and by ''The Book of Useless Information''.<ext><name>ref</name><attr/><inner>{{cite book|title=The Book of Useless Information|page=65|author=Botham, Noel|year=2006|publisher=[[Penguin Group|Perigee Books]]}}</inner><close>&lt;/ref&gt;</close></ext>
+
+The ''New Dictionary of American Family Names'' translates the 35-letter form as ''&quot;a descendant of Wolfeschlegelstein (one who prepared wool for manufacture on a stone), of the house of Bergerdorf (mountain village)&quot;'';<ext><name>ref</name><attr/><inner>{{cite book|title=New Dictionary of American Family Names|author=Smith, Elsdon Coles|year=1973|publisher=[[Harper &amp; Row]]|page=558|url=http://books.google.com/?id=SZAYAAAAIAAJ&amp;q=wolfeschlegelsteinhausenbergerdorff&amp;dq=wolfeschlegelsteinhausenbergerdorff}}</inner><close>&lt;/ref&gt;</close></ext> the [[Fairleigh Dickinson University]] Names Institute gives ''&quot;wolf slayer who lives in the stone house in the mountain village&quot;''.<ext><name>ref</name><attr> name=fdu</attr><inner>{{cite book|title=Names New and Old: Papers of the Names Institute|author=McMullen, Edwin Wallace|publisher=[[Fairleigh Dickinson University]] Names Institute|year=2002|pages=263–264}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="2">==Translation of surname==</h>
+The [[Museum of Hoaxes]], which says the 590-letter name &quot;seems to be true&quot;, provides a translation by [[Charles Haberl]]; it treats [[Steinhausen an der Rottum|Steinhausen]] as a separate geographical name and continues, ''&quot;Who before ages were conscientious shepherds whose sheep were well tended and diligently protected against attackers who by their rapacity were enemies who 12,000 years ago appeared from the stars to the humans by spaceships with light as an origin of power, started a long voyage within starlike space in search for the star which has habitable planets orbiting and whither the new race of reasonable humanity could thrive and enjoy lifelong happiness and tranquility without fear of attack from other intelligent creatures from within starlike space&quot;''.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.museumofhoaxes.com/hoax/weblog/permalink/worlds_longest_surname/|title=World’s Longest Surname|date=2005-10-20|accessdate=2008-06-25|work=[[Museum of Hoaxes]]}}</inner><close>&lt;/ref&gt;</close></ext>
+
+He died in 1985.<ext><name>ref</name><attr/><inner>{{cite web|title=Wolfe 585+, Senior|url=http://davidjohnelliott.blogspot.co.uk/2012/12/wolfe585-senior.html}}</inner><close>&lt;/ref&gt;</close></ext><template><title>verify credibility</title><part><name>date</name><equals>=</equals><value>June 2013</value></part></template>
+
+<h level="2" i="3">== References ==</h>
+<template lineStart="1"><title>reflist</title></template>
+
+<h level="2" i="4">==External links==</h>
+*<template><title>cite web</title><part><name>url</name><equals>=</equals><value>http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&amp;search=wolfeschlegelsteinhausenbergerdorff&amp;img=\\na0028\6799753\52594451.html</value></part><part><name>title</name><equals>=</equals><value>Wire photo of Wolfe&amp;shy;schlegel&amp;shy;stein&amp;shy;hausen&amp;shy;berger&amp;shy;dorff displaying his full name in teletype</value></part><part><name>work</name><equals>=</equals><value>[[Ada Evening News]]</value></part><part><name>date</name><equals>=</equals><value>1964-07-01</value></part><part><name>accessdate</name><equals>=</equals><value>2008-06-25</value></part></template><template><title>dead link</title><part><name>date</name><equals>=</equals><value>September 2011</value></part></template>
+
+<template lineStart="1"><title>Persondata
+</title><part><name>NAME</name><equals>=</equals><value>Wolfeschlegelsteinhausenbergerdorff, Hubert Blaine, Sr.
+</value></part><part><name>ALTERNATIVE NAMES</name><equals>=</equals><value>Wolfe+585, Senior
+</value></part><part><name>SHORT DESCRIPTION</name><equals>=</equals><value>[[Philadelphia]]n [[typesetting|typesetter]]
+</value></part><part><name>DATE OF BIRTH</name><equals>=</equals><value>February 29, 1904
+</value></part><part><name>PLACE OF BIRTH</name><equals>=</equals><value>[[Bergedorf]], [[Germany]]
+</value></part><part><name>DATE OF DEATH</name><equals>=</equals><value>April 3, 1987
+</value></part><part><name>PLACE OF DEATH</name><equals>=</equals><value>
+</value></part></template>
+<template lineStart="1"><title>DEFAULTSORT:Wolfe 585, Senior</title></template>
+[[Category:1904 births|Wolfeschlegelsteinhausenbergerdorff, Hubert Blaine, Sr.]]
+[[Category:People from Hamburg]]
+[[Category:Typesetters]]
+[[Category:People from Philadelphia, Pennsylvania]]
+[[Category:Human names]]
+[[Category:Superlatives]]
+[[Category:1985 deaths]]</root>

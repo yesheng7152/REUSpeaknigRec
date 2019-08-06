@@ -1,0 +1,33 @@
+
+{{English spoken article
+|file_name=admiralsrevolt.ogg
+|title=Revolt of the Admirals
+|time=6:44
+|file_size=4.23Mb
+|user_name=the Epopt
+|date=2005-05-05
+|accent=California
+|sex=Sometimes
+|oldid=15378162
+}}
+
+{{GFDL-en|migration=relicense}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 02:48, 6 May 2005 || [[w:en:User:The Epopt]] || 6m45s || 4.24 MB || <nowiki>{{English spoken article| file_name=admiralsrevolt.ogg |title=Revolt of the Admirals |time=6:44 |file_size=4.23Mb |user_name=the Epopt |date=2005-05-05 |accent=California }}  {{PD-user|the Epopt}}</nowiki>
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Admiralsrevolt.ogg&redirect=no&oldid=17794494 || 07:42, 14 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Admiralsrevolt.ogg&redirect=no&oldid=17794494 || 22:55, 28 June 2005 || [[w:en:User:The Epopt]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Admiralsrevolt.ogg&redirect=no&oldid=17487853 || 02:48, 6 May 2005 || [[w:en:User:The Epopt]] || <nowiki>({{English spoken article| file_name=admiralsrevolt.ogg |title=Revolt of the Admirals |time=6:44 |file_size=4.23Mb |user_name=the Epopt |date=2005-05-05 |accent=California }}  {{PD-user|the Epopt}})</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]

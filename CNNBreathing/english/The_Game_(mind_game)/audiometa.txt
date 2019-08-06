@@ -1,0 +1,20 @@
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-04-12}}
+|Author={{original uploader|Sophie|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL}}
+{{Spoken article entry}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|The+Game.ogg}}
+* 2010-05-25 19:59 [[:en:User:Frogbrains|Frogbrains]] 0×0× (1721512 bytes) ''<nowiki>I completely re-read the article myself, as a text to speech voice is really nasty to listen to. Hopefully my voice is better. Also, the previous file was out of date, and not true to the written article.</nowiki>''
+* 2010-04-12 16:17 [[:en:User:Sophie|Sophie]] 0×0× (1099539 bytes) ''<nowiki>{{Spoken article entry |title= The Game (mind game) |time= 3:44 |user_name= [[Sghfdhdfghdfgfd]] |date= 2010-04-12 |link_to_recorded_version= [[The Game (mind game) |accent= Computer generated }} == Licensing: == {{GFDL|migration=redundant}} </nowiki>''
+
+{{Check categories|year=2015|month=June|day=19}}
+[[Category:The Game (mind game)]]

@@ -1,0 +1,31 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Titan (moon)
+|time=55:52
+|user_name=Mangst
+|date=2011-10-25
+|oldid=456501061
+|accent=American English
+}}
+{{Information 
+|description    = {{en|1= Titan (moon) }} 
+|date           = {{Original upload date|2010-01-09}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Mangst|Mangst]] at en.wikipedia
+|Permission     =  
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Titan_(moon).ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2011-04-10 19:50 (UTC) | [[:en:User:Mangst|Mangst]] | 28813251 (bytes) | 0×0 | <small><nowiki>Updated to reflect article changes.</nowiki></small>
+* 2010-10-17 00:50 (UTC) | [[:en:User:Mangst|Mangst]] | 32866731 (bytes) | 0×0 | <small><nowiki>updated to reflect article changes and added infobox section</nowiki></small>
+* 2010-02-28 16:08 (UTC) | [[:en:User:Mangst|Mangst]] | 25458049 (bytes) | 0×0 | <small><nowiki>fixed opening sentence: "is the sixth largest moon of Saturn" changed to "is the largest moon of Saturn" mentioned the license at the end</nowiki></small>
+* 2010-01-09 22:31 (UTC) | [[:en:User:Mangst|Mangst]] | 27840945 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title=Titan (moon) |time=42:47 |user_name=Mangst |date=January, 9 2010 |oldid=336691329  |accent=American English }} </nowiki></small>
+
+[[Category:Titan (moon)]]

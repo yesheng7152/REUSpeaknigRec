@@ -1,0 +1,27 @@
+'''Richard Topus''' (1924–2008) was an American pigeon enthusiast and business executive. During [[World War II]] he trained [[war pigeon]]s for the [[United States Army]].<ref name="nyt">Fox, Margalit (12/13/2008). [http://www.nytimes.com/2008/12/14/us/14topus.html?_r=1&ref=obituaries "Richard Topus, a Pigeon Trainer in World War II, Dies at 84".] ''[[The New York Times]]''.</ref>
+
+==Biography==
+Topus was born in [[Brooklyn, New York]] on March 15, 1924. He grew up in [[Flatbush, Brooklyn|Flatbush]] where he fell in love with pigeons at an early age and befriended several local pigeon handlers who taught him to handle the birds. In 1942 he enlisted in the United States [[Army Signal Corps]] as a pigeoneer. He was stationed at [[Camp Ritchie]] in [[Maryland]] - one of several camps where birds were raised and trained for use as messengers.<ref name="nyt"/>
+
+After the war Topus earned a master's degree from [[Hofstra University]]. In the late 50's he joined Friendship Food Products, a dairy company based in [[Maspeth, Queens]] (which would later become Friendship Dairies, a subsidiary of [[Dean Foods]]), eventually rising to the position of executive vice president for sales and marketing. In 1948 he married Jacqueline Buehler.<ref name="nyt"/>
+
+After leaving Friendship Food Products he taught marketing at [[Long Island University]] and then at the [[State University of New York]] in the 60's and early 70's. After retiring to Scottsdale he taught at [[Arizona State University]] and worked as a securities arbitrator.<ref name="nyt"/>
+
+He died at the age of 84 on December 5, 2008 in [[Scottsdale, Arizona]] of kidney failure.<ref name="nyt"/>
+
+==References==
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Topus, Richard
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American pigeon enthusiast
+| DATE OF BIRTH     = 1924
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 2008
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Topus, Richard}}
+[[Category:1924 births]]
+[[Category:2008 deaths]]
+[[Category:Deaths from renal failure]]

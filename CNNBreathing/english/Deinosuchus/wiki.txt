@@ -1,0 +1,336 @@
+{{Italic title}}
+{{Taxobox
+| image = Deinosuchus hatcheri.JPG
+| image_caption = Life restoration of ''Deinosuchus rugosus''
+| fossil_range = {{fossil range|80|73}}Late [[Cretaceous]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Reptile|Sauropsida]]
+| ordo = [[Crocodilia]]
+| subordo = [[Eusuchia]]
+| superfamilia = [[Alligatoroidea]]
+| genus = '''''Deinosuchus'''''
+| genus_authority = [[William Jacob Holland|Holland]], 1909
+| subdivision_ranks = [[Species]]
+| subdivision = 
+*''D. rugosus'' <small>([[Ebenezer Emmons|Emmons]], 1858 [originally ''[[Polyptychodon]] rugosus''])([[Type species|type]]) </small>
+*?''D. riograndensis'' <small>([[Edwin Harris Colbert|Colbert]] and Bird, 1954)</small>
+| synonyms =
+*''Polydectes'' <small>[[Edward Drinker Cope|Cope]], 1869</small>
+*''Phobosuchus'' <small>[[Franz Nopcsa von Felső-Szilvás|Nopsca]], 1924</small>}}
+
+'''''Deinosuchus''''' ({{pron-en|ˌdaɪnəˈsuːkəs}} {{respell|DYE|no|S'''OO'''|kəs}}) is an [[extinct]] relative of the [[alligator]] that lived 80 to 73&nbsp;[[annum|Ma]] (million years ago), during the [[Late Cretaceous]] [[Geologic time scale#Terminology|period]]. The name translates as "terrible crocodile" and is derived from the [[Ancient Greek|Greek]] ''δεινός''/''deinos'' ("terrible") and ''σουχος''/''soukhos'' ("crocodile"). The first remains were discovered in [[North Carolina]] in the 1850s, but it was not until 1909 that the [[genus]] was named and described. Additional fragments were discovered in the 1940s and were later incorporated into an influential, though inaccurate, skull reconstruction at the [[American Museum of Natural History]]. Knowledge of ''Deinosuchus'' remains incomplete, but better [[Skull|cranial]] material found in recent years has expanded scientific understanding of this massive predator.
+
+Although ''Deinosuchus'' was far larger than any modern crocodile or alligator—measuring up to {{Convert|12|m|ft|sigfig=1|abbr=on|abbr=on}} and weighing up to {{convert|8.5|MT|ST}}—its overall appearance was fairly similar to its smaller relatives. It had large, robust teeth that were built for crushing, and its back was covered with thick semispherical [[osteoderm]]s. One study indicates that ''Deinosuchus'' may have lived for up to 50&nbsp;years, growing at a similar rate to that of modern crocodilians, but maintaining this growth over a much longer period of time.
+
+''Deinosuchus'' fossils have been found in ten [[U.S. state]]s, as well as northern Mexico. It lived on both sides of the [[Western Interior Seaway]], and was an opportunistic [[apex predator]] in the coastal regions of eastern North America. ''Deinosuchus'' reached its largest size in its western habitat, but the eastern populations were far more abundant. Opinion remains divided as to whether these two populations represent separate [[species]]. ''Deinosuchus'' was probably capable of killing and eating large [[dinosaur]]s. It may have also fed upon [[sea turtle]]s, fish, and other aquatic and terrestrial prey.
+
+==Description==
+===Morphology===
+Despite its massive size, the overall appearance of ''Deinosuchus'' was not considerably different from that of modern crocodilians.<ref name="schwimmer-lifetimes">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=1–16
+|chapter=The Life and Times of a Giant Crocodylian
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> ''Deinosuchus'' had an [[alligator]]-like broad snout, with a slightly bulbous tip.<ref name="schwimmer-lifetimes"/> Each [[premaxilla]] contained four teeth, with the pair nearest to the tip of the snout being significantly smaller than the other two.<ref name="schwimmer-species">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=107–135
+|chapter=How Many ''Deinosuchus'' Species Existed?
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> Each [[maxilla]] (the main tooth-bearing bone in the upper jaw) contained 21 or 22&nbsp;teeth.<ref name="schwimmer-size">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=42–63
+|chapter=The Size of ''Deinosuchus''
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> The tooth count for each [[dentary]] (tooth-bearing bone in the lower jaw) was at least 22.<ref name="schwimmer-species"/> All the teeth were very thick and robust; those close to the rear of the [[jaw]]s were short, rounded, and blunt.<ref name="schwimmer-prey">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=167–192
+|chapter=The Prey of Giants
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> They appear to have been adapted for crushing, rather than piercing.<ref name="schwimmer-prey"/> When the mouth was closed, only the fourth tooth of the lower jaw would have been visible.<ref name="schwimmer-species"/>
+[[Image:Deinosuchus scutes by Hatcher.png|thumb|left|The osteoderms of ''Deinosuchus'', as illustrated by W.J. Holland. They are proportionately much thicker than those of modern crocodilians.]]
+
+Modern [[American Alligator|American alligators]], with the strongest bite of any living animal, have a maximum force of {{convert|9452|N|lbf}}.<ref name="erickson-et-al">{{cite journal
+|title=The ontogeny of bite-force performance in American alligator (''Alligator mississippiensis'')
+|author=Erickson, Gregory M.; Lappin, A. Kristopher; Vliet, Kent A.
+|year=2003
+|journal=[[Journal of Zoology]]
+|volume=260|issue=3|pages=317–327
+|doi=10.1017/S0952836903003819
+|url=http://www.csupomona.edu/~aklappin/Alligator%20Bite%20Force%20Ontogeny.pdf
+|format=pdf
+|accessdate=2009-11-02
+}}</ref>. In contrast, the bite force of ''Deinosuchus'' has been estimated to exceed {{convert|18000|N|lbf}}.<ref name="schwimmer-lifetimes"/> Even the largest and strongest [[theropoda|theropod]] dinosaurs, such as ''[[Tyrannosaurus]]'', probably had an inferior bite force to that of ''Deinosuchus''.<ref name="erickson-et-al"/>
+
+''Deinosuchus'' had a secondary bony palate, which would have permitted it to breathe through its nostrils while the rest of the head remained submerged underwater.<ref name="cloudsley-thompson"/> The [[vertebra]]e were articulated in a procoelous manner, meaning that they had a concave hollow on the front end and a convex bulge on the rear; these would have fit together to produce a [[ball and socket joint]].<ref name="colbert-bird">{{cite journal
+|url=http://digitallibrary.amnh.org/dspace/bitstream/2246/2425/1/N1688.pdf
+|title=A gigantic crocodile from the Upper Cretaceous beds of Texas
+|author=Colbert, Edwin H; Bird, Roland T.
+|journal=American Museum Novitates
+|volume=1688
+|pages=1–22
+|year=1954
+|publisher=[[American Museum of Natural History]]
+|format=pdf
+|accessdate=2009-02-22
+}}</ref><ref name="foster">{{cite book
+|title=Jurassic West: The Dinosaurs of the Morrison Formation and Their World
+|last=Foster|first=John
+|publisher=[[Indiana University Press]]
+|year=2007
+|isbn=978-0-253-34870-8
+|page=150
+}}</ref> The secondary palate and procoelous vertebrae are advanced features also found in modern [[eusuchia]]n crocodilians.<ref name="cloudsley-thompson">{{cite book
+|title=Ecology and Behaviour of Mesozoic Reptiles
+|last=Cloudsley-Thompson|first=J.L.
+|publisher=[[Springer Science+Business Media|Springer]]
+|pages=40–41
+|year=2005
+|isbn=3-540-22421-1
+}}</ref><ref name="rolleston-jackson">{{cite book
+|title=Forms of Animal Life
+|author=Rolleston, George; Jackson, William Hatchett
+|publisher=Oxford at the Clarendon Press
+|year=1870
+|page=392
+}}</ref>
+
+The [[osteoderm]]s (scutes) covering the back of ''Deinosuchus'' were unusually large, heavy, and deeply pitted; some were of a roughly semispherical shape.<ref name="holland">{{cite journal
+|title=''Deinosuchus hatcheri'', a new genus and species of crocodile from the Judith River beds of Montana
+|last=Holland|first=W.J.
+|journal=Annals of the Carnegie Museum
+|volume=6
+|year=1909
+|pages=281–294
+}}</ref><ref name="schwimmer-early">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=17–41
+|chapter=The Early Paleontology of''Deinosuchus''
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> Deep pits and grooves on these osteoderms served as attachment points for connective tissues.<ref name="schwimmer-early"/> Together, the osteoderms and connective tissues would have served as load-bearing reinforcement to support the massive body of ''Deinosuchus'' out of water.<ref name="schwimmer-size"/><ref name="schwimmer-early"/> Consequently, despite its bulk, ''Deinosuchus'' was probably almost as agile on land as its modern relatives.<ref name="schwimmer-size"/><ref name="cloudsley-thompson"/>
+
+===Size===
+[[Image:Deinosuchus size estimate comparison chart.svg|thumb|300px|The maximum size reached by ''Deinosuchus'' has been estimated at between {{convert|10|m|ft|sigfig=2}} and {{convert|15|m|ft|sigfig=1}}. In contrast, the largest modern [[saltwater crocodile]]s reach no more than {{convert|7|m|ft|sigfig=2}} in length.]]
+Because the known remains of ''Deinosuchus'' are so fragmentary, estimates of its size have varied significantly.<ref name="renz">{{cite book
+|title=Megalodon: Hunting the Hunter
+|last=Renz|first=Mark
+|publisher=Paleo Pr
+|year=2002
+|isbn=0-971-94770-8
+|page=139
+}}</ref> In 1954, [[Edwin Harris Colbert|Edwin H. Colbert]] and Roland T. Bird reconstructed the lower jaw of ''Deinosuchus'' with a length of {{Convert|2|m|ft|sigfig=2|abbr=on|abbr=on}}, and calculated "on the basis of comparative measurements" that the giant crocodilian's total body length could have been up to {{Convert|15|m|ft|sigfig=1|abbr=on|abbr=on}}.<ref name="colbert-bird"/> A much lower estimate—{{Convert|8|to|10|m|ft|sigfig=2|abbr=on|abbr=on}}—was given by Gregory M. Erickson and Christopher A. Brochu in 1999.<ref name="erickson-brochu">{{cite journal
+|title=How the 'terror crocodile' grew so big
+|author=Erickson, Gregory M.; Brochu, Christopher A.
+|journal=[[Nature (journal)|Nature]]
+|volume=398
+|month=March
+|year=1999
+|publisher=[[Nature Publishing Group]]
+|pages=205–206
+|doi=10.1038/18343
+}}</ref> David R. Schwimmer noted in 2002 that the smaller and more common form of ''Deinosuchus'' found in eastern North America usually had skulls about {{Convert|1|m|ft|sigfig=2|abbr=on}} long. Using an equation based on skull size, Schwimmer estimated that they probably had a total body length of about {{Convert|8|m|ft|sigfig=2|abbr=on}}, and weighed about {{convert|2.3|MT|ST}}. According to Schwimmer's research, ''Deinosuchus'' reached larger sizes in the western portion of the continent. A reasonably well-preserved skull specimen discovered in [[Texas]] indicated that the animal's head measured about {{Convert|1.31|m|ft|sigfig=3|abbr=on}}, and from this Schwimmer calculated a body length of {{Convert|9.8|m|ft|sigfig=3|abbr=on}}. Although the largest remains of ''Deinosuchus'' had skulls too poorly preserved to use this method of estimation, scaling from vertebrae indicates that some of them grew to even larger sizes. Schwimmer estimates that the biggest specimens had a total body length of up to {{Convert|12|m|ft|sigfig=1|abbr=on}}, and perhaps weighed {{convert|8.5|MT|ST}} or more.<ref name="schwimmer-size"/>
+
+Although there is some disagreement as to its exact size, the fossil remains are nonetheless sufficient to indicate that ''Deinosuchus'' was substantially larger than any modern crocodilian. Even the relatively low estimate provided by Erickson and Brochu suggests that the maximum weight reached by ''Deinosuchus'' exceeded that of currently living species by a factor of three to five.<ref name="erickson-brochu"/> ''Deinosuchus'' has often been described as the largest crocodilian of all time, but some other crocodyliforms—including ''[[Purussaurus]]'', ''[[Rhamphosuchus]]'', and ''[[Sarcosuchus]]''—may have equaled or exceeded it in size.<ref name="brochu-memoirs">{{cite journal
+|doi=10.2307/3889340
+|title=Phylogenetics, Taxonomy, and Historical Biogeography of Alligatoroidea
+|last=Brochu
+|url=http://jstor.org/stable/3889340|first=Christopher A.
+|journal=Society of Vertebrate Paleontology Memoir|volume=6
+|date= June 14, 1999 |pages=9–100
+|id={{JSTOR|3889340}}
+}}</ref>
+
+==Paleobiology==
+===Habitat===
+[[Image:Deinosuchus.jpg|thumb|right|A ''Deinosuchus'' jaw fragment, exhibited at the [[North Carolina Museum of Natural Sciences]]. Fossils of this large alligatoroid have been discovered in ten U.S. states, plus northern Mexico.]]
+''Deinosuchus'' appears to have had a wide distribution throughout the United States, and was present on both sides of the [[Western Interior Seaway]].<ref name="schwimmer-localities">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=81–106
+|chapter=''Deinosuchus'' Localities and Their Ancient Environments
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> Specimens have been found in [[Alabama]], [[Georgia (U.S. state)|Georgia]], [[Mississippi]], [[Montana]], [[New Jersey]], [[New Mexico]], [[North Carolina]], [[Texas]], [[Utah]], and [[Wyoming]].<ref name="titus-et-al">{{cite journal
+|title=First report of the hyper-giant Cretaceous crocodylian ''Deinosuchus'' from Utah
+|author=Titus, Alan L.; Knell, Michael J.; Wiersma, Jelle P.; Getty, Mike A.
+|journal=Geological Society of America Abstracts with Programs|volume=40|issue=1
+|page=58
+|year=2008
+|url=http://gsa.confex.com/gsa/2008CD/finalprogram/abstract_133900.htm
+}}</ref> A ''Deinosuchus'' osteoderm from the [[San Carlos Formation]] was also reported in 2006, so the giant crocodilian's range may have included parts of northern [[Mexico]].<ref name="westgate-et-al">{{cite journal
+|title=First occurrences of ''Deinosuchus'' in Mexico
+|author=Westgate, James; Brown, R.; Pittman, Jeffrey; Cope, Dana; Calb, Jon
+|journal=[[Journal of Vertebrate Paleontology]]
+|volume=26|issue=Supplement to 3
+|page=138A
+|year=2006
+}}</ref> ''Deinosuchus'' fossils are most abundant in the [[Gulf Coastal Plain]] region of Georgia, near the Alabama border.<ref name="schwimmer-localities"/> All known specimens of ''Deinosuchus'' were found in rocks that date to the [[Campanian]] [[Stage (stratigraphy)|stage]] of the [[Late Cretaceous]] [[Geologic time scale#Terminology|period]]. The oldest examples of this genus lived approximately 80&nbsp;Ma, and the youngest lived around 73&nbsp;Ma.<ref name="lucas">{{cite journal
+|title=The giant crocodylian ''Deinosuchus'' from the Upper Cretaceous of the San Juan Basin, New Mexico
+|author=Lucas, Spencer G.; Sullivan, Robert M.; Spielmann, Justin A.
+|journal=New Mexico Museum of Natural History and Science Bulletin|volume=35
+|pages=247
+|year=2006
+|url=http://www.nmnaturalhistory.org/science/bulletins/35/sci_bulletin35_29.pdf|format=pdf
+}}</ref>
+
+The distribution of ''Deinosuchus'' specimens indicates that these giant crocodilians may have preferred [[Estuary|estuarine]] environments.<ref name="schwimmer-localities"/> In the [[Aguja Formation]] of Texas, where some of the largest specimens of ''Deinosuchus'' have been found, these massive predators probably inhabited [[Brackish water|brackish-water]] [[bay]]s.<ref name="anglen-lehman">{{cite journal
+|title=Habitat of the giant crocodilian ''Deinosuchus'', Aguja Formation (Upper Cretaceous), Big Bend National Park, Texas
+|author=Anglen, John J.; Lehman, Thomas M.
+|journal=[[Journal of Vertebrate Paleontology]]
+|volume=20|issue=Supplement to 3
+|page=26A
+|year=2000
+}}</ref> Although some specimens have also been found in [[ocean|marine]] deposits, it is not clear whether ''Deinosuchus'' ventured out into the ocean (like modern-day [[Saltwater Crocodile|saltwater crocodiles]]); these remains might have been displaced after the animals died.<ref name="schwimmer-localities"/>
+
+===Diet===
+[[File:Kritosaurus BW.jpg|thumb|''Deinosuchus'' may have preyed upon large [[ornithopod]]s. ''[[Kritosaurus]]'', shown above, lived alongside the giant crocodilian in the [[Aguja Formation]] ecosystem.<ref name="sankey">{{cite journal
+|title=Late Campanian Southern Dinosaurs, Aguja Formation, Big Bend, Texas
+|last=Sankey|first=Julia T.
+|journal=[[Journal of Paleontology]]|volume=75|issue=1|year=2001
+|pages=208–215
+|doi=10.1666/0022-3360(2001)075<0208:LCSDAF>2.0.CO;2
+|url=http://geology.csustan.edu/julia/pdf/sankey-2001.pdf
+|format=pdf|accessdate=2009-11-02}}</ref>]]
+In 1954, Edwin H. Colbert and Roland T. Bird speculated that ''Deinosuchus'' "may very well have hunted and devoured some of the dinosaurs with which it was contemporaneous".<ref name="colbert-bird"/> Colbert restated this hypothesis more confidently in 1961: "Certainly this crocodile must have been a predator of dinosaurs; otherwise why would it have been so overwhelmingly gigantic? It hunted in the water where the giant theropods could not go."<ref name="colbert-dinoworld">{{cite book
+|title=Dinosaurs: Their Discovery and Their World
+|last=Colbert|first=Edwin H.|authorlink=Edwin Harris Colbert
+|publisher=[[E. P. Dutton]]
+|year=1961
+|page=243
+}}</ref><ref name="debus">{{cite book
+|title=Dinosaur Memories
+|last=Debus|first=Allen
+|publisher=Authors Choice Press
+|year=2002
+|isbn=0-595-22988-3
+|page=265
+}}</ref> David R. Schwimmer proposed in 2002 that several [[hadrosaurid]] tail vertebrae found near [[Big Bend National Park]] show evidence of ''Deinosuchus'' tooth marks, strengthening the hypothesis that ''Deinosuchus'' fed on dinosaurs in at least some instances.<ref name="schwimmer-prey"/> In 2003, Christopher A. Brochu did not find the tooth mark evidence to be compelling, but nonetheless agreed that ''Deinosuchus'' "probably dined on [[ornithopod]]s from time to time."<ref name="brochu-review">{{cite journal|title=Review of ''King of the Crocodylians: The Paleobiology of Deinosuchus'' |last=Brochu|first=Christopher A.|journal=[[Palaios]]|volume=18|issue=1|pages=79–82|year=2003|doi=10.1669/0883-1351(2003)018<0080:BR>2.0.CO;2}}</ref> ''Deinosuchus'' is generally thought to have employed similar hunting tactics to modern crocodilians, ambushing dinosaurs and other terrestrial animals at the water's edge and then submerging them until they drowned.<ref name="lifehistory">{{cite book
+|title=History of Life
+|edition=3rd
+|last=Cowen|first=Richard
+|publisher=[[Blackwell Publishing]]
+|year=2000
+|isbn=0-632-04501-9
+|page=263
+}}</ref> 
+
+Schwimmer and G. Dent Williams proposed in 1996 that ''Deinosuchus'' may have preyed on [[Sea turtle|marine turtles]].<ref name="schwimmer-williams">{{cite journal
+|title=New specimens of ''Deinosuchus rugosus'', and further evidence of chelonivory by Late Cretaceous eusuchian crocodiles
+|author=Schwimmer, David R.; Williams, G. Dent
+|journal=[[Journal of Vertebrate Paleontology]]
+|volume=16|issue=Supplement to 3
+|pages=64
+|year=1996
+}}</ref> ''Deinosuchus'' would probably have used the robust, flat teeth near the back of its jaws to crush the turtle shells.<ref name="schwimmer-prey"/> The "[[Pleurodira|side-necked]]" sea turtle ''[[Bothremydidae|Bothremys]]'' was especially common in the eastern habitat of ''Deinosuchus'', and several of its shells have been found with bite marks that were most likely inflicted by the giant crocodilian.<ref name="schwimmer-prey"/><ref name="schwimmer-williams"/>
+
+Schwimmer concluded in 2002 that the feeding patterns of ''Deinosuchus'' most likely varied by geographic location; the smaller ''Deinosuchus'' of eastern North America would have been opportunistic feeders in an ecological niche similar to that of the modern [[American Alligator|American alligator]]. They would have consumed marine turtles, large fish, and smaller dinosaurs.<ref name="schwimmer-size"/> The bigger, but less common, ''Deinosuchus'' that lived in Texas and Montana might have been more specialized hunters, capturing and eating large dinosaurs.<ref name="schwimmer-size"/> Schwimmer noted that no theropod dinosaurs in ''Deinosuchus'''s eastern range approached its size, indicating that the massive crocodilian could have been the region's [[apex predator]].<ref name="schwimmer-prey"/>
+
+===Growth rates===
+A 1999 study by Gregory M. Erickson and Christopher A. Brochu suggested that the growth rate of ''Deinosuchus'' was comparable to that of modern crocodilians, but was maintained over a far longer period of time.<ref name="erickson-brochu"/> Their estimates, based on growth rings in the [[Dorsum (biology)|dorsal]] osteoderms of various specimens, indicate that each ''Deinosuchus'' might have taken over 35&nbsp;years to reach full adult size, and that the oldest individuals may have lived for more than 50&nbsp;years.<ref name="erickson-brochu"/> This was a completely different growth strategy than that of large dinosaurs, which reached adult size much more quickly and had shorter lifespans.<ref name="erickson-brochu"/> According to Erickson, a full-grown ''Deinosuchus'' "must have seen several generations of dinosaurs come and go".<ref name="connor">{{cite news
+|title=Solved: Mystery of crocodile that feasted on dinosaurs
+|work=[[The Independent]]
+|publisher=[[Independent News & Media]]
+|date=March 18, 1999
+|last=Connor|first=Steve
+}}</ref>
+
+Schwimmer noted in 2002 that Erickson and Brochu's assumptions about growth rates are only valid if the osteodermal rings reflect annual periods, as they do in modern crocodilians.<ref name="schwimmer-size"/> According to Schwimmer, the growth ring patterns observed in ''Deinosuchus'' could have been affected by a variety of factors, including "migrations of their prey, wet-dry seasonal climate variations, or oceanic circulation and nutrient cycles".<ref name="schwimmer-size"/> If the ring cycle was biannual rather than annual, this might indicate that ''Deinosuchus'' grew faster than modern crocodilians, and had a similar maximum lifespan.<ref name="schwimmer-size"/>
+
+== Discovery and naming ==
+[[Image:Polyptychodon tooth by Emmons.png|thumb|left|Ebenezer Emmons illustrated two fossil teeth in 1858. Most likely, they belonged to the crocodilian that would later be named ''Deinosuchus''.]]
+In 1858, [[geologist]] [[Ebenezer Emmons]] described two large fossil teeth found in [[Bladen County, North Carolina]].<ref name="emmons">{{cite book
+|title=Report of the North Carolina Geological Survey
+|last=Emmons|first=Ebenezer|authorlink=Ebenezer Emmons
+|year=1858
+|publisher=Henry D. Turner
+|pages=219–22
+}}</ref> Emmons assigned these teeth to ''[[Polyptychodon]]'', which he then believed to be "a [[genus]] of crocodilian reptiles".<ref name="emmons"/> Later discoveries showed that ''Polyptychodon'' was actually a [[pliosaur]], a type of marine reptile.<ref name="schwimmer-early"/> The teeth described by Emmons were thick, slightly curved, and covered with vertically grooved enamel; he assigned them a new [[species]] name, ''P. rugosus''.<ref name="emmons"/> Although not initially recognized as such, these teeth were probably the first ''Deinosuchus'' remains to be scientifically described.<ref name="schwimmer-early"/> Another large tooth that likely came from ''Deinosuchus'', discovered in neighboring [[Sampson County, North Carolina|Sampson County]], was named ''Polydectes biturgidus'' by [[Edward Drinker Cope]] in 1869.<ref name="schwimmer-early"/>
+
+In 1903, at [[Willow Creek, Montana]], several fossil osteoderms were discovered "lying upon the surface of the soil" by [[John Bell Hatcher]] and T.W. Stanton.<ref name="holland"/> These osteoderms were initially attributed to the [[Ankylosauridae|ankylosaurid]] dinosaur ''[[Euoplocephalus]]''.<ref name="holland"/> Excavation at the site, carried out by W.H. Utterback, yielded further fossils, including additional osteoderms as well as vertebrae, [[rib]]s, and a [[Pubis (bone)|pubis]].<ref name="holland"/> When these specimens were examined, it became clear that they belonged to a large crocodilian and not a dinosaur; upon learning this, Hatcher "immediately lost interest" in the material.<ref name="holland"/> After Hatcher died in 1904, his colleague [[William Jacob Holland|W.J. Holland]] studied and described the fossils.<ref name="holland"/> Holland assigned these specimens to a new genus and species, ''Deinosuchus hatcheri'', in 1909.<ref name="holland"/> ''Deinosuchus'' comes from the [[Ancient Greek|Greek]] ''δεινός/deinos'', meaning "terrible", and ''σουχος/suchos'', meaning "crocodile".<ref name="holland"/>
+
+[[Image:1954-Colbert-Bird-Phobosuchus.png|thumb|This skull reconstruction, exhibited at the [[American Museum of Natural History]] for nearly a half-century, is probably the best known of all ''Deinosuchus'' fossils. The darker shaded portions are actual fossil bone, while the light portions are plaster.]]
+A 1940 expedition by the [[American Museum of Natural History]] yielded more fossils of giant crocodilians, this time from [[Big Bend National Park]] in [[Texas]].<ref name="colbert-bird"/> These specimens were described by Edwin H. Colbert and Roland T. Bird in 1954, under the name ''Phobosuchus riograndensis''.<ref name="colbert-bird"/> Donald Baird and [[Jack Horner (paleontologist)|Jack Horner]] later assigned the Big Bend remains to ''Deinosuchus'', which has been accepted by most modern authorities.<ref name="schwimmer-early"/><ref name="baird-horner">{{cite journal
+|title=Cretaceous dinosaurs of North Carolina
+|author=Baird, D.; [[Jack Horner (paleontologist)|Horner, J.]]
+|journal=Brimleyana|volume=2|year=1979
+|pages=1–28
+}}</ref> The genus name ''Phobosuchus'', which was initially created by [[Franz Nopcsa von Felső-Szilvás|Baron Franz Nopsca]] in 1924, has since been discarded because it contained a variety of different crocodilian species that turned out to not be closely related to each other.<ref name="schwimmer-early"/>
+
+The American Museum of Natural History incorporated the skull and jaw fragments into a plaster restoration, modeled after the present-day [[Cuban Crocodile|Cuban crocodile]].<ref name="colbert-bird"/> Colbert and Bird stated that this was a "conservative" reconstruction, since an even greater length could have been obtained if a long-skulled modern species such as the [[Saltwater Crocodile|saltwater crocodile]] had been used as the template.<ref name="colbert-bird"/> Because it was not then known that ''Deinosuchus'' had a broad snout, Colbert and Bird miscalculated the proportions of the skull, and the reconstruction greatly exaggerated its overall width and length.<ref name="schwimmer-early"/> Despite its inaccuracies, the reconstructed skull became the best-known specimen of ''Deinosuchus'', and brought public attention to this giant crocodilian for the first time.<ref name="schwimmer-early"/>
+
+Numerous additional specimens of ''Deinosuchus'' were discovered over the next several decades. Most were quite fragmentary, but they expanded knowledge of the giant predator's geographic range. As noted by Christopher A. Brochu, the osteoderms are distinctive enough that even "bone granola" can adequately confirm the presence of ''Deinosuchus''.<ref name="schwimmer-early"/><ref name="brochu-occurrences">{{cite mailing list
+|mailinglist=[http://dml.cmnh.org/ Dinosaur Mailing List]
+|title=''Deinosuchus'' occurrences
+|last=Brochu|first=Christopher A.
+|date=1998-02-07
+|accessdate=2009-01-02
+|url=http://dml.cmnh.org/1998Feb/msg00202.html
+}}</ref> Better cranial material was also found; by 2002, David R. Schwimmer was able to create a composite computer reconstruction of 90% of the skull.<ref name="schwimmer-lifetimes"/><ref name="schwimmer-localities"/>
+
+== Classification ==
+[[Image:Deinosuchus at the CMNH.jpg|thumb|''Deinosuchus'' scutes and vertebra, [[Carnegie Museum of Natural History]]]]
+''Deinosuchus'' was classified in the family [[crocodile|Crocodylidae]] by Colbert and Bird, primarily on the basis of dental features resembling those of modern crocodiles.<ref name="colbert-bird"/> However, a [[Phylogenetics|phylogenetic]] re-evaluation conducted in 1999 by Brochu determined that ''Deinosuchus'' was actually a primitive member of [[Alligatoroidea]]. Thus, ''Deinosuchus'' "is not the world's largest crocodile—it is one of the largest alligators."<ref name="brochu-memoirs"/> This classification was bolstered in 2005 by the discovery of a well-preserved ''Deinosuchus'' [[Skull|braincase]] from the Blufftown Formation of Alabama, which shows some features reminiscent of those in the modern American alligator.<ref name="knight">{{cite journal
+|title=Anatomy of the skull and braincase of a new ''Deinosuchus rugosus'' specimen from the Blufftown Formation, Russell County, Alabama
+|journal=Geological Society of America Abstracts with Programs|volume=37|issue=2|year=2005
+|author=Knight, Terrell K.; Schwimmer, David R.
+|page=12
+|url=http://gsa.confex.com/gsa/2005SE/finalprogram/abstract_83311.htm
+}}</ref> Although it was a prehistoric member of the same [[clade]], ''Deinosuchus'' was not a direct ancestor of modern alligators.<ref name="schwimmer-genealogy">{{cite book
+|title=King of the Crocodylians: The Paleobiology of Deinosuchus
+|last=Schwimmer|first=David R.
+|publisher=[[Indiana University Press]]
+|pages=136–166
+|chapter=A Genealogy of ''Deinosuchus''
+|year=2002
+|isbn=0-253-34087-X
+}}</ref> Its closest relatives may have been ''[[Leidyosuchus]]'' and ''[[Diplocynodon]]''.<ref name="schwimmer-genealogy"/>
+
+Schwimmer (2002) considered all ''Deinosuchus'' specimens to belong to one species.<ref name="schwimmer-species"/> He noted that there were more similarities than differences between the eastern and western populations, and that most of these differences related only to the larger size of the western specimens.<ref name="schwimmer-species"/> Under the [[International Code of Zoological Nomenclature]]'s rules of priority, this species would be named ''D. rugosus''.<ref name="schwimmer-species"/> Lucas ''et al.'' (2006) also considered ''Deinosuchus'' a [[monospecificity|monospecific]] genus.<ref name="lucas"/> However, Brochu (2003) questioned Schwimmer's analysis, suggesting that size might be a significant diagnostic feature and that several of the features used by Schwimmer to establish [[Synonym (taxonomy)|synonymy]] between the two populations are actually [[cladistics#plesiomorphy|primitive]] traits shared by other genera as well.<ref name="brochu-review"/> Schwimmer (2002) informally referred to the western populations as ''D. riograndensis'', and several other researchers, including Anglen and Lehman (2000) and Westgate ''et al.'' (2006) have also recently assigned western ''Deinosuchus'' remains to this species.<ref name="schwimmer-species"/><ref name="westgate-et-al"/><ref name="anglen-lehman"/>
+
+==See also==
+{{portal|Paleontology}}
+* ''[[Sarcosuchus]]''
+* ''[[Stomatosuchus]]''
+
+== References ==
+{{reflist|2}}
+
+{{featured article}}
+
+[[Category:Cretaceous crocodylomorpha]]
+[[Category:Prehistoric reptiles of North America]]
+
+[[bg:Дейнозухус]]
+[[ca:Deinosuchus]]
+[[cs:Deinosuchus]]
+[[de:Deinosuchus]]
+[[es:Deinosuchus riograndensis]]
+[[fr:Deinosuchus]]
+[[it:Deinosuchus]]
+[[lt:Deinozuchas]]
+[[hu:Deinosuchus]]
+[[nl:Deinosuchus]]
+[[ja:デイノスクス]]
+[[pl:Deinozuch]]
+[[pt:Deinosuchus]]
+[[ru:Дейнозух]]
+[[fi:Deinosuchus]]
+[[sv:Deinosuchus]]
+[[vi:Deinosuchus]]
+[[zh:恐鱷]]

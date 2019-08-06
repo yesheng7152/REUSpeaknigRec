@@ -1,0 +1,14 @@
+{{English spoken article
+|title= Atari video game burial
+|time= 5:57
+|user_name= Sophus Bie
+|date= 2009-03-18
+|oldid=278055701
+|accent= Californian English
+|sex=female
+|review=
+}}
+== {{int:license-header}} ==
+
+{{GFDL|migration=redundant}}
+{{cc-by-sa-3.0}}

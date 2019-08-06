@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title=Art Wiebe
+|user_name_link=[[:en:User:Incledon|Incledon]]
+|date=2016-01-01
+|accent=British (Southern)
+|sex=Male
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Art_Wiebe&oldid=558705176
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}}}
+|date=2016-01-01
+|source={{own}}
+|author=[[User:Incledon|Incledon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Spoken Wikipedia articles about ice hockey]]

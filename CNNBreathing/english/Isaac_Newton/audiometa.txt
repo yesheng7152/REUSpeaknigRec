@@ -1,0 +1,25 @@
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-07-31}}
+|Author={{original uploader|A.C. Norman|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|A.C. Norman|migration=relicense}}
+{{Spoken article
+|title=Isaac Newton
+|time=36.16
+|user_name=A.C. Norman
+|date=2008-07-30
+|oldid=228853361
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Isaac_Newton.ogg}}
+* 2008-07-31 08:47 [[:en:User:A.C. Norman|A.C. Norman]] 0×0× (20963841 bytes) ''<nowiki>{{Spoken article |title= Isaac Newton |time= 36.16 |user_name= A.C. Norman |date= 2008-07-30 |oldid=228853361 |accent= GB Received Pronunciation }} {{GFDL-with-disclai</nowiki>''
+
+[[Category:Isaac Newton]]
+[[Category:Spoken Wikipedia]]

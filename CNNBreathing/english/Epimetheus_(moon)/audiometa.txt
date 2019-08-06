@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title=Epimetheus (moon)
+|time=5:58
+|user_name=Mangst
+|date=2010-01-11
+|oldid=332759773
+|accent=American English
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2010-01-12}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Epimetheus_%28moon%29.ogg}}
+* 2010-01-12 02:33 [[:en:User:Mangst|Mangst]] 0×0× (3571905 bytes) ''<nowiki>{{Spoken article |title=Epimetheus (moon) |time=5:58 |user_name=Mangst |date=2010-01-11 |oldid=332759773 |accent=American English }} == Licensing: == {{GFDL-wit</nowiki>''
+
+[[Category:Epimetheus (moon)]]

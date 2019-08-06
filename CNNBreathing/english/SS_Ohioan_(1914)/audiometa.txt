@@ -1,0 +1,27 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:Tonyle|Tonyle]] made this recording based on Wikipedia.
+|Date={{original upload date|2009-01-23}}
+|Author={{original uploader|Tonyle|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+{{Spoken article
+|title=SS Ohioan (1914)
+|time=14:29
+|user_name=Tonyle
+|date=2009-01-23
+|oldid=265817523
+|accent=U.S. Michigan and California
+|wiki_lang=en
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|SS_Ohioan_%281914%29.ogg}}
+* 2009-01-23 04:45 [[:en:User:Tonyle|Tonyle]] 0×0× (10821836 bytes) ''<nowiki>{{Spoken article |title=SS Ohioan (1914) |time=14:28 |user_name=Tonyle |date=2009-01-23 |oldid=265817523 |accent=U.S. Michigan and California English }} {{GFDL-with</nowiki>''
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Ships of the United States]]

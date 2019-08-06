@@ -1,0 +1,56 @@
+{{Infobox person
+| name = Sam A. Scribner
+| image = File:Sam A. Scribner in 1911.jpg
+| alt =
+| caption = Caricature from a 1911 magazine
+| birth_name = Samuel Alexander Scribner
+| birth_date = {{Birth date|1859|08|18}}
+| birth_place =  [[Brookville, Pennsylvania]], USA 
+| death_date = {{Death date and age|1941|07|08|1859|08|18}}
+| death_place =  [[Bronxville, New York]], USA
+| nationality = American
+| other_names =
+| occupation = Burlesque entrepreneur
+| known_for = [[Columbia Amusement Company]]
+}}
+'''Sam A. Scribner''' (1859 - 1941) was an American circus and burlesque impresario of the late Nineteenth and early Twentieth Century.  He operated the [[Columbia Amusement Company]], presenting forty or more family-entertainment burlesque shows simultaneous in theaters throughout the Northeast and Midwest of the United States.
+
+== Biography ==
+
+=== Early Years ===
+
+Samuel A. Scribner, son of Alexander St. James Scribner and Cynthia Cheseboro Scribner, was born August 18, 1859 near [[Brookville, Pennsylvania|Brookville]], [[Pennsylvania]], county seat of [[Jefferson County, Pennsylvania|Jefferson County]]. Serving as a tuba player in the village band, Scribner spent his whole life in show business.<ref>Obituary, New York Times, July 9, 1941</ref>  In the summer of 1879 he joined a small circus called, rather grandly, Rogers and Campbell United Aggregation and Grabd Equestriculum Hippo Comique.<ref>The Bronxville Journal; Bronxville NY Historical Conservancy, Vol. two, 2002</ref>  For nearly twenty years he worked his way up the ranks of various circuses, traveling by mule train six days a week, six months a year.  By 1892, he partnered with Neil Smith to operate Scribner & Smiths All New Enormous Combined Shows.  During the winter months, he acted in and produced [[melodramas]] in various theater companies in the United States and Canada.  In the late 1890s, he sold his circus to [[Ringling Bros. and Barnum & Bailey Circus|Barnum & Bailey]] and switched to burlesque.
+
+=== Columbia Amusement ===
+
+In 1902, Scribner and his partner, John Herbert Mack, formed the Columbia Amusement Company, also known as the "Columbia Wheel" or "Eastern Wheel."<ref>''The Oxford Companion to American Theatre'', 3rd edn. (2004) G. Bordman, T.S. Hischak eds., Oxford University Press</ref> With a season running from Fall to Spring, Columbia would present forty or more separate shows in forty different theaters.<ref>Obituary, New York Herald Tribune, July 11, 1941</ref>  Each week each show would travel from one theater to the next, rotating around the American Northeast and Midwest like forty spokes on a great wheel. 
+
+On January 3, 1910, the company opened its flagship theater in [[Times Square]], at the north-east corner of Seventh Avenue and 47th Street.<ref>http://cinematreasures.org/theater/501/</ref>  In its time, Columbia Amusement ruled American burlesque, and Scribner, its imperious operator, was determined to make burlesque both clean and profitable.<ref>The American Burlesque Show, Irving Zeidman, 1967</ref>
+In 1913 the Eastern wheel and the rival Western wheel were consolidated into the Columbia Amusement Company, headed by Scribner and [[Isidore Herk]]. 
+The combined operation put on fairly clean shows, as had the Eastern Wheel.<ref>{{cite book|page=249 |last=Allen|first=Robert Clyde|title=Horrible Prettiness: Burlesque and American Culture|url=http://books.google.com/books?id=4IoXcZyKKJoC&pg=PA249|accessdate=2014-05-14 |year=1991|publisher=Univ of North Carolina Press|isbn=978-0-8078-4316-1}}</ref>
+
+One of Scribner's early hires at Columbia was [[Will Rogers]].  In 1904, Rogers was working the roof of [[Willie Hammerstein]]'s theater in New York.  Shribner hired him away, raising his salary from $150 to $250 per week.<ref>WILL rogers on Sam Scribner, Un-named New York newspaper article, 1925</ref>  On January 3, 1925, in anticipation of the Fifteenth Anniversary Gala of the Columbia Theater in New York, Rogers sent a telegram stating "I WILL BE THERE WEDNESDAY NIGHT FOR YOU TO DO AN ACT ANNOUNCE THE ACTS TAKE TICKETS OR SWEEP OUT FOR YOU I SAID FOR YOU SAM SCRIBNER"<ref>J. Scribner, Remembrances, photocopy of telegram</ref>
+
+=== Family Life ===
+
+Scribner married Henrietta Cooper April 4, 1907 in New York City.  They had three children, Dorothy Scribner (1910-1977), Samuel Alexander Scribner (1913-2003), and John Herbert Mack Scribner (1917-2009). Peter Scribner, the son of Samuel Alexander Scribner, is his grandson.
+
+Scribner died in [[Bronxville, New York]] July 8, 1941.
+
+== Footnotes ==
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Scribner, Sam A.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American businessman
+| DATE OF BIRTH     = 1859
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1941
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Scribner, Sam A.}}
+[[Category:1859 births]]
+[[Category:1941 deaths]]
+[[Category:American entertainment industry businesspeople]]
+[[Category:Circus proprietors]]

@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{English spoken article
+|title= Dirty Harry (1990 Video Game)
+|user_name_link= [[:en:User:Docontheweb|Docontheweb]]
+|date=2015-08-31
+|accent=Midwest American English
+|sex=m
+|link_to_recorded_version=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->}}
+|date=2015-08-31
+|source={{own}}
+|author=[[User:Docontheweb|Docontheweb]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Sound recording]]

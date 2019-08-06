@@ -1,0 +1,31 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:Tonyle|Tonyle]] made this recording based on Wikipedia
+|Date={{original upload date|2009-01-16}}
+|Author={{original uploader|Tonyle|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+{{Spoken article
+|title=Interstate 15 in Arizona
+|time=9:46
+|user_name=Tonyle
+|date=2009-01-16
+|oldid=261541319
+|accent=U.S. Michigan and California
+|wiki_lang=en
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Interstate_15_in_Arizona.ogg}}
+* 2009-01-16 05:56 [[:en:User:Tonyle|Tonyle]] 0×0× (6274243 bytes) ''<nowiki>Re-read to: * Eliminate slight echo * Correct a few misread words * Impart a quicker, conversational tempo</nowiki>''
+* 2009-01-02 08:12 [[:en:User:Tonyle|Tonyle]] 0×0× (6473031 bytes) ''<nowiki>Increased encoder quality to remove compression artifacts</nowiki>''
+* 2008-12-30 23:13 [[:en:User:Tonyle|Tonyle]] 0×0× (4924667 bytes) ''<nowiki>Re-recorded with improved sound quality</nowiki>''
+* 2008-12-10 00:27 [[:en:User:Tonyle|Tonyle]] 0×0× (4699748 bytes) ''<nowiki>Fixed pronunciation of "St. George" in "Route description" section, re-recorded sentence on joint point of entry based on improved text version</nowiki>''
+* 2008-12-09 19:15 [[:en:User:Tonyle|Tonyle]] 0×0× (4705563 bytes) ''<nowiki>{{Spoken article |title=Interstate 15 in Arizona |time=9:33 |user_name=Tonyle |date=2008-12-09 |oldid=253802146 |accent=California English }} {{GFDL-with-di</nowiki>''
+
+[[Category:Interstate 15 in Arizona]]
+[[Category:Spoken Wikipedia - English]]

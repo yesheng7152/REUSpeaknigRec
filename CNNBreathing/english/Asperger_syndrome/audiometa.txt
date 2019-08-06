@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Audio of the article [[w:Asperger syndrome|Asperger syndrome]] as it appeared on en on 2016-10-19}}
+|date=2016-10-19
+|source={{own}}
+|author=[[User:Rfc1394|Rfc1394]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{RTCNCA License}}
+
+[[Category:Spoken word]]
+[[Category:Asperger syndrome]]

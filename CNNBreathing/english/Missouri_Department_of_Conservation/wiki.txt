@@ -1,0 +1,67 @@
+[[File:MDC Lands 2007 v2.svg|thumb|Lands managed by the MDC in 2007]]
+
+The '''Missouri Department of Conservation''' ('''MDC''') and the '''Missouri Conservation Commission''' were created by Article IV Sections 40-42 of the [[Missouri Constitution]], which were adopted by the voters of the state in 1936 as Amendment 4 to the constitution. The Commission is vested with control, management, restoration, conservation, and regulation of fish, forest, and wildlife resources of the state.<ref name="section40a">{{cite web
+ | title = Article IV: Section 40(a)
+ | work = [[Missouri Constitution]]
+ | url = http://www.moga.mo.gov/const/a04040a.htm
+ | publisher = Missouri General Assembly
+ | accessdate = 2009-06-21
+}}</ref>
+The Department of Conservation owns and oversees hatcheries, sanctuaries, refuges, and reservations, and enforces the state wildlife code.<ref name="section40a" />  The Commission consists of four individuals appointed by the governor of the [[U.S. state|state]] to serve unpaid 6-year terms. No more than two of the individuals may be from the same political party.
+
+== Leadership ==
+As of 2010, the eighth and current director of the Department of Conservation is Robert L. Ziehmer.<ref name="DOC Director">{{cite web
+ | url= http://mdc.mo.gov/conmag/2010/02/looking-ahead
+ | title=Looking Ahead
+ | work=MDConline
+ | date=2010-05-06
+ | accessdate=2010-11-19
+ | publisher=Missouri Department of Conservation
+}}</ref>
+
+==Publications==
+The department publishes the ''[[Missouri Conservationist]]'', a monthly periodical that is free to all residents of the state of [[Missouri]].<ref name="MDC3">[http://mdc.mo.gov/conmag/subscribe.php Missouri Conservationist]</ref>
+
+==Conservation areas==
+[[File:Missouri Dept of Conservation Regions 2010.svg|thumb|right|Administrative regions used by the Conservation Department as of 2010]]
+{{Main|List of Missouri conservation areas}}
+
+The MDC administers hundreds of parcels of land in all [[county (US)|counties]] of the [[U.S. state|state]]. Most areas are owned by the department, but some are leased to the department, and some areas are leased by the department to other entities for management.<ref>{{cite web
+ | url=http://mdc4.mdc.mo.gov/applications/moatlas/AreaSummaryPage.aspx?txtAreaID=9411
+ | title=Phantom Forest Conservation Area
+ | work=MDC.online
+ | publisher=Missouri Department of Conservation
+ | year=2010
+ | accessdate=2010-11-19
+}} ''"Phantom Forest CA is leased to and maintained by the City of Des Peres Parks and Recreation."''</ref>
+<ref name="mtg98">{{cite web
+ | url=http://mdc.mo.gov/about-us/get-know-us/organization-structure/conservation-commission/meetings-and-minutes/1998-meeti-6
+ | title=Conservation Action Meeting of the May 1998 Conservation Commission
+ | work=MDC.online
+ | publisher=Missouri Department of Conservation
+ | accessdate=2010-11-19
+}} ''"...entering into a lease agreement with Empire District Electric Company to develop a public fishing access-named Cooper Creek Access-on 29.43 acres on Lake Taneycomo in Taney County."''</ref>
+The department only acquires land from willing sellers and compensates local taxing authorities for the loss of property taxes.<ref name="mtg98" />
+
+The department has divided the counties of the state into eight administrative regions for the purpose of managing these lands and providing conservation services to the citizens of the state.<ref name="regions">{{cite web
+ | url = http://www.mdc.mo.gov/regions
+ | title = Regions
+ | work = MDC Online
+ | publisher = Missouri Department of Conservation
+ | accessdate = 2010-07-30
+}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website}}
+* (1944) [http://lhldigital.lindahall.org/cdm/ref/collection/philsci/id/32882 ''Final Report: Federal Aid - Wildlife Program''] typed, bound publication, including maps, tables, and photographs - digital facsimile from the [[Linda Hall Library]]
+
+{{DEFAULTSORT:Missouri Department Of Conservation}}
+[[Category:Environment of Missouri]]
+[[Category:State agencies of Missouri]]
+[[Category:State environmental protection agencies of the United States]]
+[[Category:1936 establishments in Missouri]]
+
+{{missouri-stub}}

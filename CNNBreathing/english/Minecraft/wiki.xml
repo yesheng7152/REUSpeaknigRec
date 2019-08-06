@@ -1,0 +1,450 @@
+<root><template><title>pp-semi</title><part><name>small</name><equals>=</equals><value>yes</value></part></template>
+<template lineStart="1"><title>Infobox video game
+</title><part><name>title </name><equals>=</equals><value> Minecraft
+</value></part><part><name>image </name><equals>=</equals><value> [[File:Minecraft 1.1 Title.png|256px]]
+</value></part><part><name>caption </name><equals>=</equals><value> Minecraft 1.1 main menu window
+</value></part><part><name>developer </name><equals>=</equals><value> [[Mojang]]
+</value></part><part><name>publisher </name><equals>=</equals><value> [[Mojang]]
+</value></part><part><name>designer </name><equals>=</equals><value> [[Jens Bergensten]]&lt;br /&gt;[[Markus Persson|Markus &quot;Notch&quot; Persson]]
+</value></part><part><name>artist </name><equals>=</equals><value> [[Kristoffer Zetterstrand]]&lt;br&gt;&lt;small&gt;(In-game artwork)&lt;/small&gt;&lt;br&gt;Markus &quot;Junkboy&quot; Toivonen
+</value></part><part><name>composer </name><equals>=</equals><value> Daniel &quot;C418&quot; Rosenfeld
+</value></part><part><name>released </name><equals>=</equals><value> '''PC (Java)'''&lt;br /&gt;<template><title>vgrelease</title><part><name>WW</name><equals>=</equals><value>November 18, 2011</value></part></template>'''Android'''&lt;br/&gt;<template><title>vgrelease</title><part><name>WW</name><equals>=</equals><value>October 7, 2011</value></part></template>'''iOS'''&lt;br /&gt;<template><title>vgrelease</title><part><name>WW</name><equals>=</equals><value>November 17, 2011</value></part></template>'''Xbox 360'''&lt;br /&gt;Q2 2012<ext><name>ref</name><attr> name=&quot;MinecraftXbox360&quot;</attr></ext>
+</value></part><part><name>version </name><equals>=</equals><value> '''1.1<comment>&lt;!--DO NOT ADD MINOR VERSIONS; Per rough consensus, please do not add other versions or specify minor updates, such as &quot;1.3_01&quot; --&gt;</comment>'''<template><title>collapsible list</title><part><name>title</name><equals>=</equals><value>Patch versions</value></part><part><name index="1"/><value>'''Client''': 1.1.0 (release)</value></part><part><name index="2"/><value>'''Server''': 1.1.0 (release)</value></part></template><comment>&lt;!-- minor versions CAN be added to the collapsible list. DO NOT ADD MINOR/PATCH UPDATES TO THE VERSION NUMBER --&gt;</comment>
+</value></part><part><name>genre </name><equals>=</equals><value> [[First person (video games)|First person]], [[Open world|sandbox]], [[Role-playing video game|RPG]]
+</value></part><part><name>modes </name><equals>=</equals><value> [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+</value></part><part><name>media </name><equals>=</equals><value> [[Online distribution|Download]]
+</value></part><part><name>platforms </name><equals>=</equals><value> [[Java (software platform)|Java platform]], [[Java applet]], [[Android (operating system)|Android]], [[iOS]], [[Xbox 360]]
+</value></part></template>
+
+'''''Minecraft''''' is a [[Open world|sandbox]]-building<ext><name>ref</name><attr> name=&quot;FiringSquad&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;Joq350&quot;</attr></ext> [[Indie game|independent video game]] written in [[Java (software platform)|Java]] originally by Swedish creator [[Markus Persson|Markus &quot;Notch&quot; Persson]] and now by his company, [[Mojang]], formed from the proceeds of the game. It was released as an [[Alpha test|alpha]] on May 17, 2009,<ext><name>ref</name><attr/><inner>{{cite web|url=http://forums.tigsource.com/index.php?topic=6273.0 |title=Minecraft (alpha) |publisher=Forums.tigsource.com |date=2009-05-17 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> with a beta version on December 20, 2010.<ext><name>ref</name><attr/><inner>{{cite web|author=Dec 11 2010 Tweet |url=http://notch.tumblr.com/post/2175441966/minecraft-beta-december-20-2010 |title=Minecraft Beta: December 20, 2010 : The Word of Notch |publisher=Notch.tumblr.com |date=2010-12-20 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> Official releases for [[iOS]]<ext><name>ref</name><attr/><inner>{{cite web|author=Daniel Kaplan |url=http://mojang.com/2011/11/18/minecraft-pocket-edition-on-ios/ |title=Minecraft – Pocket Edition on iOS! |publisher=Mojang.com |date=2011-11-18 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> and [[Android (operating system)|Android]] have been released and the full version of the [[Personal computer|PC]] game was released on November 18, 2011 at [[MineCon 2011]]. The Android release was temporarily exclusive to the [[Sony Ericsson Xperia Play|Xperia Play]] but is now available to the rest of the [[Android market]].<ext><name>ref</name><attr> name=&quot;MobileGamas&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MobileKotaku&quot;</attr></ext> A version of the game for the [[Xbox 360]] with [[Kinect]] support is under development by [[4J Studios]], to be released in 2012<ext><name>ref</name><attr> name=&quot;MinecraftXbox360&quot;</attr></ext>.
+
+''Minecraft'' is focused on creativity and building, allowing players to build constructions out of textured [[cube]]s in a [[3D computer graphics|3D]] world. Gameplay in its commercial release has two principal modes: [[Survival mode|Survival]], which requires players to acquire resources themselves and maintain their [[health (gaming)|health]] and [[hunger]]; and Creative, where the player has an unlimited supply of resources, the ability to fly, and no concept of health or hunger. A third gameplay mode, named Hardcore, is essentially the same as Survival, but the difficulty is locked on the hardest setting and respawning is disabled, forcing the player to delete his or her world upon death. An outdated Classic version is also available for free, although it is no longer being developed. Creative ''Minecraft'' resembles Classic, but with many more features.
+
+The gameplay is heavily inspired by ''[[Infiniminer]]'' by [[Zachtronics Industries]],<ext><name>ref</name><attr> name=&quot;notchbasis&quot;</attr></ext> and ''[[Dwarf Fortress]]'' by Bay 12 Games.<ext><name>ref</name><attr> name=&quot;CreditsDue&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;GSint&quot;</attr></ext>
+
+The game was officially released at MineCon on November 18, 2011. ''Minecraft'' was developed for about a week before its public release on May 17, 2009, on the TIGSource forums, where it gained a considerable level of popularity. It has been continually updated and patched since then, and while it was still in alpha<comment>&lt;!--not beta here--&gt;</comment> release, it garnered several hundred thousand sales and received critical notice and acclaim from many reviewers. It passed a million units sold on January 12, 2011,<ext><name>ref</name><attr> name=&quot;usercount12012011&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;usercountblog&quot;</attr></ext> less than a month after reaching Beta. By November 7, 2011, the game had sold <comment>&lt;!-- NOTE: If you wish to update the number, please also update the reference, date and the mention below --&gt;</comment>4 million units.<ext><name>ref</name><attr> name=&quot;sales11092011&quot;</attr><inner>{{cite web |url= http://www.gamespot.com/news/minecraft-beta-cracks-4-million-6344310 |title=Minecraft beta cracks 4 million - News at GameSpot|work=gamespot.com|accessdate=November 9, 2011}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==Gameplay==</h>
+[[File:Minecraft 1.0.0.png|thumb|right|A screenshot of a randomly generated ''Minecraft'' terrain]]
+
+The core gameplay<template><title>vague</title><part><name>date</name><equals>=</equals><value>January 2012</value></part></template> revolves around construction. The game world is essentially<comment>&lt;!--Plowed grass, snow layer, or fluids aren't cube--&gt;</comment> made of cubes arranged in a fixed grid pattern which represent different materials, such as dirt, stone, various ores, water, and tree trunks. While the players can move freely across the world, objects and items can only be placed at fixed locations relative to the grid. The player can gather these material blocks and place them elsewhere, thus potentially creating various constructions.
+
+''Minecraft'' has three currently available gameplay modes: Survival, Hardcore and Creative. Classic is the earliest free version and initially featured only the Creative [[game mode]] with only building (block placement and removal) aspects of the game and unlimited block supply. The game was then split into single-player survival mode (referred to as &quot;Survival Mode Test&quot;), which contained monsters and a much greater variety of blocks and items, as well as requiring players to mine their own blocks.
+
+The game starts by placing the player on the surface of a huge [[Procedural generation|procedurally generated]] game world. The player can walk across the terrain consisting of plains, mountains, caves, and various water bodies. The world is also divided into [[biome]]s ranging from deserts to snowfields. The in-game [[time-keeping systems in games|time system]] follows a day and night cycle. Throughout the course of the game the player encounters various non-human creatures, referred to as [[Mob (gaming)|mobs]]. During the daytime, non-hostile animals spawn, which can be hunted for food and crafting materials. Hostile monsters, such as large spiders, skeletons, zombies and the dangerous exploding Creeper will spawn in unlit areas, such as in caves or during the night. 
+
+Complex systems can be built using the in-game [[physics engine]] with the use of primitive electrical circuits and [[logic gates]]. For example, a door can be opened or closed by pressing a connected button or stepping on a pressure plate. Similarly, larger and more complex systems can be produced, such as a working [[arithmetic logic unit]]&amp;nbsp;– as used in [[CPU]]s.<ext><name>ref</name><attr> name=&quot;RedstoneComputer&quot;</attr></ext>
+
+The game world is procedurally generated as the player explores it. Although limits exist on vertical movement both up and down, ''Minecraft'' allows for an infinitely large game world to be generated on the horizontal plane, only running into technical problems when extremely distant locations are reached.<ext><name>ref</name><attr> group=&quot;†&quot; name=&quot;persson1&quot;</attr><inner>
+In a [http://notch.tumblr.com/post/3746989361/terrain-generation-part-1 blog post], Persson explains:
+&lt;blockquote&gt;&lt;p&gt;First of all, let me clarify some things about the &quot;infinite&quot; maps: They're not infinite, but there's no hard limit either. It'll just get [[software bug|buggier]] and buggier the further out you are. Terrain is generated, saved and loaded, and (kind of) rendered in chunks of 16*16*128 blocks. These chunks have an [[offset (computer science)|offset]] value that is a [[32-bit|32 bit]] [[integer]] roughly in the range negative two billion to positive two billion. If you go outside that range (about 25% of the distance from where you are now to the sun), loading and saving chunks will start overwriting old chunks. At a 16/th of that distance, things that use integers for block positions, such as using items and pathfinding, will start [[arithmetic overflow|overflowing]] and acting weird.&lt;/p&gt;
+&lt;p&gt;Those are the two &quot;hard&quot; limits.&lt;/p&gt;&lt;/blockquote&gt;
+</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr> name=&quot;NotchExplain1&quot;</attr></ext><comment>&lt;!--math based on ref: to Sun 149,597,888 km; 25% that 37 399 472 km; 1/16th that 2 337 467; earth circ. 40,075.16; around Earth 58.3 times every direction? --&gt;</comment> The game achieves this by splitting the game world data into smaller sections, called &quot;chunks&quot;,<ext><name>ref</name><attr> group=&quot;†&quot; name=&quot;persson1&quot;</attr></ext> only created or loaded into memory when the player is nearby.
+
+<h level="3" i="2">===Survival===</h>
+In this mode, the player has a [[health (gaming)|health bar]] which is depleted by attacks from monsters, falls, or environmental damage, such as drowning or falling into lava. The player also has a hunger bar, which must be periodically refilled by eating various food (porkchops, bread, etc.) in-game. Armor can help mitigate damage from mob attacks, while weapons can be used to kill enemies and other animals. Health replenishes when the player has a full hunger bar or by playing on the easiest difficulty, where the health bar regenerates by itself. Upon dying, items in the player's inventory are dropped and the player is respawned at current [[spawning (video gaming)|spawn point]], which by default is where the player started, but can be set by sleeping in in-game beds. The items can be recovered if reached before they despawn.
+
+The player can acquire different resources and craft tools, weapons, armor, food, and various other items. By acquiring better resources, the player can make more effective items. For example, tools such as axes, shovels, or pickaxes, can be used to chop down trees, dig soil, and mine ores respectively, and tools made out of better resources (such as iron in place of stone) perform their tasks more quickly and can be used more heavily before breaking. The game has an inventory system and the player is limited to the number of items they can carry, specifically, 36 spaces.
+
+<h level="3" i="3">===Creative===</h>
+In creative mode, the player does not take environmental or mob damage, is not affected by hunger, and can fly freely around the game world. The player also has access to unlimited resources or items through the inventory menu, and can place or remove them instantly. All creatures in the game, including hostile ones, may still spawn under proper conditions, but they cannot damage the player.
+
+<h level="3" i="4">===Classic===</h>
+[[File:Minecraft classic.png|right|thumb|A screenshot of ''Minecraft'' Classic (single player)]]
+Older versions of ''Minecraft'' are also available for players. Unlike newer versions of ''Minecraft'', Classic is free to play, though it is no longer updated. It functions much the same as Creative mode, allowing players to build and destroy any and all parts of the world either alone or in a multiplayer server. There are no computer creatures in this mode, and environmental hazards such as lava will not damage the player. However, some blocks function differently as their behavior was later changed during development. For example, in Classic mode, TNT will act like any other block and break when hit, but in newer versions it will detonate after its fuse is lit.
+
+<h level="3" i="5">===Primary win condition===</h>
+Although ''Minecraft'' is mostly a sandbox game, it contains some adventure elements. And, with that, a primary win condition, which is achieved by traveling to another dimension known as The End and defeating the powerful Enderdragon that flies around the map. This dimension is also home to the Endermen, a race of seemingly-sentient beings that are rarely seen on the main world. To find The End, one must locate underground ruins of an ancient civilization (referred to ingame as Strongholds) which can be found on the main overworld. They must then activate the stronghold's portal using two different items, one dropped by Endermen and one dropped by Blazes from the Nether dimension.
+
+Upon beating the boss creature (and claiming an exclusive reward), the player is allowed to leave the dimension via a portal, which will cue the game's ending sequence, written by Irish author [[Julian Gough]]<ext><name>ref</name><attr> name=&quot;Juilan Gough&quot;</attr><inner>{{cite web|url=http://boingboing.net/2012/01/09/ending-an-endless-game-an-int.html|title=Ending an endless game: an interview with Julian Gough, author of Minecraft's epic finale|author=Tom Chatfield|date=2012-01-09|publisher=Boing Boing|accessdate=2012-01-13}}</inner><close>&lt;/ref&gt;</close></ext>, and credits roll. The player is then teleported back to their original spawn point in the overworld, and, if certain criteria are met, will receive the exclusive achievement, &quot;The End&quot;.
+
+<h level="2" i="6">==Development==</h>
+The developer of ''Minecraft'', [[Markus Persson]] aka ''Notch'', had previously worked on games such as ''[[Wurm Online]]'' and as a game developer for [[King.com]] for over four years.<ext><name>ref</name><attr> name=&quot;GSint&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;PCGAMERinterview&quot;</attr></ext> ''Minecraft'' development began in May 10<template><title>Failed verification</title><part><name>date</name><equals>=</equals><value>January 2012</value></part></template>, 2009, soon after Persson had quit his job at King.com in order to concentrate more on independent development.<ext><name>ref</name><attr> name=&quot;GSint&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCabout&quot;</attr></ext> Persson was inspired to create ''Minecraft'' by several other games such as ''[[Dwarf Fortress]]'', ''[[Zachtronics Industries#Infiniminer|Infiniminer]]'' by [[Zachtronics Industries]], and ''[[Dungeon Keeper]]'' by [[Bullfrog Software]]. He was still working out the basics of gameplay when he discovered ''Infiniminer'' and played with others on the TIGSource.com forums.<ext><name>ref</name><attr> name=&quot;PCGAMERinterview&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCabout&quot;</attr></ext> At the time, he had also been visualizing an isometric 3D building game that would be a cross between his inspirations and had made some early prototypes.<ext><name>ref</name><attr> name=&quot;GSint&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCorigins&quot;</attr></ext> After discovering ''Infiniminer'', Notch declared &quot;My god, I realized that that was the game I wanted to do&quot;.<ext><name>ref</name><attr> name=&quot;notchbasis&quot; </attr></ext> ''Infiniminer'' heavily influenced the style of gameplay that eventually resulted in ''Minecraft'', including the first-person aspect of the game and the &quot;blocky&quot; visual style.<ext><name>ref</name><attr> name=&quot;MCabout&quot;</attr></ext>
+
+[[File:Minecraft Beta 1.0.2 crafting a stone axe.png|thumb|right|A screenshot of the ''Minecraft'' Beta crafting screen, showing a stone axe being crafted]]
+
+''Minecraft'' was first released to the public on May 17, 2009, as a [[Video game alpha release|developmental &quot;alpha&quot; release]]. Although Persson maintained a day job with Jalbum.net at first, he later moved to working part time and has since quit in order to work on ''Minecraft'' full time as sales of the beta version of the game have expanded.<ext><name>ref</name><attr> name=&quot;PCGAMERinterview&quot;</attr></ext> Persson continues to update the game with releases distributed to users automatically. Persson plans to continue these updates after the release of the full game as long as there is still an active userbase.<ext><name>ref</name><attr> name=&quot;MCabout&quot;</attr></ext> These updates have included features such as new items, new blocks, an alternate &quot;[[Hell]]&quot; dimension (accessible through construction of a [[Portal (fiction)|portal]]) that Persson terms &quot;The Nether&quot;, tamable [[wolf|wolves]] that assist the player, and changes to the game's behavior (e.g., how water flows). Persson plans to eventually release the game as open-source after sales have dropped off and when he wants to move onto other projects.<ext><name>ref</name><attr> name=&quot;PCGAMERinterview&quot;</attr></ext>
+
+[[File:Minecraft netherscreenshot2.png|thumb|right|A screenshot of &quot;The Nether&quot;, an alternate dimension]]
+
+In September 2010 Persson announced that he and a friend were starting a video game company, [[Mojang]], with the money earned from ''Minecraft''. This company was intended to back the development of ''Minecraft'' and an unrelated game, ''[[Scrolls (video game)|Scrolls]]'', which his friend would primarily work on. As part of creating the company, Persson has hired &quot;an artist, a web site developer, and a business guy&quot;, additional programmers, and established an office in [[Stockholm]].<ext><name>ref</name><attr> name=&quot;LackOfUpdates&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCcompany&quot;</attr></ext> Although Persson plans to spend the majority of his time working on ''Minecraft'' while his partner spends the majority of ''his'' time working on the other game, he says that &quot;everyone working at the company will be involved in both projects to some degree&quot;.<ext><name>ref</name><attr> name=&quot;MCcompany&quot;</attr></ext> Persson said that part of his motivation behind hiring staff was that he felt he was spending too much time working on the website and reading emails rather than developing ''Minecraft''.<ext><name>ref</name><attr> name=&quot;MCcompany&quot;</attr></ext> The four additional employees hired in 2010 were Jens Bergensten, a programmer; Daniel Kaplan, the &quot;business guy&quot;; Jakob Porser, who will be working on the other game for Mojang; and Markus &quot;Junkboy&quot; Toivonen, a [[pixel artist]].<ext><name>ref</name><attr> name=&quot;MCJens&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCDaniel&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MCJakob&quot;</attr></ext> The plans for Persson's new company were delayed by weeks when his account with [[PayPal]], containing over [[United States dollar|US$]]763,000 in proceeds from ''Minecraft'' sales, was frozen due to a &quot;suspicious withdrawal or deposit&quot;.<ext><name>ref</name><attr> name=&quot;ESCAPEpaypal&quot;</attr></ext> On October 20, 2010, the official ''Minecraft'' website suffered a prolonged [[Denial-of-service attack|DDoS attack]].<ext><name>ref</name><attr> name=&quot;KotakoDDoS&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;EGDDOS&quot;</attr></ext>
+
+On December 11, 2010, Persson announced, via his personal blog, that ''Minecraft'' would be entering its beta testing phase on December 20, 2010, and that the price would increase to €14.95.<ext><name>ref</name><attr> name=&quot;BetaDate&quot;</attr></ext> He further stated that users who bought the game after this date would no longer be guaranteed to receive all future content free of charge as it &quot;scared both the lawyers and the board.&quot; However, bug fixes and all updates leading up to and including the release would still be free. At the start of 2011 Mojang expanded to include Carl Manneh as a &quot;managing director&quot; and Tobias Möllstam as a programmer.<ext><name>ref</name><attr> name=&quot;MCMannehMollstam&quot;</attr></ext> On April 7, 2011, Persson made a post on his blog that Mojang has decided to move the game out of Beta on November 11, 2011; however this would not be the &quot;finished product&quot;, as the game would be continuously updated before and after the release.<ext><name>ref</name><attr> name=releasedate</attr><inner>{{cite web|last=Persson|first=Markus|title=11/11/11|url=http://notch.tumblr.com/post/4423138657/11-11-11}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Minecraft.net provided online systems to authenticate logins and host the player's profile including its modifiable character skin pattern and the purchased gift codes. On January 18, 2011, Persson announced in a blog post that ''Minecraft''<template><title>'</title></template>s web servers would be switching to being hosted solely on the Amazon Web Services (AWS) content delivery network. Notch stated in his personal blog that their old web host was having trouble and that Mojang would be switching to using AWS as their host for both Minecraft.net and ''Minecraft''<template><title>'</title></template>s web functions such as logging in.<ext><name>ref</name><attr> name=&quot;notchMigr&quot;</attr></ext> This was followed by a tweet the next day confirming the migration and that Tobias would be the one to set up the new servers.<ext><name>ref</name><attr> name=&quot;TobiasBP&quot;</attr></ext> Upon this hosting migration, both Minecraft.net and ''Minecraft'' game features experienced fluctuating down time.<ext><name>ref</name><attr> name=&quot;McDown&quot;</attr></ext> On February 21, Mojang hired Dan Frisk to oversee the servers and back end for both ''Minecraft'' and ''Scrolls''.
+
+On May 19, 2011, Persson announced via his Twitter account about an additional dimension which is currently being tested to add to the game. The &quot;Sky Dimension&quot; is similar to the Nether, however set above the sky with floating islands.<ext><name>ref</name><attr/><inner>{{cite web|last=Persson|first=Markus|title=Twitter – Sky Dimension|url=http://twitter.com/#!/notch/status/71133661768065024}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|url=http://kotaku.com/5803448/minecraft-heading-to-the-clouds-with-new-update/|title=''Minecraft'' Heading to the Clouds With New Update|publisher=Kotaku|date=2011-05-19}}</inner><close>&lt;/ref&gt;</close></ext>
+
+Currently, an official [[iOS]] port of ''Minecraft'' is being developed by new Mojang employee Aron Nieminen for release later in the year 2011.<ext><name>ref</name><attr> name=&quot;MobileGamas&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;MobileKotaku&quot;</attr></ext>
+
+''Minecraft'' 1.8, popularly referred to as the &quot;Adventure Update&quot;, was leaked on September 9, 2011 by Jens Bergensten, a Mojang developer,<ext><name>ref</name><attr/><inner>{{cite web|last=Conditt |first=Jessica |url=http://www.joystiq.com/2011/09/09/minecraft-1-8-update-leaked-by-mojang/ |title=Minecraft 1.8 update leaked by Mojang |publisher=Joystiq |date=2011-09-09 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> and then subsequently released officially on September 14, 2011 after a long trial of testing and bugfixing.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.minecraftforum.net/news/221-18-is-now-out/ |title=1.8 is Now Out! - News |publisher=Minecraft Forum |date=2011-09-14 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext>
+
+On his Twitter account Jens Bergensten noted that the Pocket Edition of ''Minecraft'' is written in C++ and not Java, due to iOS not being able to support Java.
+
+On December 2, 2011, Persson announced via his personal blog that he would be stepping down as the lead developer of ''Minecraft''. Bergensten would become lead developer. Persson would remain as a developer of ''Minecraft'' but would be taking time away from the game in order to work on an unannounced project.<ext><name>ref</name><attr> name=&quot;perssonstepdown&quot;</attr><inner>{{cite web|url=http://arstechnica.com/gaming/news/2011/12/markus-notch-person-steps-down-as-lead-minecraft-developer.ars|title=Markus &quot;Notch&quot; Persson steps down as lead Minecraft developer|last=Johnson|first=Casey|date=2011-12-02|accessdate=2011-12-02}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="7">==Reception==</h>
+<template lineStart="1"><title>Video game reviews
+</title><part><name> title </name><equals>=</equals><value> ''Minecraft''
+</value></part><part><name> subtitle </name><equals>=</equals><value> 
+</value></part><part><name> state </name><equals>=</equals><value> 
+<comment>&lt;!-- Aggregators --&gt;
+</comment></value></part><part><name> GR </name><equals>=</equals><value> 94.17%<ext><name>ref</name><attr/><inner>{{cite web |url=http://www.gamerankings.com/pc/606524-minecraft/index.html |title=''Minecraft'' for PC |work=[[GameRankings]] |publisher=[[CBS Interactive]] |accessdate=2011-12-04}}</inner><close>&lt;/ref&gt;</close></ext> (15 reviews)
+</value></part><part><name> MC </name><equals>=</equals><value> 94/100<ext><name>ref</name><attr/><inner>{{cite web |url=http://www.metacritic.com/game/pc/minecraft/critic-reviews |title=''Minecraft'' Critic Reviews for PC |work=[[Metacritic]] |publisher=CBS Interactive |accessdate=2011-12-04}}</inner><close>&lt;/ref&gt;</close></ext> (27 reviews)
+<comment>&lt;!-- Custom aggregators --&gt;
+</comment></value></part><part><name> agg1 </name><equals>=</equals><value> 
+</value></part><part><name> agg1Score </name><equals>=</equals><value> 
+</value></part><part><name> agg2 </name><equals>=</equals><value> 
+</value></part><part><name> agg2Score </name><equals>=</equals><value> 
+<comment>&lt;!-- Reviewers --&gt;
+</comment></value></part><part><name> 1UP </name><equals>=</equals><value> A+ <ext><name>ref</name><attr/><inner>{{cite web|url=http://www.1up.com/games/pc/minecraft/review/ |title=Minecraft PC Reviews |publisher=1up.com |date= |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> AAction </name><equals>=</equals><value> 
+</value></part><part><name> AdvGamers </name><equals>=</equals><value> 
+</value></part><part><name> Allgame </name><equals>=</equals><value> 
+</value></part><part><name> Amtix </name><equals>=</equals><value> 
+</value></part><part><name> CRASH </name><equals>=</equals><value> 
+</value></part><part><name> CVG </name><equals>=</equals><value> 
+</value></part><part><name> Dragon </name><equals>=</equals><value> 
+</value></part><part><name> Edge </name><equals>=</equals><value> 9/10
+</value></part><part><name> EGM </name><equals>=</equals><value> 
+</value></part><part><name> EuroG </name><equals>=</equals><value> 10/10<ext><name>ref</name><attr/><inner>{{cite web|last=Meer |first=Alec |url=http://www.eurogamer.net/articles/2011-11-18-minecraft-review |title=Minecraft Review • Reviews • |publisher=Eurogamer.net |date=2011-11-18 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> Fam </name><equals>=</equals><value> 
+</value></part><part><name> G4 </name><equals>=</equals><value> 
+</value></part><part><name> GameFan </name><equals>=</equals><value> 
+</value></part><part><name> GI </name><equals>=</equals><value> 9.25/10
+</value></part><part><name> GamePro </name><equals>=</equals><value> <template><title>rating</title><part><name index="1"/><value>5</value></part><part><name index="2"/><value>5</value></part></template><ext><name>ref</name><attr/><inner>http://www.webcitation.org/query?url=http://www.gamepro.com/article/reviews/225117/review-minecraft-pc/&amp;date=2011-11-30+22:32:39</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> GameRev </name><equals>=</equals><value> 
+</value></part><part><name> GMaster </name><equals>=</equals><value> 
+</value></part><part><name> GSpot </name><equals>=</equals><value> 8.5/10 <ext><name>ref</name><attr/><inner>{{cite web|last=Meunier |first=Nathan |url=http://www.gamespot.com/minecraft/reviews/minecraft-review-6346734?tag=summary%3Bread-review |title=Minecraft Review |publisher=GameSpot.com |date=2009-05-10 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> GSpy </name><equals>=</equals><value> <template><title>rating</title><part><name index="1"/><value>5</value></part><part><name index="2"/><value>5</value></part></template><ext><name>ref</name><attr/><inner>{{cite web|url=http://pc.gamespy.com/pc/minecraft/1213179p1.html |title=GameSpy: Minecraft Review - Page 1 |publisher=Pc.gamespy.com |date= |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> 
+</value></part><part><name> GTM </name><equals>=</equals><value> 
+</value></part><part><name> GRadar </name><equals>=</equals><value> 
+</value></part><part><name> GT </name><equals>=</equals><value>
+</value></part><part><name> GW </name><equals>=</equals><value> 
+</value></part><part><name> GameZone </name><equals>=</equals><value> 
+</value></part><part><name> Hyper </name><equals>=</equals><value> 
+</value></part><part><name> IGN </name><equals>=</equals><value> 9.0/10 <ext><name>ref</name><attr/><inner>{{cite web|author=var authorId = &quot;231026764&quot; by Anthony Gallegos |url=http://pc.ign.com/articles/121/1213266p1.html |title=Minecraft Review - PC Review at IGN |publisher=Pc.ign.com |date= |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> MaxPC </name><equals>=</equals><value> 
+</value></part><part><name> N64 </name><equals>=</equals><value> 
+</value></part><part><name> NP </name><equals>=</equals><value> 
+</value></part><part><name> NWR </name><equals>=</equals><value> 
+</value></part><part><name> ONM </name><equals>=</equals><value> 
+</value></part><part><name> OPM </name><equals>=</equals><value> 
+</value></part><part><name> OPMUK </name><equals>=</equals><value> 
+</value></part><part><name> OPMAU </name><equals>=</equals><value> 
+</value></part><part><name> OXM </name><equals>=</equals><value> 
+</value></part><part><name> OXMUK </name><equals>=</equals><value> 
+</value></part><part><name> PALGN </name><equals>=</equals><value> 
+</value></part><part><name> PCF </name><equals>=</equals><value> 
+</value></part><part><name> PCGUK </name><equals>=</equals><value> 
+</value></part><part><name> PCGUS </name><equals>=</equals><value> 
+</value></part><part><name> PCPP </name><equals>=</equals><value> 
+</value></part><part><name> PCZone </name><equals>=</equals><value> 
+</value></part><part><name> Play </name><equals>=</equals><value> 
+</value></part><part><name> PSM </name><equals>=</equals><value> 
+</value></part><part><name> PSM3 </name><equals>=</equals><value> 
+</value></part><part><name> SUser </name><equals>=</equals><value> 
+</value></part><part><name> TX </name><equals>=</equals><value> 
+</value></part><part><name> VG </name><equals>=</equals><value> 
+</value></part><part><name> XPlay </name><equals>=</equals><value> 
+</value></part><part><name> YSinclair </name><equals>=</equals><value> 
+</value></part><part><name> YSpectrum </name><equals>=</equals><value> 
+<comment>&lt;!-- Custom reviewers --&gt;
+</comment></value></part><part><name> rev1 </name><equals>=</equals><value> 
+</value></part><part><name> rev1Score </name><equals>=</equals><value> 
+</value></part><part><name> rev2 </name><equals>=</equals><value> 
+</value></part><part><name> rev2Score </name><equals>=</equals><value> 
+</value></part><part><name> rev3 </name><equals>=</equals><value> 
+</value></part><part><name> rev3Score </name><equals>=</equals><value> 
+</value></part><part><name> rev4 </name><equals>=</equals><value> 
+</value></part><part><name> rev4Score </name><equals>=</equals><value> 
+</value></part><part><name> rev5 </name><equals>=</equals><value> 
+</value></part><part><name> rev5Score </name><equals>=</equals><value> 
+</value></part><part><name> rev6 </name><equals>=</equals><value> 
+</value></part><part><name> rev6Score </name><equals>=</equals><value> 
+</value></part><part><name> rev7 </name><equals>=</equals><value> 
+</value></part><part><name> rev7Score </name><equals>=</equals><value> 
+<comment>&lt;!-- Awards --&gt;
+</comment></value></part><part><name> award1Pub </name><equals>=</equals><value> 
+</value></part><part><name> award1 </name><equals>=</equals><value> 
+</value></part><part><name> award2Pub </name><equals>=</equals><value> 
+</value></part><part><name> award2 </name><equals>=</equals><value> 
+</value></part><part><name> award3Pub </name><equals>=</equals><value> 
+</value></part><part><name> award3 </name><equals>=</equals><value> 
+</value></part><part><name> award4Pub </name><equals>=</equals><value> 
+</value></part><part><name> award4 </name><equals>=</equals><value> 
+</value></part><part><name> award5Pub </name><equals>=</equals><value> 
+</value></part><part><name> award5 </name><equals>=</equals><value> 
+</value></part><part><name> award6Pub </name><equals>=</equals><value> 
+</value></part><part><name> award6 </name><equals>=</equals><value> 
+</value></part><part><name> award7Pub </name><equals>=</equals><value> 
+</value></part><part><name> award7 </name><equals>=</equals><value> 
+</value></part><part><name> award8Pub </name><equals>=</equals><value> 
+</value></part><part><name> award8 </name><equals>=</equals><value> 
+</value></part><part><name> award9Pub </name><equals>=</equals><value> 
+</value></part><part><name> award9 </name><equals>=</equals><value> 
+</value></part><part><name> award10Pub </name><equals>=</equals><value> 
+</value></part><part><name> award10 </name><equals>=</equals><value> 
+</value></part><part><name> award11Pub </name><equals>=</equals><value> 
+</value></part><part><name> award11 </name><equals>=</equals><value> 
+</value></part><part><name> award12Pub </name><equals>=</equals><value> 
+</value></part><part><name> award12 </name><equals>=</equals><value> 
+</value></part></template>
+
+''Minecraft'' has received favorable responses from critics, and has had notably large numbers of sales.
+
+The game has been praised for the creative freedom it grants its players in-game, and for how dynamic the overall gameplay is.<ext><name>ref</name><attr> name=&quot;PCGamerUK&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;PCPowerPlay&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;Valve&quot;</attr></ext> ''[[PC Gamer]]'' listed ''Minecraft'' as the fourth-best game to play at work.<ext><name>ref</name><attr> name=&quot;PCGamer&quot;</attr></ext><comment>&lt;!--July 2009--&gt;</comment>
+
+A review of the alpha version, by Scott Munro of the ''[[Daily Record (Scotland)|Daily Record]]'', called it &quot;already something special&quot; and urged readers to buy it.<ext><name>ref</name><attr> name=&quot;DRreview&quot;</attr></ext><comment>&lt;!--July 2010--&gt;</comment> [[Jim Rossignol]] of [[Rock, Paper, Shotgun]] also recommended the alpha of the game, calling it &quot;a kind of generative 8-bit [[Lego]] ''[[S.T.A.L.K.E.R.: Shadow of Chernobyl|Stalker]]''&quot;.<ext><name>ref</name><attr> name=&quot;RPSreview&quot;</attr></ext><comment>&lt;!--August 2010--&gt;</comment> On September 17, 2010, gaming [[webcomic]] [[Penny Arcade (webcomic)|Penny Arcade]] began a series of comics and news posts about the addictiveness of the game.<ext><name>ref</name><attr> name=&quot;PennyArcade&quot;</attr></ext> Video game talk show ''[[Good Game]]'' gave it a 7.5 and 9 out of 10, praising its creativity and customization, though they criticized its lack of a tutorial.<ext><name>ref</name><attr> name=&quot;ABCTV&quot;</attr></ext><comment>&lt;!--September 2010--&gt;</comment>
+
+In December 2010, ''Good Game'' selected ''Minecraft'' as their choice for &quot;Best Downloadable Game of 2010&quot; title,<ext><name>ref</name><attr> name=&quot;GGaward&quot;</attr></ext><comment>&lt;!--December 2010--&gt;</comment> [[Gamasutra]] named it the eighth best game of the year as well as the eighth best indie game of the year,<ext><name>ref</name><attr> name=&quot;GSaward&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;GSaward2&quot;</attr></ext><comment>&lt;!--December 2010--&gt;</comment> and Rock, Paper, Shotgun named it the game of the year.<ext><name>ref</name><attr> name=&quot;RPSgoty&quot;</attr></ext> [[Indie DB]] awarded the game the 2010 &quot;Indie of the Year&quot; award as chosen by voters, in addition to two out of five Editor's Choice awards for &quot;Most Innovative&quot; and &quot;Best Singleplayer Indie&quot;.<ext><name>ref</name><attr> name=&quot;IDBaward&quot;</attr></ext><comment>&lt;!--December 2010--&gt;</comment> It was also awarded &quot;Game of the Year&quot; by ''PC Gamer UK''.<ext><name>ref</name><attr> name=&quot;PCGamerUK1&quot;</attr></ext><comment>&lt;!--December 2010--&gt;</comment> The game was nominated for the &quot;Seumas McNally Grand Prize&quot;, &quot;Technical Excellence&quot;, and &quot;Excellence in Design&quot; awards at the March 2011 [[Independent Games Festival]]<ext><name>ref</name><attr> name=&quot;IGFnoms&quot;</attr></ext><comment>&lt;!--January 2011--&gt;</comment> and won the Grand Prize along with community-voted &quot;Audience Award&quot;.<ext><name>ref</name><attr> name=&quot;IGFwins&quot;</attr></ext><comment>&lt;!--March 2011--&gt;</comment> At [[Game Developers Choice Awards]] 2011, ''Minecraft'' won the award for Best debut game, Best downloadable game and Most Innovative game award, winning every award for which it was nominated.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>March 2011</value></part></template><comment>&lt;!--March 2011 according to http://www.gamechoiceawards.com/winners/--&gt;</comment> It has also won [[GameCity]]'s videogame arts prize<ext><name>ref</name><attr/><inner>[http://www.bbc.co.uk/news/technology-15509330 ''Minecraft'' awarded GameCity videogame arts prize]. Leo Kelion, [[BBC News]]</inner><close>&lt;/ref&gt;</close></ext>
+
+On May 5, 2011, ''Minecraft'' was selected as one of the 80 games that will be displayed at the [[Smithsonian American Art Museum]] as part of &quot;[[The Art of Video Games]]&quot; exhibit that will open on March 16, 2012.<ext><name>ref</name><attr/><inner>{{cite web|url=http://kotaku.com/#!5799017/the-smithsonian-has-picked-the-games-of-its-art-of-video-games-exhibit|title=The Smithsonian Has Picked the Games of Its Art of Video Games Exhibit|publisher=Kotaku|date=2011-05-05}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|url=http://americanart.si.edu/exhibitions/archive/2012/games/|title=The Art of Video Games|publisher=[[Smithsonian American Art Museum]]}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="8">===Sales===</h>
+In September 2010, after an impromptu &quot;[[free to play]]&quot; weekend, the game had a spike in sales of over 25,000 purchases in 24 hours.<ext><name>ref</name><attr> name=&quot;freeweekend&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;124hourpeak&quot;</attr></ext> On January 12, 2011, ''Minecraft'' passed 1,000,000 purchases,<ext><name>ref</name><attr> name=&quot;usercount12012011&quot;</attr></ext><ext><name>ref</name><attr> name=&quot;usercountblog&quot;</attr></ext> less than a month after reaching Beta. At the same time, the game had no [[video game publisher|publisher]] backing and has never been commercially advertised except through [[word of mouth]].<ext><name>ref</name><attr> name=&quot;noads&quot;</attr></ext> By April 2011, Persson estimated that ''Minecraft'' had made €23&amp;nbsp;million (US$33&amp;nbsp;million) in revenue, with 800,000 sales of the alpha version of the game at €9.95, and over 1&amp;nbsp;million sales of the beta version at €14.95.<ext><name>ref</name><attr> name=&quot;GSAprilsales&quot;</attr></ext> On July 1, 2011 ''Minecraft'' passed the 10 million registered users mark.<ext><name>ref</name><attr/><inner>{{cite web |url=http://notch.tumblr.com/post/7128013309/10m |title=10m |date=2011-07-01 |work=The Word of Notch |accessdate=2011-07-01 |last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang}}</inner><close>&lt;/ref&gt;</close></ext> As of November 7, 2011, ''Minecraft'' had over <comment>&lt;!-- NOTE: If you wish to update the numbers, PLEASE also update the reference and date --&gt;</comment>16 million registered users, and over 4 million purchases.<ext><name>ref</name><attr> name=&quot;sales11092011&quot;</attr></ext>
+
+<h level="2" i="9">== Ports ==</h>
+The game has been released so far on [[Android (operating system)|Android]] and [[iOS]] as ''Minecraft &amp;ndash; Pocket Edition'', and is set to be released on several other platforms, including the [[Xbox 360]]. The Xbox 360 version of the game, developed by [[4J Studios]], will support [[Kinect]] play and cross-platform playability with the PC version.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.microsoft.com/Presspass/press/2011/jun11/06-06E32011PR.mspx| title=''Minecraft'' will feature cross-functionality between the PC and Xbox 360 versions.}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="3" i="10">===''Minecraft &amp;ndash; Pocket Edition''===</h>
+On August 16, 2011, ''Minecraft &amp;ndash; Pocket Edition'' was released for the [[Sony Ericsson Xperia Play|Xperia Play]]. It was opened up to the rest of the Android market as of the 8th of October. The first, and current, version of the software concentrates on the creative building aspect of the game, and allows for multiplay across a local wireless network.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.pcworld.com/article/238162/minecraft_pocket_edition_hits_android_app_store_your_thumbs_cower_in_fear.html|title=''Minecraft Pocket Edition'' Hits Android App Store, Your Thumbs Cower in Fear}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|url=http://mojang.com/2011/08/16/say-hello-to-minecraft-pocket-edition/|title=Say hello to ''Minecraft &amp;ndash; Pocket Edition''|date=2011-08-21}}</inner><close>&lt;/ref&gt;</close></ext> An iOS version of ''Minecraft'' was released on November 17, 2011.<ext><name>ref</name><attr/><inner>{{cite news|last=Brown|first=Mark|title=''Minecraft: Pocket Edition'' arrives on iPhone and iPad|url=http://www.wired.co.uk/news/archive/2011-11/16/minecraft-ios|accessdate=November 18, 2011|newspaper=Wired|date=16 November 2011}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="11">==MineCon 2011==</h>
+On May 11, 2011, Persson announced via his blog that an official ''Minecraft'' [[Fan convention|convention]] titled &quot;MineCon 2011&quot; would be held November 18–19 in [[Las Vegas, Nevada|Las Vegas]], in the [[United States]] and on August 11, the [http://minecon.mojang.com MineCon website] was launched.<ext><name>ref</name><attr/><inner>{{cite web|url=http://www.certain.com/system/profile/form/index.cfm?PKformID=0x11297799b65|title=MineCon 2011 – The Official ''MineCraft'' Event|accessdate=2011-08-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+The event included the official launch of ''Minecraft''; keynote speeches, including one by Persson; building and costume contests; ''Minecraft''-themed breakout classes; exhibits by leading gaming and ''Minecraft''-related companies; commemorative merchandise; and autograph and picture times with Mojang employees and well-known contributors from the ''Minecraft'' community.<ext><name>ref</name><attr/><inner>{{cite web|url=http://uk.pc.gamespy.com/pc/minecraft/1187399p1.html |title=GameSpy: Tickets for Minecraft Convention, MineCon, Now On Sale - Page 1 |publisher=Uk.pc.gamespy.com |date=2011-08-11 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext><ext><name>ref</name><attr/><inner>{{cite web|url=http://minecon.mojang.com/about|title=About MineCon|accessdate=2011-08-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+As well as this, free codes were given to every attendee of MineCon that unlock Alpha versions of Mojang's other upcoming game, ''Scrolls'', as well as an additional non-Mojang game, ''Cobalt'', which is being developed by Oxeye Game Studios.<ext><name>ref</name><attr/><inner>{{cite web|author=Lydia Winters |url=http://mojang.com/2011/09/08/minecon-swag-alpha-codes/ |title=MineCon Swag – Alpha Codes! |publisher=Mojang.com |date=2011-09-08 |accessdate=2011-12-18}}</inner><close>&lt;/ref&gt;</close></ext> 
+
+MineCon sold all of its 4,500 tickets.<ext><name>ref</name><attr/><inner>{{cite web|url=http://notch.tumblr.com/post/12035757284/minecon-is-sold-out|title=MineCon Sold Out}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="12">==Soundtrack==</h>
+<template lineStart="1"><title>Infobox album <comment>&lt;!-- See Wikipedia:WikiProject Albums --&gt;</comment>
+</title><part><name> Name        </name><equals>=</equals><value> Minecraft – Volume Alpha
+</value></part><part><name> Type        </name><equals>=</equals><value> studio
+</value></part><part><name> Artist      </name><equals>=</equals><value> C418
+</value></part><part><name>Cover        </name><equals>=</equals><value> Album Minecraft - Volume Alpha Cover.png
+</value></part><part><name> Alt         </name><equals>=</equals><value>
+</value></part><part><name> Released    </name><equals>=</equals><value> March 4, 2011
+</value></part><part><name> Last album  </name><equals>=</equals><value> '''''I forgot something, didn't I.''''' &lt;br /&gt;(2011)
+</value></part><part><name> This album  </name><equals>=</equals><value> '''''Minecraft – Volume Alpha''''' &lt;br /&gt;(2011)
+</value></part><part><name> Next album  </name><equals>=</equals><value> '''''72 Minutes of Fame''''' &lt;br /&gt;(2011)
+</value></part></template>
+
+Composer C418 released a [[Video game music|soundtrack]], titled '''''Minecraft – Volume Alpha''''', on March&amp;nbsp;4, 2011.<ext><name>ref</name><attr> name=&quot;Bandcamp&quot; </attr></ext>
+&lt;div style=&quot;width:95%&quot;&gt;<template><title>Track listing
+</title><part><name> title1          </name><equals>=</equals><value> Key
+</value></part><part><name> length1         </name><equals>=</equals><value> 1:05
+</value></part><part><name> title2          </name><equals>=</equals><value> Door
+</value></part><part><name> length2         </name><equals>=</equals><value> 1:51
+</value></part><part><name> title3          </name><equals>=</equals><value> Subwoofer Lullaby
+</value></part><part><name> length3         </name><equals>=</equals><value> 3:28
+</value></part><part><name> title4          </name><equals>=</equals><value> Death
+</value></part><part><name> length4         </name><equals>=</equals><value> 0:41
+</value></part><part><name> title5          </name><equals>=</equals><value> Living Mice
+</value></part><part><name> length5         </name><equals>=</equals><value> 2:57
+</value></part><part><name> title6          </name><equals>=</equals><value> Moog City
+</value></part><part><name> length6         </name><equals>=</equals><value> 2:40
+</value></part><part><name> title7          </name><equals>=</equals><value> Haggstorm
+</value></part><part><name> length7         </name><equals>=</equals><value> 3:24
+</value></part><part><name> title8          </name><equals>=</equals><value> Minecraft
+</value></part><part><name> length8         </name><equals>=</equals><value> 4:14
+</value></part><part><name> title9          </name><equals>=</equals><value> Oxygène
+</value></part><part><name> length9         </name><equals>=</equals><value> 1:05
+</value></part><part><name> title10         </name><equals>=</equals><value> Équinoxe
+</value></part><part><name> length10        </name><equals>=</equals><value> 1:54
+</value></part><part><name> title11         </name><equals>=</equals><value> Mice on Venus
+</value></part><part><name> length11        </name><equals>=</equals><value> 4:41
+</value></part><part><name> title12         </name><equals>=</equals><value> Dry Hands
+</value></part><part><name> length12        </name><equals>=</equals><value> 1:08
+</value></part><part><name> title13         </name><equals>=</equals><value> Wet Hands
+</value></part><part><name> length13        </name><equals>=</equals><value> 1:30
+</value></part><part><name> title14         </name><equals>=</equals><value> Clark
+</value></part><part><name> length14        </name><equals>=</equals><value> 3:11
+</value></part><part><name> title15         </name><equals>=</equals><value> Chris
+</value></part><part><name> length15        </name><equals>=</equals><value> 1:27
+</value></part><part><name> title16         </name><equals>=</equals><value> Thirteen
+</value></part><part><name> length16        </name><equals>=</equals><value> 2:56
+</value></part><part><name> title17         </name><equals>=</equals><value> Excuse
+</value></part><part><name> length17        </name><equals>=</equals><value> 2:04
+</value></part><part><name> title18         </name><equals>=</equals><value> Sweden
+</value></part><part><name> length18        </name><equals>=</equals><value> 3:35
+</value></part><part><name> title19         </name><equals>=</equals><value> Cat
+</value></part><part><name> length19        </name><equals>=</equals><value> 3:06
+</value></part><part><name> title20         </name><equals>=</equals><value> Dog
+</value></part><part><name> length20        </name><equals>=</equals><value> 2:25
+</value></part><part><name> title21         </name><equals>=</equals><value> Danny
+</value></part><part><name> length21        </name><equals>=</equals><value> 4:14
+</value></part><part><name> title22         </name><equals>=</equals><value> Beginning
+</value></part><part><name> length22        </name><equals>=</equals><value> 1:42
+</value></part><part><name> title23         </name><equals>=</equals><value> Droopy likes ricochet
+</value></part><part><name> length23        </name><equals>=</equals><value> 1:36
+</value></part><part><name> title24         </name><equals>=</equals><value> Droopy likes your face
+</value></part><part><name> length24        </name><equals>=</equals><value> 1:56
+</value></part></template>&lt;/div&gt;
+
+<h level="2" i="13">==See also==</h>
+<template lineStart="1"><title>Portal</title><part><name index="1"/><value>Sweden</value></part><part><name index="2"/><value>Video games</value></part></template>
+* ''[[Minicraft]]'', a 2D [[Action game|action]]/[[Survival game|survival]] game made by Persson
+
+<h level="2" i="14">==Footnotes==</h>
+<ext><name>references</name><attr> group=&quot;†&quot; </attr></ext>
+
+<h level="2" i="15">==References==</h>
+<template lineStart="1"><title>Reflist</title><part><name index="1"/><value>2</value></part><part><name>refs</name><equals>=</equals><value>
+
+<ext><name>ref</name><attr> name=&quot;MinecraftXbox360&quot;</attr><inner>{{cite web |url=http://mojang.com/2011/06/07/minecraft-is-coming-to-xbox/ |title=''Minecraft'' is coming to Xbox |first=Carl |last=Manneh |date=2011-03-07 |accessdate=2011-06-08}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;NotchExplain1&quot;</attr><inner>{{cite web |url=http://notch.tumblr.com/post/3746989361/terrain-generation-part-1 |title=Terrain generation, Part 1 |first=Markus |last=Persson |date=2011-03-10 |accessdate=2010-10-24}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;FiringSquad&quot;</attr><inner>{{cite web |url=http://www.firingsquad.com/games/minecraft_review/ |title=''Minecraft'': The Coolest Game You've Never Heard Of |first=Jacob |last=VanDerWerf |date=2010-08-09 |accessdate=2010-10-24 |publisher=FiringSquad}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;Joq350&quot;</attr><inner>{{cite web |url=http://www.joystiq.com/2010/09/28/minecraft-earned-350-000-in-a-single-day/ |title=''Minecraft'' earned $350,000 in a single day |first=Griffin |last=McElroy |date=2010-09-28 |accessdate=2010-10-24 |publisher=Joystiq}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;CreditsDue&quot;</attr><inner>{{cite web| url=http://notch.tumblr.com/post/113252305/credits-due| title=Credits due| last=Persson |first=Markus |authorlink=Markus Persson |publisher= Mojang |date=2009-05-26}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;GSint&quot;</attr><inner>{{cite web| url = http://www.gamasutra.com/view/news/27719/Interview_Markus_Notch_Persson_Talks_Making_Minecraft.php| title = Interview: Markus 'Notch' Persson Talks Making ''Minecraft''| last = Handy | first= Alex| publisher = [[Gamasutra]]| date = 2010-03-23| accessdate = 2010-06-26}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;RedstoneComputer&quot;</attr><inner>{{cite web|url=http://www.escapistmagazine.com/news/view/104029-Player-Creates-Working-Computer-in-Minecraft |title=Player Creates Working Computer in ''Minecraft'' |publisher=[[The Escapist (magazine)|The Escapist]] |last=Tito |first=Greg |date=2010-10-04 |accessdate=2011-01-04}}</inner><close>&lt;/ref&gt;</close></ext>
+<comment>&lt;!--
+&lt;ref name=&quot;SaveLoad&quot;&gt;{{cite web| url=http://notch.tumblr.com/post/458869117/how-saving-and-loading-will-work-once-infinite-is-in| title= How saving and loading will work once infinite is in |publisher= Mojang | last=Persson |first=Markus |authorlink=Markus Persson |date=2010-03-19 |accessdate=2010-12-21}}&lt;/ref&gt;--&gt;
+</comment>
+<ext><name>ref</name><attr> name=&quot;PCGAMERinterview&quot;</attr><inner>{{cite web|last=McDougal |first=Jaz |title=Community heroes: Notch, for ''Minecraft'' |url=http://www.pcgamer.com/2010/07/29/community-heroes-notch-for-minecraft/ |work=[[PC Gamer]] |publisher=[[Future plc]] |accessdate=2010-08-03 |date=2010-07-29}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCabout&quot;</attr><inner>{{cite web| url = http://minecraft.net/about.jsp|title = About the game| last=Persson |first=Markus |authorlink=Markus Persson |publisher= Mojang| date = | accessdate = 2010-06-26}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCorigins&quot;</attr><inner>{{cite web|last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |title=The Origins of ''Minecraft'' |url=http://notch.tumblr.com/post/227922045/the-origins-of-minecraft |accessdate=2010-08-03 |date=2009-10-30}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;LackOfUpdates&quot;</attr><inner>{{cite web|last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |title=I'm sorry about the lack of updates |url=http://notch.tumblr.com/post/1205447916/im-sorry-about-the-lack-of-updates |accessdate=2010-10-18 |date=2010-09-28}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCcompany&quot;</attr><inner>{{cite web|last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang|title=Hiring some people, getting an office, and all that! |url=http://notch.tumblr.com/post/1075326804/hiring-some-people-getting-an-office-and-all-that |accessdate=2010-09-06 |date=2010-09-06}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCJens&quot;</attr><inner>{{cite web|last=Persson|first=Markus |authorlink=Markus Persson |publisher=Mojang |title=Introducing: Jens!|url=http://notch.tumblr.com/post/1619018018/introducing-jens|accessdate=2010-11-21|date=2010-11-19}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCDaniel&quot;</attr><inner>{{cite web|last=Persson|first=Markus |authorlink=Markus Persson |publisher=Mojang |title=Three man strong!|url=http://notch.tumblr.com/post/1114516935/three-man-strong|accessdate=2010-11-21|date=2010-09-13}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCJakob&quot;</attr><inner>{{cite web|last=Persson|first=Markus |authorlink=Markus Persson |publisher=Mojang |title=Weekend activities|url=http://notch.tumblr.com/post/1390641415/weekend-activities|accessdate=2010-11-21|date=2010-10-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MCMannehMollstam&quot;</attr><inner>{{cite web|last=Persson|first=Markus |authorlink=Markus Persson |publisher=Mojang |title=2011, here we go!|url=http://notch.tumblr.com/post/2582321901/2011-here-we-go|accessdate=2011-01-03|date=2011-01-03}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;ESCAPEpaypal&quot;</attr><inner>{{cite web|url=http://www.escapistmagazine.com/news/view/103385-PayPal-Freezes-750K-in-MineCraft-Devs-Account|title=PayPal Freezes $750K in ''MineCraft'' Dev's Account |last=Chalk |first=Andy |work=[[The Escapist (magazine)|The Escapist]] |publisher= Themis Group |date=2010-09-10 |accessdate=2010-12-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;KotakoDDoS&quot;</attr><inner>{{cite web|url=http://kotaku.com/5669766/minecraft-under-siege-by-angry-addicts-demanding-more-updates |title=''Minecraft'' Apparently Under Siege By Angry Addicts Demanding More Updates |publisher = Kotaku |last=Crecente |first=Brian |accessdate=2010-11-26 |date=2010-10-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;EGDDOS&quot;</attr><inner>{{cite web|url=http://www.eurogamer.net/articles/2010-10-22-minecraft-hit-by-ddos-attack |title=''Minecraft'' hit by DDOS attack |publisher = [[Eurogamer]] |last=Bramwell |first=Tom |date=2010-10-22 |accessdate=2010-11-26}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;BetaDate&quot;</attr><inner>{{cite web|url=http://notch.tumblr.com/post/2175441966/minecraft-beta-december-20-2010|title=''Minecraft'' Beta: December 20, 2010 |last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |date=2010-12-11 |accessdate=2010-12-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<comment>&lt;!-- 1M PURCHASES IN STATS --&gt;</comment><ext><name>ref</name><attr> name=&quot;usercount12012011&quot;</attr><inner>{{cite web |url=http://www.minecraft.net/stats.jsp |last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |title=''Minecraft'' &amp;ndash; Statistics |archiveurl=http://www.webcitation.org/query?url=http%3A%2F%2Fwww.minecraft.net%2Fstats.jsp&amp;date=2011-01-12 |archivedate=2011-01-12 |accessdate=2011-01-13}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<comment>&lt;!-- 1M PURCHASES BLOG POST --&gt;</comment><ext><name>ref</name><attr> name=&quot;usercountblog&quot;</attr><inner>{{cite web |title=Exclamation mark. |url=http://notch.tumblr.com/post/2718210316/exclamation-mark |last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |quote=''Minecraft'' just passed one million sales. |date=2011-01-12|accessdate=2011-01-12}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;noads&quot;</attr><inner>{{cite web |url=http://kotaku.com/5724989/why-minecraft-is-so-damn-popular |title=Why ''Minecraft'' Is So Damn Popular |work=[[Kotaku]] |first=Luke |last=Plunkett |date=2011-01-04 |accessdate=2011-01-12}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;notchMigr&quot;</attr><inner>{{cite web |title=The web server is struggling, we're migrating|url=http://notch.tumblr.com/post/2812089385/the-web-server-is-struggling-were-migrating |first=Markus |last=Persson |date=2011-01-18}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;TobiasBP&quot;</attr><inner>{{cite web |title=Battle plan of cluster structure leading to world domination has been had!|url=http://twitter.com/#!/mollstam/status/27714448017854464 |first=Tobias |last=Mollstam |date=2011-01-19}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;McDown&quot;</attr><inner>{{cite web |title=When Minecraft.net was down|url=http://synapsesmp.com/minecraft-net-down/ |first=Michael |last=Mooring |date=2011-01-19}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;freeweekend&quot;</attr><inner>{{cite web |title=Free ''Minecraft'' until this gets fixed |url=http://notch.tumblr.com/post/1145356099/free-minecraft-until-this-gets-fixed |last=Persson |first=Markus |authorlink=Markus Persson |publisher=Mojang |date=2010-09-18 |accessdate=2010-09-21}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;124hourpeak&quot;</attr><inner>{{cite web|title=24 hour sales peak|url=http://m00d.net/minecraft/sales/|accessdate=2010-09-15|date=2010-09-25}} {{Dead link|date=November 2010|bot=H3llBot}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;PCGamerUK&quot;</attr><inner>{{Cite journal |first=Jim |last=Rossignol |authorlink=Jim Rossignol |title=Building-block World |journal=[[PC Gamer UK]] |publisher=[[Future plc]] |issue=204}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;PCPowerPlay&quot;</attr><inner>{{cite journal |first=Daniel |last=Hindes |title=Trouble Down Mine |journal=[[PC PowerPlay]] |publisher=[[Nextmedia]] |issue=169}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;Valve&quot;</attr><inner>{{cite web| url = http://www.teamfortress.com/post.php?id=4130&amp;p=1 | title = Is that an Equalizer in your pocket?| last = Reinhart |first= Brandon| publisher = [[Valve Corporation]]| date = 2010-07-28| accessdate = 2010-07-28}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;PCGamer&quot;</attr><inner>{{Cite journal |last=Rossignol|first=Jim|title=50 Games to Play at Work|work=[[PC Gamer]] |date=2010-07-05 |url=http://www.pcgamer.com/2010/07/05/50-games-to-play-at-work/5/ |authorlink=Jim Rossignol |publisher=[[Future plc]]}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;DRreview&quot;</attr><inner>{{cite web |last=Munro|first=Scott|title=''Minecraft'' (Alpha Review)|url=http://blogs.dailyrecord.co.uk/gaming/2010/07/minecraft-alpha-review.html|work=[[Daily Record (Scotland)|Daily Record]] |publisher=[[Trinity Mirror]] |accessdate=2010-08-03|date=2010-07-27}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;RPSreview&quot;</attr><inner>{{cite web |last=Rossignol |first=Jim |title=Chockablock: ''Minecraft'' Revisited |url=http://www.rockpapershotgun.com/2010/08/10/chockablock-minecraft-revisited/ |publisher= [[Rock, Paper, Shotgun]] |accessdate=2010-09-03 |authorlink=Jim Rossignol |date=2010-08-10}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;PennyArcade&quot;</attr><inner>{{cite web |last=Holkins |first=Jerry |title=Mine All Mine, Part One |url=http://www.penny-arcade.com/2010/9/17/ |accessdate=2010-09-17 |authorlink=Jerry Holkins |publisher= [[Penny Arcade (webcomic)|Penny Arcade]] |date=2010-09-17}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;ABCTV&quot;</attr><inner>{{cite episode |title=''Minecraft'' Review |series=[[Good Game]] |credits=[[Stephanie Bendixsen|Bendixsen, Stephanie]]; [[Steven O'Donnell (Australian actor)|O'Donnell, Steven]] |network=[[ABC Television]] |airdate=2010-09-20 |season=5 |number=32 |transcripturl=http://www.abc.net.au/tv/goodgame/stories/s3016636.htm}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;GGaward&quot;</attr><inner>{{cite episode |title=GG Awards 2010: Best Downloadable Game |series=[[Good Game]] |credits=[[Stephanie Bendixsen|Bendixsen, Stephanie]]; [[Steven O'Donnell (Australian actor)|O'Donnell, Steven]] |network=[[ABC Television]] |airdate=2010-12-06 |season=5 |number=43 |url=http://www.abc.net.au/tv/goodgame/stories/s3085956.htm}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;GSaward&quot;</attr><inner>{{cite web|publisher=[[Gamasutra]] |title=Gamasutra's Best Of 2010: The Top 10 Games Of The Year |url=http://www.gamasutra.com/view/news/31930/Gamasutras_Best_Of_2010_The_Top_10_Games_Of_The_Year.php |date= 2010-12-23|accessdate=2010-12-23}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;GSaward2&quot;</attr><inner>{{cite web|publisher=[[Gamasutra]] |author=Rose, Mike; W., Tim |title=Gamasutra's Best Of 2010: Top 10 Indie Games |url=http://www.gamasutra.com/view/news/31924/Gamasutras_Best_Of_2010_Top_10_Indie_Games.php |date= 2010-12-17|accessdate=2010-12-23}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;RPSgoty&quot;</attr><inner>{{cite web |title=The Games Of Christmas '10: Day 24 |url=http://www.rockpapershotgun.com/2010/12/24/the-games-of-christmas-%E2%80%9910-day-24/ |publisher= [[Rock, Paper, Shotgun]] |accessdate=2010-12-24 |date=2010-12-25}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;IDBaward&quot;</attr><inner>{{cite web|title=Winners – 2010 Indie of the Year Awards – Indie DB |url=http://www.indiedb.com/events/2010-indie-of-the-year-awards/winners/ |publisher=Indie DB |accessdate=2010-12-27 |date=2010-12-24}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;PCGamerUK1&quot;</attr><inner>{{cite web|title=''Minecraft'' – PC Gamer UK's Game Of The Year |url=http://www.pcgamer.com/2010/12/31/pc-gamer-uks-game-of-the-year/ |publisher=PC Gamer |accessdate=2010-12-31 |date=2010-12-31}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;IGFnoms&quot;</attr><inner>{{cite web|title=2011 Independent Games Festival Reveals Main Competition Finalists |url=http://www.indiegames.com/blog/2011/01/2011_independent_games_festiva_10.html |publisher=IndieGames |last=Carless |first=Simon |accessdate=2011-01-03 |date=2011-01-03}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;IGFwins&quot;</attr><inner>{{cite web|title=''Minecraft'', Amnesia Top Winners At 13th Annual IGF Awards |url=http://igf.com/2011/03/minecraft_amnesia_top_winners_.html |publisher=IndieGames |accessdate=2011-03-03 |date=2011-03}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MobileGamas&quot;</attr><inner>{{cite web |url=http://www.gamasutra.com/view/news/33130/Official_Minecraft_iPhone_and_iPad_Release_Coming_Later_This_Year.php |title=Official ''Minecraft'' iOS, Android Release Coming Later This Year |first=Mike |last=Rose |work=[[Gamasutra]] |date=2011-02-21 |accessdate=2011-02-22}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;MobileKotaku&quot;</attr><inner>{{cite web |url=http://kotaku.com/#!5766336/official-minecraft-coming-to-iphone-ipad-android |title=Official ''Minecraft'' Coming to iPhone, iPad, Android |first=Brian |last=Crecente |work=[[Kotaku]] |date=2011-02-21 |accessdate=2011-02-22}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;GSAprilsales&quot;</attr><inner>{{Cite web |last=Orland |first=Kyle |title=''Minecraft'' Draws Over $33 Million In Revenue From 1.8M Paying Customers |url=http://www.gamasutra.com/view/news/33961/Minecraft_Draws_Over_33_Million_In_Revenue_From_18M_Paying_Customers.php |publisher=[[Gamasutra]] |accessdate=2011-04-06 |date=2011-04-06}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;notchbasis&quot;</attr><inner>{{cite web|url=http://notch.tumblr.com/post/227922045/the-origins-of-minecraft|title=The Origins of ''Minecraft''|last=Persson|first=Markus |authorlink=Markus Persson|date=2009-10-30|accessdate=October 30, 2009}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<ext><name>ref</name><attr> name=&quot;Bandcamp&quot;</attr><inner>[http://c418.bandcamp.com/album/minecraft-volume-alpha ''Minecraft'' Volume Alpha] on [[Bandcamp]]</inner><close>&lt;/ref&gt;</close></ext>
+
+</value></part></template>
+
+<h level="2" i="16">==External links==</h>
+<template lineStart="1"><title>Commons</title></template>
+*<template><title>Official website</title><part><name index="1"/><value>http://www.minecraft.net</value></part></template>
+*[http://www.minecraftforum.net ''Minecraft'' Forum]
+*[http://www.minecraftwiki.net ''Minecraft'' Wiki], official ''Minecraft'' [[Wiki]]
+*[http://notch.tumblr.com Persson's development blog] on [[Tumblr]]
+
+[[Category:Indie video games]]
+[[Category:IOS games]]
+[[Category:Java platform games]]
+[[Category:Open world video games]]
+[[Category:Video games developed in Sweden]]
+[[Category:Video games with stereoscopic 3D graphics]]
+[[Category:2009 video games]]
+[[Category:Survival video games]]
+[[Category:Video games with voxel graphics]]
+
+[[ar:ماين كرافت]]
+[[bg:Minecraft]]
+[[cs:Minecraft]]
+[[da:Minecraft]]
+[[de:Minecraft]]
+[[et:Minecraft]]
+[[es:Minecraft]]
+[[fo:Minecraft]]
+[[fr:Minecraft]]
+[[ga:Minecraft]]
+[[gl:Minecraft]]
+[[ko:마인크래프트]]
+[[is:Minecraft]]
+[[it:Minecraft]]
+[[he:Minecraft]]
+[[ka:Minecraft]]
+[[lt:Minecraft]]
+[[hu:Minecraft]]
+[[ms:Minecraft]]
+[[nl:Minecraft]]
+[[ja:Minecraft]]
+[[no:Minecraft]]
+[[pl:Minecraft]]
+[[pt:Minecraft]]
+[[ro:Minecraft]]
+[[ru:Minecraft]]
+[[scn:Minecraft]]
+[[simple:Minecraft]]
+[[sk:Minecraft]]
+[[sl:Minecraft]]
+[[fi:Minecraft]]
+[[sv:Minecraft]]
+[[tr:Minecraft]]
+[[uk:Minecraft]]
+[[zh:Minecraft]]</root>

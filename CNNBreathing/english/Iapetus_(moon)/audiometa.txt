@@ -1,0 +1,31 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Iapetus (moon)
+|time=18:43
+|user_name=Mangst
+|date=2013-08-22
+|oldid=569732912
+|accent=American English
+}}
+
+{{Information
+|Description={{en|1= Iapetus (moon)}} 
+|Source={{transferred from|en.wikipedia|FSII|CommonsHelper}}
+|Date={{original upload date|2010-01-03}}
+|Author={{original uploader|Mangst|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Iapetus_%28moon%29.ogg}}
+* 2011-10-23 21:12 [[:en:User:Mangst|Mangst]] 0×0× (9012615 bytes) ''<nowiki>Updated to reflect article changes.</nowiki>''
+* 2011-04-10 18:45 [[:en:User:Mangst|Mangst]] 0×0× (10415409 bytes) ''<nowiki>Updated to reflect article changes.</nowiki>''
+* 2010-10-18 23:13 [[:en:User:Mangst|Mangst]] 0×0× (11948369 bytes) ''<nowiki>I think that I accidentally uploaded the wrong file...trying again.</nowiki>''
+* 2010-10-18 23:00 [[:en:User:Mangst|Mangst]] 0×0× (11948369 bytes) ''<nowiki>updated to reflect (the few) article changes -- fixed various pronunciations -- added "Statistics" section for reading infobox</nowiki>''
+* 2010-01-03 01:56 [[:en:User:Mangst|Mangst]] 0×0× (10610215 bytes) ''<nowiki>{{Spoken article |title=Iapetus (moon) |time=17:11 |user_name=Mangst |date=January 3, 2010 |oldid=335559213 |accent=Amerrrrican English }} </nowiki>''
+
+[[Category:Iapetus]]

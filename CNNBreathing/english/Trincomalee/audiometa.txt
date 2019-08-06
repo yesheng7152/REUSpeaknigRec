@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{English spoken article|
+file_name=En-Trincomalee.ogg
+|title=Trincomalee
+|time=17:23
+|file_size=19.9 MB
+|user_name=Mayooresan
+|date= 05/08/2010
+|accent=[[w:en:Sri Lankan English]]
+|sex = Male
+|}}
+
+{{GFDL-en|migration=relicense}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Trincomalee]]

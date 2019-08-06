@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Spoken version of [[w:Fentanyl]] at en.wikipedia
+|Source=[[w:Fentanyl]]
+|Date=2011-12-01
+|Author=BarkingFish
+|Permission=CC-BY-SA 3.0 (Unported)
+|other_versions=
+}}
+
+[[Category:Spoken Wikipedia]]
+[[Category:Fentanyl]]
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}

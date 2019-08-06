@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{en|1={{Spoken article
+|title= Zorbing
+|time= 9:01
+|user_name= k9taylor
+|date= 2013-05-10
+|oldid=554011635
+|accent= American
+|sex= Female
+}}
+|date=2013-05-10
+|source={{own}}
+|author=[[User:K9taylor|K9taylor]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Sphereing]]

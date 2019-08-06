@@ -1,0 +1,98 @@
+<root><template><title>lowercase</title><part><name>title</name><equals>=</equals><value>gedit</value></part></template>
+<template lineStart="1"><title>Infobox software
+</title><part><name> name                   </name><equals>=</equals><value> gedit
+</value></part><part><name> logo                   </name><equals>=</equals><value> [[File:Gedit-logo-clean.svg|200px]]
+</value></part><part><name> screenshot             </name><equals>=</equals><value> [[File:Gedit2261.png|250px]]
+</value></part><part><name> caption                </name><equals>=</equals><value> gedit 2.26.1 displaying the [[XHTML]] coding for a Wikipedia page, including colour-coded syntax highlighting.
+</value></part><part><name> developer              </name><equals>=</equals><value> Paolo Maggi&lt;br /&gt;Paolo Borelli&lt;br /&gt;Steve Frécinaux&lt;br /&gt;Jesse van den Kieboom&lt;br /&gt;James Willcox&lt;br /&gt;Chema Celorio&lt;br /&gt; Federico Mena Quintero
+</value></part><part><name> released               </name><equals>=</equals><value> 12 February 1999
+</value></part><part><name> frequently_updated     </name><equals>=</equals><value> yes<comment>&lt;!-- Release version update? Don't edit this page, just click on the version number! --&gt;</comment>
+</value></part><part><name> programming language   </name><equals>=</equals><value> [[C (programming language)|C]], [[Python (programming language)|Python]]
+</value></part><part><name> operating system       </name><equals>=</equals><value> [[Cross-platform]]
+</value></part><part><name> language               </name><equals>=</equals><value> English
+</value></part><part><name> genre                  </name><equals>=</equals><value> [[Text editor]]
+</value></part><part><name> license                </name><equals>=</equals><value> [[GNU General Public License]]
+</value></part><part><name> website                </name><equals>=</equals><value> [http://projects.gnome.org/gedit/ projects.gnome.org/gedit]
+</value></part></template>
+
+'''gedit''' is a [[text editor]] for the [[GNOME]] [[desktop environment]], [[Mac&amp;nbsp;OS&amp;nbsp;X]] and [[Microsoft Windows]]. Designed as a general purpose text editor, gedit emphasizes simplicity and ease of use. It includes tools for editing [[source code]] and structured text such as [[markup language]]s.<ext><name>ref</name><attr> name=&quot;gedithomepage&quot;</attr><inner>{{cite web|url = http://projects.gnome.org/gedit/|title = What is gedit|accessdate = 2009-03-16|last = The GNOME Project|authorlink = |year = 2009|month = March}}</inner><close>&lt;/ref&gt;</close></ext>
+
+It is designed to have a clean, simple [[graphical user interface]] according to the philosophy of the GNOME project, and it is the default text editor for GNOME.<ext><name>ref</name><attr> name=&quot;gedithomepage&quot; </attr></ext>
+
+Released under the terms of the [[GNU General Public License]], gedit is [[free software]].<ext><name>ref</name><attr> name=&quot;gedithomepage&quot; </attr></ext>
+
+<h level="2" i="1">==Features==</h>
+
+gedit includes [[syntax highlighting]] for various program code and text markup formats.  gedit also has GUI tabs for editing multiple files. Tabs can be moved between various windows by the user. It can edit remote files using [[GVFS]] ([[GnomeVFS]] is now [[Deprecation|deprecated]]) libraries. It supports a full undo and redo system as well as search and replace.<ext><name>ref</name><attr> name=&quot;fsm&quot;</attr></ext> Other typical code oriented features include line numbering, bracket matching, text wrapping, current line highlighting, automatic indentation and automatic file backup.<ext><name>ref</name><attr> name=&quot;fsm&quot;</attr><inner>[http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody &quot;gedit: a powerful, underrated text editor for everybody&quot;, ''Free Software Magazine''] 15  February 2008</inner><close>&lt;/ref&gt;</close></ext>
+
+The features of gedit include multilanguage [[spell checker|spellchecking]] and a flexible [[Plug-in (computing)|plugin]] system allowing the addition of new features, for example [[Snippet management|snippets]] and integration with external applications including a Python or Bash terminal.<ext><name>ref</name><attr> name=&quot;fsm&quot; </attr></ext>  A number of plugins are included in gedit itself, with more plugins in the gedit-plugins package and online.<ext><name>ref</name><attr/><inner>{{cite web|url=http://live.gnome.org/Gedit/Plugins |title=Gedit Plugins |publisher=Live.gnome.org |date= |accessdate=2009-03-13}}</inner><close>&lt;/ref&gt;</close></ext>
+
+gedit has an optional side pane displaying the list of open files and (in a different tab of the side pane) a file browser. It also has an optional bottom pane with a Python console and (using gedit-plugins) terminal.  gedit automatically detects when an open file is modified on disk by another application and offers to reload that file.  Using a plugin (in gedit-plugins package), gedit can save and load sessions, which are lists of currently open tabs.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>January 2009</value></part></template>
+
+gedit supports [[computer printer|printing]], including print preview and printing to [[PostScript]] and [[Portable Document Format|PDF]] files. Printing options include text font, and page size, orientation, margins, optional printing of page headers and line numbers, as well as syntax highlighting.<template><title>Citation needed</title><part><name>date</name><equals>=</equals><value>January 2009</value></part></template>
+
+<h level="2" i="2">==Architecture==</h>
+
+Designed for the [[X Window System]], gedit uses the [[GTK+]] 2.0 and GNOME 2.0 [[library (computer science)|libraries]]. The GNOME integration includes [[drag and drop]] to and from [[Nautilus file manager|Nautilus]], the GNOME [[file manager]].
+
+gedit uses the GNOME help system for documentation.  It also uses [[GNOME Virtual File System|virtual file system]] and GNOME printing framework.<ext><name>ref</name><attr/><inner>{{cite web|url=http://directory.fsf.org/project/gedit/ |title=Free Software Directory - gedit |publisher=Directory.fsf.org |date=2005-10-03 |accessdate=2009-03-13}}</inner><close>&lt;/ref&gt;</close></ext>
+
+In December 2008, gedit binaries were made available for [[Mac OS X]] and [[Microsoft Windows]].<ext><name>ref</name><attr/><inner>{{cite web|url=http://blogs.gnome.org/pbor/2008/12/25/late-christmas-gift-for-windows-users/ |title=Club Silencio » Late Christmas gift for Windows users |publisher=Blogs.gnome.org |date=2008-12-25 |accessdate=2009-03-13}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="3">==See also==</h>
+<template lineStart="1"><title>Portal</title><part><name index="1"/><value>Free software</value></part></template>
+
+*[[List of text editors]]
+*[[Comparison of text editors]]
+
+<h level="2" i="4">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<h level="2" i="5">==External links==</h>
+<template lineStart="1"><title>Commons category</title></template>
+* <template><title>Official website</title><part><name index="1"/><value>http://projects.gnome.org/gedit/</value></part></template>
+* [http://live.gnome.org/Gedit/Windows Gedit for Windows]
+
+<template lineStart="1"><title>GNOME Software</title></template>
+<template lineStart="1"><title>FLOSS</title></template>
+
+[[Category:GNOME]]
+[[Category:GTK+]]
+[[Category:Linux text editors]]
+[[Category:Unix text editors]]
+[[Category:Free text editors]]
+[[Category:Free software programmed in C]]
+[[Category:Free software programmed in Python]]
+[[Category:Mac OS X text editors]]
+
+[[ar:جي إديت]]
+[[ast:Gedit]]
+[[bg:Gedit]]
+[[ca:Gedit]]
+[[cs:Gedit]]
+[[de:Gedit]]
+[[et:Gedit]]
+[[es:Gedit]]
+[[eo:Gedit]]
+[[eu:Gedit]]
+[[fa:جی‌ادیت]]
+[[fr:Gedit]]
+[[ko:Gedit]]
+[[it:Gedit]]
+[[jv:Gedit]]
+[[hu:Gedit]]
+[[nl:Gedit]]
+[[ja:Gedit]]
+[[no:Gedit]]
+[[pl:Gedit]]
+[[pt:Gedit]]
+[[ro:Gedit]]
+[[ru:Gedit]]
+[[sk:Gedit]]
+[[fi:Gedit]]
+[[sv:Gedit]]
+[[ta:ஜிஎடிட்]]
+[[th:จีเอดิต]]
+[[uk:Gedit]]
+[[vi:Gedit]]
+[[zh:Gedit]]</root>

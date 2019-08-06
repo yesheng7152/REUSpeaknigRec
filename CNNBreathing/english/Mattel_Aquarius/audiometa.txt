@@ -1,0 +1,18 @@
+{{Spoken article
+|title=Mattel Aquarius
+|time=4:34
+|user_name_link=[[:en:User:Fortyseven|Fortyseven]]
+|date=2013-04-28
+|oldid=551150481
+|accent=American
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Wikipedia-MattelAquarius+mixdown.ogg}}
+* 2013-04-28 04:17 [[:en:User:Fortyseven|Fortyseven]] 0×0× (5658039 bytes) ''<nowiki>{{Spoken article |title=Mattel Aquarius |time=4:34 |user_name=Fortyseven |date=2013-04-28 |oldid=551150481 |accent=American }} == Licensing: == {{cc-by-sa-3.0}} <!...</nowiki>''
+
+{{Check categories|year=2015|month=April|day=27}}
+[[Category:Mattel Aquarius]]

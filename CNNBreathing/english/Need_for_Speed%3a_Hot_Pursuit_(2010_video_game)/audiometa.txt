@@ -1,0 +1,20 @@
+
+{{BotMoveToCommons|en.wikipedia|year=2012|month=January|day=12}}
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|FSII|CommonsHelper}}
+|Date={{original upload date|2011-01-08}}
+|Author={{original uploader|Acather96|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Need_for_Speed_Hot_Pursuit_%282010_video_game%29.ogg}}
+* 2011-01-08 19:53 [[:en:User:Acather96|Acather96]] 0×0× (13605814 bytes) ''<nowiki>{{Spoken article entry |title= Need for Speed: Hot Pursuit (2010 video game) |time= 21:50 |user_name= Acather96 |date= 2011-01-08 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Need_for_Speed:_Hot_Pursuit_%282010_video_game%29&diff=4</nowiki>''
+
+[[Category:Audio files requiring categorisation]]
+[[Category:Need for Speed: Hot Pursuit]]

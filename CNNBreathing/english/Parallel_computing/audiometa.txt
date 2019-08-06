@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Parallel computing
+|time=54:15
+|user_name=Mangst
+|date=2013-08-21
+|oldid=569591190
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

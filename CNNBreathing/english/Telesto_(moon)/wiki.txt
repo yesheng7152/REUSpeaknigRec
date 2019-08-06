@@ -1,0 +1,70 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+|name         = Telesto
+|image        = [[Image:Telesto cassini closeup.jpg|250px]]
+|caption      = Telesto as seen by the [[Cassini–Huygens|Cassini]] probe in October 2005
+|background   = #a0ffa0
+|discoverer   = [[Bradford A. Smith|Smith]], [[Harold Reitsema|Reitsema]], [[Stephen M. Larson|Larson]], [[John W. Fountain|Fountain]]
+|discovered   = April 8, 1980
+|semimajor    = 294,619 [[Kilometer|km]]<!---Computed using http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html µ value--->
+|eccentricity = 0.000
+|period       = 1.887802 [[Day|d]]<ref>[http://exp.arc.nasa.gov/downloads/celestia/data/solarsys.ssc NASA Celestia]</ref>
+|inclination  = 1.19° (to Saturn's equator)
+|satellite_of = [[Saturn]]
+|dimensions   = 29 &times; 22 &times; 20 km³&nbsp;<ref name="Porco2006">{{cite journal |author=[[Carolyn C. Porco|Porco, C.C.]] ''et al.'' |title=''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites'' |journal=Bulletin of the American Astronomical Society |year=2006 |volume=37 |pages=768 |url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf}}</ref>
+|mean_radius  = 11.8 ± 1.0 km<ref name="Porco2006"/>
+|rotation     = [[Synchronous rotation|synchronous]]
+|axial_tilt   = zero
+|magnitude    = 18.7<ref name="magnitude">{{cite web |title=Telesto Statistics |url=http://www.solarviews.com/eng/telesto.htm |accessdate=2007-10-01}}</ref>
+}}
+'''Telesto''' ({{pronEng|tɨˈlɛstoʊ}} {{respell|tə|LES|toe}}, or as Greek ''Τελεστώ)'' is a [[natural satellite|moon]] of [[Saturn]]. It was discovered by [[Bradford A. Smith|Smith]], [[Harold Reitsema|Reitsema]], [[Stephen M. Larson|Larson]] and [[John W. Fountain|Fountain]] in 1980 from ground-based observations, and was provisionally designated '''{{nowrap|S/1980 S 13}}'''.<ref>[http://cfa-www.harvard.edu/iauc/03400/03466.html IAUC 3466: ''Satellites of Saturn''] 1980 April 10 (discovery)</ref> In the following months, several other apparitions were observed: {{nowrap|S/1980 S 24}}<ref>[http://cfa-www.harvard.edu/iauc/03400/03484.html IAUC 3484: ''Satellites of Saturn''] 1980 June 6,</ref> {{nowrap|S/1980 S 33}},<ref>[http://cfa-www.harvard.edu/iauc/03600/03605.html IAUC 3605: ''Satellites of Saturn''] 1981 May 18</ref> and {{nowrap|S/1981 S 1}}.<ref>[http://cfa-www.harvard.edu/iauc/03500/03593.html IAUC 3593: ''Satellites of Saturn''] 1981 April 16</ref>
+
+In 1983 it was officially named after [[Telesto (mythology)|Telesto]] of [[Greek mythology]].<ref>Transactions of the International Astronomical Union, Vol. XVIIIA, 1982 (confirms Janus, names Epimetheus, Telesto, Calypso) <small>(mentioned in [http://cfa-www.harvard.edu/iauc/03800/03872.html IAUC 3872: ''Satellites of Jupiter and Saturn''], 1983 September 30)</small></ref> It is also designated as '''{{nowrap|Saturn XIII}}''' or '''Tethys B'''.
+
+Telesto is co-orbital with [[Tethys (moon)|Tethys]], residing in Tethys' leading [[Lagrangian point]] ({{L4}}). This relationship was first identified by Seidelmann ''et al.''<ref name="Seidelmann1981">[[P. Kenneth Seidelmann|Seidelmann, P. K.]]; [[Robert S. Harrington|Harrington, R. S.]]; [[Dan Pascu|Pascu, D.]]; [[William A. Baum|Baum, W. A.]]; [[Douglas G. Currie|Currie, D. G.]]; [[James A. Westphal|Westphal, J. A.]]; and [[G. Edward Danielson|Danielson, G. E.]]; [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1981Icar...47..282S&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=45eb6e10af20904 ''Saturn Satellite Observations and Orbits from the 1980 Ring Plane Crossing''], Icarus, Vol. 47 (August 1981), pp. 282–287</ref> The moon [[Calypso (moon)|Calypso]] also resides in the other (trailing) lagrangian point of Tethys, 60 degrees in the other direction from Tethys. 
+
+The ''[[Cassini-Huygens Mission|Cassini]]'' probe performed a distant flyby of Telesto on October 11, 2005. The resulting images show that its surface is surprisingly smooth, devoid of small [[impact crater]]s.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Telesto Telesto Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/saturn/telesto.html The Planetary Society: Telesto]
+
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Telesto (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[zh-min-nan:Telesto (oē-chheⁿ)]]
+[[bg:Телесто (спътник)]]
+[[ca:Telest (satèl·lit)]]
+[[cs:Telesto (měsíc)]]
+[[cy:Telesto (lloeren)]]
+[[da:Telesto (måne)]]
+[[de:Telesto (Mond)]]
+[[el:Τελεστώ (δορυφόρος)]]
+[[es:Telesto (satélite)]]
+[[fr:Télesto (lune)]]
+[[hr:Telesto (mjesec)]]
+[[it:Telesto (astronomia)]]
+[[la:Telesto (satelles)]]
+[[lt:Telesta (palydovas)]]
+[[nl:Telesto (maan)]]
+[[ja:テレスト (衛星)]]
+[[nn:Saturnmånen Telesto]]
+[[pl:Telesto (księżyc)]]
+[[pt:Telesto]]
+[[ro:Telesto (satelit)]]
+[[ru:Телесто (спутник)]]
+[[simple:Telesto (moon)]]
+[[sk:Telesto (mesiac)]]
+[[sl:Telesto (luna)]]
+[[fi:Telesto (kuu)]]
+[[sv:Telesto]]
+[[uk:Телесто (супутник)]]
+[[zh:土卫十三]]

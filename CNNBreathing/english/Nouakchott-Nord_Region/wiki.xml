@@ -1,0 +1,125 @@
+<root><template><title>Infobox settlement
+<comment>&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+</comment></title><part><name> name                    </name><equals>=</equals><value>Nouakchott-Nord
+</value></part><part><name> native_name             </name><equals>=</equals><value>نواكشوط الشمالية
+</value></part><part><name> native_name_lang        </name><equals>=</equals><value> <comment>&lt;!-- ISO 639-2 code e.g. &quot;fr&quot; for French. If more than one, use {{lang}} instead --&gt;</comment>ar
+</value></part><part><name> settlement_type         </name><equals>=</equals><value>[[Regions of Mauritania|Region of Mauritania]]
+</value></part><part><name> image_skyline           </name><equals>=</equals><value>
+</value></part><part><name> image_alt               </name><equals>=</equals><value>
+</value></part><part><name> image_caption           </name><equals>=</equals><value>
+</value></part><part><name> image_flag              </name><equals>=</equals><value>
+</value></part><part><name> flag_alt                </name><equals>=</equals><value>
+</value></part><part><name> image_seal              </name><equals>=</equals><value>
+</value></part><part><name> seal_alt                </name><equals>=</equals><value>
+</value></part><part><name> image_shield            </name><equals>=</equals><value>
+</value></part><part><name> shield_alt              </name><equals>=</equals><value>
+</value></part><part><name> nickname                </name><equals>=</equals><value>
+</value></part><part><name> motto                   </name><equals>=</equals><value>
+</value></part><part><name> image_map               </name><equals>=</equals><value> Nouakchott in Mauritania (special marker).svg
+</value></part><part><name> map_alt                 </name><equals>=</equals><value>
+</value></part><part><name> map_caption             </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map             </name><equals>=</equals><value>
+</value></part><part><name> pushpin_label_position  </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map_alt         </name><equals>=</equals><value>
+</value></part><part><name> pushpin_map_caption     </name><equals>=</equals><value>
+</value></part><part><name> latd  </name><equals>=</equals><value>18 </value></part><part><name>latm  </name><equals>=</equals><value>6 </value></part><part><name>lats  </name><equals>=</equals><value>  </value></part><part><name>latNS  </name><equals>=</equals><value>N
+</value></part><part><name> longd </name><equals>=</equals><value>15 </value></part><part><name>longm </name><equals>=</equals><value>55 </value></part><part><name>longs </name><equals>=</equals><value>  </value></part><part><name>longEW </name><equals>=</equals><value>W
+</value></part><part><name> coor_pinpoint           </name><equals>=</equals><value>
+</value></part><part><name> coordinates_type        </name><equals>=</equals><value>
+</value></part><part><name> coordinates_display     </name><equals>=</equals><value> inline,title
+</value></part><part><name> coordinates_footnotes   </name><equals>=</equals><value>
+</value></part><part><name> subdivision_type        </name><equals>=</equals><value> Country
+</value></part><part><name> subdivision_name        </name><equals>=</equals><value><template><title>flag</title><part><name index="1"/><value>Mauritania</value></part></template>
+</value></part><part><name> subdivision_type1       </name><equals>=</equals><value>[[Departments of Mauritania|Departments]]
+</value></part><part><name> subdivision_name1       </name><equals>=</equals><value>[[Dar-Naim]], [[Teyarett]], [[Toujouonine]]
+</value></part><part><name> subdivision_type2       </name><equals>=</equals><value>
+</value></part><part><name> subdivision_name2       </name><equals>=</equals><value>
+</value></part><part><name> subdivision_type3       </name><equals>=</equals><value>
+</value></part><part><name> subdivision_name3       </name><equals>=</equals><value>
+</value></part><part><name> established_title       </name><equals>=</equals><value>Created
+</value></part><part><name> established_date        </name><equals>=</equals><value>25 November 2014
+</value></part><part><name> founder                 </name><equals>=</equals><value>
+</value></part><part><name> seat_type               </name><equals>=</equals><value>Capital
+</value></part><part><name> seat                    </name><equals>=</equals><value>[[Dar-Naim]]
+</value></part><part><name> government_footnotes    </name><equals>=</equals><value>
+</value></part><part><name> leader_party            </name><equals>=</equals><value>
+</value></part><part><name> leader_title            </name><equals>=</equals><value>[[Wāli]]
+</value></part><part><name> leader_name             </name><equals>=</equals><value>Mohamed Lemine Ould Mohamed Teyib Ould Adi
+</value></part><part><name> unit_pref               </name><equals>=</equals><value> Metric<comment>&lt;!-- or US or UK --&gt;</comment>
+<comment>&lt;!-- ALL fields with measurements have automatic unit conversion --&gt;
+</comment><comment>&lt;!-- for references: use &lt;ref&gt; tags --&gt;
+</comment></value></part><part><name> area_footnotes          </name><equals>=</equals><value> <ext><name>ref</name><attr> name=statoids</attr><inner>{{cite web |last=Law |first=Gwillim |url=http://www.statoids.com/umr.html |title=Regions of Mauritania |website=Statoids |accessdate=14 June 2015}}</inner><close>&lt;/ref&gt;</close></ext>
+</value></part><part><name> area_urban_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/ref&gt; --&gt;</comment>
+</value></part><part><name> area_rural_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/ref&gt; --&gt;</comment>
+</value></part><part><name> area_metro_footnotes    </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/ref&gt; --&gt;</comment>
+</value></part><part><name> area_magnitude          </name><equals>=</equals><value> <comment>&lt;!-- &lt;ref&gt; &lt;/ref&gt; --&gt;</comment>
+</value></part><part><name> area_note               </name><equals>=</equals><value>
+</value></part><part><name> area_water_percent      </name><equals>=</equals><value>
+</value></part><part><name> area_rank               </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_title       </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_title       </name><equals>=</equals><value>
+<comment>&lt;!-- square kilometers --&gt;
+</comment></value></part><part><name> area_total_km2          </name><equals>=</equals><value> 306
+</value></part><part><name> area_land_km2           </name><equals>=</equals><value>
+</value></part><part><name> area_water_km2          </name><equals>=</equals><value>
+</value></part><part><name> area_urban_km2          </name><equals>=</equals><value>
+</value></part><part><name> area_rural_km2          </name><equals>=</equals><value>
+</value></part><part><name> area_metro_km2          </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_km2         </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_km2         </name><equals>=</equals><value>
+<comment>&lt;!-- hectares --&gt;
+</comment></value></part><part><name> area_total_ha           </name><equals>=</equals><value> 
+</value></part><part><name> area_land_ha            </name><equals>=</equals><value>
+</value></part><part><name> area_water_ha           </name><equals>=</equals><value>
+</value></part><part><name> area_urban_ha           </name><equals>=</equals><value>
+</value></part><part><name> area_rural_ha           </name><equals>=</equals><value>
+</value></part><part><name> area_metro_ha           </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_ha          </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_ha          </name><equals>=</equals><value>
+<comment>&lt;!-- dunams used in Middle East articles only --&gt;
+</comment></value></part><part><name> dunam_link              </name><equals>=</equals><value> <comment>&lt;!-- which dunam to link --&gt;</comment>
+</value></part><part><name> area_total_dunam        </name><equals>=</equals><value> 
+</value></part><part><name> area_land_dunam         </name><equals>=</equals><value>
+</value></part><part><name> area_water_dunam        </name><equals>=</equals><value>
+</value></part><part><name> area_urban_dunam        </name><equals>=</equals><value>
+</value></part><part><name> area_rural_dunam        </name><equals>=</equals><value>
+</value></part><part><name> area_metro_dunam        </name><equals>=</equals><value>
+</value></part><part><name> area_blank1_dunam       </name><equals>=</equals><value>
+</value></part><part><name> area_blank2_dunam       </name><equals>=</equals><value>
+</value></part><part><name> length_km               </name><equals>=</equals><value>
+</value></part><part><name> width_km                </name><equals>=</equals><value>
+</value></part><part><name> dimensions_footnotes    </name><equals>=</equals><value>
+</value></part><part><name> elevation_footnotes     </name><equals>=</equals><value>
+</value></part><part><name> elevation_m             </name><equals>=</equals><value>
+</value></part><part><name> population_footnotes    </name><equals>=</equals><value><ext><name>ref</name><attr> name=statoids </attr></ext>
+</value></part><part><name> population_total        </name><equals>=</equals><value>366912
+</value></part><part><name> population_as_of        </name><equals>=</equals><value>2013
+</value></part><part><name> population_density_km2  </name><equals>=</equals><value> auto
+</value></part><part><name> population_demonym      </name><equals>=</equals><value>
+</value></part><part><name> population_note         </name><equals>=</equals><value>
+</value></part><part><name> timezone1               </name><equals>=</equals><value>
+</value></part><part><name> utc_offset1             </name><equals>=</equals><value> +0
+</value></part><part><name> timezone1_DST           </name><equals>=</equals><value> not observed
+</value></part><part><name> utc_offset1_DST         </name><equals>=</equals><value>
+</value></part><part><name> postal_code_type        </name><equals>=</equals><value>
+</value></part><part><name> postal_code             </name><equals>=</equals><value>
+</value></part><part><name> area_code_type          </name><equals>=</equals><value>
+</value></part><part><name> area_code               </name><equals>=</equals><value>
+</value></part><part><name> iso_code                </name><equals>=</equals><value>
+</value></part><part><name> website                 </name><equals>=</equals><value> <comment>&lt;!-- {{URL|example.com}} --&gt;</comment>
+</value></part><part><name> footnotes               </name><equals>=</equals><value>
+</value></part></template>
+
+'''Nouakchott-Nord''' (<template><title>lang-ar</title><part><name index="1"/><value>نواكشوط الشمالية</value></part></template>) is a [[Regions of Mauritania|region]] in [[Mauritania]]. It comprises the three northwestern [[Departments of Mauritania|departments]] of Mauritania's capital city [[Nouakchott]]: [[Dar-Naim]], [[Teyarett]] and [[Toujouonine]].<ext><name>ref</name><attr/><inner>{{cite web |url=http://mauriweb.info/index.php/actualite/3597-nouakchott-donne-naissance-a-trois-wilaya.html |title=Nouakchott donne naissance à trois Wilaya |date=25 November 2014 |publisher=MauriWeb |accessdate=14 June 2015}}</inner><close>&lt;/ref&gt;</close></ext> Its capital is at Dar-Naim and [[Nouakchott International Airport]] is located within its borders.
+
+Nouakchott-Nord was created on 25 November 2014 when the region of Nouakchott was split into three new regions.<ext><name>ref</name><attr/><inner>{{cite web |url=http://fr.alakhbar.info/9671-0-Mauritanie-la-capitale-Nouakchott-sera-decoupee-en-trois-regions.html |title=Mauritanie: la capitale Nouakchott, sera découpée en trois wilayas |date=26 November 2014 |publisher=Alakhbar |accessdate=14 June 2015}}</inner><close>&lt;/ref&gt;</close></ext> Its ''[[wāli]]'' or governor is Mohamed Lemine Ould Mohamed Teyib Ould Adi.<ext><name>ref</name><attr/><inner>{{cite web |url=http://lecalame.info/?q=node/1184 |title=Les trois wali de Nouakchott connus |date=12 December 2014 |publisher=le calame |accessdate=14 June 2015}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="1">==References==</h>
+<ext><name>references</name><attr> </attr></ext>
+
+<template lineStart="1"><title>Mauritania</title></template>
+
+<template lineStart="1"><title>Mauritania-geo-stub</title></template>
+
+[[Category:Nouakchott]]
+[[Category:Regions of Mauritania]]</root>

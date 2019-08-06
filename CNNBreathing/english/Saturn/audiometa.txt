@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Saturn
+|time=39:33
+|user_name=Mangst
+|date=2013-08-18
+|oldid=568691544
+|accent=American English
+}}
+{{Information 
+|description    = {{en|1= Saturn }} 
+|date           = {{Original upload date|2010-02-10}} 
+|source         = {{transferred from|en.wikipedia|SreeBot}} 
+|author         = [[:en:User:Mangst|Mangst]] at en.wikipedia
+|Permission     =  
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Saturn.ogg}}
+* 2011-10-26 00:47 [[:en:User:Mangst|Mangst]] 0×0× (19148351 bytes) ''<nowiki>Updated to reflect article changes.</nowiki>''
+* 2011-04-10 20:54 [[:en:User:Mangst|Mangst]] 0×0× (18221297 bytes) ''<nowiki>Updated to reflect article changes.</nowiki>''
+* 2010-10-10 23:06 [[:en:User:Mangst|Mangst]] 0×0× (21722057 bytes) ''<nowiki>{{Spoken article |title=Saturn |time=36:16 |user_name=Mangst |date=2010-10-10 |oldid=389514632 |accent=American English |sex=male }} == Licensing: == {{cc-by-sa-3.0}}</nowiki>''
+* 2010-02-10 23:23 [[:en:User:Mangst|Mangst]] 0×0× (20338699 bytes) ''<nowiki>{{Spoken article |title=Saturn |time=34:44 |user_name=Mangst |date=2010-02-10 |oldid=341806201 |accent=American English }} == Licensing: == {{GFDL}}</nowiki>''
+
+[[Category:Saturn (planet)]]

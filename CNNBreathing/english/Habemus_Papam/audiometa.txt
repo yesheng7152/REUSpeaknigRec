@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information 
+|description    = {{en| Replacement for Tan Ding Xiang's recording [[:en:Habemus papam|Habemus papam]]. }} 
+|date           = {{Original upload date|2005-10-10}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Tdxiang|Tdxiang]] at en.wikipedia and see [http://en.wikipedia.org/w/index.php?title=Habemus_Papam&action=history here]
+|Permission     =  
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Tdxiang|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Habemuspapam.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2009-01-26 06:39 (UTC) | [[:en:User:BarkingFish|BarkingFish]] | 2345463 (bytes) | 0×0 | <small><nowiki>{{English spoken article| file_name=Habemuspapam.ogg |title=Habemus Papam |time=7m 36s  |user_name=Iceflow |date=2009-01-26 |accent=British |sex=Male |}}</nowiki></small>
+* 2005-10-10 12:41 (UTC) | [[:en:User:Tdxiang|Tdxiang]] | 1704871 (bytes) | 0×0 | <small><nowiki>Tan Ding Xiang's recording.[[Habemus papam]].</nowiki></small>
+
+[[Category:Habemus Papam]]

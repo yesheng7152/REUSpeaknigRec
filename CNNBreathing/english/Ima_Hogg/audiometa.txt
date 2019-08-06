@@ -1,0 +1,19 @@
+{{BotMoveToCommons|en.wikipedia|year=2009|month=April|day=18}}
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|Sfan00_IMG|CommonsHelper}}
+|Date={{original upload date|2009-03-30}}
+|Author={{user at project|KenKuhl|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|KenKuhl|migration=relicense}}
+{{Spoken article entry}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Ima_Hogg-Spoken-Wikipedia.ogg}}
+* 2009-03-30 16:14 [[:en:User:KenKuhl|KenKuhl]] 0×0× (49452882 bytes) ''<nowiki>{{Spoken article entry |title= Ima Hogg |time= 34:54 |user_name= KenKuhl |date= 2009-03-29 |link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Ima_Hogg&oldid=270782802 |accent= General American }} == Licensing: == {{GFDL-with-disclaimers}</nowiki>''
+
+[[Category:Ima Hogg]]

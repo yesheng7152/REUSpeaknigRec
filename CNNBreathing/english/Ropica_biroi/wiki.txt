@@ -1,0 +1,24 @@
+{{italic title}}
+{{Taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''[[Ropica (genus)|Ropica]]'''''
+| species = '''''R. biroi'''''
+| binomial = ''Ropica biroi''
+| binomial_authority = Breuning, 1953
+| synonyms = 
+}}
+'''''Ropica biroi''''' is a species of [[beetle]] in the family [[Cerambycidae]]. It was described by [[Stephan von Breuning (entomologist)|Breuning]] in 1953.<ref>[http://www.biolib.cz/en/taxon/id487209/ BioLib.cz - ''Ropica biroi''].  Retrieved on 8 September 2014.</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Ropica]]
+[[Category:Beetles described in 1953]]
+
+
+{{Ropica-stub}}

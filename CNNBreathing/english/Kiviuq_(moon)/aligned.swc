@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Kiviuq (moon)" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Kiviuq_(moon)" /><prop key="DC.date.read" value="2010-02-06 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Kiviuq_(moon)" /><prop key="DC.source.wikiID" value="589838" /><prop key="DC.source.revision" value="783553582" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Kiviuq (moon)&amp;oldid=310958718" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/9/92/Kiviuq_%28moon%29.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aKiviuq_(moon).ogg" group="audio1" /><link key="DC.source.audio.date" value="2012-03-15 07:40:57" group="audio1" /><prop key="reader.name" value="Mangst" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:44:09.049+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Kiviuq_(moon)/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Kiviuq_(moon))" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T15:56:17.109+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Kiviuq_(moon)/aligned.swc, transcript=articles/Kiviuq_(moon)/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Kiviuq_(moon)/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Kiviuq (moon)From wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Kiviuq (moon)From wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Kiviuq"><n pronunciation="Kiviuq" start="460" end="1110" /></t><t text="(" /><t text="moon"><n pronunciation="moon" start="1360" end="1770" /></t><t text=")" /><t text="From"><n pronunciation="From" start="2330" end="2660" /></t><t text="wikipedia"><n pronunciation="wikipedia" start="2660" end="3450" /></t><t text="," /><t text="the"><n pronunciation="the" start="3670" end="3790" /></t><t text="free"><n pronunciation="free" start="3790" end="3950" /></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="3950" end="4940" /></t><t text="at"><n pronunciation="at" /></t><t text="e"><n pronunciation="e" /></t><t text="n"><n pronunciation="n" /></t><t text="dot"><n pronunciation="dot" /></t><t text="wikipedia"><n pronunciation="wikipedia" /></t><t text="dot"><n pronunciation="dot" /></t><t text="org"><n pronunciation="org" /></t><t text="." /></s></extra>
+<ignored><s><t>Kiviuq<n pronunciation="Kiviuq" /></t> <t>-</t> <t>Saturn<n pronunciation="Saturn" /></t> <t>XXIV<n pronunciation="XXIV" /></t></s>
+
+<s><t>Discovery<n pronunciation="Discovery" /></t> <t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s>
+
+
+<s><t>Discovered<n pronunciation="Discovered" /></t> <t>by<n pronunciation="by" /></t>
+<t>B.<n pronunciation="B" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t> <t>Gladman<n pronunciation="Gladman" /></t> <t>et<n pronunciation="et" /></t> <t>al.<n pronunciation="al." /></t></s>
+
+
+<s><t>Discovered<n pronunciation="Discovered" /></t>
+<t>in<n pronunciation="in" /></t> <t>2000<n pronunciation="two" /><n pronunciation="thousand" /></t></s>
+
+
+<s><t>Mean<n pronunciation="Mean" /></t> <t>orbital<n pronunciation="orbital" /></t> <t>elements<n pronunciation="elements" /></t> <t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s>
+
+
+<s><t>Epoch<n pronunciation="Epoch" /></t> <t>2000<n pronunciation="two" /><n pronunciation="thousand" /></t> <t>Feb.<n pronunciation="Feb." /></t> <t>26.00<n pronunciation="twenty" /><n pronunciation="six" /><n pronunciation="point" /><n pronunciation="zero" /><n pronunciation="zero" /></t></s>
+
+
+<s><t>Semi-major<n pronunciation="Semi" /><n pronunciation="major" /></t> <t>axis<n pronunciation="axis" /></t>
+<t>11.111<n pronunciation="eleven" /><n pronunciation="point" /><n pronunciation="one" /><n pronunciation="one" /><n pronunciation="one" /></t> <t>Gm<n pronunciation="G" /><n pronunciation="m" /></t></s>
+
+
+<s><t>Eccentricity<n pronunciation="Eccentricity" /></t>
+<t>0.3288<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="three" /><n pronunciation="two" /><n pronunciation="eight" /><n pronunciation="eight" /></t></s>
+
+
+<s><t>Inclination<n pronunciation="Inclination" /></t>
+<t>45.71°<n pronunciation="forty" /><n pronunciation="five" /><n pronunciation="." /><n pronunciation="71°" /></t> <t>*<n pronunciation="*" /></t></s>
+
+
+<s><t>Orbital<n pronunciation="Orbital" /></t> <t>period<n pronunciation="period" /></t>
+<t>449.22<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="forty" /><n pronunciation="nine" /><n pronunciation="point" /><n pronunciation="two" /><n pronunciation="two" /></t> <t>d<n pronunciation="d" /></t>
+<t>(</t><t>1.23<n pronunciation="one" /><n pronunciation="point" /><n pronunciation="two" /><n pronunciation="three" /></t> <t>yr<n pronunciation="y" /><n pronunciation="r" /></t><t>)</t></s>
+
+
+<s><t>Physical<n pronunciation="Physical" /></t> <t>characteristics<n pronunciation="characteristics" /></t></s>
+
+
+<s><t>Mean<n pronunciation="Mean" /></t> <t>diameter<n pronunciation="diameter" /></t>
+<t>16<n pronunciation="16" /></t> <t>km<n pronunciation="k" /><n pronunciation="m" /></t><t>[</t><t>3<n pronunciation="three" /></t><t>]</t> <t>*<n pronunciation="*" /></t><t>*<n pronunciation="*" /></t></s>
+
+
+<s><t>Albedo<n pronunciation="Albedo" /></t>
+<t>0.04<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="zero" /><n pronunciation="four" /></t> <t>[</t><t>3<n pronunciation="three" /></t><t>]</t> <t>assumed<n pronunciation="assumed" /></t></s>
+
+
+<s><t>Color<n pronunciation="Color" /></t>
+<t>light<n pronunciation="light" /></t> <t>red<n pronunciation="red" /></t> <t>B-V<n pronunciation="B" /><n pronunciation="V" /></t><t>=<n pronunciation="equals" /></t><t>0.87<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="eight" /><n pronunciation="seven" /></t>
+<t>R-V<n pronunciation="R" /><n pronunciation="V" /></t><t>=<n pronunciation="equals" /></t><t>0.66<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="six" /><n pronunciation="six" /></t><t>[</t><t>4<n pronunciation="four" /></t><t>]</t><t>/<n pronunciation="forward" /><n pronunciation="slash" /></t><t>0.48<n pronunciation="zero" /><n pronunciation="point" /><n pronunciation="four" /><n pronunciation="eight" /></t><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s>
+
+
+<s><t>Spectral<n pronunciation="Spectral" /></t> <t>type<n pronunciation="type" /></t>
+<t>D<n pronunciation="D" /></t> <t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s>
+
+
+
+
+
+<p><s><t>*<n pronunciation="*" /></t><t>to<n pronunciation="to" /></t> <t>the<n pronunciation="the" /></t> <t>ecliptic<n pronunciation="ecliptic" /></t>
+<t>*<n pronunciation="*" /></t><t>*<n pronunciation="*" /></t><t>based<n pronunciation="based" /></t> <t>on<n pronunciation="on" /></t> <t>the<n pronunciation="the" /></t> <t>albedo<n pronunciation="albedo" /></t></s></p>
+
+
+
+</ignored>
+
+<p><s><t>Kiviuq<n pronunciation="Kiviuq" /></t> <t>(</t><t>pronounced<n pronunciation="pronounced" /></t> <t>/<n pronunciation="forward" /><n pronunciation="slash" /></t><t>ˈkiːvi.oʊk<n pronunciation="ˈkiːvi" /><n pronunciation="." /><n pronunciation="oʊk" /></t><t>/<n pronunciation="forward" /><n pronunciation="slash" /></t> <t>(</t><t>deprecated<n pronunciation="deprecated" /></t> <t>template<n pronunciation="template" /></t><t>)</t> <t>KEE-vee-ohk<n pronunciation="KEE" /><n pronunciation="vee" /><n pronunciation="ohk" /></t> <t>or<n pronunciation="or" /></t> <t>/<n pronunciation="forward" /><n pronunciation="slash" /></t><t>ˈkɪvi.ʊk<n pronunciation="ˈkɪvi" /><n pronunciation="." /><n pronunciation="ʊk" /></t><t>/<n pronunciation="forward" /><n pronunciation="slash" /></t> <t>KIV-ee-ook<n pronunciation="KIV" /><n pronunciation="ee" /><n pronunciation="ook" /></t><t>)</t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>prograde<n pronunciation="prograde" start="7350" end="8050" /></t> <t>irregular<n pronunciation="irregular" start="8080" end="8600" /></t> <t>satellite<n pronunciation="satellite" start="8600" end="9210" /></t> <t>of<n pronunciation="of" start="9210" end="9300" /></t> <t>Saturn<n pronunciation="Saturn" start="9300" end="9850" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="9950" end="10650" /></t> <t>was<n pronunciation="was" start="10650" end="10810" /></t> <t>discovered<n pronunciation="discovered" start="10810" end="11380" /></t> <t>by<n pronunciation="by" start="11380" end="11590" /></t> <t>Brett<n pronunciation="Brett" start="11590" end="11970" /></t> <t>J.<n pronunciation="J" start="11970" end="12220" /><n pronunciation="." /></t> <t>Gladman<n pronunciation="Gladman" start="12250" end="12280" /></t> <t>in<n pronunciation="in" start="12280" end="12760" /></t> <t>2000<n pronunciation="2000" start="12760" end="12910" /></t><t>,</t> <t>and<n pronunciation="and" start="13630" end="13920" /></t> <t>given<n pronunciation="given" start="13920" end="14080" /></t> <t>the<n pronunciation="the" start="14080" end="14340" /></t> <t>temporary<n pronunciation="temporary" start="14340" end="14540" /></t> <t>designation<n pronunciation="designation" start="14540" end="15080" /></t> <t>S/2000<n pronunciation="S" start="16030" end="16040" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" start="16050" end="16300" /><n pronunciation="thousand" start="16300" end="16470" /></t> <t>S<n pronunciation="S" start="17010" end="17120" /></t> <t>5<n pronunciation="five" start="17120" end="17360" /></t><t>.</t></s><ignored><s><t>[</t><t>6<n pronunciation="six" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>7<n pronunciation="seven" /></t><t>]</t></s></ignored></p>
+<p><s><t>It<n pronunciation="It" /></t> <t>was<n pronunciation="was" start="18600" end="18860" /></t> <t>named<n pronunciation="named" start="18860" end="19180" /></t> <t>in<n pronunciation="in" start="19180" end="19340" /></t> <t>2003<n pronunciation="two" start="19340" end="19490" /><n pronunciation="thousand" start="19490" end="19900" /><n pronunciation="three" start="19900" end="20290" /></t> <t>after<n pronunciation="after" start="20540" end="20860" /></t> <t>a<n pronunciation="_a" start="20860" end="21060" /></t> <t>"</t><t>giant<n pronunciation="giant" start="21060" end="21620" /></t><t>"</t> <t>of<n pronunciation="of" start="21660" end="21830" /></t> <t>Inuit<n pronunciation="Inuit" start="21830" end="22240" /></t> <t>mythology<n pronunciation="mythology" start="22240" end="22920" /></t><t>.</t></s><ignored><s><t>[</t><t>8<n pronunciation="eight" /></t><t>]</t></s></ignored> <s><t>Kiviuq<n pronunciation="Kiviuq" /></t> <t>(</t><t>also<n pronunciation="also" /></t> <t>spelled<n pronunciation="spelled" /></t> <t>Keeveeok<n pronunciation="Keeveeok" /></t><t>,</t> <t>Qiviuq<n pronunciation="Qiviuq" /></t> <t>or<n pronunciation="or" /></t> <t>Kivioq<n pronunciation="Kivioq" /></t><t>)</t> <t>is<n pronunciation="is" start="23800" end="24340" /></t> <t>a<n pronunciation="a" start="24340" end="24450" /></t> <t>legendary<n pronunciation="legendary" start="24450" end="24540" /></t> <t>and<n pronunciation="and" start="24540" end="25170" /></t> <t>heroic<n pronunciation="heroic" start="25170" end="25290" /></t> <t>Inuk<n pronunciation="Inuk" start="25830" end="26040" /></t><t>,</t> <t>a<n pronunciation="a" start="26600" end="26720" /></t> <t>sort<n pronunciation="sort" start="26720" end="26820" /></t> <t>of<n pronunciation="of" start="26820" end="27080" /></t> <t>Inuit<n pronunciation="Inuit" start="27270" end="27760" /></t> <t>Odysseus<n pronunciation="Odysseus" start="27760" end="28490" /></t><t>.</t></s> <s><t>He<n pronunciation="He" start="28580" end="29310"><ph start="29210" end="29250" type="h"></ph><ph start="29250" end="29290" type="i:"></ph></n></t> <t>has<n pronunciation="has" start="29310" end="29510"><ph start="29290" end="29380" type="h-"></ph><ph start="29380" end="29430" type="E"></ph><ph start="29430" end="29510" type="z"></ph></n></t> <t>lived<n pronunciation="lived" start="29510" end="29780"><ph start="29510" end="29590" type="l"></ph><ph start="29590" end="29640" type="aI"></ph><ph start="29640" end="29690" type="v"></ph><ph start="29690" end="29760" type="d"></ph></n></t> <t>very<n pronunciation="very" start="29780" end="30040"><ph start="29760" end="29820" type="v"></ph><ph start="29820" end="29940" type="3`"></ph><ph start="29940" end="30050" type="i:"></ph></n></t> <t>long<n pronunciation="long" start="30040" end="30580"><ph start="30050" end="30090" type="l"></ph><ph start="30090" end="30340" type="O:"></ph><ph start="30340" end="30370" type="N"></ph></n></t> <t>(</t><t>or<n pronunciation="or" start="30570" end="30690"><ph start="30590" end="30640" type="O:"></ph><ph start="30640" end="30720" type="r"></ph></n></t> <t>has<n pronunciation="has" start="30690" end="30890"><ph start="30720" end="30760" type="h"></ph><ph start="30760" end="30830" type="{"></ph><ph start="30830" end="30890" type="z"></ph></n></t> <t>had<n pronunciation="had" start="30890" end="31100"><ph start="30890" end="30960" type="h"></ph><ph start="30960" end="31090" type="{"></ph><ph start="31090" end="31120" type="d"></ph></n></t> <t>several<n pronunciation="several" start="31100" end="31450"><ph start="31120" end="31220" type="s"></ph><ph start="31220" end="31320" type="E"></ph><ph start="31320" end="31370" type="v"></ph><ph start="31370" end="31410" type="3`"></ph><ph start="31410" end="31440" type="V"></ph><ph start="31440" end="31490" type="l"></ph></n></t> <t>lives<n pronunciation="lives"><ph start="31490" end="31530" type="l"></ph><ph start="31530" end="31830" type="aI"></ph><ph start="31830" end="31870" type="v"></ph><ph start="31870" end="31930" type="z"></ph></n></t><t>)</t><t>,</t> <t>has<n pronunciation="has" start="32120" end="32650"><ph start="32350" end="32380" type="h"></ph><ph start="32380" end="32590" type="{"></ph><ph start="32590" end="32660" type="z"></ph></n></t> <t>wandered<n pronunciation="wandered" start="32650" end="33150"><ph start="32660" end="32820" type="w"></ph><ph start="32820" end="32880" type="A:"></ph><ph start="32880" end="32910" type="n"></ph><ph start="32910" end="32940" type="d"></ph><ph start="32940" end="33060" type="3`"></ph><ph start="33060" end="33120" type="4"></ph></n></t> <t>and<n pronunciation="and" start="33150" end="33330"><ph start="33120" end="33220" type="?"></ph><ph start="33220" end="33280" type="I"></ph><ph start="33280" end="33330" type="n"></ph></n></t> <t>journeyed<n pronunciation="journeyed" start="33330" end="33810"><ph start="33330" end="33400" type="dZ"></ph><ph start="33400" end="33510" type="3`"></ph><ph start="33510" end="33540" type="n"></ph><ph start="33540" end="33710" type="i:"></ph><ph start="33710" end="33750" type="d"></ph></n></t><t>,</t> <t>living<n pronunciation="living" start="34100" end="34440"><ph start="34140" end="34180" type="l"></ph><ph start="34180" end="34230" type="I"></ph><ph start="34230" end="34270" type="v"></ph><ph start="34270" end="34350" type="i:"></ph><ph start="34350" end="34430" type="N"></ph></n></t> <t>all<n pronunciation="all" start="34440" end="34680"><ph start="34430" end="34530" type="?"></ph><ph start="34530" end="34610" type="O:"></ph><ph start="34610" end="34670" type="l"></ph></n></t> <t>sorts<n pronunciation="sorts" start="34680" end="35010"><ph start="34670" end="34820" type="s"></ph><ph start="34820" end="34890" type="O:"></ph><ph start="34890" end="34930" type="r"></ph><ph start="34930" end="34980" type="t"></ph><ph start="34980" end="35030" type="s"></ph></n></t> <t>of<n pronunciation="of" start="35010" end="35110"><ph start="35030" end="35060" type="V"></ph><ph start="35060" end="35120" type="v"></ph></n></t> <t>adventures<n pronunciation="adventures" start="35110" end="35850"><ph start="35120" end="35160" type="I"></ph><ph start="35160" end="35220" type="d"></ph><ph start="35220" end="35280" type="v"></ph><ph start="35280" end="35350" type="E"></ph><ph start="35350" end="35380" type="n"></ph><ph start="35380" end="35410" type="T"></ph><ph start="35410" end="35500" type="S"></ph><ph start="35500" end="35640" type="3`"></ph><ph start="35640" end="35750" type="z"></ph></n></t> <t>whose<n pronunciation="whose" start="35930" end="36120"><ph start="35950" end="35980" type="h"></ph><ph start="35980" end="36020" type="u"></ph><ph start="36020" end="36110" type="z"></ph></n></t> <t>details<n pronunciation="details" start="36120" end="36700"><ph start="36110" end="36190" type="d"></ph><ph start="36190" end="36240" type="I"></ph><ph start="36240" end="36380" type="t"></ph><ph start="36380" end="36450" type="eI"></ph><ph start="36450" end="36610" type="l"></ph><ph start="36610" end="36710" type="z"></ph></n></t> <t>depend<n pronunciation="depend" start="36700" end="37080"><ph start="36710" end="36750" type="d"></ph><ph start="36750" end="36790" type="I"></ph><ph start="36790" end="36870" type="p"></ph><ph start="36870" end="36930" type="E"></ph><ph start="36930" end="37000" type="n"></ph><ph start="37000" end="37070" type="d"></ph></n></t> <t>on<n pronunciation="on" start="37080" end="37220"><ph start="37070" end="37120" type="O:"></ph><ph start="37120" end="37170" type="n"></ph></n></t> <t>the<n pronunciation="the"><ph start="37170" end="37200" type="D"></ph><ph start="37200" end="37230" type="V"></ph></n></t> <t>story-teller's<n pronunciation="story" start="37340" end="37630"><ph start="37230" end="37350" type="s"></ph><ph start="37350" end="37390" type="t"></ph><ph start="37390" end="37500" type="O:"></ph><ph start="37500" end="37540" type="r"></ph><ph start="37540" end="37610" type="i:"></ph></n><n pronunciation="teller's" start="37630" end="38180"><ph start="37610" end="37730" type="t"></ph><ph start="37730" end="37770" type="E"></ph><ph start="37770" end="37900" type="l"></ph><ph start="37900" end="37980" type="3`"></ph><ph start="37980" end="38050" type="z"></ph></n></t> <t>local<n pronunciation="local" start="38170" end="38500"><ph start="38220" end="38250" type="l"></ph><ph start="38250" end="38330" type="@U"></ph><ph start="38330" end="38360" type="k"></ph><ph start="38360" end="38390" type="V"></ph><ph start="38390" end="38470" type="l"></ph></n></t> <t>tradition<n pronunciation="tradition" start="38500" end="39080"><ph start="38550" end="38600" type="t"></ph><ph start="38600" end="38630" type="r"></ph><ph start="38630" end="38660" type="V"></ph><ph start="38660" end="38720" type="d"></ph><ph start="38720" end="38770" type="I"></ph><ph start="38770" end="38880" type="S"></ph><ph start="38880" end="38910" type="V"></ph><ph start="38910" end="38940" type="n"></ph></n></t><t>.</t></s></p>
+<p><s><t>Kiviuq<n pronunciation="Kiviuq" start="40030" end="40640" /></t> <t>is<n pronunciation="is" start="40640" end="40750" /></t> <t>about<n pronunciation="about" start="40750" end="41000" /></t> <t>16<n pronunciation="sixteen" start="41000" end="41530" /></t> <t>kilometres<n pronunciation="kilometres" start="41530" end="42110" /></t> <t>in<n pronunciation="in" /></t> <t>diameter<n pronunciation="diameter" start="42230" end="42880" /></t><t>,</t> <t>and<n pronunciation="and" start="42980" end="43370" /></t> <t>orbits<n pronunciation="orbits" start="43370" end="43720" /></t> <t>Saturn<n pronunciation="Saturn" start="43720" end="44200" /></t> <t>at<n pronunciation="at" /></t> <t>an<n pronunciation="an" start="44250" end="44410" /></t> <t>average<n pronunciation="average" start="44410" end="44880" /></t> <t>distance<n pronunciation="distance" start="44880" end="45510" /></t> <t>of<n pronunciation="of" start="45930" end="46040" /></t> <t>11.1<n pronunciation="eleven" /><n pronunciation="point" start="46200" end="46510" /><n pronunciation="one" start="46510" end="46910" /></t> <t>million<n pronunciation="million" start="46940" end="47240" /></t> <t>kilometers<n pronunciation="kilometers" start="47240" end="48030" /></t> <t>in<n pronunciation="in" start="48100" end="48270" /></t> <t>450<n pronunciation="four" start="48270" end="48470" /><n pronunciation="hundred" start="48470" end="48730" /><n pronunciation="fifty" start="48730" end="49070" /></t> <t>days<n pronunciation="days" start="49070" end="49550" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="50280" end="50440"><ph start="50320" end="50400" type="I"></ph><ph start="50400" end="50430" type="t"></ph></n></t> <t>is<n pronunciation="is" start="50440" end="50550"><ph start="50430" end="50490" type="I"></ph><ph start="50490" end="50560" type="z"></ph></n></t> <t>a<n pronunciation="a" start="50550" end="50610"><ph start="50560" end="50600" type="V"></ph></n></t> <t>member<n pronunciation="member" start="50610" end="51070"><ph start="50600" end="50680" type="m"></ph><ph start="50680" end="50770" type="E"></ph><ph start="50770" end="50800" type="m"></ph><ph start="50800" end="50840" type="b"></ph><ph start="50840" end="51095" type="3`"></ph></n></t> <t>of<n pronunciation="of" start="51070" end="51250"><ph start="51095" end="51180" type="V"></ph><ph start="51180" end="51220" type="v"></ph></n></t> <t>the<n pronunciation="the"><ph start="51220" end="51270" type="D"></ph><ph start="51270" end="51300" type="V"></ph></n></t> <t>Inuit<n pronunciation="Inuit" start="51400" end="51720"><ph start="51300" end="51410" type="?"></ph><ph start="51410" end="51460" type="I"></ph><ph start="51460" end="51510" type="n"></ph><ph start="51510" end="51710" type="u"></ph><ph start="51710" end="51740" type="t"></ph></n></t> <t>group<n pronunciation="group" start="51720" end="52030"><ph start="51740" end="51810" type="g"></ph><ph start="51810" end="51850" type="r"></ph><ph start="51850" end="51930" type="u"></ph><ph start="51930" end="52090" type="p"></ph></n></t> <t>of<n pronunciation="of" start="52060" end="52190"><ph start="52090" end="52140" type="V"></ph><ph start="52140" end="52210" type="v"></ph></n></t> <t>irregular<n pronunciation="irregular" start="52190" end="52610"><ph start="52210" end="52240" type="I"></ph><ph start="52240" end="52380" type="r"></ph><ph start="52380" end="52410" type="E"></ph><ph start="52410" end="52440" type="g"></ph><ph start="52440" end="52470" type="j"></ph><ph start="52470" end="52500" type="V"></ph><ph start="52500" end="52530" type="l"></ph><ph start="52530" end="52610" type="3`"></ph></n></t> <t>satellites<n pronunciation="satellites" start="52610" end="53400"><ph start="52610" end="52750" type="s"></ph><ph start="52750" end="52880" type="{"></ph><ph start="52880" end="52920" type="t"></ph><ph start="52920" end="52950" type="V"></ph><ph start="52950" end="53000" type="l"></ph><ph start="53000" end="53110" type="aI"></ph><ph start="53110" end="53190" type="t"></ph><ph start="53190" end="53330" type="s"></ph></n></t><t>.</t></s></p>
+<p><s><t>Kiviuq<n pronunciation="Kiviuq" start="54340" end="54690" /></t> <t>displays<n pronunciation="displays" start="54770" end="55230" /></t> <t>light-red<n pronunciation="light" start="55230" end="55490" /><n pronunciation="red" /></t> <t>colours<n pronunciation="colours" start="55700" end="56240" /></t> <t>and<n pronunciation="and" start="56270" end="56470" /></t> <t>the<n pronunciation="the" /></t> <t>infrared<n pronunciation="infrared" start="56470" end="56940" /></t> <t>spectrum<n pronunciation="spectrum" start="56940" end="57500" /></t> <t>very<n pronunciation="very" start="57990" end="58230" /></t> <t>similar<n pronunciation="similar" start="58230" end="58670" /></t> <t>to<n pronunciation="to" start="58670" end="58870" /></t> <t>Siarnaq<n pronunciation="Siarnaq" start="58870" end="59630" /></t> <t>and<n pronunciation="and" start="59700" end="59830" /></t> <t>Paaliaq<n pronunciation="Paaliaq" start="59830" end="60490" /></t><t>,</t> <t>further<n pronunciation="further" start="60830" end="61200" /></t> <t>supporting<n pronunciation="supporting" start="61200" end="61750" /></t> <t>the<n pronunciation="the" /></t> <t>thesis<n pronunciation="thesis" start="61750" end="62310" /></t> <t>of<n pronunciation="of" start="62460" end="62620" /></t> <t>a<n pronunciation="a" start="62620" end="62670" /></t> <t>possible<n pronunciation="possible" start="62670" end="63230" /></t> <t>common<n pronunciation="common" start="63230" end="63660" /></t> <t>origin<n pronunciation="origin" start="63660" end="64170" /></t> <t>of<n pronunciation="of" start="64200" end="64370" /></t> <t>the<n pronunciation="the" start="64370" end="64490" /></t> <t>Inuit<n pronunciation="Inuit" start="64500" end="64850" /></t> <t>group<n pronunciation="group" start="64850" end="65220" /></t> <t>in<n pronunciation="in" start="65420" end="65610" /></t> <t>the<n pronunciation="the" /></t> <t>break-up<n pronunciation="break" start="65670" end="65920" /><n pronunciation="up" start="65920" end="66090" /></t> <t>of<n pronunciation="of" start="66090" end="66270" /></t> <t>a<n pronunciation="a" start="66270" end="66350" /></t> <t>larger<n pronunciation="larger" start="66350" end="66700" /></t> <t>body<n pronunciation="body" start="66700" end="67110" /></t></s><ignored><s><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s></ignored><ignored><s><t>[</t><t>9<n pronunciation="nine" /></t><t>]</t></s></ignored><s><t>.</t></s></p>
+<p><s><t>Kiviuq<n pronunciation="Kiviuq" start="67920" end="68330" /></t> <t>is<n pronunciation="is" start="68330" end="68460" /></t> <t>believed<n pronunciation="believed" start="68460" end="68970" /></t> <t>to<n pronunciation="to" start="69040" end="69150" /></t> <t>be<n pronunciation="be" start="69150" end="69190" /></t> <t>in<n pronunciation="in" start="69190" end="69390" /></t> <t>Kozai<n pronunciation="Kozai" start="69390" end="69840" /></t> <t>resonance<n pronunciation="resonance" start="69840" end="70450" /></t> <t>i.e.<n pronunciation="i" /><n pronunciation="e" /></t> <t>cyclically<n pronunciation="cyclically" start="70760" end="71330" /></t> <t>reducing<n pronunciation="reducing" start="71330" end="71890" /></t> <t>the<n pronunciation="the" /></t> <t>orbital<n pronunciation="orbital" start="72030" end="72430" /></t> <t>inclination<n pronunciation="inclination" start="72430" end="73290" /></t> <t>while<n pronunciation="while" start="73410" end="73670" /></t> <t>increasing<n pronunciation="increasing" start="73670" end="74230" /></t> <t>the<n pronunciation="the" /></t> <t>eccentricity<n pronunciation="eccentricity" start="74400" end="75340" /></t> <t>and<n pronunciation="and" start="75480" end="75710" /></t> <t>vice<n pronunciation="vice" start="75710" end="75950" /></t> <t>versa<n pronunciation="versa" /></t><t>.</t></s><ignored><s><t>[</t><t>10<n pronunciation="ten" /></t><t>]</t></s></ignored></p>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>Discovery<n pronunciation="Discovery" /></t> <t>Circumstances<n pronunciation="Circumstances" /></t> <t>(</t><t>JPL<n pronunciation="J" /><n pronunciation="P" /><n pronunciation="L" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>Mean<n pronunciation="Mean" /></t> <t>orbital<n pronunciation="orbital" /></t> <t>parameters<n pronunciation="parameters" /></t> <t>from<n pronunciation="from" /></t> <t>JPL<n pronunciation="J" /><n pronunciation="P" /><n pronunciation="L" /></t>
+<t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>Scott<n pronunciation="Scott" /></t> <t>Sheppard<n pronunciation="Sheppard" /></t> <t>pages<n pronunciation="pages" /></t>
+<t>^<n pronunciation="^" /></t> <t>Grav<n pronunciation="Grav" /></t><t>,</t> <t>T.<n pronunciation="T" /><n pronunciation="." /></t><t>;</t> <t>Holman<n pronunciation="Holman" /></t><t>,</t> <t>M.<n pronunciation="M" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Gladman<n pronunciation="Gladman" /></t><t>,</t> <t>B.<n pronunciation="B" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Aksnes<n pronunciation="Aksnes" /></t><t>,</t> <t>K.<n pronunciation="K" /><n pronunciation="." /></t><t>;</t> <t>Photometric<n pronunciation="Photometric" /></t> <t>survey<n pronunciation="survey" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>irregular<n pronunciation="irregular" /></t> <t>satellites<n pronunciation="satellites" /></t><t>,</t> <t>Icarus<n pronunciation="Icarus" /></t><t>,</t> <t>166<n pronunciation="166" /></t> <t>(</t><t>2003<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="three" /></t><t>)</t><t>,</t> <t>pp.<n pronunciation="pp." /></t> <t>33-45<n pronunciation="thirty" /><n pronunciation="three" /><n pronunciation="to" /><n pronunciation="forty" /><n pronunciation="five" /></t>
+<t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>Grav<n pronunciation="Grav" /></t><t>,</t> <t>T.<n pronunciation="T" /><n pronunciation="." /></t><t>;</t> <t>and<n pronunciation="and" /></t> <t>Bauer<n pronunciation="Bauer" /></t><t>,</t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>A<n pronunciation="A" /></t> <t>deeper<n pronunciation="deeper" /></t> <t>look<n pronunciation="look" /></t> <t>at<n pronunciation="at" /></t> <t>the<n pronunciation="the" /></t> <t>colors<n pronunciation="colors" /></t> <t>of<n pronunciation="of" /></t> <t>Saturnian<n pronunciation="Saturnian" /></t> <t>irregular<n pronunciation="irregular" /></t> <t>satellites<n pronunciation="satellites" /></t>
+<t>^<n pronunciation="^" /></t> <t>IAUC<n pronunciation="IAUC" /></t> <t>7521<n pronunciation="7521" /></t><t>:</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>5<n pronunciation="five" /></t><t>,</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>6<n pronunciation="six" /></t> <t>November<n pronunciation="November" /></t> <t>18<n pronunciation="eighteen" /></t><t>,</t> <t>2000<n pronunciation="two" /><n pronunciation="thousand" /></t> <t>(</t><t>discovery<n pronunciation="discovery" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>MPEC<n pronunciation="MPEC" /></t> <t>2000-Y14<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="Y" /><n pronunciation="one" /><n pronunciation="four" /></t><t>:</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2000" /></t> <t>S<n pronunciation="S" /></t> <t>3<n pronunciation="three" /></t><t>,</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>4<n pronunciation="four" /></t><t>,</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>5<n pronunciation="five" /></t><t>,</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>6<n pronunciation="six" /></t><t>,</t> <t>S/2000<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /></t> <t>S<n pronunciation="S" /></t> <t>10<n pronunciation="ten" /></t> <t>December<n pronunciation="December" /></t> <t>19<n pronunciation="nineteen" /></t><t>,</t> <t>2000<n pronunciation="two" /><n pronunciation="thousand" /></t> <t>(</t><t>discovery<n pronunciation="discovery" /></t> <t>and<n pronunciation="and" /></t> <t>ephemeris<n pronunciation="ephemeris" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>IAUC<n pronunciation="IAUC" /></t> <t>8177<n pronunciation="8177" /></t><t>:</t> <t>Satellites<n pronunciation="Satellites" /></t> <t>of<n pronunciation="of" /></t> <t>Jupiter<n pronunciation="Jupiter" /></t><t>,</t> <t>Saturn<n pronunciation="Saturn" /></t><t>,</t> <t>Uranus<n pronunciation="Uranus" /></t> <t>August<n pronunciation="August" /></t> <t>8<n pronunciation="eight" /></t><t>,</t> <t>2003<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="three" /></t> <t>(</t><t>naming<n pronunciation="naming" /></t> <t>the<n pronunciation="the" /></t> <t>moon<n pronunciation="moon" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>Gladman<n pronunciation="Gladman" /></t><t>,</t> <t>B.<n pronunciation="B" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Nicholson<n pronunciation="Nicholson" /></t><t>,</t> <t>P.<n pronunciation="P" /><n pronunciation="." /></t> <t>D.<n pronunciation="D" /><n pronunciation="." /></t><t>;</t> <t>Burns<n pronunciation="Burns" /></t><t>,</t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t> <t>A.<n pronunciation="_a" /><n pronunciation="." /></t><t>;</t> <t>Kavelaars<n pronunciation="Kavelaars" /></t><t>,</t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Marsden<n pronunciation="Marsden" /></t><t>,</t> <t>B.<n pronunciation="B" /><n pronunciation="." /></t> <t>G.<n pronunciation="G" /><n pronunciation="." /></t><t>;</t> <t>Holman<n pronunciation="Holman" /></t><t>,</t> <t>M.<n pronunciation="M" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Grav<n pronunciation="Grav" /></t><t>,</t> <t>T.<n pronunciation="T" /><n pronunciation="." /></t><t>;</t> <t>Hergenrother<n pronunciation="Hergenrother" /></t><t>,</t> <t>C.<n pronunciation="C" /><n pronunciation="." /></t> <t>W.<n pronunciation="W" /><n pronunciation="." /></t><t>;</t> <t>Petit<n pronunciation="Petit" /></t><t>,</t> <t>J.-M.<n pronunciation="J" /><n pronunciation="." /><n pronunciation="M" /><n pronunciation="." /></t><t>;</t> <t>Jacobson<n pronunciation="Jacobson" /></t><t>,</t> <t>R.<n pronunciation="R" /><n pronunciation="." /></t> <t>A.<n pronunciation="_a" /><n pronunciation="." /></t><t>;</t> <t>and<n pronunciation="and" /></t> <t>Gray<n pronunciation="Gray" /></t><t>,</t> <t>W.<n pronunciation="W" /><n pronunciation="." /></t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t><t>;</t> <t>Discovery<n pronunciation="Discovery" /></t> <t>of<n pronunciation="of" /></t> <t>12<n pronunciation="12" /></t> <t>satellites<n pronunciation="satellites" /></t> <t>of<n pronunciation="of" /></t> <t>Saturn<n pronunciation="Saturn" /></t> <t>exhibiting<n pronunciation="exhibiting" /></t> <t>orbital<n pronunciation="orbital" /></t> <t>clustering<n pronunciation="clustering" /></t><t>,</t> <t>Nature<n pronunciation="Nature" /></t><t>,</t> <t>412<n pronunciation="four" /><n pronunciation="hundred" /><n pronunciation="twelve" /></t> <t>(</t><t>July<n pronunciation="July" /></t> <t>12<n pronunciation="twelve" /></t><t>.</t></s> <s><t>2001<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="one" /></t><t>)</t><t>,</t> <t>pp.<n pronunciation="pp." /></t> <t>163<n pronunciation="163" /></t><t>–<n pronunciation="–" /></t><t>166<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="sixty" /><n pronunciation="six" /></t>
+<t>^<n pronunciation="^" /></t> <t>Ćuk<n pronunciation="Ćuk" /></t><t>,</t> <t>M.<n pronunciation="M" /><n pronunciation="." /></t><t>;</t> <t>and<n pronunciation="and" /></t> <t>Burns<n pronunciation="Burns" /></t><t>,</t> <t>J.<n pronunciation="J" /><n pronunciation="." /></t> <t>A.<n pronunciation="_a" /><n pronunciation="." /></t><t>;</t> <t>On<n pronunciation="On" /></t> <t>the<n pronunciation="the" /></t> <t>Secular<n pronunciation="Secular" /></t> <t>Behavior<n pronunciation="Behavior" /></t> <t>of<n pronunciation="of" /></t> <t>Irregular<n pronunciation="Irregular" /></t> <t>Satellites<n pronunciation="Satellites" /></t><t>,</t> <t>The<n pronunciation="The" /></t> <t>Astronomical<n pronunciation="Astronomical" /></t> <t>Journal<n pronunciation="Journal" /></t><t>,</t> <t>Vol<n pronunciation="Vol" /></t><t>.</t></s> <s><t>128<n pronunciation="one" /><n pronunciation="hundred" /><n pronunciation="twenty" /><n pronunciation="eight" /></t> <t>(</t><t>2004<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /></t><t>)</t><t>,</t> <t>pp.<n pronunciation="pp." /></t> <t>2518-2541<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="five" /><n pronunciation="hundred" /><n pronunciation="eighteen" /><n pronunciation="to" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="five" /><n pronunciation="hundred" /><n pronunciation="forty" /><n pronunciation="one" /></t></s>
+
+
+
+
+<p><s><t>Ephemeris<n pronunciation="Ephemeris" /></t> <t>from<n pronunciation="from" /></t> <t>IAU-MPC<n pronunciation="IAU" /><n pronunciation="M" /><n pronunciation="P" /><n pronunciation="C" /></t> <t>NSES<n pronunciation="NSES" /></t></s></p>
+</sectioncontent></section></ignored>
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle><sectioncontent>
+
+<p><s><t>David<n pronunciation="David" /></t> <t>Jewitt<n pronunciation="Jewitt" /></t> <t>pages<n pronunciation="pages" /></t></s></p>
+<p></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Moons<n pronunciation="Moons" /></t> <t>of<n pronunciation="of" /></t> <t>Saturn<n pronunciation="Saturn" /></t></s>
+
+
+
+
+<s><t>Listed<n pronunciation="Listed" /></t> <t>in<n pronunciation="in" /></t> <t>approximately<n pronunciation="approximately" /></t> <t>increasing<n pronunciation="increasing" /></t> <t>distance<n pronunciation="distance" /></t> <t>from<n pronunciation="from" /></t> <t>Saturn<n pronunciation="Saturn" /></t><t>.</t></s> <s><t>Temporary<n pronunciation="Temporary" /></t> <t>names<n pronunciation="names" /></t> <t>in<n pronunciation="in" /></t> <t>italics<n pronunciation="italics" /></t><t>.</t></s>
+
+
+
+<s><t>Ring<n pronunciation="Ring" /></t> <t>shepherds<n pronunciation="shepherds" /></t></s>
+
+
+
+<p><s><t>S/2009<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="nine" /></t> <t>S<n pronunciation="S" /></t> <t>1<n pronunciation="one" /></t>
+<t>Ring<n pronunciation="Ring" /></t> <t>moonlets<n pronunciation="moonlets" /></t>
+<t>Pan<n pronunciation="Pan" /></t>
+<t>Daphnis<n pronunciation="Daphnis" /></t>
+<t>Atlas<n pronunciation="Atlas" /></t>
+<t>Prometheus<n pronunciation="Prometheus" /></t>
+<t>Pandora<n pronunciation="Pandora" /></t></s></p>
+
+
+
+
+
+<s><t>Co-orbitals<n pronunciation="company" /><n pronunciation="orbitals" /></t></s>
+
+
+
+<p><s><t>Epimetheus<n pronunciation="Epimetheus" /></t>
+<t>Janus<n pronunciation="Janus" /></t></s></p>
+
+
+
+
+
+<s><t>G<n pronunciation="G" /></t> <t>Ring<n pronunciation="Ring" /></t></s>
+
+
+
+<p><s><t>Aegaeon<n pronunciation="Aegaeon" /></t></s></p>
+
+
+
+
+
+<s><t>Mimas<n pronunciation="Mimas" /></t> <t>and<n pronunciation="and" /></t> <t>Alkyonides<n pronunciation="Alkyonides" /></t></s>
+
+
+
+<p><s><t>Mimas<n pronunciation="Mimas" /></t>
+<t>Methone<n pronunciation="Methone" /></t>
+<t>Anthe<n pronunciation="Anthe" /></t>
+<t>Pallene<n pronunciation="Pallene" /></t></s></p>
+
+
+
+
+
+<s><t>Inner<n pronunciation="Inner" /></t> <t>large<n pronunciation="large" /></t>
+<t>(</t><t>with<n pronunciation="with" /></t> <t>trojans<n pronunciation="trojans" /></t><t>)</t></s>
+
+
+
+<p><s><t>Enceladus<n pronunciation="Enceladus" /></t>
+<t>Tethys<n pronunciation="Tethys" /></t></s>
+
+<p><s><t>Telesto<n pronunciation="Telesto" /></t>
+<t>Calypso<n pronunciation="Calypso" /></t></s></p>
+
+
+<s><t>Dione<n pronunciation="Dione" /></t></s>
+
+<p><s><t>Helene<n pronunciation="Helene" /></t>
+<t>Polydeuces<n pronunciation="Polydeuces" /></t></s></p>
+
+</p>
+
+
+
+
+
+<s><t>Outer<n pronunciation="Outer" /></t> <t>large<n pronunciation="large" /></t></s>
+
+
+
+<p><s><t>Rhea<n pronunciation="Rhea" /></t>
+<t>Titan<n pronunciation="Titan" /></t>
+<t>Hyperion<n pronunciation="Hyperion" /></t>
+<t>Iapetus<n pronunciation="Iapetus" /></t></s></p>
+
+
+
+
+
+<s><t>Inuit<n pronunciation="Inuit" /></t> <t>group<n pronunciation="group" /></t></s>
+
+
+
+<p><s><t>Kiviuq<n pronunciation="Kiviuq" /></t>
+<t>Ijiraq<n pronunciation="Ijiraq" /></t>
+<t>Paaliaq<n pronunciation="Paaliaq" /></t>
+<t>Siarnaq<n pronunciation="Siarnaq" /></t>
+<t>Tarqeq<n pronunciation="Tarqeq" /></t></s></p>
+
+
+
+
+
+<s><t>Norse<n pronunciation="Norse" /></t> <t>group<n pronunciation="group" /></t></s>
+
+
+
+<p><s><t>Phoebe<n pronunciation="Phoebe" /></t>
+<t>Skathi<n pronunciation="Skathi" /></t>
+<t>S/2007<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="seven" /></t> <t>S<n pronunciation="S" /></t> <t>2<n pronunciation="two" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>Skoll<n pronunciation="Skoll" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2004" /></t> <t>S<n pronunciation="S" /></t> <t>13<n pronunciation="thirteen" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>Greip<n pronunciation="Greip" /></t>
+<t>Hyrrokkin<n pronunciation="Hyrrokkin" /></t>
+<t>Jarnsaxa<n pronunciation="Jarnsaxa" /></t>
+<t>Mundilfari<n pronunciation="Mundilfari" /></t>
+<t>S/2006<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2006" /></t> <t>S<n pronunciation="S" /></t> <t>1<n pronunciation="one" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2004" /></t> <t>S<n pronunciation="S" /></t> <t>17<n pronunciation="seventeen" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>Bergelmir<n pronunciation="Bergelmir" /></t>
+<t>Narvi<n pronunciation="Narvi" /></t>
+<t>Suttungr<n pronunciation="Suttungr" /></t>
+<t>Hati<n pronunciation="Hati" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2004" /></t> <t>S<n pronunciation="S" /></t> <t>12<n pronunciation="twelve" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>Farbauti<n pronunciation="Farbauti" /></t>
+<t>Thrymr<n pronunciation="T" /><n pronunciation="h" /><n pronunciation="r" /><n pronunciation="y" /><n pronunciation="m" /><n pronunciation="r" /></t>
+<t>Aegir<n pronunciation="Aegir" /></t>
+<t>S/2007<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2007" /></t> <t>S<n pronunciation="S" /></t> <t>3<n pronunciation="three" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>Bestla<n pronunciation="Bestla" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2004" /></t> <t>S<n pronunciation="S" /></t> <t>7<n pronunciation="seven" /></t><t>(</t><t>?</t><t>)</t></s>
+<s><t>S/2006<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="2006" /></t> <t>S<n pronunciation="S" /></t> <t>3<n pronunciation="three" /></t>
+<t>Fenrir<n pronunciation="Fenrir" /></t>
+<t>Surtur<n pronunciation="Surtur" /></t>
+<t>Kari<n pronunciation="Kari" /></t>
+<t>Ymir<n pronunciation="Ymir" /></t>
+<t>Loge<n pronunciation="Loge" /></t>
+<t>Fornjot<n pronunciation="Fornjot" /></t></s></p>
+
+
+
+
+
+<s><t>Gallic<n pronunciation="Gallic" /></t> <t>group<n pronunciation="group" /></t></s>
+
+
+
+<p><s><t>Albiorix<n pronunciation="Albiorix" /></t>
+<t>Bebhionn<n pronunciation="Bebhionn" /></t>
+<t>Erriapus<n pronunciation="Erriapus" /></t>
+<t>Tarvos<n pronunciation="Tarvos" /></t></s></p>
+
+
+
+
+
+
+
+
+<p><s><t>Rings<n pronunciation="Rings" /></t> <t>of<n pronunciation="of" /></t> <t>Saturn<n pronunciation="Saturn" /></t>
+<t>Cassini<n pronunciation="Cassini" /></t><t>–<n pronunciation="–" /></t><t>Huygens<n pronunciation="Huygens" /></t>
+<t>Themis<n pronunciation="Themis" /></t>
+<t>Chiron<n pronunciation="Chiron" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /></t> <t>S<n pronunciation="S" /></t> <t>6<n pronunciation="six" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /></t> <t>S<n pronunciation="S" /></t> <t>4<n pronunciation="four" /></t>
+<t>S/2004<n pronunciation="S" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="four" /></t> <t>S<n pronunciation="S" /></t> <t>3<n pronunciation="three" /></t>
+<t>In<n pronunciation="In" /></t> <t>fiction<n pronunciation="fiction" /></t></s></p>
+
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

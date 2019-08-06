@@ -1,0 +1,25 @@
+{{Information
+|Description={{Spoken article
+|title= gedit
+|time= 2:54
+|user_name= Enormator
+|date= 2011-07-31
+|oldid=440887800
+|accent= German
+|sex= male
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2011-07-31}}
+|Author={{original uploader|Enormator|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Gedit.ogg}}
+* 2011-07-31 16:07 [[:en:User:Enormator|Enormator]] 0×0× (1367145 bytes) ''<nowiki>{{Spoken article |title= gedit |time= 2:54 |user_name= Enormator |date= 31.07.2011 |oldid=440887800 |accent= German }} == Licensing: == {{cc-by-sa-3.0}} <!-- This is the licen</nowiki>''
+
+[[Category:Gedit]]

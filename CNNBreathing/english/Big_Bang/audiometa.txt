@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title= Big Bang
+|time= 55:40
+|user_name= Dmitry Brant
+|date= 2011-11-12
+|oldid=460044799
+|accent=American
+}}
+{{Information 
+|description    = {{en|1= En-BigBang }} 
+|date           = {{Original upload date|2011-11-12}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Dmitry Brant|Dmitry Brant]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|author=[[:en:User:Dmitry Brant|Dmitry Brant]] at [http://en.wikipedia.org en.wikipedia]|Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-BigBang.ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2011-11-12 20:58 (UTC) | [[:en:User:Dmitry Brant|Dmitry Brant]] | 40402247 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title= Big Bang |time= 55:40 |user_name= Dmitry Brant |date= 2011-11-12 |oldid=460044799 |accent=American }} </nowiki></small>
+
+[[Category:Big Bang]]
+[[Category:Spoken Wikipedia - English]]

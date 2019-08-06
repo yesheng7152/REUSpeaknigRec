@@ -1,0 +1,14 @@
+{{Spoken article
+|title=Computational neuroscience
+|time=13:43
+|user_name=Mangst
+|date=2011-11-22
+|oldid=462044332
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+{{Check categories|year=2016|month=January|day=1}}
+[[Category:Computational neuroscience]]

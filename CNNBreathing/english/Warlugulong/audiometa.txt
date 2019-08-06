@@ -1,0 +1,11 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Warlugulong
+|user_name_link=[[:en:User:Hamiltonstone|Hamiltonstone]]
+|date=2014-08-10
+|accent=Australian
+|sex=male
+|oldid=620592200
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}

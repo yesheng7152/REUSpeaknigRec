@@ -1,0 +1,23 @@
+{{Spoken article
+|title=300 (film)
+|time=34:33
+|user_name=Tonyle 
+|date=2009-02-13
+|oldid=270410405
+|accent=U.S. Michigan and California
+|wiki_lang=en
+|sex = m
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|300_%28film%29.ogg}}
+* 2009-02-13 10:02 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (26840416 bytes) ''<nowiki>Corrected spoken date in "credits" section</nowiki>''
+* 2009-02-13 09:46 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (26836530 bytes) ''<nowiki>Updated to 2/13 version</nowiki>''
+* 2009-02-12 23:59 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (26579037 bytes) ''<nowiki>Incorporated latest rewrite of Plot section, added summary infobox to the end</nowiki>''
+* 2009-02-12 09:58 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (27244765 bytes) ''<nowiki>{{Spoken article |title=300 (film) |time=35:00 |user_name=Tonyle  |date=2009-02-12 |oldid=269965470 |accent=U.S. Michigan and California }}  {{GFDL-with-disclaimers}}</nowiki>''
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:300 (film)]]

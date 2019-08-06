@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Gedit" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Gedit" /><prop key="DC.date.read" value="2011-07-31 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Gedit" /><prop key="DC.source.wikiID" value="224281" /><prop key="DC.source.revision" value="794104689" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Gedit&amp;oldid=440887800" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/c/c4/Gedit.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aGedit.ogg" group="audio1" /><link key="DC.source.audio.date" value="2012-03-15 07:56:08" group="audio1" /><prop key="reader.name" value="Enormator" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:39:22.829+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Gedit/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Gedit)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T13:50:54.413+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Gedit/aligned.swc, transcript=articles/Gedit/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Gedit/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="GeditFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="GeditFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="GeditFrom"><n pronunciation="GeditFrom" start="450" end="1120"><ph start="470" end="570" type="g"></ph><ph start="570" end="890" type="I"></ph><ph start="890" end="1010" type="d"></ph><ph start="1010" end="1040" type="V"></ph><ph start="1040" end="1280" type="t"></ph><ph start="1280" end="1350" type="f"></ph><ph start="1350" end="1400" type="r"></ph><ph start="1400" end="1430" type="V"></ph><ph start="1430" end="1460" type="m"></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="1460" end="2240"><ph start="1460" end="1510" type="w"></ph><ph start="1510" end="1550" type="I"></ph><ph start="1550" end="1630" type="k"></ph><ph start="1630" end="1700" type="i:"></ph><ph start="1700" end="1790" type="p"></ph><ph start="1790" end="1860" type="i:"></ph><ph start="1860" end="1900" type="4"></ph><ph start="1900" end="2070" type="i:"></ph><ph start="2070" end="2200" type="V"></ph></n></t><t text="," /><t text="the"><n pronunciation="the" start="2300" end="2450"><ph start="2360" end="2390" type="D"></ph><ph start="2390" end="2440" type="V"></ph></n></t><t text="free"><n pronunciation="free" start="2450" end="2750"><ph start="2580" end="2620" type="r"></ph><ph start="2620" end="2790" type="i:"></ph></n></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="2750" end="3840"><ph start="2790" end="2900" type="I"></ph><ph start="2900" end="2940" type="n"></ph><ph start="2940" end="3060" type="s"></ph><ph start="3060" end="3180" type="aI"></ph><ph start="3180" end="3250" type="k"></ph><ph start="3250" end="3280" type="l"></ph><ph start="3280" end="3350" type="@U"></ph><ph start="3350" end="3380" type="p"></ph><ph start="3380" end="3500" type="i:"></ph><ph start="3500" end="3540" type="4"></ph><ph start="3540" end="3740" type="i:"></ph><ph start="3740" end="3840" type="V"></ph></n></t><t text="at"><n pronunciation="at" start="4000" end="4210"><ph start="4060" end="4200" type="E"></ph><ph start="4200" end="4300" type="?"></ph></n></t><t text="e"><n pronunciation="e" start="4290" end="4470"><ph start="4300" end="4475" type="i:"></ph></n></t><t text="n"><n pronunciation="n" start="4470" end="4880"><ph start="4475" end="4650" type="E"></ph><ph start="4650" end="4690" type="n"></ph></n></t><t text="dot"><n pronunciation="dot" start="4880" end="5140"><ph start="4690" end="4720" type="d"></ph><ph start="4720" end="4860" type="A:"></ph><ph start="4860" end="4950" type="t"></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="5140" end="5850"><ph start="4950" end="5000" type="w"></ph><ph start="5000" end="5060" type="I"></ph><ph start="5060" end="5200" type="k"></ph><ph start="5200" end="5380" type="i:"></ph><ph start="5380" end="5490" type="p"></ph><ph start="5490" end="5570" type="i:"></ph><ph start="5570" end="5610" type="4"></ph><ph start="5610" end="5780" type="i:"></ph><ph start="5780" end="5870" type="V"></ph></n></t><t text="dot"><n pronunciation="dot" start="5880" end="6140"><ph start="5870" end="5930" type="d"></ph><ph start="5930" end="6030" type="A:"></ph><ph start="6030" end="6070" type="t"></ph></n></t><t text="org"><n pronunciation="org" start="6140" end="6540"><ph start="6070" end="6190" type="?"></ph><ph start="6190" end="6310" type="O:"></ph><ph start="6310" end="6410" type="r"></ph><ph start="6410" end="6500" type="g"></ph></n></t><t text="." /></s></extra>
+<ignored><s><t>gedit<n pronunciation="gedit" /></t></s>
+
+
+
+
+
+<s><t>gedit<n pronunciation="gedit" /></t> <t>2.26.1<n pronunciation="two" /><n pronunciation="." /><n pronunciation="twenty" /><n pronunciation="six" /><n pronunciation="." /><n pronunciation="one" /></t> <t>displaying<n pronunciation="displaying" /></t> <t>the<n pronunciation="the" /></t> <t>XHTML<n pronunciation="X" /><n pronunciation="H" /><n pronunciation="T" /><n pronunciation="M" /><n pronunciation="L" /></t> <t>coding<n pronunciation="coding" /></t> <t>for<n pronunciation="for" /></t> <t>a<n pronunciation="a" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>page<n pronunciation="page" /></t><t>,</t> <t>including<n pronunciation="including" /></t> <t>colour-coded<n pronunciation="colour" /><n pronunciation="coded" /></t> <t>syntax<n pronunciation="syntax" /></t> <t>highlighting<n pronunciation="highlighting" /></t><t>.</t></s>
+
+
+
+<s><t>Developer<n pronunciation="Developer" /></t><t>(</t><t>s<n pronunciation="s" /></t><t>)</t>
+<t>Paolo<n pronunciation="Paolo" /></t> <t>Maggi<n pronunciation="Maggi" /></t>
+<t>Paolo<n pronunciation="Paolo" /></t> <t>Borelli<n pronunciation="Borelli" /></t>
+<t>Steve<n pronunciation="Steve" /></t> <t>Frécinaux<n pronunciation="Frecinaux" /></t>
+<t>Jesse<n pronunciation="Jesse" /></t> <t>van<n pronunciation="van" /></t> <t>den<n pronunciation="den" /></t> <t>Kieboom<n pronunciation="Kieboom" /></t>
+<t>James<n pronunciation="James" /></t> <t>Willcox<n pronunciation="Willcox" /></t>
+<t>Chema<n pronunciation="Chema" /></t> <t>Celorio<n pronunciation="Celorio" /></t>
+<t>Federico<n pronunciation="Federico" /></t> <t>Mena<n pronunciation="Mena" /></t> <t>Quintero<n pronunciation="Quintero" /></t></s>
+
+
+<s><t>Initial<n pronunciation="Initial" /></t> <t>release<n pronunciation="release" /></t>
+<t>12<n pronunciation="12" /></t> <t>February<n pronunciation="February" /></t> <t>1999<n pronunciation="nineteen" /><n pronunciation="ninety" /><n pronunciation="nine" /></t></s>
+
+
+<s><t>Repository<n pronunciation="Repository" /></t>
+<t>git.gnome.org/browse/gedit<n pronunciation="git" /><n pronunciation="dot" /><n pronunciation="gnome" /><n pronunciation="dot" /><n pronunciation="org" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="browse" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="gedit" /></t><t>/<n pronunciation="forward" /><n pronunciation="slash" /></t></s>
+
+
+<s><t>Written<n pronunciation="Written" /></t> <t>in<n pronunciation="in" /></t>
+<t>C<n pronunciation="C" /></t><t>,</t> <t>Python<n pronunciation="Python" /></t></s>
+
+
+<s><t>Operating<n pronunciation="Operating" /></t> <t>system<n pronunciation="system" /></t>
+<t>Cross-platform<n pronunciation="Cross" /><n pronunciation="platform" /></t></s>
+
+
+<s><t>Available<n pronunciation="Available" /></t> <t>in<n pronunciation="in" /></t>
+<t>English<n pronunciation="English" /></t></s>
+
+
+<s><t>Type<n pronunciation="Type" /></t>
+<t>Text<n pronunciation="Text" /></t> <t>editor<n pronunciation="editor" /></t></s>
+
+
+<s><t>License<n pronunciation="License" /></t>
+<t>GNU<n pronunciation="GNU" /></t> <t>General<n pronunciation="General" /></t> <t>Public<n pronunciation="Public" /></t> <t>License<n pronunciation="License" /></t></s>
+
+
+<s><t>Website<n pronunciation="Website" /></t>
+<t>projects.gnome.org/gedit<n pronunciation="projects" /><n pronunciation="dot" /><n pronunciation="gnome" /><n pronunciation="dot" /><n pronunciation="org" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="gedit" /></t></s></ignored>
+
+
+<p><s><t>gedit<n pronunciation="gedit" start="6790" end="7370"><ph start="6830" end="7070" type="g"></ph><ph start="7070" end="7120" type="E"></ph><ph start="7120" end="7150" type="d"></ph><ph start="7150" end="7180" type="V"></ph><ph start="7180" end="7290" type="t"></ph></n></t> <t>is<n pronunciation="is" start="7440" end="7610"><ph start="7360" end="7470" type="?"></ph><ph start="7470" end="7560" type="I"></ph><ph start="7560" end="7610" type="z"></ph></n></t> <t>a<n pronunciation="a" start="7610" end="7710"><ph start="7610" end="7670" type="V"></ph></n></t> <t>text<n pronunciation="text" start="7710" end="8080"><ph start="7670" end="7810" type="t"></ph><ph start="7810" end="7900" type="E"></ph><ph start="7900" end="7950" type="k"></ph><ph start="7950" end="8060" type="s"></ph></n></t> <t>editor<n pronunciation="editor" start="8080" end="8460"><ph start="8060" end="8140" type="E"></ph><ph start="8140" end="8180" type="4"></ph><ph start="8180" end="8260" type="I"></ph><ph start="8260" end="8340" type="t"></ph><ph start="8340" end="8480" type="3`"></ph></n></t> <t>for<n pronunciation="for" start="8460" end="8700"><ph start="8480" end="8580" type="f"></ph><ph start="8580" end="8620" type="3`"></ph></n></t> <t>the<n pronunciation="the"><ph start="8620" end="8650" type="D"></ph><ph start="8650" end="8710" type="V"></ph></n></t> <t>GNOME<n pronunciation="GNOME" start="8700" end="9070"><ph start="8810" end="8870" type="n"></ph><ph start="8870" end="9060" type="@U"></ph><ph start="9060" end="9090" type="m"></ph></n></t> <t>desktop<n pronunciation="desktop" start="9070" end="9500"><ph start="9090" end="9130" type="d"></ph><ph start="9130" end="9210" type="E"></ph><ph start="9210" end="9290" type="s"></ph><ph start="9290" end="9320" type="k"></ph><ph start="9320" end="9360" type="t"></ph><ph start="9360" end="9430" type="A:"></ph><ph start="9430" end="9510" type="p"></ph></n></t> <t>environment<n pronunciation="environment" start="9500" end="10320"><ph start="9570" end="9610" type="I"></ph><ph start="9610" end="9640" type="n"></ph><ph start="9640" end="9670" type="v"></ph><ph start="9670" end="9800" type="aI"></ph><ph start="9800" end="10050" type="r"></ph><ph start="10050" end="10080" type="V"></ph><ph start="10080" end="10110" type="n"></ph><ph start="10110" end="10140" type="m"></ph><ph start="10140" end="10170" type="V"></ph><ph start="10170" end="10220" type="n"></ph><ph start="10220" end="10290" type="?"></ph></n></t><t>,</t> <t>Mac<n pronunciation="Mac" start="10470" end="10780"><ph start="10550" end="10610" type="m"></ph><ph start="10610" end="10700" type="{"></ph><ph start="10700" end="10780" type="k"></ph></n></t> <t>OS<n pronunciation="OS" start="10780" end="11000"><ph start="10780" end="10890" type="@U"></ph><ph start="10890" end="11020" type="s"></ph></n></t> <t>X<n pronunciation="X" start="11000" end="11290"><ph start="11020" end="11160" type="E"></ph><ph start="11160" end="11260" type="k"></ph><ph start="11260" end="11380" type="s"></ph></n></t> <t>and<n pronunciation="and" start="11370" end="11570"><ph start="11380" end="11440" type="?"></ph><ph start="11440" end="11490" type="@"></ph><ph start="11490" end="11560" type="n"></ph><ph start="11560" end="11610" type="d"></ph></n></t> <t>Microsoft<n pronunciation="Microsoft" start="11570" end="12240"><ph start="11610" end="11650" type="m"></ph><ph start="11650" end="11790" type="aI"></ph><ph start="11790" end="11850" type="k"></ph><ph start="11850" end="11880" type="r"></ph><ph start="11880" end="11930" type="@U"></ph><ph start="11930" end="12030" type="s"></ph><ph start="12030" end="12130" type="O:"></ph><ph start="12130" end="12160" type="f"></ph><ph start="12160" end="12190" type="t"></ph></n></t> <t>Windows<n pronunciation="Windows" start="12240" end="12890"><ph start="12270" end="12340" type="w"></ph><ph start="12340" end="12380" type="I"></ph><ph start="12380" end="12440" type="n"></ph><ph start="12440" end="12520" type="d"></ph><ph start="12520" end="12690" type="@U"></ph><ph start="12690" end="12870" type="z"></ph></n></t><t>.</t></s> <s><t>Designed<n pronunciation="Designed" start="13120" end="13670"><ph start="13130" end="13180" type="d"></ph><ph start="13180" end="13240" type="I"></ph><ph start="13240" end="13310" type="z"></ph><ph start="13310" end="13530" type="aI"></ph><ph start="13530" end="13620" type="n"></ph><ph start="13620" end="13680" type="d"></ph></n></t> <t>as<n pronunciation="as" start="13670" end="13790"><ph start="13680" end="13750" type="V"></ph><ph start="13750" end="13780" type="s"></ph></n></t> <t>a<n pronunciation="a" start="13790" end="13870"><ph start="13780" end="13830" type="V"></ph></n></t> <t>general<n pronunciation="general" start="13870" end="14250"><ph start="13830" end="13940" type="dZ"></ph><ph start="13940" end="14010" type="E"></ph><ph start="14010" end="14040" type="n"></ph><ph start="14040" end="14150" type="3`"></ph><ph start="14150" end="14190" type="V"></ph><ph start="14190" end="14240" type="l"></ph></n></t> <t>purpose<n pronunciation="purpose" start="14250" end="14670"><ph start="14240" end="14340" type="p"></ph><ph start="14340" end="14500" type="3`"></ph><ph start="14500" end="14540" type="p"></ph><ph start="14540" end="14580" type="V"></ph><ph start="14580" end="14690" type="s"></ph></n></t> <t>text<n pronunciation="text" start="14670" end="15050"><ph start="14690" end="14750" type="t"></ph><ph start="14750" end="14860" type="E"></ph><ph start="14860" end="14920" type="k"></ph><ph start="14920" end="15010" type="s"></ph><ph start="15010" end="15060" type="t"></ph></n></t> <t>editor<n pronunciation="editor" start="15050" end="15450"><ph start="15060" end="15130" type="E"></ph><ph start="15130" end="15170" type="4"></ph><ph start="15170" end="15240" type="I"></ph><ph start="15240" end="15330" type="t"></ph><ph start="15330" end="15540" type="3`"></ph></n></t><t>,</t> <t>gedit<n pronunciation="gedit" start="15650" end="15890"><ph start="15680" end="15840" type="g"></ph><ph start="15840" end="15870" type="E"></ph><ph start="15870" end="15970" type="d"></ph><ph start="15970" end="16020" type="V"></ph></n></t> <t>emphasizes<n pronunciation="emphasizes" start="15960" end="16620"><ph start="16020" end="16060" type="E"></ph><ph start="16060" end="16130" type="m"></ph><ph start="16130" end="16190" type="f"></ph><ph start="16190" end="16240" type="V"></ph><ph start="16240" end="16340" type="s"></ph><ph start="16340" end="16460" type="aI"></ph><ph start="16460" end="16540" type="z"></ph><ph start="16540" end="16570" type="I"></ph><ph start="16570" end="16620" type="z"></ph></n></t> <t>simplicity<n pronunciation="simplicity" start="16620" end="17490"><ph start="16620" end="16740" type="s"></ph><ph start="16740" end="16800" type="I"></ph><ph start="16800" end="16850" type="m"></ph><ph start="16850" end="16920" type="p"></ph><ph start="16920" end="16950" type="l"></ph><ph start="16950" end="17010" type="I"></ph><ph start="17010" end="17090" type="s"></ph><ph start="17090" end="17140" type="V"></ph><ph start="17140" end="17250" type="t"></ph><ph start="17250" end="17450" type="i:"></ph></n></t> <t>and<n pronunciation="and" start="17630" end="17910"><ph start="17680" end="17800" type="E"></ph><ph start="17800" end="17860" type="n"></ph><ph start="17860" end="17920" type="d"></ph></n></t> <t>ease<n pronunciation="ease" start="17910" end="18140"><ph start="17920" end="18090" type="i:"></ph><ph start="18090" end="18160" type="z"></ph></n></t> <t>of<n pronunciation="of" start="18140" end="18290"><ph start="18160" end="18190" type="V"></ph><ph start="18190" end="18220" type="v"></ph></n></t> <t>use<n pronunciation="use" start="18290" end="18770"><ph start="18290" end="18370" type="j"></ph><ph start="18370" end="18550" type="u"></ph><ph start="18550" end="18770" type="z"></ph></n></t><t>.</t></s> <s><t>It<n pronunciation="It" /></t> <t>includes<n pronunciation="includes" start="19050" end="19670" /></t> <t>tools<n pronunciation="tools" start="19660" end="20070" /></t> <t>for<n pronunciation="for" start="20070" end="20190" /></t> <t>editing<n pronunciation="editing" start="20230" end="20630" /></t> <t>source<n pronunciation="source" start="20630" end="21020" /></t> <t>code<n pronunciation="code" start="21020" end="21420" /></t> <t>and<n pronunciation="and" start="21460" end="21610" /></t> <t>structured<n pronunciation="structured" start="21610" end="22240" /></t> <t>text<n pronunciation="text" start="22240" end="22830" /></t> <t>such<n pronunciation="such" start="22830" end="23110" /></t> <t>as<n pronunciation="as" start="23110" end="23280" /></t> <t>markup<n pronunciation="markup" start="23280" end="23680" /></t> <t>languages<n pronunciation="languages" start="23680" end="24470" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p><s><t>It<n pronunciation="It" start="24630" end="24760" /></t> <t>is<n pronunciation="is" start="24760" end="24870" /></t> <t>designed<n pronunciation="designed" start="24860" end="25500" /></t> <t>to<n pronunciation="to" start="25500" end="25610" /></t> <t>have<n pronunciation="have" start="25610" end="25900" /></t> <t>a<n pronunciation="a" start="25900" end="25950" /></t> <t>clean<n pronunciation="clean" start="25950" end="26290" /></t><t>,</t> <t>simple<n pronunciation="simple" start="26380" end="26820" /></t> <t>graphical<n pronunciation="graphical" start="26820" end="27360" /></t> <t>user<n pronunciation="user" start="27360" end="27740" /></t> <t>interface<n pronunciation="interface" start="27740" end="28450" /></t> <t>according<n pronunciation="according" start="28620" end="29260" /></t> <t>to<n pronunciation="to" start="29260" end="29390" /></t> <t>the<n pronunciation="the" start="29390" end="29490" /></t> <t>philosophy<n pronunciation="philosophy" start="29490" end="30170" /></t> <t>of<n pronunciation="of" start="30170" end="30280" /></t> <t>the<n pronunciation="the" /></t> <t>GNOME<n pronunciation="GNOME" /></t> <t>project<n pronunciation="project" /></t><t>,</t> <t>and<n pronunciation="and" /></t> <t>it<n pronunciation="it" /></t> <t>is<n pronunciation="is" /></t> <t>the<n pronunciation="the" /></t> <t>default<n pronunciation="default" /></t> <t>text<n pronunciation="text" /></t> <t>editor<n pronunciation="editor" /></t> <t>for<n pronunciation="for" /></t> <t>GNOME<n pronunciation="GNOME" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p><s><t>Released<n pronunciation="Released" /></t> <t>under<n pronunciation="under" /></t> <t>the<n pronunciation="the" /></t> <t>terms<n pronunciation="terms" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>GNU<n pronunciation="GNU" /></t> <t>General<n pronunciation="General" /></t> <t>Public<n pronunciation="Public" /></t> <t>License<n pronunciation="License" /></t><t>,</t> <t>gedit<n pronunciation="gedit" /></t> <t>is<n pronunciation="is" /></t> <t>free<n pronunciation="free" /></t> <t>software<n pronunciation="software" /></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<p></p>
+<ignored>
+
+<section level="2"><sectiontitle><t>Contents<n pronunciation="Contents" /></t></sectiontitle><sectioncontent>
+
+
+<p><s><t>1<n pronunciation="one" /></t> <t>Features<n pronunciation="Features" /></t>
+<t>2<n pronunciation="two" /></t> <t>Architecture<n pronunciation="Architecture" /></t>
+<t>3<n pronunciation="three" /></t> <t>See<n pronunciation="See" /></t> <t>also<n pronunciation="also" /></t>
+<t>4<n pronunciation="four" /></t> <t>References<n pronunciation="References" /></t>
+<t>5<n pronunciation="five" /></t> <t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t></s></p>
+
+<p></p>
+</sectioncontent></section></ignored>
+<section level="2"><sectiontitle><t>Features<n pronunciation="Features" /></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>gedit<n pronunciation="gedit" /></t> <t>includes<n pronunciation="includes" /></t> <t>syntax<n pronunciation="syntax" /></t> <t>highlighting<n pronunciation="highlighting" /></t> <t>for<n pronunciation="for" /></t> <t>various<n pronunciation="various" /></t> <t>program<n pronunciation="program" start="44960" end="45430" /></t> <t>code<n pronunciation="code" start="45430" end="45740" /></t> <t>and<n pronunciation="and" start="45740" end="45870" /></t> <t>text<n pronunciation="text" start="45870" end="46170" /></t> <t>markup<n pronunciation="markup" start="46170" end="46530" /></t> <t>formats<n pronunciation="formats" start="46530" end="47130" /></t><t>.</t> <t>gedit<n pronunciation="gedit" start="47510" end="47770" /></t> <t>also<n pronunciation="also" start="47770" end="48150" /></t> <t>has<n pronunciation="has" start="48150" end="48540" /></t> <t>GUI<n pronunciation="GUI" start="48690" end="49060" /></t> <t>tabs<n pronunciation="tabs" start="49060" end="49460" /></t> <t>for<n pronunciation="for" start="49460" end="49680" /></t> <t>editing<n pronunciation="editing" start="49680" end="50130" /></t> <t>multiple<n pronunciation="multiple" start="50130" end="50610" /></t> <t>files<n pronunciation="files" start="50640" end="50670" /></t><t>.</t></s> <s><t>Tabs<n pronunciation="Tabs" start="51340" end="51740"><ph start="51750" end="51820" type="t"></ph><ph start="51820" end="51960" type="{"></ph><ph start="51960" end="51990" type="b"></ph><ph start="51990" end="52130" type="z"></ph></n></t> <t>can<n pronunciation="can" start="51740" end="52110"><ph start="52130" end="52210" type="k"></ph><ph start="52210" end="52250" type="V"></ph><ph start="52250" end="52350" type="n"></ph></n></t> <t>be<n pronunciation="be" start="52110" end="52350"><ph start="52350" end="52380" type="b"></ph><ph start="52380" end="52440" type="i:"></ph></n></t> <t>moved<n pronunciation="moved" start="52350" end="52420"><ph start="52440" end="52480" type="m"></ph><ph start="52480" end="52590" type="u"></ph><ph start="52590" end="52630" type="v"></ph><ph start="52630" end="52730" type="d"></ph></n></t> <t>between<n pronunciation="between" start="52420" end="52720"><ph start="52730" end="52770" type="b"></ph><ph start="52770" end="52810" type="i:"></ph><ph start="52810" end="52920" type="t"></ph><ph start="52920" end="52960" type="w"></ph><ph start="52960" end="53020" type="i:"></ph><ph start="53020" end="53070" type="n"></ph></n></t> <t>various<n pronunciation="various" start="52720" end="53110"><ph start="53070" end="53200" type="v"></ph><ph start="53200" end="53230" type="E"></ph><ph start="53230" end="53430" type="r"></ph><ph start="53430" end="53540" type="i:"></ph><ph start="53540" end="53580" type="V"></ph><ph start="53580" end="53660" type="s"></ph></n></t> <t>windows<n pronunciation="windows" start="53110" end="53650"><ph start="53660" end="53760" type="w"></ph><ph start="53760" end="53790" type="I"></ph><ph start="53790" end="53870" type="n"></ph><ph start="53870" end="53900" type="d"></ph><ph start="53900" end="54030" type="@U"></ph><ph start="54030" end="54090" type="z"></ph></n></t> <t>by<n pronunciation="by" start="53650" end="54090"><ph start="54090" end="54160" type="b"></ph><ph start="54160" end="54210" type="aI"></ph></n></t> <t>the<n pronunciation="the" start="54090" end="54220"><ph start="54210" end="54240" type="D"></ph><ph start="54240" end="54270" type="V"></ph></n></t> <t>user<n pronunciation="user" start="54220" end="54280"><ph start="54270" end="54410" type="j"></ph><ph start="54410" end="54440" type="u"></ph><ph start="54440" end="54470" type="z"></ph><ph start="54470" end="54530" type="3`"></ph></n></t><t>.</t></s> <s><t>It<n pronunciation="It" start="54920" end="55120" /></t> <t>can<n pronunciation="can" start="55120" end="55300" /></t> <t>edit<n pronunciation="edit" start="55300" end="55490" /></t> <t>remote<n pronunciation="remote" start="55490" end="55780" /></t> <t>files<n pronunciation="files" start="55780" end="56180" /></t> <t>using<n pronunciation="using" start="56180" end="56550" /></t> <t>GVFS<n pronunciation="G" start="56550" end="56940" /><n pronunciation="V" start="56940" end="57140" /><n pronunciation="F" start="57140" end="57310" /><n pronunciation="S" start="57310" end="57480" /></t> <t>(</t><t>GnomeVFS<n pronunciation="GnomeVFS" /></t> <t>is<n pronunciation="is" /></t> <t>now<n pronunciation="now" /></t> <t>deprecated<n pronunciation="deprecated" /></t><t>)</t> <t>libraries<n pronunciation="libraries" start="57680" end="58380" /></t><t>.</t></s> <s><t>It<n pronunciation="It" start="58780" end="58890"><ph start="58810" end="58860" type="I"></ph><ph start="58860" end="58900" type="t"></ph></n></t> <t>supports<n pronunciation="supports" start="58890" end="59280"><ph start="58900" end="58940" type="s"></ph><ph start="58940" end="59000" type="V"></ph><ph start="59000" end="59080" type="p"></ph><ph start="59080" end="59150" type="O:"></ph><ph start="59150" end="59190" type="r"></ph><ph start="59190" end="59220" type="t"></ph><ph start="59220" end="59290" type="s"></ph></n></t> <t>a<n pronunciation="a" start="59280" end="59350"><ph start="59290" end="59340" type="V"></ph></n></t> <t>full<n pronunciation="full" start="59350" end="59730"><ph start="59420" end="59480" type="f"></ph><ph start="59480" end="59570" type="U"></ph><ph start="59570" end="59680" type="l"></ph></n></t> <t>undo<n pronunciation="undo" start="59730" end="60160"><ph start="59680" end="59780" type="?"></ph><ph start="59780" end="59850" type="V"></ph><ph start="59850" end="59960" type="n"></ph><ph start="59960" end="60000" type="d"></ph><ph start="60000" end="60170" type="u"></ph></n></t> <t>and<n pronunciation="and" start="60160" end="60400"><ph start="60170" end="60320" type="I"></ph><ph start="60320" end="60360" type="n"></ph><ph start="60360" end="60390" type="d"></ph></n></t> <t>redo<n pronunciation="redo" start="60400" end="60660"><ph start="60390" end="60480" type="r"></ph><ph start="60480" end="60540" type="i:"></ph><ph start="60540" end="60570" type="d"></ph><ph start="60570" end="60710" type="u"></ph></n></t> <t>system<n pronunciation="system" start="60730" end="61150"><ph start="60710" end="60820" type="s"></ph><ph start="60820" end="60890" type="I"></ph><ph start="60890" end="60960" type="s"></ph><ph start="60960" end="61010" type="t"></ph><ph start="61010" end="61060" type="V"></ph><ph start="61060" end="61150" type="m"></ph></n></t> <t>as<n pronunciation="as"><ph start="61150" end="61230" type="V"></ph><ph start="61230" end="61290" type="s"></ph></n></t> <t>well<n pronunciation="well" start="61310" end="61570"><ph start="61350" end="61400" type="w"></ph><ph start="61400" end="61460" type="E"></ph><ph start="61460" end="61570" type="l"></ph></n></t> <t>as<n pronunciation="as" start="61770" end="61910"><ph start="61570" end="61700" type="V"></ph><ph start="61700" end="61800" type="s"></ph></n></t> <t>search<n pronunciation="search" start="61910" end="62330"><ph start="61850" end="62020" type="s"></ph><ph start="62020" end="62200" type="3`"></ph><ph start="62200" end="62230" type="T"></ph><ph start="62230" end="62340" type="S"></ph></n></t> <t>and<n pronunciation="and" start="62330" end="62470"><ph start="62340" end="62410" type="I"></ph><ph start="62410" end="62450" type="n"></ph><ph start="62450" end="62520" type="d"></ph></n></t> <t>replace<n pronunciation="replace" start="62500" end="63170"><ph start="62520" end="62550" type="r"></ph><ph start="62550" end="62620" type="i:"></ph><ph start="62620" end="62700" type="p"></ph><ph start="62700" end="62750" type="l"></ph><ph start="62750" end="62950" type="eI"></ph><ph start="62950" end="63180" type="s"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored> <s><t>Other<n pronunciation="Other" /></t> <t>typical<n pronunciation="typical" start="63880" end="64290" /></t> <t>code<n pronunciation="code" start="64290" end="64630" /></t> <t>oriented<n pronunciation="oriented" start="64630" end="65220" /></t> <t>features<n pronunciation="features" start="65220" end="65660" /></t> <t>include<n pronunciation="include" start="65660" end="66110" /></t> <t>line<n pronunciation="line" start="66110" end="66350" /></t> <t>numbering<n pronunciation="numbering" start="66350" end="67000" /></t><t>,</t> <t>bracket<n pronunciation="bracket" start="67240" end="67640" /></t> <t>matching<n pronunciation="matching" start="67640" end="68250" /></t><t>,</t> <t>text<n pronunciation="text" start="68590" end="68960" /></t> <t>wrapping<n pronunciation="wrapping" start="68960" end="69590" /></t><t>,</t> <t>current<n pronunciation="current" start="69790" end="70090" /></t> <t>line<n pronunciation="line" start="70160" end="70390" /></t> <t>highlighting<n pronunciation="highlighting" start="70390" end="71200" /></t><t>,</t> <t>automatic<n pronunciation="automatic" start="71610" end="72210" /></t> <t>indentation<n pronunciation="indentation" start="72210" end="73020" /></t> <t>and<n pronunciation="and" start="73100" end="73320" /></t> <t>automatic<n pronunciation="automatic" start="73320" end="73890" /></t> <t>file<n pronunciation="file" start="73890" end="74200" /></t> <t>backup<n pronunciation="backup" start="74200" end="74790" /></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored></p>
+<p><s><t>The<n pronunciation="The" /></t> <t>features<n pronunciation="features" start="75350" end="75750" /></t> <t>of<n pronunciation="of" start="75750" end="75870" /></t> <t>gedit<n pronunciation="gedit" start="75860" end="76190" /></t> <t>include<n pronunciation="include" start="76220" end="76670" /></t> <t>multilanguage<n pronunciation="multilanguage" start="76670" end="77680" /></t> <t>spellchecking<n pronunciation="spellchecking" start="77680" end="78530" /></t> <t>and<n pronunciation="and" start="78920" end="79090" /></t> <t>a<n pronunciation="a" start="79090" end="79150" /></t> <t>flexible<n pronunciation="flexible" start="79150" end="79640" /></t> <t>plugin<n pronunciation="plugin" start="79640" end="80060" /></t> <t>system<n pronunciation="system" start="80060" end="80500" /></t> <t>allowing<n pronunciation="allowing" start="80500" end="81010" /></t> <t>the<n pronunciation="the" start="81010" end="81100" /></t> <t>addition<n pronunciation="addition" start="81100" end="81560" /></t> <t>of<n pronunciation="of" start="81560" end="81720" /></t> <t>new<n pronunciation="new" start="81720" end="81930" /></t> <t>features<n pronunciation="features" start="81930" end="82530" /></t><t>,</t> <t>for<n pronunciation="for" start="83080" end="83290" /></t> <t>example<n pronunciation="example" start="83290" end="83810" /></t> <t>snippets<n pronunciation="snippets" start="83810" end="84560" /></t> <t>and<n pronunciation="and" start="84610" end="84810" /></t> <t>integration<n pronunciation="integration" start="84810" end="85450" /></t> <t>with<n pronunciation="with" start="85450" end="85560" /></t> <t>external<n pronunciation="external" start="85560" end="86070" /></t> <t>applications<n pronunciation="applications" start="86070" end="86910" /></t> <t>including<n pronunciation="including" start="86910" end="87380" /></t> <t>a<n pronunciation="a" start="87380" end="87440" /></t> <t>Python<n pronunciation="Python" start="87440" end="87920" /></t> <t>or<n pronunciation="or" start="87920" end="88070" /></t> <t>Bash<n pronunciation="Bash" start="88070" end="88400" /></t> <t>terminal<n pronunciation="terminal" start="88400" end="88970" /></t><t>.</t></s><ignored><s><t>[</t><t>2<n pronunciation="two" /></t><t>]</t></s></ignored> <s><t>A<n pronunciation="A" start="89330" end="89360"><ph start="89380" end="89450" type="V"></ph></n></t> <t>number<n pronunciation="number" start="89360" end="89440"><ph start="89450" end="89530" type="n"></ph><ph start="89530" end="89620" type="V"></ph><ph start="89620" end="89680" type="m"></ph><ph start="89680" end="89720" type="b"></ph><ph start="89720" end="89810" type="3`"></ph></n></t> <t>of<n pronunciation="of" start="89440" end="89810"><ph start="89810" end="89840" type="V"></ph><ph start="89840" end="89870" type="v"></ph></n></t> <t>plugins<n pronunciation="plugins" start="89810" end="89920"><ph start="89920" end="90000" type="p"></ph><ph start="90000" end="90030" type="l"></ph><ph start="90030" end="90110" type="V"></ph><ph start="90110" end="90140" type="g"></ph><ph start="90140" end="90330" type="i:"></ph><ph start="90330" end="90380" type="n"></ph><ph start="90380" end="90480" type="z"></ph></n></t> <t>are<n pronunciation="are" start="89920" end="90480"><ph start="90480" end="90610" type="A:"></ph><ph start="90610" end="90640" type="r"></ph></n></t> <t>included<n pronunciation="included" start="90480" end="90680"><ph start="90640" end="90710" type="I"></ph><ph start="90710" end="90770" type="n"></ph><ph start="90770" end="90850" type="k"></ph><ph start="90850" end="90880" type="l"></ph><ph start="90880" end="91000" type="u"></ph><ph start="91000" end="91080" type="d"></ph><ph start="91080" end="91110" type="V"></ph><ph start="91110" end="91190" type="d"></ph></n></t> <t>in<n pronunciation="in" start="90680" end="91180"><ph start="91190" end="91230" type="I"></ph><ph start="91230" end="91310" type="n"></ph></n></t> <t>gedit<n pronunciation="gedit" start="91180" end="91270"><ph start="91310" end="91400" type="g"></ph><ph start="91400" end="91430" type="E"></ph><ph start="91430" end="91500" type="d"></ph><ph start="91500" end="91550" type="V"></ph><ph start="91550" end="91630" type="t"></ph></n></t> <t>itself<n pronunciation="itself" start="91270" end="91640"><ph start="91630" end="91710" type="I"></ph><ph start="91710" end="91800" type="t"></ph><ph start="91800" end="91850" type="s"></ph><ph start="91850" end="91990" type="E"></ph><ph start="91990" end="92090" type="l"></ph><ph start="92090" end="92120" type="f"></ph></n></t><t>,</t> <t>with<n pronunciation="with" start="92290" end="92540"><ph start="92550" end="92590" type="w"></ph><ph start="92590" end="92620" type="I"></ph><ph start="92620" end="92665" type="T"></ph></n></t> <t>more<n pronunciation="more" start="92540" end="92650"><ph start="92665" end="92760" type="m"></ph><ph start="92760" end="92890" type="O:"></ph><ph start="92890" end="92920" type="r"></ph></n></t> <t>plugins<n pronunciation="plugins" start="92650" end="92900"><ph start="92920" end="92980" type="p"></ph><ph start="92980" end="93010" type="l"></ph><ph start="93010" end="93060" type="V"></ph><ph start="93060" end="93120" type="g"></ph><ph start="93120" end="93240" type="I"></ph><ph start="93240" end="93300" type="n"></ph><ph start="93300" end="93380" type="z"></ph></n></t> <t>in<n pronunciation="in" start="92900" end="93370"><ph start="93380" end="93410" type="I"></ph><ph start="93410" end="93440" type="n"></ph></n></t> <t>the<n pronunciation="the" start="93370" end="93440"><ph start="93440" end="93470" type="D"></ph><ph start="93470" end="93520" type="V"></ph></n></t> <t>gedit-plugins<n pronunciation="gedit" start="93440" end="93530"><ph start="93520" end="93640" type="g"></ph><ph start="93640" end="93700" type="I"></ph><ph start="93700" end="93770" type="d"></ph><ph start="93770" end="93800" type="V"></ph><ph start="93800" end="93905" type="t"></ph></n><n pronunciation="plugins" start="93530" end="93880"><ph start="93905" end="93950" type="p"></ph><ph start="93950" end="93990" type="l"></ph><ph start="93990" end="94050" type="V"></ph><ph start="94050" end="94080" type="g"></ph><ph start="94080" end="94230" type="i:"></ph><ph start="94230" end="94270" type="n"></ph><ph start="94270" end="94340" type="z"></ph></n></t> <t>package<n pronunciation="package" start="93880" end="94330"><ph start="94340" end="94430" type="p"></ph><ph start="94430" end="94550" type="{"></ph><ph start="94550" end="94590" type="k"></ph><ph start="94590" end="94670" type="I"></ph><ph start="94670" end="94780" type="dZ"></ph></n></t> <t>and<n pronunciation="and" start="94330" end="94770"><ph start="94780" end="94880" type="I"></ph><ph start="94880" end="94910" type="n"></ph></n></t> <t>online<n pronunciation="online" start="94770" end="94990"><ph start="94910" end="94940" type="@"></ph><ph start="94940" end="94990" type="n"></ph><ph start="94990" end="95180" type="l"></ph><ph start="95180" end="95220" type="aI"></ph><ph start="95220" end="95250" type="n"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>3<n pronunciation="three" /></t><t>]</t></s></ignored></p>
+<p><s><t>gedit<n pronunciation="gedit" start="95980" end="96010" /></t> <t>has<n pronunciation="has" start="96390" end="96570" /></t> <t>an<n pronunciation="an" start="96570" end="96700" /></t> <t>optional<n pronunciation="optional" start="96700" end="97230" /></t> <t>side<n pronunciation="side" start="97230" end="97580" /></t> <t>pane<n pronunciation="pane" start="97580" end="98000" /></t> <t>displaying<n pronunciation="displaying" start="98000" end="98630" /></t> <t>the<n pronunciation="the" /></t> <t>list<n pronunciation="list" /></t> <t>of<n pronunciation="of" /></t> <t>open<n pronunciation="open" /></t> <t>files<n pronunciation="files" /></t> <t>and<n pronunciation="and" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>a<n pronunciation="a" /></t> <t>different<n pronunciation="different" /></t> <t>tab<n pronunciation="tab" /></t> <t>of<n pronunciation="of" /></t> <t>the<n pronunciation="the" /></t> <t>side<n pronunciation="side" /></t> <t>pane<n pronunciation="pane" /></t><t>)</t> <t>a<n pronunciation="a" /></t> <t>file<n pronunciation="file" /></t> <t>browser<n pronunciation="browser" /></t><t>.</t></s> <s><t>It<n pronunciation="It" /></t> <t>also<n pronunciation="also" /></t> <t>has<n pronunciation="has" /></t> <t>an<n pronunciation="an" /></t> <t>optional<n pronunciation="optional" start="102530" end="103030" /></t> <t>bottom<n pronunciation="bottom" start="103030" end="103350" /></t> <t>pane<n pronunciation="pane" start="103350" end="103660" /></t> <t>with<n pronunciation="with" start="103660" end="103810" /></t> <t>a<n pronunciation="a" start="103810" end="103880" /></t> <t>Python<n pronunciation="Python" start="103880" end="104320" /></t> <t>console<n pronunciation="console" start="104320" end="105200" /></t> <t>and<n pronunciation="and" start="105430" end="105800" /></t> <t>(</t><t>using<n pronunciation="using" /></t> <t>gedit-plugins<n pronunciation="gedit" /><n pronunciation="plugins" /></t><t>)</t> <t>terminal<n pronunciation="terminal" start="105870" end="106610" /></t><t>.</t> <t>gedit<n pronunciation="gedit" start="107070" end="107460" /></t> <t>automatically<n pronunciation="automatically" start="107460" end="108280" /></t> <t>detects<n pronunciation="detects" start="108280" end="108980" /></t> <t>when<n pronunciation="when" start="109160" end="109320" /></t> <t>an<n pronunciation="an" /></t> <t>open<n pronunciation="open" /></t> <t>file<n pronunciation="file" /></t> <t>is<n pronunciation="is" /></t> <t>modified<n pronunciation="modified" /></t> <t>on<n pronunciation="on" /></t> <t>disk<n pronunciation="disk" /></t> <t>by<n pronunciation="by" /></t> <t>another<n pronunciation="another" /></t> <t>application<n pronunciation="application" /></t> <t>and<n pronunciation="and" /></t> <t>offers<n pronunciation="offers" /></t> <t>to<n pronunciation="to" /></t> <t>reload<n pronunciation="reload" /></t> <t>that<n pronunciation="that" /></t> <t>file<n pronunciation="file" /></t><t>.</t></s> <s><t>Using<n pronunciation="Using" /></t> <t>a<n pronunciation="a" /></t> <t>plugin<n pronunciation="plugin" /></t> <t>(</t><t>in<n pronunciation="in" /></t> <t>gedit-plugins<n pronunciation="gedit" /><n pronunciation="plugins" /></t> <t>package<n pronunciation="package" /></t><t>)</t><t>,</t> <t>gedit<n pronunciation="gedit" /></t> <t>can<n pronunciation="can" /></t> <t>save<n pronunciation="save" /></t> <t>and<n pronunciation="and" /></t> <t>load<n pronunciation="load" /></t> <t>sessions<n pronunciation="sessions" /></t><t>,</t> <t>which<n pronunciation="which" /></t> <t>are<n pronunciation="are" /></t> <t>lists<n pronunciation="lists" /></t> <t>of<n pronunciation="of" /></t> <t>currently<n pronunciation="currently" /></t> <t>open<n pronunciation="open" /></t> <t>tabs<n pronunciation="tabs" /></t><t>.</t></s><s><t>[</t><t>citation<n pronunciation="citation" /></t> <t>needed<n pronunciation="needed" /></t><t>]</t></s></p>
+<p><s><t>gedit<n pronunciation="gedit" /></t> <t>supports<n pronunciation="supports" start="121650" end="122150" /></t> <t>printing<n pronunciation="printing" start="122150" end="122830" /></t><t>,</t> <t>including<n pronunciation="including" start="122980" end="123470" /></t> <t>print<n pronunciation="print" start="123470" end="123800" /></t> <t>preview<n pronunciation="preview" start="123800" end="124390" /></t> <t>and<n pronunciation="and" start="124660" end="124900" /></t> <t>printing<n pronunciation="printing" start="124900" end="125340" /></t> <t>to<n pronunciation="to" start="125340" end="125460" /></t> <t>PostScript<n pronunciation="PostScript" start="125460" end="126270" /></t> <t>and<n pronunciation="and" start="126270" end="126500" /></t> <t>PDF<n pronunciation="P" start="126500" end="126800" /><n pronunciation="D" /><n pronunciation="F" start="126800" end="127060" /></t> <t>files<n pronunciation="files" start="127060" end="127610" /></t><t>.</t></s> <s><t>Printing<n pronunciation="Printing" start="127920" end="128290"><ph start="127950" end="128030" type="p"></ph><ph start="128030" end="128070" type="r"></ph><ph start="128070" end="128120" type="I"></ph><ph start="128120" end="128150" type="n"></ph><ph start="128150" end="128190" type="I"></ph><ph start="128190" end="128290" type="N"></ph></n></t> <t>options<n pronunciation="options" start="128310" end="128720"><ph start="128290" end="128460" type="A:"></ph><ph start="128460" end="128500" type="p"></ph><ph start="128500" end="128600" type="S"></ph><ph start="128600" end="128650" type="V"></ph><ph start="128650" end="128680" type="n"></ph><ph start="128680" end="128720" type="z"></ph></n></t> <t>include<n pronunciation="include" start="128720" end="129190"><ph start="128720" end="128750" type="I"></ph><ph start="128750" end="128860" type="n"></ph><ph start="128860" end="128930" type="k"></ph><ph start="128930" end="128960" type="l"></ph><ph start="128960" end="129110" type="u"></ph><ph start="129110" end="129210" type="d"></ph></n></t> <t>text<n pronunciation="text" start="129190" end="129590"><ph start="129210" end="129280" type="t"></ph><ph start="129280" end="129400" type="E"></ph><ph start="129400" end="129460" type="k"></ph><ph start="129460" end="129540" type="s"></ph><ph start="129540" end="129590" type="t"></ph></n></t> <t>font<n pronunciation="font" start="129590" end="130110"><ph start="129590" end="129640" type="f"></ph><ph start="129640" end="129930" type="A:"></ph><ph start="129930" end="130010" type="n"></ph><ph start="130010" end="130070" type="t"></ph></n></t><t>,</t> <t>and<n pronunciation="and" start="130270" end="130470"><ph start="130330" end="130370" type="I"></ph><ph start="130370" end="130480" type="n"></ph></n></t> <t>page<n pronunciation="page" start="130470" end="130750"><ph start="130480" end="130540" type="p"></ph><ph start="130540" end="130680" type="eI"></ph><ph start="130680" end="130750" type="dZ"></ph></n></t> <t>size<n pronunciation="size" start="130750" end="131410"><ph start="130750" end="130880" type="s"></ph><ph start="130880" end="131150" type="aI"></ph><ph start="131150" end="131390" type="z"></ph></n></t><t>,</t> <t>orientation<n pronunciation="orientation" start="131670" end="132690"><ph start="131740" end="131830" type="O:"></ph><ph start="131830" end="131890" type="r"></ph><ph start="131890" end="131990" type="i:"></ph><ph start="131990" end="132020" type="E"></ph><ph start="132020" end="132060" type="n"></ph><ph start="132060" end="132150" type="t"></ph><ph start="132150" end="132300" type="eI"></ph><ph start="132300" end="132430" type="S"></ph><ph start="132430" end="132470" type="V"></ph><ph start="132470" end="132510" type="n"></ph></n></t><t>,</t> <t>margins<n pronunciation="margins" start="132690" end="133510"><ph start="132510" end="132540" type="m"></ph><ph start="132540" end="132960" type="A:"></ph><ph start="132960" end="132990" type="r"></ph><ph start="132990" end="133080" type="dZ"></ph><ph start="133080" end="133200" type="V"></ph><ph start="133200" end="133280" type="n"></ph><ph start="133280" end="133500" type="z"></ph></n></t><t>,</t> <t>optional<n pronunciation="optional" start="133560" end="134070"><ph start="133630" end="133750" type="A:"></ph><ph start="133750" end="133780" type="p"></ph><ph start="133780" end="133890" type="S"></ph><ph start="133890" end="133930" type="V"></ph><ph start="133930" end="133960" type="n"></ph><ph start="133960" end="133990" type="V"></ph><ph start="133990" end="134070" type="l"></ph></n></t> <t>printing<n pronunciation="printing" start="134070" end="134570"><ph start="134070" end="134210" type="p"></ph><ph start="134210" end="134260" type="r"></ph><ph start="134260" end="134330" type="I"></ph><ph start="134330" end="134390" type="n"></ph><ph start="134390" end="134430" type="I"></ph><ph start="134430" end="134540" type="N"></ph></n></t> <t>of<n pronunciation="of" start="134570" end="134730"><ph start="134540" end="134660" type="V"></ph><ph start="134660" end="134700" type="v"></ph></n></t> <t>page<n pronunciation="page" start="134730" end="135070"><ph start="134780" end="134840" type="p"></ph><ph start="134840" end="134980" type="eI"></ph><ph start="134980" end="135090" type="dZ"></ph></n></t> <t>headers<n pronunciation="headers" start="135070" end="135490"><ph start="135090" end="135130" type="h"></ph><ph start="135130" end="135190" type="E"></ph><ph start="135190" end="135250" type="d"></ph><ph start="135250" end="135380" type="3`"></ph><ph start="135380" end="135540" type="z"></ph></n></t> <t>and<n pronunciation="and" start="135490" end="135710"><ph start="135540" end="135600" type="{"></ph><ph start="135600" end="135680" type="n"></ph></n></t> <t>line<n pronunciation="line" start="135710" end="135990"><ph start="135680" end="135760" type="l"></ph><ph start="135760" end="135910" type="aI"></ph><ph start="135910" end="135990" type="n"></ph></n></t> <t>numbers<n pronunciation="numbers" start="135990" end="136620"><ph start="135990" end="136040" type="n"></ph><ph start="136040" end="136140" type="V"></ph><ph start="136140" end="136180" type="m"></ph><ph start="136180" end="136260" type="b"></ph><ph start="136260" end="136390" type="3`"></ph><ph start="136390" end="136610" type="z"></ph></n></t><t>,</t> <t>as<n pronunciation="as" start="136960" end="137230"><ph start="137010" end="137090" type="?"></ph><ph start="137090" end="137140" type="V"></ph><ph start="137140" end="137230" type="s"></ph></n></t> <t>well<n pronunciation="well" start="137230" end="137570"><ph start="137280" end="137340" type="w"></ph><ph start="137340" end="137440" type="E"></ph><ph start="137440" end="137560" type="l"></ph></n></t> <t>as<n pronunciation="as" start="137570" end="137720"><ph start="137560" end="137660" type="V"></ph><ph start="137660" end="137710" type="s"></ph></n></t> <t>syntax<n pronunciation="syntax" start="137720" end="138170"><ph start="137710" end="137840" type="s"></ph><ph start="137840" end="137890" type="I"></ph><ph start="137890" end="137940" type="n"></ph><ph start="137940" end="137970" type="t"></ph><ph start="137970" end="138050" type="{"></ph><ph start="138050" end="138090" type="k"></ph><ph start="138090" end="138190" type="s"></ph></n></t> <t>highlighting<n pronunciation="highlighting" start="138170" end="138850"><ph start="138190" end="138240" type="h"></ph><ph start="138240" end="138340" type="aI"></ph><ph start="138340" end="138440" type="l"></ph><ph start="138440" end="138540" type="aI"></ph><ph start="138540" end="138580" type="4"></ph><ph start="138580" end="138660" type="I"></ph><ph start="138660" end="138790" type="N"></ph></n></t><t>.</t></s><s><t>[</t><t>citation<n pronunciation="citation" start="139200" end="139670" /></t> <t>needed<n pronunciation="needed" /></t><t>]</t></s></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>Architecture<n pronunciation="Architecture" start="140230" end="141140"><ph start="140230" end="140360" type="A:"></ph><ph start="140360" end="140390" type="r"></ph><ph start="140390" end="140480" type="k"></ph><ph start="140480" end="140510" type="V"></ph><ph start="140510" end="140620" type="t"></ph><ph start="140620" end="140750" type="E"></ph><ph start="140750" end="140790" type="k"></ph><ph start="140790" end="140820" type="T"></ph><ph start="140820" end="140920" type="S"></ph><ph start="140920" end="141050" type="3`"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+<p><s><t>Designed<n pronunciation="Designed" start="141580" end="142030"><ph start="141590" end="141630" type="d"></ph><ph start="141630" end="141720" type="I"></ph><ph start="141720" end="141780" type="z"></ph><ph start="141780" end="141930" type="aI"></ph><ph start="141930" end="141990" type="n"></ph><ph start="141990" end="142020" type="d"></ph></n></t> <t>for<n pronunciation="for" start="142030" end="142250"><ph start="142020" end="142110" type="f"></ph><ph start="142110" end="142240" type="3`"></ph></n></t> <t>the<n pronunciation="the"><ph start="142240" end="142280" type="D"></ph><ph start="142280" end="142320" type="V"></ph></n></t> <t>X<n pronunciation="X" start="142480" end="142550"><ph start="142320" end="142400" type="E"></ph><ph start="142400" end="142480" type="k"></ph><ph start="142480" end="142570" type="s"></ph></n></t> <t>Window<n pronunciation="Window" start="142550" end="142900"><ph start="142570" end="142650" type="w"></ph><ph start="142650" end="142690" type="I"></ph><ph start="142690" end="142740" type="n"></ph><ph start="142740" end="142770" type="d"></ph><ph start="142770" end="142910" type="@U"></ph></n></t> <t>System<n pronunciation="System" start="142900" end="143490"><ph start="142910" end="143020" type="s"></ph><ph start="143020" end="143090" type="I"></ph><ph start="143090" end="143170" type="s"></ph><ph start="143170" end="143240" type="t"></ph><ph start="143240" end="143440" type="V"></ph><ph start="143440" end="143470" type="m"></ph></n></t><t>,</t> <t>gedit<n pronunciation="gedit" start="143730" end="144080"><ph start="143790" end="143860" type="g"></ph><ph start="143860" end="143900" type="E"></ph><ph start="143900" end="143950" type="d"></ph><ph start="143950" end="143980" type="V"></ph><ph start="143980" end="144080" type="t"></ph></n></t> <t>uses<n pronunciation="uses" start="144080" end="144390"><ph start="144080" end="144140" type="j"></ph><ph start="144140" end="144210" type="u"></ph><ph start="144210" end="144240" type="s"></ph><ph start="144240" end="144280" type="I"></ph><ph start="144280" end="144390" type="z"></ph></n></t> <t>the<n pronunciation="the"><ph start="144390" end="144420" type="D"></ph><ph start="144420" end="144450" type="V"></ph></n></t> <t>GTK+<n pronunciation="G" start="144450" end="144650"><ph start="144450" end="144560" type="dZ"></ph><ph start="144560" end="144650" type="i:"></ph></n><n pronunciation="T" start="144650" end="144780"><ph start="144650" end="144740" type="t"></ph><ph start="144740" end="144800" type="i:"></ph></n><n pronunciation="K" start="144780" end="145020"><ph start="144800" end="144900" type="k"></ph><ph start="144900" end="145080" type="eI"></ph></n><n pronunciation="plus" start="145020" end="145420"><ph start="145080" end="145140" type="p"></ph><ph start="145140" end="145190" type="l"></ph><ph start="145190" end="145290" type="V"></ph><ph start="145290" end="145440" type="s"></ph></n></t> <t>2.0<n pronunciation="two" start="145420" end="145640"><ph start="145440" end="145530" type="t"></ph><ph start="145530" end="145660" type="u"></ph></n><n pronunciation="point" start="145640" end="145920"><ph start="145660" end="145750" type="p"></ph><ph start="145750" end="145830" type="OI"></ph><ph start="145830" end="145940" type="n"></ph></n><n pronunciation="zero" start="145920" end="146430"><ph start="145940" end="146030" type="z"></ph><ph start="146030" end="146130" type="i:"></ph><ph start="146130" end="146230" type="r"></ph><ph start="146230" end="146450" type="@U"></ph></n></t> <t>and<n pronunciation="and" start="146430" end="146620"><ph start="146450" end="146510" type="{"></ph><ph start="146510" end="146610" type="n"></ph><ph start="146610" end="146650" type="d"></ph></n></t> <t>GNOME<n pronunciation="GNOME" start="146620" end="147000"><ph start="146700" end="146760" type="n"></ph><ph start="146760" end="147010" type="@U"></ph><ph start="147010" end="147080" type="m"></ph></n></t> <t>2.0<n pronunciation="two" start="147060" end="147260"><ph start="147080" end="147210" type="t"></ph><ph start="147210" end="147270" type="u"></ph></n><n pronunciation="point" start="147260" end="147470"><ph start="147270" end="147350" type="p"></ph><ph start="147350" end="147420" type="OI"></ph><ph start="147420" end="147480" type="n"></ph></n><n pronunciation="zero" start="147470" end="147800"><ph start="147480" end="147560" type="z"></ph><ph start="147560" end="147650" type="i:"></ph><ph start="147650" end="147700" type="r"></ph><ph start="147700" end="147800" type="@U"></ph></n></t> <t>libraries<n pronunciation="libraries" start="147960" end="147990"><ph start="147800" end="147850" type="l"></ph><ph start="147850" end="147930" type="aI"></ph><ph start="147930" end="147990" type="b"></ph><ph start="147990" end="148050" type="r"></ph><ph start="148050" end="148080" type="E"></ph><ph start="148080" end="148170" type="r"></ph><ph start="148170" end="148220" type="i:"></ph><ph start="148220" end="148250" type="z"></ph></n></t><t>.</t></s> <s><t>The<n pronunciation="The" /></t> <t>GNOME<n pronunciation="GNOME" start="148870" end="149220" /></t> <t>integration<n pronunciation="integration" start="149220" end="149820" /></t> <t>includes<n pronunciation="includes" start="149820" end="150240" /></t> <t>drag<n pronunciation="drag" start="150240" end="150560" /></t> <t>and<n pronunciation="and" start="150560" end="150680" /></t> <t>drop<n pronunciation="drop" start="150680" end="151130" /></t> <t>to<n pronunciation="to" start="151130" end="151390" /></t> <t>and<n pronunciation="and" start="151480" end="151690" /></t> <t>from<n pronunciation="from" start="151690" end="151990" /></t> <t>Nautilus<n pronunciation="Nautilus" start="151990" end="152590" /></t><t>,</t> <t>the<n pronunciation="the" start="152590" end="152660" /></t> <t>GNOME<n pronunciation="GNOME" start="152660" end="152970" /></t> <t>file<n pronunciation="file" start="152970" end="153270" /></t> <t>manager<n pronunciation="manager" start="153270" end="153640" /></t><t>.</t></s></p>
+<p><s><t>gedit<n pronunciation="gedit" start="154320" end="154590"><ph start="154320" end="154360" type="g"></ph><ph start="154360" end="154440" type="I"></ph><ph start="154440" end="154500" type="d"></ph><ph start="154500" end="154530" type="V"></ph><ph start="154530" end="154630" type="t"></ph></n></t> <t>uses<n pronunciation="uses" start="154630" end="155050"><ph start="154630" end="154720" type="j"></ph><ph start="154720" end="154850" type="u"></ph><ph start="154850" end="154920" type="s"></ph><ph start="154920" end="154950" type="I"></ph><ph start="154950" end="155070" type="z"></ph></n></t> <t>the<n pronunciation="the" start="155050" end="155190"><ph start="155070" end="155140" type="D"></ph><ph start="155140" end="155190" type="V"></ph></n></t> <t>GNOME<n pronunciation="GNOME" start="155190" end="155620"><ph start="155240" end="155320" type="n"></ph><ph start="155320" end="155560" type="@U"></ph><ph start="155560" end="155590" type="m"></ph></n></t> <t>help<n pronunciation="help" start="155620" end="155850"><ph start="155590" end="155680" type="h-"></ph><ph start="155680" end="155740" type="E"></ph><ph start="155740" end="155830" type="l"></ph></n></t> <t>system<n pronunciation="system" start="155810" end="156190"><ph start="155830" end="155960" type="s"></ph><ph start="155960" end="156020" type="I"></ph><ph start="156020" end="156080" type="s"></ph><ph start="156080" end="156130" type="t"></ph><ph start="156130" end="156210" type="V"></ph><ph start="156210" end="156280" type="m"></ph></n></t> <t>for<n pronunciation="for" start="156260" end="156390"><ph start="156280" end="156360" type="f"></ph><ph start="156360" end="156400" type="3`"></ph></n></t> <t>documentation<n pronunciation="documentation" start="156410" end="157440"><ph start="156400" end="156480" type="d"></ph><ph start="156480" end="156560" type="A:"></ph><ph start="156560" end="156670" type="k"></ph><ph start="156670" end="156700" type="j"></ph><ph start="156700" end="156730" type="V"></ph><ph start="156730" end="156770" type="m"></ph><ph start="156770" end="156800" type="E"></ph><ph start="156800" end="156880" type="n"></ph><ph start="156880" end="156950" type="t"></ph><ph start="156950" end="157100" type="eI"></ph><ph start="157100" end="157240" type="S"></ph><ph start="157240" end="157310" type="V"></ph><ph start="157310" end="157420" type="n"></ph></n></t><t>.</t></s> <s><t>It<n pronunciation="It" start="157710" end="157940"><ph start="157760" end="157860" type="I"></ph><ph start="157860" end="157910" type="4"></ph></n></t> <t>also<n pronunciation="also" start="157940" end="158320"><ph start="157910" end="158000" type="O:"></ph><ph start="158000" end="158140" type="l"></ph><ph start="158140" end="158270" type="s"></ph><ph start="158270" end="158310" type="U"></ph></n></t> <t>uses<n pronunciation="uses" start="158320" end="158760"><ph start="158310" end="158420" type="j"></ph><ph start="158420" end="158510" type="u"></ph><ph start="158510" end="158610" type="s"></ph><ph start="158610" end="158640" type="I"></ph><ph start="158640" end="158800" type="z"></ph></n></t> <t>virtual<n pronunciation="virtual" start="158760" end="159230"><ph start="158800" end="158860" type="v"></ph><ph start="158860" end="158940" type="3`"></ph><ph start="158940" end="158970" type="T"></ph><ph start="158970" end="159060" type="S"></ph><ph start="159060" end="159090" type="u"></ph><ph start="159090" end="159120" type="V"></ph><ph start="159120" end="159230" type="l"></ph></n></t> <t>file<n pronunciation="file" start="159230" end="159510"><ph start="159280" end="159340" type="f"></ph><ph start="159340" end="159470" type="aI"></ph><ph start="159470" end="159500" type="l"></ph></n></t> <t>system<n pronunciation="system" start="159510" end="160060"><ph start="159500" end="159650" type="s"></ph><ph start="159650" end="159710" type="I"></ph><ph start="159710" end="159780" type="s"></ph><ph start="159780" end="159850" type="t"></ph><ph start="159850" end="159990" type="V"></ph><ph start="159990" end="160040" type="m"></ph></n></t> <t>and<n pronunciation="and" start="160060" end="160240"><ph start="160040" end="160160" type="I"></ph><ph start="160160" end="160220" type="n"></ph><ph start="160220" end="160280" type="d"></ph></n></t> <t>GNOME<n pronunciation="GNOME"><ph start="160330" end="160370" type="n"></ph><ph start="160370" end="160560" type="@U"></ph><ph start="160560" end="160610" type="m"></ph></n></t> <t>printing<n pronunciation="printing" start="160570" end="161010"><ph start="160610" end="160690" type="p"></ph><ph start="160690" end="160730" type="r"></ph><ph start="160730" end="160800" type="I"></ph><ph start="160800" end="160870" type="n"></ph><ph start="160870" end="160900" type="I"></ph><ph start="160900" end="161030" type="N"></ph></n></t> <t>framework<n pronunciation="framework" start="161010" end="161700"><ph start="161030" end="161110" type="f"></ph><ph start="161110" end="161160" type="r"></ph><ph start="161160" end="161260" type="eI"></ph><ph start="161260" end="161330" type="m"></ph><ph start="161330" end="161410" type="w"></ph><ph start="161410" end="161540" type="3`"></ph><ph start="161540" end="161630" type="k"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>4<n pronunciation="four" /></t><t>]</t></s></ignored></p>
+<p><s><t>In<n pronunciation="In" start="162350" end="162490"><ph start="162380" end="162460" type="I"></ph><ph start="162460" end="162490" type="n"></ph></n></t> <t>December<n pronunciation="December" start="162490" end="162980"><ph start="162490" end="162520" type="d"></ph><ph start="162520" end="162600" type="I"></ph><ph start="162600" end="162700" type="s"></ph><ph start="162700" end="162760" type="E"></ph><ph start="162760" end="162840" type="m"></ph><ph start="162840" end="162890" type="b"></ph><ph start="162890" end="162930" type="3`"></ph></n></t> <t>2008<n pronunciation="two" start="162980" end="163140"><ph start="162930" end="163050" type="t"></ph><ph start="163050" end="163130" type="u"></ph></n><n pronunciation="thousand" start="163140" end="163620"><ph start="163130" end="163230" type="T"></ph><ph start="163230" end="163420" type="aU"></ph><ph start="163420" end="163480" type="z"></ph><ph start="163480" end="163530" type="V"></ph><ph start="163530" end="163560" type="n"></ph><ph start="163560" end="163590" type="d"></ph></n><n pronunciation="eight" start="163620" end="164050"><ph start="163590" end="163800" type="eI"></ph><ph start="163800" end="163930" type="t"></ph></n></t><t>,</t> <t>gedit<n pronunciation="gedit" start="164320" end="164610"><ph start="164350" end="164420" type="g"></ph><ph start="164420" end="164540" type="I"></ph><ph start="164540" end="164570" type="d"></ph><ph start="164570" end="164600" type="V"></ph></n></t> <t>binaries<n pronunciation="binaries" start="164610" end="165130"><ph start="164600" end="164690" type="b"></ph><ph start="164690" end="164830" type="aI"></ph><ph start="164830" end="164870" type="n"></ph><ph start="164870" end="164910" type="V"></ph><ph start="164910" end="164980" type="r"></ph><ph start="164980" end="165080" type="i:"></ph><ph start="165080" end="165185" type="z"></ph></n></t> <t>were<n pronunciation="were"><ph start="165185" end="165220" type="w"></ph><ph start="165220" end="165280" type="3`"></ph></n></t> <t>made<n pronunciation="made" start="165290" end="165520"><ph start="165280" end="165390" type="m"></ph><ph start="165390" end="165490" type="eI"></ph><ph start="165490" end="165530" type="d"></ph></n></t> <t>available<n pronunciation="available" start="165520" end="166110"><ph start="165530" end="165570" type="V"></ph><ph start="165570" end="165650" type="v"></ph><ph start="165650" end="165780" type="eI"></ph><ph start="165780" end="165820" type="l"></ph><ph start="165820" end="165870" type="V"></ph><ph start="165870" end="165960" type="b"></ph><ph start="165960" end="165990" type="V"></ph><ph start="165990" end="166100" type="l"></ph></n></t> <t>for<n pronunciation="for" start="166110" end="166300"><ph start="166160" end="166240" type="f"></ph><ph start="166240" end="166280" type="3`"></ph></n></t> <t>Mac<n pronunciation="Mac" start="166300" end="166580"><ph start="166280" end="166420" type="m"></ph><ph start="166420" end="166510" type="{"></ph><ph start="166510" end="166590" type="k"></ph></n></t> <t>OS<n pronunciation="OS" start="166580" end="166820"><ph start="166590" end="166720" type="@U"></ph><ph start="166720" end="166810" type="s"></ph></n></t> <t>X<n pronunciation="X" start="166820" end="167090"><ph start="166810" end="166980" type="E"></ph><ph start="166980" end="167070" type="k"></ph><ph start="167070" end="167240" type="s"></ph></n></t> <t>and<n pronunciation="and" start="167030" end="167230"><ph start="167300" end="167350" type="I"></ph><ph start="167350" end="167440" type="n"></ph><ph start="167440" end="167470" type="d"></ph></n></t> <t>Microsoft<n pronunciation="Microsoft" start="167420" end="168050"><ph start="167470" end="167530" type="m"></ph><ph start="167530" end="167660" type="aI"></ph><ph start="167660" end="167690" type="k"></ph><ph start="167690" end="167720" type="r"></ph><ph start="167720" end="167780" type="@U"></ph><ph start="167780" end="167870" type="s"></ph><ph start="167870" end="167940" type="O:"></ph><ph start="167940" end="167970" type="f"></ph><ph start="167970" end="168000" type="t"></ph></n></t> <t>Windows<n pronunciation="Windows" start="168050" end="168690"><ph start="168070" end="168140" type="w"></ph><ph start="168140" end="168180" type="I"></ph><ph start="168180" end="168250" type="n"></ph><ph start="168250" end="168290" type="d"></ph><ph start="168290" end="168490" type="@U"></ph><ph start="168490" end="168700" type="z"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>5<n pronunciation="five" /></t><t>]</t></s></ignored></p>
+</sectioncontent></section><section level="2"><sectiontitle><t>See<n pronunciation="See" start="168860" end="169470"><ph start="169220" end="169350" type="s"></ph><ph start="169350" end="169480" type="i:"></ph></n></t> <t>also<n pronunciation="also" start="169470" end="170090"><ph start="169480" end="169610" type="O:"></ph><ph start="169610" end="169680" type="l"></ph><ph start="169680" end="169820" type="s"></ph><ph start="169820" end="170120" type="@U"></ph></n></t><ignored><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></ignored></sectiontitle><sectioncontent>
+
+
+<p><s><t>Free<n pronunciation="Free" /></t> <t>software<n pronunciation="software" /></t> <t>portal<n pronunciation="portal" /></t></s></p>
+
+
+
+<p><s><t>List<n pronunciation="List" start="170450" end="170780"><ph start="170480" end="170530" type="l"></ph><ph start="170530" end="170650" type="I"></ph><ph start="170650" end="170730" type="s"></ph><ph start="170730" end="170780" type="t"></ph></n></t> <t>of<n pronunciation="of" start="170780" end="170920"><ph start="170780" end="170880" type="V"></ph><ph start="170880" end="170910" type="v"></ph></n></t> <t>text<n pronunciation="text" start="170920" end="171270"><ph start="170910" end="170990" type="t"></ph><ph start="170990" end="171080" type="E"></ph><ph start="171080" end="171120" type="k"></ph><ph start="171120" end="171200" type="s"></ph><ph start="171200" end="171250" type="t"></ph></n></t> <t>editors<n pronunciation="editors" start="171270" end="171890"><ph start="171250" end="171320" type="E"></ph><ph start="171320" end="171370" type="4"></ph><ph start="171370" end="171410" type="I"></ph><ph start="171410" end="171520" type="t"></ph><ph start="171520" end="171640" type="3`"></ph><ph start="171640" end="171880" type="z"></ph></n></t>
+<t>Comparison<n pronunciation="Comparison" start="172220" end="172830"><ph start="172190" end="172310" type="k"></ph><ph start="172310" end="172370" type="V"></ph><ph start="172370" end="172420" type="m"></ph><ph start="172420" end="172480" type="p"></ph><ph start="172480" end="172560" type="E"></ph><ph start="172560" end="172610" type="r"></ph><ph start="172610" end="172710" type="V"></ph><ph start="172710" end="172790" type="s"></ph><ph start="172790" end="172850" type="V"></ph><ph start="172850" end="172890" type="n"></ph></n></t> <t>of<n pronunciation="of" start="172830" end="173050"><ph start="172890" end="172990" type="V"></ph><ph start="172990" end="173020" type="v"></ph></n></t> <t>text<n pronunciation="text" start="173050" end="173380"><ph start="173020" end="173140" type="t"></ph><ph start="173140" end="173200" type="E"></ph><ph start="173200" end="173260" type="k"></ph><ph start="173260" end="173380" type="s"></ph></n></t> <t>editors<n pronunciation="editors" start="173380" end="173950"><ph start="173380" end="173440" type="E"></ph><ph start="173440" end="173480" type="4"></ph><ph start="173480" end="173530" type="I"></ph><ph start="173530" end="173620" type="t"></ph><ph start="173620" end="173740" type="3`"></ph><ph start="173740" end="173910" type="z"></ph></n></t></s></p>
+</sectioncontent></section>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>The<n pronunciation="The" /></t> <t>GNOME<n pronunciation="GNOME" /></t> <t>Project<n pronunciation="Project" /></t> <t>(</t><t>2009<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="nine" /></t><t>)</t><t>.</t></s> <s><t>"</t><t>What<n pronunciation="What" /></t> <t>is<n pronunciation="is" /></t> <t>gedit<n pronunciation="gedit" /></t><t>"</t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>2009-03-16<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="nine" /><n pronunciation="zero" /><n pronunciation="three" /><n pronunciation="one" /><n pronunciation="six" /></t><t>.</t></s>  <s><t>Unknown<n pronunciation="Unknown" /></t> <t>parameter<n pronunciation="parameter" /></t> <t>|<n pronunciation="|" /></t><t>month<n pronunciation="month" /></t><t>=<n pronunciation="equals" /></t> <t>ignored<n pronunciation="ignored" /></t> <t>(</t><t>help<n pronunciation="help" /></t><t>)</t>
+<t>^<n pronunciation="^" /></t> <t>a<n pronunciation="_a" /></t> <t>b<n pronunciation="b" /></t> <t>c<n pronunciation="c" /></t> <t>"</t><t>gedit<n pronunciation="gedit" /></t><t>:</t> <t>a<n pronunciation="a" /></t> <t>powerful<n pronunciation="powerful" /></t><t>,</t> <t>underrated<n pronunciation="underrated" /></t> <t>text<n pronunciation="text" /></t> <t>editor<n pronunciation="editor" /></t> <t>for<n pronunciation="for" /></t> <t>everybody<n pronunciation="everybody" /></t><t>"</t><t>,</t> <t>Free<n pronunciation="Free" /></t> <t>Software<n pronunciation="Software" /></t> <t>Magazine<n pronunciation="Magazine" /></t> <t>15<n pronunciation="15" /></t> <t>February<n pronunciation="February" /></t> <t>2008<n pronunciation="two" /><n pronunciation="thousand" /><n pronunciation="eight" /></t>
+<t>^<n pronunciation="^" /></t> <t>"</t><t>Gedit<n pronunciation="Gedit" /></t> <t>Plugins<n pronunciation="Plugins" /></t><t>"</t><t>.</t></s> <s><t>Live.gnome.org<n pronunciation="Live" /><n pronunciation="dot" /><n pronunciation="gnome" /><n pronunciation="dot" /><n pronunciation="org" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>2009-03-13<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="nine" /><n pronunciation="zero" /><n pronunciation="three" /><n pronunciation="one" /><n pronunciation="three" /></t><t>.</t></s> 
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Free<n pronunciation="Free" /></t> <t>Software<n pronunciation="Software" /></t> <t>Directory<n pronunciation="Directory" /></t> <t>-</t> <t>gedit<n pronunciation="gedit" /></t><t>"</t><t>.</t></s> <s><t>Directory.fsf.org<n pronunciation="Directory" /><n pronunciation="dot" /><n pronunciation="f" /><n pronunciation="s" /><n pronunciation="f" /><n pronunciation="dot" /><n pronunciation="org" /></t><t>.</t></s> <s><t>2005-10-03<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="five" /><n pronunciation="one" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="three" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>2009-03-13<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="nine" /><n pronunciation="zero" /><n pronunciation="three" /><n pronunciation="one" /><n pronunciation="three" /></t><t>.</t></s> 
+<s><t>^<n pronunciation="^" /></t> <t>"</t><t>Club<n pronunciation="Club" /></t> <t>Silencio<n pronunciation="Silencio" /></t> <t>»<n pronunciation="»" /></t> <t>Late<n pronunciation="Late" /></t> <t>Christmas<n pronunciation="Christmas" /></t> <t>gift<n pronunciation="gift" /></t> <t>for<n pronunciation="for" /></t> <t>Windows<n pronunciation="Windows" /></t> <t>users<n pronunciation="users" /></t><t>"</t><t>.</t></s> <s><t>Blogs.gnome.org<n pronunciation="Blogs" /><n pronunciation="dot" /><n pronunciation="gnome" /><n pronunciation="dot" /><n pronunciation="org" /></t><t>.</t></s> <s><t>2008-12-25<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="eight" /><n pronunciation="one" /><n pronunciation="two" /><n pronunciation="two" /><n pronunciation="five" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>2009-03-13<n pronunciation="two" /><n pronunciation="zero" /><n pronunciation="zero" /><n pronunciation="nine" /><n pronunciation="zero" /><n pronunciation="three" /><n pronunciation="one" /><n pronunciation="three" /></t><t>.</t></s></sectioncontent></section></ignored> 
+
+
+
+<ignored><section level="2"><sectiontitle><t>External<n pronunciation="External" /></t> <t>links<n pronunciation="links" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>Wikimedia<n pronunciation="Wikimedia" /></t> <t>Commons<n pronunciation="Commons" /></t> <t>has<n pronunciation="has" /></t> <t>media<n pronunciation="media" /></t> <t>related<n pronunciation="related" /></t> <t>to<n pronunciation="to" /></t> <t>Gedit<n pronunciation="Gedit" /></t><t>.</t></s>
+
+
+
+<p><s><t>Official<n pronunciation="Official" /></t> <t>website<n pronunciation="website" /></t>
+<t>Gedit<n pronunciation="Gedit" /></t> <t>for<n pronunciation="for" /></t> <t>Windows<n pronunciation="Windows" /></t></s></p>
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>GNOME<n pronunciation="GNOME" /></t></s>
+
+
+
+<s><t>Core<n pronunciation="Core" /></t> <t>Applications<n pronunciation="Applications" /></t></s>
+
+
+
+<p><s><t>Boxes<n pronunciation="Boxes" /></t>
+<t>Calculator<n pronunciation="Calculator" /></t>
+<t>Character<n pronunciation="Character" /></t> <t>Map<n pronunciation="Map" /></t>
+<t>Dictionary<n pronunciation="Dictionary" /></t>
+<t>Disks<n pronunciation="Disks" /></t>
+<t>Files<n pronunciation="Files" /></t>
+<t>Software<n pronunciation="Software" /></t>
+<t>Terminal<n pronunciation="Terminal" /></t>
+<t>Videos<n pronunciation="Videos" /></t>
+<t>Web<n pronunciation="Web" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+<s><t>Additional<n pronunciation="Additional" /></t> <t>Applications<n pronunciation="Applications" /></t></s>
+
+
+
+
+<s><t>Development<n pronunciation="Development" /></t></s>
+
+
+
+<p><s><t>Anjuta<n pronunciation="Anjuta" /></t>
+<t>Builder<n pronunciation="Builder" /></t>
+<t>Glade<n pronunciation="Glade" /></t> <t>Interface<n pronunciation="Interface" /></t> <t>Designer<n pronunciation="Designer" /></t>
+<t>Meld<n pronunciation="Meld" /></t>
+<t>GNOME<n pronunciation="GNOME" /></t> <t>Devhelp<n pronunciation="Devhelp" /></t>
+<t>Nemiver<n pronunciation="Nemiver" /></t>
+<t>Geany<n pronunciation="Geany" /></t>
+<t>Gtranslator<n pronunciation="Gtranslator" /></t></s></p>
+
+
+
+
+
+<s><t>Office<n pronunciation="Office" /></t></s>
+
+
+
+<p><s><t>AbiWord<n pronunciation="AbiWord" /></t>
+<t>Dia<n pronunciation="Dia" /></t>
+<t>Gnumeric<n pronunciation="Gnumeric" /></t>
+<t>Evince<n pronunciation="Evince" /></t>
+<t>Evolution<n pronunciation="Evolution" /></t>
+<t>LaTeXila<n pronunciation="LaTeXila" /></t>
+<t>OCRFeeder<n pronunciation="OCRFeeder" /></t></s></p>
+
+
+
+
+
+<s><t>Graphics<n pronunciation="Graphics" /></t></s>
+
+
+
+<p><s><t>Eye<n pronunciation="Eye" /></t> <t>of<n pronunciation="of" /></t> <t>GNOME<n pronunciation="GNOME" /></t>
+<t>F-Spot<n pronunciation="F" /><n pronunciation="Spot" /></t>
+<t>GIMP<n pronunciation="GIMP" /></t>
+<t>gThumb<n pronunciation="gThumb" /></t>
+<t>Inkscape<n pronunciation="Inkscape" /></t>
+<t>Shotwell<n pronunciation="Shotwell" /></t>
+<t>Simple<n pronunciation="Simple" /></t> <t>Scan<n pronunciation="Scan" /></t></s></p>
+
+
+
+
+
+<s><t>Internet<n pronunciation="Internet" /></t></s>
+
+
+
+<p><s><t>Balsa<n pronunciation="Balsa" /></t>
+<t>Empathy<n pronunciation="Empathy" /></t>
+<t>Ekiga<n pronunciation="Ekiga" /></t>
+<t>Gobby<n pronunciation="Gobby" /></t>
+<t>Ring<n pronunciation="Ring" /></t>
+<t>Vino<n pronunciation="Vino" /></t>
+<t>Vinagre<n pronunciation="Vinagre" /></t>
+<t>Transmission-gtk<n pronunciation="Transmission" /><n pronunciation="g" /><n pronunciation="t" /><n pronunciation="k" /></t></s></p>
+
+
+
+
+
+<s><t>Media<n pronunciation="Media" /></t></s>
+
+
+
+<p><s><t>Banshee<n pronunciation="Banshee" /></t>
+<t>Cheese<n pronunciation="Cheese" /></t>
+<t>Pitivi<n pronunciation="Pitivi" /></t>
+<t>Rhythmbox<n pronunciation="Rhythmbox" /></t>
+<t>Sound<n pronunciation="Sound" /></t> <t>Juicer<n pronunciation="Juicer" /></t>
+<t>SoundConverter<n pronunciation="SoundConverter" /></t>
+<t>EasyTag<n pronunciation="EasyTag" /></t></s></p>
+
+
+
+
+
+<s><t>Games<n pronunciation="Games" /></t></s>
+
+
+
+<p><s><t>GNOME<n pronunciation="GNOME" /></t> <t>Games<n pronunciation="Games" /></t></s>
+
+<p><s><t>Chess<n pronunciation="Chess" /></t>
+<t>Mines<n pronunciation="Mines" /></t></s></p>
+
+
+<s><t>gbrainy<n pronunciation="gbrainy" /></t>
+<t>PyChess<n pronunciation="PyChess" /></t></s></p>
+
+
+
+
+
+<s><t>Utilities<n pronunciation="Utilities" /></t></s>
+
+
+
+<p><s><t>Archive<n pronunciation="Archive" /></t> <t>Manager<n pronunciation="Manager" /></t>
+<t>Brasero<n pronunciation="Brasero" /></t>
+<t>dconf-editor<n pronunciation="dconf" /><n pronunciation="editor" /></t>
+<t>gedit<n pronunciation="gedit" /></t>
+<t>gnote<n pronunciation="gnote" /></t>
+<t>GParted<n pronunciation="GParted" /></t>
+<t>Tomboy<n pronunciation="Tomboy" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Platform<n pronunciation="Platform" /></t> <t>components<n pronunciation="components" /></t></s>
+
+
+
+
+<s><t>User<n pronunciation="User" /></t> <t>interface<n pronunciation="interface" /></t></s>
+
+
+
+
+<s><t>GNOME<n pronunciation="GNOME" /></t> <t>3<n pronunciation="three" /></t></s>
+
+
+
+<p><s><t>GDM<n pronunciation="G" /><n pronunciation="D" /><n pronunciation="M" /></t>
+<t>Mutter<n pronunciation="Mutter" /></t>
+<t>GNOME<n pronunciation="GNOME" /></t> <t>Shell<n pronunciation="Shell" /></t>
+<t>Tango<n pronunciation="Tango" /></t> <t>Desktop<n pronunciation="Desktop" /></t> <t>Project<n pronunciation="Project" /></t>
+<t>Orca<n pronunciation="Orca" /></t></s></p>
+
+
+
+
+
+<s><t>GNOME<n pronunciation="GNOME" /></t> <t>2<n pronunciation="two" /></t></s>
+
+
+
+<p><s><t>Metacity<n pronunciation="Metacity" /></t>
+<t>GNOME<n pronunciation="GNOME" /></t> <t>Panel<n pronunciation="Panel" /></t>
+<t>Clearlooks<n pronunciation="Clearlooks" /></t></s></p>
+
+
+
+
+
+<s><t>Other<n pronunciation="Other" /></t></s>
+
+
+
+<p><s><t>Cinnamon<n pronunciation="Cinnamon" /></t>
+<t>MATE<n pronunciation="MATE" /></t>
+<t>Diodon<n pronunciation="Diodon" /></t>
+<t>GNOME<n pronunciation="GNOME" /></t> <t>Do<n pronunciation="Do" /></t>
+<t>Avant<n pronunciation="Avant" /></t> <t>Window<n pronunciation="Window" /></t> <t>Navigator<n pronunciation="Navigator" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>GNOME<n pronunciation="GNOME" /></t> <t>Base<n pronunciation="Base" /></t></s>
+
+
+
+<p><s><t>GTK+<n pronunciation="G" /><n pronunciation="T" /><n pronunciation="K" /><n pronunciation="plus" /></t></s>
+
+<p><s><t>GDK<n pronunciation="G" /><n pronunciation="D" /><n pronunciation="K" /></t>
+<t>ATK<n pronunciation="ATK" /></t>
+<t>Clutter<n pronunciation="Clutter" /></t></s></p>
+
+
+<s><t>Pango<n pronunciation="Pango" /></t>
+<t>GLib<n pronunciation="GLib" /></t></s>
+
+<p><s><t>GObject<n pronunciation="GObject" /></t>
+<t>GIO<n pronunciation="GIO" /></t></s></p>
+
+
+<s><t>IBus<n pronunciation="IBus" /></t></s></p>
+
+
+
+
+
+<s><t>Other<n pronunciation="Other" /></t></s>
+
+
+
+<p><s><t>dconf<n pronunciation="dconf" /></t>
+<t>Genie<n pronunciation="Genie" /></t>
+<t>Keyring<n pronunciation="Keyring" /></t>
+<t>GNOME-DB<n pronunciation="GNOME" /><n pronunciation="D" /><n pronunciation="B" /></t>
+<t>GVfs<n pronunciation="G" /><n pronunciation="V" /><n pronunciation="f" /><n pronunciation="s" /></t></s>
+
+<p><s><t>GnomeVFS<n pronunciation="GnomeVFS" /></t></s></p>
+
+
+<s><t>Librsvg<n pronunciation="Librsvg" /></t>
+<t>Tracker<n pronunciation="Tracker" /></t>
+<t>Vala<n pronunciation="Vala" /></t>
+<t>libxslt<n pronunciation="libxslt" /></t>
+<t>libxml2<n pronunciation="libxml" /><n pronunciation="two" /></t></s></p>
+
+
+
+
+
+<s><t>freedesktop.org<n pronunciation="freedesktop" /><n pronunciation="dot" /><n pronunciation="org" /></t></s>
+
+
+
+<p><s><t>AppStream<n pronunciation="AppStream" /></t>
+<t>D-Bus<n pronunciation="D" /><n pronunciation="Bus" /></t>
+<t>GStreamer<n pronunciation="GStreamer" /></t>
+<t>NetworkManager<n pronunciation="NetworkManager" /></t>
+<t>Poppler<n pronunciation="Poppler" /></t>
+<t>Wayland<n pronunciation="Wayland" /></t>
+<t>X.Org<n pronunciation="X" /><n pronunciation="." /><n pronunciation="Org" /></t> <t>Server<n pronunciation="Server" /></t>
+<t>PulseAudio<n pronunciation="PulseAudio" /></t>
+<t>PackageKit<n pronunciation="PackageKit" /></t>
+<t>HarfBuzz<n pronunciation="HarfBuzz" /></t>
+<t>Cairo<n pronunciation="Cairo" /></t></s></p>
+
+
+
+
+
+
+
+
+<s><t>Community<n pronunciation="Community" /></t></s>
+
+
+
+<p><s><t>GNOME<n pronunciation="GNOME" /></t> <t>Foundation<n pronunciation="Foundation" /></t>
+<t>GUADEC<n pronunciation="GUADEC" /></t>
+<t>The<n pronunciation="The" /></t> <t>GNOME<n pronunciation="GNOME" /></t> <t>Project<n pronunciation="Project" /></t>
+<t>Outreach<n pronunciation="Outreach" /></t> <t>Program<n pronunciation="Program" /></t> <t>for<n pronunciation="for" /></t> <t>Women<n pronunciation="Women" /></t></s></p>
+
+
+
+
+
+<s><t>People<n pronunciation="People" /></t></s>
+
+
+
+<p><s><t>Miguel<n pronunciation="Miguel" /></t> <t>de<n pronunciation="de" /></t> <t>Icaza<n pronunciation="Icaza" /></t>
+<t>Luis<n pronunciation="Luis" /></t> <t>Villa<n pronunciation="Villa" /></t>
+<t>Havoc<n pronunciation="Havoc" /></t> <t>Pennington<n pronunciation="Pennington" /></t>
+<t>Karen<n pronunciation="Karen" /></t> <t>Sandler<n pronunciation="Sandler" /></t></s></p>
+
+
+
+
+
+
+
+
+ <p><s><t>Category<n pronunciation="Category" /></t>
+ <t>Commons<n pronunciation="Commons" /></t></s></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+<s><t>Free<n pronunciation="Free" /></t> <t>and<n pronunciation="and" /></t> <t>open-source<n pronunciation="open" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t></s>
+
+
+
+<s><t>General<n pronunciation="General" /></t></s>
+
+
+
+<p><s><t>Alternative<n pronunciation="Alternative" /></t> <t>terms<n pronunciation="terms" /></t> <t>for<n pronunciation="for" /></t> <t>free<n pronunciation="free" /></t> <t>software<n pronunciation="software" /></t>
+<t>Comparison<n pronunciation="Comparison" /></t> <t>of<n pronunciation="of" /></t> <t>open-source<n pronunciation="open" /><n pronunciation="source" /></t> <t>and<n pronunciation="and" /></t> <t>closed-source<n pronunciation="closed" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t>
+<t>Comparison<n pronunciation="Comparison" /></t> <t>of<n pronunciation="of" /></t> <t>source<n pronunciation="source" /></t> <t>code<n pronunciation="code" /></t> <t>hosting<n pronunciation="hosting" /></t> <t>facilities<n pronunciation="facilities" /></t>
+<t>Free<n pronunciation="Free" /></t> <t>software<n pronunciation="software" /></t>
+<t>Free<n pronunciation="Free" /></t> <t>software<n pronunciation="software" /></t> <t>project<n pronunciation="project" /></t> <t>directories<n pronunciation="directories" /></t>
+<t>Gratis<n pronunciation="Gratis" /></t> <t>versus<n pronunciation="versus" /></t> <t>libre<n pronunciation="libre" /></t>
+<t>Long-term<n pronunciation="Long" /><n pronunciation="term" /></t> <t>support<n pronunciation="support" /></t>
+<t>Open-source<n pronunciation="Open" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t>
+<t>Open-source<n pronunciation="Open" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t> <t>development<n pronunciation="development" /></t>
+<t>Outline<n pronunciation="Outline" /></t></s></p>
+
+
+
+
+
+<s><t>Software<n pronunciation="Software" /></t>
+<t>packages<n pronunciation="packages" /></t></s>
+
+
+
+<p><s><t>Audio<n pronunciation="Audio" /></t>
+<t>Bioinformatics<n pronunciation="Bioinformatics" /></t>
+<t>Codecs<n pronunciation="Codecs" /></t>
+<t>Collaboration<n pronunciation="Collaboration" /></t>
+<t>Configuration<n pronunciation="Configuration" /></t> <t>management<n pronunciation="management" /></t>
+<t>Device<n pronunciation="Device" /></t> <t>drivers<n pronunciation="drivers" /></t></s>
+
+<p><s><t>Graphics<n pronunciation="Graphics" /></t>
+<t>Wireless<n pronunciation="Wireless" /></t></s></p>
+
+
+<s><t>Geophysics<n pronunciation="Geophysics" /></t>
+<t>Health<n pronunciation="Health" /></t>
+<t>Mathematics<n pronunciation="Mathematics" /></t>
+<t>Operating<n pronunciation="Operating" /></t> <t>systems<n pronunciation="systems" /></t>
+<t>Programming<n pronunciation="Programming" /></t> <t>languages<n pronunciation="languages" /></t>
+<t>Routing<n pronunciation="Routing" /></t>
+<t>Statistics<n pronunciation="Statistics" /></t>
+<t>Television<n pronunciation="Television" /></t>
+<t>Video<n pronunciation="Video" /></t> <t>games<n pronunciation="games" /></t>
+<t>Web<n pronunciation="Web" /></t> <t>applications<n pronunciation="applications" /></t></s>
+
+<p><s><t>Content<n pronunciation="Content" /></t> <t>management<n pronunciation="management" /></t> <t>systems<n pronunciation="systems" /></t>
+<t>E-commerce<n pronunciation="E" /><n pronunciation="commerce" /></t></s></p>
+
+
+<s><t>Word<n pronunciation="Word" /></t> <t>processors<n pronunciation="processors" /></t>
+<t>Android<n pronunciation="Android" /></t> <t>apps<n pronunciation="apps" /></t>
+<t>iOS<n pronunciation="iOS" /></t> <t>apps<n pronunciation="apps" /></t>
+<t>Commercial<n pronunciation="Commercial" /></t>
+<t>Trademarked<n pronunciation="Trademarked" /></t>
+<t>Formerly<n pronunciation="Formerly" /></t> <t>proprietary<n pronunciation="proprietary" /></t></s></p>
+
+
+
+
+
+<s><t>Community<n pronunciation="Community" /></t></s>
+
+
+
+<p><s><t>Free<n pronunciation="Free" /></t> <t>software<n pronunciation="software" /></t> <t>movement<n pronunciation="movement" /></t>
+<t>History<n pronunciation="History" /></t>
+<t>Open-source<n pronunciation="Open" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t> <t>movement<n pronunciation="movement" /></t>
+<t>Organizations<n pronunciation="Organizations" /></t>
+<t>Events<n pronunciation="Events" /></t></s></p>
+
+
+
+
+
+<s><t>Licenses<n pronunciation="Licenses" /></t></s>
+
+
+
+<p><s><t>AFL<n pronunciation="AFL" /></t>
+<t>Apache<n pronunciation="Apache" /></t>
+<t>APSL<n pronunciation="APSL" /></t>
+<t>Artistic<n pronunciation="Artistic" /></t>
+<t>Beerware<n pronunciation="Beerware" /></t>
+<t>Boost<n pronunciation="Boost" /></t>
+<t>BSD<n pronunciation="B" /><n pronunciation="S" /><n pronunciation="D" /></t>
+<t>CC0<n pronunciation="CC" /><n pronunciation="zero" /></t>
+<t>CDDL<n pronunciation="C" /><n pronunciation="D" /><n pronunciation="D" /><n pronunciation="L" /></t>
+<t>EPL<n pronunciation="EPL" /></t>
+<t>GNU<n pronunciation="GNU" /></t> <t>GPL<n pronunciation="G" /><n pronunciation="P" /><n pronunciation="L" /></t>
+<t>GNU<n pronunciation="GNU" /></t> <t>LGPL<n pronunciation="L" /><n pronunciation="G" /><n pronunciation="P" /><n pronunciation="L" /></t>
+<t>ISC<n pronunciation="ISC" /></t>
+<t>MIT<n pronunciation="MIT" /></t>
+<t>MPL<n pronunciation="M" /><n pronunciation="P" /><n pronunciation="L" /></t>
+<t>Ms-PL/RL<n pronunciation="mis" /><n pronunciation="P" /><n pronunciation="L" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="R" /><n pronunciation="L" /></t>
+<t>Python<n pronunciation="Python" /></t>
+<t>Python<n pronunciation="Python" /></t> <t>Software<n pronunciation="Software" /></t> <t>Foundation<n pronunciation="Foundation" /></t>
+<t>Sleepycat<n pronunciation="Sleepycat" /></t>
+<t>Unlicense<n pronunciation="Unlicense" /></t>
+<t>WTFPL<n pronunciation="W" /><n pronunciation="T" /><n pronunciation="F" /><n pronunciation="P" /><n pronunciation="L" /></t>
+<t>zlib<n pronunciation="zlib" /></t></s></p>
+
+
+
+
+
+<s><t>License<n pronunciation="License" /></t> <t>types<n pronunciation="types" /></t>
+<t>and<n pronunciation="and" /></t> <t>standards<n pronunciation="standards" /></t></s>
+
+
+
+<p><s><t>Comparison<n pronunciation="Comparison" /></t> <t>of<n pronunciation="of" /></t> <t>free<n pronunciation="free" /></t> <t>and<n pronunciation="and" /></t> <t>open-source<n pronunciation="open" /><n pronunciation="source" /></t> <t>software<n pronunciation="software" /></t> <t>licenses<n pronunciation="licenses" /></t>
+<t>Contributor<n pronunciation="Contributor" /></t> <t>License<n pronunciation="License" /></t> <t>Agreement<n pronunciation="Agreement" /></t>
+<t>Copyfree<n pronunciation="Copyfree" /></t>
+<t>Copyleft<n pronunciation="Copyleft" /></t>
+<t>Debian<n pronunciation="Debian" /></t> <t>Free<n pronunciation="Free" /></t> <t>Software<n pronunciation="Software" /></t> <t>Guidelines<n pronunciation="Guidelines" /></t>
+<t>Definition<n pronunciation="Definition" /></t> <t>of<n pronunciation="of" /></t> <t>Free<n pronunciation="Free" /></t> <t>Cultural<n pronunciation="Cultural" /></t> <t>Works<n pronunciation="Works" /></t>
+<t>Free<n pronunciation="Free" /></t> <t>license<n pronunciation="license" /></t>
+<t>The<n pronunciation="The" /></t> <t>Free<n pronunciation="Free" /></t> <t>Software<n pronunciation="Software" /></t> <t>Definition<n pronunciation="Definition" /></t>
+<t>The<n pronunciation="The" /></t> <t>Open<n pronunciation="Open" /></t> <t>Source<n pronunciation="Source" /></t> <t>Definition<n pronunciation="Definition" /></t>
+<t>Open-source<n pronunciation="Open" /><n pronunciation="source" /></t> <t>license<n pronunciation="license" /></t>
+<t>Permissive<n pronunciation="Permissive" /></t> <t>software<n pronunciation="software" /></t> <t>licence<n pronunciation="licence" /></t>
+<t>Public<n pronunciation="Public" /></t> <t>domain<n pronunciation="domain" /></t>
+<t>Viral<n pronunciation="Viral" /></t> <t>license<n pronunciation="license" /></t></s></p>
+
+
+
+
+
+<s><t>Challenges<n pronunciation="Challenges" /></t></s>
+
+
+
+<p><s><t>Binary<n pronunciation="Binary" /></t> <t>blob<n pronunciation="blob" /></t>
+<t>Digital<n pronunciation="Digital" /></t> <t>rights<n pronunciation="rights" /></t> <t>management<n pronunciation="management" /></t>
+<t>Hardware<n pronunciation="Hardware" /></t> <t>restrictions<n pronunciation="restrictions" /></t>
+<t>License<n pronunciation="License" /></t> <t>proliferation<n pronunciation="proliferation" /></t>
+<t>Mozilla<n pronunciation="Mozilla" /></t> <t>software<n pronunciation="software" /></t> <t>rebranding<n pronunciation="rebranding" /></t>
+<t>Proprietary<n pronunciation="Proprietary" /></t> <t>software<n pronunciation="software" /></t>
+<t>SCO/Linux<n pronunciation="SCO" /><n pronunciation="forward" /><n pronunciation="slash" /><n pronunciation="Linux" /></t> <t>controversies<n pronunciation="controversies" /></t>
+<t>Secure<n pronunciation="Secure" /></t> <t>boot<n pronunciation="boot" /></t>
+<t>Software<n pronunciation="Software" /></t> <t>patents<n pronunciation="patents" /></t>
+<t>Software<n pronunciation="Software" /></t> <t>security<n pronunciation="security" /></t>
+<t>Trusted<n pronunciation="Trusted" /></t> <t>Computing<n pronunciation="Computing" /></t></s></p>
+
+
+
+
+
+<s><t>Related<n pronunciation="Related" /></t> <t>topics<n pronunciation="topics" /></t></s>
+
+
+
+<p><s><t>The<n pronunciation="The" /></t> <t>Cathedral<n pronunciation="Cathedral" /></t> <t>and<n pronunciation="and" /></t> <t>the<n pronunciation="the" /></t> <t>Bazaar<n pronunciation="Bazaar" /></t>
+<t>Forking<n pronunciation="Forking" /></t>
+<t>Microsoft<n pronunciation="Microsoft" /></t> <t>Open<n pronunciation="Open" /></t> <t>Specification<n pronunciation="Specification" /></t> <t>Promise<n pronunciation="Promise" /></t>
+<t>Revolution<n pronunciation="Revolution" /></t> <t>OS<n pronunciation="OS" /></t></s></p>
+
+
+
+
+
+
+
+
+ <p><s><t>Book<n pronunciation="Book" /></t>
+ <t>Category<n pronunciation="Category" /></t>
+ <t>Commons<n pronunciation="Commons" /></t>
+ <t>Portal<n pronunciation="Portal" /></t></s></p>
+
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

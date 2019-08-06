@@ -1,0 +1,100 @@
+{|class="toccolours" style="margin-left: 1em; float: right; border: 1px solid #CCC"
+|-
+! colspan="2" | 
+[[Image:Methone (frame 15).jpg|250px]]<br/><small>Methone is seen in part of a sequence<br/>taken to search for new moons on June 1, 2004</small>
+|-
+! bgcolor="#a0ffa0" colspan="2" | Discovery
+|-
+! align="left" | Discovered by 
+| [http://ciclops.org/team/iss_team.php Cassini Imaging Science Team]
+|-
+! align="left" | Discovered on
+| June1, 2004
+|-
+! bgcolor="#a0ffa0" colspan="2" | [[Orbit]]al characteristics<ref name="Spitale06">{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132 | issue=2 | pages= 692–710 | url=http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206 }}</ref>
+|-
+| colspan="2" |<center><small>[[Epoch (astronomy)|Epoch]] June 20, 2004 ([[Julian day|JD]] 2453177.5)</small></center>
+|-
+! align="left" | [[Semimajor axis]]
+| 194,440 ± 20&nbsp;km
+|-
+! align="left" | [[Eccentricity (orbit)|Eccentricity]]
+| 0.0001
+|-
+! align="left" | [[Orbital period]]
+| 1.009573975 d
+|-
+! align="left" | [[Inclination]]</br>(to Saturn's equator)
+| 0.007 ± 0.003°
+|-
+! align="left" | Is a [[natural satellite|satellite]] of
+| [[Saturn]]
+|-
+! bgcolor="#a0ffa0" colspan="2" | Physical characteristics
+|-
+! align="left" | Mean [[diameter]]
+| ≈ 3&nbsp;km 
+|-
+! align="left" | [[Mass]]
+|  0.7 − 3 {{e|13}} [[kilogram|kg]] <ref name=density>based on density 0.5 - 2 g/cm³</ref>
+|-
+! align="left" | Mean [[density]]
+| unknown
+|-
+! align="left" | Surface [[gravity]]
+| unknown
+|-
+! align="left" | [[Sidereal day|Rotation period]]
+| [[synchronous rotation|synchronous]]
+|-
+! align="left" | [[Axial tilt]]
+| unknown
+|-
+! align="left" | [[Albedo]]
+| unknown
+|-
+! align="left" | [[celestial body's atmosphere|Atmosphere]]
+| none
+|}
+'''Methone''' ({{pronEng|mɨˈθoʊni}} {{respell|mi|THOH|nee}}, or as in Greek ''Μεθωνη)'' is a very small [[natural satellite]] of [[Saturn]] lying between the orbits of [[Mimas (moon)|Mimas]] and [[Enceladus (moon)|Enceladus]]. 
+
+It was first seen by the [http://ciclops.org/team/iss_team.php Cassini Imaging Team]<ref>* [http://cfa-www.harvard.edu/iauc/08300/08389.html C.C. Porco, et al., IAUC 8389: ''S/2004 S 1 and S/2004 S 2''] August 16, 2004 (discovery)</ref><ref name=Porco>[[Carolyn C. Porco|Porco, C. C.]]; ''et al.''; (2005); [http://www.sciencemag.org/cgi/content/short/307/5713/1226 ''Cassini Imaging Science: Initial Results on Saturn's Rings and Small Satellites''], Science, Vol. 307, No. 5713, pp. 1226-1236</ref> and given the temporary designation '''{{nowrap|S/2004 S 1}}'''. Methone is also named '''{{nowrap|Saturn XXXII}}'''. 
+
+Methone is visibly affected by a perturbing mean longitude [[orbital resonance|resonance]] with the much larger Mimas. This causes its [[osculating orbit]]al elements to vary with an amplitude of about 20&nbsp;km in semi-major axis, and 5° in longitude on a timescale of about 450 days. Eccentricity also varies on different timescales between 0.0011 and 0.0037, and inclination between about 0.003° and 0.020°.<ref name="Spitale06"/>
+
+The name Methone was approved by the IAU Working Group on Planetary System Nomenclature on January 21, 2005.<ref>[http://cfa-www.harvard.edu/iauc/08400/08471.html IAUC 8471: ''Satellites of Saturn''] January 21, 2005 (naming the moon)</ref> It was ratified at the IAU General Assembly in 2006. [[Methone (mythology)|Methone]] was one of the [[Alkyonides]], the seven beautiful daughters of the [[Giant (mythology)|Giant]] [[Alkyoneus]].<ref>Early press releases of the discovery mentioned the first person to see the moon in Cassini images. This bit of trivia was blown out of proportion in the following months, with this individual being credited as the "discoverer" by some sources. Because the discovery was a large team effort, involving tens of people and hundreds of hours of distributed work, a conscious decision was made by the IAU to officially and correctly assign any credit to "the Cassini Imaging team" and to avoid unfairly singling out any one individual as the discoverer.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Methone}}
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Methone Methone Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.iau.org IAU] [http://planetarynames.wr.usgs.gov/ Working Group for Planetary System Nomenclature]
+
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Methone (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[bg:Метония (спътник)]]
+[[cs:Methone (měsíc)]]
+[[da:Methone (måne)]]
+[[de:Methone (Mond)]]
+[[el:Μεθώνη (δορυφόρος)]]
+[[es:Metone (satélite)]]
+[[fr:Méthone (lune)]]
+[[hr:Methone (mjesec)]]
+[[it:Metone (astronomia)]]
+[[nl:Methone (maan)]]
+[[ja:メトネ (衛星)]]
+[[pl:Methone (księżyc)]]
+[[pt:Methone]]
+[[ru:Метона (спутник)]]
+[[simple:Methone (moon)]]
+[[sk:Methone (mesiac)]]
+[[sl:Metona (luna)]]
+[[fi:Methone]]
+[[sv:Methone]]
+[[uk:Метона (супутник)]]
+[[zh:土卫三十二]]

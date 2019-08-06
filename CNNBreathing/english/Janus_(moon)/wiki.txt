@@ -1,0 +1,112 @@
+: ''Saturn X redirects here.  For the spurious moon reported in 1905, see [[Themis (moon)]]''
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name = Janus
+| image = [[Image:Janus 2006 closeup by Cassini.jpg|275px]]
+| caption = Janus, as imaged by Cassini before Saturn in 2006
+| bgcolour = #a0ffa0
+| discovery = yes
+| discoverer = [[Audouin Dollfus]]
+| discovered = December 15, 1966
+| orbit_ref = <ref name="Spitale2006">{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal | year= 2006 | volume= 132 | issue=2 | pages= 692–710 | url= http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206 }}</ref>
+| epoch = December 31, 2003 ([[Julian day|JD]] 2&nbsp;453&nbsp;005.5)
+| semimajor = 151&nbsp;460 ± 10 km 
+| eccentricity = 0.0068
+| period = 0.694&nbsp;660&nbsp;342 d 
+| inclination = 0.163 ± 0.004° to Saturn's equator
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 193&times;173&times;137 km <ref name="Porco2006">{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites''| journal= Bulletin of the American Astronomical Society| year= 2006| volume= 37| pages= 768| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf}}</ref>
+| mean_radius = 89.4 ± 3.0 <ref name="Porco2006" />
+| mass = 1.912 ± 0.005 &times;10<sup>18</sup> kg <ref name="Spitale2006"/>
+| density = 0.64 ± 0.06 g/cm³<ref name="Porco2006"/>
+| surface_grav = ~0.0137 [[Acceleration|m/s<sup>2</sup>]]
+| rotation = [[Synchronous rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 0.71 ± 0.02 ([[geometric albedo|geometric]])<ref name=Verbiscer>[[Anne Verbiscer|Verbiscer, A.]]; [[Richard French|French, R.]]; [[Mark Showalter|Showalter, M.]]; and [[Paul Helfenstein|Helfenstein, P.]]; [http://www.sciencemag.org/cgi/content/abstract/315/5813/815 ''Enceladus: Cosmic Graffiti Artist Caught in the Act''], Science, Vol. 315, No. 5813 (February 9, 2007), p. 815 (supporting online material, table S1)</ref>
+| adjectives = Janian
+}}
+'''Janus''' ({{pron-en|ˈdʒeɪnəs}},<ref>In US dictionary transcription, {{USdict|jā′·nəs}}.</ref> or as in Latin ''Ianus'') is an [[inner satellite]] of [[Saturn]]. It is also known as '''Saturn X''' (Roman numeral X = 10).  It is named after the mythological [[Janus (mythology)|Janus]].
+
+==Discovery and orbit==
+:''The following is a summary. For more detailed information about Janus and Epimetheus' unusual shared orbit, see [[Epimetheus (moon)|Epimetheus]].''
+
+Janus occupies practically the same orbit as the moon [[Epimetheus (moon)|Epimetheus]]. This caused some confusion for astronomers, who assumed that there was only one body in that orbit, and for a long time struggled to figure out what was going on. It was eventually realized that they were trying to reconcile observations of two distinct objects as a single object.
+
+The discovery of Janus is attributed to its first observer: [[Audouin Dollfus]], on December 15, 1966.<ref>[http://cfa-www.harvard.edu/iauc/01900/01987.html IAUC 1987: ''Probable New Satellite of Saturn''] January 3, 1967 (discovery)</ref> The new object was given the temporary designation '''{{nowrap|S/1966 S 2}}'''. Previously, [[Jean Texereau]] had photographed Janus on October 29, 1966 without realising it; Dollfus named it at the same occasion.<ref name="IAUC1995">[http://cfa-www.harvard.edu/iauc/01900/01995.html IAUC 1995: ''Saturn X (Janus)''] February 1, 1967 (naming the moon)</ref> On December 18, [[Richard Walker (astronomer)|Richard Walker]] made a similar observation which is now credited as the discovery of [[Epimetheus (moon)|Epimetheus]].<ref>[http://cfa-www.harvard.edu/iauc/01900/01991.html IAUC 1991: ''Possible New Satellite of Saturn''] January 6, 1967</ref>
+
+Twelve years later, in October 1978, [[Stephen M. Larson]] and [[John W. Fountain]] realised that the 1966 observations were best explained by two distinct objects (Janus and Epimetheus) sharing very similar orbits.<ref>[[John W. Fountain|Fountain, J. W.]]; and [[Stephen M. Larson|Larson, S. M.]]; 
+[http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1978Icar...36...92F&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=45eb6e10af21569 ''Saturn's ring and nearby faint satellites''], Icarus, Vol. 36 (October 1978), pp. 92–106</ref> [[Voyager 1]] confirmed this in 1980.<ref name=ss_nasa1>{{cite web| url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Janus | title=Saturn: Moons: Janus | work=Solar System Exploration: Planets | publisher=NASA | accessdate=February 28, 2009}}</ref> (See below for a more detailed description of their unique arrangement.)
+
+Janus was observed on subsequent occasions and given different [[provisional designation in astronomy|provisional designations]]. It was observed by the ''[[Pioneer 11]]'' probe when it passed near Saturn on September 1, 1979: three energetic particle detectors observed its "shadow" ('''{{nowrap|S/1979 S 2}}'''.<ref>[http://cfa-www.harvard.edu/iauc/03400/03417.html IAUC 3417: ''New Ring and Satellites of Saturn''] October 25, 1979</ref><!--- [[Tom Gehrels]] and [[James A. van Allen]] --->) Janus was observed by [[Dan Pascu]] on February 19, 1980 ('''{{nowrap|S/1980 S 1}}''',<ref>[http://cfa-www.harvard.edu/iauc/03400/03454.html IAUC 3454: ''Saturn''] February 25, 1980</ref>) and then by John W. Fountain, Stephen M. Larson, [[Harold J. Reitsema]] and [[Bradford A. Smith]] on the 23rd ('''{{nowrap|S/1980 S 2}}'''.<ref>[http://cfa-www.harvard.edu/iauc/03400/03456.html IAUC 3456: ''1980 S 2''] February 29, 1980</ref>)
+
+All of these people thus share, to various degrees, the title of discoverer of Janus.
+
+==Name==
+Janus is named after [[Janus (mythology)|Janus]], the two-faced [[Roman mythology|Roman]] god. Although the name was informally proposed soon after the initial 1966 discovery,<ref name="IAUC1995"/> it was not officially given this name until 1983.<ref>Transactions of the International Astronomical Union, Vol. XVIIIA, 1982 (confirms Janus, names Epimetheus, Telesto, Calypso) <small>(mentioned in [http://cfa-www.harvard.edu/iauc/03800/03872.html IAUC 3872: ''Satellites of Jupiter and Saturn''], September 30, 1983)</small></ref> [[Epimetheus (moon)|Epimetheus]] received its name at the same time.
+
+According to the ''[[Oxford English Dictionary|OED]]'', the [[adjective|adjectival form]] of the moon's name is ''Janian''.
+
+==Physical characteristics==
+Janus is extensively cratered with several craters larger than 30&nbsp;km but few linear features. The Janian surface appears to be older than [[Prometheus (moon)|Prometheus]]' but younger than [[Pandora (moon)|Pandora]]'s. From its very low density and relatively high [[albedo]], it seems likely that Janus is a very [[Porosity|porous]] and icy [[rubble pile]].
+
+==Ring==
+A faint dust ring is present around the region occupied by the orbits of Janus and Epimetheus, as revealed by images taken in forward-scattered light by the [[Cassini spacecraft]] in 2006. The ring has a radial extent of about 5000&nbsp;km.<ref name="Cassini_eclipse1"> NASA Planetary Photojournal, [http://photojournal.jpl.nasa.gov/catalog/PIA08328 ''PIA08328: Moon-Made Rings'']</ref> Its source is particles blasted off the moons' surfaces by meteoroid impacts, which then form a diffuse ring around their orbital paths.<ref name="Cassini_eclipse2">Cassini-Huygens press release, [http://saturn.jpl.nasa.gov/news/press-release-details.cfm?newsID=698 ''NASA Finds Saturn's Moons May Be Creating New Rings''], October 11, 2006</ref>
+
+==Gallery==
+<gallery widths="240px" heights="200px" perrow="3" style="clear:both; margin-left:auto; margin-right:auto;">
+Image:Janus-PIA09872.jpg|Janus as imaged by ''Cassini'' on 2008-02-20.
+Image:Saturn's moons Janus and Prometheus PIA08192 (NASA).jpg|Janus and [[Prometheus (moon)|Prometheus]] lie above and below [[Rings of Saturn|Saturn's rings]] in this ''Cassini'' image from 2006-04-29.
+Image:Janus moon.jpg|Janus as viewed by ''[[Voyager 2]]'' on 1981-08-25.
+</gallery>
+
+==See also==
+* [[List of geological features on Saturn's smaller moons]]
+* [[Saturn's moons in fiction]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Janus Janus Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/saturn/janus.html The Planetary Society: Janus]
+* [http://books.google.com/books?id=aU6vcy5L8GAC&lpg=PP1&ots=CycR_yZyUo&dq='Solar%20System%20Dynamics'%20by%20Murray%20and%20Dermott&pg=PP1 'Solar System Dynamics' by Murray and Dermott] The standard text on the subject, describes the orbits in detail.
+* [http://ssdbook.maths.qmw.ac.uk/animations/Coorbital.mov Quicktime illustration of co-orbital motion] from Murray and Dermott
+* [http://saturn.jpl.nasa.gov/multimedia/images/image-details.cfm?imageID=2103 Cassini image] of Janus and Epimetheus near the time of their orbital swap.
+
+{{Moons of Saturn}}
+
+{{DEFAULTSORT:Janus (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[br:Janus (loarenn)]]
+[[bg:Янус (спътник)]]
+[[ca:Janus (satèl·lit)]]
+[[cs:Janus (měsíc)]]
+[[cy:Ianws (lloeren)]]
+[[da:Janus (måne)]]
+[[de:Janus (Mond)]]
+[[el:Ιανός (δορυφόρος)]]
+[[es:Jano (satélite)]]
+[[fr:Janus (lune)]]
+[[hr:Janus (mjesec)]]
+[[id:Janus (satelit)]]
+[[it:Giano (astronomia)]]
+[[lt:Janas (palydovas)]]
+[[nl:Janus (maan)]]
+[[ja:ヤヌス (衛星)]]
+[[no:Janus (måne)]]
+[[nn:Saturnmånen Janus]]
+[[pl:Janus (księżyc)]]
+[[pt:Jano (satélite)]]
+[[ru:Янус (спутник)]]
+[[simple:Janus (moon)]]
+[[sk:Janus (mesiac)]]
+[[sl:Jan (luna)]]
+[[fi:Janus (kuu)]]
+[[sv:Janus (måne)]]
+[[uk:Янус (супутник)]]
+[[zh:土卫十]]

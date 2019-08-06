@@ -1,0 +1,12 @@
+{{English spoken article
+|title= Eppertshausen
+|user_name_link=[[:en:User:Ixthus|Ixthus]]
+|date=2016-07-29 {{wrong date}}
+|accent=British English
+|sex=m
+|link_to_recorded_version=https://en.wikipedia.org/w/index.php?title=Eppertshausen&oldid=667980230
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->

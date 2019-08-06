@@ -1,0 +1,111 @@
+{{Infobox road
+|state=NY
+|type=NY
+|route=174
+|maint=[[New York State Department of Transportation|NYSDOT]] and [[Onondaga County, New York|Onondaga County]]
+|map=New York Route 174 map.png
+|map_alt=NY 174 follows a north–south alignment through western Onondaga County, southwest of Syracuse. It has a short overlap with US 20 south of Marcellus.
+|map_notes=Map of the Syracuse area with NY&nbsp;174 highlighted in red
+|length_mi=16.70
+|length_ref=<ref name="2008tdr" />
+|length_round=2
+|established=1930<ref name=1930gb />
+|direction_a=South
+|starting_terminus={{jct|state=NY|NY|41}} in [[Spafford, New York|Spafford]]
+|junction={{jct|state=NY|US|20}} in [[Marcellus (town), New York|Marcellus]]
+|direction_b=North
+|ending_terminus={{jct|state=NY|NY|5}} in [[Camillus (village), New York|Camillus]]
+|counties=[[Onondaga County, New York|Onondaga]]
+|previous_type=NY
+|previous_route=173
+|next_type=NY
+|next_route=175
+}}
+'''New York State Route&nbsp;174''' (also known as '''NY&nbsp;174''') is a [[state highway]] in the county of [[Onondaga County, New York|Onondaga]], located in [[Central New York]], United States. The highway is {{convert|16.70|mi|km}} long and passes through mostly rural regions. Route&nbsp;174 begins at an intersection with [[New York State Route 41|NY&nbsp;41]] in [[Borodino, New York|Borodino]], a hamlet of [[Spafford, New York|Spafford]]. It heads northward for most of its length, except for short distances in the villages of [[Marcellus (village), New York|Marcellus]] and [[Camillus (village), New York|Camillus]]. The route ends at a junction with [[New York State Route 5|NY&nbsp;5]] west of Camillus, at the west end of the Route&nbsp;5 Camillus bypass. Route&nbsp;174 is located along a large [[Geologic map|mapped]] [[Sedimentary rock|sedimentary]] [[bedrock]] [[Geological unit|unit]], known as the [[Marcellus Formation]]. The formation is named for an [[outcrop]] found near the town of [[Marcellus (town), New York|Marcellus, New York]], during a [[geological survey]] in 1839.
+
+The road was first laid out in the early 19th century following the path of [[Nine Mile Creek]], which connected several early settlements in Central New York. The northern half of the route, between the villages of Marcellus and Camillus, was later improved as a [[plank road]] in 1855 by a private corporation that collected tolls from travelers on the road. The state took over the maintenance of the road by the beginning of the 20th century. The former plank road and an extension south to [[Otisco Lake]] and southwest to [[Skaneateles Lake]] was first designated as Route&nbsp;174 in the [[1930 state highway renumbering (New York)|1930 state highway renumbering]]. Since then, several minor realignments have been made in the areas of the villages of Marcellus and Camillus to accommodate newly built bypasses.
+
+== Route description ==
+[[Image:NY 174 terminus 41.jpg|left|thumb|NY&nbsp;174's southern terminus at NY&nbsp;41|alt=A pair of highways meet at a signalized intersection in a residential neighborhood.]]
+Route&nbsp;174 begins its {{convert|16|mi|km|sp=us|adj=on}} route through Onondaga County at an intersection with [[New York State Route 41|NY&nbsp;41]] in the [[hamlet (place)|hamlet]] of [[Borodino, New York|Borodino]], on the shores of [[Skaneateles Lake]].<ref name="google1">{{google maps |url=http://maps.google.com/maps?hl=en&rlz=1T4ADBF_enUS232US232&q=from:+Rose+Hill+Rd/RT-174+%4042.858837,+-76.337914+to:+RT-174+%4042.930502,+-76.335425&um=1&ie=UTF-8&sa=N&tab=wl |title=overview map of NY 174 from Borodino to Marcellus |accessdate=December 7, 2007}}</ref> The road heads north, passing to the east of Hardscrabble Point, to an intersection with Elbert Road (County Route&nbsp;131) where it turns east. The highway then heads eastward for about a mile (1.6&nbsp;km) to a turn along the shore of [[Otisco Lake]]. It follows the shoreline of the lake northward into the town of [[Marcellus (town), New York|Marcellus]], soon entering the hamlet of [[Marietta, New York|Marietta]]. North of Marietta, the lake narrows into the [[Nine Mile Creek]], which parallels Route&nbsp;174 for the rest of the highway's length.<ref name="google1"/>
+[[Image:NY 174 Otisco Lake.jpg|right|thumb|NY&nbsp;174 with Otisco Lake in view|alt=A two-lane highway runs alongside a large lake. The road and the lake are separated by a row of trees and small brush.]]
+Within the town of Marcellus, Route&nbsp;174 intersects and becomes concurrent with [[U.S. Route 20 in New York|U.S. Route&nbsp;20]] for about {{convert|0.3|mi|km}} until Sevier Road.<ref name="google2">{{google maps |url=http://maps.google.com/maps?hl=en&rlz=1T4ADBF_enUS232US232&q=from:+RT-174+%4042.930502,+-76.335425+to:+RT-174/W+Seneca+Turnpike+%4042.982708,+-76.334229&um=1&ie=UTF-8&sa=N&tab=wl |title=overview map of NY 174 in Marcellus |accessdate=December 7, 2007}}</ref> Route&nbsp;174 continues north along Sevier Road, still paralleling the creek, towards the village of [[Marcellus (village), New York|Marcellus]]. South of the village line, [[New York State Route 175|NY&nbsp;175]] joins Route&nbsp;174 and the two routes are concurrent for about 2&nbsp;miles (3&nbsp;km). The two roads go around the southeast border of the village, passing by the county park, then split in different directions just east of the village. Route&nbsp;175 turns to the east while Route&nbsp;174 turns to the west along the West Seneca Turnpike, entering the village of Marcellus.<ref name="google2"/>
+
+Route&nbsp;174 passes through the village center then turns north along North Street and heads out of the village,<ref name="google3">{{google maps |url=http://maps.google.com/maps?hl=en&rlz=1T4ADBF_enUS232US232&q=from:+RT-174/W+Seneca+Turnpike+%4042.982708,+-76.334229+to:+RT-174+W+%4043.034623,+-76.321409&um=1&ie=UTF-8&sa=N&tab=wl |title=overview map of NY 174 from Marcellus to NY 5 |accessdate=December 7, 2007}}</ref> turning northward through the hamlet of [[Marcellus Falls, New York|Marcellus Falls]]. After Marcellus, the land around the route becomes more developed with residential areas becoming more common. About {{convert|0.3|mi|km|adj=on}} north of Marcellus, Route&nbsp;174 crosses Nine Mile Creek, and the bridge itself is designated as NY&nbsp;174X. This is an internal designation used by [[NYSDOT]] and is not signed as such.<ref>{{cite web|url=https://www.nysdot.gov/main/bridgedata/repository/OnondagaBridgeData.pdf|title=Onondaga County Bridge Data|year=2008|accessdate=June 7, 2008|publisher=[[New York State Department of Transportation]]|format=PDF}}</ref>
+
+The road continues north, still paralleling the Nine Mile Creek, into the town of [[Camillus (town), New York|Camillus]]. In Bennetts Corners, Route&nbsp;174 intersects with Forward Road (unsigned NY&nbsp;931F), a connector road to [[New York State Route 321|NY&nbsp;321]], then changes direction to head northeast. The road passes by Nose Hill before entering the village of [[Camillus (village), New York|Camillus]]. In the village center, Route&nbsp;174 makes a sharp turn to the west onto West Genesee Street, where it comes to an end just west of the village line at a junction with [[New York State Route 5|NY&nbsp;5]] (where its freeway begins) that includes a [[jughandle]], a slip road onto the freeway.<ref name="google3"/> NY&nbsp;174 is located along a geological feature known as a [[Geologic map|mapped]] [[Sedimentary rock|sedimentary]] [[bedrock]] [[Geological unit|unit]], known as the [[Marcellus Formation]].<ref name=dispatch>{{cite news |url=http://www.dispatch.com/live/content/science/stories/2008/03/11/Sci_shale.ART_ART_03-11-08_B4_A99I7HO.html?print=yes |title=Low down, rich and stingy |first=Kevin |last=Mayhood |newspaper=[[The Columbus Dispatch]] |date=March 11, 2008 |accessdate=January 3, 2010}}</ref> The formation is named for an [[outcrop]] found near the town of [[Marcellus (town), New York|Marcellus, New York]], during a [[geological survey]] in 1839.<ref name=MGS1918>{{cite book | author = Clark, W. B. | title = The geography of Maryland | series = Maryland Geological Survey, volume = vol. 10 | year = 1918. | city = Baltimore publisher = Johns Hopkins Press}}</ref> 
+
+== History ==
+===Old roads===
+[[Image:NY 174 S.jpg|right|thumb|upright|NY&nbsp;174 southbound (south of US&nbsp;20)|alt=A two-lane highway passes through a rural area. A farm is to the left of the highway; in the background and in the distance are large, open fields.]]
+The village of Marcellus was first settled in 1794 at the intersection of two transportation routes: an old [[Iroquois]] trail running east–west (later to become the [[Seneca Turnpike]]) and the north–south Nine Mile Creek.<ref name="marcellushistory"/> At the beginning of the 19th century, land travel along the Nine Mile Creek was very difficult and most travel between Marcellus and the settlements along [[Onondaga Lake]] was by water.<ref name="marcellushistory">{{cite web|first=J.V.H. |last=Clark|url=http://www.rootsweb.ancestry.com/~nyononda/MARCELLU/CLARKMAR.HTM|title=History of the Town of Marcellus|year=1998|work=Onondaga; or Reminiscences of Earlier and Later Times|accessdate=April 4, 2008}}</ref>  In 1831 the New York State Legislature authorized the construction of a road to follow Nine Mile Creek from Marcellus towards the town of [[Salina, New York|Salina]] at Onondaga Lake.<ref>{{cite book |url=http://books.google.com/books?id=VHQ4AAAAIAAJ&pg=PA704 |title=Index to the Session Laws of the State of New York |accessdate=April 4, 2008 |year=1897 |first=William Henry |last=Silvernail |location=New York |page=704}}</ref>
+
+In 1855, the road from Marcellus to Camillus along the Nine Mile Creek route was improved by the Camillus and Marcellus Plank Road Company, which was first chartered in 1853 and authorized to collect tolls from travelers using the road.<ref>{{cite book|url=http://books.google.com/books?id=rd5KAAAAMAAJ&pg=PT225 |title=Official Index to the Unconsolidated Laws of the State of New York, 1778–1919 |accessdate=April 4, 2008 |year=1919 |location=Albany, NY |publisher=J.B. Lyon Co|author=New York State Legislature |page=225}}</ref> The improvement of the road led to it becoming a stagecoach route in the middle of the 19th century.<ref>{{cite book |title=Past and Present of Syracuse and Onondaga County |last=Beauchamp |first=William M. |year=1908 |publisher= S. J. Clarke Publishing Company |pages=390–394 |accessdate=April 6, 2008 |location=New York}}</ref> The former plank road alignment in the village of Marcellus (North Street) and the southward continuation along Cherry Street (now South Street) was paved in 1911 as part of the construction of a new state highway that would pass through the town.<ref name="marcellusmap">{{cite map |url=http://www.historicmapworks.com/Sections/Maps/viewPlateUS-61646.htm| title=New York State 1890 to 1908 |year=1890 |publisher=Walker Lith. Publishing Company |accessdate=March 21, 2008}}</ref><ref name="marcellusmap2">{{cite map |url=http://www.historicmapworks.com/Sections/Maps/viewPlateUS-16267.htm |title=Marcellus downtown map |year=1874 |publisher=Walker Brothers and Company |accessdate=March 21, 2008}}</ref>
+
+===Designation===
+The route from Marcellus (at US&nbsp;20) to Camillus was designated as Route&nbsp;174 in the [[1930 renumbering (New York)|1930 renumbering]].<ref name="1930gb">''Automobile Legal Association (ALA) Automobile Green Book'', 1930/31 and 1931/32 editions, (Scarborough Motor Guide Co., Boston, 1930 and 1931). The 1930/31 edition shows New York state routes before the [[1930 renumbering (New York)|1930 renumbering]]</ref> At the time, the segment of modern NY&nbsp;174 from Otisco Valley Road (south of US&nbsp;20) to Borodino was designated as NY&nbsp;337 while NY&nbsp;174 followed Otisco Valley Road southeast to an intersection with [[New York State Route 80|NY&nbsp;80]] in [[Otisco, New York|Otisco]].<ref>{{cite map |title=Road Map of New York |year=1930 |publisher=[[Standard Oil Company of New York]] |cartography=[[General Drafting]]}}</ref> NY&nbsp;337 was replaced by a realigned NY&nbsp;174 by 1935.<ref name="1935map">{{cite map |title=Road Map & Historical Guide – New York |publisher=[[Sun Oil Company]] |year=1935 |cartography=[[Rand McNally and Company]]}}</ref> The northernmost portion of NY&nbsp;174 from Forward Road to [[New York State Route 5|NY&nbsp;5]] in [[Camillus (village), New York|Camillus village]] was originally designated as part of [[New York State Route 26 (1924–1930)|NY&nbsp;26]] in 1924. The route began in [[Ithaca, New York|Ithaca]] and ended in [[Syracuse, New York|Syracuse]].<ref>{{cite news|title=New York's Main Highways Designated by Numbers|newspaper=[[The New York Times]]|date=December 21, 1924|page=XX9}}</ref><ref>{{cite map |publisher=[[Rand McNally & Company]] |url=http://www.broermapsonline.org/members/NorthAmerica/UnitedStates/Midatlantic/NewYork/unitedstates1926ra_008.html |title=Auto Road Atlas, 1926 |accessdate=April 4, 2008}}</ref> The portion of NY&nbsp;26 between the villages of [[Skaneateles (village), New York|Skaneateles]] and Camillus became [[New York State Route 321|NY&nbsp;321]] as part of the 1930 renumbering, resulting in an [[overlap (road)|overlap]] with NY&nbsp;174 from Forward Road to NY&nbsp;5.<ref name="camillus">{{cite map |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/usgspreview/index.cfm?code=o43076a3 |title=Quadrangle of Camillus, New York |date=1955, photorevised 1978 |publisher=[[United States Geological Survey]] |accessdate=January 18, 2008}}</ref> NY&nbsp;321 has since been relocated to the west on a [[county road]],<ref name="camillus quad">{{cite map |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/dotpreview/index.cfm?code=p28 |title=Camillus Digital Raster Quadrangle |publisher=New York State Department of Transportation |year=1990 |scale=1:24,000 |accessdate=January 20, 2010}}</ref> and Forward Road is now [[New York State Route 931F|NY&nbsp;931F]], an unsigned, state-maintained highway known as a [[reference route (New York)|reference route]].<ref>{{cite book |url=https://www.nysdot.gov/divisions/operating/oom/transportation-systems/repository/2009%20tour-bk.pdf |format=PDF |title=Official Description of Highway Touring Routes, Bicycling Touring Routes, Scenic Byways, & Commemorative/Memorial Designations in New York State |author=[[New York State Department of Transportation]] |month=January |year=2009 |accessdate=July 16, 2009}}</ref>
+
+[[Image:MarcellusIntersection800.jpg|left|thumb|Current view of NY&nbsp;174 and NY&nbsp;175 where NY&nbsp;20N once existed|alt=A pair of highways meet at a signalized intersection. In the background at the base of a hill is a small village. One highway leads from the intersection, heads through the village, and ascends a larger hill in the distance.]]
+In the 1930s, [[New York State Route 20N|NY&nbsp;20N]] was designated as a northerly [[alternate route]] of [[U.S. Route 20 (New York)|U.S. Route&nbsp;20]] between Skaneateles and [[Cazenovia (village), New York|Cazenovia]]. It utilized existing numbered roads, including NY&nbsp;174 from US&nbsp;20 in Skaneateles north to [[Marcellus (village), New York|Marcellus]], where it turned eastward to follow NY&nbsp;175.<ref name="1935map" /><ref>{{cite book |last=Thibodeau |first=William A. |title=The ALA Green Book |edition=1938–39 |year=1938 |publisher=Automobile Legal Association}}</ref> The NY&nbsp;20N designation was removed ca. 1962.<ref>{{cite map |title=New York and Metropolitan New York |publisher=[[Sunoco]] |cartography=[[H.M. Gousha Company]] |year=1961 |edition=1961–62}}</ref><ref>{{cite map |title=New York with Sight-Seeing Guide |publisher=[[Esso]] |cartography=[[General Drafting]] |year=1962}}</ref>
+
+Route&nbsp;174 has also had several minor realignments. After Route&nbsp;5 was realigned onto a new expressway from Camillus to Fairmount, Route&nbsp;174 was extended on its northern end to meet the west end of the bypass in Camillus. The new alignment makes a sharp hook west along the former Route&nbsp;5.<ref name="camillus"/><ref name="camillus quad"/> Route&nbsp;174 has also been relocated onto a southeastern bypass around the village of Marcellus that also carries Route&nbsp;175. Originally, Routes&nbsp;174 and&nbsp;175 entered the village along South Street. The routes were realigned to the bypass between 1976 and 1989.<ref name="marcellus1"/><ref name="marcellus quad"/> Route&nbsp;174 now enters downtown Marcellus using several blocks of the historic [[At-grade intersection|at-grade]] [[Seneca Turnpike]]<!--<ref name="seneca1">{{cite book |last=Rivette |first=Barbara S.| chapter=Genesee Road |title=Encyclopedia of New York State, The |publisher=Syracuse University Press|year=2005|editor= Eisenstadt, Peter and Laura-Eve Moss, eds. |others= Foreword by Carole F. Huxley |location= Syracuse, NY |isbn= 081560808X}}</ref><ref name="seneca2">{{cite book |last=Baer |first=Christopher T. |chapter =Turnpikes |title=Encyclopedia of New York State, The |publisher=Syracuse University Press |year=2005 |editor= Eisenstadt, Peter and Laura-Eve Moss, eds. |others= Foreword by Carole F. Huxley |location= Syracuse, NY |isbn= 081560808X}}</ref> --> between the old and new alignments. This section of the route is maintained by Onondaga County as County Route&nbsp;41. The former South Street alignment has been redesignated as County Route&nbsp;83.<ref name="marcellus1">{{cite map |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/usgspreview/index.cfm?code=o42076h3 |title=Quadrangle of Marcellus, New York |date=1955, photorevised 1976|publisher=[[United States Geological Survey]]|accessdate=January 18, 2008}}</ref><ref name="marcellus quad">{{cite map |url=http://www.nysgis.state.ny.us/gisdata/quads/drg24/dotpreview/index.cfm?code=q28 |title=Marcellus Digital Raster Quadrangle |publisher=New York State Department of Transportation |year=1989 |scale=1:24,000 |accessdate=January 20, 2010}}</ref>
+
+In April 2008, the [[New York State Senate]] introduced and passed a bill to rename part of Route&nbsp;174 as the "Father Joseph Champlin Memorial Highway". This would include the portion of the highway from the Camillus town line to Route&nbsp;5.<ref name="chaplin">{{cite web |url=http://assembly.state.ny.us/leg/?bn=A10048|title=Bill Summary   –   A10048|accessdate=April 12, 2008|publisher=[[New York State Assembly]]}}</ref><ref name="chaplin2">{{cite press release |url=http://senatordefrancisco.org/50/news.aspx?nid=18 |title=Senator DeFrancisco's Bill to Honor Father Champlin is Passed By Senate |accessdate=April 12, 2008 |publisher=Office of Senator [[John DeFrancisco]]}}</ref> Also starting in 2008, the [[New York State Department of Transportation]] began a rehabilitation project on Route&nbsp;174. The Marcellus Falls bridge over Nine Mile Creek, also known as NY&nbsp;174X, is closed off for a complete rehabilitation and a detour has been placed around it. Construction is reduced to one lane between Main Street and Scotch Hill Road and will continue until June&nbsp;24, 2008.<ref name="construction1">{{cite news |url=http://www.syracuse.com/news/index.ssf/2008/06/constructionrelated_road_chang_57.html |title=Construction-related traffic changes |accessdate=January 3, 2010 |newspaper=[[The Post-Standard]] |first=Pedro |last=Ramirez III |date=June 12, 2008}}</ref> On November&nbsp;21, 2008, the bridge was re-opened and the construction completed.<ref name="done">{{cite news |url=http://www.syracuse.com/news/index.ssf/2008/11/route_174_bridge_in_marcellus_1.html |title=Route 174 bridge in Marcellus is open for traffic |date=November 21, 2008 |newspaper=The Post-Standard |accessdate=July 29, 2009}}</ref>
+
+==Major intersections==
+[[Image:NY 174 east.jpg|right|thumb|NY&nbsp;174 heading east towards Otisco Lake|alt=A two-lane highway passes amongst open fields in a rural area.]]
+{{NYinttop|length_ref=<ref name="2008tdr">{{cite web |url=https://www.nysdot.gov/divisions/engineering/technical-services/hds-respository/NYSDOT_Traffic_Data_Report_2008.pdf |title=2008 Traffic Data Report for New York State |date=June 16, 2009 |format=PDF |page=258 |publisher=[[New York State Department of Transportation]] |accessdate=October 13, 2009}}</ref>|county=Onondaga}}
+{{NYint
+|location=Spafford
+|mile=0.00
+|road={{Jct|state=NY|NY|41}}
+|notes=[[Hamlet (New York)|Hamlet]] of [[Borodino, New York|Borodino]]
+}}
+{{NYint
+|location=Marcellus
+|area=town
+|lspan=3
+|mile=6.46
+|road={{jct|state=NY|US|20|dir1=west}}
+|notes=Western terminus of US&nbsp;20&nbsp;/ NY&nbsp;174 overlap
+}}
+{{NYint
+|mile=6.77
+|road={{jct|state=NY|US|20|dir1=east}}
+|notes=Eastern terminus of US&nbsp;20&nbsp;/ NY&nbsp;174 overlap
+}}
+{{NYint
+|mile=9.09
+|road={{jct|state=NY|NY|175|dir1=west}}
+|notes=Southern terminus of NY&nbsp;174&nbsp;/ NY&nbsp;175 overlap
+}}
+{{NYint
+|mile=10.60
+|location=Marcellus
+|area=village
+|road={{jct|state=NY|NY|175|dir1=east}}
+|notes=Northern terminus of NY&nbsp;174&nbsp;/ NY&nbsp;175 overlap
+}}
+{{NYint
+|location=Camillus
+|area=village
+|mile=16.70
+|road={{jct|state=NY|NY|5}}
+}}
+{{NYintbtm}}
+
+==References==
+{{Portal|Finger Lakes|Fingerlakesmap2.PNG}}
+{{Reflist|2}}
+
+==External links==
+{{commonscat}}
+{{NYSR external links|route=174|alps=yes}}
+
+{{featured article}}
+{{NY 20N}}
+
+[[Category:State highways in New York|174]]
+[[Category:Transportation in Onondaga County, New York]]
+
+[[fr:New York State Route 174]]

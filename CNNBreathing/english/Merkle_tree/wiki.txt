@@ -1,0 +1,56 @@
+[[Image:Hash Tree.svg|thumb|300px|right|A binary hash tree]]
+
+In [[cryptography]] and [[computer science]] a '''hash tree''' or '''Merkle tree''' 
+is a tree in which every non-leaf node is labelled with the hash of the labels of its children nodes. Hash trees are useful because they allow efficient and secure verification of the contents of larger data structures.  Hash trees are a generalization of [[hash list]]s and [[hash chain]]s. 
+To demonstrate that a leaf node is part of a given hash tree requires an amount of data proportional to the log of the number of nodes of the tree. (This contrasts with hash lists, where the amount is proportional to the number of nodes.) The concept is named after [[Ralph Merkle]].
+
+== Uses ==
+
+Hash trees can be used to verify any kind of data stored, handled and transferred in and between computers. Currently the main use of hash trees is to make sure that data blocks received from other peers in a [[Peer-to-peer|peer-to-peer network]] are received undamaged and unaltered, and even to check that the other peers do not lie and send fake blocks. Suggestions have been made to use hash trees in [[trusted computing]] systems.<ref>J. Kilian. Improved efﬁcient arguments (preliminary version). In CRYPTO, 1995.</ref> [[Sun Microsystems]] has used Hash Trees in the [[ZFS]] file system.<ref>Jeff Bonwick's Blog ''[https://blogs.oracle.com/bonwick/entry/zfs_end_to_end_data ZFS End-to-End Data Integrity]''</ref> Hash Trees are used in [[Google Wave]] protocol,<ref>Google Wave Federation Protocol ''[http://www.waveprotocol.org/protocol/whitepapers/wave-protocol-verification Wave Protocol Verification Paper'']</ref> [[Git (software)|Git]] distributed revision control system, the [[Tahoe-LAFS]] backup system, the [[Bitcoin]] peer-to-peer network, and a number of [[NoSQL]] systems like [[Apache Cassandra]] & [[Riak]] or the [[Bittorrent]] protocol.<ref>"When a replica is down for an extended period of time, or the machine storing hinted handoffs for an unavailable replica goes down as well, replicas must synchronize from one another. In this case, Cassandra and Riak implement a Dynamo-inspired process called anti-entropy. In anti-entropy, replicas exchange Merkle trees to identify parts of their replicated key ranges which are out of sync. A Merkle tree is a hierarchical hash verification: if the hash over the entire keyspace is not the same between two replicas, they will exchange hashes of smaller and smaller portions of the replicated keyspace until the out-of-sync keys are identified. This approach reduces unnecessary data transfer between replicas which contain mostly similar data." http://www.aosabook.org/en/nosql.html</ref>
+
+Hash trees were patented in 1979 by [[Ralph Merkle]].<ref>R. C. Merkle, ''A digital signature based on a conventional encryption function'', Crypto '87</ref> The original purpose was to make it possible to efficiently handle many [[Lamport signature|Lamport one-time signatures]]. Lamport signatures are believed to still be secure in the event that [[quantum computer]]s become reality. Unfortunately each Lamport key can only be used to sign a single message. But combined with hash trees they can be used for many messages and then become a [[Merkle signature scheme|fairly efficient digital signature scheme]].
+
+== How hash trees work ==
+
+A hash tree is a [[Binary tree|tree]] of [[Hash function|hashes]] in which the leaves are hashes of data blocks in, for instance, a file or set of files. Nodes further up in the tree are the hashes of their respective children. For example, in the picture ''hash 0'' is the result of hashing the result of concatenating ''hash 0-0'' and ''hash 0-1''. That is, ''hash 0 = hash( hash 0-0 + hash 0-1 )'' where + denotes concatenation.
+
+Most hash tree implementations are binary (two child nodes under each node) but they can just as well use many more child nodes under each node.
+
+Usually, a [[cryptographic hash function]] such as [[SHA-1]], [[Whirlpool (hash)|Whirlpool]], or [[Tiger (hash)|Tiger]] is used for the hashing. If the hash tree only needs to protect against unintentional damage, much less secure [[checksum]]s such as [[Cyclic redundancy check|CRCs]] can be used.
+
+In the top of a hash tree there is a ''top hash'' (or ''root hash'' or ''master hash''). Before downloading a file on a p2p network, in most cases the top hash is acquired from a trusted source, for instance a friend or a web site that is known to have good recommendations of files to download. When the top hash is available, the hash tree can be received from any non-trusted source, like any peer in the p2p network. Then, the received hash tree is checked against the trusted top hash, and if the hash tree is damaged or fake, another hash tree from another source will be tried until the program finds one that matches the top hash.
+
+The main difference from a [[hash list]] is that one branch of the hash tree can be downloaded at a time and the integrity of each branch can be checked immediately, even though the whole tree is not available yet. For example, in the picture the integrity of ''data block 2'' can be verified immediately if the tree already contains ''hash 0-0'' and ''hash 1'' by hashing the data block and iteratively combining the result with ''hash 0-0'' and then ''hash 1'' and finally comparing the result with the ''top hash''. Similarly, the integrity of ''data block 3'' can be verified if the tree already has ''hash 1-1'' and ''hash 0''.  This can be an advantage since it is efficient to split files up in very small data blocks so that only small blocks have to be re-downloaded if they get damaged. If the hashed file is very big, such a hash tree or hash list becomes fairly big. But if it is a tree, one small branch can be downloaded quickly, the integrity of the branch can be checked, and then the downloading of data blocks can start.
+
+There are several additional tricks, benefits and details regarding hash trees. See the references and external links below for more in-depth information.
+
+== Tiger tree hash ==
+
+The Tiger tree hash is a widely used form of hash tree. It uses a binary hash tree (two child nodes under each node), usually has a data block size of 1024-[[byte]]s and uses the cryptographically secure [[Tiger (hash)|Tiger hash]].
+
+Tiger tree hashes are used in [[Gnutella]], [[Gnutella2]], and [[Direct Connect (file sharing)|Direct Connect]] [[Peer-to-peer|P2P]] file sharing protocols and in [[file sharing]] applications such as [[Phex]], [[BearShare]], [[LimeWire]], [[Shareaza]], [[DCPlusPlus|DC++]]<ref>[http://dcplusplus.sourceforge.net/features.html "DC++'s feature list"]</ref> and [[Valknut (software)|Valknut]].{{Citation needed|date=May 2010}}
+
+== See also ==
+* [[Hash table]]
+* [[Hash trie]]
+* [[Linked Timestamping]]
+
+== References ==
+
+* {{US patent|4309569|Merkle tree patent 4,309,569}} – Explains both the hash tree structure and the use of it to handle many one-time signatures.
+* [http://web.archive.org/web/20080316033726/http://www.open-content.net/specs/draft-jchapweske-thex-02.html Tree Hash EXchange format (THEX)] – A detailed description of Tiger trees.
+* [http://www.rsasecurity.com/rsalabs/node.asp?id=2003 Efficient Use of Merkle Trees] – [[RSA Security|RSA labs]] explanation of the original purpose of Merkle trees: To handle many Lamport one-time signatures.
+<references />
+
+== External links ==
+* http://www.codeproject.com/cs/algorithms/thexcs.asp – Tiger Tree Hash (TTH) source code in C# – by Gil Schmidt
+* http://sourceforge.net/projects/tigertree/ – Tiger Tree Hash (TTH) implementations in C and Java
+* [http://rhash.sourceforge.net/ RHash], an [[open source]] command-line tool, which can calculate TTH and magnet links with TTH.
+* [http://www.guardtime.com/educational-series-on-hashes/ "Series of mini-lectures about cryptographic hash functions"]; includes application in time-stamping and provable security; by A. Buldas, 2011.
+{{Cryptography navbox}}
+{{CS-Trees}}
+
+[[Category:Error detection and correction]]
+[[Category:Cryptographic hash functions]]
+[[Category:Hashing]]
+[[Category:Trees (data structures)]]

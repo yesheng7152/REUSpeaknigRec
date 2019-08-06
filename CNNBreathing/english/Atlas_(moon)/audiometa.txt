@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Atlas (moon)
+|time=1:58
+|user_name=Mangst
+|date=2010-01-13
+|oldid=334419142
+|accent=American English
+}}
+{{Information 
+|description    = {{en|1= Atlas (moon)}} 
+|date           = {{Original upload date|2010-01-14}} 
+|source         = {{transferred from|en.wikipedia|SreeBot}} 
+|author         = [[:en:User:Mangst|Mangst]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Atlas_(moon).ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-01-14 01:50 (UTC) | [[:en:User:Mangst|Mangst]] | 1175664 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title=Atlas (moon) |time=1:58 |user_name=Mangst |date=2010-01-13 |oldid=334419142 |accent=American English }} == Licensing: == {{GFDL-with-disclaim</nowiki></small>
+
+[[Category:Atlas (moon)]]

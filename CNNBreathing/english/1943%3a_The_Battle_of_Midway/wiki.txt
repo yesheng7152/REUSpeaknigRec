@@ -1,0 +1,77 @@
+{{About|the arcade game|the actual World War II battle|Battle of Midway}}
+{{Infobox VG
+|title=1943: The Battle of Midway
+|image = [[Image:1943 01.png|title screen]]
+|caption=Promotional flyer.
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|distributor=
+|designer= [[Yoshiki Okamoto]]
+|released=June {{vgy|1987}} (arcade)
+|genre =Vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]]
+|modes =[[Single-player video game|Single player]], 2 player [[Cooperative gameplay|Co-op]]
+|ratings=
+|platforms=[[Arcade game]], [[Nintendo Entertainment System|NES]]
+|media=
+|requirements=
+|input=8-way [[joystick]], 2 buttons
+|cabinet = Upright
+|arcade system =
+|cpu=Z80 @ 6&nbsp;MHz
+|sound=Sound CPU: Z80 @ 3&nbsp;MHz<br>Sound Chips: (2x) YM2203 @ 1.5&nbsp;MHz 
+|display=[[Raster graphics|Raster]], 224 x 256 pixels (Vertical), 256 colors
+}}
+
+'''''1943: The Battle of Midway''''' ('''1943: Midway Kaisen''' in Japan, or ''1943: ミッドウェイ海戦'') is a vertical [[Shoot 'em up#Scrolling shooters|scrolling shooter]] [[arcade game]] released by [[Capcom]] in June {{vgy|1987}}. 
+
+==Gameplay==
+The game is set in the [[Pacific Theater of Operations|Pacific theater]] of [[World War II]], off the coast of the [[Midway Atoll]]. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 [[Level (video gaming)|level]]s of play, make their way to the [[Japanese battleship Yamato]] and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+
+As in [[1942 (video game)|1942]], players pilot a [[P-38 Lightning|P-38]]. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in [[1942 (video game)|1942]] or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a [[power-up]], such as a health boost or a temporary special weapons which replaces the default twin gun. [[Image: 1943_arcade.png|thumb|right|225 px|Gameplay screenshot of ''1943'']] 
+
+==Legacy==
+
+==1943 Kai: The Battle of Midway==
+This updated version was released exactly one year after the original game's debut. ''1943 Kai'' is an enhanced, "wild" version of ''1943'' that was made only available in Japan under the name '''1943 Kai: Midway Kaisen''' (or ''1943改: ミッドウェイ海戦''). Most of the graphics and sounds have been reworked, the weapons have been made more extreme  and some fairly strange things (laser-firing WWII planes and ships that run on ground) have been added. The trademark [[P-38 Lightning|P-38]] has been replaced with a [[biplane]] [[Boeing-Stearman Model 75|Boeing Stearman E75 N68828]].
+
+This version was ported by Naxat on the [[TurboGrafx-16#PC Engine|PC Engine]] as ''1943 Kai''. It was not available on the US [[TurboGrafx-16]]. The PC Engine port contains many additional levels and original music.
+The history of this game in PC Engine is same of the NES version, but your "biplane" is equipped during this action and his fight with new exclusives enemies and bosses.  Though it was never released in the US in arcades, it was included in [[Capcom Classics Collection]] for [[PlayStation 2]] and [[Xbox]] in 2005.
+
+==Ports==
+Capcom released their own port for the [[Nintendo Entertainment System|NES]], but the game has also been ported to the [[Atari ST]], the [[ZX Spectrum]], the [[Amstrad CPC]], the [[Commodore 64]] and the [[Amiga]]. In {{vgy|2005}} it was re–released for [[Xbox]] and [[PlayStation 2]] as part of ''[[Capcom Classics Collection]]'', and again in [[Capcom Classics Collection: Reloaded]] on the Playstation Portable. The overall faithfulness and quality of execution of these third party versions varies greatly. ''1943'' is the second game in the 1940s series, following the successful ''[[1942 (video game)|1942]]''.
+
+===1943 on the Nintendo Entertainment System===
+The NES version varies from the arcade version somewhat, introducing the gradual improvement of the player's plane by permanently upgrading certain aspects of its abilities. These include the plane's offensive and defensive powers, the energy level, its special weapons and their durations. This somewhat alters the game balance and a different tactic is required to survive the game. For example, initially very few weapons are made available; more can be attained from power-ups by putting statistic points into "special weapons ability". Likewise, there are statistics for offensive ability, defensive ability, total energy, and special weapon time limit. The statistics modify the rates of change for the energy reserve, damage inflicted, and special weapon time limit. 
+
+
+==References==
+
+==External links==
+*{{KLOV game|id=6769}}
+*{{GameFAQs|type=/coinop/arcade|num=563934|name=''1943: The Battle of Midway''}}
+*{{moby game|id=/1943-the-battle-of-midway}}
+*{{WoS_game|id=0009298}}
+
+{{194X series}}
+
+[[Category:1987 video games]]
+[[Category:Arcade games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Capcom games]]
+[[Category:Commodore 64 games]]
+[[Category:Head-to-head arcade games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Scrolling shooters]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Video game sequels]]
+[[Category:World War II video games]]
+[[Category:ZX Spectrum games]]
+
+[[de:1943: The Battle of Midway]]
+[[es:1943: The Battle of Midway]]
+[[fr:1943: The Battle of Midway]]
+[[ja:1943 ミッドウェイ海戦]]
+[[ru:1943: The Battle of Midway]]
+[[zh:1943 中途島海戰]]

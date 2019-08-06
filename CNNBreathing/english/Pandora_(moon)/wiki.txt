@@ -1,0 +1,101 @@
+:''There is also an [[asteroid]] called [[55 Pandora]].''
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at [[Template:Infobox Planet]].
+-->
+{{Infobox Planet
+| name = Pandora
+| image = [[Image:Pandora PIA07632.jpg|300px]]
+| caption = Pandora, as imaged by Cassini
+| bgcolour = #a0ffa0
+| discovery = yes
+| discoverer = [[Stewart A. Collins|Collins]], [[Voyager 1]]
+| discovered = October, 1980
+| orbit_ref =<ref name="Spitale2006">{{cite journal | author= Spitale, J. N.; ''et al.''| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132 | issue=2 | pages= 692–710 | url=http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206 }}</ref>
+| epoch = December 31, 2003 ([[Julian day|JD]] 2453005.5)
+| semimajor = 141,720 ± 10 km
+| eccentricity = 0.0042
+| period = 0.628504213 d 
+| inclination = 0.050 ± 0.004° to Saturn's equator
+| satellite_of = [[Saturn]]
+| physical_characteristics = yes
+| dimensions = 103&times;80&times;64 km<ref name="Porco2006">{{cite journal | author= [[Carolyn C. Porco|Porco, C. C.]]; ''et al.''| title= ''Physical Characteristics and Possible Accretionary Origins for Saturn's Small Satellites''| journal= Bulletin of the American Astronomical Society| year= 2006| volume= 37| pages= 768| url=http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2289.pdf}}</ref>
+| mean_radius = 40.3 ± 2.2 km<ref name="Porco2006" />
+| surface_area = ~21,000 km²
+| volume = ~270,000 km³
+| mass = 1.356 ± 0.022 {{e|17}} [[kilogram|kg]]<ref name="Spitale2006"/>
+| density = 0.49 ± 0.08 g/cm³
+| surface_grav = 0.0034 [[Acceleration|m/s<sup>2</sup>]]
+| escape_velocity = ~0.019 km/s
+| rotation = [[synchronous rotation|synchronous]]
+| axial_tilt = zero
+| albedo = 0.6
+| single_temperature = ~78 K
+}}
+'''Pandora''' ({{pronEng|pænˈdɔərə}} {{respell|pan|DOHR|ə}}, or as in Greek ''Πανδώρα)'' is an [[inner satellite]] of [[Saturn]]. It was discovered in 1980 from photos taken by the ''[[Voyager 1]]'' probe, and was provisionally designated '''{{nowrap|S/1980 S 26}}'''.<ref>[http://cfa-www.harvard.edu/iauc/03500/03532.html IAUC 3532: ''Satellites of Saturn''] October 31, 1980 (discovery)</ref> In late 1985 it was officially named after [[Pandora]] from [[Greek mythology]].<ref>[http://cfa-www.harvard.edu/iauc/04100/04157.html IAUC 4157: ''Satellites of Saturn and Pluto''] January 3, 1986 (naming the moon)</ref> It is also designated as '''{{nowrap|Saturn XVII}}'''.<ref name="Gazetteer">{{cite web
+  | title = Planet and Satellite Names and Discoverers
+  | work = Gazetteer of Planetary Nomenclature
+  | publisher = USGS Astrogeology
+  | date = July 21, 2006
+  | url = http://planetarynames.wr.usgs.gov/append7.html
+  | accessdate = 2006-08-07 }}</ref>
+
+Pandora is the outer [[shepherd satellite]] of the [[Rings of Saturn#F Ring|F Ring]]. It is more heavily cratered than nearby [[Prometheus (moon)|Prometheus]], and has at least two large craters 30&nbsp;km in diameter.<ref>[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Pandora NASA JPL Solar System Exploration: Saturn: Moons: Pandora]</ref>
+
+The orbit of Pandora appears to be chaotic, as a consequence of a [[orbital resonance #Types of resonance|mean motion resonance]] with Prometheus. The most appreciable changes in their orbits occur approximately every 6.2 years,<ref name="Spitale2006"/> when the [[periapsis]] of Pandora lines up with the [[apoapsis]] of Prometheus and the moons approach to within about 1,400&nbsp;km. Pandora also has a 3:2 mean-motion resonance with [[Mimas (moon)|Mimas]].<ref name="Spitale2006"/>
+
+From its very low density and relatively high [[albedo]], it seems likely that Pandora is a very porous icy body. There is a lot of uncertainty in these values, however, so this remains to be confirmed.
+
+The [[2009]] movie [[Avatar]] takes place on a fictive moon called Pandora allegedly located in the [[Alpha Centauri]] star system<ref>http://james-camerons-avatar.wikia.com/wiki/Pandora</ref>. 
+==Gallery==
+<gallery widths="240px" heights="240px" >
+Image:Pandora moon.jpg|''[[Voyager 2]]'' image of Pandora.
+Image:Pandora - PIA07570.jpg|Pandora as seen from the [[Cassini probe]] in 2005; the rings of Saturn are in the background.
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Pandora Pandora Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.planetary.org/explore/topics/saturn/pandora.html The Planetary Society: Pandora]
+
+{{Moons of Saturn}}
+
+{{DEFAULTSORT:Pandora (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[br:Pandora (loarenn)]]
+[[bg:Пандора (спътник)]]
+[[ca:Pandora (satèl·lit)]]
+[[cs:Pandora (měsíc)]]
+[[co:Pandora (astrunumia)]]
+[[cy:Pandora (lloeren)]]
+[[da:Pandora (måne)]]
+[[de:Pandora (Mond)]]
+[[el:Πανδώρα (δορυφόρος)]]
+[[eml:Pandora (astronomî)]]
+[[es:Pandora (satélite)]]
+[[fr:Pandore (lune)]]
+[[ko:판도라 (위성)]]
+[[hr:Pandora (mjesec)]]
+[[id:Pandora (bulan)]]
+[[it:Pandora (astronomia)]]
+[[la:Pandora (satelles)]]
+[[lt:Pandora (palydovas)]]
+[[mk:Пандора (месечина)]]
+[[nl:Pandora (maan)]]
+[[ja:パンドラ (衛星)]]
+[[nn:Saturnmånen Pandora]]
+[[pl:Pandora (księżyc)]]
+[[pt:Pandora (satélite)]]
+[[ro:Pandora (satelit)]]
+[[ru:Пандора (спутник)]]
+[[simple:Pandora (moon)]]
+[[sk:Pandora (mesiac)]]
+[[sl:Pandora (luna)]]
+[[sr:Pandora (satelit)]]
+[[fi:Pandora (kuu)]]
+[[sv:Pandora (måne)]]
+[[uk:Пандора (супутник)]]
+[[zh:土卫十七]]

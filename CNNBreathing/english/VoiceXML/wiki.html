@@ -1,0 +1,401 @@
+<div class="mw-parser-output"><p><b>VoiceXML</b> (<b>VXML</b>) is the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a>'s standard <a href="/wiki/XML" title="XML">XML</a> format for specifying interactive voice dialogues between a human and a computer. It allows voice applications to be developed and deployed in an analogous way to HTML for visual applications. Just as HTML documents are interpreted by a visual web browser, VoiceXML documents are interpreted by a <a href="/wiki/Voice_browser" title="Voice browser">voice browser</a>. A common architecture is to deploy banks of voice browsers attached to the Public Switched Telephone Network (<a href="/wiki/Public_Switched_Telephone_Network" class="mw-redirect" title="Public Switched Telephone Network">PSTN</a>) to allow users to interact with voice applications over the telephone.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Future_versions_of_the_standard"><span class="tocnumber">3</span> <span class="toctext">Future versions of the standard</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_standards"><span class="tocnumber">4</span> <span class="toctext">Related standards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#SRGS_and_SISR"><span class="tocnumber">4.1</span> <span class="toctext">SRGS and SISR</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#SSML"><span class="tocnumber">4.2</span> <span class="toctext">SSML</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#PLS"><span class="tocnumber">4.3</span> <span class="toctext">PLS</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#CCXML"><span class="tocnumber">4.4</span> <span class="toctext">CCXML</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#MSML.2C_MSCML.2C_MediaCTRL"><span class="tocnumber">4.5</span> <span class="toctext">MSML, MSCML, MediaCTRL</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many commercial VoiceXML applications have been deployed, processing millions of telephone calls per day. These applications include: order inquiry, package tracking, driving directions, emergency notification, wake-up, flight tracking, voice access to email, customer relationship management, prescription refilling, audio news magazines, voice dialing, real-estate information and national <a href="/wiki/Directory_assistance" title="Directory assistance">directory assistance</a> applications.</p>
+<p>VoiceXML has tags that instruct the <a href="/wiki/Voice_browser" title="Voice browser">voice browser</a> to provide <a href="/wiki/Speech_synthesis" title="Speech synthesis">speech synthesis</a>, automatic <a href="/wiki/Speech_recognition" title="Speech recognition">speech recognition</a>, dialog management, and audio playback. The following is an example of a VoiceXML document:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nt">&lt;vxml</span> <span class="na">version=</span><span class="s">"2.0"</span> <span class="na">xmlns=</span><span class="s">"http://www.w3.org/2001/vxml"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;form&gt;</span>
+    <span class="nt">&lt;block&gt;</span>
+      <span class="nt">&lt;prompt&gt;</span>
+        Hello world!
+      <span class="nt">&lt;/prompt&gt;</span>
+    <span class="nt">&lt;/block&gt;</span>
+  <span class="nt">&lt;/form&gt;</span>
+<span class="nt">&lt;/vxml&gt;</span>
+</pre></div>
+<p>When interpreted by a VoiceXML interpreter this will output "Hello world" with synthesized speech.</p>
+<p>Typically, <a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a> is used as the transport protocol for fetching VoiceXML pages. Some applications may use static VoiceXML pages, while others rely on dynamic VoiceXML page generation using an <a href="/wiki/Application_server" title="Application server">application server</a> like <a href="/wiki/Jakarta_Tomcat" class="mw-redirect" title="Jakarta Tomcat">Tomcat</a>, <a href="/wiki/Weblogic" class="mw-redirect" title="Weblogic">Weblogic</a>, <a href="/wiki/Internet_Information_Services" title="Internet Information Services">IIS</a>, or <a href="/wiki/WebSphere" class="mw-redirect" title="WebSphere">WebSphere</a>.</p>
+<p>Historically, VoiceXML platform vendors have implemented the standard in different ways, and added proprietary features. But the VoiceXML 2.0 standard, adopted as a W3C Recommendation on 16 March 2004, clarified most areas of difference. The VoiceXML Forum, an industry group promoting the use of the standard, provides a <a href="/wiki/Conformance_testing" title="Conformance testing">conformance testing</a> process that certifies vendors' implementations as conformant.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a>, <a href="/wiki/IBM" title="IBM">IBM</a>, <a href="/wiki/Lucent_Technologies" class="mw-redirect" title="Lucent Technologies">Lucent</a>, and <a href="/wiki/Motorola" title="Motorola">Motorola</a> formed the VoiceXML Forum in March 1999, in order to develop a standard markup language for specifying voice dialogs. By September 1999 the Forum released VoiceXML 0.9 for member comment, and in March 2000 they published VoiceXML 1.0. Soon afterwards, the Forum turned over the control of the standard to the W3C.<sup id="cite_ref-Forum2003_1-0" class="reference"><a href="#cite_note-Forum2003-1">[1]</a></sup> The W3C produced several intermediate versions of VoiceXML 2.0, which reached the final "Recommendation" stage in March 2004.<sup id="cite_ref-W3C2004_2-0" class="reference"><a href="#cite_note-W3C2004-2">[2]</a></sup></p>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/voicexml21/">VoiceXML 2.1</a> added a relatively small set of additional features to VoiceXML 2.0, based on feedback from implementations of the 2.0 standard. It is backward compatible with VoiceXML 2.0 and reached W3C Recommendation status in June 2007.<sup id="cite_ref-VXML21_3-0" class="reference"><a href="#cite_note-VXML21-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Future_versions_of_the_standard">Future versions of the standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=3" title="Edit section: Future versions of the standard">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/TR/voicexml30/">VoiceXML 3.0</a> will be the next major release of VoiceXML, with new major features. It includes a new XML statechart description language called <a href="/wiki/SCXML" title="SCXML">SCXML</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Related_standards">Related standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=4" title="Edit section: Related standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The W3C's Speech Interface Framework also defines these other standards closely associated with VoiceXML.</p>
+<h3><span class="mw-headline" id="SRGS_and_SISR">SRGS and SISR</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=5" title="Edit section: SRGS and SISR">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Speech_Recognition_Grammar_Specification" title="Speech Recognition Grammar Specification">Speech Recognition Grammar Specification</a> (SRGS) is used to tell the speech recognizer what sentence patterns it should expect to hear: these patterns are called grammars. Once the speech recognizer determines the most likely sentence it heard, it needs to extract the semantic meaning from that sentence and return it to the VoiceXML interpreter. This semantic interpretation is specified via the <a href="/wiki/Semantic_Interpretation_for_Speech_Recognition" title="Semantic Interpretation for Speech Recognition">Semantic Interpretation for Speech Recognition</a> (SISR) standard. SISR is used inside SRGS to specify the semantic results associated with the grammars, i.e., the set of ECMAScript assignments that create the semantic structure returned by the speech recognizer.</p>
+<h3><span class="mw-headline" id="SSML">SSML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=6" title="Edit section: SSML">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Speech_Synthesis_Markup_Language" title="Speech Synthesis Markup Language">Speech Synthesis Markup Language</a> (SSML) is used to decorate textual prompts with information on how best to render them in synthetic speech, for example which speech synthesizer voice to use or when to speak louder or softer.</p>
+<h3><span class="mw-headline" id="PLS">PLS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=7" title="Edit section: PLS">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Pronunciation_Lexicon_Specification" title="Pronunciation Lexicon Specification">Pronunciation Lexicon Specification</a> (PLS) is used to define how words are pronounced. The generated pronunciation information is meant to be used by both speech recognizers and speech synthesizers in voice browsing applications.</p>
+<h3><span class="mw-headline" id="CCXML">CCXML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=8" title="Edit section: CCXML">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Call_Control_eXtensible_Markup_Language" title="Call Control eXtensible Markup Language">Call Control eXtensible Markup Language</a> (CCXML) is a complementary W3C standard. A CCXML interpreter is used on some VoiceXML platforms to handle the initial call setup between the caller and the voice browser, and to provide telephony services like call transfer and disconnect to the voice browser. CCXML can also be used in non-VoiceXML contexts.</p>
+<h3><span class="mw-headline" id="MSML.2C_MSCML.2C_MediaCTRL">MSML, MSCML, MediaCTRL</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=9" title="Edit section: MSML, MSCML, MediaCTRL">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Media_server" title="Media server">media server</a> applications, it is often necessary for several call legs to interact with each other, for example in a multi-party conference. Some deficiencies were identified in VoiceXML for this application and so companies designed specific scripting languages to deal with this environment. The <a href="/wiki/MSML" title="MSML">Media Server Markup Language</a> (MSML) was Convedia's solution, and <a href="/wiki/MSCML" title="MSCML">Media Server Control Markup Language</a> (MSCML) was Snowshore's, which is now owned by Dialogic. These languages also contain 'hooks' so that external scripts (like VoiceXML) can run on call legs where IVR functionality is required.</p>
+<p>There is an IETF working group called <i>mediactrl</i> ("media control") that is working on a successor for these scripting systems, which it is hoped will progress to an open and widely adopted standard.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/CCXML" class="mw-redirect" title="CCXML">CCXML</a> - Call Control eXtensible Markup Language</li>
+<li><a href="/wiki/ECMAScript" title="ECMAScript">ECMAScript</a> - the scripting language used in VoiceXML</li>
+<li><a href="/w/index.php?title=OpenVXI&amp;action=edit&amp;redlink=1" class="new" title="OpenVXI (page does not exist)">OpenVXI</a> - an open source VoiceXML interpreter</li>
+<li><a href="/wiki/Pronunciation_Lexicon_Specification" title="Pronunciation Lexicon Specification">Pronunciation Lexicon Specification</a> (PLS)</li>
+<li><a href="/wiki/SCXML" title="SCXML">SCXML</a> - State Chart XML</li>
+<li><a href="/wiki/SISR" class="mw-redirect" title="SISR">SISR</a> - Semantic Interpretation for Speech Recognition</li>
+<li><a href="/wiki/SRGS" class="mw-redirect" title="SRGS">SRGS</a> - Speech Recognition Grammar Specification</li>
+<li><a href="/wiki/Speech_Synthesis_Markup_Language" title="Speech Synthesis Markup Language">SSML</a> - Speech Synthesis Markup Language</li>
+<li><a href="/wiki/MSML" title="MSML">MSML</a>, <a href="/wiki/MSCML" title="MSCML">MSCML</a> - media server markup languages</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-Forum2003-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Forum2003_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.voicexml.org/voicexml-tutorials/introduction">VoiceXML Forum Tutorial on VoiceXML</a> 2003</span></li>
+<li id="cite_note-W3C2004-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-W3C2004_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.infoworld.com/article/04/03/17/HNvxml_1.html">W3C Recommends VoiceXML 2.0</a> InfoWorld, Ephraim Schwartz, March 17, 2004</span></li>
+<li id="cite_note-VXML21-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-VXML21_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.w3.org/TR/voicexml21">http://www.w3.org/TR/voicexml21</a> Voice Extensible Markup Language (VoiceXML) 2.1</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ietf.org/html.charters/mediactrl-charter.html">mediactrl charter: Burger, Dawkins</a></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VoiceXML&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="section_SpokenWikipedia" class="infobox sisterproject plainlinks haudio">
+<div style="text-align: center; white-space:nowrap"><b>Listen to this article</b> (<a href="/wiki/File:En-VoiceXML.ogg" title="File:En-VoiceXML.ogg">info/dl</a>)
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="width:200px"><audio id="mwe_player_0" controls="" preload="none" style="width:200px" class="kskin" data-durationhint="517.12" data-startoffset="0" data-mwtitle="En-VoiceXML.ogg" data-mwprovider="wikimediacommons">
+<source src="//upload.wikimedia.org/wikipedia/commons/a/a5/En-VoiceXML.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (69 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="68809" /></audio></div>
+</div>
+</div>
+</div>
+<p><br /></p>
+<div style="float: left; margin-left: 5px;">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png" title="Spoken Wikipedia" width="45" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/68px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/90px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></div>
+</div>
+<div style="font-size: xx-small; line-height: 1.6em; margin-left: 60px;">This audio file was created from a revision of the "<span class="fn">VoiceXML</span>" article dated 2010-10-24, and does not reflect subsequent edits to the article. (<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">Audio help</a>)</div>
+<div style="text-align: center; clear: both"><b><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">More spoken articles</a></b></div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/Voice/">W3C's Voice Browser Working Group</a>, Official VoiceXML Standards</li>
+<li><a rel="nofollow" class="external text" href="http://www.voicexml.org">VoiceXML Forum</a>, VoiceXML Trademark Holder</li>
+<li><a rel="nofollow" class="external text" href="http://www.dmoz.org/Computers/Data_Formats/Markup_Languages/XML/Applications/VoiceXML/">DMOZ Open Directory Listing - VoiceXML</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vxml.org/">VoiceXML tutorials</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="World_Wide_Web_Consortium_.28W3C.29" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:W3C_standards" title="Template:W3C standards"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:W3C_standards" title="Template talk:W3C standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:W3C_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Wide_Web_Consortium_.28W3C.29" style="font-size:114%;margin:0 4em"><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium (W3C)</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Products and<br />
+standards</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/World_Wide_Web_Consortium#Specification_maturation" title="World Wide Web Consortium">Recommendations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WAI-ARIA" title="WAI-ARIA">ARIA</a></li>
+<li><a href="/wiki/Canonical_XML" title="Canonical XML">Canonical XML</a></li>
+<li><a href="/wiki/Compound_Document_Format" title="Compound Document Format">CDF</a></li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">CSS</a></li>
+<li><a href="/wiki/Document_Object_Model" title="Document Object Model">DOM</a></li>
+<li><a href="/wiki/W3C_Geolocation_API" title="W3C Geolocation API">Geolocation API</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a> (<a href="/wiki/HTML5" title="HTML5">HTML5</a>)</li>
+<li><a href="/wiki/Internationalization_Tag_Set" title="Internationalization Tag Set">ITS</a></li>
+<li><a href="/wiki/JSON-LD" title="JSON-LD">JSON-LD</a></li>
+<li><a href="/wiki/Linked_Data_Notifications" title="Linked Data Notifications">Linked Data Notifications</a></li>
+<li><a href="/wiki/MathML" title="MathML">MathML</a></li>
+<li><a href="/wiki/Micropub" title="Micropub">Micropub</a></li>
+<li><a href="/wiki/Web_Ontology_Language" title="Web Ontology Language">OWL</a></li>
+<li><a href="/wiki/P3P" title="P3P">P3P</a></li>
+<li><a href="/wiki/Pronunciation_Lexicon_Specification" title="Pronunciation Lexicon Specification">PLS</a></li>
+<li><a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a></li>
+<li><a href="/wiki/RDF_Schema" title="RDF Schema">RDF Schema</a></li>
+<li><a href="/wiki/Semantic_Interpretation_for_Speech_Recognition" title="Semantic Interpretation for Speech Recognition">SISR</a></li>
+<li><a href="/wiki/Simple_Knowledge_Organization_System" title="Simple Knowledge Organization System">SKOS</a></li>
+<li><a href="/wiki/Synchronized_Multimedia_Integration_Language" title="Synchronized Multimedia Integration Language">SMIL</a></li>
+<li><a href="/wiki/SOAP" title="SOAP">SOAP</a></li>
+<li><a href="/wiki/Speech_Recognition_Grammar_Specification" title="Speech Recognition Grammar Specification">SRGS</a></li>
+<li><a href="/wiki/Subresource_Integrity" title="Subresource Integrity">SRI</a></li>
+<li><a href="/wiki/Speech_Synthesis_Markup_Language" title="Speech Synthesis Markup Language">SSML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/SCXML" title="SCXML">SCXML</a></li>
+<li><a href="/wiki/SPARQL" title="SPARQL">SPARQL</a></li>
+<li><a href="/wiki/Timed_text" title="Timed text">Timed text</a></li>
+<li><a class="mw-selflink selflink">VoiceXML</a></li>
+<li><a href="/wiki/Web_storage" title="Web storage">Web storage</a></li>
+<li><a href="/wiki/Web_Services_Description_Language" title="Web Services Description Language">WSDL</a></li>
+<li><a href="/wiki/Webmention" title="Webmention">Webmention</a></li>
+<li><a href="/wiki/XForms" title="XForms">XForms</a></li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a></li>
+<li><a href="/wiki/XHTML%2BRDFa" title="XHTML+RDFa">XHTML+RDFa</a></li>
+<li><a href="/wiki/XInclude" title="XInclude">XInclude</a></li>
+<li><a href="/wiki/XLink" title="XLink">XLink</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+<li><a href="/wiki/XML_Base" title="XML Base">XML Base</a></li>
+<li><a href="/wiki/XML_Encryption" title="XML Encryption">XML Encryption</a></li>
+<li><a href="/wiki/XML_Events" title="XML Events">XML Events</a></li>
+<li><a href="/wiki/XML_Information_Set" title="XML Information Set">XML Information Set</a></li>
+<li><a href="/wiki/XML_namespace" title="XML namespace">XML namespace</a></li>
+<li><a href="/wiki/XML_Schema_(W3C)" title="XML Schema (W3C)">XML Schema</a></li>
+<li><a href="/wiki/XML_Signature" title="XML Signature">XML Signature</a></li>
+<li><a href="/wiki/XML-binary_Optimized_Packaging" title="XML-binary Optimized Packaging">XOP</a></li>
+<li><a href="/wiki/XPath" title="XPath">XPath</a></li>
+<li><a href="/wiki/XPath_2.0" title="XPath 2.0">XPath 2.0</a></li>
+<li><a href="/wiki/XPointer" title="XPointer">XPointer</a></li>
+<li><a href="/wiki/XProc" title="XProc">XProc</a></li>
+<li><a href="/wiki/XQuery" title="XQuery">XQuery</a></li>
+<li><a href="/wiki/XSL" title="XSL">XSL</a></li>
+<li><a href="/wiki/XSL_Formatting_Objects" title="XSL Formatting Objects">XSL-FO</a></li>
+<li><a href="/wiki/XSLT" title="XSLT">XSLT</a>&#160;(<a href="/wiki/XSLT_elements" title="XSLT elements">elements</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Notes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/XAdES" title="XAdES">XAdES</a></li>
+<li><a href="/wiki/XHTML%2BSMIL" title="XHTML+SMIL">XHTML+SMIL</a></li>
+<li><a href="/wiki/Extensible_User_Interface_Protocol" title="Extensible User Interface Protocol">XUP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Working drafts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Call_Control_eXtensible_Markup_Language" title="Call Control eXtensible Markup Language">CCXML</a></li>
+<li><a href="/wiki/CURIE" title="CURIE">CURIE</a></li>
+<li><a href="/wiki/Encrypted_Media_Extensions" title="Encrypted Media Extensions">EME</a></li>
+<li><a href="/wiki/InkML" title="InkML">InkML</a></li>
+<li><a href="/wiki/Media_Source_Extensions" title="Media Source Extensions">MSE</a></li>
+<li><a href="/wiki/Rule_Interchange_Format" title="Rule Interchange Format">RIF</a></li>
+<li><a href="/wiki/SMIL_Timesheets" title="SMIL Timesheets">SMIL Timesheets</a></li>
+<li><a href="/wiki/SXBL" title="SXBL">sXBL</a></li>
+<li><a href="/wiki/Web_Integration_Compound_Document" title="Web Integration Compound Document">WICD</a></li>
+<li><a href="/wiki/Extensible_Forms_Description_Language" title="Extensible Forms Description Language">XFDL</a></li>
+<li><a href="/wiki/XFrames" title="XFrames">XFrames</a></li>
+<li><a href="/wiki/XBL" title="XBL">XBL</a></li>
+<li><a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Guidelines</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web_Content_Accessibility_Guidelines" title="Web Content Accessibility Guidelines">Web Content Accessibility Guidelines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Initiative</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/W3C_MMI" title="W3C MMI">Multimodal Interaction Activity (MMI)</a></li>
+<li><a href="/wiki/W3C_Markup_Validation_Service" title="W3C Markup Validation Service">Markup Validation Service</a></li>
+<li><a href="/wiki/Web_Accessibility_Initiative" title="Web Accessibility Initiative">Web Accessibility Initiative</a></li>
+<li><a href="/wiki/WebPlatform" title="WebPlatform">WebPlatform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Deprecated</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/C-HTML" title="C-HTML">C-HTML</a></li>
+<li><a href="/wiki/Handheld_Device_Markup_Language" title="Handheld Device Markup Language">HDML</a></li>
+<li><a href="/wiki/JavaScript_Style_Sheets" title="JavaScript Style Sheets">JSSS</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">PGML</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language">VML</a></li>
+<li><a href="/wiki/XHTML%2BMathML%2BSVG" title="XHTML+MathML+SVG">XHTML+MathML+SVG</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Organizations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Advisory_Committee_(W3C)&amp;action=edit&amp;redlink=1" class="new" title="Advisory Committee (W3C) (page does not exist)">Advisory Committee (AC)</a></li>
+<li><a href="/wiki/World_Wide_Web_Foundation" title="World Wide Web Foundation">World Wide Web Foundation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elected groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Advisory_Board_(W3C)&amp;action=edit&amp;redlink=1" class="new" title="Advisory Board (W3C) (page does not exist)">Advisory Board (AB)</a></li>
+<li><a href="/w/index.php?title=Technical_Architecture_Group&amp;action=edit&amp;redlink=1" class="new" title="Technical Architecture Group (page does not exist)">Technical Architecture Group (TAG)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Working groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CSS_Working_Group" title="CSS Working Group">CSS</a></li>
+<li><a href="/wiki/HTML_Working_Group" title="HTML Working Group">HTML</a></li>
+<li><a href="/w/index.php?title=Geolocation_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Geolocation Working Group (page does not exist)">Geolocation</a></li>
+<li><a href="/w/index.php?title=Social_Web_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Social Web Working Group (page does not exist)">Social Web</a></li>
+<li><a href="/wiki/SVG_Working_Group" title="SVG Working Group">SVG</a></li>
+<li><a href="/wiki/WHATWG" title="WHATWG">Web Hypertext Application Technology (WHATWG)</a></li>
+<li><a href="/w/index.php?title=Web_Platform_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Web Platform Working Group (page does not exist)">Web Platform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Closed groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/W3C_Device_Description_Working_Group" title="W3C Device Description Working Group">Device Description (DDWG)</a></li>
+<li><a href="/w/index.php?title=WebOnt&amp;action=edit&amp;redlink=1" class="new" title="WebOnt (page does not exist)">WebOnt (Semantic Web Activity)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CERN_httpd" title="CERN httpd">CERN httpd</a></li>
+<li><a href="/wiki/Libwww" title="Libwww">Libwww</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_browser" title="Web browser">Browsers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode <span style="font-size:90%;">(1990–)</span></a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena <span style="font-size:90%;">(1993–98)</span></a></li>
+<li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora <span style="font-size:90%;">(1994–97)</span></a></li>
+<li><a href="/wiki/Argo_(web_browser)" title="Argo (web browser)">Argo <span style="font-size:90%;">(1994–97)</span></a></li>
+<li><a href="/wiki/Amaya_(web_editor)" title="Amaya (web editor)">Amaya <span style="font-size:90%;">(browser/editor, 1996–2012)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Conferences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/International_World_Wide_Web_Conference" title="International World Wide Web Conference">International World Wide Web Conference (IW3C)</a>
+<ul>
+<li><a href="/wiki/International_World_Wide_Web_Conferences_Steering_Committee" class="mw-redirect" title="International World Wide Web Conferences Steering Committee">Steering Committee (IW3C2)</a></li>
+<li><a href="/wiki/First_International_Conference_on_the_World-Wide_Web" title="First International Conference on the World-Wide Web">First conference ("WWW1", 1994)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1288
+Cached time: 20170809205548
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.142 seconds
+Preprocessor visited node count: 463/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42322/2097152 bytes
+Template argument size: 469/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   77.357      1 -total
+ 60.73%   46.975      1 Template:Spoken_Wikipedia
+ 54.25%   41.969      1 Template:Spoken_Wikipedia_boilerplate
+ 52.31%   40.467      4 Template:Navbox
+ 51.85%   40.108      1 Template:Top_icon
+ 43.38%   33.558      1 Template:Category_handler
+ 39.15%   30.288      1 Template:W3C_Standards
+  5.17%    4.000      5 Template:Smaller
+  3.68%    2.844      1 Template:Ns0
+  3.04%    2.349      5 Template:Resize
+-->
+</div>

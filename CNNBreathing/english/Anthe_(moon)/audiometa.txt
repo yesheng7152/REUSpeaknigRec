@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title=Anthe (moon)
+|time=1:16
+|user_name=Mangst
+|date=2010-01-16
+|oldid=308864810
+|accent=American English
+}}
+{{Information 
+|description    = {{en|1= Anthe (moon)}} 
+|date           = {{Original upload date|2010-01-17}} 
+|source         = {{transferred from|en.wikipedia|SreeBot}} 
+|author         = [[:en:User:Mangst|Mangst]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Mangst|migration=not-eligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Anthe_(moon).ogg}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2010-01-17 01:36 (UTC) | [[:en:User:Mangst|Mangst]] | 763942 (bytes) | 0×0 | <small><nowiki>{{Spoken article |title=Anthe (moon) |time=1:16 |user_name=Mangst |date=2010-01-16 |oldid=308864810 |accent=American English }} == Licensing: == {{GFDL-with-disclaim</nowiki></small>
+
+[[Category:Anthe]]
+[[Category:Spoken Wikipedia - English]]

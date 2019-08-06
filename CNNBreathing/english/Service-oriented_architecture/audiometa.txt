@@ -1,0 +1,13 @@
+{{Spoken article
+|title=Service-oriented architecture
+|time=54:27
+|user_name=Mangst
+|date=2011-10-27
+|oldid=457303671
+|accent=American English
+|sex=male
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Audio files requiring categorisation]]

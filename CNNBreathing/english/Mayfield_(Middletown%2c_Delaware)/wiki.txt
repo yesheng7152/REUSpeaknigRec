@@ -1,0 +1,39 @@
+{{Infobox NRHP
+  | name = Mayfield
+  | nrhp_type = 
+  | image = MAYFIELD, MIDDLETOWN, NEW CASTLE COUNTY, DE.jpg
+  | caption = 
+  | location =1603 Levels Rd., near [[Middletown, Delaware]]
+  | lat_degrees = 39
+  | lat_minutes = 24
+  | lat_seconds = 1
+  | lat_direction = N
+  | long_degrees = 75
+  | long_minutes = 45
+  | long_seconds = 21
+  | long_direction = W
+  | coord_display = inline,title
+  | locmapin = Delaware
+  | built = c. {{Start date|1839}}
+  | architect OR builder = 
+  | architecture = Vernacular Greek Revival    
+  | added = August 1, 1997
+  | area = {{convert|5.2|acre}}
+  | governing_body = Private 
+  | refnum = 97000836<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}
+'''Mayfield''', also known as the William Wilson House, is a historic home located near [[Middletown, Delaware|Middletown]], [[New Castle County, Delaware]].  It was built about 1839, and is a 2 1/2-story, five bay, center hall plan brick dwelling with a two-story, rear service wing.  The house is in a vernacular [[Greek Revival architecture|Greek Revival]] style. It measures approximately 45 feet wide and 25 feet deep.  It features a steeply pitched gable roof with dormers and tetrastyle, Greek-Revival style porch on brick footings.<ref name=nrhpdoc>{{cite web|url=http://pdfhost.focus.nps.gov/docs/NRHP/Text/97000836.pdf |title=National Register of Historic Places Inventory/Nomination: Mayfield |author=Susan Brizzolara|date=April 1997 |publisher=National Park Service}} and [http://pdfhost.focus.nps.gov/docs/NRHP/Photos/97000836.pdf accompanying 11 photos]</ref>
+
+It was listed on the [[National Register of Historic Places]] in 1997.<ref name = nris/> 
+
+==References==
+{{Reflist}}
+
+{{National Register of Historic Places in Delaware}}
+
+[[Category:Houses on the National Register of Historic Places in Delaware]]
+[[Category:Greek Revival houses in Delaware]]
+[[Category:Houses completed in 1839]] 
+[[Category:Houses in New Castle County, Delaware]]
+
+{{Delaware-NRHP-stub}}

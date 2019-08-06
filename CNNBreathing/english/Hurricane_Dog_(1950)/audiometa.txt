@@ -1,0 +1,36 @@
+{{Spoken article entry
+|title=Hurricane Dog
+|time=12:52
+|user_name=Tonyle
+|date=2009-01-25
+|oldid=266366452
+|accent=U.S. Michigan and California
+|wiki_lang=en
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Tonyle|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Hurricane_Dog_%281950%29.ogg}}
+* 2009-01-25 20:11 [[:en:User:Tonyle|Tonyle]] 0&times;0&times; (9658456 bytes) ''<nowiki>{{Spoken article entry |title=Hurricane Dog |time=12:52 |user_name=Tonyle |date=2009-01-25 |oldid=266366452 |accent=U.S. Michigan and California }}  {{GFDL-with-disclaimers}}</nowiki>''
+
+ 
+{{Check categories|year=2009|month=June|day=27
+|lang1=en|wiki1=wikipedia|article1=Hurricane_Dog_(1950)
+|gallery1=Featured article
+|gallery2=Atlantic hurricanes
+|gallery3=1950
+|ncats=10
+}}
+
+[[Category:Geography of Massachusetts]]
+[[Category:Weather and climate of the Caribbean]]
+[[Category:Geography of Vermont]]
+[[Category:Geography of New Hampshire]]
+[[Category:Geography of Maine]]
+[[Category:Geography of Rhode Island]]
+[[Category:1950 Atlantic hurricane season]]
+[[Category:Category 5 tropical cyclones]]
+[[Category:Geography of Connecticut]]
+[[Category:1950 in the United States]]

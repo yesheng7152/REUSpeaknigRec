@@ -1,0 +1,28 @@
+{{Information
+|Description={{en|1=''See below''}}
+|Source=[[:en:User:Leotohill|Leotohill]] made this recording based on Wikipedia.
+|Date={{original upload date|2008-01-26}}
+|Author={{user at project|Leotohill|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Leotohill|migration=relicense}}
+{{Spoken article
+|title=Treatment of multiple sclerosis
+|time= 26:48
+|user_name=leotohill
+|date=2008-01-26
+|oldid=186641406 
+|accent=American
+|reviewed=yes
+|wiki_lang=en
+}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Treatment_of_multiple_sclerosis.ogg}}
+* 2008-01-26 17:35 [[:en:User:Leotohill|Leotohill]] 0×0× (18351429 bytes) ''<nowiki>{{Spoken article |title=Treatment of Multiple Sclerosis |time= |user_name=leotohill |date=1/26/2008 |link_to_recorded_version= |accent=American }} {{GFDL-with-disclaimers}} <!-- This is the license tag. Please leave the license selector blank. </nowiki>''
+
+[[Category:Management of multiple sclerosis]]
+[[Category:Spoken Wikipedia - English]]

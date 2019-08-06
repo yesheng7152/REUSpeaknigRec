@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken Version of Wikipedia Article on Prince Harry}}
+|date=2014-07-12 17:50:35
+|source={{own}}
+|author=[[User:Matthew David González|Matthew David González]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+{{Check categories|year=2015|month=June|day=30}}
+[[Category:Prince Harry of Wales]]

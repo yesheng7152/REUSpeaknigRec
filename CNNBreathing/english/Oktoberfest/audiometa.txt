@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Spoken article
+|title= Oktoberfest
+|time= 15:26
+|user_name= LordOider
+|date= 2013-09-26
+|oldid=574624796
+|accent= German
+}}
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Oktoberfest]]
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}

@@ -1,0 +1,24 @@
+{{Information
+|Description={{Spoken article
+|title= Laika
+|time= 13:39
+|user_name= Dmitry Brant
+|date= 2011-11-19
+|oldid=459582664
+|accent=American
+}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2011-11-19}}
+|Author={{user at project|Dmitry Brant|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|Dmitry Brant|wikipedia|en}}|Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|En-Laika.ogg}}
+* 2011-11-19 16:39 [[:en:User:Dmitry Brant|Dmitry Brant]] 0×0× (9614014 bytes) ''<nowiki>{{Spoken article |title= Laika |time= 13:39 |user_name= Dmitry Brant |date= 2011-11-19 |oldid=459582664 |accent=American }}</nowiki>''
+
+[[Category:Laika]]

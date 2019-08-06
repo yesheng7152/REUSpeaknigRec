@@ -1,0 +1,109 @@
+{{Infobox settlement
+|official_name            = Broad Creek, North Carolina
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Broadcreek.jpeg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+|pushpin_map              = North Carolina
+|pushpin_label            = Broad Creek
+
+<!-- Location -->
+|subdivision_type         = [[List of countries|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[Political divisions of the United States|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Carteret County, North Carolina|Carteret]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 8.07
+|area_land_km2            = 8.05
+|area_water_km2           = 0.03
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2334
+|population_density_km2   = 290.1
+|population_density_sq_mi = 
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 7
+|coordinates_display      = inline,title
+|coordinates_type         = region:US_type:city
+|latd = 34 |latm = 43 |lats = 14 |latNS = N
+|longd = 76 |longm = 56 |longs = 9 |longEW = W
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 28570 ([[Newport, North Carolina|Newport]])
+|area_code                = [[Area code 252|252]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-08040<ref name="GR2">{{cite web|url=http://factfinder2.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=American FactFinder}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1019307<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = 
+|footnotes                = 
+}}
+'''Broad Creek''' is an unincorporated area and [[census-designated place]] (CDP) in [[Carteret County, North Carolina|Carteret County]], [[North Carolina]], United States. As of the [[2010 United States Census|2010 census]] it had a population of 2,334.<ref name="Census 2010">{{cite web| url=http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3708040| title=Geographic Identifiers: 2010 Demographic Profile Data (G001): Broad Creek CDP, North Carolina| publisher=U.S. Census Bureau, American Factfinder| accessdate=December 24, 2014}}</ref> It is part of the greater [[Newport, North Carolina|Newport]] area and currently shares the Newport zip code of 28570.
+
+==Geography==
+Broad Creek is located in west-central Carteret County, on the north shore of [[Bogue Sound]], between the tidal inlets of [[Broad Creek (Bogue Sound)|Broad Creek]] to the west and [[Gales Creek (North Carolina)|Gales Creek]] to the east. Bogue Sound is separated from the [[Atlantic Ocean]] to the south by [[Bogue Banks]], part of North Carolina's [[barrier island]]s known as the [[Crystal Coast]]. The Broad Creek community is bordered on the north by [[Croatan National Forest]].
+
+[[North Carolina Highway 24]] passes through the community, leading east {{convert|12|mi}} to [[Morehead City, North Carolina|Morehead City]] and west {{convert|8|mi|0}} to [[Cape Carteret, North Carolina|Cape Carteret]]. Newport is {{convert|7|mi|0}} to the northeast up Hibbs Road. 9 Mile Road runs north from Broad Creek, providing a direct route to [[Havelock, North Carolina|Havelock]], {{convert|13|mi}} to the north. Broad Creek Loop Road forms a loop through the center of the community, south of NC 24.
+
+The Broad Creek CDP has a total area of {{convert|8.1|km2|disp=flip}}, of which {{convert|0.03|km2|disp=flip|2}}, or 0.35%, is water.<ref name="Census 2010"/>
+
+Housing developments in Broad Creek include Salty Shores, Croatan Colony, Rolling Wood, Fox Lair, Bogue Pines, Whispering Pines, Karobi Park, Adams Harbor, Pearson Circle, Bar Harbor, Bluewater Banks.
+
+== Education ==
+*Bogue Sound Elementary School
+*Broad Creek Middle School
+*[[Croatan High School]]
+
+== Business ==
+Businesses in Broad Creek include the former Broad Creek Family Restaurant, Cafe 24, Southern Beverage Inc., Clarks Cable co., Skips Used Cars, Holland car group(?), McStore self-storage, Croatan Self Storage, Zena's Cigarette outlet and Mini Market, The Fuel Market, "Frank's Pizza and Subs", The Gas Man, World Class auto Paint, Dollar Daze and the Glass & Lighting place, a beauty salon and the Whispering Pines Campground and Mobile home park.  
+
+==References==
+{{reflist}}
+
+{{Carteret County, North Carolina}}
+
+[[Category:Census-designated places in Carteret County, North Carolina]]
+[[Category:Census-designated places in North Carolina]]
+
+{{CarteretCountyNC-geo-stub}}

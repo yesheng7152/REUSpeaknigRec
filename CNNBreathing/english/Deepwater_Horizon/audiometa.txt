@@ -1,0 +1,14 @@
+{{English spoken article
+|title=Deepwater Horizon
+|user_name_link=[[:en:User:0x0077BE|0x0077BE]]
+|date=2014-10-19
+|accent=American
+|sex=m
+|oldid=629338573
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}} 
+
+[[Category:Spoken Wikipedia - English]]
+[[Category:Deepwater Horizon oil spill]]

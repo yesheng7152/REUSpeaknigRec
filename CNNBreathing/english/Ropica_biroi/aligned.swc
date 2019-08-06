@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article><meta><link key="DC.conformsto" value="http://nats.gitlab.io/swc/schema/swc-1.0.rnc" /><prop key="DC.creator" value="Spoken Wikipedia Corpus Collection Software" /><prop key="DC.publisher" value="Universität Hamburg" /><link key="DC.reference" value="http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2209" /><prop key="DC.type" value="dataset" /><prop key="DC.license" value="CC-BY-SA" /><prop key="DC.title" value="Ropica biroi" /><prop key="DC.language" value="en" /><prop key="DC.identifier" value="Ropica_biroi" /><prop key="DC.date.read" value="2016-01-04 00:00:00" /><link key="DC.source" value="https://en.wikipedia.org/wiki/Ropica_biroi" /><prop key="DC.source.wikiID" value="45625085" /><prop key="DC.source.revision" value="714177189" /><link key="DC.source.text" value="https://en.wikipedia.org/w/index.php?title=Ropica biroi&amp;oldid=697508048" /><link key="DC.source.audio" value="https://upload.wikimedia.org/wikipedia/commons/4/41/Ropica_biroi.ogg" group="audio1" /><prop key="DC.source.audio.offset" value="0.0" group="audio1" /><link key="DC.source.audio.page" value="https://en.wikipedia.org/w/index.php?title=File%3aRopica_biroi.ogg" group="audio1" /><link key="DC.source.audio.date" value="2016-01-04 18:11:46" group="audio1" /><prop key="reader.name" value="[[User:Incledon|Incledon]]" /><prop key="processing.step" value="tokenize" group="tokenize" /><prop key="processing.step.date" value="2017-08-10T07:50:04.661+02:00[Europe/Berlin]" group="tokenize" /><prop key="processing.step.options" value="Namespace(output=articles/Ropica_biroi/tokenized.swc, all_sections=false, null_normalize=false, raw_output=null, subparser_name=tokenize, lang=en, no_introduction=false, article_dir=articles/Ropica_biroi)" group="tokenize" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="tokenize" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="tokenize" /><prop key="processing.step" value="align" group="align" /><prop key="processing.step.date" value="2017-08-11T18:40:13.645+02:00[Europe/Berlin]" group="align" /><prop key="processing.step.options" value="Namespace(output=articles/Ropica_biroi/aligned.swc, transcript=articles/Ropica_biroi/tokenized.swc, g2p=../model_en/model.fst.ser, phone=false, subparser_name=align, dict=../model_en/empty.dic, acoustic_model=../model_en/, audio=articles/Ropica_biroi/audio.wav)" group="align" /><prop key="processing.step.git.commit.id" value="7431dbf93f212ad828208abaf8f518fb8de11ff3" group="align" /><prop key="processing.step.git.commit.time" value="09.08.2017 @ 15:21:55 CEST" group="align" /></meta><d><extra text="Ropica biroiFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><s text="Ropica biroiFrom wikipedia, the free encyclopedia at e n dot wikipedia dot org."><t text="Ropica"><n pronunciation="Ropica" start="580" end="1280"><ph start="570" end="800" type="r"></ph><ph start="800" end="880" type="A:"></ph><ph start="880" end="1000" type="p"></ph><ph start="1000" end="1100" type="I"></ph><ph start="1100" end="1230" type="k"></ph><ph start="1230" end="1260" type="V"></ph></n></t><t text="biroiFrom"><n pronunciation="biroiFrom" start="1330" end="1370"><ph start="1260" end="1390" type="b"></ph><ph start="1390" end="1510" type="aI"></ph><ph start="1510" end="1570" type="r"></ph><ph start="1570" end="1660" type="w"></ph><ph start="1660" end="1780" type="A:"></ph><ph start="1780" end="1810" type="f"></ph><ph start="1810" end="1870" type="r"></ph><ph start="1870" end="1940" type="m="></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="3150" end="4140"><ph start="3060" end="3300" type="?"></ph><ph start="3300" end="3340" type="w"></ph><ph start="3340" end="3380" type="I"></ph><ph start="3380" end="3500" type="k"></ph><ph start="3500" end="3570" type="i:"></ph><ph start="3570" end="3700" type="p"></ph><ph start="3700" end="3810" type="i:"></ph><ph start="3810" end="3870" type="d"></ph><ph start="3870" end="4030" type="i:"></ph><ph start="4030" end="4080" type="V"></ph></n></t><t text="," /><t text="the"><n pronunciation="the" start="4490" end="4730"><ph start="4520" end="4620" type="D"></ph><ph start="4620" end="4650" type="V"></ph></n></t><t text="free"><n pronunciation="free" start="4730" end="5000"><ph start="4750" end="4880" type="f"></ph><ph start="4880" end="4910" type="r"></ph><ph start="4910" end="5030" type="i:"></ph></n></t><t text="encyclopedia"><n pronunciation="encyclopedia" start="5000" end="6030"><ph start="5030" end="5070" type="I"></ph><ph start="5070" end="5120" type="n"></ph><ph start="5120" end="5240" type="s"></ph><ph start="5240" end="5360" type="aI"></ph><ph start="5360" end="5460" type="k"></ph><ph start="5460" end="5490" type="l"></ph><ph start="5490" end="5530" type="@U"></ph><ph start="5530" end="5650" type="p"></ph><ph start="5650" end="5730" type="i:"></ph><ph start="5730" end="5780" type="d"></ph><ph start="5780" end="5930" type="i:"></ph><ph start="5930" end="5970" type="V"></ph></n></t><t text="at"><n pronunciation="at" start="6690" end="7030"><ph start="6730" end="6920" type="{"></ph><ph start="6920" end="7010" type="t"></ph></n></t><t text="e"><n pronunciation="e" start="7050" end="7290"><ph start="7100" end="7330" type="i:"></ph></n></t><t text="n"><n pronunciation="n" start="7340" end="7680"><ph start="7330" end="7540" type="E"></ph><ph start="7540" end="7670" type="n"></ph></n></t><t text="dot"><n pronunciation="dot" start="8160" end="8570"><ph start="8040" end="8260" type="d"></ph><ph start="8260" end="8390" type="A:"></ph><ph start="8390" end="8480" type="t"></ph></n></t><t text="wikipedia"><n pronunciation="wikipedia" start="8570" end="9390"><ph start="8590" end="8670" type="w"></ph><ph start="8670" end="8710" type="I"></ph><ph start="8710" end="8800" type="k"></ph><ph start="8800" end="8850" type="i:"></ph><ph start="8850" end="8970" type="p"></ph><ph start="8970" end="9070" type="i:"></ph><ph start="9070" end="9130" type="d"></ph><ph start="9130" end="9280" type="i:"></ph><ph start="9280" end="9330" type="V"></ph></n></t><t text="dot"><n pronunciation="dot" start="9870" end="10220"><ph start="9920" end="9960" type="d"></ph><ph start="9960" end="10130" type="A:"></ph><ph start="10130" end="10190" type="t"></ph></n></t><t text="org"><n pronunciation="org" start="10260" end="10740"><ph start="10310" end="10540" type="O:"></ph><ph start="10540" end="10570" type="r"></ph><ph start="10570" end="10660" type="g"></ph></n></t><t text="." /></s></extra>
+
+<ignored><s><t>Ropica<n pronunciation="Ropica" /></t> <t>biroi<n pronunciation="biroi" /></t></s>
+
+
+<s><t>Scientific<n pronunciation="Scientific" /></t> <t>classification<n pronunciation="classification" /></t></s>
+
+
+<s><t>Kingdom<n pronunciation="Kingdom" /></t><t>:</t>
+<t>Animalia<n pronunciation="Animalia" /></t></s>
+
+
+<s><t>Phylum<n pronunciation="Phylum" /></t><t>:</t>
+<t>Arthropoda<n pronunciation="Arthropoda" /></t></s>
+
+
+<s><t>Class<n pronunciation="Class" /></t><t>:</t>
+<t>Insecta<n pronunciation="Insecta" /></t></s>
+
+
+<s><t>Order<n pronunciation="Order" /></t><t>:</t>
+<t>Coleoptera<n pronunciation="Coleoptera" /></t></s>
+
+
+<s><t>Suborder<n pronunciation="Suborder" /></t><t>:</t>
+<t>Polyphaga<n pronunciation="Polyphaga" /></t></s>
+
+
+<s><t>Family<n pronunciation="Family" /></t><t>:</t>
+<t>Cerambycidae<n pronunciation="Cerambycidae" /></t></s>
+
+
+<s><t>Genus<n pronunciation="Genus" /></t><t>:</t>
+<t>Ropica<n pronunciation="Ropica" /></t></s>
+
+
+<s><t>Species<n pronunciation="Species" /></t><t>:</t>
+<t>R.<n pronunciation="R" /><n pronunciation="." /></t> <t>biroi<n pronunciation="biroi" /></t></s>
+
+
+<s><t>Binomial<n pronunciation="Binomial" /></t> <t>name<n pronunciation="name" /></t></s>
+
+
+<s><t>Ropica<n pronunciation="Ropica" /></t> <t>biroi<n pronunciation="biroi" /></t>
+<t>Breuning<n pronunciation="Breuning" /></t><t>,</t> <t>1953<n pronunciation="nineteen" /><n pronunciation="fifty" /><n pronunciation="three" /></t></s></ignored>
+
+
+<p><s><t>Ropica<n pronunciation="Ropica" start="12150" end="12880"><ph start="12190" end="12370" type="r"></ph><ph start="12370" end="12440" type="A:"></ph><ph start="12440" end="12580" type="p"></ph><ph start="12580" end="12690" type="I"></ph><ph start="12690" end="12820" type="k"></ph><ph start="12820" end="12910" type="V"></ph></n></t> <t>biroi<n pronunciation="biroi" start="12930" end="13580"><ph start="12910" end="12960" type="b"></ph><ph start="12960" end="13110" type="aI"></ph><ph start="13110" end="13440" type="r"></ph><ph start="13440" end="13480" type="OI"></ph></n></t> <t>is<n pronunciation="is" start="14020" end="14240"><ph start="14060" end="14150" type="I"></ph><ph start="14150" end="14250" type="z"></ph></n></t> <t>a<n pronunciation="a"><ph start="14250" end="14345" type="V"></ph></n></t> <t>species<n pronunciation="species" start="14370" end="15230"><ph start="14345" end="14570" type="s"></ph><ph start="14570" end="14620" type="p"></ph><ph start="14620" end="14790" type="i:"></ph><ph start="14790" end="14920" type="S"></ph><ph start="14920" end="15110" type="i:"></ph><ph start="15110" end="15250" type="z"></ph></n></t> <t>of<n pronunciation="of" start="15230" end="15440"><ph start="15250" end="15320" type="V"></ph><ph start="15320" end="15350" type="v"></ph></n></t> <t>beetle<n pronunciation="beetle" start="15440" end="16190"><ph start="15490" end="15540" type="b"></ph><ph start="15540" end="15670" type="i:"></ph><ph start="15670" end="15790" type="t"></ph><ph start="15790" end="15820" type="V"></ph><ph start="15820" end="15950" type="l"></ph></n></t> <t>in<n pronunciation="in" start="16390" end="16620"><ph start="16440" end="16470" type="I"></ph><ph start="16470" end="16520" type="n"></ph></n></t> <t>the<n pronunciation="the"><ph start="16520" end="16550" type="D"></ph><ph start="16550" end="16580" type="V"></ph></n></t> <t>family<n pronunciation="family" start="16880" end="16910"><ph start="16580" end="16610" type="{"></ph><ph start="16610" end="16640" type="m"></ph><ph start="16640" end="16670" type="l"></ph><ph start="16670" end="16815" type="i:"></ph></n></t> <t>Cerambycidae<n pronunciation="Cerambycidae" start="17440" end="17580"><ph start="16815" end="16930" type="s"></ph><ph start="16930" end="16990" type="3`"></ph><ph start="16990" end="17030" type="{"></ph><ph start="17030" end="17140" type="m"></ph><ph start="17140" end="17220" type="b"></ph><ph start="17220" end="17350" type="i:"></ph><ph start="17350" end="17380" type="s"></ph><ph start="17380" end="17420" type="aI"></ph><ph start="17420" end="17720" type="d"></ph><ph start="17720" end="17840" type="eI"></ph></n></t><t>.</t></s> <s><t>It<n pronunciation="It" start="19420" end="19740"><ph start="19450" end="19590" type="I"></ph><ph start="19590" end="19660" type="t"></ph></n></t> <t>was<n pronunciation="was" start="19740" end="19990"><ph start="19760" end="19790" type="w"></ph><ph start="19790" end="19890" type="A:"></ph><ph start="19890" end="20270" type="z"></ph><ph start="20270" end="23480" type="?"></ph></n></t> <t>described<n pronunciation="described" start="19990" end="20690"><ph start="23850" end="23940" type="d"></ph><ph start="23940" end="24060" type="I"></ph><ph start="24060" end="24260" type="s"></ph><ph start="24260" end="24310" type="k"></ph><ph start="24310" end="24410" type="r"></ph><ph start="24410" end="24450" type="aI"></ph><ph start="24450" end="24480" type="b"></ph><ph start="24480" end="24590" type="d"></ph></n></t> <t>by<n pronunciation="by" start="20720" end="20960"><ph start="24590" end="24670" type="b"></ph><ph start="24670" end="24950" type="aI"></ph></n></t> <t>Breuning<n pronunciation="Breuning" start="20960" end="21610"><ph start="25140" end="25170" type="b"></ph><ph start="25170" end="25200" type="r"></ph><ph start="25200" end="25260" type="u"></ph><ph start="25260" end="25790" type="n"></ph><ph start="25790" end="25930" type="I"></ph><ph start="25930" end="25960" type="N"></ph></n></t> <t>in<n pronunciation="in" start="21870" end="22090"><ph start="26170" end="26960" type="?"></ph><ph start="26960" end="26990" type="I"></ph><ph start="26990" end="27070" type="n"></ph></n></t> <t>1953<n pronunciation="nineteen" start="22090" end="22610"><ph start="27460" end="27680" type="n"></ph><ph start="27680" end="27820" type="aI"></ph><ph start="27820" end="27850" type="n"></ph><ph start="27850" end="27990" type="t"></ph><ph start="27990" end="28030" type="I"></ph><ph start="28030" end="28180" type="n"></ph></n><n pronunciation="fifty" start="22610" end="23060"><ph start="28260" end="28860" type="?"></ph><ph start="28860" end="28980" type="f"></ph><ph start="28980" end="29190" type="I"></ph><ph start="29190" end="29270" type="f"></ph><ph start="29270" end="29640" type="t"></ph><ph start="29640" end="29800" type="i:"></ph></n><n pronunciation="three" start="29950" end="30190"><ph start="29860" end="29910" type="T"></ph><ph start="29910" end="29980" type="r"></ph><ph start="29980" end="30020" type="i:"></ph></n></t><t>.</t></s><ignored><s><t>[</t><t>1<n pronunciation="one" /></t><t>]</t></s></ignored></p>
+<ignored><section level="2"><sectiontitle><t>References<n pronunciation="References" /></t><t>[</t><t>edit<n pronunciation="edit" /></t><t>]</t></sectiontitle>
+
+
+
+<sectioncontent><s><t>^<n pronunciation="^" /></t> <t>BioLib.cz<n pronunciation="BioLib" /><n pronunciation="dot" /><n pronunciation="c" /><n pronunciation="z" /></t> <t>-</t> <t>Ropica<n pronunciation="Ropica" /></t> <t>biroi<n pronunciation="biroi" /></t><t>.</t></s> <s><t>Retrieved<n pronunciation="Retrieved" /></t> <t>on<n pronunciation="on" /></t> <t>8<n pronunciation="eight" /></t> <t>September<n pronunciation="September" /></t> <t>2014<n pronunciation="twenty" /><n pronunciation="fourteen" /></t><t>.</t></s>
+
+
+
+
+
+
+<p></p><s><t>This<n pronunciation="This" /></t> <t>Ropica<n pronunciation="Ropica" /></t> <t>article<n pronunciation="article" /></t> <t>is<n pronunciation="is" /></t> <t>a<n pronunciation="a" /></t> <t>stub<n pronunciation="stub" /></t><t>.</t></s> <s><t>You<n pronunciation="You" /></t> <t>can<n pronunciation="can" /></t> <t>help<n pronunciation="help" /></t> <t>Wikipedia<n pronunciation="Wikipedia" /></t> <t>by<n pronunciation="by" /></t> <t>expanding<n pronunciation="expanding" /></t> <t>it<n pronunciation="it" /></t><t>.</t></s>
+
+
+<p><s><t>v<n pronunciation="v" /></t>
+<t>t<n pronunciation="t" /></t>
+<t>e<n pronunciation="e" /></t></s></p>
+
+
+
+
+
+
+
+
+</sectioncontent></section></ignored>
+</d></article>

@@ -1,0 +1,63 @@
+{{KoreanText}}{{Infobox company
+| company_name = Redbana Corporation
+| company_logo = [[Image:Redbana.gif|Redbana]]
+| company_type = [[Gaming]]
+| company_slogan = Don't just play it, live it.
+| owner = T3 Entertainment
+| genre =  Casual [[MMORPGs]] gaming company
+| foundation  = 2008
+| location = {{flagicon|US}} [[San Mateo, California|San Mateo]], [[California]]
+| area_served = [[North America]] (Redbana US) [[World]]wide<br />(Redbana Global)
+| industry = [[Video game developer|Game developer]] and [[Video game publisher|publisher]]
+| revenue = 
+| launch_date = March 23<sup>rd</sup>, 2009
+| current_status = Active 
+| products = [[Online games]]
+| num_employees = 
+| homepage = http://redbana.com/ </br> http://www.t3fun.com/ </br> http://www.redbana.tw </br> 
+| rr = Redbana 
+}}
+'''Redbana Corporation''' (commonly known as '''Redbana''') is a publisher of online games and [[MMORPGs]]. Its headquarters is located in San Mateo, California.
+
+== History ==
+The company is a sister company of T3 Entertainment created in 2008. It was officially launched with the re-release of [[Audition Online|Audition]] in April 2009. Audition was originally launched with [[Nexon Corporation]] in 2007, but due to Nexon's closing of the game, Redbana bought the license for Audition. In August 2009, Redbana announced that they were going to release a new game called [[Mythos (video game)|Mythos]]. It has officially launched in 2009. Although initially well received by the American Audition community, the Redbana Corporation has gone through server issues starting from the summer of 2010. In November 2010, the American Audition server and the Redbana forum repeatedly crashed multiple times. The Redbana administration has declined to do anything, leaving in its wake an increasingly angry and violent American and Brazilian community.
+
+== BANA Cash ==
+Redbana, like some other gaming companies, uses the [[Virtual Asset Sales]] system. Redbana names their in-game currency "BANA cash". Users may buy BANA cash by [[credit card]], [[PayPal]], an Ultimate Game Card (UGC), a GoCash prepaid card, a PaybyCash prepaid card, or a Redbana prepaid card. As of now, Redbana's prepaid BANA cash card is only available in  [[Target Corporation|Target]] inside the US.<ref>http://gmgpulse.com/pages/redbana</ref> For Canada users, they may use other options to buy BANA cash.
+
+== Controversy ==
+Like many other games, American Audition has been riddled with hacking issues, which have so far been inadequately addressed. More recent and troubling issues have included a migration of Brazilian players, who have imported Portuguese and semi-obvious hacks to the community. The American Audition community has largely dispersed and moved to other servers because of this issue, reducing the number of frequent players from a pathetic average of three channels a day to a meager two. So far, the Redbana Corporation has chosen to largely ignore this issue, leading many players to question the true worth of this Californian company. On November 26, 2010, online fights broke out due to increasing frustration with the company's inadequacy. Memorable quotes include "Axeso5 has it better than [American Audition players]" and "When is Redbana going to stop being a [censored]?". Several players speculate that the Redbana Corporation will shut down by the end of 2010.
+
+== News (Redbana US)==
+*November 25<sup>th</sup>, 2010: Redbana site and game server are down due to hardware issues.<ref>http://www.facebook.com/redbana/posts/179008632114858</ref>
+*Summer of 2010: An influx of Brazilian players from the recently closed Brazilian Audition Server join American Audition.
+*March 23<sup>rd</sup>, 2009: Redbana site is up.<ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=6&stp1=&stp2=&postid=2</ref>
+*April 14<sup>th</sup>, 2009: Forums are up.<ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=6&postid=5</ref> Nexon character transfers continue until July 30.<ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=6&postid=6</ref>
+*April 17<sup>th</sup>, 2009: Redbana Audition & BANA Cash system is live.<ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=6&postid=7</ref><ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=6&postid=8</ref>
+*August 2009: Redbana Mythos Website along with Closed Beta registration is available.<ref>http://www.gamasutra.com/view/news/26303/Redbana_Reveals_Progress_On_Mythos_Reboot.php</ref>
+*September 1<sup>st</sup>, 2009: Redbana Audition Season 2 patch.<ref>http://www.redbana.com/News/NoticeView.aspx?ptype=2&page=3&stp1=&stp2=&postid=41</ref>
+
+== Divisions ==
+There is another Redbana website for Tawain, which has the URL  [http://www.redbana.tw/ redbana.tw]. There are 2 games distributed, "All in ABC" and "AIKA".
+Redbana released a global site on August 27<sup>th</sup>, 2009. Redbana Global released "Camon Hero" the same day the website was live. On March 5<sup>th</sup>, 2010, Redbana Global announced that the [[URL]] [http://www.redbanaglobal.com/ redbanaglobal.com] would no longer exist as of April 6 and will be moved to [http://www.t3fun.com/ www.t3fun.com]. They have announced they will transfer all data of "Camon Hero", but there will be a new Terms of Service and Private policy. They have also announced 3 new additions: "Grand Mer", "[[Mythos (computer game)|Mythos]]", and "워크라이 (Warcry)".
+
+Redbana Philippines is a distributer of Hanbit Soft games such as Tantra and WYD. This leads to the other the logo, Gamebana. It was established to be a Global game distributor rather than one particular part of the world. This division has no relation to T3 Entertainment.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://redbana.com/ Redbana Website]
+* [http://audition.redbana.com/ Audition Online]
+* [http://redbana.com/ Redbana US Corporation Website]
+* [http://www.mythos.com/Game/ Mythos Redbana]
+* [http://www.gamebana.com Gamebana/Redbana Philippines]
+* [http://www.redbana.tw Redbana Taiwan]
+* [http://www.t3.co.kr/ T3 Entertainment]
+* [http://www.hanbitsoft.com/ HanbitSoft]
+
+[[Category:Video game developers]]
+[[Category:Video game publishers]]
+[[Category:Massively multiplayer online role-playing games]]
+[[Category:Windows games]]
+[[Category:Companies established in 2008]]

@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=French language in Laos
+|user_name_link=[[User:Spoœekspaar]]
+|date=2014-12-31
+|accent=British
+|sex=Male 
+|oldid=640378158
+}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-3.0}}
+== {{int:license-header}} ==

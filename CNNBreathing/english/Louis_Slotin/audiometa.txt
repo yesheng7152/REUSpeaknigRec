@@ -1,0 +1,14 @@
+== Summary ==
+{{Spoken article entry
+|title= Louis Slotin
+|time= 14:46
+|user_name= leotohill
+|date= 1/20/2008
+|link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Louis_Slotin&oldid=185771993
+|accent=American
+|reviewed=yes
+}}
+
+{{GFDL-with-disclaimers|migration=relicense}} <!-- This is the license tag.  Please leave the license selector blank. -->
+
+{{Copy to Wikimedia Commons|bot=Svenbot|priority=true}}

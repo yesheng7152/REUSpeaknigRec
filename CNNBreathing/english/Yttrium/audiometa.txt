@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a spoken version of [[w:Yttrium]] version [http://en.wikipedia.org/w/index.php?title=Yttrium&oldid=438932135].}}
+|date=2011-07-12
+|source={{own}}
+|author=[[User:99of9|Toby Hudson]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Uploads by User:99of9]]
+[[Category:Spoken Wikipedia - English]]
+[[Category:Yttrium]]

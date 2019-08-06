@@ -1,0 +1,53 @@
+{{Infobox actor
+|name         = Kira Buckland 
+|birthdate    = {{birth date|1987|7|16|mf=y}}
+|birthplace   = [[Anchorage, Alaska]], [[United States|USA]]
+}}
+
+'''Kira Buckland''' (b. July 16, 1987) is an [[United States|American]] [[voice actress]].
+
+Kira graduated from [[University of Alaska, Anchorage]], majoring in [[Japanese language|Japanese]]<ref name=tosor>{{cite web | author= | year= | title=The Official Site of Rina-chan | url=http://suzumiya-haruhi.net/ | work= | accessdate=November 10, 2008}}</ref>. Since winning the [[Anime Expo|Anime Expo 2007]] AX Idol Voice Acting competition<ref>{{cite web | author=Jonathan Mays| year=2007 | title=Anime Expo 2007: Closing Ceremonies| url=http://www.animenewsnetwork.com/convention/2007/anime-expo/closing-ceremonies | work= | accessdate=May 20, 2008}}</ref> she has been working professionally with [[Bang Zoom! Entertainment]]. Prior to that, she has voiced roles in over 1,000 [[flash animation]]s, [[radio drama]]s, and [[Personal computer game|computer]][[Video game|/video games]] and was the founder of the first Alaskan [[anime convention]] [[Senshi-Con]] based in Anchorage, Alaska.<ref>{{cite web | author=CJ| year=2006 | title=Senshi-Con 2006: Second Anime Convention held in [[Anchorage]], [[Alaska]]| url=http://www.oxygendeficient.com/Newsbreak/index.php?num=2 | work= | accessdate=May 20, 2008}}</ref><ref>{{cite web|author=Aaron Burkhart |url=http://media.www.thenorthernlight.org/media/storage/paper960/news/2006/03/14/Features/Anime.Club.Organizes.First.Campus.Convention-2542430.shtml
+|title= Anime Club expands this year's Senshi-Con with more events, guest|accessdate=2008-11-27 |work=The Northern Light |publisher= |date=2006-03-14 }}</ref>. She started voice acting in 2004 on various online websites, under the well-known alias of "Rina-chan". In February 2009, Kira returned to [[Senshi-Con]] as a guest.
+
+==Filmography==
+The following list contains some selected roles<ref name=tosor/><ref>{{cite web | author= | year= | title=Kira Buckland: IMDB Profile | url=http://www.imdb.com/name/nm2299231/ | work= | accessdate=September 13, 2008}}</ref><ref>{{cite web | author= | year= | title=Kira Buckland at Voice123 | url=http://voice123.com/kirabuckland | work= | accessdate=September 13, 2008}}</ref>; a longer list is located [http://suzumiya-haruhi.net/experience.html here].
+===Anime, TV and Film Roles===
+* ''[[5 Centimeters Per Second]] '' - Kanae Sumida (Bang Zoom!) 
+* ''[[AIKa R-16: Virgin Mission]]'' - '''Eri Shingai'''
+* ''[[Xombie]]: Dead on Arrival'' - '''Zoe'''
+* ''[[Moribito: Guardian of the Spirit]]'' - '''Nimka''' (episodes 18-19)
+* ''[[Tweeny Witches]]'' - '''Additional Voices'''
+* ''3-Pang Fighter'' - '''Mikka'''
+* ''[[Good Game#Cross Seasons|Gamer Tonight]]'' - '''Amber Jaymon''' (Girl Gamer episode)
+
+===Video Game Roles===
+* ''[[Castle Crashers]]'' - '''Medusa''', '''Princess Voices'''
+* ''[[AWAY Shuffle Dungeon]]'' - '''Various Voices''' 
+* ''[[Luminous Arc 2]]'' - '''Karen'''<ref>{{cite web | author=Raychul | year=2008 | title=GameGirl: Interview with Kira "Rina-Chan" | url=http://www.gamegirl.com/article/105069/interview-with-kira-rina-chan/ | work= | accessdate=November 27, 2008}}</ref>, '''Elicia'''
+* ''[[Neverland Card Battles]]'' - '''Refina'''
+* ''[[Brigade E5: New Jagged Union]]'' - '''Saki Sato'''
+* ''The White Chamber'' - '''Sarah'''
+* ''Agent Scarecrow'' - '''Stewardess'''
+* [http://www.godlimations.com ''Trapped'' / ''Pursuit'' / ''Escape''] - '''Dialla'''
+* ''Jack French'' - '''Lucy''', '''Lab Tech'''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.kirabuckland.com/ Official Website]
+*{{ann name|id=70467|name=Kira Buckland}}
+*{{imdb name|id=2299231}}
+*[http://www.voiceactingclub.com/ Official Forum (with resources for amateur voice actors)]
+
+{{DEFAULTSORT:Buckland, Kira}}
+[[Category:1987 births]]
+[[Category:American voice actors]]
+[[Category:Living people]]
+[[Category:Cosplay]]
+[[Category:People from Anchorage, Alaska]]
+[[Category:Actors from Alaska]]
+[[Category:University of Alaska Anchorage alumni]]
+
+
+{{voice-actor-stub}}

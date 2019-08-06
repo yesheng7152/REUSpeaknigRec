@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{English spoken article
+|title=Transport in Laos
+|user_name_link=[[:en:User:Spoœekspaar|Spoœekspaar]]
+|date=2015-01-07
+|accent=British
+|sex=Male 
+|oldid=640387487
+}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-3.0}}
+== {{int:license-header}} ==

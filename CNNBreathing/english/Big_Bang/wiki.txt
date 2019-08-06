@@ -1,0 +1,1140 @@
+{{About|the cosmological model|the sitcom|The Big Bang Theory|other uses|Big Bang (disambiguation)}}
+{{pp-semi-indef}}{{pp-move-indef}}
+
+[[File:Universe expansion2.png|241px|thumb|According to the Big Bang model, the [[universe]] expanded from an extremely dense and hot state and continues to expand today. A common analogy explains that [[space]] itself is expanding, carrying [[galaxy|galaxies]] with it, like spots on an inflating balloon. The graphic scheme above is an artist's concept illustrating the expansion of a portion of a flat universe.]]
+{{Cosmology}}
+The '''Big Bang''' theory is the prevailing [[physical cosmology|cosmological]] [[scientific theory|model]] that explains the early development of the [[Universe]].<ref>{{cite web|last=Wollack|first=Edward J.|title=Cosmology: The Study of the Universe|url=http://map.gsfc.nasa.gov/universe/|work=Universe 101: Big Bang Theory|publisher=[[NASA]]|accessdate=27 April 2011|date=10 December 2010}}</ref> According to the Big Bang theory, the Universe was once in an extremely hot and dense state which [[metric expansion of space|expanded]] rapidly. This rapid expansion caused the young Universe to cool and resulted in its present continuously expanding state. According to recent measurements, [[observational cosmology|observations]],<ref>
+{{cite web
+ |last=Feuerbacher |first=B.
+ |last2=Scranton |first2=R.
+ |date=25 January 2006
+ |title=Evidence for the Big Bang
+ |url=http://www.talkorigins.org/faqs/astronomy/bigbang.html#evidence
+ |work=[[TalkOrigins]]
+ |accessdate=2009-10-16
+}}</ref><ref>
+{{cite web
+ |last=Wright |first=E.L.
+ |date=9 May 2009
+ |title=What is the evidence for the Big Bang?
+ |url=http://www.astro.ucla.edu/~wright/cosmology_faq.html#BBevidence
+ |work=Frequently Asked Questions in Cosmology
+ |publisher=[[UCLA]], Division of Astronomy and Astrophysics
+ |accessdate=2009-10-16
+}}</ref> and [[scientific method|scientific evidence]], this original state existed around 13.7 billion years ago,<ref>
+{{cite journal
+ | last = Komatsu | first = E.
+ | coauthors = ''et al.''
+ | year = 2009
+ | title = Five-Year Wilkinson Microwave Anisotropy Probe Observations: Cosmological Interpretation
+ | journal = [[Astrophysical Journal Supplement]]
+ | volume = 180 | issue = 2 | pages = 330
+ | bibcode = 2009ApJS..180..330K
+ | doi = 10.1088/0067-0049/180/2/330
+ | ref = harv
+}}</ref><ref>
+{{Cite journal
+ | last = Menegoni | first = E.
+ | coauthors= ''et al.''
+ | year = 2009
+ | title = New constraints on variations of the fine structure constant from CMB anisotropies
+ | journal = [[Physical Review D]]
+ | volume = 80| issue = 8 | pages = 087302
+ | doi = 10.1103/PhysRevD.80.087302
+ | arxiv = 0909.3584
+ | ref = harv
+|bibcode = 2009PhRvD..80h7302M }}</ref> which is considered the [[age of the Universe]] and the time inflation occurred.<ref>
+{{cite web
+ |year=2000
+ |title=Origins: CERN: Ideas: The Big Bang
+ |url=http://www.exploratorium.edu/origins/cern/ideas/bang.html
+ |publisher=[[Exploratorium|The Exploratorium]]
+ |accessdate=2010-09-03
+}}</ref><ref>
+{{cite web
+ |last=Keohane |first=J.
+ |date=November 8, 1997
+ |title=Big Bang theory
+ |url=http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/971108a.html
+ |work=Ask an astrophysicist
+ |publisher=[[Goddard Space Flight Center|GSFC]]/[[NASA]]
+ |accessdate=2010-09-03
+}}</ref> The Big Bang is a well tested [[scientific theory]] which is widely accepted within the scientific community because it is the best explanation for the full range of phenomena astronomers observe. Since its conception, [[Big_Bang#Observational_evidence|abundant evidence]] has arisen to help further validate the theory. 
+
+[[Georges Lemaître]] proposed what became known as the Big Bang theory of the origin of the Universe; he called it his "[[hypothesis]] of the primeval [[atom]]". The framework for the model relies on [[Albert Einstein]]'s [[general relativity]] and on simplifying assumptions (such as [[homogeneity (physics)#Translation invariance|homogeneity]] and [[isotropy]] of space). The governing equations had been formulated by [[Alexander Friedmann]]. In 1929, [[Edwin Hubble]] discovered that the distances to far away [[galaxy|galaxies]] were generally [[proportionality (mathematics)|proportional]] to their [[redshift]]s—an idea originally suggested by Lemaître in 1927. Hubble's observation was taken to indicate that all very distant galaxies and clusters have an apparent velocity directly away from our vantage point: the farther away, the higher the apparent velocity.<ref name="hubble">
+{{cite journal
+ |last=Hubble |first=E.
+ |year=1929
+ |title=A Relation Between Distance and Radial Velocity Among Extra-Galactic Nebulae
+ |url=http://antwrp.gsfc.nasa.gov/debate/1996/hub_1929.html
+ |journal=[[Proceedings of the National Academy of Sciences]]
+ |volume=15 |issue=3 |pages=168–73
+ |bibcode=1929PNAS...15..168H
+ |doi=10.1073/pnas.15.3.168
+ |pmc=522427
+ |pmid=16577160
+ |ref=harv
+}}</ref>
+
+If the distance between galaxy clusters is increasing today, everything must have been closer together in the past. This idea has been considered in detail back in time to extreme [[density|densities]] and [[temperature]]s,<ref>
+{{cite web
+ |last=Gibson |first=C.H.
+ |date=21 January 2001
+ |url=http://sdcc3.ucsd.edu/~ir118/GibsonAbstract.pdf
+ |title=The First Turbulent Mixing and Combustion
+ |work=[[IUTAM]] Turbulent Mixing and Combustion
+}}</ref><ref>
+{{cite arxiv
+ |last=Gibson |first=C.H.
+ |year=2001
+ |title=Turbulence And Mixing In The Early Universe
+ |class=astro-ph
+ |eprint=astro-ph/0110012
+}}</ref><ref>
+{{cite arxiv
+ |last=Gibson |first=C.H.
+ |year=2005
+ |title=The First Turbulent Combustion
+ |class=astro-ph
+ |eprint=astro-ph/0501416
+}}</ref> and large [[particle accelerator]]s have been built to experiment on and test such conditions, resulting in significant confirmation of this model. On the other hand, these accelerators have limited capabilities to probe into such [[high-energy physics|high energy regimes]]. There is little evidence regarding the absolute earliest instant of the expansion. Thus, the Big Bang theory ''cannot'' and ''does not'' provide any explanation for such an initial condition; rather, it ''describes'' and ''explains'' the general evolution of the universe going forward from that point on. The observed abundances of the light elements throughout the cosmos closely match the calculated predictions for the formation of these elements from nuclear processes in the rapidly expanding and cooling first minutes of the universe, as logically and quantitatively detailed according to [[Big Bang nucleosynthesis]].
+
+[[Fred Hoyle]] is credited with coining the term ''Big Bang'' during a 1949 radio broadcast. It is popularly reported that Hoyle, who favored an alternative "[[steady state universe|steady state]]" cosmological model, intended this to be pejorative, but Hoyle explicitly denied this and said it was just a striking image meant to highlight the difference between the two models.<ref>
+{{cite web
+ |date=22 August 2001
+ |title='Big bang' astronomer dies
+ |url=http://news.bbc.co.uk/1/hi/uk/1503721.stm
+ |publisher=[[BBC News]]
+ |accessdate=2008-12-07
+}}</ref><ref>
+{{cite book
+ |last=Croswell |first=K.
+ |year=1995
+ |chapter=Chapter 9
+ |title=The Alchemy of the Heavens
+ |publisher=[[Anchor Books]]
+ |isbn=
+}}</ref><ref>
+{{cite book
+ |last=Mitton |first=S.
+ |year=2005
+ |title=Fred Hoyle: A Life in Science
+ |page=127
+ |publisher=[[Aurum Press]]
+ |isbn=
+}}</ref> After the discovery of the [[cosmic microwave background radiation]] in 1964, and especially when its spectrum (i.e., the amount of radiation measured at each wavelength) was found to match that of [[thermal radiation]] from a [[black body]], most scientists were fairly convinced by the evidence that some version of the Big Bang scenario must have occurred.
+
+==Motivation and development==
+[[File:WMAP2.jpg|thumb|left|Artist's depiction of the [[WMAP]] satellite gathering data to help scientists understand the Big Bang]]
+
+{{Main|History of the Big Bang theory}}
+{{See also|Timeline of cosmology|History of astronomy}}
+
+The Big Bang theory developed from observations of the structure of the Universe and from theoretical considerations. In 1912 [[Vesto Slipher]] measured the first [[Doppler shift]] of a "[[spiral nebula]]" (spiral nebula is the obsolete term for spiral galaxies), and soon discovered that almost all such nebulae were receding from Earth. He did not grasp the cosmological implications of this fact, and indeed at the time it was [[Shapley–Curtis debate|highly controversial]] whether or not these nebulae were "island universes" outside our [[Milky Way]].<ref>
+{{cite journal
+ |last=Slipher |first=V.M
+ |year=1913
+ |title=The Radial Velocity of the Andromeda Nebula
+ |journal=[[Lowell Observatory Bulletin]]
+ |volume=1 |pages=56–57
+ |bibcode=1913LowOB...2...56S
+ |ref=harv
+}}</ref><ref>
+{{cite journal
+ |last=Slipher |first=V.M
+ |year=1915
+ |title=Spectrographic Observations of Nebulae
+ |journal=[[Popular Astronomy (US magazine)|Popular Astronomy]]
+ |volume=23 |pages=21–24
+ |bibcode=1915PA.....23Q..21S
+ |ref=harv
+}}</ref> Ten years later, Alexander Friedmann, a [[Russia]]n [[physical cosmology|cosmologist]] and [[mathematician]], derived [[Friedmann equations | the Friedmann equations]] from [[Einstein equation|Albert Einstein's  equations of general relativity]], showing that the Universe might be expanding in contrast to the [[static Universe]] model advocated by Einstein at that time.<ref name=af1922>
+{{cite journal
+ |last=Friedman |first=A.A.
+ |year=1922
+ |title=Über die Krümmung des Raumes
+ |journal=[[Zeitschrift für Physik]]
+ |volume=10 |issue=1 |pages=377–386
+ |doi=10.1007/BF01332580
+ |ref=harv
+|bibcode = 1922ZPhy...10..377F }} {{de icon}}
+:(English translation in: {{cite journal
+ |last=Friedman |first=A.
+ |year=1999
+ |title=On the Curvature of Space
+ |journal=[[General Relativity and Gravitation]]
+ |volume=31 |issue=12 |pages=1991–2000
+ |bibcode=1999GReGr..31.1991F
+ |doi=10.1023/A:1026751225741
+ |ref=harv
+}})</ref> In 1924, Edwin Hubble's measurement of the great distance to the nearest spiral nebulae showed that these systems were indeed other galaxies. Independently deriving Friedmann's equations in 1927, Georges Lemaître, a Belgian physicist and Roman Catholic priest, proposed that the inferred recession of the nebulae was due to the expansion of the Universe.<ref name=gl1927>
+{{cite journal
+ |last=Lemaître |first=G.
+ |year=1927
+ |title=Un univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extragalactiques
+ |journal=[[Annals of the Scientific Society of Brussels]]
+ |volume=47A |page=41
+ |ref=harv
+}} {{fr icon}}
+:(Translated in: {{cite journal
+ |year=1931
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=91 |pages=483–490
+ |title=A Homogeneous Universe of Constant Mass and Growing Radius Accounting for the Radial Velocity of Extragalactic Nebulae
+ |bibcode=1931MNRAS..91..483L
+ |ref=harv
+}})</ref>
+
+In 1931 Lemaître went further and suggested that the evident expansion of the universe, if projected back in time, meant that the further in the past the smaller the universe was, until at some finite time in the past all the mass of the Universe was concentrated into a single point, a "primeval [[atom]]" where and when the fabric of time and space came into existence.<ref>
+{{cite journal
+ |last=Lemaître |first=G.
+ |year=1931
+ |title=The Evolution of the Universe: Discussion
+ |journal=[[Nature (journal)|Nature]]
+ |volume=128 |issue=3234 |pages=699–701
+ |doi=10.1038/128704a0
+ |ref=harv
+|bibcode = 1931Natur.128..704L }}</ref>
+
+Starting in 1924, Hubble painstakingly developed a series of distance indicators, the forerunner of the [[cosmic distance ladder]], using the {{convert|100|in|mm|sing=on}} Hooker telescope at [[Mount Wilson Observatory]]. This allowed him to estimate distances to galaxies whose [[redshift]]s had already been measured, mostly by Slipher. In 1929, Hubble discovered a correlation between distance and recession velocity—now known as [[Hubble's law]].<ref name="hubble" /><ref name="christianson">
+{{cite book
+ |last=Christianson |first=E.
+ |title=Edwin Hubble: Mariner of the Nebulae
+ |year=1995
+ |publisher=[[Farrar, Straus and Giroux]]
+ |isbn=0-374-14660-8
+}}</ref> Lemaître had already shown that this was expected, given the [[Cosmological Principle]].<ref name="peebles">
+{{cite journal
+ |last=Peebles |first=P.J.E.
+ |last2=Ratra |first2=B.
+ |title=The Cosmological Constant and Dark Energy
+ |year=2003
+ |journal=[[Reviews of Modern Physics]]
+ |volume=75 |issue=2 |pages=559–606
+ |arxiv=astro-ph/0207347
+ |doi=10.1103/RevModPhys.75.559
+ |ref=harv |bibcode=2003RvMP...75..559P
+}}</ref>
+
+During the 1930s other ideas were proposed as [[non-standard cosmologies]] to explain Hubble's observations, including the [[Milne model]],<ref>
+{{cite book
+ |last=Milne |first=E.A.
+ |year=1935
+ |title=Relativity, Gravitation and World Structure
+ |publisher=[[Oxford University Press]]
+ |id={{LCCN|35|0|19093}}
+}}</ref> the [[oscillatory Universe]] (originally suggested by Friedmann, but advocated by Albert Einstein and [[Richard Tolman]])<ref>
+{{cite book
+ |last=Tolman |first=R.C.
+ |year=1934
+ |title=Relativity, Thermodynamics, and Cosmology
+ |publisher=[[Clarendon Press]]
+ |id={{LCCN|34|0|32023}}
+ |isbn=0-486-65383-8
+}}</ref> and [[Fritz Zwicky]]'s [[tired light]] hypothesis.<ref>
+{{cite journal
+ |last=Zwicky |first=F.
+ |year=1929
+ |title=On the Red Shift of Spectral Lines through Interstellar Space
+ |journal=[[Proceedings of the National Academy of Sciences]]
+ |volume=15 |issue=10 |pages=773–779
+ |bibcode=1929PNAS...15..773Z
+ |doi=10.1073/pnas.15.10.773
+ |pmc=522555
+ |pmid=16577237
+ |ref=harv
+}}</ref>
+
+After [[World War II]], two distinct possibilities emerged. One was [[Fred Hoyle]]'s [[steady state model]], whereby new matter would be created as the Universe seemed to expand. In this model, the Universe is roughly the same at any point in time.<ref>
+{{cite journal
+ |last=Hoyle |first=F.
+ |year=1948
+ |title=A New Model for the Expanding Universe
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=108 |page=372
+ |bibcode=1948MNRAS.108..372H
+ |ref=harv
+}}</ref> The other was Lemaître's Big Bang theory,<ref group=notes>Lemaître termed the event the "big noise". Astrophysicist [[Fred Hoyle]], who disliked the idea, designated the creation event "Big Bang", which he considered to be an ugly name. See Op. cit. {{Harvnb|Ferris|1988|pp=211, 436}}, citing {{Cite news |date=January 12, 1933 |newspaper=The Los Angeles Times}}</ref> advocated and developed by [[George Gamow]], who introduced [[big bang nucleosynthesis]] (BBN)<ref>
+{{cite journal
+ |last=Alpher |first=R.A.
+ |last2=Bethe |first2=H.
+ |last3=Gamow |first3=G.
+ |year=1948
+ |title=The Origin of Chemical Elements
+ |journal=[[Physical Review]]
+ |volume=73 |issue=7 |page=803
+ |bibcode=1948PhRv...73..803A
+ |doi=10.1103/PhysRev.73.803
+ |ref=harv
+}}</ref> and whose associates, [[Ralph Alpher]] and [[Robert Herman]], predicted the [[cosmic microwave background radiation]] (CMB).<ref>
+{{cite journal
+ |last=Alpher |first=R.A.
+ |last2=Herman |first2=R.
+ |year=1948
+ |title=Evolution of the Universe
+ |journal=[[Nature (journal)|Nature]]
+ |volume=162 |page=774
+ |bibcode = 1948Natur.162..774A
+ |doi = 10.1038/162774b0
+ |ref=harv
+}}</ref> Ironically, it was Hoyle who coined the phrase that came to be applied to Lemaître's theory, referring to it as "this ''big bang'' idea" during a [[BBC Radio]] broadcast in March 1949.<ref name="singh_summary">
+{{cite web
+ |first=S. |last=Singh
+ |date=21 April 2007
+ |title=Big Bang
+ |url=http://www.simonsingh.net/Big_Bang.html
+ |work=[[Simon Singh|SimonSingh.net]]
+ |accessdate=2007-05-28
+}}</ref><ref group="notes">It is commonly reported that Hoyle intended this to be pejorative. However, Hoyle later denied that, saying that it was just a striking image meant to emphasize the difference between the two theories for radio listeners. See chapter 9 of ''The Alchemy of the Heavens'' by Ken Croswell, [[Anchor Books]], 1995.</ref>
+For a while, support was split between these two theories. Eventually, the observational evidence, most notably from radio [[source counts]], began to favor Big Bang over Steady State. The discovery and confirmation of the cosmic microwave background radiation in 1964<ref name="penzias">
+{{cite journal
+ |last=Penzias |first=A.A.
+ |last2=Wilson |first2=R.W.
+ |year=1965
+ |title=A Measurement of Excess Antenna Temperature at 4080&nbsp;Mc/s
+ |journal=[[Astrophysical Journal]]
+ |volume=142 |pages=419
+ |bibcode=1965ApJ...142..419P
+ |doi=10.1086/148307
+ |ref=harv
+}}</ref> secured the Big Bang as the best theory of the origin and evolution of the cosmos. Much of the current work in cosmology includes understanding how galaxies form in the context of the Big Bang, understanding the physics of the Universe at earlier and earlier times, and reconciling observations with the basic theory.
+
+Huge strides in Big Bang cosmology have been made since the late 1990s as a result of major advances in [[telescope]] technology as well as the analysis of copious data from satellites such as [[COBE]],<ref name=cobe>
+{{cite journal
+ |last=Boggess |first=N.W.
+ |coauthors=''et al.''
+ |year=1992
+ |title=The COBE Mission: Its Design and Performance Two Years after the launch
+ |journal=[[Astrophysical Journal]]
+ |volume=397 |pages=420
+ |doi=10.1086/171797
+ |ref=harv
+|bibcode=1992ApJ...397..420B
+}}</ref> the [[Hubble Space Telescope]] and [[WMAP]].<ref name="wmap1year">
+{{cite journal
+ |last=Spergel |first=D.N.
+ |coauthors=''et al.''
+ |year=2006
+ |title=Wilkinson Microwave Anisotropy Probe (WMAP) Three Year Results: Implications for Cosmology
+ |journal=[[Astrophysical Journal Supplement]]
+ |volume=170 |issue=2 |pages=377
+ |doi=10.1086/513700
+ |arxiv=astro-ph/0603449
+ |ref=harv
+|bibcode=2007ApJS..170..377S
+}}</ref> Cosmologists now have fairly precise and accurate measurements of many of the parameters of the Big Bang model, and have made the unexpected discovery that the expansion of the Universe appears to be accelerating.
+
+==Overview==
+===Timeline of the Big Bang===
+{{main|Timeline of the Big Bang}}
+{{External Timeline|Graphical timeline of the Big Bang|Graphical timeline of the Big Bang}}
+Extrapolation of the expansion of the Universe backwards in time using [[general relativity]] yields an infinite [[density]] and [[temperature]] at a finite time in the past.<ref>
+{{cite book
+ |last=Hawking |first=S.W.
+ |last2=Ellis |first2=G.F.R.
+ |year=1973
+ |title=The Large-Scale Structure of Space-Time
+ |publisher=[[Cambridge University Press]]
+ |isbn=0-521-20016-4
+}}</ref> This [[gravitational singularity|singularity]] signals the breakdown of general relativity. How closely we can extrapolate towards the singularity is debated—certainly no closer than the end of the [[Planck epoch]]. This singularity is sometimes called "the Big Bang",<ref>{{cite book
+ |first=M. |last=Roos
+ |chapter=Expansion of the Universe – Standard Big Bang Model
+ |quote=This singularity is termed the ''Big Bang''.
+ |title=Astronomy and Astrophysics
+ |editor1-first=O. |editor1-last=Engvold
+ |editor2-first=R. |editor2-last=Stabell
+ |editor3-first=B. |editor3-last=Czerny
+ |editor4-first=J. |editor4-last=Lattanzio
+ |series=Encyclopedia of Life Support Systems
+ |publisher=EOLSS publishers
+ |year=2008
+ |arxiv=0802.2005
+ }}</ref> but the term can also refer to the early hot, dense phase itself,<ref>{{cite book
+ |first=W.B. |last=Drees
+ |title=Beyond the big bang: quantum cosmologies and God
+ |year=1990
+ |publisher=Open Court Publishing
+ |isbn=978-0-8126-9118-4
+ |url=http://books.google.nl/books?id=N3mHJlxA3PcC&pg=PA223
+ |pages=223–224
+}}</ref><ref group="notes">There is no consensus about how long the Big Bang phase lasted. For some writers this denotes only the initial singularity, for others the whole history of the Universe. Usually, at least the first few minutes (during which helium is synthesized) are said to occur "during the Big Bang".</ref> which can be considered the "birth" of our Universe. Based on measurements of the expansion using [[Type Ia supernova]]e, measurements of temperature fluctuations in the [[cosmic microwave background radiation|cosmic microwave background]], and measurements of the [[correlation function]] of galaxies, the Universe has a calculated age of 13.75 ± 0.11&nbsp;billion years.<ref name="wmap7year">{{cite journal
+ | last=Jarosik |first=N.
+ | coauthors=''et.al.'' ([[WMAP|WMAP Collaboration]])
+ | year=
+ | title=Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Sky Maps, Systematic Errors, and Basic Results
+ | url=http://lambda.gsfc.nasa.gov/product/map/dr4/pub_papers/sevenyear/basic_results/wmap_7yr_basic_results.pdf
+ | page=39, Table 8
+ | publisher=[[NASA]]/[[Goddard Space Flight Center|GSFC]]
+ | accessdate=2010-12-04
+}}</ref> The agreement of these three independent measurements strongly supports the [[Lambda-CDM model|ΛCDM model]] that describes in detail the contents of the Universe.
+
+The earliest phases of the Big Bang are subject to much speculation. In the most common models, the Universe was filled [[Homogeneous space|homogeneously]] and [[isotropic]]ally with an incredibly high [[energy density]] and huge [[temperature]]s and [[pressure]]s and was very rapidly expanding and cooling. Approximately 10<sup>−37</sup> seconds into the expansion, a [[phase transition]] caused a [[cosmic inflation]], during which the Universe grew [[exponential growth|exponentially]].<ref name="guth">
+{{cite book
+ |last=Guth |first=A.H.
+ |year=1998
+ |title=The Inflationary Universe: Quest for a New Theory of Cosmic Origins
+ |publisher=[[Vintage Books]]
+ |isbn=978-0-09-995950-2
+ }}</ref> After inflation stopped, the Universe consisted of a [[quark–gluon plasma]], as well as all other [[elementary particle]]s.<ref>
+{{cite journal
+ |last=Schewe |first=P.
+ |year=2005
+ |title=An Ocean of Quarks
+ |url=http://www.aip.org/pnu/2005/split/728-1.html
+ |journal=Physics News Update
+ |publisher=[[American Institute of Physics]]
+ |volume=728 |issue=1
+ |ref=harv
+}}</ref> Temperatures were so high that the random motions of particles were at [[Special relativity|relativistic]] [[Relativistic speed|speeds]], and [[pair production|particle–antiparticle pairs]] of all kinds were being continuously created and destroyed in collisions. At some point an unknown reaction called [[baryogenesis]] violated the conservation of [[baryon number]], leading to a very small excess of [[quark]]s and [[lepton]]s over antiquarks and antileptons—of the order of one part in 30&nbsp;million. This resulted in the predominance of [[matter]] over [[antimatter]] in the present Universe.<ref name="kolb_c6">Kolb and Turner (1988), chapter 6</ref>
+
+The Universe continued to grow in size and fall in temperature, hence the typical energy of each particle was decreasing. [[Explicit symmetry breaking|Symmetry breaking]] phase transitions put the [[fundamental force]]s of physics and the parameters of [[elementary particles]] into their present form.<ref name="kolb_c7">Kolb and Turner (1988), chapter 7</ref> After about 10<sup>−11</sup> seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in [[particle physics]] experiments. At about 10<sup>−6</sup> seconds, quarks and gluons combined to form [[baryon]]s such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was now no longer high enough to create new proton–antiproton pairs (similarly for neutrons–antineutrons), so a mass annihilation immediately followed, leaving just one in 10<sup>10</sup> of the original protons and neutrons, and none of their antiparticles. A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the Universe was dominated by [[photon]]s (with a minor contribution from [[neutrino]]s).
+
+A few minutes into the expansion, when the temperature was about a billion (one thousand million; 10<sup>9</sup>; SI prefix [[giga-]]) [[kelvin]] and the density was about that of air, neutrons combined with protons to form the Universe's [[deuterium]] and [[helium]] [[atomic nucleus|nuclei]] in a process called [[Big Bang nucleosynthesis]].<ref name="kolb_c4"/> Most protons remained uncombined as [[hydrogen]] nuclei. As the Universe cooled, the [[rest mass]] energy density of matter came to [[gravity|gravitationally]] dominate that of the photon [[electromagnetic radiation|radiation]]. After about 379,000 years the electrons and nuclei combined into atoms (mostly [[hydrogen]]); hence the radiation decoupled from matter and continued through space largely unimpeded. This relic radiation is known as the [[cosmic microwave background radiation]].<ref name="peacock_c9">Peacock (1999), chapter 9</ref>
+
+[[File:Hubble ultra deep field high rez edit1.jpg|thumb|left|The [[Hubble Ultra Deep Field]] showcases galaxies from an ancient era when the Universe was younger, denser, and warmer according to the Big Bang theory.]]
+
+Over a long period of time, the slightly denser regions of the nearly uniformly distributed matter gravitationally attracted nearby matter and thus grew even denser, forming gas clouds, [[star]]s, galaxies, and the other astronomical structures observable today. The details of this process depend on the amount and type of matter in the Universe. The four possible types of matter are known as [[cold dark matter]], [[warm dark matter]], [[hot dark matter]] and [[baryonic matter]]. The best measurements available (from [[WMAP]]) show that the data is well-fit by a [[Lambda-CDM model]] in which dark matter is assumed to be cold ([[warm dark matter]] is ruled out by early [[reionization]]<ref>
+{{cite journal
+ | last1 = Spergel | first1 = D. N.
+ | coauthor=''et al.''
+ | year = 2003
+ | title = First year Wilkinson Microwave Anisotropy Probe (WMAP) observations: determination of cosmological parameters
+ | journal = [[Astrophysical Journal Supplement]]
+ | volume = 148 | issue = 1 | page = 175
+ | arxiv = astro-ph/0302209
+ | doi = 10.1086/377226
+| bibcode=2003ApJS..148..175S
+}}</ref>), and is estimated to make up about 23% of the matter/energy of the universe, while baryonic matter makes up about 4.6%.<ref name="wmap7year" /> In an "extended model" which includes hot dark matter in the form of [[neutrino]]s, then if the "physical baryon density" Ω<sub>b</sub>h<sup>2</sup> is estimated at about 0.023 (this is different from the 'baryon density' Ω<sub>b</sub> expressed as a fraction of the total matter/energy density, which as noted above is about 0.046), and the corresponding cold dark matter density Ω<sub>c</sub>h<sup>2</sup> is about 0.11, the corresponding neutrino density Ω<sub>v</sub>h<sup>2</sup> is estimated to be less than 0.0062.<ref name="wmap7year" />
+
+Independent lines of evidence from [[Type Ia supernova]]e and the [[Cosmic microwave background radiation|CMB]] imply that the Universe today is dominated by a mysterious form of energy known as [[dark energy]], which apparently permeates all of space. The observations suggest 73% of the total energy density of today's Universe is in this form. When the Universe was very young, it was likely infused with dark energy, but with less space and everything closer together, gravity had the upper hand, and it was slowly braking the expansion. But eventually, after numerous billion years of expansion, the growing abundance of dark energy caused the [[Hubble's law|expansion of the Universe]] to slowly begin to accelerate. Dark energy in its simplest formulation takes the form of the [[cosmological constant]] term in [[Einstein's field equation]]s of general relativity, but its composition and mechanism are unknown and, more generally, the details of its [[equation of state (cosmology)|equation of state]] and relationship with the [[Standard Model]] of particle physics continue to be investigated both observationally and theoretically.<ref name="peebles" />
+
+All of this cosmic evolution after the [[inflationary epoch]] can be rigorously described and modeled by the [[Lambda-CDM model|ΛCDM model]] of cosmology, which uses the independent frameworks of quantum mechanics and Einstein's General Relativity. As noted above, there is no well-supported model describing the action prior to 10<sup>−15</sup> seconds or so. Apparently a new unified theory of [[quantum gravity|quantum gravitation]] is needed to break this barrier. Understanding this earliest of eras in the history of the Universe is currently one of the greatest [[unsolved problems in physics]].
+
+===Underlying assumptions===
+The Big Bang theory depends on two major assumptions: the universality of [[physical law]]s, and the [[cosmological principle]].{{Citation needed|date=July 2011}} The cosmological principle states that on large scales the Universe is [[Homogeneous space|homogeneous]] and [[isotropy|isotropic]].
+
+These ideas were initially taken as postulates, but today there are efforts to test each of them. For example, the first assumption has been tested by observations showing that largest possible deviation of the [[fine structure constant]] over much of the [[age of the universe]] is of order 10<sup>−5</sup>.<ref>
+{{cite journal
+ | last=Ivanchik | first=A.V.
+ | year=1999
+ | title=The Fine-Structure Constant: A New Observational Limit on Its Cosmological Variation and Some Theoretical Consequences
+ | journal=[[Astronomy and Astrophysics]]
+ | volume=343 |page=459
+ | bibcode=1999A&A...343..439I
+ | ref=harv
+|arxiv = astro-ph/9810166 }}</ref> Also, [[general relativity]] has passed stringent [[tests of general relativity|tests]] on the scale of the solar system and binary stars while extrapolation to cosmological scales has been validated by the empirical successes of various aspects of the Big Bang theory.<ref group="notes">Detailed information of and references for tests of general relativity are given at [[Tests of general relativity]].</ref>
+
+If the large-scale Universe appears isotropic as viewed from Earth, the cosmological principle can be derived from the simpler [[Copernican principle]], which states that there is no preferred (or special) observer or vantage point. To this end, the cosmological principle has been confirmed to a level of 10<sup>−5</sup> via observations of the CMB.<ref group="notes">This ignores the [[dipole anisotropy]] at a level of 0.1% due to the peculiar velocity of the solar system through the radiation field.</ref> The Universe has been measured to be homogeneous on the largest scales at the 10% level.<ref>
+{{cite journal
+ |last=Goodman |first=J.
+ |year=1995
+ |title=Geocentrism Reexamined
+ |journal=[[Physical Review D]]
+ |volume=52 |issue=4 |page=1821
+ |doi=10.1103/PhysRevD.52.1821
+ |ref=harv
+|arxiv = astro-ph/9506068 |bibcode = 1995PhRvD..52.1821G }}</ref>
+
+===FLRW metric===
+{{Main|Friedmann–Lemaître–Robertson–Walker metric|Metric expansion of space}}
+General relativity describes spacetime by a [[metric tensor|metric]], which determines the distances that separate nearby points. The points, which can be galaxies, stars, or other objects, themselves are specified using a [[coordinate chart]] or "grid" that is laid down over all [[spacetime]]. The cosmological principle implies that the metric should be [[Homogeneous space|homogeneous]] and [[isotropic]] on large scales, which uniquely singles out the [[Friedmann–Lemaître–Robertson–Walker metric]] (FLRW metric). This metric contains a [[scale factor]], which describes how the size of the Universe changes with time. This enables a convenient choice of a [[coordinate system]] to be made, called [[comoving coordinates]]. In this coordinate system, the grid expands along with the Universe, and objects that are moving only due to the expansion of the Universe remain at fixed points on the grid. While their ''coordinate'' distance ([[comoving distance]]) remains constant, the ''physical'' distance between two such comoving points expands proportionally with the [[scale factor]] of the Universe.<ref>
+{{cite book
+ |last=d'Inverno |first=R.
+ |year=1992
+ |chapter=Chapter 23
+ |title=Introducing Einstein's Relativity
+ |publisher=[[Oxford University Press]]
+ |isbn=0-19-859686-3
+}}</ref>
+
+The Big Bang is not an explosion of matter moving outward to fill an empty universe. Instead, [[metric expansion of space|space itself expands]] with time everywhere and increases the physical distance between two comoving points. Because the FLRW metric assumes a uniform distribution of mass and energy, it applies to our Universe only on large scales—local concentrations of matter such as our galaxy are gravitationally bound and as such do not experience the large-scale expansion of space.
+
+===Horizons===
+{{Main|Cosmological horizon}}
+An important feature of the Big Bang spacetime is the presence of [[Observable universe#Cosmological horizon|horizons]]. Since the Universe has a finite age, and light travels at a finite speed, there may be events in the past whose light has not had time to reach us. This places a limit or a ''past horizon'' on the most distant objects that can be observed. Conversely, because space is expanding, and more distant objects are receding ever more quickly, light emitted by us today may never "catch up" to very distant objects. This defines a ''future horizon'', which limits the events in the future that we will be able to influence. The presence of either type of horizon depends on the details of the FLRW model that describes our Universe. Our understanding of the Universe back to very early times [[Big Bang#Horizon problem|suggests]] that there is a past horizon, though in practice our view is also limited by the opacity of the Universe at early times. So our view cannot extend further backward in time, though the horizon recedes in space. If the expansion of the Universe continues to [[accelerating universe|accelerate]], there is a future horizon as well.<ref name="kolb_c3">Kolb and Turner (1988), chapter 3</ref>
+
+==Observational evidence==
+The earliest and most direct kinds of observational evidence are the [[Hubble's law|Hubble-type expansion]] seen in the [[redshift]]s of galaxies, the detailed measurements of the [[cosmic microwave background]], the abundance of light elements (see [[Big Bang nucleosynthesis]]), and today also the [[Large-scale structure of the cosmos|large scale distribution]] and apparent [[Galaxy formation and evolution|evolution of galaxies]]<ref>
+{{cite journal
+ |last=Gladders |first=M.D.
+ |coauthor=''et al.''
+ |year=2007
+ |title=Cosmological Constraints from the Red-Sequence Cluster Survey
+ |journal=[[The Astrophysical Journal]]
+ |volume=655 |issue=1 |pages=128–134
+ |bibcode=2007ApJ...655..128G
+ |doi=10.1086/509909
+ |ref=harv
+|arxiv = astro-ph/0603588 }}</ref> which are predicted to occur due to gravitational growth of structure in the standard theory. These are sometimes called ''"the four pillars of the Big Bang theory"''.<ref>[http://www.damtp.cam.ac.uk/user/gr/public/bb_pillars.html The Four Pillars of the Standard Cosmology]</ref>
+
+{{anchor|Hubble's law expansion}}<!-- previous header name, so as not to disturb hashlinks if any -->
+
+===Hubble's law and the expansion of space===
+{{Main|Hubble's law|Metric expansion of space}}
+{{See also|Distance measures (cosmology)|Scale factor (universe)}}
+Observations of distant galaxies and [[quasar]]s show that these objects are [[redshift]]ed—the [[light]] emitted from them has been shifted to longer wavelengths. This can be seen by taking a [[frequency spectrum]] of an object and matching the [[spectroscopy|spectroscopic]] pattern of [[emission line]]s or [[absorption line]]s corresponding to [[atom]]s of the [[chemical element]]s interacting with the light. These redshifts are [[Homogeneity (physics)|uniformly]] [[Isotropy|isotropic]], distributed evenly among the observed objects in all directions. If the [[redshift]] is interpreted as a [[Doppler shift]], the recessional [[velocity]] of the object can be calculated. For some galaxies, it is possible to estimate distances via the [[cosmic distance ladder]]. When the recessional velocities are plotted against these distances, a linear relationship known as [[Hubble's law]] is observed:<ref name="hubble" />
+:''v'' = ''H''<sub>0</sub>''D'',
+where
+* ''v'' is the recessional [[velocity]] of the [[galaxy]] or other distant object,
+* ''D'' is the [[comoving distance]] to the object, and
+* ''H''<sub>0</sub> is [[Hubble's constant]], measured to be {{nowrap|70.4 {{±|1.3|1.4}}}} [[kilometers|km]]/[[second|s]]/[[Megaparsec|Mpc]] by the [[WMAP]] probe.<ref name="wmap7year" />
+
+[[Hubble's law]] has two possible explanations. Either we are at the center of an explosion of galaxies—which is untenable given the [[Copernican Principle]]—or the Universe is [[Metric expansion of space|uniformly expanding]] everywhere. This universal expansion was predicted from [[general relativity]] by [[Alexander Friedmann]] in 1922<ref name=af1922 /> and [[Georges Lemaître]] in 1927,<ref name=gl1927 /> well before Hubble made his 1929 analysis and observations, and it remains the cornerstone of the Big Bang theory as developed by [[Friedmann–Lemaître–Robertson–Walker metric|Friedmann, Lemaître, Robertson and Walker]].
+
+The theory requires the relation ''v'' = ''HD'' to hold at all times, where ''D'' is the [[comoving distance]], ''v'' is the [[recessional velocity]], and ''v'', ''H'', and ''D'' vary as the Universe expands (hence we write ''H''<sub>0</sub> to denote the present-day Hubble "constant"). For distances much smaller than the size of the [[observable Universe]], the Hubble redshift can be thought of as the Doppler shift corresponding to the recession velocity ''v''. However, the redshift is not a true Doppler shift, but rather the result of the expansion of the Universe between the time the light was emitted and the time that it was detected.<ref name="peacock_c3">Peacock (1999), chapter 3</ref>
+
+That [[Metric expansion of space|space is undergoing metric expansion]] is shown by direct observational evidence of the [[Cosmological Principle]] and the Copernican Principle, which together with Hubble's law have no other explanation. Astronomical [[redshift]]s are extremely [[isotropic]] and [[Homogeneity (physics)#Translation invariance|homogenous]],<ref name="hubble" /> supporting the Cosmological Principle that the Universe looks the same in all directions, along with much other evidence. If the redshifts were the result of an explosion from a center distant from us, they would not be so similar in different directions.
+
+Measurements of the effects of the [[cosmic microwave background radiation]] on the dynamics of distant astrophysical systems in 2000 proved the [[Copernican Principle]], that the Earth is not in a central position, on a cosmological scale.<ref>
+{{cite journal
+ |last=Srianand |first=R.
+ |last2=Petitjean |first2=P.
+ |last3=Ledoux |first3=C.
+ |title=The microwave background temperature at the redshift of 2.33771
+ |journal=[[Nature (journal)|Nature]]
+ |volume=408 |issue=6815 |pages=931–935
+ |arxiv=astro-ph/0012222
+ |bibcode=2000Natur.408..931S
+ |doi=10.1038/35050020 
+ |laysource=[[European Southern Observatory]]
+ |laydate=December 2000
+ |laysummary=http://www.eso.org/outreach/press-rel/pr-2000/pr-27-00.html
+}}</ref> Radiation from the Big Bang was demonstrably warmer at earlier times throughout the Universe. Uniform cooling of the cosmic microwave background over billions of years is explainable only if the Universe is experiencing a metric expansion, and excludes the possibility that we are near the unique center of an explosion.
+
+===Cosmic microwave background radiation===
+{{Main|Cosmic microwave background radiation}}
+[[File:WMAP 2010.png|thumb|[[WMAP]] image of the cosmic microwave background radiation]]
+
+During the first few days of the Universe, the Universe was in full [[Thermodynamic equilibrium|thermal equilibrium]], with photons being continually emitted and absorbed, giving the radiation a [[blackbody]] spectrum. As the Universe expanded, it cooled to a temperature at which photons could no longer be created or destroyed. The temperature was still high enough for electrons and nuclei to remain unbound, however, and photons were constantly "reflected" from these free electrons through a process called [[Thomson scattering]]. Because of this repeated scattering, the early Universe was opaque to light.
+
+When the temperature fell to a few thousand [[Kelvin]], electrons and nuclei began to combine to form atoms, a process known as [[recombination (cosmology)|recombination]]. Since photons scatter infrequently from neutral atoms, radiation decoupled from matter when nearly all the electrons had recombined, at the ''epoch of last scattering'', 379,000 years after the Big Bang. These photons make up the CMB that is observed today, and the observed pattern of fluctuations in the CMB is a direct picture of the Universe at this early epoch. The energy of photons was subsequently redshifted by the expansion of the Universe, which preserved the blackbody spectrum but caused its temperature to fall, meaning that the photons now fall into the [[microwave]] region of the [[electromagnetic spectrum]]. The radiation is thought to be observable at every point in the Universe, and comes from all directions with (almost) the same intensity.
+
+In 1964, [[Arno Penzias]] and [[Robert Woodrow Wilson|Robert Wilson]] accidentally discovered the cosmic background radiation while conducting diagnostic observations using a new [[microwave]] receiver owned by [[Bell Laboratories]].<ref name="penzias" /> Their discovery provided substantial confirmation of the general CMB predictions—the radiation was found to be isotropic and consistent with a blackbody spectrum of about 3&nbsp;K—and it pitched the balance of opinion in favor of the Big Bang hypothesis. Penzias and Wilson were awarded a [[Nobel Prize]] for their discovery.
+
+[[File:Firas spectrum.jpg|thumb|left|The cosmic microwave background spectrum measured by the FIRAS instrument on the [[COBE|COBE satellite]] is the most-precisely measured [[black body]] spectrum in nature.<ref name="dpf99">
+{{cite conference
+ |last=White |first=M.
+ |year=1999
+ |title=Anisotropies in the CMB
+ |booktitle=Proceedings of the Los Angeles Meeting, DPF 99
+ |publisher=[[UCLA]]
+ |bibcode=1999dpf..conf.....W
+ |arxiv=astro-ph/9903232
+}}</ref> The [[data point]]s and [[standard error of estimation|error bars]] on this graph are obscured by the theoretical curve.]]
+In 1989, [[National Aeronautics and Space Administration|NASA]] launched the [[Cosmic Background Explorer satellite]] (COBE), and the initial findings, released in 1990, were consistent with the Big Bang's predictions regarding the CMB. COBE found a residual temperature of 2.726&nbsp;K and in 1992 detected for the first time the fluctuations (anisotropies) in the CMB, at a level of about one part in 10<sup>5</sup>.<ref name="cobe" /> [[John C. Mather]] and [[George Smoot]] were awarded the Nobel Prize for their leadership in this work. During the following decade, CMB anisotropies were further investigated by a large number of ground-based and balloon experiments. In 2000–2001, several experiments, most notably [[BOOMERanG experiment|BOOMERanG]], found the Universe to be almost spatially flat by measuring the typical angular size (the size on the sky) of the anisotropies. (See [[shape of the Universe]].)
+
+In early 2003, the first results of the [[WMAP|Wilkinson Microwave Anisotropy Probe]] (WMAP) were released, yielding what were at the time the most accurate values for some of the cosmological parameters. This spacecraft also disproved several specific [[cosmic inflation]] models, but the results were consistent with the inflation theory in general,<ref name="wmap1year" /> it confirms too that a sea of [[Cosmic neutrino background|cosmic neutrinos]] permeates the Universe, a clear evidence that the first stars took more than a half-billion years to create a cosmic fog. A new space probe named [[Planck (spacecraft)|Planck]], with goals similar to WMAP, was launched in May 2009. It is anticipated to soon provide even more accurate measurements of the CMB anisotropies. Many other ground- and balloon-based experiments are also currently running; see [[Cosmic microwave background experiments]].
+
+The background radiation is exceptionally smooth, which presented a problem in that conventional expansion would mean that photons coming from opposite directions in the sky were coming from regions that had never been in contact with each other. The leading explanation for this far reaching equilibrium is that the Universe had a brief period of rapid exponential expansion, called [[cosmic inflation|inflation]]. This would have the effect of driving apart regions that had been in [[Thermodynamic equilibrium|equilibrium]], so that all the observable Universe was from the same equilibrated region.
+
+===Abundance of primordial elements===
+{{Main|Big Bang nucleosynthesis}}
+Using the Big Bang model it is possible to calculate the concentration of [[helium-4]], [[helium-3]], [[deuterium]] and [[lithium-7]] in the Universe as ratios to the amount of ordinary hydrogen, H.<ref name = "kolb_c4"/> All the abundances depend on a single parameter, the ratio of [[photon]]s to [[baryon]]s, which itself can be calculated independently from the detailed structure of CMB fluctuations. The ratios predicted (by mass, not by number) are about 0.25 for {{SimpleNuclide2|Helium|4}}/{{Element2|Hydrogen}}, about 10<sup>−3</sup> for {{SimpleNuclide2|Hydrogen|2}}/{{Element2|Hydrogen}}, about 10<sup>−4</sup> for {{SimpleNuclide2|Helium|3}}/{{Element2|Hydrogen}} and about 10<sup>−9</sup> for {{SimpleNuclide2|Lithium|7}}/{{Element2|Hydrogen}}.<ref name="kolb_c4">Kolb and Turner (1988), chapter 4</ref>
+
+The measured abundances all agree at least roughly with those predicted from a single value of the baryon-to-photon ratio. The agreement is excellent for deuterium, close but formally discrepant for {{SimpleNuclide2|Helium|4}}, and a factor of two off for {{SimpleNuclide2|Lithium|7}}; in the latter two cases there are substantial [[systematic error|systematic uncertainties]]. Nonetheless, the general consistency with abundances predicted by BBN is strong evidence for the Big Bang, as the theory is the only known explanation for the relative abundances of light elements, and it is virtually impossible to "tune" the Big Bang to produce much more or less than 20–30% helium.<ref>
+{{cite arxiv
+ |last=Steigman | first=G.
+ |year=2005
+ |title=Primordial Nucleosynthesis: Successes And Challenges
+ |class=astro-ph
+ |eprint=astro-ph/0511534
+ |ref=harv
+}}</ref> Indeed there is no obvious reason outside of the Big Bang that, for example, the young Universe (i.e., before star formation, as determined by studying matter supposedly free of [[stellar nucleosynthesis]] products) should have more helium than deuterium or more deuterium than {{SimpleNuclide2|Helium|3}}, and in constant ratios, too.
+
+===Galactic evolution and distribution===
+{{Main|Large-scale structure of the cosmos|Structure formation|Galaxy formation and evolution}}
+
+[[File:2MASS LSS chart-NEW Nasa.jpg|right|thumb|This panoramic view of the entire [[near-infrared]] sky reveals the distribution of galaxies beyond the [[Milky Way]]. The galaxies are color coded by [[redshift]].]]
+
+Detailed observations of the [[Galaxy morphological classification|morphology]] and [[Large-scale structure of the cosmos|distribution]] of galaxies and [[quasars]] provide strong evidence for the Big Bang. A combination of observations and theory suggest that the first quasars and galaxies formed about a billion years after the Big Bang, and since then larger structures have been forming, such as [[galaxy groups and clusters|galaxy clusters]] and [[supercluster]]s. Populations of stars have been aging and evolving, so that distant galaxies (which are observed as they were in the early Universe) appear very different from nearby galaxies (observed in a more recent state). Moreover, galaxies that formed relatively recently appear markedly different from galaxies formed at similar distances but shortly after the Big Bang. These observations are strong arguments against the steady-state model. Observations of [[star formation]], galaxy and quasar distributions and larger structures agree well with Big Bang simulations of the formation of structure in the Universe and are helping to complete details of the theory.<ref>
+{{cite arxiv
+ |last=Bertschinger |first=E.
+ |year=2001
+ |title=Cosmological Perturbation Theory and Structure Formation
+ |class=astro-ph
+ |eprint=astro-ph/0101009
+ |ref=harv
+}}</ref><ref>
+{{cite journal
+ |last=Bertschinger |first=E.
+ |year=1998
+ |title=Simulations of Structure Formation in the Universe
+ |journal=[[Annual Review of Astronomy and Astrophysics]]
+ |volume=36 |issue=1 |pages=599–654
+ |doi=10.1146/annurev.astro.36.1.599
+ |ref=harv
+|bibcode=1998ARA&A..36..599B
+}}</ref>
+
+===Other lines of evidence===
+After some controversy, the age of Universe as estimated from the Hubble expansion and the CMB is now in good agreement with (i.e., slightly larger than) the ages of the oldest stars, both as measured by applying the theory of [[stellar evolution]] to [[globular clusters]] and through [[radiometric dating]] of individual [[Population II]] stars.{{Citation needed|date=April 2011}}
+
+The prediction that the CMB temperature was higher in the past has been experimentally supported by observations of temperature-sensitive emission lines in gas clouds at high redshift. This prediction also implies that the amplitude of the [[Sunyaev–Zel'dovich effect]] in [[clusters of galaxies]] does not depend directly on redshift; this seems to be roughly true, but unfortunately the amplitude does depend on cluster properties which do change substantially over cosmic time, so a precise test is impossible.{{Citation needed|date=April 2011}}
+
+==Features, issues and problems==<!-- This section is linked from [[Cosmic inflation]] -->
+While scientists now prefer the Big Bang model over other cosmological models, the scientific community was once divided between supporters of the Big Bang and those of [[non-standard cosmologies|alternative cosmological models]]. Throughout the historical development of the subject, problems with the Big Bang theory were posed in the context of a scientific controversy regarding which model could best describe the [[observational cosmology|cosmological observations]]. With the overwhelming [[scientific consensus|consensus]] in the community today supporting the Big Bang model, many of these problems are remembered as being mainly of historical interest; the solutions to them have been obtained either through modifications to the theory or as the result of better observations.
+
+The core ideas of the Big Bang—the expansion, the early hot state, the formation of helium, the formation of galaxies—are derived from many observations that are independent from any cosmological model; these include the [[Big Bang nucleosynthesis|abundance of light elements]], the [[cosmic microwave background]], [[Large-scale structure of the cosmos|large scale structure]], and the [[Hubble diagram]] for [[Type Ia supernova]]e.
+
+Precise modern models of the Big Bang appeal to various exotic physical phenomena that have not been observed in terrestrial laboratory experiments or incorporated into the [[Standard Model]] of [[particle physics]]. Of these features, [[dark matter]] is currently the subject to the most active laboratory investigations.<ref>[http://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=225 Direct Searches for Dark Matter], [[White paper]], [http://nationalacademies.org/ The National Academies].</ref> Remaining issues, such as the [[cuspy halo problem]] and the [[dwarf galaxy problem]] of [[cold dark matter]], are not fatal to the dark matter explanation as solutions to such problems exist which involve only further refinements of the theory. [[Dark energy]] is also an area of intense interest for scientists, but it is not clear whether direct detection of dark energy will be possible.<ref>[http://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=243 Whitepaper: For a Comprehensive Space-Based Dark Energy Mission], [http://nationalacademies.org/ The National Academies].</ref>
+
+On the other hand, [[cosmic inflation|inflation]] and [[baryogenesis]] remain somewhat more speculative features of current Big Bang models: they explain important features of the early universe, but could be replaced by alternative ideas without affecting the rest of the theory.<ref group="notes">If inflation is true, baryogenesis must have occurred, but not vice versa.</ref> Discovering the correct explanations for such phenomena are some of the remaining [[unsolved problems in physics]].
+
+===Horizon problem===
+{{Main|Horizon problem}}
+The horizon problem results from the premise that information cannot travel [[faster than light]]. In a Universe of finite age, this sets a limit—the [[particle horizon]]—on the separation of any two regions of space that are in [[causality (physics)|causal]] contact.<ref name="kolb_c8">Kolb and Turner (1988), chapter 8</ref> The observed isotropy of the CMB is problematic in this regard: if the Universe had been dominated by radiation or matter at all times up to the epoch of last scattering, the particle horizon at that time would correspond to about 2 degrees on the sky. There would then be no mechanism to cause wider regions to have the same temperature.
+
+A resolution to this apparent inconsistency is offered by [[inflationary theory]] in which a homogeneous and isotropic scalar energy field dominates the Universe at some very early period (before baryogenesis). During inflation, the Universe undergoes exponential expansion, and the particle horizon expands much more rapidly than previously assumed, so that regions presently on opposite sides of the observable Universe are well inside each other's particle horizon. The observed isotropy of the CMB then follows from the fact that this larger region was in causal contact before the beginning of inflation.
+
+[[Heisenberg's uncertainty principle]] predicts that during the inflationary phase there would be [[primordial fluctuations|quantum thermal fluctuations]], which would be magnified to cosmic scale. These fluctuations serve as the seeds of all current structure in the Universe. Inflation predicts that the [[primordial fluctuations]] are nearly [[Scale invariance|scale invariant]] and [[Normal distribution|Gaussian]], which has been accurately confirmed by measurements of the CMB.
+
+If inflation occurred, exponential expansion would push large regions of space well beyond our observable horizon.
+
+===Flatness/oldness problem===
+{{Main|Flatness problem}}
+[[File:End of universe.jpg|thumb|275px|The overall [[Shape of the Universe|geometry of the Universe]] is determined by whether the [[Friedmann equations#Density parameter|Omega cosmological parameter]] is less than, equal to or greater than 1. Shown from top to bottom are a [[Shape of the Universe#Spherical universe|closed Universe]] with positive curvature, a [[Shape of the Universe#Hyperbolic universe|hyperbolic Universe]] with negative curvature and a [[Shape of the Universe#Flat universe|flat Universe]] with zero curvature.]]
+
+The flatness problem (also known as the oldness problem) is an observational problem associated with a [[Friedmann–Lemaître–Robertson–Walker metric]].<ref name="kolb_c8"/> The Universe may have positive, negative or zero spatial [[curvature]] depending on its total energy density. Curvature is negative if its density is less than the [[critical density]], positive if greater, and zero at the critical density, in which case space is said to be ''flat''. The problem is that any small departure from the critical density grows with time, and yet the Universe today remains very close to flat.<ref group="notes">Strictly, dark energy in the form of a cosmological constant drives the Universe towards a flat state; however, our Universe remained close to flat for several billion years, before the dark energy density became significant.</ref> Given that a natural timescale for departure from flatness might be the [[Planck time]], 10<sup>−43</sup> seconds, the fact that the Universe has reached neither a [[Heat Death]] nor a [[Big Crunch]] after billions of years requires some explanation. For instance, even at the relatively late age of a few minutes
+(the time of nucleosynthesis), the Universe density must have been within one part in 10<sup>14</sup> of its critical value, or it would not exist as it does today.<ref>
+{{cite conference
+ |last=Dicke |first=R.H.
+ |last2=Peebles |first2=P.J.E
+ |title=The big bang cosmology—enigmas and nostrums
+ |booktitle=General Relativity: an Einstein centenary survey
+ |editor=Hawking, S.W. (ed); Israel, W. (ed)
+ |publisher=[[Cambridge University Press]]
+ |pages=504–517
+}}</ref>
+
+A resolution to this problem is offered by [[inflationary theory]]. During the inflationary period, spacetime expanded to such an extent that its [[curvature]] would have been smoothed out. Thus, it is theorized that inflation drove the Universe to a very nearly spatially flat state, with almost exactly the critical density.
+
+===Magnetic monopoles===
+{{Main|Magnetic monopole}}
+The magnetic monopole objection was raised in the late 1970s. [[Grand unification theory|Grand unification theories]] predicted [[topological defect]]s in space that would manifest as [[magnetic monopole]]s. These objects would be produced efficiently in the hot early Universe, resulting in a density much higher than is consistent with observations, given that searches have never found any monopoles. This problem is also resolved by [[cosmic inflation]], which removes all point defects from the observable Universe in the same way that it drives the geometry to flatness.<ref name="kolb_c8">Kolb and Turner, chapter 8</ref>
+
+A resolution to the horizon, flatness, and magnetic monopole problems alternative to cosmic inflation is offered by the [[Weyl curvature hypothesis]].<ref>
+{{cite conference
+ |last=Penrose |first=R.
+ |year=1979
+ |title=Singularities and Time-Asymmetry
+ |booktitle=General Relativity: An Einstein Centenary Survey
+ |editor=Hawking, S.W. (ed); Israel, W. (ed)
+ |publisher=[[Cambridge University Press]]
+ |pages=581–638
+}}</ref><ref>
+{{cite conference
+ |last=Penrose |first=R.
+ |year=1989
+ |title=Difficulties with Inflationary Cosmology
+ |booktitle=Proceedings of the 14th Texas Symposium on Relativistic Astrophysics
+ |editor=Fergus, E.J. (ed)
+ |publisher=[[New York Academy of Sciences]]
+ |pages=249–264
+ |doi=10.1111/j.1749-6632.1989.tb50513.x
+}}</ref>
+
+===Baryon asymmetry===
+{{Main|Baryon asymmetry}}
+It is not yet understood why the Universe has more [[matter]] than [[antimatter]].<ref name="kolb_c6">Kolb and Turner, chapter 6</ref> It is generally assumed that when the Universe was young and very hot, it was in statistical equilibrium and contained equal numbers of [[baryon]]s and antibaryons. However, observations suggest that the Universe, including its most distant parts, is made almost entirely of matter. An unknown process called "[[baryogenesis]]" created the asymmetry. For baryogenesis to occur, the [[Sakharov conditions]] must be satisfied. These require that [[baryon number]] is not conserved, that [[C-symmetry]] and [[CP-symmetry]] are violated and that the Universe depart from [[thermodynamic equilibrium]].<ref name="sakharov">
+{{cite journal
+ |last=Sakharov |first=A.D.
+ |year=1967
+ |title=Violation of CP Invariance, C Asymmetry and Baryon Asymmetry of the Universe
+ |journal=[[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]], Pisma
+ |volume=5 | page=32
+ |ref=harv
+}} {{ru icon}}<br>
+:(Translated in ''[[Journal of Experimental and Theoretical Physics Letters]]'' '''5''', 24 (1967).)
+</ref> All these conditions occur in the [[Standard Model]], but the effect is not strong enough to explain the present baryon asymmetry.
+
+===Globular cluster age===
+In the mid-1990s, observations of [[globular cluster]]s appeared to be inconsistent with the Big Bang. Computer simulations that matched the observations of the [[star|stellar]] populations of globular clusters suggested that they were about 15&nbsp;billion years old, which conflicted with the 13.7&nbsp;billion year age of the Universe. This issue was generally resolved in the late 1990s when new computer simulations, which included the effects of mass loss due to [[stellar wind]]s, indicated a much younger age for globular clusters.<ref>
+{{cite journal
+ |last=Navabi |first=A.A.
+ |last2=Riazi |first2=N.
+ |year=2003
+ |title=Is the Age Problem Resolved?
+ |journal=Journal of Astrophysics and Astronomy
+ |volume=24 |issue=1–2 |page=3
+ |doi=10.1007/BF03012187
+ |ref=harv |bibcode=2003JApA...24....3N
+}}</ref> There still remain some questions as to how accurately the ages of the clusters are measured, but it is clear that these objects are some of the oldest in the Universe.
+
+===Dark matter===
+{{Main|Dark matter}}
+[[File:Cosmological Composition - Pie Chart.png|thumb|right|375px|A [[pie chart]] indicating the proportional composition of different energy-density components of the Universe, according to the best [[Lambda-CDM model|ΛCDM model]] fits{{ndash}} roughly 95% is in the exotic forms of dark matter and [[dark energy]]]]
+
+During the 1970s and 1980s, various observations showed that there is not sufficient visible matter in the Universe to account for the apparent strength of gravitational forces within and between galaxies. This led to the idea that up to 90% of the matter in the Universe is dark matter that does not emit light or interact with normal [[baryon]]ic matter. In addition, the assumption that the Universe is mostly normal matter led to predictions that were strongly inconsistent with observations. In particular, the Universe today is far more lumpy and contains far less [[deuterium]] than can be accounted for without dark matter. While dark matter was initially controversial, it is now indicated by numerous observations: the anisotropies in the CMB, [[galaxy groups and clusters|galaxy cluster]] velocity dispersions, large-scale structure distributions, [[gravitational lensing]] studies, and [[X-ray astronomy|X-ray measurements]] of galaxy clusters.<ref>
+{{cite web
+ |last=Keel | first=B.
+ |title=Dark Matter
+ |url=http://www.astr.ua.edu/keel/galaxies/darkmatter.html
+ |accessdate=2007-05-28
+}}</ref>
+
+The evidence for dark matter comes from its gravitational influence on other matter, and no dark matter particles have been observed in laboratories. Many [[particle physics]] candidates for dark matter have been proposed, and several projects to detect them directly are underway.<ref name="pdg">{{cite journal
+ |last=Yao |first=W.M.
+ |coauthor=''et al.''
+ |year=2006
+ |title=Review of Particle Physics: Dark Matter
+ |url=http://pdg.lbl.gov/2006/reviews/darkmatrpp.pdf
+ |journal=[[Journal of Physics G]]
+ |volume=33 |issue=1 | pages=1–1232
+ |doi=10.1088/0954-3899/33/1/001
+ |ref=harv
+|arxiv = astro-ph/0601168 |bibcode = 2006JPhG...33....1Y }}</ref>
+
+===Dark energy===
+{{Main|Dark energy}}
+Measurements of the [[redshift]]–[[apparent magnitude|magnitude]] relation for [[type Ia supernova]]e indicate that the expansion of the Universe has been [[accelerating universe|accelerating]] since the Universe was about half its present age. To explain this acceleration, [[general relativity]] requires that much of the energy in the Universe consists of a component with large [[equation of state (cosmology)|negative pressure]], dubbed "[[dark energy]]". Dark energy is indicated by several other lines of evidence. Measurements of the [[cosmic microwave background]] indicate that the Universe is very nearly spatially flat, and therefore according to general relativity the Universe must have almost exactly the [[critical density]] of mass/energy. But the [[density|mass density]] of the Universe can be measured from its gravitational clustering, and is found to have only about 30% of the critical density.<ref name="peebles" /> Since dark energy does not cluster in the usual way it is the best explanation for the "missing" energy density. Dark energy is also required by two geometrical measures of the overall curvature of the Universe, one using the frequency of [[gravitational lens]]es, and the other using the characteristic pattern of the [[large-scale structure]] as a cosmic ruler.
+
+Negative pressure is a property of [[vacuum energy]], but the exact nature of dark energy remains one of the great mysteries of the Big Bang. Possible candidates include a [[cosmological constant]] and [[quintessence (physics)|quintessence]]. Results from the WMAP team in 2008, which combined data from the CMB and other sources, indicate that the contributions to mass/energy density in the Universe today are approximately 73% dark energy, 23% dark matter, 4.6% regular matter and less than 1% neutrinos.<ref name="wmap7year" /> The energy density in matter decreases with the expansion of the Universe, but the dark energy density remains constant (or nearly so) as the Universe expands. Therefore matter made up a larger fraction of the total energy of the Universe in the past than it does today, but its fractional contribution will fall in the far future as dark energy becomes even more dominant.
+
+In the [[Lambda-CDM model|ΛCDM]], the best current model of the Big Bang, dark energy is explained by the presence of a [[cosmological constant]] in the [[general relativity|general theory of relativity]]. However, the size of the constant that properly explains dark energy is surprisingly small relative to naive estimates based on ideas about [[quantum gravity]]. Distinguishing between the cosmological constant and other explanations of dark energy is an active area of current research.
+
+==The future according to the Big Bang theory==
+{{Main|Ultimate fate of the universe}}
+Before observations of [[dark energy]], cosmologists considered two scenarios for the future of the Universe. If the mass [[density]] of the Universe were greater than the [[critical density]], then the Universe would reach a maximum size and then begin to collapse. It would become denser and hotter again, ending with a state that was similar to that in which it started—a [[Big Crunch]].<ref name="kolb_c3">Kolb and Turner, 1988, chapter 3</ref> Alternatively, if the density in the Universe were equal to or below the critical density, the expansion would slow down, but never stop. Star formation would cease as all the interstellar gas in each galaxy is consumed; stars would burn out leaving [[white dwarf]]s, [[neutron star]]s, and [[black hole]]s. Very gradually, collisions between these would result in mass accumulating into larger and larger black holes. The average temperature of the Universe would asymptotically approach [[absolute zero]]—a [[Big Freeze]]. Moreover, if the proton were [[proton decay|unstable]], then baryonic matter would disappear, leaving only radiation and black holes. Eventually, black holes would evaporate by emitting [[Hawking radiation]]. The [[entropy]] of the Universe would increase to the point where no organized form of energy could be extracted from it, a scenario known as [[heat death]].
+
+Modern observations of [[accelerating universe|accelerated expansion]] imply that more and more of the currently visible Universe will pass beyond our [[event horizon]] and out of contact with us. The eventual result is not known. The [[Lambda-CDM model|ΛCDM model]] of the Universe contains [[dark energy]] in the form of a [[cosmological constant]]. This theory suggests that only gravitationally bound systems, such as galaxies, would remain together, and they too would be subject to [[heat death]], as the Universe expands and cools. Other explanations of dark energy—so-called [[phantom energy]] theories—suggest that ultimately [[galaxy groups and clusters|galaxy clusters]], stars, planets, atoms, nuclei and matter itself will be torn apart by the ever-increasing expansion in a so-called [[Big Rip]].<ref>
+{{cite journal
+ |last=Caldwell |first=R.R
+ |last2=Kamionkowski |first2=M.
+ |last3=Weinberg |first3=N. N.
+ |year=2003
+ |title=Phantom Energy and Cosmic Doomsday
+ |journal=[[Physical Review Letters]]
+ |volume=91 |issue=7 | pages=071301
+ |arxiv=astro-ph/0302506
+ |doi=10.1103/PhysRevLett.91.071301
+ |pmid=12935004
+ |ref=harv |bibcode=2003PhRvL..91g1301C
+}}</ref>
+
+==Speculative physics beyond Big Bang theory==
+[[File:CMB Timeline300 no WMAP.jpg|right|350px|thumb|This is an artist's concept of the Universe expansion, where space (including hypothetical non-observable portions of the Universe) is represented at each time by the circular sections. Note on the left the dramatic expansion (not to scale) occurring in the inflationary epoch, and at the center the expansion acceleration. The scheme is decorated with [[Wilkinson Microwave Anisotropy Probe|WMAP]] images on the left and with the representation of stars at the appropriate level of development.]]
+
+While the Big Bang model is well established in cosmology, it is likely to be refined in the future. Little is known about the earliest moments of the Universe's history. The [[Penrose–Hawking singularity theorems]] require the existence of a [[gravitational singularity|singularity]] at the beginning of cosmic time. However, these theorems assume that [[general relativity]] is correct, but general relativity must break down before the Universe reaches the [[Planck temperature]], and a correct treatment of [[quantum gravity]] may avoid the singularity.<ref>
+{{cite book
+ |last=Hawking |first=S.W.
+ |last2=Ellis |first2=G.F.R.
+ |year=1973
+ |title=The Large Scale Structure of Space-Time
+ |location=Cambridge (UK)
+ |publisher=[[Cambridge University Press]]
+ |isbn=0-521-09906-4
+}}</ref>
+
+Some proposals, each of which entails untested hypotheses, are:
+* models including the [[Hartle–Hawking state|Hartle–Hawking no-boundary condition]] in which the whole of space-time is finite; the Big Bang does represent the limit of time, but without the need for a singularity.<ref>
+{{cite journal
+ |last=Hartle |first=J.H.
+ |last2=Hawking |first2=S.
+ |year=1983
+ |title=Wave Function of the Universe
+ |doi=10.1103/PhysRevD.28.2960
+ |journal=[[Physical Review D]]
+ |volume=28 |issue=12 | pages=2960
+ |ref=harv
+|bibcode = 1983PhRvD..28.2960H }}</ref>
+* Big Bang lattice model <ref>
+{{cite web
+ |last=Bird |first=Paul
+ |year=2011
+ |url=http://www.awesomeanimator.com/bigbangstatevector.pdf
+ |title=Determining the Big Bang State Vector
+}}
+</ref> states that the Universe at the moment of the Big Bang consists of an infinite lattice of [[fermions]] which is smeared over the [[fundamental domain]] so it has both rotational, translational and gauge symmetry. The symmetry is the largest symmetry possible and hence the lowest entropy of any state.
+
+* [[brane cosmology]] models<ref>
+{{cite arxiv
+ |last=Langlois |first=D.
+ |year=2002
+ |title=Brane Cosmology: An Introduction
+ |class=hep-th
+ |eprint=hep-th/0209261
+ |ref=harv
+}}</ref> in which inflation is due to the movement of branes in [[string theory]]; the pre-Big Bang model; the [[ekpyrotic]] model, in which the Big Bang is the result of a collision between branes; and the [[cyclic model]], a variant of the ekpyrotic model in which collisions occur periodically. In the latter model, the Big Bang was preceded by a [[Big Crunch]] and the Universe endlessly cycles from one process to the other.<ref>
+{{cite arxiv
+ |last=Linde |first=A.
+ |year=2002
+ |title=Inflationary Theory versus Ekpyrotic/Cyclic Scenario
+ |class=hep-th
+ |eprint=hep-th/0205259
+ |ref=harv
+ }}</ref><ref name="rebirth">
+{{cite news
+ |last=Than |first=K.
+ |year=2006
+ |title=Recycled Universe: Theory Could Solve Cosmic Mystery
+ |url=http://www.space.com/scienceastronomy/060508_mm_cyclic_universe.html
+ |publisher=[[Space.com]]
+ |accessdate=2007-07-03
+}}</ref><ref name="rebirth2">
+{{cite web
+ |last=Kennedy |first=B.K.
+ |year=2007
+ |url=http://www.science.psu.edu/alert/Bojowald6-2007.htm
+ |title=What Happened Before the Big Bang?
+ |accessdate=2007-07-03
+ |archiveurl = http://web.archive.org/web/20070704150957/http://www.science.psu.edu/alert/Bojowald6-2007.htm <!-- Bot retrieved archive -->
+ |archivedate = 2007-07-04
+}}</ref>
+* [[chaotic inflation]], in which universal inflation ends locally here and there in a random fashion, each end-point leading to a ''bubble universe'' expanding from its own big bang.<ref>
+{{cite journal
+ |last=Linde |first=A.
+ |year=1986
+ |title=Eternal Chaotic Inflation
+ |journal=[[Modern Physics Letters A]]
+ |volume=1 |page=81
+ |ref=harv
+|bibcode = 1986MPLA....1...81L |doi = 10.1142/S0217732386000129 }}</ref><ref>
+{{cite journal
+ |last=Linde |first=A.
+ |year=1986
+ |title=Eternally Existing Self-Reproducing Chaotic Inflationary Universe
+ |journal=[[Physics Letters B]]
+ |volume=175 |issue=4 |pages=395–400
+ |doi=10.1016/0370-2693(86)90611-8
+ |ref=harv
+|bibcode = 1986PhLB..175..395L }}</ref><ref>
+{{cite journal
+ |last=Khoury1 |first=J.
+ |coauthors=''et al.''
+ |year=2002
+ |title=From big crunch to big bang
+ |journal=[[Physical Review D]]
+ |volume=65 |issue=8 |pages=086007
+ |doi=10.1103/PhysRevD.65.086007
+ |ref=harv
+|arxiv = hep-th/0108187 |bibcode = 2002PhRvD..65h6007K }}</ref>
+
+Proposals in the last two categories see the Big Bang as an event in a much larger and older Universe, or [[multiverse]], and not the literal beginning.
+
+==Religious interpretations==
+{{Main|Religious interpretations of the Big Bang theory}}
+The Big Bang is a [[scientific theory]], and as such is dependent on its agreement with observations. But as a theory which addresses the origins of reality, it has always carried theological and philosophical implications, most notably, the concept of creation ''[[ex nihilo]]'' (a Latin phrase meaning "out of nothing").<ref name="Russell - Theological Implications">
+{{cite book
+ |last=Russell |first=R.J.
+ |year=2008
+ |title =Cosmology: From Alpha to Omega
+ |url=http://books.google.com/?id=IvlKa6frm2EC&pg=PA40&dq=rejected+God+Fred+Hoyle+big+bang#v=onepage&q=rejected%20God%20Fred%20Hoyle%20big%20bang&f=false
+ |publisher=[[Fortress Press]]
+ |isbn=9780800662738
+ |quote=Amazingly, some secularists attribute to t=0 a direct implication. The June 1978 issue of the ''New York Times'' contained an article by NASA's Robert Jastrow, an avowed agnostic, entitled "Found God?" Here Jastrow depicts the theologians to be "delighted" that astronomical evidence "leads to a biblical view of Genesis." Though claiming to be agnostic, he argued without reservation for the religious significance of t=0: It is beyond science and leads to some sort of creator.
+}}</ref><ref name="Corey - Theological Implications">
+{{cite book
+ |last=Corey |first=M.
+ |year=1993
+ |title =God and the New Cosmology
+ |url=http://books.google.com/?id=M8wYPYrKnHgC&pg=PA246&dq=big+bang+creation+ex+nihilo#v=onepage&q=big%20bang%20creation%20ex%20nihilo&f=false
+ |publisher=[[Rowman & Littlefield]]
+ |isbn=9780847678020
+ |quote=Indeed, creation ''ex nihilo'' is a fundamental tenet of orthodox Christian theology. Incredibly enough, modern theoretical physicists have also speculated that the universe may have been produced through a sudden quantum appearance "out of nothing." Physicist Paul Davies has claimed that the particular physicis involved in the Big Bang ''necessitates'' creation ''ex nihilo''.
+}}</ref><ref name="Lerner - Theological Implications">
+{{cite book
+ |last=Lerner |first=E.J.
+ |year=1992
+ |title =The Big Bang Never Happened: A Startling Refutation of the Dominant Theory of the Origin of the Universe
+ |url=http://books.google.com/?id=IwNVDMOgQRQC&pg=PT469&dq=case+for+a+creator+big+bang#v=onepage&q=case%20for%20a%20creator%20big%20bang&f=false
+ |publisher=[[Vintage Books]]
+ |isbn=9780679740490
+ |quote=From theologians to physicists to novelists, it is widely believed that the Big Bang theory supports Christian concepts of a creator. In February of 1989, for example, the front-page article of the ''New York Times Book Review'' argued that scientists and novelists were returning to God, in large part through the influence of the Big Bang.
+}}</ref><ref name="Manson - Theological Implications">
+{{cite book
+ |last=Manson |first=N.A.
+ |year=1993
+ |title=God and Design: The Teleological Argument and Modern Science
+ |url=http://books.google.com/?id=zCx4rICgN_EC&pg=PA277&dq=theological+implications+big+bang#v=onepage&q=theological%20implications%20big%20bang&f=false
+ |publisher=[[Routledge]]
+ |quote=The Big Bang theory strikes many people as having theological implications, as shown by those who do not welcome those implications.
+ |isbn=9780415263443
+}}</ref><ref name="Davis - Theological Implications">
+{{cite book
+ |last=Davis |first=J.J.
+ |year=2002
+ |title=The Frontiers of Science & Faith
+ |url=http://books.google.com/?id=BorKXu51luYC&pg=PA26&dq=theological+implications+big+bang#v=onepage&q=theological%20implications%20big%20bang&f=false
+ |publisher=[[InterVarsity Press]]
+ |quote=Genesis' concept of a singular, ''ex nihilo'' beginning of the universe essentially stands alone among the cosmolgies of the ancient world and exhibts, at this point, convergence with recent big bang cosmological models.
+ |isbn=9780830826643
+}}</ref> In the 1920s and 1930s almost every major cosmologist preferred an eternal [[Steady state theory|steady state]] Universe, and several complained that the beginning of time implied by the Big Bang imported religious concepts into physics; this objection was later repeated by supporters of the [[steady state theory]].<ref>
+{{cite book
+ |last=Kragh |first=H.
+ |year=1996
+ |title=Cosmology and Controversy
+ |publisher=[[Princeton University Press]]
+ |location=Princeton (NJ)
+ |isbn=0-691-02623-8
+}}</ref> This perception was enhanced by the fact that the originator of the Big Bang theory, Monsignor [[Georges Lemaître]], was a [[Roman Catholic]] [[Priest#Catholicism_and_Eastern_Orthodoxy|priest]].<ref>[http://www.pbs.org/wgbh/aso/databank/entries/dp27bi.html People and Discoveries: Big Bang Theory], www.pbs.org</ref> [[Pope Pius XII]] declared, at the November 22, 1951 opening meeting of the [[Pontifical Academy of Sciences]], that the Big Bang theory accorded with the Catholic concept of creation.<ref>
+{{cite book
+ |last=Ferris|first=T.
+ |year=1988
+ |title=Coming of age in the Milky Way
+ |url=http://books.google.com/?id=a8nuAAAAMAAJ
+ |publisher=[[Morrow]]
+ |pages=274, 438
+ |isbn=978-0-688-05889-0
+ |ref=harv
+}}, citing {{cite book
+ |last=Berger |first=A.
+ |year=1984
+ |title=The Big bang and Georges Lemaître: proceedings of a symposium in honour of G. Lemaître fifty years after his initiation of big-bang cosmology, Louvainla-Neuve, Belgium, 10–13 October 1983
+ |url=http://books.google.com/?id=eYHvAAAAMAAJ
+ |page=387
+ |publisher=[[D. Reidel]]
+ |isbn=978-90-277-1848-8
+}}</ref> [[Evangelicalism|Conservative Protestant]] [[Christian denominations]] have also welcomed the Big Bang theory as supporting a historical interpretation of the doctrine of [[Creationism|creation]].<ref name="Russell - Protestant">
+{{cite book
+ |last=Russell |first=R.J.
+ |year=2008
+ |title=Cosmology: From Alpha to Omega
+ |url=http://books.google.com/?id=IvlKa6frm2EC&pg=PA40&dq=rejected+God+Fred+Hoyle+big+bang#v=onepage&q=rejected%20God%20Fred%20Hoyle%20big%20bang&f=false
+ |publisher=[[Fortress Press]]
+ |quote=Conservative Protestant circles have also welcomed Big Bang cosmology as supporting a historical interpretation of the doctrine of creation.
+ |isbn=9780800662738
+}}</ref>
+
+Since the acceptance of the Big Bang as the dominant physical cosmological paradigm, there have been a variety of reactions by religious groups as to its [[Religious interpretations of the Big Bang theory|implications]] for their respective [[religious cosmology|religious cosmologies]]. Some accept the scientific evidence at face value, while others seek to reconcile the Big Bang with their religious tenets, and others completely reject or ignore the evidence for the Big Bang theory.<ref>
+{{cite web
+ |last=Wright |first=E.L
+ |date=24 May 2009
+ |title=Cosmology and Religion
+ |url=http://www.astro.ucla.edu/~wright/cosmo-religion.html
+ |work=Ned Wright's Cosmology Tutorial
+ |accessdate=2009-10-15}}
+</ref><!--
+
+Please do not add quotes from religious texts in this article,
+the main article treating religious views on the Big Bang is
+[[religious interpretations of the Big Bang theory]].
+
+-->
+
+==Notes==
+<div class="references-small">
+<references group="notes"/>
+</div>
+
+==References==
+{{reflist|2}}
+
+===Books===
+* {{cite book
+ | last1 = Kolb | first1 = E.
+ | last2 = Turner | first2 = M.
+ | year = 1988
+ | title = The Early Universe
+ | publisher = [[Addison–Wesley]]
+ | isbn = 0-201-11604-9
+ }}
+* {{cite book
+ | last=Peacock | first=J.
+ | year=1999
+ | title=Cosmological Physics
+ | publisher=[[Cambridge University Press]]
+ | isbn=0-521-42270-1
+}}
+
+==Further reading==
+:''For an annotated list of textbooks and monographs, see [[physical cosmology#Textbooks|physical cosmology]].''
+<div class="references-small">
+* {{cite book
+ | last=Barrow | first=J.D.
+ | year=1994
+ | title=The Origin of the Universe: To the Edge of Space and Time
+ | publisher=Phoenix
+ | location=New York
+ |isbn=0-465-05354-8
+}}
+* {{cite journal
+ | last=Alpher | first=R.A.
+ | last2=Herman | first2=R.
+ | year=1988
+ | title=Reflections on early work on 'big bang' cosmology
+ | journal=[[Physics Today]]
+ | volume=8 | pages=24–34
+ | doi=
+ | ref = harv}}
+* {{cite book
+ | last=Mather | first=J.C.
+ | last2=Boslough |first2=J.
+ | year=1996
+ | title=The very first light: the true inside story of the scientific journey back to the dawn of the Universe
+ | page=300
+ | publisher=[[Basic Books]]
+ | isbn=0-465-01575-1
+}}
+* {{cite book
+ | last=Singh | first=S.
+ | year=2004
+ | title=[[Big Bang (book)|''Big Bang: The origins of the universe'']]
+ | publisher=[[Fourth Estate]]
+ | isbn=0-00-716220-0
+}}
+* {{cite book
+ | first = P.C.W. | last = Davies
+ | year = 1992
+ | title = [[The Mind of God|''The Mind of God: The scientific basis for a rational world'']]
+ | publisher = [[Simon & Schuster]]
+ | isbn = 0-671-71069-9
+}}
+* {{cite web
+ | title=Cosmic Journey: A History of Scientific Cosmology
+ | url=http://www.aip.org/history/cosmology/index.htm
+ | publisher=[[American Institute of Physics]]
+}}
+* {{cite web
+ | last=Feuerbacher | first=B.
+ | last2=Scranton |first2=R.
+ | year=2006
+ | url=http://www.talkorigins.org/faqs/astronomy/bigbang.html
+ | title=Evidence for the Big Bang
+ | work=[[TalkOrigins]]
+}}
+* {{cite web
+ | last= | first=
+ | month=March | year=2005
+ | title=Misconceptions about the Big Bang
+ | url=http://www.sciam.com/article.cfm?chanID=sa006&articleID=0009F0CA-C523-1213-852383414B7F0147
+ | publisher=[[Scientific American]]
+}}
+* {{cite web
+ | last= |first=
+ | month=May | year=2006
+ | title=The First Few Microseconds
+ | url=http://www.sciam.com/article.cfm?chanID=sa006&articleID=0009A312-037F-1448-837F83414B7F014D
+ | publisher=[[Scientific American]]
+}}
+* {{cite arxiv
+ | last=Roos |first=M.
+ | year=2008
+ | title=Expansion of the Universe – Standard Big Bang Model
+ | class=
+ | eprint=0802.2005
+}}
+</div>
+
+==External links==
+* {{dmoz|Science/Astronomy/Cosmology/|Cosmology}}
+* [http://www.scientificblogging.com/hammock_physicist/big_bang_big_bewilderment Big bang model with animated graphics]
+* [http://www.talkorigins.org/faqs/astronomy/bigbang.html Evidence for the Big Bang]
+
+{{Big Bang timeline}}
+{{featured article}}
+
+[[Category:Physical cosmology]]
+[[Category:Astrophysics theories]]
+[[Category:Big Bang|*Main]]
+[[Category:Universe]]
+
+{{Link GA|de}}
+{{Link GA|et}}
+{{Link GA|zh-classical}}
+{{Link FA|bg}}
+{{Link FA|ca}}
+{{Link FA|es}}
+{{Link FA|fi}}
+{{Link FA|sk}}
+{{Link FA|th}}
+{{Link FA|zh}}
+[[af:Oerknal]]
+[[als:Urknall]]
+[[ar:الانفجار العظيم]]
+[[an:Big Bang]]
+[[ast:Teoría del Big Bang]]
+[[az:Böyük partlayış]]
+[[bn:মহা বিস্ফোরণ তত্ত্ব]]
+[[zh-min-nan:Toā-phek-le̍k]]
+[[be:Вялікі выбух]]
+[[be-x-old:Вялікі выбух]]
+[[bar:Urknoi]]
+[[bs:Veliki prasak]]
+[[br:Big Bang]]
+[[bg:Теория на Големия взрив]]
+[[ca:Big Bang]]
+[[cv:Пысăк сирпĕнӳ]]
+[[cs:Velký třesk]]
+[[cy:Damcaniaeth y Glec Fawr]]
+[[da:Big Bang]]
+[[de:Urknall]]
+[[et:Suur Pauk]]
+[[el:Μεγάλη έκρηξη]]
+[[es:Teoría del Big Bang]]
+[[eo:Praeksplodo]]
+[[eu:Big Bang]]
+[[fa:مه‌بانگ]]
+[[hif:Mahaa dhamaka]]
+[[fr:Big Bang]]
+[[fy:Oerknal]]
+[[ga:Ollphléasc]]
+[[gl:Big Bang]]
+[[ko:빅뱅]]
+[[hy:Մեծ Պայթյուն]]
+[[hi:बिग बैंग सिद्धांत]]
+[[hr:Veliki prasak]]
+[[id:Ledakan Dahsyat]]
+[[ia:Big Bang]]
+[[is:Miklihvellur]]
+[[it:Big Bang]]
+[[he:המפץ הגדול]]
+[[jv:Big Bang]]
+[[ka:დიდი აფეთქების თეორია]]
+[[ht:Teyori big-bang]]
+[[krc:Уллу атылыу]]
+[[la:Fragor Maximus]]
+[[lv:Lielais sprādziens]]
+[[lb:Urknall]]
+[[lt:Didysis sprogimas]]
+[[hu:Ősrobbanás]]
+[[mk:Големата експлозија]]
+[[ml:മഹാവിസ്ഫോടനം]]
+[[mr:महास्फोट]]
+[[arz:بيج بانج]]
+[[ms:Letupan Besar]]
+[[mwl:Big Bang]]
+[[mn:Их Тэсрэлт]]
+[[nl:Oerknal]]
+[[new:बिग ब्याङ्ग]]
+[[ja:ビッグバン]]
+[[no:Big Bang]]
+[[nn:Big Bang]]
+[[nrm:Grand Pataflias]]
+[[oc:Big Bang]]
+[[pnb:بگ بینگ]]
+[[nds:Oorknall]]
+[[pl:Wielki Wybuch]]
+[[pt:Big Bang]]
+[[ro:Big Bang]]
+[[qu:Hatun t'uqyay]]
+[[rue:Бінґ Бенґ]]
+[[ru:Большой взрыв]]
+[[se:Álgobávkkeheapmi]]
+[[sq:Big Bang]]
+[[scn:Big Bang]]
+[[si:මහා පිපිරුම]]
+[[simple:Big Bang]]
+[[sk:Veľký tresk]]
+[[sl:Prapok]]
+[[sr:Велики прасак]]
+[[sh:Veliki prasak]]
+[[su:Big Bang]]
+[[fi:Alkuräjähdys]]
+[[sv:Big Bang]]
+[[tl:Malaking Pagsabog]]
+[[ta:பெரு வெடிப்புக் கோட்பாடு]]
+[[te:మహా విస్ఫోటం]]
+[[th:บิกแบง]]
+[[tr:Büyük Patlama]]
+[[tk:Uly partlama]]
+[[uk:Великий вибух]]
+[[ur:انفجار عظیم]]
+[[vec:Big Bang]]
+[[vi:Vụ Nổ Lớn]]
+[[fiu-vro:Maru Mats]]
+[[zh-classical:大霹靂]]
+[[war:Dako nga Pagbuto]]
+[[yi:ביג בענג]]
+[[zh-yue:宇宙大爆炸]]
+[[bat-smg:Dėdlīsės spruogėms]]
+[[zh:大爆炸]]

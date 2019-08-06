@@ -1,0 +1,113 @@
+{| class="toccolours" style="margin-left: 1em; float: right; border: 1px solid #CCC;"
+|+ ''' Polydeuces'''
+|-
+! colspan="2" | [[Image:Polydeuces.jpg|Saturn's moon Polydeuces]]<br/><small></small>
+Saturn's moon Polydeuces.
+|-
+! bgcolor="#a0ffa0" colspan="2" | Discovery
+|-
+! align="left" | Discovered by
+| [http://ciclops.org/team/iss_team.php Cassini Imaging Science Team]
+|-
+! align="left" | Discovered on
+| 24 October, 2004
+|-
+! bgcolor="#a0ffa0" colspan="2" | [[Orbit]]al characteristics 
+|-
+! align="left" | mean [[Semimajor axis]]
+| 377,396&nbsp;km<ref name="Dione">The ''mean'' semi-major axis and period must be identical to [[Dione (moon)|Dione's]].</ref>  <!--- Computed from period using the http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html µ value --->
+|-
+! align="left" | [[Eccentricity (orbit)|Eccentricity]]
+| 0.0192<ref name="Spitale06">{{cite journal | author= Spitale, J. N.| coauthors= Jacobson, R. A.; [[Carolyn C. Porco|Porco, C. C.]]; and Owen, W. M., Jr.| title= ''The orbits of Saturn's small satellites derived from combined historic and ''Cassini'' imaging observations''| journal= The Astronomical Journal| year= 2006| volume= 132| issue=2 | pages= 692| url= http://www.iop.org/EJ/article/1538-3881/132/2/692/205235.html | doi= 10.1086/505206 }}</ref>
+|-
+! align="left" | [[Orbital period]]
+| 2.736915 d<ref name="Dione"/>
+|-
+! align="left" | [[Inclination]]
+| 0.1774 ± 0.0015°<ref name="Spitale06"/>
+|-
+! align="left" | Is a [[natural satellite|satellite]] of
+| [[Saturn]]
+|-
+! bgcolor="#a0ffa0" colspan="2" | Physical characteristics
+|-
+! align="left" | Mean [[diameter]]
+| 3.5&nbsp;km<ref name=Porco>Porco, C. C.; ''et al.''; [http://www.sciencemag.org/cgi/content/short/307/5713/1226 ''Cassini Imaging Science: Initial Results on Saturn's Rings and Small Satellites''], Science, Vol. 307, No. 5713 (February 25, 2005), pp. 1226-1236</ref>
+|-
+! align="left" | [[Mass]]
+|  1 − 5 {{e|13}} [[kilogram|kg]] <ref name="density">based on density 0.5 − 2 g/cm³</ref>
+|-
+! align="left" | Mean [[density]]
+| unknown
+|-
+! align="left" | Surface [[gravity]]
+| unknown
+|-
+! align="left" | [[Sidereal day|Rotation period]]
+| [[synchronous rotation|assumed synchronous]]
+|-
+! align="left" | [[Axial tilt]]
+| unknown
+|-
+! align="left" | [[Albedo]]
+| unknown
+|-
+! align="left" | Surface [[temperature]]
+| align="center" |
+{| cellspacing="0" cellpadding="2" border="0"
+|-
+! min !! mean !! max
+|-
+| 
+| 
+| 
+|}
+|-
+! align="left" | [[celestial body's atmosphere|Atmosphere]]
+| none
+|}
+'''Polydeuces''' ({{pronEng|ˌpɒlɨˈdjuːsiːz}} {{respell|POL|i|DEW|seez}}, or as Greek ''Πολυδεύκης)'' is a very small [[natural satellite]] of [[Saturn]] that is co-orbital with [[Dione (moon)|Dione]] and librates around the trailing [[Lagrangian point]] ({{L5}}). Its diameter is estimated to be about 3.5&nbsp;km.<ref name=Porco/>
+
+Polydeuces was discovered by the [http://ciclops.org/team/iss_team.php Cassini Imaging Team] on October 24, 2004<ref name="Murray05">{{cite journal | author= Murray, C. D.; ''et al.''| title= ''S/2004 S 5: A new co-orbital companion for Dione''| journal= Icarus| year= 2005| volume= 179| pages= 222| doi= 10.1016/j.icarus.2005.06.009}}</ref> in images taken on October 21, 2004<sup>,</sup><ref>[http://cfa-www.harvard.edu/iauc/08400/08432.html C.C. Porco, et al., IAUC 8432: ''Satellites and Rings of Saturn''] November 8, 2004 (discovery)</ref><sup>,</sup><ref name=Porco>Porco, C. C.; ''et al.'' (2005), [http://www.sciencemag.org/cgi/content/short/307/5713/1226 ''Cassini Imaging Science: Initial Results on Saturn's Rings and Small Satellites''], Science, Vol. 307, No. 5713, pp. 1226-1236</ref> and given the temporary designation '''S/2004&nbsp;S&nbsp;5'''. Subsequent searches of earlier Cassini imaging showed it in images as far back as April 9, 2004<ref name="Murray05"/>. Polydeuces is also designated as '''Saturn&nbsp;XXXIV'''.
+
+Of the known Lagrangian co-orbitals in the Saturn system, Polydeuces wanders the farthest from its Lagrangian point. The [[libration]] takes it away from the {{L5}} by up to 31.4° in the direction away from Dione, and 26.1° towards it with a period of 790.931 days (for comparison {{L5}} trails Dione by 60°).<ref name="Spitale06"/> Polydeuces' libration is large enough that it takes on some qualities of a [[tadpole orbit]], as evidenced by the clear asymmetry between excursions towards and away from Dione. In the course of one such cycle, Polydeuces' orbital radius also varies by about ± 7660&nbsp;km with respect to Dione's.<ref name="Murray05"/>
+
+The name Polydeuces was approved by the IAU Working Group on Planetary System Nomenclature on January 21, 2005.<ref>[http://cfa-www.harvard.edu/iauc/08400/08471.html IAUC 8471: ''Satellites of Saturn''] January 21, 2005 (naming the moon)</ref> In [[Greek mythology]], [[Castor and Polydeuces|Polydeuces]] is another name for Pollux, twin brother of [[Castor and Polydeuces|Castor]], son of [[Zeus]] and [[Leda (mythology)|Leda]].
+
+==References==
+<div class="references-small">
+<!--Uses Cite.php-->
+<references/>
+</div>
+
+==External links==
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Polydeuces Polydeuces Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.iau.org/ IAU] [http://planetarynames.wr.usgs.gov/ Working Group on Planetary System Nomenclature]
+* [http://spaceflightnow.com/cassini/050224science.html Cassini news release on ring and moon discoveries, via Spaceflight Now] (February 24, 2005)
+
+{{Moons of Saturn|state=uncollapsed}}
+
+{{DEFAULTSORT:Polydeuces (Moon)}}
+[[Category:Moons of Saturn]]
+
+[[bg:Полидевк (спътник)]]
+[[ca:Pòl·lux (satèl·lit)]]
+[[da:Polydeuces (måne)]]
+[[de:Polydeuces (Mond)]]
+[[el:Πολυδεύκης (δορυφόρος)]]
+[[es:Pollux (satélite)]]
+[[eo:Polukso (luno)]]
+[[fr:Pollux (lune)]]
+[[hr:Polideuk (mjesec)]]
+[[it:Polluce (satellite)]]
+[[nl:Polydeuces (maan)]]
+[[ja:ポリデウケス (衛星)]]
+[[pl:Polideukes (księżyc)]]
+[[ru:Полидевк (спутник)]]
+[[simple:Polydeuces (moon)]]
+[[sk:Polydeuces (mesiac)]]
+[[sl:Polidevk (luna)]]
+[[fi:Polydeuces (kuu)]]
+[[sv:Polydeuces]]
+[[uk:Полідевк (супутник)]]
+[[zh:土卫三十四]]

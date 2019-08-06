@@ -1,0 +1,164 @@
+<root><template><title>refimprove</title><part><name>date</name><equals>=</equals><value>February 2011</value></part></template>
+'''IBM WebSphere MQ' '' is a family of [[computer network|network]]  software products launched by [[IBM]] in March 1992.  It was previously known as '''MQSeries''', a [[trademark]] that IBM rebranded in 2002 to join the suite of [[IBM WebSphere|WebSphere]] products. WebSphere MQ, which is often referred to simply as &quot;MQ&quot; by users, is IBM's [[Message-oriented middleware|Message Oriented Middleware]] offering. It allows independent and potentially non-concurrent applications on a [[distributed computing|distributed system]] to communicate with each other.  MQ is available on a large number of platforms (both IBM and non-IBM), including [[z/OS]] ([[Mainframe computer|mainframe]]), [[OS/400]] ([[IBM System i|IBM System i or AS/400]]), [[Transaction Processing Facility]], [[UNIX]] ([[IBM AIX|AIX]], [[HP-UX]], [[Solaris (operating system)|Solaris]]), HP [[NonStop]], [[OpenVMS]], [[Linux]], [[Unisys_OS_2200_operating_system|OS 2200]], and [[Microsoft Windows]].
+
+<h level="2" i="1">== Message-oriented middleware ==</h>
+<template lineStart="1"><title>Main</title><part><name index="1"/><value>Message-oriented middleware</value></part></template>
+WebSphere MQ, a member of the [[IBM WebSphere|WebSphere]] family from [[IBM]], was the most popular<ext><name>ref</name><attr/><inner>Typically reported as ~40% market share http://www.capitalware.biz/forecast_AI_market.html</inner><close>&lt;/ref&gt;</close></ext> system for messaging across multiple platforms in 2000, including Windows, Linux, OS/2, IBM mainframe and midrange, and Unix. WebSphere MQ is often referred to as &quot;MQ&quot; or &quot;MQ Series&quot;.
+
+There are two parts to message [[Queue (data structure)|queue]] (hence &quot;MQ&quot;):
+* Messages are collections of [[binary file|binary]] or character (for instance [[ASCII]] or [[EBCDIC]]) data that have some meaning to a participating program.  As in other [[communications protocol]]s, storage, routing, and delivery information is added to the message before transmission and stripped from the message prior to delivery to the receiving application.
+* Message queues are objects that store messages in an application. 
+
+A queue Manager, although not strictly required for message-oriented middleware, is a Websphere MQ prerequisite and system service that provides a logical container for the message queue and is responsible for transferring data to other queue managers via message channels.
+
+There are several advantages to this technology:
+* Messages do not depend on pure [[Packet (information technology)|packet]]-based transmissions, such as [[TCP/IP]]. This allows the sending and receiving ends to be decoupled and potentially operate asynchronously.
+* Messages will be delivered once and once only, irrespective of errors and network problems.
+
+<h level="2" i="2">==Support of Service Oriented Architecture==</h>
+WebSphere MQ is a key component in IBM's [[Service-oriented architecture|service-oriented architecture (SOA)]] strategy providing the universal messaging backbone across 80 different platforms. The growing importance of SOA and the growth of [[Web Services]] and other connectivity mechanisms are clearly important developments. Because of the loosely coupled nature of the message queueing model, a large number of existing MQ customers feel that they are already adopting SOA principles. The MQ Service definition support pack MA93<ext><name>ref</name><attr/><inner>{{cite web | url = http://www-01.ibm.com/support/docview.wss?uid=swg24017518 | title = MA93: WebSphere MQ - Service Definition
+ | accessdate = 2011-09-09}}</inner><close>&lt;/ref&gt;</close></ext> allows MQ applications to be catalogued as software assets which can then be reused and composed as [[Web Services]].
+
+MQ also supports [[Enterprise Service Bus]] implementations, both proprietary and open source.  For example, the [[Mule (software)|Mule WMQ transport]] is available with [[Mule (software)|Mule Enterprise Edition]] version 1.6 or later and, as of 2.2, contains many critical performance and reliability improvements as well as native support for WebSphere MQ-specific features.
+
+<h level="2" i="3">==APIs==</h>
+There are many ways to access WebSphere MQ facilities.  
+
+Some of the APIs directly supported by IBM are:
+*IBM Message Queue Interface (MQI) for [[C (programming language)|C]], [[COBOL]], [[PL/I]], [[Java (programming language)|Java]], [[IBM_RPG|RPG]], and [[C++]]
+*[[Java Message Service]]
+*XMS for C/C++ and .NET<ext><name>ref</name><attr/><inner>{{cite web | url = http://www-128.ibm.com/developerworks/websphere/library/techarticles/0509_phillips/0509_phillips.html | title = Introducing XMS -- The IBM Message Service API | accessdate = 2007-12-06}}</inner><close>&lt;/ref&gt;</close></ext>
+*.NET
+*[[REST|Representational State Transfer]]
+*SOAP
+
+Additional APIs (not officially supported) are also available via third-parties, for example:
+*[[Perl]] interface (developed and contributed by Hildo Biersma), available from [[CPAN]].<ext><name>ref</name><attr/><inner>[http://search.cpan.org/~hbiersma/MQSeries/MQSeries.pm MQSeries - Perl extension for MQSeries support - search.cpan.org&lt;!-- Bot generated title --&gt;]</inner><close>&lt;/ref&gt;</close></ext>
+*[[Python (programming language)]] interface ''PyMQI'' (originally developed by Les Smithson), available from [[PyPI]]<ext><name>ref</name><attr/><inner>[http://packages.python.org/pymqi/ PyMQI Documentation]</inner><close>&lt;/ref&gt;</close></ext>
+*[[Windows PowerShell]]<ext><name>ref</name><attr/><inner>{{cite web | url = http://www-1.ibm.com/support/docview.wss?rs=171&amp;uid=swg24017698 | title = MO74: WebSphere MQ - Windows Powershell Library | accessdate = 2007-12-06}}</inner><close>&lt;/ref&gt;</close></ext>
+
+<h level="2" i="4">==Features==</h>
+WebSphere MQ provides assured one-time delivery of messages across a wide variety of platforms.  The product emphasizes reliability and robustness of message traffic, and ensures that a message should never be lost if MQ is appropriately configured.
+
+It needs to be remembered that a message in the context of MQ has no implication other than a gathering of data. MQ is very generalized and can be used as a robust substitute for many forms of intercommunication. For example, it can be used to implement reliable delivery of large files as a substitute for [[FTP]].
+
+MQ provides [[Middleware analyst|application designers]] with a mechanism to achieve non-time-dependent architecture.  Messages can be sent from one application to another, regardless of whether the applications are running at the same time.  If a message receiver application is not running when a sender sends it a message, the queue manager will hold the message until the receiver asks for it.  Ordering of all messages is preserved, by default this is in [[FIFO]] order of receipt at the local queue within priority of the message.
+
+It provides a means for transforming data between different architectures and protocols, such as [[Endianness#Big-endian|Big Endian]] to [[Endianness#Little-endian|Little Endian]], or [[EBCDIC]] to [[ASCII]].  This is accomplished through the use of message data &quot;exits&quot;.  Exits are compiled applications which run on the queue manager host, and are executed by the WebSphere MQ software at the time data transformation is needed.
+
+WebSphere MQ allows receipt of messages to &quot;trigger&quot; other applications to run, and thus provides the framework for a message driven architecture.
+
+It implements the [[Java Message Service]] standard API, and also has its own proprietary API, known as the Message Queuing Interface.
+
+Unlike email, MQ itself is responsible for determining the destination of messages by the definition of queues, so processing of sent messages can be moved to a different application at a different destination. MQ provides a robust routing architecture, allowing messages to be routed via alternative paths around a network of MQ managers. MQ can be implemented as a cluster, where multiple MQ implementations share the processing of messages to allow higher performance and load balancing.'''
+
+<h level="2" i="5">==Communication==</h>
+The primary component of a ''WebSphere MQ installation'' is the Queue Manager.  The queue manager handles storage, timing issues, triggering, and all other functions not directly related to actual movement of data.
+
+Queue managers communicate with the outside world either via a direct software connection, referred to by IBM as a &quot;bindings&quot; connection, or via a network or &quot;client&quot; connection.  The bindings connection is limited to programs running on the same physical host as the queue manager, whereas applications using a client connection can connect to a queue manager on any other host in the network.
+
+Bindings connections are generally faster, but client connections allow for a more robust, easily-changeable application design.  For instance, with a client connection, the physical location of the queue manager is irrelevant, as long as it is reachable over the network.
+
+Communication between queue managers relies on a channel.  Each queue manager uses one or more channels to send and receive data to other queue managers. A channel is uni-directional; a second channel is required to return data. In a TCP/IP based network, a channel will send or receive data on a specific port. A sending channel has a defined destination and is associated with a specific transmission queue, the mechanism by which messages are queued awaiting transmission on the channel; a receiving channel will receive data from any other queue manager with a sending channel of the same name. When a receiving channel receives a message, it is examined to see which queue manager and queue it is destined for. In the event of a communications failure, MQ can automatically re-establish a connection when the problem is resolved.
+
+The &quot;listener&quot; has the function of detecting connections from incoming channels and manage the connection of the sending to the receiving channels.  It is the application's network interface to the queue manager.  In a TCP/IP network, the listener will &quot;listen&quot; for connections on a specific port.
+
+Local queues represent the location in which data is stored awaiting processing. 
+
+Remote queues represent a queue on another queue manager. They define the destination queue, which is one element of the routing mechanism for messages.
+
+To transmit data to a queue on another queue manager, a message is placed on a remote queue. A remote queue is sent via the temporary storage transmission queue associated with a channel. On placing a message on a remote queue, the message will be transmitted across the remote channel. If the transmission is successful the message is removed from the transmit queue. On receiving a message, the receiving queue manager will examine the message to determine whether the message is for itself or is required to forward on to another queue manager. If it is the destination, the required queue will be checked, and if it exists, the message will be placed on this queue, if not, placed on the dead letter queue. MQ has features to manage efficient transmission of data across a variety of communication mediums, so for example messages can be batched together until a queue reaches a particular depth.
+
+Although the queue is FIFO, it is ordered based on the receipt in the local queue, not the committing of the message from the sender. Messages can be prioritized, and by default, the queue is prioritized in order of arrival. Queues will only be in sequence of addition if the message is added locally. Message grouping can be used to ensure a set of messages are in a specific order, aside from that, if sequence is critical, it is the application's responsibility to place sequence data in the message or implement a handshaking mechanism via a return queue. In reality, ordering will be maintained in straightforward configurations.
+
+The other element of a queue manager is the log, the mechanism used to create the robustness. As a message is placed on a queue or a configuration change is made, the data is also logged. In the event of a failure, the log is used to recreate damaged objects and recreate messages. Only &quot;persistent&quot; messages will be recreated when a failure occurs—&quot;non-persistent&quot; messages are lost. Non-persistent messages can be sent across a channel set to a fast mode, in which delivery is not assured in the event of a channel failure.
+
+MQ is designed to support a wide variety of approaches to application development. Information can be retrieved from queues either by polling the queue to check for available data at suitable intervals, or alternatively MQ can trigger an event, allowing a client application to respond to the delivery of a message.
+
+<h level="2" i="6">==History==</h>
+<h level="3" i="7">===Version Release Dates===</h>
+MQM MVS/ESA V1.1 GA (MVS)- December 31, 1993 &lt;/br&gt;
+ezBridge Transact for MQSeries - March, Sept, Nov, Dec 1993 
+(different platforms)  &lt;/br&gt;
+MQM/400 V2.3 - Feb/April 1994  &lt;/br&gt;
+MQSeries for MVS 1.1.2 - June 1994  &lt;/br&gt;
+ezBridge Transact for MQSeries 3.0 - July 1994  &lt;/br&gt;
+MQM/400 V3 - 4Q 1994  &lt;/br&gt;
+MQSeries 2.0 (OS/2, AIX) - Feb 1995 (the beginning of the end of 
+ezBridge)  &lt;/br&gt;
+MQSeries for MVS 1.1.3 - May 1995  &lt;/br&gt; 
+MQSeries 2.2 (HP, SCO) - 4Q 1995  &lt;/br&gt;
+MQSeries 2.0 Windows NT - 2Q 1996  &lt;/br&gt;
+MQSeries 2.2 (Sun OS/Solaris, DC/OSx) - June, July 1996  &lt;/br&gt;
+MQSeries for MVS 1.1.4, - June 1996  &lt;/br&gt;
+MQSeries for MVS/ESA 1.2 - August 1997  &lt;/br&gt;
+MQSeries 5.0 - October 1997  &lt;/br&gt; 
+MQSeries for AS/400 V4.2 - Feb 1998  &lt;/br&gt;
+MQSeries 5.1 - April (NT), June 1999  &lt;/br&gt;
+MQSeries for OS/390 V2.1 - Feb 1999  &lt;/br&gt;
+MQSeries for AS/400 V5.1 - July/Aug 2000  &lt;/br&gt;
+MQSeries for OS/390 V5.2 - Nov 2000  &lt;/br&gt;
+MQSeries 5.2 (Distributed) - Dec 2000  &lt;/br&gt;
+WebSphere MQ 5.3 (Distributed, iSeries) - June, July, Oct, Nov 2002  &lt;/br&gt; 
+WebSphere MQ 5.3 z/OS - June 2002  &lt;/br&gt;
+WebSphere MQ 6.0 (Distributed, iSeries) - May 2005  &lt;/br&gt;
+WebSphere MQ 6.0 z/OS - June 2005  &lt;/br&gt;
+WebSphere MQ 7.0 (Distributed, iSeries) - May 2008  &lt;/br&gt;
+WebSphere MQ 7.0 z/OS - June 2008  &lt;/br&gt;
+
+<h level="3" i="8">===Background Architectural Reference===</h>
+Developed in [[Scotland]], [[Telecommunications Access Method]] (TCAM) came along in 1971 with the birth of TSO. It supported asynchronous messaging, as with MQ. [[Telecommunications Access Method|TCAM]] 3.0 added in reusable disk message queues for recovery soon thereafter, as with MQ. A high-level PL/I program could be used to access TRANSIENT datasets (dynamic message queues). Reading a message from a transient dataset resulted in that message being removed from the queue, as with a non-browse READ with MQ. With the advent of computers, IBM saw an opportunity to apply new technology to the need for message switching. In the early 1960s, IBM marketed computer-like devices, such as the 7740 and 7750 message switching systems.
+ 
+The IBM System/360 was announced in April 1964 and with it came communication access methods such as BTAM and QTAM (Basic and Queued Telecommunications Access Methods). In the late 1960s, TCAM, the Telecommunications Access Method, offered its users a more advanced form of message switching or message routing. TCAM was widely accepted, especially in the financial and brokerage industries.
+
+In the late 1960s, transaction management systems came into being, each trying to achieve a leadership position in the industry. Within IBM, [[CICS]] and IMS were chosen as strategic products to address the need for transaction management. Within both CICS and IMS, each had its version of message switching, IMS being a front-end queued system and CICS having its Transient Data facility as the possible basis for message switching.[citation??]
+ 
+[[CICS]] established itself as a popular transaction management system in the 1968-1971 timeframe. Those users who had adopted TCAM for its message handling capabilities, now wanted a combined use of TCAM with CICS. In December 1971, IBM announced CICS support of TCAM as part of the CICS/OS-Standard product, to be delivered in December 1972. For interested customers, this enabled them to use TCAM for its message handling strengths and also have TCAM-connected terminals or computers interface with CICS online applications.[citation??]
+ 
+In January 1973, TCAM continued to be supported by CICS/OS-Standard Version 2.3. However, TCAM support was omitted from the initial release of CICS/VS, announced in February 1973 and delivered in June 1974. Needless to say, many CICS-TCAM customers were not happy with that product direction.
+ 
+With considerable pressure from CICS-TCAM customers, the CICS support of TCAM was reinstated in the CICS/VS 1.1 product, as of September 1974. In addition to the previous DCB support, with this reinstatement of TCAM support, CICS began to support TCAM access via VTAM, also known as the ACB support. CICS TCAM ACB support was discontinued as of the CICS/ESA Version 3 product in 1990.
+ 
+In 1992, IBM announced a new product called MQSeries. This brand name was later renamed to &quot;WebSphere MQ&quot; (sometimes shortened to WMQ) in 2002 to support the WebSphere family name and the product. MQ was to be the extension of TCAM functionality from IBM-only systems to all other platforms. MQ has an architecture which enables heterogeneous systems to communicate with each other (e.g. IBM, HP, Sun, Tandem, etc). MQ can be used with CICS systems to send and receive data to/from any other MQ-eligible system. MQ can be used to initiate work in a CICS system or a CICS transaction can initiate work in another CICS or non-CICS system.
+ 
+WebSphere MQ now supports 80 different environments and has become the leading message switching/routing product in the industry.
+
+<h level="2" i="9">==MQ and Web services==</h>
+WebSphere MQ can be used as a foundation for creating [[Service-oriented architecture|Service Oriented Architectures]]. Several additional product options exist to help convert legacy programs into functioning [[Web service]]s through the use of MQ. Larger, heterogeneous enterprises often appear as a federation of somewhat autonomous domains based on lines of business, functional or governance areas. In such environments, some services may be shared or reused only within a single domain, while others may be shared or reused throughout the enterprise. WebSphere MQ provides the means by which communication exists between lines-of-business or otherwise separate business domains.
+ 
+A related product in the WebSphere MQ product family called [[IBM WebSphere Message Broker|WebSphere Message Broker]] enables a diverse and robust set of extensions to queue-based architectures. Using [[IBM WebSphere Message Broker|Message Broker]], one can implement a WebServices front-end, complete with [[Web Services Description Language|WSDL]] file support which can interact with any queue-based application.
+
+<h level="2" i="10">==See also==</h>
+* [[Advanced Message Queuing Protocol]]
+* [[Amazon Simple Queue Service]]
+* [[IBM WebSphere Message Broker]]
+* [[Java Message Service]]
+* [[Message queue]]
+* [[Microsoft Message Queuing]]
+
+<h level="2" i="11">==References==</h>
+<template lineStart="1"><title>Reflist</title></template>
+
+<h level="2" i="12">==External links==</h>
+<template lineStart="1"><title>Spoken Wikipedia</title><part><name index="1"/><value>En-IBM_WebSphere_MQ.ogg</value></part><part><name index="2"/><value>2010-12-10</value></part></template>
+*[http://www-306.ibm.com/software/integration/wsesb/about/?S_CMP=wspace IBM's Product Overview]
+* [http://www-306.ibm.com/software/integration/wmq/ Product page]
+* [http://twitter.com/IBM_WMQ/ WebSphere MQ Official Twitter page]
+* [ftp://ftp.software.ibm.com/software/integration/wmq/WS_MQ_Messaging_Backbone_for_SOA.pdf Introductory Whitepaper]
+* [http://www14.software.ibm.com/webapp/download/product.jsp?s=p&amp;id=TDUN-49EVER&amp;q=trial Trial code]
+* [http://www.redbooks.ibm.com/abstracts/sg247128.html IBM Redbook: WebSphere MQ V6 Fundamentals]
+* [http://www-1.ibm.com/support/docview.wss?rs=493&amp;q1=websphere&amp;uid=swg27001107&amp;loc=en_US&amp;cs=utf-8&amp;lang=en+en WebSphere MQ newsgroups]
+* [http://pyfourmond.free.fr/MQSeries_5.3.htm MQSeries Installation, Configuring inetd, xinet, Using JMSAdmin (In French)]
+* [http://www-1.ibm.com/support/docview.wss?uid=swg24006868 MQConnect for Unisys MCP]
+* [http://www.tinet.org/~sag/mq.htm MQ commands]
+* [http://www.ibm.com/developerworks/websphere/zones/businessintegration/wmq.html IBM Developerworks starting point]
+
+[[Category:Message-oriented middleware]]
+[[Category:IBM WebSphere|MQ]]
+
+[[de:MQSeries]]
+[[fr:WebSphere MQ]]
+[[ja:WebSphere MQ]]
+[[ru:IBM WebSphere MQ]]
+[[pl:IBM WebSphere MQ]]
+[[pt:WebSphere MQ]]</root>

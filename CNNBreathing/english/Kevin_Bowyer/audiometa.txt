@@ -1,0 +1,15 @@
+== Summary ==
+{{Spoken article entry
+|title= Kevin Bowyer
+|time= 10:15
+|user_name= ColouredPencils
+|date= 2012-09-08
+|link_to_recorded_version= http://en.wikipedia.org/w/index.php?title=Kevin_Bowyer&oldid=511323030
+|accent= U.S. Midwest Asian
+}}
+== Licensing: ==
+{{cc-by-sa-3.0}} <!-- This is the license tag.  Please leave the license selector blank.  
+Your recording is a derivative work that must be released under the same license as the Wikipedia article you read.-->
+== Licensing ==
+{{cc-by-sa-3.0}}
+{{Copy to Wikimedia Commons|bot=ContinuityBot}}

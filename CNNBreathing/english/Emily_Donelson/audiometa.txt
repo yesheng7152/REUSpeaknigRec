@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Spoken Version of Emily Donelson Wikipedia Article on 21 May 2013}}
+|date=2013-05-21 07:51:01
+|source={{own}}
+|author=[[User:Matthewdgonzalez|Matthew David Gonzalez]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Spoken Wikipedia - English]]

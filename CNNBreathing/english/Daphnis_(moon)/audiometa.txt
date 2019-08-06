@@ -1,0 +1,43 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = 
+|Date           = {{original upload date|2010-01-17}}
+|Source         = {{own}} 
+|Author         = 
+|Permission     = 
+|Other_versions = 
+}}
+
+{{Spoken article
+|title=Daphnis (moon)
+|time=2:21
+|user_name=Mangst
+|date=2010-01-16
+|oldid=335533888
+|accent=American English
+}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|migration= not-eligible}}
+
+== {{Original upload log}} ==
+
+{{transferred from|en.wikipedia||[[:en:WP:FTCG|FtCG]]}} {{original description page|en.wikipedia|Daphnis_(moon).ogg}}
+
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 01:32, 17 January 2010 || 1387391 bytes || {{uv|Mangst|w:en:}} || ''<nowiki>({{Spoken article
+|title=Daphnis (moon)
+|time=2:21
+|user_name=Mangst
+|date=2010-01-16
+|oldid=335533888
+|accent=American English
+}}
+== Licensing: ==
+{{GFDL-with-disc)</nowiki>''
+|}
+
+{{Check categories|year=2015|month=December|day=28}}
+[[Category:Daphnis (moon)]]
